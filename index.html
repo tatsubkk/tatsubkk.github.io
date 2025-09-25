@@ -1,18 +1,118 @@
 <!DOCTYPE html>
 <html lang="ja">
 <head>
-  <meta charset="UTF-8">
-  <title>しがない大学生のサイト</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Project Hub | siganai-daigakusei</title>
+  <meta name="description" content="複数の個人プロジェクトへの入口ハブ。" />
+  <link rel="stylesheet" href="style.css" />
 </head>
 <body>
-  <h1>邦楽 Youtube再生回数ランキング [毎日更新]</h1>
-  <p>このサイトでは、邦楽のYoutube再生回数ランキングを毎日自動更新しています。</p>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="/">
+        <span class="brand__logo">sd</span>
+        <span class="brand__name">siganai-daigakusei</span>
+      </a>
+      <nav class="nav">
+        <a class="nav__link" href="#projects">Projects</a>
+        <a class="nav__link" href="#about">About</a>
+      </nav>
+    </div>
+  </header>
 
-  <div class="entrycontent">
-    <div class="entrycontent_title">今日のランキング</div>
-    <div class="entrycontent_date">2025.09.23</div>
-    <div class="entrycontent_explain">最新の邦楽ランキングはこちら</div>
-    <div class="entrycontent_headmenu">rankings</div>
-  </div>
+  <section class="hero hero--compact">
+    <div class="container hero__inner">
+      <h1 class="hero__title">Project Hub</h1>
+      <p class="hero__lead">このページは“入口”。ここから各サイトへどうぞ。</p>
+    </div>
+    <div class="hero__bg" aria-hidden="true"></div>
+  </section>
+
+  <main class="container main" id="projects">
+    <section class="section">
+      <div class="section__head">
+        <h2 class="section__title">Projects</h2>
+        <p class="section__meta">必要に応じて増減OK／静的リンクのみ</p>
+      </div>
+
+      <!-- ▼ カードをコピペして増やすだけ ▼ -->
+      <div class="grid">
+        <article class="card">
+          <div class="card__badge">MUSIC</div>
+          <h3 class="card__title">邦楽 YouTube ランキング</h3>
+          <p class="card__text">毎日自動更新のデイリー/週間チャート。</p>
+          <div class="card__actions">
+            <a class="btn btn--primary" href="/music-rank/" aria-label="開く">Open</a>
+            <a class="btn btn--ghost" href="/music-rank/daily/" aria-label="デイリー">Daily</a>
+            <a class="btn btn--ghost" href="/music-rank/weekly/" aria-label="週間">Weekly</a>
+          </div>
+        </article>
+
+        <article class="card">
+          <div class="card__badge">BLOG</div>
+          <h3 class="card__title">雑記ブログ</h3>
+          <p class="card__text">技術メモや日記をゆるく更新。</p>
+          <div class="card__actions">
+            <a class="btn btn--primary" href="/blog/" aria-label="開く">Open</a>
+          </div>
+        </article>
+
+        <article class="card">
+          <div class="card__badge">DATA</div>
+          <h3 class="card__title">統計スナップ</h3>
+          <p class="card__text">pandas/NumPyで作る静的可視化の置き場。</p>
+          <div class="card__actions">
+            <a class="btn btn--primary" href="/stats/" aria-label="開く">Open</a>
+          </div>
+        </article>
+
+        <article class="card">
+          <div class="card__badge">LAB</div>
+          <h3 class="card__title">実験室</h3>
+          <p class="card__text">WIPな検証やUIサンプルの砂場。</p>
+          <div class="card__actions">
+            <a class="btn btn--primary" href="/lab/" aria-label="開く">Open</a>
+          </div>
+        </article>
+
+        <!-- 外部サイト例（別ドメイン/サブドメインでもOK） -->
+        <article class="card">
+          <div class="card__badge">EXT</div>
+          <h3 class="card__title">GitHub</h3>
+          <p class="card__text">コードはここ。公開/非公開いろいろ。</p>
+          <div class="card__actions">
+            <a class="btn btn--primary" href="https://github.com/username" target="_blank" rel="noopener">Open</a>
+          </div>
+        </article>
+      </div>
+      <!-- ▲ ここまでコピペで増やす ▲ -->
+    </section>
+
+    <section id="about" class="section section--split">
+      <div>
+        <h2 class="section__title">About</h2>
+        <p>このハブは「1ドメインに集約して各サイトへ案内」するための静的ポータル。  
+          各プロジェクトはサブパス（/music-rank/ など）や別ドメイン/サブドメインに配置できます。</p>
+      </div>
+      <div class="about-box">
+        <dl class="meta-list">
+          <div><dt>運用</dt><dd>GitHub Pages（静的）</dd></div>
+          <div><dt>更新</dt><dd>手動 or Actionsで自動</dd></div>
+          <div><dt>広告</dt><dd>必要なら各下層で設置</dd></div>
+        </dl>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="container footer-inner">
+      <small>© 2025 siganai-daigakusei</small>
+      <nav class="footer-nav">
+        <a href="/privacy.html">Privacy</a>
+        <a href="/terms.html">Terms</a>
+      </nav>
+    </div>
+  </footer>
 </body>
 </html>
