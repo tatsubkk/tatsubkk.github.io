@@ -8,7 +8,7 @@
 }
 
 /* 横幅が十分広いときだけ横並びにする */
-@media (min-width: 1000px) {
+@media (min-width: 800px) {
     .layout {
       grid-template-columns: 1fr 250px; /* 左：メイン、右：メニュー */
     }
