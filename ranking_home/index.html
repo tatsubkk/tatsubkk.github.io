@@ -76,7 +76,7 @@
 
     <aside class="sidenav" aria-label="サイドメニュー">
       <form class="search" role="search" action="search/" method="get">
-          <input name="q" type="search" placeholder="キーワードで探す（例：邦楽 2025 / イヤホン）" autocomplete="off" />
+          <input name="q" type="search" placeholder="キーワードで探す" autocomplete="off" />
           <button class="btn btn--primary" type="submit">検索</button>
       </form>
       <div class="sidenav__section">
@@ -100,6 +100,10 @@
   <div id="backdrop" class="backdrop" hidden></div>
   <nav id="drawer" class="drawer" aria-label="モバイルメニュー" aria-hidden="true">
     <button class="drawer__close" aria-label="メニューを閉じる">×</button>
+    <form class="search" role="search" action="search/" method="get">
+          <input name="q" type="search" placeholder="キーワードで探す" autocomplete="off" />
+          <button class="btn btn--primary" type="submit">検索</button>
+    </form>
     <div class="drawer__section">
       <h2>カテゴリ</h2>
       <a href="rankings/youtube/">YouTube 音楽</a>
