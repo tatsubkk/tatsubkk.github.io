@@ -41,3 +41,15 @@
 @media (min-width:1024px){
   .backdrop, .drawer{display:none} /* ワイド時はドロワー不要 */
 }
+
+/* ===== 検索フォーム ===== */
+.search{display:flex;gap:.6rem;flex-wrap:wrap}
+.search input{flex:1 1 320px;min-width:220px;padding:.7rem .9rem;border:1px solid var(--line);border-radius:10px}
+.btn{padding:.7rem 1rem;border-radius:10px;border:1px solid var(--line);background:#fff}
+.btn--primary{background:var(--accent);border-color:var(--accent);color:#fff}
+.btn--primary:hover{opacity:.95}
+
+/* ===== フッター ===== */
+.footer{margin:24px 0 8px;display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between;align-items:center;color:#555}
+.footer__nav{display:flex;gap:.8rem;flex-wrap:wrap}
+.footer__nav a{color:#555} .footer__nav a:hover{color:var(--accent)}
