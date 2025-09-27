@@ -1,0 +1,153 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>なんでもランキング | ホーム</title>
+  <meta name="description" content="YouTube音楽からアニメ、ガジェット、旅行まで。ぜんぶ比較して見つける『なんでもランキング』のポータル。">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- 指定のヘッダー：そのまま使用 -->
+  <header id="hdr" class="hdr">
+    <div class="inner">
+      <a class="brand" href="#">
+        <span class="logo" aria-hidden="true"></span>
+        <span class="title">なんでもランキング</span>
+      </a>
+    </div>
+  </header>
+
+  <!-- ヒーロー -->
+  <section class="hero" aria-labelledby="hero-title">
+    <div class="container">
+      <h1 id="hero-title">ぜんぶ比べて、最短で決める。</h1>
+      <p class="hero__lead">毎日更新の人気ランキングを横断検索。YouTube、アニメ、書籍、ガジェット、旅行スポット…欲しい答えだけ。</p>
+
+      <form class="search" role="search" aria-label="ランキング検索" action="search/index.html" method="get">
+        <input class="search__input" type="search" name="q" placeholder="キーワードで探す（例：邦楽 2025 / 旅行 バンコク）" autocomplete="off" />
+        <button class="btn btn--primary" type="submit" aria-label="検索">検索</button>
+      </form>
+
+      <div class="quick-links" aria-label="クイックアクセス">
+        <a class="chip" href="rankings/youtube/">YouTube 音楽</a>
+        <a class="chip" href="rankings/anime/">アニメ</a>
+        <a class="chip" href="rankings/books/">書籍</a>
+        <a class="chip" href="rankings/gadgets/">ガジェット</a>
+        <a class="chip" href="rankings/travel/">旅行</a>
+        <a class="chip" href="rankings/games/">ゲーム</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- 特集グリッド -->
+  <main class="container">
+    <section aria-labelledby="feat-title" class="section">
+      <div class="section__head">
+        <h2 id="feat-title">注目のランキング</h2>
+        <a class="link" href="rankings/">すべて見る →</a>
+      </div>
+
+      <div class="grid">
+        <!-- カードは必要に応じて増やしてOK -->
+        <article class="card">
+          <a class="card__link" href="rankings/youtube/">
+            <div class="card__thumb" aria-hidden="true"></div>
+            <div class="card__body">
+              <h3 class="card__title">YouTube 邦楽 トレンド</h3>
+              <p class="card__desc">毎日更新｜上位100曲を50件ずつ表示。視聴回数・伸び率で並べ替え。</p>
+              <div class="card__meta">
+                <span class="badge">音楽</span>
+                <time datetime="2025-09-27">更新：今日</time>
+              </div>
+            </div>
+          </a>
+        </article>
+
+        <article class="card">
+          <a class="card__link" href="rankings/anime/">
+            <div class="card__thumb card__thumb--anime" aria-hidden="true"></div>
+            <div class="card__body">
+              <h3 class="card__title">今期アニメ 話題度</h3>
+              <p class="card__desc">SNS言及×配信人気の複合スコア。曜日別の視聴導線つき。</p>
+              <div class="card__meta">
+                <span class="badge">アニメ</span>
+                <span>週次更新</span>
+              </div>
+            </div>
+          </a>
+        </article>
+
+        <article class="card">
+          <a class="card__link" href="rankings/gadgets/">
+            <div class="card__thumb card__thumb--gadget" aria-hidden="true"></div>
+            <div class="card__body">
+              <h3 class="card__title">ガジェット 売れ筋</h3>
+              <p class="card__desc">レビュー評価×価格推移で偏差値化。買い時アラート予定。</p>
+              <div class="card__meta">
+                <span class="badge">ガジェット</span>
+                <span>β</span>
+              </div>
+            </div>
+          </a>
+        </article>
+
+        <article class="card">
+          <a class="card__link" href="rankings/travel/">
+            <div class="card__thumb card__thumb--travel" aria-hidden="true"></div>
+            <div class="card__body">
+              <h3 class="card__title">旅行スポット 人気度</h3>
+              <p class="card__desc">混雑度×写真映え×コスパで総合スコア。</p>
+              <div class="card__meta">
+                <span class="badge">旅行</span>
+                <span>月次更新</span>
+              </div>
+            </div>
+          </a>
+        </article>
+      </div>
+    </section>
+
+    <!-- 最新更新 -->
+    <section aria-labelledby="latest-title" class="section">
+      <div class="section__head">
+        <h2 id="latest-title">最新更新</h2>
+        <a class="link" href="updates/">更新履歴 →</a>
+      </div>
+      <ul class="list">
+        <li><a href="rankings/youtube/">YouTube邦楽：データ更新（上位100→200に拡張）</a> <time datetime="2025-09-27">09/27</time></li>
+        <li><a href="rankings/gadgets/">ガジェット：価格推移チャート追加</a> <time datetime="2025-09-26">09/26</time></li>
+        <li><a href="rankings/anime/">アニメ：今期タイトルの初速指標更新</a> <time datetime="2025-09-25">09/25</time></li>
+      </ul>
+    </section>
+  </main>
+
+  <!-- CTA -->
+  <section class="cta" aria-labelledby="cta-title">
+    <div class="container">
+      <h2 id="cta-title">自分のランキングも公開してみる？</h2>
+      <p>CSVやJSONから読み込んで、50件ページング付きの一覧を即生成。</p>
+      <div class="cta__actions">
+        <a class="btn btn--primary" href="tools/create.html">新しいランキングを作る</a>
+        <a class="btn" href="docs/">使い方を読む</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- フッター -->
+  <footer class="footer">
+    <div class="container footer__grid">
+      <small>© 2025 なんでもランキング</small>
+      <nav class="footer__nav" aria-label="フッターナビ">
+        <a href="about/">このサイトについて</a>
+        <a href="privacy/">プライバシー</a>
+        <a href="terms/">利用規約</a>
+        <a href="contact/">お問い合わせ</a>
+      </nav>
+    </div>
+  </footer>
+
+</body>
+</html>
