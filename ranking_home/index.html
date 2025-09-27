@@ -8,7 +8,7 @@
 </head>
 <body>
 
-  <!-- そのまま使ってと言ってたヘッダー -->
+  <!-- ヘッダー：ブランド＋ハンバーガー -->
   <header id="hdr" class="hdr">
     <div class="inner">
       <a class="brand" href="/">
@@ -16,49 +16,28 @@
         <span class="title">なんでもランキング</span>
       </a>
 
-      <!-- モバイル用トグル（広い幅では非表示） -->
-      <button class="nav-toggle" aria-controls="topnav" aria-expanded="false">メニュー</button>
+      <!-- ハンバーガー（モバイル表示。ワイド時はCSSで非表示） -->
+      <button class="nav-toggle"
+              aria-controls="drawer"
+              aria-expanded="false"
+              aria-label="メニューを開く"
+              title="メニュー">
+        <span class="bar" aria-hidden="true"></span>
+        <span class="bar" aria-hidden="true"></span>
+        <span class="bar" aria-hidden="true"></span>
+      </button>
     </div>
-
-    <!-- 狭い幅時に表示される上部ナビ（横幅広い時は非表示） -->
-    <nav id="topnav" class="topnav" aria-label="主要カテゴリ">
-      <a href="rankings/youtube/">YouTube 音楽</a>
-      <a href="rankings/anime/">アニメ</a>
-      <a href="rankings/books/">書籍</a>
-      <a href="rankings/gadgets/">ガジェット</a>
-      <a href="rankings/travel/">旅行</a>
-      <a href="rankings/games/">ゲーム</a>
-    </nav>
   </header>
 
-  <!-- レイアウト：広い幅で左サイドバー＋右コンテンツ -->
+  <!-- レイアウト：メイン＋（ワイド時）右サイドバー -->
   <div class="layout">
-    <aside class="sidenav" aria-label="サイドメニュー">
-      <div class="sidenav__section">
-        <h2>カテゴリ</h2>
-        <a href="rankings/youtube/">YouTube 音楽</a>
-        <a href="rankings/anime/">アニメ</a>
-        <a href="rankings/books/">書籍</a>
-        <a href="rankings/gadgets/">ガジェット</a>
-        <a href="rankings/travel/">旅行</a>
-        <a href="rankings/games/">ゲーム</a>
-      </div>
-
-      <div class="sidenav__section">
-        <h2>ツール</h2>
-        <a href="tools/create.html">ランキング作成</a>
-        <a href="updates/">更新履歴</a>
-        <a href="docs/">使い方</a>
-      </div>
-    </aside>
-
     <main class="content">
       <section class="hero" aria-labelledby="hero-title">
         <h1 id="hero-title">ぜんぶ比べて、最短で決める。</h1>
         <p class="lead">YouTube、アニメ、書籍、ガジェット、旅行…横断ランキングをサクッと検索。</p>
 
         <form class="search" role="search" action="search/" method="get">
-          <input name="q" type="search" placeholder="キーワードで探す（例：邦楽 2025 / ガジェット イヤホン）" autocomplete="off" />
+          <input name="q" type="search" placeholder="キーワードで探す（例：邦楽 2025 / イヤホン）" autocomplete="off" />
           <button class="btn btn--primary" type="submit">検索</button>
         </form>
       </section>
@@ -76,25 +55,16 @@
               <p class="card__desc">毎日更新。上位200曲を50件ページング表示、伸び率ソートあり。</p>
             </a>
           </article>
-
           <article class="card">
             <a class="card__link" href="rankings/anime/">
               <h3 class="card__title">今期アニメ 話題度</h3>
               <p class="card__desc">SNS×配信の複合スコア。曜日別の視聴導線付き。</p>
             </a>
           </article>
-
           <article class="card">
             <a class="card__link" href="rankings/gadgets/">
               <h3 class="card__title">ガジェット 売れ筋</h3>
               <p class="card__desc">レビュー×価格推移で評価。買い時シグナル予定。</p>
-            </a>
-          </article>
-
-          <article class="card">
-            <a class="card__link" href="rankings/travel/">
-              <h3 class="card__title">旅行スポット 人気度</h3>
-              <p class="card__desc">混雑度×映え×コスパで総合指標。</p>
             </a>
           </article>
         </div>
@@ -122,18 +92,73 @@
         </nav>
       </footer>
     </main>
+
+    <!-- 右サイドバー（ワイド時に表示。狭い時はドロワーで代用） -->
+    <aside class="sidenav" aria-label="サイドメニュー">
+      <div class="sidenav__section">
+        <h2>カテゴリ</h2>
+        <a href="rankings/youtube/">YouTube 音楽</a>
+        <a href="rankings/anime/">アニメ</a>
+        <a href="rankings/books/">書籍</a>
+        <a href="rankings/gadgets/">ガジェット</a>
+        <a href="rankings/travel/">旅行</a>
+        <a href="rankings/games/">ゲーム</a>
+      </div>
+      <div class="sidenav__section">
+        <h2>ツール</h2>
+        <a href="tools/create.html">ランキング作成</a>
+        <a href="updates/">更新履歴</a>
+        <a href="docs/">使い方</a>
+      </div>
+    </aside>
   </div>
 
+  <!-- モバイル用：右から出るドロワー＆半透明の背景 -->
+  <div id="backdrop" class="backdrop" hidden></div>
+  <nav id="drawer" class="drawer" aria-label="モバイルメニュー" aria-hidden="true">
+    <button class="drawer__close" aria-label="メニューを閉じる">×</button>
+    <div class="drawer__section">
+      <h2>カテゴリ</h2>
+      <a href="rankings/youtube/">YouTube 音楽</a>
+      <a href="rankings/anime/">アニメ</a>
+      <a href="rankings/books/">書籍</a>
+      <a href="rankings/gadgets/">ガジェット</a>
+      <a href="rankings/travel/">旅行</a>
+      <a href="rankings/games/">ゲーム</a>
+    </div>
+    <div class="drawer__section">
+      <h2>ツール</h2>
+      <a href="tools/create.html">ランキング作成</a>
+      <a href="updates/">更新履歴</a>
+      <a href="docs/">使い方</a>
+    </div>
+  </nav>
+
   <script>
-    // モバイルでの上部ナビ開閉（広い幅ではCSSで非表示なので実質無効）
-    const btn = document.querySelector('.nav-toggle');
-    const nav = document.getElementById('topnav');
-    if (btn && nav) {
-      btn.addEventListener('click', () => {
-        const open = nav.classList.toggle('open');
-        btn.setAttribute('aria-expanded', open ? 'true' : 'false');
-      }, {passive:true});
+    // ドロワー開閉（モバイル）
+    const toggle = document.querySelector('.nav-toggle');
+    const drawer = document.getElementById('drawer');
+    const backdrop = document.getElementById('backdrop');
+    const closeBtn = document.querySelector('.drawer__close');
+
+    function openDrawer(){
+      drawer.classList.add('open');
+      drawer.setAttribute('aria-hidden','false');
+      toggle.setAttribute('aria-expanded','true');
+      backdrop.hidden = false;
+      document.body.style.overflow = 'hidden';
     }
+    function closeDrawer(){
+      drawer.classList.remove('open');
+      drawer.setAttribute('aria-hidden','true');
+      toggle.setAttribute('aria-expanded','false');
+      backdrop.hidden = true;
+      document.body.style.overflow = '';
+    }
+    toggle.addEventListener('click', openDrawer, {passive:true});
+    backdrop.addEventListener('click', closeDrawer, {passive:true});
+    closeBtn.addEventListener('click', closeDrawer, {passive:true});
+    window.addEventListener('keydown', (e)=>{ if(e.key==='Escape') closeDrawer(); });
   </script>
 </body>
 </html>
