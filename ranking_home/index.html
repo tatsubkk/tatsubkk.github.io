@@ -9,7 +9,6 @@
 </head>
 <body>
 
-  <!-- ヘッダー：ブランド＋ハンバーガー -->
   <header id="hdr" class="hdr">
     <div class="inner">
       <a class="brand" href="/">
@@ -17,7 +16,6 @@
         <span class="title">なんでもランキング</span>
       </a>
 
-      <!-- ハンバーガー（モバイル表示。ワイド時はCSSで非表示） -->
       <button class="nav-toggle"
               aria-controls="drawer"
               aria-expanded="false"
@@ -30,17 +28,11 @@
     </div>
   </header>
 
-  <!-- レイアウト：メイン＋（ワイド時）右サイドバー -->
   <div class="layout">
     <main class="content">
       <section class="hero" aria-labelledby="hero-title">
         <h1 id="hero-title">ぜんぶ比べて、最短で決める。</h1>
         <p class="lead">YouTube、アニメ、書籍、ガジェット、旅行…横断ランキングをサクッと検索。</p>
-
-        <form class="search" role="search" action="search/" method="get">
-          <input name="q" type="search" placeholder="キーワードで探す（例：邦楽 2025 / イヤホン）" autocomplete="off" />
-          <button class="btn btn--primary" type="submit">検索</button>
-        </form>
       </section>
 
       <section class="section">
@@ -54,18 +46,6 @@
             <a class="card__link" href="rankings/youtube/">
               <h3 class="card__title">YouTube 邦楽 トレンド</h3>
               <p class="card__desc">毎日更新。上位200曲を50件ページング表示、伸び率ソートあり。</p>
-            </a>
-          </article>
-          <article class="card">
-            <a class="card__link" href="rankings/anime/">
-              <h3 class="card__title">今期アニメ 話題度</h3>
-              <p class="card__desc">SNS×配信の複合スコア。曜日別の視聴導線付き。</p>
-            </a>
-          </article>
-          <article class="card">
-            <a class="card__link" href="rankings/gadgets/">
-              <h3 class="card__title">ガジェット 売れ筋</h3>
-              <p class="card__desc">レビュー×価格推移で評価。買い時シグナル予定。</p>
             </a>
           </article>
         </div>
@@ -94,8 +74,11 @@
       </footer>
     </main>
 
-    <!-- 右サイドバー（ワイド時に表示。狭い時はドロワーで代用） -->
     <aside class="sidenav" aria-label="サイドメニュー">
+      <form class="search" role="search" action="search/" method="get">
+          <input name="q" type="search" placeholder="キーワードで探す（例：邦楽 2025 / イヤホン）" autocomplete="off" />
+          <button class="btn btn--primary" type="submit">検索</button>
+      </form>
       <div class="sidenav__section">
         <h2>カテゴリ</h2>
         <a href="rankings/youtube/">YouTube 音楽</a>
@@ -114,7 +97,6 @@
     </aside>
   </div>
 
-  <!-- モバイル用：右から出るドロワー＆半透明の背景 -->
   <div id="backdrop" class="backdrop" hidden></div>
   <nav id="drawer" class="drawer" aria-label="モバイルメニュー" aria-hidden="true">
     <button class="drawer__close" aria-label="メニューを閉じる">×</button>
