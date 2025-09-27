@@ -23,9 +23,6 @@
   <!-- ヒーロー -->
   <section class="hero" aria-labelledby="hero-title">
     <div class="container">
-      <h1 id="hero-title">ぜんぶ比べて、最短で決める。</h1>
-      <p class="hero__lead">毎日更新の人気ランキングを横断検索。YouTube、アニメ、書籍、ガジェット、旅行スポット…欲しい答えだけ。</p>
-
       <form class="search" role="search" aria-label="ランキング検索" action="search/index.html" method="get">
         <input class="search__input" type="search" name="q" placeholder="キーワードで探す（例：邦楽 2025 / 旅行 バンコク）" autocomplete="off" />
         <button class="btn btn--primary" type="submit" aria-label="検索">検索</button>
@@ -42,16 +39,13 @@
     </div>
   </section>
 
-  <!-- 特集グリッド -->
   <main class="container">
     <section aria-labelledby="feat-title" class="section">
       <div class="section__head">
-        <h2 id="feat-title">注目のランキング</h2>
-        <a class="link" href="rankings/">すべて見る →</a>
+        <h2 id="feat-title">Youtube[毎日更新]</h2>
       </div>
 
       <div class="grid">
-        <!-- カードは必要に応じて増やしてOK -->
         <article class="card">
           <a class="card__link" href="rankings/youtube/">
             <div class="card__thumb" aria-hidden="true"></div>
@@ -109,8 +103,7 @@
         </article>
       </div>
     </section>
-
-    <!-- 最新更新 -->
+    
     <section aria-labelledby="latest-title" class="section">
       <div class="section__head">
         <h2 id="latest-title">最新更新</h2>
@@ -123,18 +116,6 @@
       </ul>
     </section>
   </main>
-
-  <!-- CTA -->
-  <section class="cta" aria-labelledby="cta-title">
-    <div class="container">
-      <h2 id="cta-title">自分のランキングも公開してみる？</h2>
-      <p>CSVやJSONから読み込んで、50件ページング付きの一覧を即生成。</p>
-      <div class="cta__actions">
-        <a class="btn btn--primary" href="tools/create.html">新しいランキングを作る</a>
-        <a class="btn" href="docs/">使い方を読む</a>
-      </div>
-    </div>
-  </section>
 
   <!-- フッター -->
   <footer class="footer">
