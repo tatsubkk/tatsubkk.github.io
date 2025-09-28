@@ -1,3 +1,0 @@
-.footer{margin:24px 0 8px;display:flex;gap:1rem;flex-wrap:wrap;justify-content:space-between;align-items:center;color:#555}
-.footer__nav{display:flex;gap:.8rem;flex-wrap:wrap}
-.footer__nav a{color:#555} .footer__nav a:hover{color:var(--accent)}
