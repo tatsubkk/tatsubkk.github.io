@@ -3,22 +3,30 @@
     <meta charset='UTF-8'>
     <title></title>
       <link rel="stylesheet" href="/ranking_home/ranking_common/header.css" />
-      <link rel='stylesheet' href='stylesheet/header.css'>
       <link rel='stylesheet' href='stylesheet/entrycontent.css'>
-      <link rel='stylesheet' href='stylesheet/body_layout.css'>
       <link rel='stylesheet' href='stylesheet/body_main.css'>
   </head>
   <body>
     <header id="hdr" class="hdr">
-      <div class="inner">
-        <a class="brand" href="#">
-          <span class="logo" aria-hidden="true"></span>
-          <span class="title">なんでもランキング</span>
-        </a>
-      </div>
-    </header>
+    <div class="inner">
+      <a class="brand" href="/">
+        <span class="logo" aria-hidden="true"></span>
+        <span class="title">なんでもランキング</span>
+      </a>
+
+      <button class="nav-toggle"
+              aria-controls="drawer"
+              aria-expanded="false"
+              aria-label="メニューを開く"
+              title="メニュー">
+        <span class="bar" aria-hidden="true"></span>
+        <span class="bar" aria-hidden="true"></span>
+        <span class="bar" aria-hidden="true"></span>
+      </button>
+    </div>
+  </header>
     <div class="layout">
-      <main class="main">
+      <main class="content">
         <div class="entrycontent">
           <div class="entrycontent_title">
             邦楽 Youtube再生回数ランキング[毎日更新]
@@ -22853,18 +22861,64 @@
             <td colspan='2'><span class='details'>公開日 : 2017-09-28</span><span class='details'>いいね : 13.2万</span><span class='details'>コメント : 0.8万</span></td>
           </tr>
         </table>
-      </main>
-      <aside class="menu">
-        <h2>メニュー</h2>
-        <ul>
-          <li><a href="#">人気</a></li>
-          <li><a href="#">最新</a></li>
-          <li><a href="#">カテゴリー</a></li>
-          <li><a href="#">設定</a></li>
-        </ul>
-      </aside>
     </div>
-    <footer>
-    </footer>
+    <footer class="footer">
+        <small>© 2025 なんでもランキング</small>
+        <nav class="footer__nav" aria-label="フッター">
+          <a href="about/">このサイトについて</a>
+          <a href="privacy/">プライバシー</a>
+          <a href="terms/">利用規約</a>
+          <a href="contact/">お問い合わせ</a>
+        </nav>
+      </footer>
+    </main>
+
+    <aside class="sidenav" aria-label="サイドメニュー">
+      <form class="search" role="search" action="search/" method="get">
+        <input name="q" type="search" placeholder="キーワードで探す" autocomplete="off" />
+        <button class="btn btn--primary" type="submit">検索</button>
+      </form>
+      <div class="sidenav__section">
+        <h2>カテゴリ</h2>
+        <a href="rankings/youtube/">YouTube 音楽</a>
+        <a href="rankings/anime/">アニメ</a>
+        <a href="rankings/books/">書籍</a>
+        <a href="rankings/gadgets/">ガジェット</a>
+        <a href="rankings/travel/">旅行</a>
+        <a href="rankings/games/">ゲーム</a>
+      </div>
+      <div class="sidenav__section">
+        <h2>ツール</h2>
+        <a href="tools/create.html">ランキング作成</a>
+        <a href="updates/">更新履歴</a>
+        <a href="docs/">使い方</a>
+      </div>
+    </aside>
+  </div>
+
+  <div id="backdrop" class="backdrop" hidden></div>
+  <nav id="drawer" class="drawer" aria-label="モバイルメニュー" aria-hidden="true">
+    <button class="drawer__close" aria-label="メニューを閉じる">×</button>
+    <form class="search" role="search" action="search/" method="get">
+      <input name="q" type="search" placeholder="キーワードで探す" autocomplete="off" />
+      <button class="btn btn--primary" type="submit">検索</button>
+    </form>
+    <div class="drawer__section">
+      <h2>カテゴリ</h2>
+      <a href="rankings/youtube/">YouTube 音楽</a>
+      <a href="rankings/anime/">アニメ</a>
+      <a href="rankings/books/">書籍</a>
+      <a href="rankings/gadgets/">ガジェット</a>
+      <a href="rankings/travel/">旅行</a>
+      <a href="rankings/games/">ゲーム</a>
+    </div>
+    <div class="drawer__section">
+      <h2>ツール</h2>
+      <a href="tools/create.html">ランキング作成</a>
+      <a href="updates/">更新履歴</a>
+      <a href="docs/">使い方</a>
+    </div>
+  </nav>
+    <script src="/ranking_home/ranking_common/header.js"></script>
   </body>
 </html>
