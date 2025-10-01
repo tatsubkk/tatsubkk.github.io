@@ -2,9 +2,9 @@
   "total_pages": 30,
   "build": "2025-09-30T06:00:00Z",
   "pager": {
-    "max_numbers": 7,          // 数字ボタンの最大個数（現在含む）。例: 7 → 「1 … 8 9 10 11 12 … 30」
-    "mobile_max_numbers": 3,   // モバイル時の最大個数
-    "show_prev_next": true,    // « ‹ › » を出すか
-    "show_first_last": true    // 最初/最後ボタンを出すか
+    "max_numbers": 7,
+    "mobile_max_numbers": 3,
+    "show_prev_next": true,
+    "show_first_last": true
   }
 }
