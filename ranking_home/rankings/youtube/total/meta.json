@@ -1,6 +1,7 @@
 {
-  "total_pages": 30,
   "date": "2025.10.02",
+  "total_pages": 30,
+  "page_size": 100,
   "pager": {
     "max_numbers": 7,
     "mobile_max_numbers": 3,

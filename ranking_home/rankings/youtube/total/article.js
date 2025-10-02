@@ -1,4 +1,4 @@
-/* ===== jsonの内容ぶち込み ===== */
+/* ===== jsonの内容ぶち込み（） ===== */
 (async () => {
   // 1) キャッシュバスター（日替わりで十分）
   const v = new Date().toISOString().slice(0,10);
@@ -40,3 +40,5 @@
     console.error('bind failed:', err);
   }
 })();
+
+/* ===== jsonの内容ぶち込み（table、pager） ===== */

@@ -1,0 +1,20 @@
+{
+  "rows": [
+    {
+      "rank": 1,
+      "thumb": { "img": "thumbs/vid1.jpg", "alt": "Video 1", "url": "/watch?v=1", "w": 120, "h": 68 },
+      "title": { "text": "Video 1", "url": "/watch?v=1" },
+      "channel": { "text": "My Channel", "url": "/channel/xyz" },
+      "extras": "説明テキストやタグなど",
+      "views": 9837421
+    },
+    {
+      "rank": 2,
+      "thumb": { "img": "thumbs/vid2.jpg", "alt": "Video 2" },
+      "title": { "text": "Video 2", "url": "/watch?v=2" },
+      "channel": { "text": "Other Channel", "url": "/channel/abc" },
+      "extras": ["タグA", "タグB"],
+      "views": 9210034
+    }
+  ]
+}
