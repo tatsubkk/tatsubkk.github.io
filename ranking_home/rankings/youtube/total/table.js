@@ -36,9 +36,13 @@
   document.querySelectorAll('.pager').forEach(el => el.innerHTML = pagerHTML);
 
   // ---- Nページ目のデータを取得 ----
-  const pageUrl = new URL(`tables/table.${p}.json`, document.baseURI); pageUrl.searchParams.set('v', ver);
+  const TABLE_DIR = 'tables/'; // ← ここでフォルダを指定
+  const pageUrl = new URL(`${TABLE_DIR}table.${p}.json`, document.baseURI);
+  pageUrl.searchParams.set('v', ver);
+
   const pageRes = await fetch(pageUrl, {cache:'no-store'});
-  if (!pageRes.ok) throw new Error(`tables/table.${p}.json `+pageRes.status);
+  if (!pageRes.ok) throw new Error(`${pageUrl.pathname} ${pageRes.status}`);
+
   const { rows = [] } = await pageRes.json();
 
   // ---- テーブル描画：thead + 4行レイアウト tbody ----
