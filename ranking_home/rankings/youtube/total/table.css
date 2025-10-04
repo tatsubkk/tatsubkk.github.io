@@ -46,13 +46,10 @@
   padding:4px 10px; margin-left:8px;
   border-radius:999px; background:var(--card,#f9fafb); border:1px solid var(--line,#e5e7eb);
 }
-#data-table .chip.likes{ }
-#data-table .chip.comments{ }
-#data-table .chip.increment{ }
 
 /* Views */
 #data-table td.views-label{ color:var(--muted,#666); }
-#data-table td.views{ text-align:right; font-variant-numeric:tabular-nums; 
+#data-table td.views{ text-align:right; font-variant-numeric:tabular-nums; }
 
 /* Hover */
 #data-table tbody tr:hover{ background:rgba(13,110,253,.06); }
