@@ -75,12 +75,6 @@
   font-weight:600;
 }
 
-/* 長文は2行で省略（タイトル/チャンネル） */
-#data-table td.title, #data-table td.channel{
-  overflow:hidden; display:-webkit-box;
-  -webkit-line-clamp:2; -webkit-box-orient:vertical;
-}
-
 /* 行ホバーで薄くハイライト（お好み） */
 #data-table tbody tr:hover{ background:rgba(13,110,253,.06); }
 
