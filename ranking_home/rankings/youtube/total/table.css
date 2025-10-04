@@ -1,0 +1,93 @@
+/* ===== table base ===== */
+#data-table{
+  width:100%;
+  border-collapse:collapse;
+  margin:16px 0;
+  background:var(--panel,#fff);
+  border:1px solid var(--line,#e5e7eb);
+  border-radius:var(--radius,12px);
+  overflow:hidden;
+}
+#data-table thead th{
+  background:var(--card,#f9fafb);
+  position:sticky; top:0; z-index:1;
+  padding:10px 12px;
+  text-align:left; font-weight:600;
+  border-bottom:1px solid var(--line,#e5e7eb);
+}
+#data-table th, #data-table td{
+  padding:10px 12px;
+  vertical-align:top;
+  border-bottom:1px solid var(--line,#e5e7eb);
+}
+
+/* 1アイテム=4行の区切りを少し強調 */
+#data-table tr.r4 td{ border-bottom:2px solid var(--line,#e5e7eb); }
+
+/* Rank セル（rowspan=4） */
+#data-table th.rank{
+  width:72px;
+  text-align:center;
+  font-size:18px; font-weight:700;
+  background:var(--panel,#fff);
+}
+
+/* サムネ */
+#data-table td.image img{
+  display:block;
+  width:100%; max-width:240px; height:auto;
+  border-radius:10px;
+  box-shadow:var(--shadow,0 6px 18px rgba(0,0,0,.06));
+}
+
+/* タイトル＆チャンネル */
+#data-table td.title{ font-size:1.05rem; }
+#data-table td.title a{
+  color:var(--accent,#0d6efd);
+  text-decoration:none; font-weight:600;
+}
+#data-table td.title a:hover{ text-decoration:underline; }
+
+#data-table td.channel a{
+  color:inherit; text-decoration:none;
+  border-bottom:1px dashed var(--line,#e5e7eb);
+}
+#data-table td.channel a:hover{
+  color:var(--accent,#0d6efd);
+  border-bottom-color:currentColor;
+}
+
+/* いいね/コメント・数値系 */
+#data-table td.stats{
+  text-align:right; white-space:nowrap;
+  font-variant-numeric:tabular-nums;
+}
+#data-table .likes, #data-table .comments{
+  display:inline-flex; align-items:center; gap:6px;
+  padding:4px 8px; margin-left:0;
+  border-radius:999px;
+  background:var(--card,#f9fafb);
+  border:1px solid var(--line,#e5e7eb);
+}
+#data-table td.views{
+  text-align:right;
+  font-variant-numeric:tabular-nums;
+  font-weight:600;
+}
+
+/* 長文は2行で省略（タイトル/チャンネル） */
+#data-table td.title, #data-table td.channel{
+  overflow:hidden; display:-webkit-box;
+  -webkit-line-clamp:2; -webkit-box-orient:vertical;
+}
+
+/* 行ホバーで薄くハイライト（お好み） */
+#data-table tbody tr:hover{ background:rgba(13,110,253,.06); }
+
+/* ===== responsive ===== */
+@media (max-width:720px){
+  #data-table th, #data-table td{ padding:8px 10px; }
+  #data-table th.rank{ width:56px; font-size:16px; }
+  #data-table td.image img{ max-width:160px; }
+  #data-table td.stats{ font-size:.95rem; }
+}
