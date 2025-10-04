@@ -88,57 +88,8 @@
   </nav>
 
   <script defer src="../../../ranking_common/common.js"></script>
-  <script defer src="article.js"></script>
-  <script defer>
-    (async () => {
-      // 1) どのURLを取りに行ってるか、まずログに出す
-      console.log("page:", location.href, "baseURI:", document.baseURI);
-    
-      const v = new Date().toISOString().slice(0,10); // 1日1回更新なら日付でOK
-      const metaUrl  = new URL('meta.json',  document.baseURI);  metaUrl.searchParams.set('v', v);
-      const entryUrl = new URL('entry.json', document.baseURI); entryUrl.searchParams.set('v', v);
-      console.log("fetch:", metaUrl.href, entryUrl.href);
-    
-      try {
-        const [metaRes, entryRes] = await Promise.all([
-          fetch(metaUrl,  { cache:'no-store' }),
-          fetch(entryUrl, { cache:'no-store' })
-        ]);
-        if (!metaRes.ok)  throw new Error(`meta.json ${metaRes.status} ${metaUrl}`);
-        if (!entryRes.ok) throw new Error(`entry.json ${entryRes.status} ${entryUrl}`);
-    
-        const meta  = await metaRes.json();
-        const entry = await entryRes.json();
-        console.log("meta.json =", meta);
-        console.log("entry.json =", entry);
-    
-        const SRC = { meta, entry };
-        const get = (o,p) => p.split('.').reduce((a,k)=>a?.[k], o);
-    
-        for (const el of document.querySelectorAll('[data-from][data-bind]')) {
-          const from = el.dataset.from;              // 'meta' or 'entry'
-          const key  = el.dataset.bind;              // 例: 'date' / 'title' / 'explain'
-          const src  = SRC[from];
-          if (!src) { console.warn("unknown data-from:", from, el); continue; }
-    
-          let val = get(src, key);
-          if (val == null) {
-            console.warn("no value:", { from, key, el, keys:Object.keys(src) });
-            continue; // フォールバック表示を残す
-          }
-          const attr = el.dataset.attr;
-          if (attr) el.setAttribute(attr, String(val));
-          else      el.textContent = String(val);
-        }
-      } catch (err) {
-        console.error("bind failed:", err);
-        // 画面にも出すと分かりやすい
-        const oops = document.createElement('pre');
-        oops.textContent = String(err);
-        oops.style.color = 'crimson';
-        document.body.appendChild(oops);
-      }
-    })();
-    </script>
+  <script defer src="meta.js"></script>
+  <script defer src="table.js"></script>
+  
 </body>
 </html>
