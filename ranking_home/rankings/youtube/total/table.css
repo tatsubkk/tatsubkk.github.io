@@ -1,87 +1,66 @@
-/* ===== table base ===== */
+/* ===== Table base ===== */
 #data-table{
-  width:100%;
-  border-collapse:collapse;
-  margin:16px 0;
-  background:var(--panel,#fff);
-  border:1px solid var(--line,#e5e7eb);
-  border-radius:var(--radius,12px);
-  overflow:hidden;
+  width:100%; border-collapse:collapse; margin:16px 0;
+  background:var(--panel,#fff); border:1px solid var(--line,#e5e7eb);
+  border-radius:var(--radius,12px); overflow:hidden;
 }
 #data-table thead th{
-  background:var(--card,#f9fafb);
-  position:sticky; top:0; z-index:1;
-  padding:10px 12px;
-  text-align:left; font-weight:600;
+  background:var(--card,#f9fafb); position:sticky; top:0; z-index:1;
+  padding:10px 12px; text-align:left; font-weight:600;
   border-bottom:1px solid var(--line,#e5e7eb);
 }
-#data-table th, #data-table td{
-  padding:10px 12px;
-  vertical-align:top;
-  border-bottom:1px solid var(--line,#e5e7eb);
+#data-table th,#data-table td{
+  padding:10px 12px; vertical-align:top; border-bottom:1px solid var(--line,#e5e7eb);
 }
 
-/* 1アイテム=4行の区切りを少し強調 */
+/* 1アイテム=4行の区切りを強めに */
 #data-table tr.r4 td{ border-bottom:2px solid var(--line,#e5e7eb); }
 
-/* Rank セル（rowspan=4） */
+/* Rank */
 #data-table th.rank{
-  width:72px;
-  text-align:center;
-  font-size:18px; font-weight:700;
+  width:72px; text-align:center; font:700 20px/1.2 system-ui, -apple-system, "Segoe UI", Roboto, "Noto Sans JP", sans-serif;
   background:var(--panel,#fff);
 }
 
-/* サムネ */
+/* Thumbnail */
 #data-table td.image img{
-  display:block;
-  width:100%; max-width:240px; height:auto;
-  border-radius:10px;
-  box-shadow:var(--shadow,0 6px 18px rgba(0,0,0,.06));
+  display:block; width:100%; max-width:260px; height:auto;
+  border-radius:12px; box-shadow:var(--shadow,0 6px 18px rgba(0,0,0,.06));
 }
 
-/* タイトル＆チャンネル */
-#data-table td.title{ font-size:1.05rem; }
-#data-table td.title a{
-  color:var(--accent,#0d6efd);
-  text-decoration:none; font-weight:600;
-}
+/* Title */
+#data-table td.title{ font-size:1.1rem; }
+#data-table td.title a{ color:var(--accent,#0d6efd); text-decoration:none; font-weight:700; }
 #data-table td.title a:hover{ text-decoration:underline; }
 
-#data-table td.channel a{
-  color:inherit; text-decoration:none;
-  border-bottom:1px dashed var(--line,#e5e7eb);
-}
-#data-table td.channel a:hover{
-  color:var(--accent,#0d6efd);
-  border-bottom-color:currentColor;
-}
+/* Channel + Release */
+#data-table td.meta{ color:var(--ink,#222); }
+#data-table td.meta .channel a{ color:inherit; text-decoration:none; border-bottom:1px dashed var(--line,#e5e7eb); }
+#data-table td.meta .channel a:hover{ color:var(--accent,#0d6efd); border-bottom-color:currentColor; }
+#data-table td.meta .release{ color:var(--muted,#666); font-size:.92rem; margin-top:2px; }
 
-/* いいね/コメント・数値系 */
-#data-table td.stats{
-  text-align:right; white-space:nowrap;
-  font-variant-numeric:tabular-nums;
-}
-#data-table .likes, #data-table .comments{
+/* Stats chips */
+#data-table td.stats{ text-align:right; white-space:nowrap; font-variant-numeric:tabular-nums; }
+#data-table .chip{
   display:inline-flex; align-items:center; gap:6px;
-  padding:4px 8px; margin-left:0;
-  border-radius:999px;
-  background:var(--card,#f9fafb);
-  border:1px solid var(--line,#e5e7eb);
+  padding:4px 10px; margin-left:8px;
+  border-radius:999px; background:var(--card,#f9fafb); border:1px solid var(--line,#e5e7eb);
 }
-#data-table td.views{
-  text-align:right;
-  font-variant-numeric:tabular-nums;
-  font-weight:600;
-}
+#data-table .chip.likes{ }
+#data-table .chip.comments{ }
+#data-table .chip.increment{ }
 
-/* 行ホバーで薄くハイライト（お好み） */
+/* Views */
+#data-table td.views-label{ color:var(--muted,#666); }
+#data-table td.views{ text-align:right; font-variant-numeric:tabular-nums; 
+
+/* Hover */
 #data-table tbody tr:hover{ background:rgba(13,110,253,.06); }
 
-/* ===== responsive ===== */
+/* ===== Responsive ===== */
 @media (max-width:720px){
-  #data-table th, #data-table td{ padding:8px 10px; }
-  #data-table th.rank{ width:56px; font-size:16px; }
-  #data-table td.image img{ max-width:160px; }
-  #data-table td.stats{ font-size:.95rem; }
+  #data-table th,#data-table td{ padding:8px 10px; }
+  #data-table th.rank{ width:56px; font-size:18px; }
+  #data-table td.image img{ max-width:180px; border-radius:10px; }
+  #data-table td.stats .chip{ padding:3px 8px; margin-left:6px; }
 }

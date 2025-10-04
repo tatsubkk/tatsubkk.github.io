@@ -2,19 +2,49 @@
   "rows": [
     {
       "rank": 1,
-      "thumb": { "img": "thumbs/vid1.jpg", "alt": "Video 1", "url": "/watch?v=1", "w": 120, "h": 68 },
-      "title": { "text": "Video 1", "url": "/watch?v=1" },
-      "channel": { "text": "My Channel", "url": "/channel/xyz" },
-      "extras": "説明テキストやタグなど",
-      "views": 9837421
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/SX_ViT4Ra7k/default.jpg",
+        "url": "https://www.youtube.com/watch?v=SX_ViT4Ra7k",
+        "w": 120, "h": 68 
+      },
+      "title": {
+        "text": "米津玄師  Kenshi Yonezu  - Lemon",
+        "url": "https://www.youtube.com/watch?v=SX_ViT4Ra7k",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "release": "2018-02-26",
+      "likes": "341.3万",
+      "comments": "28.0万",
+      "increment": "10万",
+      "views": "9億3987万"
     },
     {
       "rank": 2,
-      "thumb": { "img": "thumbs/vid2.jpg", "alt": "Video 2" },
-      "title": { "text": "Video 2", "url": "/watch?v=2" },
-      "channel": { "text": "Other Channel", "url": "/channel/abc" },
-      "extras": ["タグA", "タグB"],
-      "views": 9210034
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/-tKVN2mAKRI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=-tKVN2mAKRI",
+        "w": 120, "h": 68 
+      },
+      "title": {
+        "text": "DAOKO × 米津玄師『打上花火』MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=-tKVN2mAKRI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "daoko_jp",
+        "url": "https://www.youtube.com/channel/UCIzc1_X3OAFquArF3EOVeWw",
+        "target": "_blank"
+      },
+      "release": "2017-08-09",
+      "likes": "325.0万",
+      "comments": "19.4万",
+      "increment": "10万",
+      "views": "6億8899万"
     }
   ]
 }
