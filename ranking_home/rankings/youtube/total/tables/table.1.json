@@ -5,7 +5,7 @@
       "thumb": {
         "img": "https://i.ytimg.com/vi/SX_ViT4Ra7k/default.jpg",
         "url": "https://www.youtube.com/watch?v=SX_ViT4Ra7k",
-        "w": 120, "h": 68
+        "target": "_blank"
       },
       "title": {
         "text": "米津玄師  Kenshi Yonezu  - Lemon",
@@ -17,7 +17,7 @@
         "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
         "target": "_blank"
       },
-      "release": "2018-02-26",
+      "publishedAt": "2018-02-26",
       "likes": "341.3万",
       "comments": "28.0万",
       "increment": "10万",
