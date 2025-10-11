@@ -13,12 +13,21 @@
   if (current > TOTAL) current = TOTAL;
 
   // ===== ページャ設定を JSON から反映 =====
-  const cfg = meta.pager || {};
-  const maxNumsDesktop = Number.isFinite(cfg.max_numbers) ? cfg.max_numbers : 5;      // デフォ5
-  const maxNumsMobile  = Number.isFinite(cfg.mobile_max_numbers) ? cfg.mobile_max_numbers : 3;
-  const MAX_NUMS = matchMedia('(max-width:520px)').matches ? maxNumsMobile : maxNumsDesktop;
-  const showPrevNext   = cfg.show_prev_next !== false;  // 既定ON
-  const showFirstLast  = cfg.show_first_last !== false; // 既定ON
+  const meta1 = await fetch(`${BASE}/meta1.json`, { cache: "no-store" })
+    .then(r => r.json())
+    .catch(() => ({}));
+
+    const cfg = (meta1 && meta1.pager) ? meta1.pager : {};
+
+    const maxNumsDesktop = Number.isFinite(+cfg.max_numbers) ? +cfg.max_numbers : 5;     // 既定: 5
+    const maxNumsMobile  = Number.isFinite(+cfg.mobile_max_numbers) ? +cfg.mobile_max_numbers : 3; // 既定: 3
+
+    const mql = matchMedia("(max-width:520px)");
+    let MAX_NUMS = mql.matches ? maxNumsMobile : maxNumsDesktop;
+
+
+    const showPrevNext  = cfg.show_prev_next  !== false; // 既定ON
+    const showFirstLast = cfg.show_first_last !== false; // 既定ON
 
   const container = document.getElementById('pager');
   container.innerHTML = ""; // クリア
