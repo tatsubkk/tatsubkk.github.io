@@ -28,8 +28,8 @@ if (toggle && drawer && backdrop && closeBtn) {
 
 /* ===== ページ切り替えボタン ===== */
 (async () => {
-  const BASE = "data/table"; // meta.json の場所
-  const meta = await fetch(`${BASE}/meta.json`, {cache:"no-store"}).then(r=>r.json());
+  const BASE = "data/table"; // meta2.json の場所
+  const meta = await fetch(`${BASE}/meta2.json`, {cache:"no-store"}).then(r=>r.json());
 
   // 総ページ数
   const TOTAL = meta.total_pages || 1;
