@@ -35,9 +35,14 @@
   const MAX_NUMS = matchMedia('(max-width:520px)').matches ? maxNumsMobile : maxNumsDesktop;
   const showPrevNext  = cfg.show_prev_next  !== false;
   const showFirstLast = cfg.show_first_last !== false;
-
-  // ---- DOM描画（.pager を全部描くのが吉。id固定ならそのままでもOK）----
+  
+  // ---- DOM描画（.pager を全部描く）----
   const containers = document.querySelectorAll('nav.pager, #pager');
+
+  if (!containers.length) {
+    console.warn('[pager] no containers found');
+  }
+
   containers.forEach(container => {
     if (!container) return;
     container.innerHTML = '';
@@ -48,6 +53,7 @@
       u.hash = '';
       return u.pathname + u.search;
     };
+
     const mk = (label, n, {cur=false, dis=false, rel=null}={}) => {
       const a = document.createElement('a');
       a.textContent = label;
@@ -57,7 +63,13 @@
       if (rel) a.setAttribute('rel', rel);
       return a;
     };
-    const gap = () => { const s=document.createElement('span'); s.className='gap'; s.textContent='…'; return s; };
+
+    const gap = () => {
+      const s = document.createElement('span');
+      s.className = 'gap';
+      s.textContent = '…';
+      return s;
+    };
 
     function buildNumbers(cur, total, maxNums){
       if (maxNums >= total) return Array.from({length: total}, (_,i)=>i+1);
@@ -79,14 +91,21 @@
     if (showFirstLast) container.append( mk('«', 1, {dis: current===1}) );
     if (showPrevNext)  container.append( mk('‹', Math.max(1,current-1), {dis: current===1, rel:'prev'}) );
 
-    const nums = buildNumbers(current, TOTAL, Math.max(1, MAX_NUMS));
+    // ★ TOTAL=1でも最低1を描く（:empty対策）
+    let nums = buildNumbers(current, TOTAL, Math.max(1, MAX_NUMS));
+    if (!nums.length && TOTAL >= 1) nums = [1];
+
     nums.forEach(n => container.append(n === 'gap' ? gap() : mk(String(n), n, {cur: n===current})));
 
     if (showPrevNext)  container.append( mk('›', Math.min(TOTAL,current+1), {dis: current===TOTAL, rel:'next'}) );
     if (showFirstLast) container.append( mk('»', TOTAL, {dis: current===TOTAL}) );
   });
+  
+
+// ---- 統一したエラーハンドリング（全部の .pager に表示）
 })().catch(e => {
   console.error('[pager] failed:', e);
-  const c = document.getElementById('pager');
-  if (c) c.innerHTML = `<span style="color:crimson">読み込み失敗：${String(e).replace(/</g,'&lt;')}</span>`;
+  document.querySelectorAll('nav.pager, #pager').forEach(c => {
+    c.innerHTML = `<span style="color:crimson">読み込み失敗：${String(e).replace(/</g,'&lt;')}</span>`;
+  });
 });
