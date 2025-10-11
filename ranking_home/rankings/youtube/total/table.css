@@ -1,3 +1,76 @@
+/* ========== Pager (buttons) ========== */
+.pager {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  margin: 16px 0 24px;
+  user-select: none;
+}
+
+/* 数字/ナビをボタンっぽく */
+.pager a {
+  display: inline-block;
+  min-width: 2.25rem;
+  padding: 8px 12px;
+  border: 1px solid #d0d5dd;
+  border-radius: 999px;
+  background: #fff;
+  color: #111827;
+  text-decoration: none;
+  line-height: 1;
+  text-align: center;
+  box-shadow: 0 1px 0 rgba(16,24,40,.04);
+  transition: transform .02s ease, background .15s ease, border-color .15s ease, color .15s ease;
+}
+
+.pager a:hover { background: #f9fafb; border-color: #cbd2e0; }
+.pager a:active { transform: translateY(1px); }
+
+/* 現在ページ */
+.pager a.is-current {
+  background: #111827;
+  color: #fff;
+  border-color: #111827;
+  cursor: default;
+}
+
+/* 無効（先頭/末尾や前後で使ってるやつ） */
+.pager a.is-disabled,
+.pager a[aria-disabled="true"] {
+  opacity: .45;
+  pointer-events: none;
+}
+
+/* 省略記号 … */
+.pager .gap {
+  display: inline-block;
+  min-width: 2.25rem;
+  text-align: center;
+  color: #6b7280;
+}
+
+/* フォーカスリング（アクセシビリティ） */
+.pager a:focus-visible {
+  outline: 3px solid #2563eb;
+  outline-offset: 2px;
+  border-color: #2563eb;
+}
+
+/* モバイルで少し大きめ */
+@media (max-width: 520px) {
+  .pager a { min-width: 2.2rem; padding: 10px 12px; }
+}
+
+/* ダークモードおまけ */
+@media (prefers-color-scheme: dark) {
+  .pager a { background: #0b0f1a; color: #e5e7eb; border-color: #253047; }
+  .pager a:hover { background: #111728; border-color: #334155; }
+  .pager a.is-current { background: #2563eb; border-color: #2563eb; color: #fff; }
+  .pager .gap { color: #94a3b8; }
+}
+
 /* ===== Table base ===== */
 #data-table{
   width:100%; border-collapse:collapse; margin:16px 0;
