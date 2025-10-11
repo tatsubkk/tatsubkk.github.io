@@ -88,6 +88,34 @@
     </div>
   </nav>
 
+  <script>
+    // 1) どのJSが読み込まれたか名乗らせる
+    (function(){
+      const _d=document.createElement;
+      Document.prototype.createElement = function(tag){
+        const el = _d.call(this, tag);
+        if (tag === 'script') {
+          const set = Object.getOwnPropertyDescriptor(HTMLScriptElement.prototype, 'src').set;
+          Object.defineProperty(el, 'src', {
+            set(v){ console.log('[SCRIPT] load:', v); set.call(this, v); },
+            get(){ return this.getAttribute('src'); }
+          });
+        }
+        return el;
+      };
+    })();
+
+    // 2) fetchの呼び出し元とURLを全てログる
+    (function(){
+      const orig = window.fetch;
+      window.fetch = function(input, init){
+        const url = (input && input.url) || input;
+        console.log('[fetch]', url, '\n', new Error().stack.split('\n').slice(1,6).join('\n'));
+        return orig.apply(this, arguments);
+      };
+    })();
+  </script>
+
   <script defer src="../../../ranking_common/common.js"></script>
   <script defer src="meta.js"></script>
   <script defer src="table.js"></script>
