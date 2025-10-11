@@ -1,7 +1,6 @@
 /* ===== ページ切り替えボタン ===== */
 (async () => {
-  const BASE = "meta2.json"; // meta2.json の場所
-  const meta = await fetch(`${BASE}/meta2.json`, {cache:"no-store"}).then(r=>r.json());
+  const meta = await fetch(`meta2.json`, {cache:"no-store"}).then(r=>r.json());
 
   // 総ページ数
   const TOTAL = meta.total_pages || 1;
@@ -13,7 +12,7 @@
   if (current > TOTAL) current = TOTAL;
 
   // ===== ページャ設定を JSON から反映 =====
-  const meta1 = await fetch(`${BASE}/meta1.json`, { cache: "no-store" })
+  const meta1 = await fetch(`meta1.json`, { cache: "no-store" })
     .then(r => r.json())
     .catch(() => ({}));
 
