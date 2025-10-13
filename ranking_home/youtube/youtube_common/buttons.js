@@ -1,17 +1,12 @@
-  /* ============================================
-  Switchbar link builder + current marker (path mode, robust)
-  要件:
-    - data-template="/ranking_home/youtube/{genre}/{type}/"
-    - .switchbar--genre 内: <a data-genre>
-    - .switchbar--rtype  内: <a data-type>
-  対応:
-    - 先頭/末尾スラッシュの有無
-    - index.html の有無
-    - GitHub Pages などサブパス配信
-    - 不正テンプレや未知値のフォールバック
-  ============================================ */
+/* ============================================
+   Switchbar link builder + current marker (path mode, robust)
+   - data-template="/ranking_home/youtube/{genre}/{type}/"
+   - .switchbar--genre : <a data-genre>
+   - .switchbar--rtype : <a data-type>
+   - Handles leading/trailing slashes, index.html, subpath hosting, fallbacks
+   ============================================ */
 (() => {
-  // ===== 設定 =====
+  // ===== Config =====
   const GENRES = [
     { key: "all",      label: "全て" },
     { key: "vocaloid", label: "ボカロ" },
@@ -19,24 +14,21 @@
     { key: "anime",    label: "アニメ主題歌" },
   ];
   const TYPES = [
-    { key: "views",   label: "歴代再生回数" },
-    { key: "likes",   label: "いいね数" },
-    { key: "comments",label: "コメント数" },
-    { key: "daily",   label: "デイリー" },
-    { key: "weekly",  label: "ウィークリー" },
-    { key: "monthly", label: "マンスリー" },
+    { key: "views",    label: "歴代再生回数" },
+    { key: "likes",    label: "いいね数" },
+    { key: "comments", label: "コメント数" },
+    { key: "daily",    label: "デイリー" },
+    { key: "weekly",   label: "ウィークリー" },
+    { key: "monthly",  label: "マンスリー" },
   ];
 
-  // ===== 基準パスを「今いる場所から2階層上」に固定 =====
-  // 例: /ranking_home/youtube/all/views/ にいるなら基準は /ranking_home/youtube/
-  const loc = new URL(location.href);
+  // ===== Path base (2 levels up: /{genre}/{type}/) =====
+  const loc  = new URL(location.href);
   const path = loc.pathname.replace(/index\.html?$/i, "").replace(/\/+$/, "/");
-  // パス末尾の 2 セグメントを削る（genre / type 分）
-  const basePath = path.replace(/[^/]+\/[^/]+\/?$/, ""); // …/{genre}/{type}/ → …
-  // 失敗保険：最低でも trailing slash にしとく
+  const basePath = path.replace(/[^/]+\/[^/]+\/?$/, ""); // drop last 2 segments
   const safeBase = basePath.endsWith("/") ? basePath : basePath + "/";
 
-  // ===== 既存マークアップがあれば中身を消して再生成、なければ作る =====
+  // ===== Ensure containers =====
   const ensureNav = (selector, ariaLabel) => {
     let nav = document.querySelector(selector);
     if (!nav) {
@@ -49,45 +41,51 @@
     nav.classList.add("switchbar");
     return nav;
   };
-
   const navGenre = ensureNav(".switchbar--genre", "ジャンル切替");
-  const navType  = ensureNav(".switchbar--rtype", "ランキング種別切替");
+  const navType  = ensureNav(".switchbar--rtype",  "ランキング種別切替");
 
-  // ===== 現在の genre/type をURLから推定（ハイライト用）=====
+  // ===== Current from URL =====
   const segs = path.split("/").filter(Boolean);
   const current = {
     genre: segs[segs.length - 2] || "",
     type : segs[segs.length - 1] || ""
   };
 
-  // ===== a要素を量産するヘルパ =====
-  const makeBtn = (text, href, {active} = {}) => {
+  // ===== Button helper (adds current marker) =====
+  const makeBtn = (text, href, { currentMark = false } = {}) => {
     const a = document.createElement("a");
     a.className = "switchbar__btn";
     a.textContent = text;
     a.href = href;
     a.setAttribute("role", "button");
-    if (active) a.classList.add("is-active");
+    if (currentMark) {
+      a.classList.add("is-current", "is-active"); // keep .is-active for legacy styles
+      a.setAttribute("aria-current", "page");     // your CSS hooks this
+    }
     return a;
   };
 
-  // ===== ジャンルバー：type は現在のを維持してリンク作成 =====
+  // ===== Build genre bar (keep current type) =====
   const keepType = current.type && TYPES.some(t => t.key === current.type)
-      ? current.type : "views";
+    ? current.type : "views";
   GENRES.forEach(g => {
     const href = new URL(`../../${g.key}/${keepType}/`, loc);
-    navGenre.appendChild(makeBtn(g.label, href, { active: g.key === current.genre }));
+    navGenre.appendChild(
+      makeBtn(g.label, href, { currentMark: g.key === current.genre })
+    );
   });
 
-  // ===== 種別バー：genre は現在のを維持してリンク作成 =====
+  // ===== Build type bar (keep current genre) =====
   const keepGenre = current.genre && GENRES.some(g => g.key === current.genre)
-      ? current.genre : "all";
+    ? current.genre : "all";
   TYPES.forEach(t => {
     const href = new URL(`../../${keepGenre}/${t.key}/`, loc);
-    navType.appendChild(makeBtn(t.label, href, { active: t.key === current.type }));
+    navType.appendChild(
+      makeBtn(t.label, href, { currentMark: t.key === current.type })
+    );
   });
 
-  // ===== キーボード操作(←/→で移動)の軽い配慮。なくても動くけど、つけてあげる♡ =====
+  // ===== Simple keyboard roving =====
   const roving = (nav) => {
     const btns = [...nav.querySelectorAll(".switchbar__btn")];
     btns.forEach((b, i) => b.addEventListener("keydown", e => {
