@@ -141,121 +141,26 @@
     - GitHub Pages などサブパス配信
     - 不正テンプレや未知値のフォールバック
   ============================================ */
-(function(){
-  // --- tiny utils --------------------------------------------
-  const lc = s => (s ?? '').toString().trim().toLowerCase();
+(() => {
+  const parts = location.pathname.replace(/\/+$/,'').split('/');
+  const i = parts.lastIndexOf('youtube');
+  const cur = {
+    genre: (i !== -1 && parts[i+1]) || 'all',
+    type:  (i !== -1 && parts[i+2]) || 'views'
+  };
 
-  // テンプレから堅牢な正規表現を作る
-  function rxFromTemplate(tpl){
-    if (!tpl || !tpl.includes('{genre}') || !tpl.includes('{type}')) return null;
-
-    // エスケープ → プレースホルダ置換
-    let pat = tpl.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&')
-                 .replace(/\\\{genre\\\}/g, '(?<genre>[^/]+)')
-                 .replace(/\\\{type\\\}/g,  '(?<type>[^/]+)');
-
-    // 先頭スラなしなら "/?" を許容（相対/絶対両対応）
-    if (!tpl.startsWith('/')) pat = '\\/?' + pat;
-
-    // 末尾スラ/ index.html の有無を許容
-    if (!tpl.endsWith('/')) pat += '\\/?';
-    pat += '(?:index\\.html)?\\/?$';
-
-    return new RegExp('^' + pat, 'i');
-  }
-
-  // 現在ページの {genre},{type} を推定
-  function parseCurrent(tpl){
-    const rx = rxFromTemplate(tpl);
-    if (rx){
-      const m = location.pathname.match(rx);
-      if (m && (m.groups?.genre || m.groups?.type)){
-        return {
-          genre: lc(m.groups.genre || 'all'),
-          type:  lc(m.groups.type  || 'views')
-        };
+  const linkify = (nav, isGenreBar) => {
+    nav.querySelectorAll('.switchbar__btn').forEach(a => {
+      const g = isGenreBar ? (a.dataset.genre || cur.genre) : cur.genre;
+      const t = isGenreBar ? cur.type : (a.dataset.type || cur.type);
+      a.href = `../../${encodeURIComponent(g)}/${encodeURIComponent(t)}/`;
+      if ((isGenreBar ? g : t) === (isGenreBar ? cur.genre : cur.type)) {
+        a.classList.add('is-current');
+        a.setAttribute('aria-current','page');
       }
-    }
-    // テンプレに当たらないときはクエリから拾う
-    const u = new URL(location.href);
-    return {
-      genre: lc(u.searchParams.get('genre') || 'all'),
-      type:  lc(u.searchParams.get('type')  || 'views')
-    };
-  }
-
-  // href を構築（必ずパスとして返す）
-  function buildHref(tpl, next){
-    // テンプレに値を埋める
-    let path = tpl
-      .replace('{genre}', encodeURIComponent(next.genre))
-      .replace('{type}',  encodeURIComponent(next.type));
-
-    // URL 基準は document.baseURI（サブパス配信でもOK）
-    const u = new URL(path, document.baseURI);
-
-    // クエリ類は全部捨てて1ページ目へ
-    u.search = '';
-    u.hash   = '';
-
-    // 末尾を正規化（テンプレが / 終わりなら / 付ける）
-    const needSlash = tpl.endsWith('/');
-    let out = u.pathname;
-    if (needSlash && !out.endsWith('/')) out += '/';
-    return out;
-  }
-
-  function clearMarks(scope){
-    scope.querySelectorAll('.switchbar__btn').forEach(a=>{
-      a.classList.remove('is-current');
-      a.removeAttribute('aria-current');
     });
-  }
-  function markButton(a){
-    a.classList.add('is-current');
-    a.setAttribute('aria-current', 'page');
-  }
+  };
 
-  // data-template が正しい nav だけ対象にする
-  const selectorTpl = '[data-template*="{genre}"][data-template*="{type}"]';
-
-  // --- GENRE bar ----------------------------------------------
-  document.querySelectorAll('.switchbar--genre' + selectorTpl).forEach(nav=>{
-    const tpl = nav.getAttribute('data-template') || '';
-    const cur = parseCurrent(tpl);
-    clearMarks(nav);
-
-    let found = false;
-    nav.querySelectorAll('.switchbar__btn[data-genre]').forEach(a=>{
-      const g = lc(a.dataset.genre || 'all');
-      a.setAttribute('href', buildHref(tpl, { genre: g, type: cur.type }));
-      if (g === cur.genre){ markButton(a); found = true; }
-    });
-
-    // 未知ジャンル時は all を強制選択
-    if (!found){
-      const fb = nav.querySelector('.switchbar__btn[data-genre="all"]');
-      if (fb) markButton(fb);
-    }
-  });
-
-  // --- TYPE bar ------------------------------------------------
-  document.querySelectorAll('.switchbar--rtype' + selectorTpl).forEach(nav=>{
-    const tpl = nav.getAttribute('data-template') || '';
-    const cur = parseCurrent(tpl);
-    clearMarks(nav);
-
-    let found = false;
-    nav.querySelectorAll('.switchbar__btn[data-type]').forEach(a=>{
-      const t = lc(a.dataset.type || 'views');
-      a.setAttribute('href', buildHref(tpl, { genre: cur.genre, type: t }));
-      if (t === cur.type){ markButton(a); found = true; }
-    });
-
-    // 未知タイプ時は views を強制選択
-    if (!found){
-      const fb = nav.querySelector('.switchbar__btn[data-type="views"]');
-      if (fb) markButton(fb);
-    }
-  });
+  document.querySelectorAll('.switchbar--genre').forEach(nav => linkify(nav, true));
+  document.querySelectorAll('.switchbar--rtype').forEach(nav => linkify(nav, false));
 })();
