@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>邦楽　Youtube再生回数ランキング[歴代]</title>
+  <link rel="stylesheet" href="../../../ranking_common/layout.css"/>
+  <link rel="stylesheet" href="../../../ranking_common/logo.css"/>
+  <link rel="stylesheet" href="../../youtube_common/entrycontent.css"/>
+  <link rel="stylesheet" href="../../youtube_common/table.css"/>
+  <link rel="stylesheet" href="../../youtube_common/buttons.css"/>
+</head>
+<body>
+
+  <header id="hdr" class="hdr">
+    <div class="inner">
+      <a class="brand" href="/">
+        <span class="logo logo--bars" aria-hidden="true"></span>
+        <span class="title">みんなのチャート</span>
+      </a>
+
+      <button class="nav-toggle"
+              aria-controls="drawer"
+              aria-expanded="false"
+              aria-label="メニューを開く"
+              title="メニュー">
+        <span class="bar" aria-hidden="true"></span>
+        <span class="bar" aria-hidden="true"></span>
+        <span class="bar" aria-hidden="true"></span>
+      </button>
+    </div>
+  </header>
+
+  <div class="layout">
+    <main class="content">
+      <div class="entrycontent">
+        <div class="entrycontent__top">
+          <div class="entrycontent__eyebrow">Minnano Charts</div>
+          <h1 id="entrycontent_title" data-from="meta1" data-bind="title">タイトルを入力</h1>
+          <div class="entrycontent__meta">
+            <time
+              id="entrycontent_date"
+              class="badge-date badge-date--refresh"
+              data-from="meta2" data-bind="date"
+              title="最終更新日">日付を入力</time>
+          </div>
+        </div>
+      
+        <p id="entrycontent_explain" data-from="meta1" data-bind="explain" class="entrycontent__desc">
+          説明を入力
+        </p>
+      </div>
+
+      <!-- ジャンル切替 -->
+      <nav class="switchbar switchbar--genre"
+           data-template="/rankings/youtube/{genre}/{type}/"
+           aria-label="ジャンル切替">
+      <a class="switchbar__btn" data-genre="all">全て</a>
+      <a class="switchbar__btn" data-genre="vocaloid">ボカロ</a>
+      <a class="switchbar__btn" data-genre="kpop">K-pop</a>
+      <a class="switchbar__btn" data-genre="anime">アニメ主題歌</a>
+      </nav>
+
+      <!-- ランキング種別切替 -->
+      <nav class="switchbar switchbar--rtype"
+           data-template="/rankings/youtube/{genre}/{type}/"
+           aria-label="ランキング種別切替">
+      <a class="switchbar__btn" data-type="views">歴代再生回数</a>
+      <a class="switchbar__btn" data-type="likes">いいね数</a>
+      <a class="switchbar__btn" data-type="comments">コメント数</a>
+      <a class="switchbar__btn" data-type="daily">デイリー</a>
+      <a class="switchbar__btn" data-type="weekly">ウィークリー</a>
+      <a class="switchbar__btn" data-type="monthly">マンスリー</a>
+      </nav>
+      
+      <nav class="pager" aria-label="Pagination (top)"></nav>
+      <table id="data-table">
+        <thead></thead>
+        <tbody></tbody>
+      </table>
+      <nav class="pager" aria-label="Pagination (bottom)"></nav>
+
+      <footer class="footer">
+        <small>© 2025 なんでもランキング</small>
+        <nav class="footer__nav" aria-label="フッター">
+          <a href="about/">このサイトについて</a>
+          <a href="privacy/">プライバシー</a>
+          <a href="terms/">利用規約</a>
+          <a href="contact/">お問い合わせ</a>
+        </nav>
+      </footer>
+    </main>
+
+    <aside class="sidenav" aria-label="サイドメニュー">
+    <form class="search" role="search" action="search/" method="get">
+      <input name="q" type="search" placeholder="キーワードで探す" autocomplete="off" />
+      <button class="btn btn--primary" type="submit">検索</button>
+    </form>
+    <div class="sidenav__section">
+      <h2>カテゴリ</h2>
+      <a href="rankings/youtube/">YouTube 音楽</a>
+    </div>
+    <div class="sidenav__section">
+      <h2><a href="updates/">更新履歴</a></h2>
+    </div>
+    </aside>
+  </div>
+
+  <div id="backdrop" class="backdrop" hidden></div>
+  <nav id="drawer" class="drawer" aria-label="モバイルメニュー" aria-hidden="true">
+    <button class="drawer__close" aria-label="メニューを閉じる">×</button>
+    <form class="search" role="search" action="search/" method="get">
+      <input name="q" type="search" placeholder="キーワードで探す" autocomplete="off" />
+      <button class="btn btn--primary" type="submit">検索</button>
+    </form>
+    <div class="sidenav__section">
+      <h2>カテゴリ</h2>
+      <a href="rankings/youtube/">YouTube 音楽</a>
+    </div>
+    <div class="sidenav__section">
+      <h2><a href="updates/">更新履歴</a></h2>
+    </div>
+  </nav>
+
+  <script defer src="../../../ranking_common/common.js"></script>
+  <script defer src="../../youtube_common/meta.js"></script>
+  <script defer src="../../youtube_common/buttons.js"></script>
+  <script defer src="table.js"></script>
+  
+</body>
+</html>
