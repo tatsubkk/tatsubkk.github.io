@@ -20,7 +20,7 @@
       "publishedAt": "2018-12-22",
       "likeCount": "30.5万",
       "commentCount": "1.2万",
-      "increment": "1607",
+      "increment": "1236",
       "viewCount": "1792万"
     },
     {
@@ -42,8 +42,8 @@
       },
       "publishedAt": "2021-10-24",
       "likeCount": "17.5万",
-      "commentCount": "6216",
-      "increment": "9519",
+      "commentCount": "6215",
+      "increment": "7355",
       "viewCount": "1792万"
     },
     {
@@ -66,11 +66,34 @@
       "publishedAt": "2020-05-07",
       "likeCount": "15.8万",
       "commentCount": "5471",
-      "increment": "8774",
+      "increment": "6713",
       "viewCount": "1791万"
     },
     {
       "rank": 1904,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/FrUKGoBkVvI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=FrUKGoBkVvI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【みうめ・メイリア・217＋ATY】「Hysteric Bullet」 踊っちゃってみたコラボ OFFiCiAL",
+        "url": "https://www.youtube.com/watch?v=FrUKGoBkVvI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "GARNiDELiA",
+        "url": "https://www.youtube.com/channel/UCAYfguaShVaNDU561_jJoOQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-09-01",
+      "likeCount": "14.8万",
+      "commentCount": "3738",
+      "increment": "1275",
+      "viewCount": "1791万"
+    },
+    {
+      "rank": 1905,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3Yq58d2rsRk/default.jpg",
         "url": "https://www.youtube.com/watch?v=3Yq58d2rsRk",
@@ -90,29 +113,6 @@
       "likeCount": "12.7万",
       "commentCount": "2818",
       "increment": "1万",
-      "viewCount": "1791万"
-    },
-    {
-      "rank": 1905,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/FrUKGoBkVvI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=FrUKGoBkVvI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【みうめ・メイリア・217＋ATY】「Hysteric Bullet」 踊っちゃってみたコラボ OFFiCiAL",
-        "url": "https://www.youtube.com/watch?v=FrUKGoBkVvI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "GARNiDELiA",
-        "url": "https://www.youtube.com/channel/UCAYfguaShVaNDU561_jJoOQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-09-01",
-      "likeCount": "14.8万",
-      "commentCount": "3738",
-      "increment": "1661",
       "viewCount": "1791万"
     },
     {
@@ -159,7 +159,7 @@
       "likeCount": "13.1万",
       "commentCount": "2469",
       "increment": "1万",
-      "viewCount": "1790万"
+      "viewCount": "1789万"
     },
     {
       "rank": 1908,
@@ -181,7 +181,7 @@
       "publishedAt": "2012-04-06",
       "likeCount": "11.7万",
       "commentCount": "6246",
-      "increment": "2425",
+      "increment": "1934",
       "viewCount": "1789万"
     },
     {
@@ -204,7 +204,7 @@
       "publishedAt": "2016-03-25",
       "likeCount": "10.8万",
       "commentCount": "5679",
-      "increment": "1788",
+      "increment": "1454",
       "viewCount": "1789万"
     },
     {
@@ -227,7 +227,7 @@
       "publishedAt": "2021-05-27",
       "likeCount": "-",
       "commentCount": "5691",
-      "increment": "1951",
+      "increment": "1512",
       "viewCount": "1789万"
     },
     {
@@ -250,7 +250,7 @@
       "publishedAt": "2023-03-29",
       "likeCount": "11.7万",
       "commentCount": "2174",
-      "increment": "1万",
+      "increment": "8668",
       "viewCount": "1788万"
     },
     {
@@ -272,9 +272,9 @@
       },
       "publishedAt": "2019-09-25",
       "likeCount": "8.2万",
-      "commentCount": "3791",
-      "increment": "8759",
-      "viewCount": "1788万"
+      "commentCount": "3790",
+      "increment": "6679",
+      "viewCount": "1787万"
     },
     {
       "rank": 1913,
@@ -296,8 +296,8 @@
       "publishedAt": "2024-10-24",
       "likeCount": "16.9万",
       "commentCount": "1.1万",
-      "increment": "3万",
-      "viewCount": "1787万"
+      "increment": "2万",
+      "viewCount": "1786万"
     },
     {
       "rank": 1914,
@@ -319,7 +319,7 @@
       "publishedAt": "2013-05-27",
       "likeCount": "5.8万",
       "commentCount": "1413",
-      "increment": "3156",
+      "increment": "2384",
       "viewCount": "1783万"
     },
     {
@@ -342,7 +342,7 @@
       "publishedAt": "2019-01-24",
       "likeCount": "21.1万",
       "commentCount": "5795",
-      "increment": "4681",
+      "increment": "3476",
       "viewCount": "1783万"
     },
     {
@@ -365,8 +365,8 @@
       "publishedAt": "2021-04-09",
       "likeCount": "17.6万",
       "commentCount": "6830",
-      "increment": "8991",
-      "viewCount": "1780万"
+      "increment": "7078",
+      "viewCount": "1779万"
     },
     {
       "rank": 1917,
@@ -388,7 +388,7 @@
       "publishedAt": "2012-11-07",
       "likeCount": "6.5万",
       "commentCount": "2561",
-      "increment": "5602",
+      "increment": "4378",
       "viewCount": "1778万"
     },
     {
@@ -411,7 +411,7 @@
       "publishedAt": "2016-08-29",
       "likeCount": "15.3万",
       "commentCount": "2225",
-      "increment": "2807",
+      "increment": "1955",
       "viewCount": "1777万"
     },
     {
@@ -434,7 +434,7 @@
       "publishedAt": "2020-09-24",
       "likeCount": "3.3万",
       "commentCount": "1966",
-      "increment": "1万",
+      "increment": "7813",
       "viewCount": "1775万"
     },
     {
@@ -457,7 +457,7 @@
       "publishedAt": "2010-09-08",
       "likeCount": "5.6万",
       "commentCount": "2852",
-      "increment": "1328",
+      "increment": "1027",
       "viewCount": "1775万"
     },
     {
@@ -480,34 +480,11 @@
       "publishedAt": "2009-02-03",
       "likeCount": "-",
       "commentCount": "-",
-      "increment": "1612",
+      "increment": "1262",
       "viewCount": "1775万"
     },
     {
       "rank": 1922,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/_ZtBv0hTm1w/default.jpg",
-        "url": "https://www.youtube.com/watch?v=_ZtBv0hTm1w",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "YOASOBI「夜に駆ける」 from 『ROCK IN JAPAN FESTIVAL 2022』2022.8.06@千葉市蘇我スポーツ公園",
-        "url": "https://www.youtube.com/watch?v=_ZtBv0hTm1w",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ayase / YOASOBI",
-        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-09-17",
-      "likeCount": "10.6万",
-      "commentCount": "2169",
-      "increment": "7117",
-      "viewCount": "1773万"
-    },
-    {
-      "rank": 1923,
       "thumb": {
         "img": "https://i.ytimg.com/vi/aWJqUqC0s6w/default.jpg",
         "url": "https://www.youtube.com/watch?v=aWJqUqC0s6w",
@@ -526,7 +503,30 @@
       "publishedAt": "2019-12-31",
       "likeCount": "-",
       "commentCount": "9529",
-      "increment": "3512",
+      "increment": "2797",
+      "viewCount": "1773万"
+    },
+    {
+      "rank": 1923,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/_ZtBv0hTm1w/default.jpg",
+        "url": "https://www.youtube.com/watch?v=_ZtBv0hTm1w",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "YOASOBI「夜に駆ける」 from 『ROCK IN JAPAN FESTIVAL 2022』2022.8.06@千葉市蘇我スポーツ公園",
+        "url": "https://www.youtube.com/watch?v=_ZtBv0hTm1w",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ayase / YOASOBI",
+        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-09-17",
+      "likeCount": "10.6万",
+      "commentCount": "2169",
+      "increment": "5443",
       "viewCount": "1773万"
     },
     {
@@ -549,7 +549,7 @@
       "publishedAt": "2021-07-21",
       "likeCount": "10.3万",
       "commentCount": "4465",
-      "increment": "5617",
+      "increment": "4321",
       "viewCount": "1772万"
     },
     {
@@ -572,7 +572,7 @@
       "publishedAt": "2017-11-15",
       "likeCount": "7.3万",
       "commentCount": "2747",
-      "increment": "1170",
+      "increment": "891",
       "viewCount": "1771万"
     },
     {
@@ -595,7 +595,7 @@
       "publishedAt": "2012-06-17",
       "likeCount": "3.8万",
       "commentCount": "3617",
-      "increment": "699",
+      "increment": "589",
       "viewCount": "1770万"
     },
     {
@@ -618,7 +618,7 @@
       "publishedAt": "2020-09-07",
       "likeCount": "16.4万",
       "commentCount": "5464",
-      "increment": "3666",
+      "increment": "2893",
       "viewCount": "1770万"
     },
     {
@@ -641,7 +641,7 @@
       "publishedAt": "2022-09-23",
       "likeCount": "4.4万",
       "commentCount": "1655",
-      "increment": "1万",
+      "increment": "7935",
       "viewCount": "1769万"
     },
     {
@@ -663,7 +663,7 @@
       },
       "publishedAt": "2024-06-18",
       "likeCount": "17.8万",
-      "commentCount": "2176",
+      "commentCount": "2175",
       "increment": "2万",
       "viewCount": "1766万"
     },
@@ -687,7 +687,7 @@
       "publishedAt": "2012-08-09",
       "likeCount": "3.7万",
       "commentCount": "2662",
-      "increment": "1167",
+      "increment": "852",
       "viewCount": "1764万"
     },
     {
@@ -710,7 +710,7 @@
       "publishedAt": "2014-02-07",
       "likeCount": "5.5万",
       "commentCount": "2596",
-      "increment": "1332",
+      "increment": "1035",
       "viewCount": "1762万"
     },
     {
@@ -733,7 +733,7 @@
       "publishedAt": "2013-03-24",
       "likeCount": "6.5万",
       "commentCount": "3299",
-      "increment": "7351",
+      "increment": "5813",
       "viewCount": "1762万"
     },
     {
@@ -756,7 +756,7 @@
       "publishedAt": "2018-05-06",
       "likeCount": "7.3万",
       "commentCount": "4634",
-      "increment": "595",
+      "increment": "450",
       "viewCount": "1762万"
     },
     {
@@ -779,7 +779,7 @@
       "publishedAt": "2018-09-29",
       "likeCount": "12.9万",
       "commentCount": "2390",
-      "increment": "5349",
+      "increment": "4194",
       "viewCount": "1760万"
     },
     {
@@ -802,7 +802,7 @@
       "publishedAt": "2020-08-02",
       "likeCount": "14.6万",
       "commentCount": "-",
-      "increment": "206",
+      "increment": "179",
       "viewCount": "1760万"
     },
     {
@@ -825,8 +825,8 @@
       "publishedAt": "2022-08-12",
       "likeCount": "8.9万",
       "commentCount": "1.6万",
-      "increment": "7345",
-      "viewCount": "1759万"
+      "increment": "5576",
+      "viewCount": "1758万"
     },
     {
       "rank": 1937,
@@ -847,9 +847,9 @@
       },
       "publishedAt": "2024-06-09",
       "likeCount": "35.6万",
-      "commentCount": "6153",
-      "increment": "1万",
-      "viewCount": "1758万"
+      "commentCount": "6152",
+      "increment": "8098",
+      "viewCount": "1757万"
     },
     {
       "rank": 1938,
@@ -870,35 +870,12 @@
       },
       "publishedAt": "2017-11-04",
       "likeCount": "8.2万",
-      "commentCount": "3617",
-      "increment": "1787",
+      "commentCount": "3616",
+      "increment": "1380",
       "viewCount": "1757万"
     },
     {
       "rank": 1939,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/hCgKjuJvDBw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=hCgKjuJvDBw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ののちゃん(村方乃々佳)「パンダうさぎコアラ」Music Video",
-        "url": "https://www.youtube.com/watch?v=hCgKjuJvDBw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "KING RECORDS",
-        "url": "https://www.youtube.com/channel/UC6KEU5-KSTszEOOnAl8ZwPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-03-29",
-      "likeCount": "3.7万",
-      "commentCount": "-",
-      "increment": "3万",
-      "viewCount": "1755万"
-    },
-    {
-      "rank": 1940,
       "thumb": {
         "img": "https://i.ytimg.com/vi/IiV-aaLo9SM/default.jpg",
         "url": "https://www.youtube.com/watch?v=IiV-aaLo9SM",
@@ -917,11 +894,11 @@
       "publishedAt": "2016-05-02",
       "likeCount": "7.2万",
       "commentCount": "6009",
-      "increment": "3154",
+      "increment": "2397",
       "viewCount": "1755万"
     },
     {
-      "rank": 1941,
+      "rank": 1940,
       "thumb": {
         "img": "https://i.ytimg.com/vi/gnmqEaiYfUg/default.jpg",
         "url": "https://www.youtube.com/watch?v=gnmqEaiYfUg",
@@ -940,8 +917,31 @@
       "publishedAt": "2015-09-02",
       "likeCount": "11.9万",
       "commentCount": "8297",
-      "increment": "4360",
+      "increment": "3466",
       "viewCount": "1755万"
+    },
+    {
+      "rank": 1941,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/hCgKjuJvDBw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=hCgKjuJvDBw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ののちゃん(村方乃々佳)「パンダうさぎコアラ」Music Video",
+        "url": "https://www.youtube.com/watch?v=hCgKjuJvDBw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "KING RECORDS",
+        "url": "https://www.youtube.com/channel/UC6KEU5-KSTszEOOnAl8ZwPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-03-29",
+      "likeCount": "3.7万",
+      "commentCount": "-",
+      "increment": "2万",
+      "viewCount": "1754万"
     },
     {
       "rank": 1942,
@@ -963,7 +963,7 @@
       "publishedAt": "2010-06-15",
       "likeCount": "6.5万",
       "commentCount": "4455",
-      "increment": "2453",
+      "increment": "2018",
       "viewCount": "1754万"
     },
     {
@@ -986,8 +986,8 @@
       "publishedAt": "2023-08-17",
       "likeCount": "15.2万",
       "commentCount": "7.7万",
-      "increment": "3679",
-      "viewCount": "1754万"
+      "increment": "2706",
+      "viewCount": "1753万"
     },
     {
       "rank": 1944,
@@ -1009,7 +1009,7 @@
       "publishedAt": "2016-04-14",
       "likeCount": "15万",
       "commentCount": "7323",
-      "increment": "985",
+      "increment": "808",
       "viewCount": "1753万"
     },
     {
@@ -1032,7 +1032,7 @@
       "publishedAt": "2020-07-28",
       "likeCount": "14.7万",
       "commentCount": "6192",
-      "increment": "3831",
+      "increment": "2986",
       "viewCount": "1753万"
     },
     {
@@ -1055,34 +1055,11 @@
       "publishedAt": "2016-04-08",
       "likeCount": "10.5万",
       "commentCount": "6017",
-      "increment": "1115",
+      "increment": "917",
       "viewCount": "1752万"
     },
     {
       "rank": 1947,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/GKURxNMi2xA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=GKURxNMi2xA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "m.o.v.e / DOGFIGHT",
-        "url": "https://www.youtube.com/watch?v=GKURxNMi2xA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-06-27",
-      "likeCount": "8.8万",
-      "commentCount": "4529",
-      "increment": "4382",
-      "viewCount": "1750万"
-    },
-    {
-      "rank": 1948,
       "thumb": {
         "img": "https://i.ytimg.com/vi/bNwTempY5DI/default.jpg",
         "url": "https://www.youtube.com/watch?v=bNwTempY5DI",
@@ -1101,7 +1078,30 @@
       "publishedAt": "2022-01-20",
       "likeCount": "11.5万",
       "commentCount": "1.2万",
-      "increment": "1537",
+      "increment": "1237",
+      "viewCount": "1750万"
+    },
+    {
+      "rank": 1948,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/GKURxNMi2xA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=GKURxNMi2xA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "m.o.v.e / DOGFIGHT",
+        "url": "https://www.youtube.com/watch?v=GKURxNMi2xA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-06-27",
+      "likeCount": "8.8万",
+      "commentCount": "4529",
+      "increment": "3324",
       "viewCount": "1750万"
     },
     {
@@ -1123,9 +1123,9 @@
       },
       "publishedAt": "2013-03-24",
       "likeCount": "8.1万",
-      "commentCount": "3816",
-      "increment": "5387",
-      "viewCount": "1750万"
+      "commentCount": "3815",
+      "increment": "4392",
+      "viewCount": "1749万"
     },
     {
       "rank": 1950,
@@ -1147,7 +1147,7 @@
       "publishedAt": "2019-09-13",
       "likeCount": "24.6万",
       "commentCount": "7687",
-      "increment": "3981",
+      "increment": "3120",
       "viewCount": "1749万"
     }
   ]

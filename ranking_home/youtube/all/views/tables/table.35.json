@@ -20,7 +20,7 @@
       "publishedAt": "2012-08-29",
       "likeCount": "4.3万",
       "commentCount": "438",
-      "increment": "798",
+      "increment": "646",
       "viewCount": "1998万"
     },
     {
@@ -43,7 +43,7 @@
       "publishedAt": "2010-02-16",
       "likeCount": "-",
       "commentCount": "-",
-      "increment": "3024",
+      "increment": "2370",
       "viewCount": "1997万"
     },
     {
@@ -67,7 +67,7 @@
       "likeCount": "9.4万",
       "commentCount": "390",
       "increment": "1万",
-      "viewCount": "1996万"
+      "viewCount": "1995万"
     },
     {
       "rank": 1704,
@@ -89,7 +89,7 @@
       "publishedAt": "2018-03-06",
       "likeCount": "6.4万",
       "commentCount": "2290",
-      "increment": "4049",
+      "increment": "3097",
       "viewCount": "1995万"
     },
     {
@@ -112,7 +112,7 @@
       "publishedAt": "2023-01-27",
       "likeCount": "19.8万",
       "commentCount": "2560",
-      "increment": "1万",
+      "increment": "8134",
       "viewCount": "1995万"
     },
     {
@@ -135,7 +135,7 @@
       "publishedAt": "2017-01-17",
       "likeCount": "23.2万",
       "commentCount": "6528",
-      "increment": "1150",
+      "increment": "974",
       "viewCount": "1994万"
     },
     {
@@ -158,7 +158,7 @@
       "publishedAt": "2023-06-06",
       "likeCount": "-",
       "commentCount": "7675",
-      "increment": "4139",
+      "increment": "3189",
       "viewCount": "1994万"
     },
     {
@@ -181,8 +181,8 @@
       "publishedAt": "2014-11-08",
       "likeCount": "9.2万",
       "commentCount": "2064",
-      "increment": "3585",
-      "viewCount": "1992万"
+      "increment": "2811",
+      "viewCount": "1991万"
     },
     {
       "rank": 1709,
@@ -204,7 +204,7 @@
       "publishedAt": "2020-05-10",
       "likeCount": "8.5万",
       "commentCount": "1745",
-      "increment": "980",
+      "increment": "722",
       "viewCount": "1991万"
     },
     {
@@ -227,7 +227,7 @@
       "publishedAt": "2014-04-23",
       "likeCount": "8.5万",
       "commentCount": "3580",
-      "increment": "2130",
+      "increment": "1769",
       "viewCount": "1990万"
     },
     {
@@ -250,7 +250,7 @@
       "publishedAt": "2019-06-26",
       "likeCount": "8.8万",
       "commentCount": "3540",
-      "increment": "1万",
+      "increment": "7733",
       "viewCount": "1990万"
     },
     {
@@ -273,7 +273,7 @@
       "publishedAt": "2017-02-01",
       "likeCount": "14.2万",
       "commentCount": "7481",
-      "increment": "2842",
+      "increment": "2199",
       "viewCount": "1987万"
     },
     {
@@ -295,9 +295,9 @@
       },
       "publishedAt": "2022-11-03",
       "likeCount": "-",
-      "commentCount": "9613",
-      "increment": "3706",
-      "viewCount": "1983万"
+      "commentCount": "9612",
+      "increment": "2920",
+      "viewCount": "1982万"
     },
     {
       "rank": 1714,
@@ -364,9 +364,9 @@
       },
       "publishedAt": "2020-06-10",
       "likeCount": "8.1万",
-      "commentCount": "3315",
+      "commentCount": "3316",
       "increment": "1万",
-      "viewCount": "1981万"
+      "viewCount": "1980万"
     },
     {
       "rank": 1717,
@@ -388,11 +388,57 @@
       "publishedAt": "2020-04-07",
       "likeCount": "8.2万",
       "commentCount": "5044",
-      "increment": "8421",
-      "viewCount": "1981万"
+      "increment": "6544",
+      "viewCount": "1980万"
     },
     {
       "rank": 1718,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/uUT0CLa6KWo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=uUT0CLa6KWo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "高橋優 「福笑い」",
+        "url": "https://www.youtube.com/watch?v=uUT0CLa6KWo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "高橋優",
+        "url": "https://www.youtube.com/channel/UCbfN8qDg9ZASf5lKHrerjDA",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-03-14",
+      "likeCount": "11.8万",
+      "commentCount": "4389",
+      "increment": "2761",
+      "viewCount": "1979万"
+    },
+    {
+      "rank": 1719,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ETtDJz9t09U/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ETtDJz9t09U",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "椎名林檎 - 公然の秘密",
+        "url": "https://www.youtube.com/watch?v=ETtDJz9t09U",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "椎名林檎",
+        "url": "https://www.youtube.com/channel/UCRQX-dpFt_osBpH71ItuuvA",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-10-17",
+      "likeCount": "15.7万",
+      "commentCount": "5666",
+      "increment": "2456",
+      "viewCount": "1979万"
+    },
+    {
+      "rank": 1720,
       "thumb": {
         "img": "https://i.ytimg.com/vi/RhN3PZCgjiY/default.jpg",
         "url": "https://www.youtube.com/watch?v=RhN3PZCgjiY",
@@ -415,52 +461,6 @@
       "viewCount": "1979万"
     },
     {
-      "rank": 1719,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/uUT0CLa6KWo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=uUT0CLa6KWo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "高橋優 「福笑い」",
-        "url": "https://www.youtube.com/watch?v=uUT0CLa6KWo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "高橋優",
-        "url": "https://www.youtube.com/channel/UCbfN8qDg9ZASf5lKHrerjDA",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-03-14",
-      "likeCount": "11.8万",
-      "commentCount": "4389",
-      "increment": "3643",
-      "viewCount": "1979万"
-    },
-    {
-      "rank": 1720,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ETtDJz9t09U/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ETtDJz9t09U",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "椎名林檎 - 公然の秘密",
-        "url": "https://www.youtube.com/watch?v=ETtDJz9t09U",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "椎名林檎",
-        "url": "https://www.youtube.com/channel/UCRQX-dpFt_osBpH71ItuuvA",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-10-17",
-      "likeCount": "15.7万",
-      "commentCount": "5666",
-      "increment": "3232",
-      "viewCount": "1979万"
-    },
-    {
       "rank": 1721,
       "thumb": {
         "img": "https://i.ytimg.com/vi/F4kUnm4nOpI/default.jpg",
@@ -480,34 +480,11 @@
       "publishedAt": "2016-06-07",
       "likeCount": "8.5万",
       "commentCount": "2911",
-      "increment": "1990",
+      "increment": "1584",
       "viewCount": "1977万"
     },
     {
       "rank": 1722,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/a_DNuT7J1wk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=a_DNuT7J1wk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "When Metallica only gives you 60 seconds to audition",
-        "url": "https://www.youtube.com/watch?v=a_DNuT7J1wk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ichika Nito",
-        "url": "https://www.youtube.com/channel/UCq3Wpi10SyZkzVeS7vzB5Lw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-01-09",
-      "likeCount": "54.8万",
-      "commentCount": "1.5万",
-      "increment": "3432",
-      "viewCount": "1976万"
-    },
-    {
-      "rank": 1723,
       "thumb": {
         "img": "https://i.ytimg.com/vi/wqvvGoFAhig/default.jpg",
         "url": "https://www.youtube.com/watch?v=wqvvGoFAhig",
@@ -526,7 +503,30 @@
       "publishedAt": "2015-04-13",
       "likeCount": "5.6万",
       "commentCount": "2210",
-      "increment": "786",
+      "increment": "587",
+      "viewCount": "1976万"
+    },
+    {
+      "rank": 1723,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/a_DNuT7J1wk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=a_DNuT7J1wk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "When Metallica only gives you 60 seconds to audition",
+        "url": "https://www.youtube.com/watch?v=a_DNuT7J1wk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ichika Nito",
+        "url": "https://www.youtube.com/channel/UCq3Wpi10SyZkzVeS7vzB5Lw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-01-09",
+      "likeCount": "54.8万",
+      "commentCount": "1.5万",
+      "increment": "2345",
       "viewCount": "1976万"
     },
     {
@@ -549,7 +549,7 @@
       "publishedAt": "2021-05-24",
       "likeCount": "-",
       "commentCount": "8113",
-      "increment": "2350",
+      "increment": "1850",
       "viewCount": "1976万"
     },
     {
@@ -572,7 +572,7 @@
       "publishedAt": "2018-01-12",
       "likeCount": "19.9万",
       "commentCount": "7135",
-      "increment": "2779",
+      "increment": "2195",
       "viewCount": "1975万"
     },
     {
@@ -618,7 +618,7 @@
       "publishedAt": "2015-12-31",
       "likeCount": "13.1万",
       "commentCount": "6380",
-      "increment": "3694",
+      "increment": "2979",
       "viewCount": "1973万"
     },
     {
@@ -641,7 +641,7 @@
       "publishedAt": "2022-03-01",
       "likeCount": "9.9万",
       "commentCount": "1108",
-      "increment": "8787",
+      "increment": "6766",
       "viewCount": "1972万"
     },
     {
@@ -664,7 +664,7 @@
       "publishedAt": "2008-12-26",
       "likeCount": "5万",
       "commentCount": "2450",
-      "increment": "4074",
+      "increment": "3120",
       "viewCount": "1972万"
     },
     {
@@ -687,7 +687,7 @@
       "publishedAt": "2022-09-14",
       "likeCount": "-",
       "commentCount": "6262",
-      "increment": "8318",
+      "increment": "6510",
       "viewCount": "1971万"
     },
     {
@@ -710,7 +710,7 @@
       "publishedAt": "2012-03-14",
       "likeCount": "8.9万",
       "commentCount": "3716",
-      "increment": "5312",
+      "increment": "4234",
       "viewCount": "1970万"
     },
     {
@@ -732,8 +732,8 @@
       },
       "publishedAt": "2014-07-21",
       "likeCount": "20.8万",
-      "commentCount": "4171",
-      "increment": "4353",
+      "commentCount": "4170",
+      "increment": "3321",
       "viewCount": "1969万"
     },
     {
@@ -756,8 +756,8 @@
       "publishedAt": "2019-10-02",
       "likeCount": "-",
       "commentCount": "-",
-      "increment": "1万",
-      "viewCount": "1969万"
+      "increment": "8000",
+      "viewCount": "1968万"
     },
     {
       "rank": 1734,
@@ -779,7 +779,7 @@
       "publishedAt": "2019-08-03",
       "likeCount": "16.1万",
       "commentCount": "4752",
-      "increment": "3741",
+      "increment": "2852",
       "viewCount": "1967万"
     },
     {
@@ -802,7 +802,7 @@
       "publishedAt": "2013-08-21",
       "likeCount": "6.4万",
       "commentCount": "4370",
-      "increment": "1278",
+      "increment": "1004",
       "viewCount": "1964万"
     },
     {
@@ -825,7 +825,7 @@
       "publishedAt": "2021-07-01",
       "likeCount": "8.3万",
       "commentCount": "39",
-      "increment": "1155",
+      "increment": "835",
       "viewCount": "1964万"
     },
     {
@@ -848,7 +848,7 @@
       "publishedAt": "2014-08-27",
       "likeCount": "6万",
       "commentCount": "3443",
-      "increment": "1499",
+      "increment": "1166",
       "viewCount": "1960万"
     },
     {
@@ -871,7 +871,7 @@
       "publishedAt": "2023-03-03",
       "likeCount": "-",
       "commentCount": "2.6万",
-      "increment": "2210",
+      "increment": "1752",
       "viewCount": "1960万"
     },
     {
@@ -894,7 +894,7 @@
       "publishedAt": "2024-05-03",
       "likeCount": "-",
       "commentCount": "2.1万",
-      "increment": "7440",
+      "increment": "5849",
       "viewCount": "1959万"
     },
     {
@@ -917,7 +917,7 @@
       "publishedAt": "2020-09-26",
       "likeCount": "-",
       "commentCount": "1.5万",
-      "increment": "2912",
+      "increment": "2220",
       "viewCount": "1958万"
     },
     {
@@ -938,9 +938,9 @@
         "target": "_blank"
       },
       "publishedAt": "2014-08-12",
-      "likeCount": "5.7万",
+      "likeCount": "5.8万",
       "commentCount": "2156",
-      "increment": "950",
+      "increment": "672",
       "viewCount": "1958万"
     },
     {
@@ -963,7 +963,7 @@
       "publishedAt": "2019-01-12",
       "likeCount": "22.2万",
       "commentCount": "7206",
-      "increment": "7495",
+      "increment": "5708",
       "viewCount": "1957万"
     },
     {
@@ -986,7 +986,7 @@
       "publishedAt": "2012-03-07",
       "likeCount": "5.4万",
       "commentCount": "1926",
-      "increment": "4423",
+      "increment": "3693",
       "viewCount": "1955万"
     },
     {
@@ -1009,7 +1009,7 @@
       "publishedAt": "2012-06-04",
       "likeCount": "8.6万",
       "commentCount": "1万",
-      "increment": "2472",
+      "increment": "1873",
       "viewCount": "1954万"
     },
     {
@@ -1032,7 +1032,7 @@
       "publishedAt": "2017-02-20",
       "likeCount": "6.3万",
       "commentCount": "4219",
-      "increment": "381",
+      "increment": "298",
       "viewCount": "1954万"
     },
     {
@@ -1055,7 +1055,7 @@
       "publishedAt": "2021-07-12",
       "likeCount": "-",
       "commentCount": "9563",
-      "increment": "3011",
+      "increment": "2344",
       "viewCount": "1953万"
     },
     {
@@ -1078,8 +1078,8 @@
       "publishedAt": "2022-09-06",
       "likeCount": "32.6万",
       "commentCount": "3592",
-      "increment": "8460",
-      "viewCount": "1953万"
+      "increment": "6681",
+      "viewCount": "1952万"
     },
     {
       "rank": 1748,
@@ -1101,7 +1101,7 @@
       "publishedAt": "2016-12-19",
       "likeCount": "8.6万",
       "commentCount": "1620",
-      "increment": "2796",
+      "increment": "2095",
       "viewCount": "1951万"
     },
     {
@@ -1124,7 +1124,7 @@
       "publishedAt": "2009-07-06",
       "likeCount": "-",
       "commentCount": "-",
-      "increment": "3198",
+      "increment": "2373",
       "viewCount": "1947万"
     },
     {
@@ -1147,8 +1147,8 @@
       "publishedAt": "2019-12-14",
       "likeCount": "9.6万",
       "commentCount": "2182",
-      "increment": "9043",
-      "viewCount": "1946万"
+      "increment": "6918",
+      "viewCount": "1945万"
     }
   ]
 }

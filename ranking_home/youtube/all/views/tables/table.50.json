@@ -20,7 +20,7 @@
       "publishedAt": "2017-02-22",
       "likeCount": "10.9万",
       "commentCount": "4392",
-      "increment": "1328",
+      "increment": "1041",
       "viewCount": "1401万"
     },
     {
@@ -43,7 +43,7 @@
       "publishedAt": "2025-01-09",
       "likeCount": "4.4万",
       "commentCount": "3140",
-      "increment": "2118",
+      "increment": "1540",
       "viewCount": "1401万"
     },
     {
@@ -66,7 +66,7 @@
       "publishedAt": "2009-07-06",
       "likeCount": "-",
       "commentCount": "-",
-      "increment": "1951",
+      "increment": "1480",
       "viewCount": "1400万"
     },
     {
@@ -89,7 +89,7 @@
       "publishedAt": "2010-09-08",
       "likeCount": "4.1万",
       "commentCount": "3113",
-      "increment": "637",
+      "increment": "510",
       "viewCount": "1400万"
     },
     {
@@ -112,7 +112,7 @@
       "publishedAt": "2017-09-07",
       "likeCount": "8.5万",
       "commentCount": "3642",
-      "increment": "2438",
+      "increment": "1876",
       "viewCount": "1399万"
     },
     {
@@ -135,7 +135,7 @@
       "publishedAt": "2023-12-08",
       "likeCount": "30.1万",
       "commentCount": "1.1万",
-      "increment": "4544",
+      "increment": "3423",
       "viewCount": "1398万"
     },
     {
@@ -158,7 +158,7 @@
       "publishedAt": "2022-06-06",
       "likeCount": "12.7万",
       "commentCount": "3690",
-      "increment": "1823",
+      "increment": "1529",
       "viewCount": "1397万"
     },
     {
@@ -181,7 +181,7 @@
       "publishedAt": "2022-11-13",
       "likeCount": "14.3万",
       "commentCount": "2637",
-      "increment": "4623",
+      "increment": "3609",
       "viewCount": "1396万"
     },
     {
@@ -204,7 +204,7 @@
       "publishedAt": "2014-08-01",
       "likeCount": "5.4万",
       "commentCount": "1645",
-      "increment": "1042",
+      "increment": "786",
       "viewCount": "1395万"
     },
     {
@@ -227,7 +227,7 @@
       "publishedAt": "2014-09-26",
       "likeCount": "3.7万",
       "commentCount": "1297",
-      "increment": "815",
+      "increment": "677",
       "viewCount": "1395万"
     },
     {
@@ -249,8 +249,8 @@
       },
       "publishedAt": "2019-10-28",
       "likeCount": "-",
-      "commentCount": "9580",
-      "increment": "5372",
+      "commentCount": "9578",
+      "increment": "4334",
       "viewCount": "1394万"
     },
     {
@@ -273,7 +273,7 @@
       "publishedAt": "2022-09-16",
       "likeCount": "5.6万",
       "commentCount": "1517",
-      "increment": "5302",
+      "increment": "4139",
       "viewCount": "1393万"
     },
     {
@@ -296,7 +296,7 @@
       "publishedAt": "2022-01-11",
       "likeCount": "4.3万",
       "commentCount": "-",
-      "increment": "2392",
+      "increment": "1889",
       "viewCount": "1393万"
     },
     {
@@ -319,7 +319,7 @@
       "publishedAt": "2016-12-26",
       "likeCount": "12.1万",
       "commentCount": "4573",
-      "increment": "940",
+      "increment": "698",
       "viewCount": "1393万"
     },
     {
@@ -342,34 +342,11 @@
       "publishedAt": "2012-05-16",
       "likeCount": "6.3万",
       "commentCount": "1629",
-      "increment": "2310",
+      "increment": "1852",
       "viewCount": "1392万"
     },
     {
       "rank": 2466,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/5mmEgt5ZCZw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=5mmEgt5ZCZw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "YZERR / Back Stage feat. Tiji Jojo (Official Video)",
-        "url": "https://www.youtube.com/watch?v=5mmEgt5ZCZw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BAD HOP",
-        "url": "https://www.youtube.com/channel/UCcb0Ixexedx7eXLzgYZh6bg",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-03-17",
-      "likeCount": "5.7万",
-      "commentCount": "2767",
-      "increment": "3180",
-      "viewCount": "1392万"
-    },
-    {
-      "rank": 2467,
       "thumb": {
         "img": "https://i.ytimg.com/vi/BfyH4ROtFm0/default.jpg",
         "url": "https://www.youtube.com/watch?v=BfyH4ROtFm0",
@@ -388,7 +365,30 @@
       "publishedAt": "2020-10-02",
       "likeCount": "19.7万",
       "commentCount": "3914",
-      "increment": "3049",
+      "increment": "2386",
+      "viewCount": "1392万"
+    },
+    {
+      "rank": 2467,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/5mmEgt5ZCZw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=5mmEgt5ZCZw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "YZERR / Back Stage feat. Tiji Jojo (Official Video)",
+        "url": "https://www.youtube.com/watch?v=5mmEgt5ZCZw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BAD HOP",
+        "url": "https://www.youtube.com/channel/UCcb0Ixexedx7eXLzgYZh6bg",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-03-17",
+      "likeCount": "5.7万",
+      "commentCount": "2767",
+      "increment": "2430",
       "viewCount": "1392万"
     },
     {
@@ -411,7 +411,7 @@
       "publishedAt": "2018-02-06",
       "likeCount": "9.1万",
       "commentCount": "3474",
-      "increment": "3897",
+      "increment": "3029",
       "viewCount": "1391万"
     },
     {
@@ -434,7 +434,7 @@
       "publishedAt": "2018-05-01",
       "likeCount": "8.6万",
       "commentCount": "9520",
-      "increment": "971",
+      "increment": "786",
       "viewCount": "1389万"
     },
     {
@@ -457,7 +457,7 @@
       "publishedAt": "2018-03-19",
       "likeCount": "9.3万",
       "commentCount": "4208",
-      "increment": "1874",
+      "increment": "1455",
       "viewCount": "1389万"
     },
     {
@@ -480,7 +480,7 @@
       "publishedAt": "2022-05-31",
       "likeCount": "78.2万",
       "commentCount": "4.5万",
-      "increment": "2720",
+      "increment": "1888",
       "viewCount": "1389万"
     },
     {
@@ -503,7 +503,7 @@
       "publishedAt": "2020-01-17",
       "likeCount": "31.9万",
       "commentCount": "6017",
-      "increment": "1466",
+      "increment": "1066",
       "viewCount": "1386万"
     },
     {
@@ -526,7 +526,7 @@
       "publishedAt": "2010-11-05",
       "likeCount": "-",
       "commentCount": "4777",
-      "increment": "1851",
+      "increment": "1491",
       "viewCount": "1386万"
     },
     {
@@ -549,7 +549,7 @@
       "publishedAt": "2016-05-09",
       "likeCount": "3.1万",
       "commentCount": "790",
-      "increment": "263",
+      "increment": "202",
       "viewCount": "1386万"
     },
     {
@@ -572,8 +572,8 @@
       "publishedAt": "2016-05-25",
       "likeCount": "8万",
       "commentCount": "1995",
-      "increment": "3195",
-      "viewCount": "1386万"
+      "increment": "2467",
+      "viewCount": "1385万"
     },
     {
       "rank": 2476,
@@ -594,9 +594,9 @@
       },
       "publishedAt": "2022-08-29",
       "likeCount": "7万",
-      "commentCount": "3592",
+      "commentCount": "3589",
       "increment": "1万",
-      "viewCount": "1385万"
+      "viewCount": "1384万"
     },
     {
       "rank": 2477,
@@ -618,7 +618,7 @@
       "publishedAt": "2022-02-04",
       "likeCount": "-",
       "commentCount": "1.2万",
-      "increment": "1959",
+      "increment": "1489",
       "viewCount": "1384万"
     },
     {
@@ -641,7 +641,7 @@
       "publishedAt": "2010-03-17",
       "likeCount": "2.6万",
       "commentCount": "-",
-      "increment": "58",
+      "increment": "44",
       "viewCount": "1384万"
     },
     {
@@ -664,7 +664,7 @@
       "publishedAt": "2016-09-21",
       "likeCount": "9.7万",
       "commentCount": "2307",
-      "increment": "1556",
+      "increment": "1116",
       "viewCount": "1383万"
     },
     {
@@ -686,8 +686,8 @@
       },
       "publishedAt": "2023-03-31",
       "likeCount": "-",
-      "commentCount": "5404",
-      "increment": "4985",
+      "commentCount": "5403",
+      "increment": "3867",
       "viewCount": "1383万"
     },
     {
@@ -710,11 +710,34 @@
       "publishedAt": "2022-11-19",
       "likeCount": "12.1万",
       "commentCount": "1.2万",
-      "increment": "4853",
+      "increment": "3756",
       "viewCount": "1379万"
     },
     {
       "rank": 2482,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/u92-LNtnwlg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=u92-LNtnwlg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Repezen Chikyu - 10th Single - FUKUOKA JIHEN",
+        "url": "https://www.youtube.com/watch?v=u92-LNtnwlg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Repezen Foxx - Studio Candy Foxx Co.",
+        "url": "https://www.youtube.com/channel/UCxMLTQETeHIB2WGuTOG5wJA",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-03-02",
+      "likeCount": "9.8万",
+      "commentCount": "4126",
+      "increment": "1110",
+      "viewCount": "1378万"
+    },
+    {
+      "rank": 2483,
       "thumb": {
         "img": "https://i.ytimg.com/vi/r5XGepExNQ8/default.jpg",
         "url": "https://www.youtube.com/watch?v=r5XGepExNQ8",
@@ -733,30 +756,7 @@
       "publishedAt": "2025-02-07",
       "likeCount": "5万",
       "commentCount": "1744",
-      "increment": "8086",
-      "viewCount": "1378万"
-    },
-    {
-      "rank": 2483,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/u92-LNtnwlg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=u92-LNtnwlg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Repezen Chikyu - 10th Single - FUKUOKA JIHEN",
-        "url": "https://www.youtube.com/watch?v=u92-LNtnwlg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Repezen Foxx - Studio Candy Foxx Co.",
-        "url": "https://www.youtube.com/channel/UCxMLTQETeHIB2WGuTOG5wJA",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-03-02",
-      "likeCount": "9.8万",
-      "commentCount": "4127",
-      "increment": "1377",
+      "increment": "6279",
       "viewCount": "1378万"
     },
     {
@@ -778,8 +778,8 @@
       },
       "publishedAt": "2015-06-09",
       "likeCount": "5.3万",
-      "commentCount": "1618",
-      "increment": "1299",
+      "commentCount": "1617",
+      "increment": "1005",
       "viewCount": "1378万"
     },
     {
@@ -802,7 +802,7 @@
       "publishedAt": "2010-05-11",
       "likeCount": "3.7万",
       "commentCount": "1505",
-      "increment": "1103",
+      "increment": "905",
       "viewCount": "1376万"
     },
     {
@@ -825,7 +825,7 @@
       "publishedAt": "2015-11-12",
       "likeCount": "6.2万",
       "commentCount": "3070",
-      "increment": "454",
+      "increment": "314",
       "viewCount": "1376万"
     },
     {
@@ -848,7 +848,7 @@
       "publishedAt": "2021-07-04",
       "likeCount": "20.5万",
       "commentCount": "5517",
-      "increment": "3424",
+      "increment": "2667",
       "viewCount": "1376万"
     },
     {
@@ -871,7 +871,7 @@
       "publishedAt": "2010-07-23",
       "likeCount": "1.6万",
       "commentCount": "547",
-      "increment": "883",
+      "increment": "692",
       "viewCount": "1375万"
     },
     {
@@ -894,7 +894,7 @@
       "publishedAt": "2020-12-08",
       "likeCount": "-",
       "commentCount": "2.3万",
-      "increment": "756",
+      "increment": "603",
       "viewCount": "1375万"
     },
     {
@@ -917,7 +917,7 @@
       "publishedAt": "2019-05-05",
       "likeCount": "11.1万",
       "commentCount": "4477",
-      "increment": "1007",
+      "increment": "811",
       "viewCount": "1374万"
     },
     {
@@ -940,7 +940,7 @@
       "publishedAt": "2018-12-18",
       "likeCount": "23万",
       "commentCount": "2917",
-      "increment": "6985",
+      "increment": "5390",
       "viewCount": "1374万"
     },
     {
@@ -963,34 +963,11 @@
       "publishedAt": "2014-04-01",
       "likeCount": "3.3万",
       "commentCount": "2059",
-      "increment": "669",
+      "increment": "515",
       "viewCount": "1373万"
     },
     {
       "rank": 2493,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Yd8kUoB72xU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Yd8kUoB72xU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "TVアニメ「ぼっち・ざ・ろっく！」オープニング映像/「青春コンプレックス」#結束バンド",
-        "url": "https://www.youtube.com/watch?v=Yd8kUoB72xU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アニプレックス チャンネル",
-        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-10-08",
-      "likeCount": "14.2万",
-      "commentCount": "4012",
-      "increment": "6852",
-      "viewCount": "1372万"
-    },
-    {
-      "rank": 2494,
       "thumb": {
         "img": "https://i.ytimg.com/vi/VZKMaFR2mtU/default.jpg",
         "url": "https://www.youtube.com/watch?v=VZKMaFR2mtU",
@@ -1009,7 +986,30 @@
       "publishedAt": "2012-09-11",
       "likeCount": "5.7万",
       "commentCount": "2241",
-      "increment": "994",
+      "increment": "741",
+      "viewCount": "1372万"
+    },
+    {
+      "rank": 2494,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Yd8kUoB72xU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Yd8kUoB72xU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "TVアニメ「ぼっち・ざ・ろっく！」オープニング映像/「青春コンプレックス」#結束バンド",
+        "url": "https://www.youtube.com/watch?v=Yd8kUoB72xU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "アニプレックス チャンネル",
+        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-10-08",
+      "likeCount": "14.2万",
+      "commentCount": "4012",
+      "increment": "5307",
       "viewCount": "1372万"
     },
     {
@@ -1032,7 +1032,7 @@
       "publishedAt": "2023-05-30",
       "likeCount": "10.7万",
       "commentCount": "6.5万",
-      "increment": "4962",
+      "increment": "3682",
       "viewCount": "1371万"
     },
     {
@@ -1055,7 +1055,7 @@
       "publishedAt": "2015-09-26",
       "likeCount": "8.3万",
       "commentCount": "590",
-      "increment": "6629",
+      "increment": "5273",
       "viewCount": "1371万"
     },
     {
@@ -1078,7 +1078,7 @@
       "publishedAt": "2008-07-07",
       "likeCount": "-",
       "commentCount": "-",
-      "increment": "1249",
+      "increment": "1053",
       "viewCount": "1369万"
     },
     {
@@ -1101,34 +1101,11 @@
       "publishedAt": "2019-04-30",
       "likeCount": "11.6万",
       "commentCount": "9353",
-      "increment": "874",
+      "increment": "620",
       "viewCount": "1368万"
     },
     {
       "rank": 2499,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/dkwlFZTXdzQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=dkwlFZTXdzQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "清水翔太『PUZZLE』MV",
-        "url": "https://www.youtube.com/watch?v=dkwlFZTXdzQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "清水翔太 / Shota Shimizu",
-        "url": "https://www.youtube.com/channel/UCv3cmuTwVzTXROJdaT7xw6w",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-10-09",
-      "likeCount": "-",
-      "commentCount": "1811",
-      "increment": "4万",
-      "viewCount": "1368万"
-    },
-    {
-      "rank": 2500,
       "thumb": {
         "img": "https://i.ytimg.com/vi/yhAeVfpy_Mo/default.jpg",
         "url": "https://www.youtube.com/watch?v=yhAeVfpy_Mo",
@@ -1147,7 +1124,30 @@
       "publishedAt": "2016-04-13",
       "likeCount": "50.9万",
       "commentCount": "2.4万",
-      "increment": "277",
+      "increment": "206",
+      "viewCount": "1367万"
+    },
+    {
+      "rank": 2500,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/EYGGd2NKwtI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=EYGGd2NKwtI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "手嶌葵 - 森の小さなレストラン（Official Audio）",
+        "url": "https://www.youtube.com/watch?v=EYGGd2NKwtI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "手嶌葵",
+        "url": "https://www.youtube.com/channel/UCydOdaFQun43tPMSiSbbd_Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-04-11",
+      "likeCount": "50.2万",
+      "commentCount": "1.5万",
+      "increment": "2万",
       "viewCount": "1367万"
     }
   ]

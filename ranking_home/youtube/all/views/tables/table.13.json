@@ -20,7 +20,7 @@
       "publishedAt": "2012-03-14",
       "likeCount": "38万",
       "commentCount": "2.9万",
-      "increment": "3862",
+      "increment": "2780",
       "viewCount": "5185万"
     },
     {
@@ -43,8 +43,8 @@
       "publishedAt": "2019-01-04",
       "likeCount": "72.1万",
       "commentCount": "1.4万",
-      "increment": "3万",
-      "viewCount": "5169万"
+      "increment": "2万",
+      "viewCount": "5168万"
     },
     {
       "rank": 603,
@@ -66,8 +66,8 @@
       "publishedAt": "2020-03-19",
       "likeCount": "15.6万",
       "commentCount": "5343",
-      "increment": "2万",
-      "viewCount": "5160万"
+      "increment": "1万",
+      "viewCount": "5159万"
     },
     {
       "rank": 604,
@@ -89,7 +89,7 @@
       "publishedAt": "2020-01-23",
       "likeCount": "44.3万",
       "commentCount": "1.9万",
-      "increment": "3万",
+      "increment": "2万",
       "viewCount": "5154万"
     },
     {
@@ -112,7 +112,7 @@
       "publishedAt": "2019-04-21",
       "likeCount": "52.9万",
       "commentCount": "1.5万",
-      "increment": "206",
+      "increment": "164",
       "viewCount": "5154万"
     },
     {
@@ -134,8 +134,8 @@
       },
       "publishedAt": "2011-01-13",
       "likeCount": "19.1万",
-      "commentCount": "5593",
-      "increment": "1万",
+      "commentCount": "5592",
+      "increment": "8953",
       "viewCount": "5149万"
     },
     {
@@ -158,8 +158,8 @@
       "publishedAt": "2023-11-06",
       "likeCount": "28.7万",
       "commentCount": "3989",
-      "increment": "4万",
-      "viewCount": "5146万"
+      "increment": "3万",
+      "viewCount": "5145万"
     },
     {
       "rank": 608,
@@ -181,8 +181,8 @@
       "publishedAt": "2021-01-05",
       "likeCount": "22.4万",
       "commentCount": "376",
-      "increment": "4万",
-      "viewCount": "5145万"
+      "increment": "3万",
+      "viewCount": "5144万"
     },
     {
       "rank": 609,
@@ -204,7 +204,7 @@
       "publishedAt": "2019-10-19",
       "likeCount": "80.8万",
       "commentCount": "5.8万",
-      "increment": "9416",
+      "increment": "7342",
       "viewCount": "5136万"
     },
     {
@@ -227,8 +227,8 @@
       "publishedAt": "2015-10-21",
       "likeCount": "20.6万",
       "commentCount": "1万",
-      "increment": "1086",
-      "viewCount": "5136万"
+      "increment": "853",
+      "viewCount": "5135万"
     },
     {
       "rank": 611,
@@ -250,34 +250,11 @@
       "publishedAt": "2015-01-28",
       "likeCount": "32.3万",
       "commentCount": "9383",
-      "increment": "5793",
+      "increment": "4362",
       "viewCount": "5117万"
     },
     {
       "rank": 612,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/pyDCubgU57g/default.jpg",
-        "url": "https://www.youtube.com/watch?v=pyDCubgU57g",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "蒼のワルツ - Eve MV",
-        "url": "https://www.youtube.com/watch?v=pyDCubgU57g",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Eve",
-        "url": "https://www.youtube.com/channel/UCshvzIrmP9UjzOa4WH1KPHQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-12-21",
-      "likeCount": "65.2万",
-      "commentCount": "1.9万",
-      "increment": "1万",
-      "viewCount": "5116万"
-    },
-    {
-      "rank": 613,
       "thumb": {
         "img": "https://i.ytimg.com/vi/mHP6-D-yBEw/default.jpg",
         "url": "https://www.youtube.com/watch?v=mHP6-D-yBEw",
@@ -296,6 +273,29 @@
       "publishedAt": "2022-02-06",
       "likeCount": "45.8万",
       "commentCount": "2.5万",
+      "increment": "1万",
+      "viewCount": "5116万"
+    },
+    {
+      "rank": 613,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/pyDCubgU57g/default.jpg",
+        "url": "https://www.youtube.com/watch?v=pyDCubgU57g",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "蒼のワルツ - Eve MV",
+        "url": "https://www.youtube.com/watch?v=pyDCubgU57g",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Eve",
+        "url": "https://www.youtube.com/channel/UCshvzIrmP9UjzOa4WH1KPHQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-12-21",
+      "likeCount": "65.2万",
+      "commentCount": "1.9万",
       "increment": "1万",
       "viewCount": "5116万"
     },
@@ -319,8 +319,8 @@
       "publishedAt": "2024-05-23",
       "likeCount": "70.1万",
       "commentCount": "2.5万",
-      "increment": "5万",
-      "viewCount": "5116万"
+      "increment": "4万",
+      "viewCount": "5114万"
     },
     {
       "rank": 615,
@@ -342,7 +342,7 @@
       "publishedAt": "2013-09-09",
       "likeCount": "9.5万",
       "commentCount": "5210",
-      "increment": "2201",
+      "increment": "1777",
       "viewCount": "5112万"
     },
     {
@@ -365,8 +365,8 @@
       "publishedAt": "2023-06-13",
       "likeCount": "39.2万",
       "commentCount": "1万",
-      "increment": "7万",
-      "viewCount": "5111万"
+      "increment": "5万",
+      "viewCount": "5110万"
     },
     {
       "rank": 617,
@@ -388,7 +388,7 @@
       "publishedAt": "2015-03-27",
       "likeCount": "10.6万",
       "commentCount": "-",
-      "increment": "3833",
+      "increment": "3021",
       "viewCount": "5063万"
     },
     {
@@ -411,7 +411,7 @@
       "publishedAt": "2018-09-30",
       "likeCount": "24.5万",
       "commentCount": "8545",
-      "increment": "5583",
+      "increment": "4341",
       "viewCount": "5061万"
     },
     {
@@ -433,9 +433,9 @@
       },
       "publishedAt": "2022-12-24",
       "likeCount": "33.6万",
-      "commentCount": "8301",
+      "commentCount": "8300",
       "increment": "2万",
-      "viewCount": "5056万"
+      "viewCount": "5055万"
     },
     {
       "rank": 620,
@@ -457,8 +457,8 @@
       "publishedAt": "2024-02-17",
       "likeCount": "30.5万",
       "commentCount": "5469",
-      "increment": "5万",
-      "viewCount": "5055万"
+      "increment": "4万",
+      "viewCount": "5054万"
     },
     {
       "rank": 621,
@@ -480,8 +480,8 @@
       "publishedAt": "2014-03-13",
       "likeCount": "26.3万",
       "commentCount": "7010",
-      "increment": "8047",
-      "viewCount": "5040万"
+      "increment": "6100",
+      "viewCount": "5039万"
     },
     {
       "rank": 622,
@@ -504,7 +504,7 @@
       "likeCount": "17.4万",
       "commentCount": "1.1万",
       "increment": "1万",
-      "viewCount": "5028万"
+      "viewCount": "5027万"
     },
     {
       "rank": 623,
@@ -526,7 +526,7 @@
       "publishedAt": "2016-02-22",
       "likeCount": "43.6万",
       "commentCount": "1.6万",
-      "increment": "6714",
+      "increment": "5295",
       "viewCount": "5016万"
     },
     {
@@ -549,8 +549,8 @@
       "publishedAt": "2021-05-24",
       "likeCount": "24.6万",
       "commentCount": "6018",
-      "increment": "2万",
-      "viewCount": "5016万"
+      "increment": "1万",
+      "viewCount": "5015万"
     },
     {
       "rank": 625,
@@ -570,36 +570,13 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
-      "likeCount": "36.6万",
+      "likeCount": "36.5万",
       "commentCount": "695",
-      "increment": "5万",
-      "viewCount": "5014万"
+      "increment": "4万",
+      "viewCount": "5013万"
     },
     {
       "rank": 626,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/8nxaZ69ElEc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=8nxaZ69ElEc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "米津玄師 - 死神　 Kenshi Yonezu - Shinigami",
-        "url": "https://www.youtube.com/watch?v=8nxaZ69ElEc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-06-24",
-      "likeCount": "63.4万",
-      "commentCount": "2.7万",
-      "increment": "2万",
-      "viewCount": "5008万"
-    },
-    {
-      "rank": 627,
       "thumb": {
         "img": "https://i.ytimg.com/vi/n0QNaym0jDI/default.jpg",
         "url": "https://www.youtube.com/watch?v=n0QNaym0jDI",
@@ -618,6 +595,29 @@
       "publishedAt": "2021-10-15",
       "likeCount": "37.2万",
       "commentCount": "1.2万",
+      "increment": "8664",
+      "viewCount": "5008万"
+    },
+    {
+      "rank": 627,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/8nxaZ69ElEc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=8nxaZ69ElEc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "米津玄師 - 死神　 Kenshi Yonezu - Shinigami",
+        "url": "https://www.youtube.com/watch?v=8nxaZ69ElEc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-06-24",
+      "likeCount": "63.4万",
+      "commentCount": "2.7万",
       "increment": "1万",
       "viewCount": "5008万"
     },
@@ -641,8 +641,8 @@
       "publishedAt": "2014-01-26",
       "likeCount": "50.4万",
       "commentCount": "1万",
-      "increment": "1万",
-      "viewCount": "5001万"
+      "increment": "7590",
+      "viewCount": "5000万"
     },
     {
       "rank": 629,
@@ -664,7 +664,7 @@
       "publishedAt": "2009-03-27",
       "likeCount": "14.6万",
       "commentCount": "8515",
-      "increment": "7260",
+      "increment": "5592",
       "viewCount": "4999万"
     },
     {
@@ -688,7 +688,7 @@
       "likeCount": "28.9万",
       "commentCount": "2.2万",
       "increment": "1万",
-      "viewCount": "4998万"
+      "viewCount": "4997万"
     },
     {
       "rank": 631,
@@ -710,7 +710,7 @@
       "publishedAt": "2020-06-25",
       "likeCount": "-",
       "commentCount": "5.9万",
-      "increment": "7044",
+      "increment": "5418",
       "viewCount": "4991万"
     },
     {
@@ -733,7 +733,7 @@
       "publishedAt": "2021-12-02",
       "likeCount": "120.8万",
       "commentCount": "5.5万",
-      "increment": "1万",
+      "increment": "8192",
       "viewCount": "4977万"
     },
     {
@@ -756,7 +756,7 @@
       "publishedAt": "2016-04-19",
       "likeCount": "34.2万",
       "commentCount": "1.6万",
-      "increment": "3339",
+      "increment": "2691",
       "viewCount": "4977万"
     },
     {
@@ -779,7 +779,7 @@
       "publishedAt": "2017-02-22",
       "likeCount": "40万",
       "commentCount": "2.2万",
-      "increment": "9664",
+      "increment": "7763",
       "viewCount": "4969万"
     },
     {
@@ -802,7 +802,7 @@
       "publishedAt": "2014-02-20",
       "likeCount": "17.2万",
       "commentCount": "5106",
-      "increment": "5520",
+      "increment": "4288",
       "viewCount": "4946万"
     },
     {
@@ -848,7 +848,7 @@
       "publishedAt": "2012-08-22",
       "likeCount": "10.7万",
       "commentCount": "4823",
-      "increment": "1万",
+      "increment": "8492",
       "viewCount": "4938万"
     },
     {
@@ -871,7 +871,7 @@
       "publishedAt": "2020-01-24",
       "likeCount": "-",
       "commentCount": "1046",
-      "increment": "1万",
+      "increment": "8477",
       "viewCount": "4935万"
     },
     {
@@ -894,7 +894,7 @@
       "publishedAt": "2018-08-13",
       "likeCount": "34万",
       "commentCount": "7870",
-      "increment": "9102",
+      "increment": "7207",
       "viewCount": "4932万"
     },
     {
@@ -917,7 +917,7 @@
       "publishedAt": "2020-02-18",
       "likeCount": "37.2万",
       "commentCount": "6831",
-      "increment": "8498",
+      "increment": "6331",
       "viewCount": "4931万"
     },
     {
@@ -940,7 +940,7 @@
       "publishedAt": "2020-07-22",
       "likeCount": "63.9万",
       "commentCount": "15.8万",
-      "increment": "7624",
+      "increment": "6407",
       "viewCount": "4917万"
     },
     {
@@ -963,8 +963,8 @@
       "publishedAt": "2017-11-28",
       "likeCount": "32.7万",
       "commentCount": "6117",
-      "increment": "1万",
-      "viewCount": "4912万"
+      "increment": "8854",
+      "viewCount": "4911万"
     },
     {
       "rank": 643,
@@ -986,7 +986,7 @@
       "publishedAt": "2012-10-26",
       "likeCount": "13.9万",
       "commentCount": "1.1万",
-      "increment": "3728",
+      "increment": "2913",
       "viewCount": "4904万"
     },
     {
@@ -1009,7 +1009,7 @@
       "publishedAt": "2021-02-02",
       "likeCount": "12.5万",
       "commentCount": "1.3万",
-      "increment": "319",
+      "increment": "220",
       "viewCount": "4901万"
     },
     {
@@ -1032,7 +1032,7 @@
       "publishedAt": "2017-11-20",
       "likeCount": "22.9万",
       "commentCount": "6765",
-      "increment": "1636",
+      "increment": "1305",
       "viewCount": "4901万"
     },
     {
@@ -1055,8 +1055,8 @@
       "publishedAt": "2020-09-04",
       "likeCount": "32.7万",
       "commentCount": "1.5万",
-      "increment": "4万",
-      "viewCount": "4898万"
+      "increment": "3万",
+      "viewCount": "4897万"
     },
     {
       "rank": 647,
@@ -1078,8 +1078,8 @@
       "publishedAt": "2020-06-02",
       "likeCount": "51.9万",
       "commentCount": "8421",
-      "increment": "1万",
-      "viewCount": "4897万"
+      "increment": "7674",
+      "viewCount": "4896万"
     },
     {
       "rank": 648,
@@ -1124,7 +1124,7 @@
       "publishedAt": "2012-09-18",
       "likeCount": "56.5万",
       "commentCount": "2万",
-      "increment": "4848",
+      "increment": "3450",
       "viewCount": "4889万"
     },
     {
@@ -1147,7 +1147,7 @@
       "publishedAt": "2014-01-14",
       "likeCount": "13.6万",
       "commentCount": "6640",
-      "increment": "3032",
+      "increment": "2427",
       "viewCount": "4883万"
     }
   ]
