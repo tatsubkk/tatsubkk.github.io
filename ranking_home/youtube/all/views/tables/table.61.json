@@ -3,6 +3,29 @@
     {
       "rank": 3001,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/AGYJ6jeu3p8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=AGYJ6jeu3p8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "福山雅治 - 桜坂 (Full ver.)",
+        "url": "https://www.youtube.com/watch?v=AGYJ6jeu3p8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "福山雅治 Official",
+        "url": "https://www.youtube.com/channel/UCPzNj3UR5Sa8UDNL5j7_rOQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-03-19",
+      "likeCount": "5.5万",
+      "commentCount": "1867",
+      "increment": "4142",
+      "viewCount": "1113万"
+    },
+    {
+      "rank": 3002,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/p951ocPuJF0/default.jpg",
         "url": "https://www.youtube.com/watch?v=p951ocPuJF0",
         "target": "_blank"
@@ -20,30 +43,7 @@
       "publishedAt": "2023-09-06",
       "likeCount": "12.1万",
       "commentCount": "1419",
-      "increment": "4072",
-      "viewCount": "1113万"
-    },
-    {
-      "rank": 3002,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/P2GhoO-u0kI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=P2GhoO-u0kI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE「ツキマシテハ」Official Lyric Video",
-        "url": "https://www.youtube.com/watch?v=P2GhoO-u0kI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-07-05",
-      "likeCount": "10.5万",
-      "commentCount": "3167",
-      "increment": "9910",
+      "increment": "5108",
       "viewCount": "1113万"
     },
     {
@@ -66,7 +66,7 @@
       "publishedAt": "2018-03-24",
       "likeCount": "10.7万",
       "commentCount": "3412",
-      "increment": "479",
+      "increment": "718",
       "viewCount": "1113万"
     },
     {
@@ -89,11 +89,34 @@
       "publishedAt": "2016-09-09",
       "likeCount": "4.2万",
       "commentCount": "2281",
-      "increment": "419",
+      "increment": "443",
       "viewCount": "1112万"
     },
     {
       "rank": 3005,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/pKEOgP5ARXU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=pKEOgP5ARXU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "當山みれい 『sayonara』Music Video",
+        "url": "https://www.youtube.com/watch?v=pKEOgP5ARXU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "當山みれい / MIREI",
+        "url": "https://www.youtube.com/channel/UCLMYRi83dsYs83prGn0tByw",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-11-30",
+      "likeCount": "12.7万",
+      "commentCount": "2092",
+      "increment": "2708",
+      "viewCount": "1112万"
+    },
+    {
+      "rank": 3006,
       "thumb": {
         "img": "https://i.ytimg.com/vi/juXD8vr5_r8/default.jpg",
         "url": "https://www.youtube.com/watch?v=juXD8vr5_r8",
@@ -112,11 +135,11 @@
       "publishedAt": "2020-03-20",
       "likeCount": "-",
       "commentCount": "8041",
-      "increment": "458",
+      "increment": "689",
       "viewCount": "1112万"
     },
     {
-      "rank": 3006,
+      "rank": 3007,
       "thumb": {
         "img": "https://i.ytimg.com/vi/_53QwBl9m88/default.jpg",
         "url": "https://www.youtube.com/watch?v=_53QwBl9m88",
@@ -135,30 +158,7 @@
       "publishedAt": "2018-01-10",
       "likeCount": "30.3万",
       "commentCount": "1.4万",
-      "increment": "282",
-      "viewCount": "1112万"
-    },
-    {
-      "rank": 3007,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/pKEOgP5ARXU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=pKEOgP5ARXU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "當山みれい 『sayonara』Music Video",
-        "url": "https://www.youtube.com/watch?v=pKEOgP5ARXU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "當山みれい / MIREI",
-        "url": "https://www.youtube.com/channel/UCLMYRi83dsYs83prGn0tByw",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-11-30",
-      "likeCount": "12.7万",
-      "commentCount": "2091",
-      "increment": "1989",
+      "increment": "395",
       "viewCount": "1112万"
     },
     {
@@ -181,11 +181,34 @@
       "publishedAt": "2014-12-21",
       "likeCount": "9.1万",
       "commentCount": "2910",
-      "increment": "1575",
+      "increment": "2051",
       "viewCount": "1112万"
     },
     {
       "rank": 3009,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/tHk4thfcL9Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=tHk4thfcL9Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Janne Da Arc - 月光花",
+        "url": "https://www.youtube.com/watch?v=tHk4thfcL9Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-01-25",
+      "likeCount": "7.2万",
+      "commentCount": "2427",
+      "increment": "1万",
+      "viewCount": "1111万"
+    },
+    {
+      "rank": 3010,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ViqPBSUt59g/default.jpg",
         "url": "https://www.youtube.com/watch?v=ViqPBSUt59g",
@@ -204,11 +227,11 @@
       "publishedAt": "2017-04-28",
       "likeCount": "10.1万",
       "commentCount": "2707",
-      "increment": "1341",
+      "increment": "1516",
       "viewCount": "1111万"
     },
     {
-      "rank": 3010,
+      "rank": 3011,
       "thumb": {
         "img": "https://i.ytimg.com/vi/aAMKXh4eIU0/default.jpg",
         "url": "https://www.youtube.com/watch?v=aAMKXh4eIU0",
@@ -227,11 +250,11 @@
       "publishedAt": "2021-11-30",
       "likeCount": "4.3万",
       "commentCount": "48",
-      "increment": "3390",
-      "viewCount": "1110万"
+      "increment": "4609",
+      "viewCount": "1111万"
     },
     {
-      "rank": 3011,
+      "rank": 3012,
       "thumb": {
         "img": "https://i.ytimg.com/vi/WVCJ91RHwe8/default.jpg",
         "url": "https://www.youtube.com/watch?v=WVCJ91RHwe8",
@@ -250,11 +273,11 @@
       "publishedAt": "2019-08-22",
       "likeCount": "12.1万",
       "commentCount": "3075",
-      "increment": "930",
+      "increment": "1211",
       "viewCount": "1110万"
     },
     {
-      "rank": 3012,
+      "rank": 3013,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ObJ7NI83Lzk/default.jpg",
         "url": "https://www.youtube.com/watch?v=ObJ7NI83Lzk",
@@ -273,34 +296,34 @@
       "publishedAt": "2019-04-26",
       "likeCount": "-",
       "commentCount": "1.4万",
-      "increment": "395",
-      "viewCount": "1110万"
-    },
-    {
-      "rank": 3013,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/tHk4thfcL9Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=tHk4thfcL9Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Janne Da Arc - 月光花",
-        "url": "https://www.youtube.com/watch?v=tHk4thfcL9Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-01-25",
-      "likeCount": "7.2万",
-      "commentCount": "2425",
-      "increment": "1万",
+      "increment": "561",
       "viewCount": "1110万"
     },
     {
       "rank": 3014,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/gErh5d3gpVk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=gErh5d3gpVk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "UVERworld　『Colors of the Heart』",
+        "url": "https://www.youtube.com/watch?v=gErh5d3gpVk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "UVERworld Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCnziFQs4Ihms4UtxmVZP6cg",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-04-11",
+      "likeCount": "3.7万",
+      "commentCount": "840",
+      "increment": "3201",
+      "viewCount": "1110万"
+    },
+    {
+      "rank": 3015,
       "thumb": {
         "img": "https://i.ytimg.com/vi/AH-qnLnlUvs/default.jpg",
         "url": "https://www.youtube.com/watch?v=AH-qnLnlUvs",
@@ -319,103 +342,11 @@
       "publishedAt": "2014-12-02",
       "likeCount": "2万",
       "commentCount": "622",
-      "increment": "87",
-      "viewCount": "1110万"
-    },
-    {
-      "rank": 3015,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/gErh5d3gpVk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=gErh5d3gpVk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "UVERworld　『Colors of the Heart』",
-        "url": "https://www.youtube.com/watch?v=gErh5d3gpVk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "UVERworld Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCnziFQs4Ihms4UtxmVZP6cg",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-04-11",
-      "likeCount": "3.7万",
-      "commentCount": "839",
-      "increment": "2235",
+      "increment": "80",
       "viewCount": "1110万"
     },
     {
       "rank": 3016,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/kU8yTuvbmq8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=kU8yTuvbmq8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SIRUP - Do Well (Official Music Video)",
-        "url": "https://www.youtube.com/watch?v=kU8yTuvbmq8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SPACE SHOWER",
-        "url": "https://www.youtube.com/channel/UCQZDh-m6a31o7rXJPuMiFbA",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-07-18",
-      "likeCount": "7.3万",
-      "commentCount": "1994",
-      "increment": "1116",
-      "viewCount": "1109万"
-    },
-    {
-      "rank": 3017,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/0l-qw9yRFOA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=0l-qw9yRFOA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ネクライトーキーMV「北上のススメ」",
-        "url": "https://www.youtube.com/watch?v=0l-qw9yRFOA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "NecryTalkie Official",
-        "url": "https://www.youtube.com/channel/UCOvn_LNao_hjdY-A5d7RUKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-01-29",
-      "likeCount": "31.1万",
-      "commentCount": "1.1万",
-      "increment": "2046",
-      "viewCount": "1109万"
-    },
-    {
-      "rank": 3018,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/_WNuc7Im4V8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=_WNuc7Im4V8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "TRF / 寒い夜だから",
-        "url": "https://www.youtube.com/watch?v=_WNuc7Im4V8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "TRF ",
-        "url": "https://www.youtube.com/channel/UCyPk5oaOSwn7w5_h-CJ0xQQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-09-28",
-      "likeCount": "-",
-      "commentCount": "-",
-      "increment": "1858",
-      "viewCount": "1109万"
-    },
-    {
-      "rank": 3019,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Y3T04hhdHA4/default.jpg",
         "url": "https://www.youtube.com/watch?v=Y3T04hhdHA4",
@@ -434,7 +365,76 @@
       "publishedAt": "2021-11-30",
       "likeCount": "3.2万",
       "commentCount": "90",
-      "increment": "7620",
+      "increment": "1万",
+      "viewCount": "1110万"
+    },
+    {
+      "rank": 3017,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/kU8yTuvbmq8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=kU8yTuvbmq8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SIRUP - Do Well (Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=kU8yTuvbmq8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SPACE SHOWER",
+        "url": "https://www.youtube.com/channel/UCQZDh-m6a31o7rXJPuMiFbA",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-07-18",
+      "likeCount": "7.3万",
+      "commentCount": "1994",
+      "increment": "1525",
+      "viewCount": "1109万"
+    },
+    {
+      "rank": 3018,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/0l-qw9yRFOA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=0l-qw9yRFOA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ネクライトーキーMV「北上のススメ」",
+        "url": "https://www.youtube.com/watch?v=0l-qw9yRFOA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "NecryTalkie Official",
+        "url": "https://www.youtube.com/channel/UCOvn_LNao_hjdY-A5d7RUKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-01-29",
+      "likeCount": "31.1万",
+      "commentCount": "1.1万",
+      "increment": "4745",
+      "viewCount": "1109万"
+    },
+    {
+      "rank": 3019,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/_WNuc7Im4V8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=_WNuc7Im4V8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "TRF / 寒い夜だから",
+        "url": "https://www.youtube.com/watch?v=_WNuc7Im4V8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "TRF ",
+        "url": "https://www.youtube.com/channel/UCyPk5oaOSwn7w5_h-CJ0xQQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-09-28",
+      "likeCount": "-",
+      "commentCount": "-",
+      "increment": "2312",
       "viewCount": "1109万"
     },
     {
@@ -456,8 +456,8 @@
       },
       "publishedAt": "2019-11-16",
       "likeCount": "5.5万",
-      "commentCount": "3116",
-      "increment": "2024",
+      "commentCount": "3117",
+      "increment": "2292",
       "viewCount": "1109万"
     },
     {
@@ -480,34 +480,11 @@
       "publishedAt": "2014-12-09",
       "likeCount": "15.6万",
       "commentCount": "3558",
-      "increment": "982",
-      "viewCount": "1108万"
+      "increment": "1412",
+      "viewCount": "1109万"
     },
     {
       "rank": 3022,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/xRaHgQ3yjAo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=xRaHgQ3yjAo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "WANIMA-リベンジ（OFFICIAL VIDEO）",
-        "url": "https://www.youtube.com/watch?v=xRaHgQ3yjAo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "pizzaofdeathofficial",
-        "url": "https://www.youtube.com/channel/UCrQUlOEbu-0T0l4DAcBEeIg",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-02-16",
-      "likeCount": "3万",
-      "commentCount": "656",
-      "increment": "208",
-      "viewCount": "1108万"
-    },
-    {
-      "rank": 3023,
       "thumb": {
         "img": "https://i.ytimg.com/vi/_N5JJ18iv54/default.jpg",
         "url": "https://www.youtube.com/watch?v=_N5JJ18iv54",
@@ -526,7 +503,30 @@
       "publishedAt": "2019-10-31",
       "likeCount": "9万",
       "commentCount": "2445",
-      "increment": "3892",
+      "increment": "5309",
+      "viewCount": "1108万"
+    },
+    {
+      "rank": 3023,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/xRaHgQ3yjAo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=xRaHgQ3yjAo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "WANIMA-リベンジ（OFFICIAL VIDEO）",
+        "url": "https://www.youtube.com/watch?v=xRaHgQ3yjAo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "pizzaofdeathofficial",
+        "url": "https://www.youtube.com/channel/UCrQUlOEbu-0T0l4DAcBEeIg",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-02-16",
+      "likeCount": "3万",
+      "commentCount": "656",
+      "increment": "336",
       "viewCount": "1108万"
     },
     {
@@ -549,7 +549,7 @@
       "publishedAt": "2021-08-13",
       "likeCount": "16.9万",
       "commentCount": "3756",
-      "increment": "3951",
+      "increment": "5075",
       "viewCount": "1108万"
     },
     {
@@ -572,11 +572,34 @@
       "publishedAt": "2018-02-17",
       "likeCount": "14.6万",
       "commentCount": "6523",
-      "increment": "815",
-      "viewCount": "1107万"
+      "increment": "934",
+      "viewCount": "1108万"
     },
     {
       "rank": 3026,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/sF9OXDFEopY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=sF9OXDFEopY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【syudou】やっちゃったわ",
+        "url": "https://www.youtube.com/watch?v=sF9OXDFEopY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "syudou",
+        "url": "https://www.youtube.com/channel/UCraC7460yGQF4GDmSjCecpQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-11-17",
+      "likeCount": "18万",
+      "commentCount": "1732",
+      "increment": "1万",
+      "viewCount": "1107万"
+    },
+    {
+      "rank": 3027,
       "thumb": {
         "img": "https://i.ytimg.com/vi/a50Em-xT0Qw/default.jpg",
         "url": "https://www.youtube.com/watch?v=a50Em-xT0Qw",
@@ -595,11 +618,11 @@
       "publishedAt": "2021-07-21",
       "likeCount": "-",
       "commentCount": "6946",
-      "increment": "2154",
+      "increment": "2276",
       "viewCount": "1107万"
     },
     {
-      "rank": 3027,
+      "rank": 3028,
       "thumb": {
         "img": "https://i.ytimg.com/vi/-Vma8NU8cds/default.jpg",
         "url": "https://www.youtube.com/watch?v=-Vma8NU8cds",
@@ -617,58 +640,12 @@
       },
       "publishedAt": "2024-12-30",
       "likeCount": "10.8万",
-      "commentCount": "2844",
-      "increment": "775",
-      "viewCount": "1106万"
-    },
-    {
-      "rank": 3028,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/sF9OXDFEopY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=sF9OXDFEopY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【syudou】やっちゃったわ",
-        "url": "https://www.youtube.com/watch?v=sF9OXDFEopY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "syudou",
-        "url": "https://www.youtube.com/channel/UCraC7460yGQF4GDmSjCecpQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-11-17",
-      "likeCount": "18万",
-      "commentCount": "1731",
-      "increment": "7656",
+      "commentCount": "2841",
+      "increment": "974",
       "viewCount": "1106万"
     },
     {
       "rank": 3029,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/JPFrJC5uywQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=JPFrJC5uywQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "PANDORA feat. Beverly / 『Be The One』（TVオープニングサイズ）ミュージックビデオ",
-        "url": "https://www.youtube.com/watch?v=JPFrJC5uywQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-08-31",
-      "likeCount": "5.4万",
-      "commentCount": "2873",
-      "increment": "83",
-      "viewCount": "1106万"
-    },
-    {
-      "rank": 3030,
       "thumb": {
         "img": "https://i.ytimg.com/vi/gdHO7yobgUk/default.jpg",
         "url": "https://www.youtube.com/watch?v=gdHO7yobgUk",
@@ -687,8 +664,31 @@
       "publishedAt": "2016-11-24",
       "likeCount": "13.1万",
       "commentCount": "3104",
-      "increment": "2693",
-      "viewCount": "1105万"
+      "increment": "4215",
+      "viewCount": "1106万"
+    },
+    {
+      "rank": 3030,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/JPFrJC5uywQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=JPFrJC5uywQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "PANDORA feat. Beverly / 『Be The One』（TVオープニングサイズ）ミュージックビデオ",
+        "url": "https://www.youtube.com/watch?v=JPFrJC5uywQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-08-31",
+      "likeCount": "5.4万",
+      "commentCount": "2873",
+      "increment": "113",
+      "viewCount": "1106万"
     },
     {
       "rank": 3031,
@@ -710,7 +710,7 @@
       "publishedAt": "2010-12-21",
       "likeCount": "9689",
       "commentCount": "304",
-      "increment": "447",
+      "increment": "451",
       "viewCount": "1105万"
     },
     {
@@ -733,7 +733,7 @@
       "publishedAt": "2012-05-25",
       "likeCount": "1.7万",
       "commentCount": "2126",
-      "increment": "231",
+      "increment": "300",
       "viewCount": "1105万"
     },
     {
@@ -756,7 +756,7 @@
       "publishedAt": "2014-11-25",
       "likeCount": "-",
       "commentCount": "334",
-      "increment": "583",
+      "increment": "771",
       "viewCount": "1105万"
     },
     {
@@ -779,8 +779,8 @@
       "publishedAt": "2023-07-02",
       "likeCount": "-",
       "commentCount": "1.2万",
-      "increment": "1587",
-      "viewCount": "1104万"
+      "increment": "2042",
+      "viewCount": "1105万"
     },
     {
       "rank": 3035,
@@ -802,7 +802,7 @@
       "publishedAt": "2010-09-29",
       "likeCount": "2万",
       "commentCount": "667",
-      "increment": "947",
+      "increment": "955",
       "viewCount": "1104万"
     },
     {
@@ -824,9 +824,9 @@
       },
       "publishedAt": "2020-06-07",
       "likeCount": "-",
-      "commentCount": "2227",
-      "increment": "1224",
-      "viewCount": "1103万"
+      "commentCount": "2228",
+      "increment": "1430",
+      "viewCount": "1104万"
     },
     {
       "rank": 3037,
@@ -848,8 +848,8 @@
       "publishedAt": "2018-10-17",
       "likeCount": "10.2万",
       "commentCount": "4617",
-      "increment": "1916",
-      "viewCount": "1103万"
+      "increment": "2156",
+      "viewCount": "1104万"
     },
     {
       "rank": 3038,
@@ -871,7 +871,7 @@
       "publishedAt": "2023-02-06",
       "likeCount": "4.8万",
       "commentCount": "1.3万",
-      "increment": "2001",
+      "increment": "2314",
       "viewCount": "1103万"
     },
     {
@@ -893,8 +893,8 @@
       },
       "publishedAt": "2018-03-24",
       "likeCount": "4.3万",
-      "commentCount": "2637",
-      "increment": "1434",
+      "commentCount": "2638",
+      "increment": "1452",
       "viewCount": "1102万"
     },
     {
@@ -916,8 +916,8 @@
       },
       "publishedAt": "2014-04-08",
       "likeCount": "6.2万",
-      "commentCount": "2514",
-      "increment": "1425",
+      "commentCount": "2516",
+      "increment": "1629",
       "viewCount": "1102万"
     },
     {
@@ -940,7 +940,7 @@
       "publishedAt": "2013-06-18",
       "likeCount": "3.9万",
       "commentCount": "1753",
-      "increment": "1005",
+      "increment": "1204",
       "viewCount": "1101万"
     },
     {
@@ -963,7 +963,7 @@
       "publishedAt": "2021-07-14",
       "likeCount": "-",
       "commentCount": "1.7万",
-      "increment": "576",
+      "increment": "814",
       "viewCount": "1101万"
     },
     {
@@ -985,8 +985,8 @@
       },
       "publishedAt": "2022-07-13",
       "likeCount": "-",
-      "commentCount": "6677",
-      "increment": "899",
+      "commentCount": "6678",
+      "increment": "1254",
       "viewCount": "1100万"
     },
     {
@@ -1009,7 +1009,7 @@
       "publishedAt": "2013-01-21",
       "likeCount": "3.8万",
       "commentCount": "669",
-      "increment": "359",
+      "increment": "435",
       "viewCount": "1100万"
     },
     {
@@ -1032,57 +1032,11 @@
       "publishedAt": "2025-06-02",
       "likeCount": "11.4万",
       "commentCount": "2.8万",
-      "increment": "3252",
+      "increment": "4157",
       "viewCount": "1099万"
     },
     {
       "rank": 3046,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/WMzlv_g6FSY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=WMzlv_g6FSY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "菅田将暉×中村倫也 『サンキュー神様』",
-        "url": "https://www.youtube.com/watch?v=WMzlv_g6FSY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "菅田将暉 Official Channel",
-        "url": "https://www.youtube.com/channel/UCn2UPKO76hTLYEUVzVMBAeg",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-08-27",
-      "likeCount": "9.2万",
-      "commentCount": "2686",
-      "increment": "411",
-      "viewCount": "1099万"
-    },
-    {
-      "rank": 3047,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/hLtLjhV7PR0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=hLtLjhV7PR0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "UVERworld　『クオリア』",
-        "url": "https://www.youtube.com/watch?v=hLtLjhV7PR0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "UVERworld Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCnziFQs4Ihms4UtxmVZP6cg",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-04-11",
-      "likeCount": "4.1万",
-      "commentCount": "2294",
-      "increment": "1595",
-      "viewCount": "1098万"
-    },
-    {
-      "rank": 3048,
       "thumb": {
         "img": "https://i.ytimg.com/vi/f-3ManAlBS0/default.jpg",
         "url": "https://www.youtube.com/watch?v=f-3ManAlBS0",
@@ -1101,11 +1055,34 @@
       "publishedAt": "2019-11-26",
       "likeCount": "6.7万",
       "commentCount": "1837",
-      "increment": "5218",
-      "viewCount": "1098万"
+      "increment": "5970",
+      "viewCount": "1099万"
     },
     {
-      "rank": 3049,
+      "rank": 3047,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/WMzlv_g6FSY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=WMzlv_g6FSY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "菅田将暉×中村倫也 『サンキュー神様』",
+        "url": "https://www.youtube.com/watch?v=WMzlv_g6FSY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "菅田将暉 Official Channel",
+        "url": "https://www.youtube.com/channel/UCn2UPKO76hTLYEUVzVMBAeg",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-08-27",
+      "likeCount": "9.2万",
+      "commentCount": "2686",
+      "increment": "615",
+      "viewCount": "1099万"
+    },
+    {
+      "rank": 3048,
       "thumb": {
         "img": "https://i.ytimg.com/vi/OzGVz1ClxIc/default.jpg",
         "url": "https://www.youtube.com/watch?v=OzGVz1ClxIc",
@@ -1123,9 +1100,32 @@
       },
       "publishedAt": "2020-09-17",
       "likeCount": "6.3万",
-      "commentCount": "505",
-      "increment": "6595",
-      "viewCount": "1098万"
+      "commentCount": "507",
+      "increment": "1万",
+      "viewCount": "1099万"
+    },
+    {
+      "rank": 3049,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/hLtLjhV7PR0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=hLtLjhV7PR0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "UVERworld　『クオリア』",
+        "url": "https://www.youtube.com/watch?v=hLtLjhV7PR0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "UVERworld Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCnziFQs4Ihms4UtxmVZP6cg",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-04-11",
+      "likeCount": "4.1万",
+      "commentCount": "2294",
+      "increment": "1856",
+      "viewCount": "1099万"
     },
     {
       "rank": 3050,
@@ -1147,8 +1147,8 @@
       "publishedAt": "2021-02-03",
       "likeCount": "-",
       "commentCount": "6886",
-      "increment": "1925",
-      "viewCount": "1097万"
+      "increment": "1843",
+      "viewCount": "1098万"
     }
   ]
 }
