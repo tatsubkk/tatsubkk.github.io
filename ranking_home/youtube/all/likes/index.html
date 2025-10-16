@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
-  <title>邦楽　Youtube再生回数ランキング[歴代]</title>
+  <title>邦楽　Youtubeいいね数ランキング</title>
   <link rel="stylesheet" href="../../../ranking_common/layout.css"/>
   <link rel="stylesheet" href="../../../ranking_common/logo.css"/>
   <link rel="stylesheet" href="../../youtube_common/entrycontent.css"/>
@@ -51,27 +51,8 @@
         </p>
       </div>
 
-      <!-- ジャンル切替 -->
-      <nav class="switchbar switchbar--genre"
-           data-template="/rankings/youtube/{genre}/{type}/"
-           aria-label="ジャンル切替">
-      <a class="switchbar__btn" data-genre="all">全て</a>
-      <a class="switchbar__btn" data-genre="vocaloid">ボカロ</a>
-      <a class="switchbar__btn" data-genre="kpop">K-pop</a>
-      <a class="switchbar__btn" data-genre="anime">アニメ主題歌</a>
-      </nav>
-
-      <!-- ランキング種別切替 -->
-      <nav class="switchbar switchbar--rtype"
-           data-template="/rankings/youtube/{genre}/{type}/"
-           aria-label="ランキング種別切替">
-      <a class="switchbar__btn" data-type="views">歴代再生回数</a>
-      <a class="switchbar__btn" data-type="likes">いいね数</a>
-      <a class="switchbar__btn" data-type="comments">コメント数</a>
-      <a class="switchbar__btn" data-type="daily">デイリー</a>
-      <a class="switchbar__btn" data-type="weekly">ウィークリー</a>
-      <a class="switchbar__btn" data-type="monthly">マンスリー</a>
-      </nav>
+      <nav class="switchbar--genre"></nav>
+      <nav class="switchbar--rtype"></nav>
       
       <nav class="pager" aria-label="Pagination (top)"></nav>
       <table id="data-table">
@@ -125,6 +106,7 @@
   <script defer src="../../../ranking_common/common.js"></script>
   <script defer src="../../youtube_common/meta.js"></script>
   <script defer src="../../youtube_common/buttons.js"></script>
+  <script defer src="../../youtube_common/pager.js"></script>
   <script defer src="table.js"></script>
   
 </body>
