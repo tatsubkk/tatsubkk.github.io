@@ -3,6 +3,29 @@
     {
       "rank": 2351,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/OU6KOfyrxZE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=OU6KOfyrxZE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Choreography Video -MV edition-】CUTIE STREET「かわいいだけじゃだめですか？」",
+        "url": "https://www.youtube.com/watch?v=OU6KOfyrxZE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "CUTIE STREET",
+        "url": "https://www.youtube.com/channel/UCEz-AFAg3EUKsxraad1puQA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-11-20",
+      "viewCount": "1473万",
+      "likeCount": "6.9万",
+      "commentCount": "1852",
+      "increment_d1": "1.56万"
+    },
+    {
+      "rank": 2352,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/LXP9JuX3BGs/default.jpg",
         "url": "https://www.youtube.com/watch?v=LXP9JuX3BGs",
         "target": "_blank"
@@ -18,13 +41,13 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-15",
+      "viewCount": "1472万",
       "likeCount": "-",
       "commentCount": "5182",
-      "increment": "853",
-      "viewCount": "1472万"
+      "increment_d1": "885"
     },
     {
-      "rank": 2352,
+      "rank": 2353,
       "thumb": {
         "img": "https://i.ytimg.com/vi/EFUSUcbLHK0/default.jpg",
         "url": "https://www.youtube.com/watch?v=EFUSUcbLHK0",
@@ -41,59 +64,13 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-20",
+      "viewCount": "1471万",
       "likeCount": "14.5万",
       "commentCount": "-",
-      "increment": "330",
-      "viewCount": "1471万"
-    },
-    {
-      "rank": 2353,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/OU6KOfyrxZE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=OU6KOfyrxZE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Choreography Video -MV edition-】CUTIE STREET「かわいいだけじゃだめですか？」",
-        "url": "https://www.youtube.com/watch?v=OU6KOfyrxZE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "CUTIE STREET",
-        "url": "https://www.youtube.com/channel/UCEz-AFAg3EUKsxraad1puQA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-11-20",
-      "likeCount": "6.9万",
-      "commentCount": "1852",
-      "increment": "1.47万",
-      "viewCount": "1471万"
+      "increment_d1": "360"
     },
     {
       "rank": 2354,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Uhjws9V9PMo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Uhjws9V9PMo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "三月のパンタシア 『青春なんていらないわ』",
-        "url": "https://www.youtube.com/watch?v=Uhjws9V9PMo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "三月のパンタシア Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UC4lk0Ob-F3ptOQUUq8s0pzQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-08-30",
-      "likeCount": "21.9万",
-      "commentCount": "3645",
-      "increment": "713",
-      "viewCount": "1470万"
-    },
-    {
-      "rank": 2355,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Etq_BEjQE10/default.jpg",
         "url": "https://www.youtube.com/watch?v=Etq_BEjQE10",
@@ -110,10 +87,33 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-10",
+      "viewCount": "1470万",
       "likeCount": "9.4万",
       "commentCount": "1.5万",
-      "increment": "4374",
-      "viewCount": "1470万"
+      "increment_d1": "4698"
+    },
+    {
+      "rank": 2355,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Uhjws9V9PMo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Uhjws9V9PMo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "三月のパンタシア 『青春なんていらないわ』",
+        "url": "https://www.youtube.com/watch?v=Uhjws9V9PMo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "三月のパンタシア Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UC4lk0Ob-F3ptOQUUq8s0pzQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-08-30",
+      "viewCount": "1470万",
+      "likeCount": "21.9万",
+      "commentCount": "3645",
+      "increment_d1": "908"
     },
     {
       "rank": 2356,
@@ -133,10 +133,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-27",
+      "viewCount": "1470万",
       "likeCount": "25.4万",
-      "commentCount": "6488",
-      "increment": "1.08万",
-      "viewCount": "1468万"
+      "commentCount": "6490",
+      "increment_d1": "1.02万"
     },
     {
       "rank": 2357,
@@ -156,10 +156,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-01-18",
+      "viewCount": "1468万",
       "likeCount": "13万",
       "commentCount": "4015",
-      "increment": "1047",
-      "viewCount": "1468万"
+      "increment_d1": "1065"
     },
     {
       "rank": 2358,
@@ -179,36 +179,13 @@
         "target": "_blank"
       },
       "publishedAt": "2019-07-11",
+      "viewCount": "1467万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment": "965",
-      "viewCount": "1467万"
+      "increment_d1": "1142"
     },
     {
       "rank": 2359,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/30XOQJrpMP8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=30XOQJrpMP8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "三代目 J SOUL BROTHERS from EXILE TRIBE / STORM RIDERS feat.SLASH",
-        "url": "https://www.youtube.com/watch?v=30XOQJrpMP8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-04-06",
-      "likeCount": "3.5万",
-      "commentCount": "1248",
-      "increment": "239",
-      "viewCount": "1466万"
-    },
-    {
-      "rank": 2360,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qo55wGLXcOQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=qo55wGLXcOQ",
@@ -225,13 +202,13 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-09",
+      "viewCount": "1467万",
       "likeCount": "9.7万",
       "commentCount": "4975",
-      "increment": "6476",
-      "viewCount": "1466万"
+      "increment_d1": "6667"
     },
     {
-      "rank": 2361,
+      "rank": 2360,
       "thumb": {
         "img": "https://i.ytimg.com/vi/b-RGPqVzHUw/default.jpg",
         "url": "https://www.youtube.com/watch?v=b-RGPqVzHUw",
@@ -248,10 +225,33 @@
         "target": "_blank"
       },
       "publishedAt": "2024-11-21",
+      "viewCount": "1467万",
       "likeCount": "8.7万",
       "commentCount": "1729",
-      "increment": "1.22万",
-      "viewCount": "1466万"
+      "increment_d1": "1.3万"
+    },
+    {
+      "rank": 2361,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/30XOQJrpMP8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=30XOQJrpMP8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "三代目 J SOUL BROTHERS from EXILE TRIBE / STORM RIDERS feat.SLASH",
+        "url": "https://www.youtube.com/watch?v=30XOQJrpMP8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-04-06",
+      "viewCount": "1467万",
+      "likeCount": "3.5万",
+      "commentCount": "1248",
+      "increment_d1": "198"
     },
     {
       "rank": 2362,
@@ -271,10 +271,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-24",
+      "viewCount": "1466万",
       "likeCount": "-",
       "commentCount": "3321",
-      "increment": "1641",
-      "viewCount": "1466万"
+      "increment_d1": "1586"
     },
     {
       "rank": 2363,
@@ -294,10 +294,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-12-07",
+      "viewCount": "1465万",
       "likeCount": "16.1万",
       "commentCount": "2655",
-      "increment": "1431",
-      "viewCount": "1465万"
+      "increment_d1": "1227"
     },
     {
       "rank": 2364,
@@ -317,10 +317,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-11-10",
+      "viewCount": "1464万",
       "likeCount": "12.7万",
       "commentCount": "2871",
-      "increment": "3085",
-      "viewCount": "1464万"
+      "increment_d1": "3121"
     },
     {
       "rank": 2365,
@@ -340,10 +340,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-05-04",
+      "viewCount": "1464万",
       "likeCount": "14.4万",
-      "commentCount": "4865",
-      "increment": "9676",
-      "viewCount": "1463万"
+      "commentCount": "4867",
+      "increment_d1": "1.03万"
     },
     {
       "rank": 2366,
@@ -363,10 +363,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-05-07",
+      "viewCount": "1462万",
       "likeCount": "11.1万",
       "commentCount": "1.5万",
-      "increment": "6562",
-      "viewCount": "1461万"
+      "increment_d1": "6518"
     },
     {
       "rank": 2367,
@@ -386,10 +386,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-02",
+      "viewCount": "1460万",
       "likeCount": "8.1万",
-      "commentCount": "2967",
-      "increment": "6314",
-      "viewCount": "1459万"
+      "commentCount": "2968",
+      "increment_d1": "6321"
     },
     {
       "rank": 2368,
@@ -409,10 +409,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-31",
+      "viewCount": "1459万",
       "likeCount": "23万",
       "commentCount": "5558",
-      "increment": "1775",
-      "viewCount": "1459万"
+      "increment_d1": "1686"
     },
     {
       "rank": 2369,
@@ -432,10 +432,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-15",
+      "viewCount": "1459万",
       "likeCount": "28.2万",
       "commentCount": "566",
-      "increment": "738",
-      "viewCount": "1459万"
+      "increment_d1": "619"
     },
     {
       "rank": 2370,
@@ -455,10 +455,10 @@
         "target": "_blank"
       },
       "publishedAt": "2011-02-11",
+      "viewCount": "1458万",
       "likeCount": "4.5万",
       "commentCount": "2443",
-      "increment": "654",
-      "viewCount": "1458万"
+      "increment_d1": "664"
     },
     {
       "rank": 2371,
@@ -478,10 +478,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-30",
+      "viewCount": "1457万",
       "likeCount": "4.1万",
       "commentCount": "1469",
-      "increment": "592",
-      "viewCount": "1457万"
+      "increment_d1": "579"
     },
     {
       "rank": 2372,
@@ -501,10 +501,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-05-10",
+      "viewCount": "1457万",
       "likeCount": "10.1万",
       "commentCount": "1.4万",
-      "increment": "2434",
-      "viewCount": "1457万"
+      "increment_d1": "2632"
     },
     {
       "rank": 2373,
@@ -524,10 +524,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-05-11",
+      "viewCount": "1457万",
       "likeCount": "6.6万",
       "commentCount": "4020",
-      "increment": "507",
-      "viewCount": "1456万"
+      "increment_d1": "483"
     },
     {
       "rank": 2374,
@@ -547,10 +547,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-12-01",
+      "viewCount": "1456万",
       "likeCount": "5.2万",
       "commentCount": "3444",
-      "increment": "828",
-      "viewCount": "1456万"
+      "increment_d1": "952"
     },
     {
       "rank": 2375,
@@ -570,10 +570,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-03",
+      "viewCount": "1455万",
       "likeCount": "7.6万",
       "commentCount": "8万",
-      "increment": "786",
-      "viewCount": "1455万"
+      "increment_d1": "770"
     },
     {
       "rank": 2376,
@@ -593,10 +593,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-04-29",
+      "viewCount": "1455万",
       "likeCount": "19.8万",
       "commentCount": "2578",
-      "increment": "3788",
-      "viewCount": "1454万"
+      "increment_d1": "3738"
     },
     {
       "rank": 2377,
@@ -616,10 +616,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-27",
+      "viewCount": "1455万",
       "likeCount": "26.1万",
       "commentCount": "4519",
-      "increment": "1694",
-      "viewCount": "1454万"
+      "increment_d1": "1702"
     },
     {
       "rank": 2378,
@@ -639,36 +639,13 @@
         "target": "_blank"
       },
       "publishedAt": "2022-06-17",
+      "viewCount": "1454万",
       "likeCount": "-",
       "commentCount": "1.5万",
-      "increment": "1172",
-      "viewCount": "1454万"
+      "increment_d1": "1133"
     },
     {
       "rank": 2379,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/StkLx0e4f6c/default.jpg",
-        "url": "https://www.youtube.com/watch?v=StkLx0e4f6c",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "YeYe - ゆらゆら（Official Music Video）",
-        "url": "https://www.youtube.com/watch?v=StkLx0e4f6c",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "RALLYE LABEL",
-        "url": "https://www.youtube.com/channel/UCwqmdvPrbfKpW9rovY_AbKw",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-08-31",
-      "likeCount": "45.7万",
-      "commentCount": "7172",
-      "increment": "819",
-      "viewCount": "1450万"
-    },
-    {
-      "rank": 2380,
       "thumb": {
         "img": "https://i.ytimg.com/vi/93SHmWI5lFE/default.jpg",
         "url": "https://www.youtube.com/watch?v=93SHmWI5lFE",
@@ -685,10 +662,33 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-01",
+      "viewCount": "1451万",
       "likeCount": "-",
       "commentCount": "682",
-      "increment": "6875",
-      "viewCount": "1450万"
+      "increment_d1": "7479"
+    },
+    {
+      "rank": 2380,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/StkLx0e4f6c/default.jpg",
+        "url": "https://www.youtube.com/watch?v=StkLx0e4f6c",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "YeYe - ゆらゆら（Official Music Video）",
+        "url": "https://www.youtube.com/watch?v=StkLx0e4f6c",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "RALLYE LABEL",
+        "url": "https://www.youtube.com/channel/UCwqmdvPrbfKpW9rovY_AbKw",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-08-31",
+      "viewCount": "1450万",
+      "likeCount": "45.7万",
+      "commentCount": "7172",
+      "increment_d1": "771"
     },
     {
       "rank": 2381,
@@ -708,10 +708,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-02-25",
+      "viewCount": "1449万",
       "likeCount": "13万",
-      "commentCount": "5092",
-      "increment": "1346",
-      "viewCount": "1449万"
+      "commentCount": "5091",
+      "increment_d1": "1267"
     },
     {
       "rank": 2382,
@@ -731,10 +731,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-14",
+      "viewCount": "1449万",
       "likeCount": "14.2万",
       "commentCount": "3204",
-      "increment": "3317",
-      "viewCount": "1448万"
+      "increment_d1": "3251"
     },
     {
       "rank": 2383,
@@ -754,36 +754,13 @@
         "target": "_blank"
       },
       "publishedAt": "2017-12-18",
+      "viewCount": "1448万",
       "likeCount": "13.8万",
       "commentCount": "3562",
-      "increment": "1710",
-      "viewCount": "1448万"
+      "increment_d1": "1539"
     },
     {
       "rank": 2384,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/c5j7lpWprro/default.jpg",
-        "url": "https://www.youtube.com/watch?v=c5j7lpWprro",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Ado】ショコラカタブラ",
-        "url": "https://www.youtube.com/watch?v=c5j7lpWprro",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ado",
-        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-01-31",
-      "likeCount": "23.7万",
-      "commentCount": "5007",
-      "increment": "4837",
-      "viewCount": "1446万"
-    },
-    {
-      "rank": 2385,
       "thumb": {
         "img": "https://i.ytimg.com/vi/GpADSdd68UI/default.jpg",
         "url": "https://www.youtube.com/watch?v=GpADSdd68UI",
@@ -800,10 +777,33 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-07",
+      "viewCount": "1447万",
       "likeCount": "14.2万",
       "commentCount": "1440",
-      "increment": "1.03万",
-      "viewCount": "1446万"
+      "increment_d1": "1.05万"
+    },
+    {
+      "rank": 2385,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/c5j7lpWprro/default.jpg",
+        "url": "https://www.youtube.com/watch?v=c5j7lpWprro",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Ado】ショコラカタブラ",
+        "url": "https://www.youtube.com/watch?v=c5j7lpWprro",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ado",
+        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-01-31",
+      "viewCount": "1447万",
+      "likeCount": "23.7万",
+      "commentCount": "5008",
+      "increment_d1": "4786"
     },
     {
       "rank": 2386,
@@ -823,10 +823,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-10-15",
+      "viewCount": "1447万",
       "likeCount": "17.1万",
       "commentCount": "4380",
-      "increment": "8398",
-      "viewCount": "1446万"
+      "increment_d1": "9228"
     },
     {
       "rank": 2387,
@@ -846,10 +846,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-12-01",
+      "viewCount": "1445万",
       "likeCount": "8.5万",
       "commentCount": "1.7万",
-      "increment": "7444",
-      "viewCount": "1445万"
+      "increment_d1": "7265"
     },
     {
       "rank": 2388,
@@ -869,10 +869,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-08",
+      "viewCount": "1444万",
       "likeCount": "16.7万",
       "commentCount": "2.8万",
-      "increment": "1821",
-      "viewCount": "1444万"
+      "increment_d1": "1531"
     },
     {
       "rank": 2389,
@@ -892,10 +892,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-05-07",
+      "viewCount": "1444万",
       "likeCount": "12.1万",
       "commentCount": "5476",
-      "increment": "694",
-      "viewCount": "1444万"
+      "increment_d1": "691"
     },
     {
       "rank": 2390,
@@ -915,36 +915,13 @@
         "target": "_blank"
       },
       "publishedAt": "2014-07-23",
+      "viewCount": "1444万",
       "likeCount": "5.3万",
       "commentCount": "1293",
-      "increment": "3137",
-      "viewCount": "1443万"
+      "increment_d1": "3061"
     },
     {
       "rank": 2391,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/5Ao5mg11xIk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=5Ao5mg11xIk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Poppy - Computer Boy  (Official Video)",
-        "url": "https://www.youtube.com/watch?v=5Ao5mg11xIk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Poppy",
-        "url": "https://www.youtube.com/channel/UC8JE00xTMBOqKs7o0grFTfQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-05-19",
-      "likeCount": "25.6万",
-      "commentCount": "3.6万",
-      "increment": "304",
-      "viewCount": "1443万"
-    },
-    {
-      "rank": 2392,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ukwo2O5SRvw/default.jpg",
         "url": "https://www.youtube.com/watch?v=ukwo2O5SRvw",
@@ -961,36 +938,36 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-07",
+      "viewCount": "1443万",
       "likeCount": "10.2万",
-      "commentCount": "2902",
-      "increment": "5272",
-      "viewCount": "1443万"
+      "commentCount": "2903",
+      "increment_d1": "5827"
     },
     {
-      "rank": 2393,
+      "rank": 2392,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/5IoHBOIWM9c/default.jpg",
-        "url": "https://www.youtube.com/watch?v=5IoHBOIWM9c",
+        "img": "https://i.ytimg.com/vi/5Ao5mg11xIk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=5Ao5mg11xIk",
         "target": "_blank"
       },
       "title": {
-        "text": "凛として時雨　『Enigmatic Feeling』",
-        "url": "https://www.youtube.com/watch?v=5IoHBOIWM9c",
+        "text": "Poppy - Computer Boy  (Official Video)",
+        "url": "https://www.youtube.com/watch?v=5Ao5mg11xIk",
         "target": "_blank"
       },
       "channel": {
-        "text": "凛として時雨 Official Channel",
-        "url": "https://www.youtube.com/channel/UCWxFYv7xfPQVx5yzjpJX33w",
+        "text": "Poppy",
+        "url": "https://www.youtube.com/channel/UC8JE00xTMBOqKs7o0grFTfQ",
         "target": "_blank"
       },
-      "publishedAt": "2014-10-09",
-      "likeCount": "9.4万",
-      "commentCount": "1916",
-      "increment": "691",
-      "viewCount": "1442万"
+      "publishedAt": "2017-05-19",
+      "viewCount": "1443万",
+      "likeCount": "25.6万",
+      "commentCount": "3.6万",
+      "increment_d1": "314"
     },
     {
-      "rank": 2394,
+      "rank": 2393,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vrnn9aUT2Ag/default.jpg",
         "url": "https://www.youtube.com/watch?v=vrnn9aUT2Ag",
@@ -1007,10 +984,33 @@
         "target": "_blank"
       },
       "publishedAt": "2016-07-08",
+      "viewCount": "1442万",
       "likeCount": "22.1万",
       "commentCount": "4994",
-      "increment": "3568",
-      "viewCount": "1442万"
+      "increment_d1": "3264"
+    },
+    {
+      "rank": 2394,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/5IoHBOIWM9c/default.jpg",
+        "url": "https://www.youtube.com/watch?v=5IoHBOIWM9c",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "凛として時雨　『Enigmatic Feeling』",
+        "url": "https://www.youtube.com/watch?v=5IoHBOIWM9c",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "凛として時雨 Official Channel",
+        "url": "https://www.youtube.com/channel/UCWxFYv7xfPQVx5yzjpJX33w",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-10-09",
+      "viewCount": "1442万",
+      "likeCount": "9.4万",
+      "commentCount": "1916",
+      "increment_d1": "710"
     },
     {
       "rank": 2395,
@@ -1030,10 +1030,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-07-26",
+      "viewCount": "1441万",
       "likeCount": "51万",
       "commentCount": "2.3万",
-      "increment": "186",
-      "viewCount": "1441万"
+      "increment_d1": "196"
     },
     {
       "rank": 2396,
@@ -1053,36 +1053,13 @@
         "target": "_blank"
       },
       "publishedAt": "2011-11-07",
+      "viewCount": "1441万",
       "likeCount": "2.7万",
       "commentCount": "1459",
-      "increment": "1746",
-      "viewCount": "1441万"
+      "increment_d1": "1686"
     },
     {
       "rank": 2397,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/9i8yeYhTEes/default.jpg",
-        "url": "https://www.youtube.com/watch?v=9i8yeYhTEes",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "HoneyWorks meets さゆりんご軍団＋真夏さんリスペクト軍団 from 乃木坂46 『大嫌いなはずだった。』",
-        "url": "https://www.youtube.com/watch?v=9i8yeYhTEes",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-12-06",
-      "likeCount": "10万",
-      "commentCount": "9411",
-      "increment": "269",
-      "viewCount": "1437万"
-    },
-    {
-      "rank": 2398,
       "thumb": {
         "img": "https://i.ytimg.com/vi/kiTn9pgnj8I/default.jpg",
         "url": "https://www.youtube.com/watch?v=kiTn9pgnj8I",
@@ -1099,10 +1076,33 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-26",
+      "viewCount": "1438万",
       "likeCount": "15.9万",
       "commentCount": "3753",
-      "increment": "2803",
-      "viewCount": "1437万"
+      "increment_d1": "2903"
+    },
+    {
+      "rank": 2398,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/9i8yeYhTEes/default.jpg",
+        "url": "https://www.youtube.com/watch?v=9i8yeYhTEes",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "HoneyWorks meets さゆりんご軍団＋真夏さんリスペクト軍団 from 乃木坂46 『大嫌いなはずだった。』",
+        "url": "https://www.youtube.com/watch?v=9i8yeYhTEes",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-12-06",
+      "viewCount": "1437万",
+      "likeCount": "10万",
+      "commentCount": "9411",
+      "increment_d1": "269"
     },
     {
       "rank": 2399,
@@ -1122,10 +1122,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-19",
+      "viewCount": "1436万",
       "likeCount": "9万",
       "commentCount": "4473",
-      "increment": "1万",
-      "viewCount": "1435万"
+      "increment_d1": "9820"
     },
     {
       "rank": 2400,
@@ -1145,10 +1145,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-02-20",
+      "viewCount": "1435万",
       "likeCount": "9万",
       "commentCount": "3349",
-      "increment": "3522",
-      "viewCount": "1435万"
+      "increment_d1": "3407"
     }
   ]
 }

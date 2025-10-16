@@ -18,10 +18,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-02",
+      "viewCount": "2050万",
       "likeCount": "12.3万",
       "commentCount": "2944",
-      "increment": "9695",
-      "viewCount": "2049万"
+      "increment_d1": "9575"
     },
     {
       "rank": 1652,
@@ -41,10 +41,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-10-03",
+      "viewCount": "2047万",
       "likeCount": "5.2万",
-      "commentCount": "2264",
-      "increment": "1526",
-      "viewCount": "2046万"
+      "commentCount": "2265",
+      "increment_d1": "1414"
     },
     {
       "rank": 1653,
@@ -64,10 +64,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-09-04",
+      "viewCount": "2046万",
       "likeCount": "10.2万",
       "commentCount": "1.3万",
-      "increment": "1490",
-      "viewCount": "2046万"
+      "increment_d1": "1406"
     },
     {
       "rank": 1654,
@@ -87,10 +87,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-12-25",
+      "viewCount": "2045万",
       "likeCount": "6.3万",
       "commentCount": "1704",
-      "increment": "496",
-      "viewCount": "2045万"
+      "increment_d1": "597"
     },
     {
       "rank": 1655,
@@ -110,10 +110,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-08-05",
+      "viewCount": "2042万",
       "likeCount": "4.8万",
       "commentCount": "2433",
-      "increment": "806",
-      "viewCount": "2042万"
+      "increment_d1": "784"
     },
     {
       "rank": 1656,
@@ -133,10 +133,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-07-17",
+      "viewCount": "2042万",
       "likeCount": "5.1万",
       "commentCount": "2186",
-      "increment": "257",
-      "viewCount": "2042万"
+      "increment_d1": "229"
     },
     {
       "rank": 1657,
@@ -156,82 +156,13 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-27",
+      "viewCount": "2041万",
       "likeCount": "17.1万",
       "commentCount": "6289",
-      "increment": "3637",
-      "viewCount": "2041万"
+      "increment_d1": "3328"
     },
     {
       "rank": 1658,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/diWmmAA10Eg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=diWmmAA10Eg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "家入レオ -  君がくれた夏 （月9ドラマ『恋仲』主題歌）",
-        "url": "https://www.youtube.com/watch?v=diWmmAA10Eg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "家入レオ",
-        "url": "https://www.youtube.com/channel/UCwvWJX42p4C7IfpedYlvvGQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-07-15",
-      "likeCount": "4.6万",
-      "commentCount": "985",
-      "increment": "157",
-      "viewCount": "2040万"
-    },
-    {
-      "rank": 1659,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/MHeOtSqZZqo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=MHeOtSqZZqo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "科楽特奏隊「ウルトラセブンの歌」2017.6.7Release",
-        "url": "https://www.youtube.com/watch?v=MHeOtSqZZqo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "TOKUMAJAPAN",
-        "url": "https://www.youtube.com/channel/UCAtDg_mnvPE7BLkCTuce47g",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-06-01",
-      "likeCount": "6.4万",
-      "commentCount": "1465",
-      "increment": "1436",
-      "viewCount": "2040万"
-    },
-    {
-      "rank": 1660,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/uuXBHgtC_x8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=uuXBHgtC_x8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Travis Japan - 'JUST DANCE!' Music Video",
-        "url": "https://www.youtube.com/watch?v=uuXBHgtC_x8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Travis Japan",
-        "url": "https://www.youtube.com/channel/UCoEIdZkDEZdrCDCJSqwifzw",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-10-28",
-      "likeCount": "-",
-      "commentCount": "2.4万",
-      "increment": "5301",
-      "viewCount": "2040万"
-    },
-    {
-      "rank": 1661,
       "thumb": {
         "img": "https://i.ytimg.com/vi/eW620xcBnVE/default.jpg",
         "url": "https://www.youtube.com/watch?v=eW620xcBnVE",
@@ -248,10 +179,79 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-09",
+      "viewCount": "2041万",
       "likeCount": "21.6万",
-      "commentCount": "2831",
-      "increment": "1.21万",
-      "viewCount": "2040万"
+      "commentCount": "2830",
+      "increment_d1": "1.07万"
+    },
+    {
+      "rank": 1659,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/uuXBHgtC_x8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=uuXBHgtC_x8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Travis Japan - 'JUST DANCE!' Music Video",
+        "url": "https://www.youtube.com/watch?v=uuXBHgtC_x8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Travis Japan",
+        "url": "https://www.youtube.com/channel/UCoEIdZkDEZdrCDCJSqwifzw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-10-28",
+      "viewCount": "2041万",
+      "likeCount": "-",
+      "commentCount": "2.4万",
+      "increment_d1": "5007"
+    },
+    {
+      "rank": 1660,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/MHeOtSqZZqo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=MHeOtSqZZqo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "科楽特奏隊「ウルトラセブンの歌」2017.6.7Release",
+        "url": "https://www.youtube.com/watch?v=MHeOtSqZZqo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "TOKUMAJAPAN",
+        "url": "https://www.youtube.com/channel/UCAtDg_mnvPE7BLkCTuce47g",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-06-01",
+      "viewCount": "2041万",
+      "likeCount": "6.4万",
+      "commentCount": "1465",
+      "increment_d1": "1715"
+    },
+    {
+      "rank": 1661,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/diWmmAA10Eg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=diWmmAA10Eg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "家入レオ -  君がくれた夏 （月9ドラマ『恋仲』主題歌）",
+        "url": "https://www.youtube.com/watch?v=diWmmAA10Eg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "家入レオ",
+        "url": "https://www.youtube.com/channel/UCwvWJX42p4C7IfpedYlvvGQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-07-15",
+      "viewCount": "2040万",
+      "likeCount": "4.6万",
+      "commentCount": "985",
+      "increment_d1": "173"
     },
     {
       "rank": 1662,
@@ -271,10 +271,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-04-28",
+      "viewCount": "2037万",
       "likeCount": "17.3万",
       "commentCount": "4106",
-      "increment": "2866",
-      "viewCount": "2037万"
+      "increment_d1": "2847"
     },
     {
       "rank": 1663,
@@ -294,10 +294,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-10",
+      "viewCount": "2036万",
       "likeCount": "15万",
       "commentCount": "8073",
-      "increment": "1621",
-      "viewCount": "2036万"
+      "increment_d1": "1476"
     },
     {
       "rank": 1664,
@@ -317,10 +317,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-07-07",
+      "viewCount": "2034万",
       "likeCount": "10万",
       "commentCount": "6673",
-      "increment": "1174",
-      "viewCount": "2034万"
+      "increment_d1": "1113"
     },
     {
       "rank": 1665,
@@ -340,82 +340,13 @@
         "target": "_blank"
       },
       "publishedAt": "2009-04-22",
-      "likeCount": "5527",
+      "viewCount": "2033万",
+      "likeCount": "5528",
       "commentCount": "170",
-      "increment": "103",
-      "viewCount": "2033万"
+      "increment_d1": "96"
     },
     {
       "rank": 1666,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/zIRRGKMLaJE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=zIRRGKMLaJE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "E-girls / Merry × Merry Xmas★",
-        "url": "https://www.youtube.com/watch?v=zIRRGKMLaJE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-11-30",
-      "likeCount": "6.5万",
-      "commentCount": "3473",
-      "increment": "812",
-      "viewCount": "2032万"
-    },
-    {
-      "rank": 1667,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/sJItuaykRRk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=sJItuaykRRk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "絢香 - I believe",
-        "url": "https://www.youtube.com/watch?v=sJItuaykRRk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Warner Music Japan",
-        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-12-14",
-      "likeCount": "-",
-      "commentCount": "-",
-      "increment": "2139",
-      "viewCount": "2031万"
-    },
-    {
-      "rank": 1668,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/qVdBBOpSoN4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=qVdBBOpSoN4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BABYMETAL - いいね！- Iine! (OFFICIAL)",
-        "url": "https://www.youtube.com/watch?v=qVdBBOpSoN4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BABYMETAL",
-        "url": "https://www.youtube.com/channel/UC33_tIj4m1_XaqfFcomShvw",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-11-08",
-      "likeCount": "19.8万",
-      "commentCount": "1.3万",
-      "increment": "2436",
-      "viewCount": "2030万"
-    },
-    {
-      "rank": 1669,
       "thumb": {
         "img": "https://i.ytimg.com/vi/n2Rywx3g1PM/default.jpg",
         "url": "https://www.youtube.com/watch?v=n2Rywx3g1PM",
@@ -432,10 +363,79 @@
         "target": "_blank"
       },
       "publishedAt": "2025-02-09",
+      "viewCount": "2033万",
       "likeCount": "32.5万",
       "commentCount": "1.7万",
-      "increment": "3.76万",
-      "viewCount": "2030万"
+      "increment_d1": "3.48万"
+    },
+    {
+      "rank": 1667,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/zIRRGKMLaJE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=zIRRGKMLaJE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "E-girls / Merry × Merry Xmas★",
+        "url": "https://www.youtube.com/watch?v=zIRRGKMLaJE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-11-30",
+      "viewCount": "2032万",
+      "likeCount": "6.5万",
+      "commentCount": "3473",
+      "increment_d1": "842"
+    },
+    {
+      "rank": 1668,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/sJItuaykRRk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=sJItuaykRRk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "絢香 - I believe",
+        "url": "https://www.youtube.com/watch?v=sJItuaykRRk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Warner Music Japan",
+        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-12-14",
+      "viewCount": "2031万",
+      "likeCount": "-",
+      "commentCount": "-",
+      "increment_d1": "2007"
+    },
+    {
+      "rank": 1669,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/qVdBBOpSoN4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=qVdBBOpSoN4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BABYMETAL - いいね！- Iine! (OFFICIAL)",
+        "url": "https://www.youtube.com/watch?v=qVdBBOpSoN4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BABYMETAL",
+        "url": "https://www.youtube.com/channel/UC33_tIj4m1_XaqfFcomShvw",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-11-08",
+      "viewCount": "2030万",
+      "likeCount": "19.8万",
+      "commentCount": "1.3万",
+      "increment_d1": "2439"
     },
     {
       "rank": 1670,
@@ -455,10 +455,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-02-21",
+      "viewCount": "2029万",
       "likeCount": "6.3万",
       "commentCount": "1180",
-      "increment": "5799",
-      "viewCount": "2028万"
+      "increment_d1": "6270"
     },
     {
       "rank": 1671,
@@ -478,10 +478,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-11-03",
+      "viewCount": "2028万",
       "likeCount": "35.7万",
       "commentCount": "1.3万",
-      "increment": "600",
-      "viewCount": "2028万"
+      "increment_d1": "555"
     },
     {
       "rank": 1672,
@@ -501,10 +501,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-28",
+      "viewCount": "2026万",
       "likeCount": "14.9万",
       "commentCount": "2.5万",
-      "increment": "9999",
-      "viewCount": "2025万"
+      "increment_d1": "1.05万"
     },
     {
       "rank": 1673,
@@ -524,10 +524,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-07-22",
+      "viewCount": "2025万",
       "likeCount": "16.8万",
       "commentCount": "3041",
-      "increment": "1886",
-      "viewCount": "2024万"
+      "increment_d1": "1949"
     },
     {
       "rank": 1674,
@@ -547,36 +547,13 @@
         "target": "_blank"
       },
       "publishedAt": "2019-02-04",
+      "viewCount": "2024万",
       "likeCount": "20.9万",
       "commentCount": "7907",
-      "increment": "2086",
-      "viewCount": "2024万"
+      "increment_d1": "2109"
     },
     {
       "rank": 1675,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/m28FSsyWXBw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=m28FSsyWXBw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "JO1｜'SuperCali' PERFORMANCE VIDEO",
-        "url": "https://www.youtube.com/watch?v=m28FSsyWXBw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "JO1",
-        "url": "https://www.youtube.com/channel/UCsmXiDP8S40uBeJYxvyulmA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-09-22",
-      "likeCount": "7.3万",
-      "commentCount": "2.5万",
-      "increment": "190",
-      "viewCount": "2023万"
-    },
-    {
-      "rank": 1676,
       "thumb": {
         "img": "https://i.ytimg.com/vi/SbxR25brgoE/default.jpg",
         "url": "https://www.youtube.com/watch?v=SbxR25brgoE",
@@ -593,10 +570,33 @@
         "target": "_blank"
       },
       "publishedAt": "2025-01-24",
+      "viewCount": "2024万",
       "likeCount": "30.9万",
-      "commentCount": "7692",
-      "increment": "2.98万",
-      "viewCount": "2021万"
+      "commentCount": "7691",
+      "increment_d1": "2.92万"
+    },
+    {
+      "rank": 1676,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/m28FSsyWXBw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=m28FSsyWXBw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "JO1｜'SuperCali' PERFORMANCE VIDEO",
+        "url": "https://www.youtube.com/watch?v=m28FSsyWXBw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "JO1",
+        "url": "https://www.youtube.com/channel/UCsmXiDP8S40uBeJYxvyulmA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-09-22",
+      "viewCount": "2024万",
+      "likeCount": "7.3万",
+      "commentCount": "2.5万",
+      "increment_d1": "275"
     },
     {
       "rank": 1677,
@@ -616,36 +616,13 @@
         "target": "_blank"
       },
       "publishedAt": "2012-12-27",
+      "viewCount": "2021万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment": "1365",
-      "viewCount": "2020万"
+      "increment_d1": "1250"
     },
     {
       "rank": 1678,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/6NQbSN85kJQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=6NQbSN85kJQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BUMP OF CHICKEN「Aurora」",
-        "url": "https://www.youtube.com/watch?v=6NQbSN85kJQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BUMP OF CHICKEN",
-        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-03-14",
-      "likeCount": "10.1万",
-      "commentCount": "1万",
-      "increment": "1127",
-      "viewCount": "2018万"
-    },
-    {
-      "rank": 1679,
       "thumb": {
         "img": "https://i.ytimg.com/vi/fwzRR6Bsro4/default.jpg",
         "url": "https://www.youtube.com/watch?v=fwzRR6Bsro4",
@@ -662,10 +639,33 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-27",
+      "viewCount": "2019万",
       "likeCount": "15.8万",
       "commentCount": "1718",
-      "increment": "5121",
-      "viewCount": "2018万"
+      "increment_d1": "5067"
+    },
+    {
+      "rank": 1679,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/6NQbSN85kJQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=6NQbSN85kJQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BUMP OF CHICKEN「Aurora」",
+        "url": "https://www.youtube.com/watch?v=6NQbSN85kJQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BUMP OF CHICKEN",
+        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-03-14",
+      "viewCount": "2018万",
+      "likeCount": "10.1万",
+      "commentCount": "1万",
+      "increment_d1": "1359"
     },
     {
       "rank": 1680,
@@ -685,10 +685,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-01-11",
+      "viewCount": "2018万",
       "likeCount": "11.6万",
       "commentCount": "2774",
-      "increment": "1360",
-      "viewCount": "2018万"
+      "increment_d1": "1412"
     },
     {
       "rank": 1681,
@@ -708,36 +708,13 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-29",
+      "viewCount": "2018万",
       "likeCount": "24.8万",
       "commentCount": "2977",
-      "increment": "1.18万",
-      "viewCount": "2016万"
+      "increment_d1": "1.11万"
     },
     {
       "rank": 1682,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/XicdpSmxuT0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=XicdpSmxuT0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "TVアニメ「パリピ孔明」OPテーマ「チキチキバンバン」ノンテロップ映像",
-        "url": "https://www.youtube.com/watch?v=XicdpSmxuT0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex pictures",
-        "url": "https://www.youtube.com/channel/UCKlXiCjg_VI0eZ9kKBeNJgw",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-04-12",
-      "likeCount": "26.2万",
-      "commentCount": "8055",
-      "increment": "3377",
-      "viewCount": "2014万"
-    },
-    {
-      "rank": 1683,
       "thumb": {
         "img": "https://i.ytimg.com/vi/xhgYtfanNLA/default.jpg",
         "url": "https://www.youtube.com/watch?v=xhgYtfanNLA",
@@ -754,10 +731,33 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-09",
+      "viewCount": "2016万",
       "likeCount": "7.4万",
       "commentCount": "197",
-      "increment": "2.09万",
-      "viewCount": "2014万"
+      "increment_d1": "2.08万"
+    },
+    {
+      "rank": 1683,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/XicdpSmxuT0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=XicdpSmxuT0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "TVアニメ「パリピ孔明」OPテーマ「チキチキバンバン」ノンテロップ映像",
+        "url": "https://www.youtube.com/watch?v=XicdpSmxuT0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex pictures",
+        "url": "https://www.youtube.com/channel/UCKlXiCjg_VI0eZ9kKBeNJgw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-04-12",
+      "viewCount": "2014万",
+      "likeCount": "26.2万",
+      "commentCount": "8055",
+      "increment_d1": "3129"
     },
     {
       "rank": 1684,
@@ -777,10 +777,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-27",
+      "viewCount": "2013万",
       "likeCount": "6.9万",
       "commentCount": "1878",
-      "increment": "4469",
-      "viewCount": "2012万"
+      "increment_d1": "4442"
     },
     {
       "rank": 1685,
@@ -800,10 +800,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-10-09",
+      "viewCount": "2009万",
       "likeCount": "9.3万",
-      "commentCount": "7530",
-      "increment": "1170",
-      "viewCount": "2009万"
+      "commentCount": "7529",
+      "increment_d1": "1492"
     },
     {
       "rank": 1686,
@@ -823,10 +823,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-29",
+      "viewCount": "2009万",
       "likeCount": "3万",
       "commentCount": "50",
-      "increment": "3633",
-      "viewCount": "2008万"
+      "increment_d1": "3980"
     },
     {
       "rank": 1687,
@@ -846,59 +846,13 @@
         "target": "_blank"
       },
       "publishedAt": "2014-06-04",
+      "viewCount": "2008万",
       "likeCount": "5.8万",
       "commentCount": "2455",
-      "increment": "428",
-      "viewCount": "2008万"
+      "increment_d1": "371"
     },
     {
       "rank": 1688,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/MiCoGolDDOQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=MiCoGolDDOQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SixTONES - Rosy [YouTube ver.]",
-        "url": "https://www.youtube.com/watch?v=MiCoGolDDOQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SixTONES",
-        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-12-10",
-      "likeCount": "-",
-      "commentCount": "1.7万",
-      "increment": "2099",
-      "viewCount": "2006万"
-    },
-    {
-      "rank": 1689,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/oUq2a6t258o/default.jpg",
-        "url": "https://www.youtube.com/watch?v=oUq2a6t258o",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Stray Kids 『Scars』 Music Video",
-        "url": "https://www.youtube.com/watch?v=oUq2a6t258o",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Stray Kids Japan Official YouTube",
-        "url": "https://www.youtube.com/channel/UCXhj2pPWvONXmvgHX5wllCA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-10-06",
-      "likeCount": "84.6万",
-      "commentCount": "6.3万",
-      "increment": "3001",
-      "viewCount": "2006万"
-    },
-    {
-      "rank": 1690,
       "thumb": {
         "img": "https://i.ytimg.com/vi/m6CFrfKw60w/default.jpg",
         "url": "https://www.youtube.com/watch?v=m6CFrfKw60w",
@@ -915,10 +869,56 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-23",
+      "viewCount": "2007万",
       "likeCount": "23.9万",
-      "commentCount": "5987",
-      "increment": "1.49万",
-      "viewCount": "2006万"
+      "commentCount": "5990",
+      "increment_d1": "1.4万"
+    },
+    {
+      "rank": 1689,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/MiCoGolDDOQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=MiCoGolDDOQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SixTONES - Rosy [YouTube ver.]",
+        "url": "https://www.youtube.com/watch?v=MiCoGolDDOQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SixTONES",
+        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-12-10",
+      "viewCount": "2007万",
+      "likeCount": "-",
+      "commentCount": "1.7万",
+      "increment_d1": "2147"
+    },
+    {
+      "rank": 1690,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/oUq2a6t258o/default.jpg",
+        "url": "https://www.youtube.com/watch?v=oUq2a6t258o",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Stray Kids 『Scars』 Music Video",
+        "url": "https://www.youtube.com/watch?v=oUq2a6t258o",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Stray Kids Japan Official YouTube",
+        "url": "https://www.youtube.com/channel/UCXhj2pPWvONXmvgHX5wllCA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-10-06",
+      "viewCount": "2006万",
+      "likeCount": "84.6万",
+      "commentCount": "6.3万",
+      "increment_d1": "2935"
     },
     {
       "rank": 1691,
@@ -938,10 +938,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-02-20",
+      "viewCount": "2005万",
       "likeCount": "21.2万",
       "commentCount": "9979",
-      "increment": "3043",
-      "viewCount": "2005万"
+      "increment_d1": "3073"
     },
     {
       "rank": 1692,
@@ -961,10 +961,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-10-27",
-      "likeCount": "17.3万",
-      "commentCount": "9867",
-      "increment": "2148",
-      "viewCount": "2003万"
+      "viewCount": "2003万",
+      "likeCount": "17.4万",
+      "commentCount": "9868",
+      "increment_d1": "2218"
     },
     {
       "rank": 1693,
@@ -984,10 +984,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-07-03",
+      "viewCount": "2001万",
       "likeCount": "7.8万",
-      "commentCount": "2219",
-      "increment": "660",
-      "viewCount": "2001万"
+      "commentCount": "2218",
+      "increment_d1": "612"
     },
     {
       "rank": 1694,
@@ -1007,10 +1007,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-01",
+      "viewCount": "2001万",
       "likeCount": "6.4万",
       "commentCount": "3918",
-      "increment": "656",
-      "viewCount": "2001万"
+      "increment_d1": "822"
     },
     {
       "rank": 1695,
@@ -1030,59 +1030,13 @@
         "target": "_blank"
       },
       "publishedAt": "2019-09-13",
+      "viewCount": "2000万",
       "likeCount": "49.4万",
       "commentCount": "4.9万",
-      "increment": "739",
-      "viewCount": "2000万"
+      "increment_d1": "677"
     },
     {
       "rank": 1696,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/W5cZcrkQ-b4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=W5cZcrkQ-b4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "globe / FACES PLACES",
-        "url": "https://www.youtube.com/watch?v=W5cZcrkQ-b4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "globe",
-        "url": "https://www.youtube.com/channel/UCKcuHCV3VN8mJ3qQj7Xr42Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-09-01",
-      "likeCount": "3.8万",
-      "commentCount": "3272",
-      "increment": "2827",
-      "viewCount": "1999万"
-    },
-    {
-      "rank": 1697,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/o7lqCcE4Lho/default.jpg",
-        "url": "https://www.youtube.com/watch?v=o7lqCcE4Lho",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Stray Kids 『TOP -Japanese ver.-』Music Video",
-        "url": "https://www.youtube.com/watch?v=o7lqCcE4Lho",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Stray Kids Japan Official YouTube",
-        "url": "https://www.youtube.com/channel/UCXhj2pPWvONXmvgHX5wllCA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-05-26",
-      "likeCount": "73.6万",
-      "commentCount": "4.3万",
-      "increment": "2567",
-      "viewCount": "1999万"
-    },
-    {
-      "rank": 1698,
       "thumb": {
         "img": "https://i.ytimg.com/vi/TYhWV4H83sU/default.jpg",
         "url": "https://www.youtube.com/watch?v=TYhWV4H83sU",
@@ -1099,10 +1053,56 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-25",
+      "viewCount": "2000万",
       "likeCount": "-",
-      "commentCount": "5189",
-      "increment": "9075",
-      "viewCount": "1999万"
+      "commentCount": "5193",
+      "increment_d1": "9691"
+    },
+    {
+      "rank": 1697,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/W5cZcrkQ-b4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=W5cZcrkQ-b4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "globe / FACES PLACES",
+        "url": "https://www.youtube.com/watch?v=W5cZcrkQ-b4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "globe",
+        "url": "https://www.youtube.com/channel/UCKcuHCV3VN8mJ3qQj7Xr42Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-09-01",
+      "viewCount": "2000万",
+      "likeCount": "3.8万",
+      "commentCount": "3274",
+      "increment_d1": "2984"
+    },
+    {
+      "rank": 1698,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/o7lqCcE4Lho/default.jpg",
+        "url": "https://www.youtube.com/watch?v=o7lqCcE4Lho",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Stray Kids 『TOP -Japanese ver.-』Music Video",
+        "url": "https://www.youtube.com/watch?v=o7lqCcE4Lho",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Stray Kids Japan Official YouTube",
+        "url": "https://www.youtube.com/channel/UCXhj2pPWvONXmvgHX5wllCA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-05-26",
+      "viewCount": "2000万",
+      "likeCount": "73.6万",
+      "commentCount": "4.3万",
+      "increment_d1": "2779"
     },
     {
       "rank": 1699,
@@ -1122,10 +1122,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-07-12",
+      "viewCount": "1998万",
       "likeCount": "10万",
-      "commentCount": "2331",
-      "increment": "1800",
-      "viewCount": "1998万"
+      "commentCount": "2332",
+      "increment_d1": "1898"
     },
     {
       "rank": 1700,
@@ -1145,10 +1145,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-11-17",
+      "viewCount": "1998万",
       "likeCount": "33.9万",
       "commentCount": "1.5万",
-      "increment": "1449",
-      "viewCount": "1998万"
+      "increment_d1": "1430"
     }
   ]
 }

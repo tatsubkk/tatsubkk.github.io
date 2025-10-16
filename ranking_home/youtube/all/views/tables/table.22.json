@@ -3,29 +3,6 @@
     {
       "rank": 1051,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/A_5wTaQKK6c/default.jpg",
-        "url": "https://www.youtube.com/watch?v=A_5wTaQKK6c",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "宇多田ヒカル 『あなた』",
-        "url": "https://www.youtube.com/watch?v=A_5wTaQKK6c",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Hikaru Utada",
-        "url": "https://www.youtube.com/channel/UChcgcbX3zMBwd0wTJyy2JlA",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-01-17",
-      "likeCount": "20.8万",
-      "commentCount": "3786",
-      "increment": "1.97万",
-      "viewCount": "3285万"
-    },
-    {
-      "rank": 1052,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/W_fHWaoQwkw/default.jpg",
         "url": "https://www.youtube.com/watch?v=W_fHWaoQwkw",
         "target": "_blank"
@@ -41,10 +18,33 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-07",
+      "viewCount": "3286万",
       "likeCount": "33.1万",
-      "commentCount": "4977",
-      "increment": "1.68万",
-      "viewCount": "3284万"
+      "commentCount": "4978",
+      "increment_d1": "1.68万"
+    },
+    {
+      "rank": 1052,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/v4WsQsRgbls/default.jpg",
+        "url": "https://www.youtube.com/watch?v=v4WsQsRgbls",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "玩具 / たかやん (Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=v4WsQsRgbls",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "たかやん / Takayan",
+        "url": "https://www.youtube.com/channel/UCHGGjDM6Z7nq5qBIPzn1D7Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-02-22",
+      "viewCount": "3286万",
+      "likeCount": "86.7万",
+      "commentCount": "2.3万",
+      "increment_d1": "1615"
     },
     {
       "rank": 1053,
@@ -64,10 +64,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-19",
+      "viewCount": "3285万",
       "likeCount": "25.3万",
       "commentCount": "7031",
-      "increment": "9372",
-      "viewCount": "3284万"
+      "increment_d1": "9330"
     },
     {
       "rank": 1054,
@@ -87,10 +87,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-11-05",
+      "viewCount": "3284万",
       "likeCount": "36.8万",
       "commentCount": "1.4万",
-      "increment": "9282",
-      "viewCount": "3283万"
+      "increment_d1": "8901"
     },
     {
       "rank": 1055,
@@ -110,10 +110,10 @@
         "target": "_blank"
       },
       "publishedAt": "2025-01-21",
+      "viewCount": "3281万",
       "likeCount": "27万",
       "commentCount": "1.2万",
-      "increment": "3.96万",
-      "viewCount": "3276万"
+      "increment_d1": "4.17万"
     },
     {
       "rank": 1056,
@@ -133,10 +133,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-04-01",
+      "viewCount": "3273万",
       "likeCount": "12万",
-      "commentCount": "7321",
-      "increment": "1.22万",
-      "viewCount": "3272万"
+      "commentCount": "7323",
+      "increment_d1": "1.21万"
     },
     {
       "rank": 1057,
@@ -156,10 +156,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-06-15",
+      "viewCount": "3269万",
       "likeCount": "20.2万",
       "commentCount": "6327",
-      "increment": "3298",
-      "viewCount": "3269万"
+      "increment_d1": "3270"
     },
     {
       "rank": 1058,
@@ -179,10 +179,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-08",
+      "viewCount": "3263万",
       "likeCount": "-",
       "commentCount": "3万",
-      "increment": "5146",
-      "viewCount": "3263万"
+      "increment_d1": "5176"
     },
     {
       "rank": 1059,
@@ -202,10 +202,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-20",
+      "viewCount": "3250万",
       "likeCount": "15.1万",
-      "commentCount": "4225",
-      "increment": "1.25万",
-      "viewCount": "3249万"
+      "commentCount": "4227",
+      "increment_d1": "1.27万"
     },
     {
       "rank": 1060,
@@ -225,10 +225,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-09",
+      "viewCount": "3249万",
       "likeCount": "39.5万",
       "commentCount": "1.2万",
-      "increment": "6026",
-      "viewCount": "3248万"
+      "increment_d1": "6137"
     },
     {
       "rank": 1061,
@@ -248,10 +248,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-31",
+      "viewCount": "3243万",
       "likeCount": "-",
-      "commentCount": "8991",
-      "increment": "9516",
-      "viewCount": "3242万"
+      "commentCount": "8993",
+      "increment_d1": "9137"
     },
     {
       "rank": 1062,
@@ -271,10 +271,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-03-26",
+      "viewCount": "3238万",
       "likeCount": "20万",
-      "commentCount": "8159",
-      "increment": "9137",
-      "viewCount": "3237万"
+      "commentCount": "8163",
+      "increment_d1": "8640"
     },
     {
       "rank": 1063,
@@ -294,10 +294,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-12-30",
+      "viewCount": "3236万",
       "likeCount": "14.6万",
       "commentCount": "5184",
-      "increment": "3019",
-      "viewCount": "3235万"
+      "increment_d1": "2922"
     },
     {
       "rank": 1064,
@@ -317,10 +317,10 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-03",
+      "viewCount": "3233万",
       "likeCount": "-",
-      "commentCount": "6561",
-      "increment": "5377",
-      "viewCount": "3233万"
+      "commentCount": "6562",
+      "increment_d1": "6437"
     },
     {
       "rank": 1065,
@@ -340,10 +340,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-06-12",
+      "viewCount": "3232万",
       "likeCount": "45.5万",
       "commentCount": "2.2万",
-      "increment": "1.7万",
-      "viewCount": "3231万"
+      "increment_d1": "1.61万"
     },
     {
       "rank": 1066,
@@ -363,10 +363,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-22",
+      "viewCount": "3230万",
       "likeCount": "46万",
       "commentCount": "1.1万",
-      "increment": "2.28万",
-      "viewCount": "3228万"
+      "increment_d1": "2.44万"
     },
     {
       "rank": 1067,
@@ -386,10 +386,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-26",
+      "viewCount": "3229万",
       "likeCount": "55.9万",
       "commentCount": "1.9万",
-      "increment": "2.64万",
-      "viewCount": "3227万"
+      "increment_d1": "2.63万"
     },
     {
       "rank": 1068,
@@ -409,10 +409,10 @@
         "target": "_blank"
       },
       "publishedAt": "2010-08-31",
+      "viewCount": "3223万",
       "likeCount": "6.4万",
       "commentCount": "2722",
-      "increment": "3189",
-      "viewCount": "3223万"
+      "increment_d1": "3326"
     },
     {
       "rank": 1069,
@@ -432,10 +432,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-10",
+      "viewCount": "3221万",
       "likeCount": "28万",
       "commentCount": "-",
-      "increment": "448",
-      "viewCount": "3221万"
+      "increment_d1": "388"
     },
     {
       "rank": 1070,
@@ -455,10 +455,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-10",
+      "viewCount": "3219万",
       "likeCount": "38.5万",
-      "commentCount": "8162",
-      "increment": "8422",
-      "viewCount": "3218万"
+      "commentCount": "8161",
+      "increment_d1": "8155"
     },
     {
       "rank": 1071,
@@ -478,36 +478,13 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-04",
-      "likeCount": "23.7万",
+      "viewCount": "3217万",
+      "likeCount": "23.8万",
       "commentCount": "4622",
-      "increment": "1.92万",
-      "viewCount": "3215万"
+      "increment_d1": "2.11万"
     },
     {
       "rank": 1072,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/R3Oapqavr6k/default.jpg",
-        "url": "https://www.youtube.com/watch?v=R3Oapqavr6k",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ケツメイシ『出会いのかけら』",
-        "url": "https://www.youtube.com/watch?v=R3Oapqavr6k",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ケツメイシ",
-        "url": "https://www.youtube.com/channel/UChlz62qIkNouRTXbwJhYyRg",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-05-12",
-      "likeCount": "3.7万",
-      "commentCount": "1091",
-      "increment": "2180",
-      "viewCount": "3213万"
-    },
-    {
-      "rank": 1073,
       "thumb": {
         "img": "https://i.ytimg.com/vi/I88PrE-KUPk/default.jpg",
         "url": "https://www.youtube.com/watch?v=I88PrE-KUPk",
@@ -524,10 +501,33 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-13",
+      "viewCount": "3214万",
       "likeCount": "32.4万",
       "commentCount": "9111",
-      "increment": "4348",
-      "viewCount": "3213万"
+      "increment_d1": "4270"
+    },
+    {
+      "rank": 1073,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/R3Oapqavr6k/default.jpg",
+        "url": "https://www.youtube.com/watch?v=R3Oapqavr6k",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ケツメイシ『出会いのかけら』",
+        "url": "https://www.youtube.com/watch?v=R3Oapqavr6k",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ケツメイシ",
+        "url": "https://www.youtube.com/channel/UChlz62qIkNouRTXbwJhYyRg",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-05-12",
+      "viewCount": "3214万",
+      "likeCount": "3.7万",
+      "commentCount": "1091",
+      "increment_d1": "2175"
     },
     {
       "rank": 1074,
@@ -547,10 +547,10 @@
         "target": "_blank"
       },
       "publishedAt": "2009-07-08",
+      "viewCount": "3206万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment": "5123",
-      "viewCount": "3205万"
+      "increment_d1": "5462"
     },
     {
       "rank": 1075,
@@ -570,10 +570,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-01-16",
+      "viewCount": "3196万",
       "likeCount": "12.3万",
-      "commentCount": "4736",
-      "increment": "1365",
-      "viewCount": "3196万"
+      "commentCount": "4735",
+      "increment_d1": "1357"
     },
     {
       "rank": 1076,
@@ -593,10 +593,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-02-07",
+      "viewCount": "3185万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment": "3402",
-      "viewCount": "3185万"
+      "increment_d1": "3551"
     },
     {
       "rank": 1077,
@@ -616,10 +616,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-29",
+      "viewCount": "3182万",
       "likeCount": "30.2万",
-      "commentCount": "5431",
-      "increment": "1.5万",
-      "viewCount": "3181万"
+      "commentCount": "5432",
+      "increment_d1": "1.56万"
     },
     {
       "rank": 1078,
@@ -639,10 +639,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-01",
+      "viewCount": "3179万",
       "likeCount": "49.4万",
       "commentCount": "1.1万",
-      "increment": "8261",
-      "viewCount": "3178万"
+      "increment_d1": "7401"
     },
     {
       "rank": 1079,
@@ -662,10 +662,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-18",
+      "viewCount": "3179万",
       "likeCount": "22.1万",
-      "commentCount": "9824",
-      "increment": "2.02万",
-      "viewCount": "3177万"
+      "commentCount": "9826",
+      "increment_d1": "2.16万"
     },
     {
       "rank": 1080,
@@ -685,10 +685,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-09-30",
+      "viewCount": "3174万",
       "likeCount": "15.5万",
-      "commentCount": "8243",
-      "increment": "1897",
-      "viewCount": "3174万"
+      "commentCount": "8244",
+      "increment_d1": "1807"
     },
     {
       "rank": 1081,
@@ -708,10 +708,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-10-21",
+      "viewCount": "3170万",
       "likeCount": "17.9万",
       "commentCount": "2.8万",
-      "increment": "2261",
-      "viewCount": "3170万"
+      "increment_d1": "2258"
     },
     {
       "rank": 1082,
@@ -731,10 +731,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-12",
+      "viewCount": "3168万",
       "likeCount": "20.7万",
-      "commentCount": "3379",
-      "increment": "1.6万",
-      "viewCount": "3167万"
+      "commentCount": "3378",
+      "increment_d1": "1.55万"
     },
     {
       "rank": 1083,
@@ -754,36 +754,13 @@
         "target": "_blank"
       },
       "publishedAt": "2014-04-01",
+      "viewCount": "3165万",
       "likeCount": "10.5万",
-      "commentCount": "6092",
-      "increment": "1.46万",
-      "viewCount": "3163万"
+      "commentCount": "6093",
+      "increment_d1": "1.52万"
     },
     {
       "rank": 1084,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/plXjYiRcBtA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=plXjYiRcBtA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BUMP OF CHICKEN「GO」",
-        "url": "https://www.youtube.com/watch?v=plXjYiRcBtA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BUMP OF CHICKEN",
-        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-12-27",
-      "likeCount": "12.7万",
-      "commentCount": "4412",
-      "increment": "2563",
-      "viewCount": "3162万"
-    },
-    {
-      "rank": 1085,
       "thumb": {
         "img": "https://i.ytimg.com/vi/IKjRLKQo7O0/default.jpg",
         "url": "https://www.youtube.com/watch?v=IKjRLKQo7O0",
@@ -800,10 +777,33 @@
         "target": "_blank"
       },
       "publishedAt": "2021-02-20",
+      "viewCount": "3162万",
       "likeCount": "10.7万",
-      "commentCount": "4266",
-      "increment": "1.39万",
-      "viewCount": "3161万"
+      "commentCount": "4267",
+      "increment_d1": "1.48万"
+    },
+    {
+      "rank": 1085,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/plXjYiRcBtA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=plXjYiRcBtA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BUMP OF CHICKEN「GO」",
+        "url": "https://www.youtube.com/watch?v=plXjYiRcBtA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BUMP OF CHICKEN",
+        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-12-27",
+      "viewCount": "3162万",
+      "likeCount": "12.7万",
+      "commentCount": "4412",
+      "increment_d1": "2729"
     },
     {
       "rank": 1086,
@@ -823,10 +823,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-25",
+      "viewCount": "3160万",
       "likeCount": "57.5万",
       "commentCount": "4.9万",
-      "increment": "1551",
-      "viewCount": "3160万"
+      "increment_d1": "1626"
     },
     {
       "rank": 1087,
@@ -846,10 +846,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-10-20",
+      "viewCount": "3158万",
       "likeCount": "-",
       "commentCount": "4.3万",
-      "increment": "1945",
-      "viewCount": "3157万"
+      "increment_d1": "2166"
     },
     {
       "rank": 1088,
@@ -869,10 +869,10 @@
         "target": "_blank"
       },
       "publishedAt": "2010-10-15",
+      "viewCount": "3157万",
       "likeCount": "14.7万",
-      "commentCount": "8074",
-      "increment": "9189",
-      "viewCount": "3157万"
+      "commentCount": "8077",
+      "increment_d1": "9319"
     },
     {
       "rank": 1089,
@@ -892,59 +892,13 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-17",
+      "viewCount": "3154万",
       "likeCount": "-",
       "commentCount": "2万",
-      "increment": "3395",
-      "viewCount": "3154万"
+      "increment_d1": "3212"
     },
     {
       "rank": 1090,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/nwWm3om-gSw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=nwWm3om-gSw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "kyary pamyu pamyu - Yumeno Hajima Ring Ring(きゃりーぱみゅぱみゅ - ゆめのはじまりんりん) Official Music Video",
-        "url": "https://www.youtube.com/watch?v=nwWm3om-gSw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kyary Pamyu Pamyu ( きゃりーぱみゅぱみゅ )",
-        "url": "https://www.youtube.com/channel/UCMMEwnArQWFNU1VrRlbIDtg",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-02-19",
-      "likeCount": "31.1万",
-      "commentCount": "1.2万",
-      "increment": "1692",
-      "viewCount": "3152万"
-    },
-    {
-      "rank": 1091,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ivijoIfhl0o/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ivijoIfhl0o",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Stray Kids 『THE SOUND』 Music Video",
-        "url": "https://www.youtube.com/watch?v=ivijoIfhl0o",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Stray Kids Japan Official YouTube",
-        "url": "https://www.youtube.com/channel/UCXhj2pPWvONXmvgHX5wllCA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-02-09",
-      "likeCount": "98.4万",
-      "commentCount": "8.8万",
-      "increment": "3718",
-      "viewCount": "3151万"
-    },
-    {
-      "rank": 1092,
       "thumb": {
         "img": "https://i.ytimg.com/vi/EMYa07zHC9w/default.jpg",
         "url": "https://www.youtube.com/watch?v=EMYa07zHC9w",
@@ -961,10 +915,56 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-26",
+      "viewCount": "3153万",
       "likeCount": "21.6万",
-      "commentCount": "7116",
-      "increment": "1.82万",
-      "viewCount": "3151万"
+      "commentCount": "7118",
+      "increment_d1": "1.89万"
+    },
+    {
+      "rank": 1091,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/nwWm3om-gSw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=nwWm3om-gSw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "kyary pamyu pamyu - Yumeno Hajima Ring Ring(きゃりーぱみゅぱみゅ - ゆめのはじまりんりん) Official Music Video",
+        "url": "https://www.youtube.com/watch?v=nwWm3om-gSw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kyary Pamyu Pamyu ( きゃりーぱみゅぱみゅ )",
+        "url": "https://www.youtube.com/channel/UCMMEwnArQWFNU1VrRlbIDtg",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-02-19",
+      "viewCount": "3152万",
+      "likeCount": "31.1万",
+      "commentCount": "1.2万",
+      "increment_d1": "1832"
+    },
+    {
+      "rank": 1092,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ivijoIfhl0o/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ivijoIfhl0o",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Stray Kids 『THE SOUND』 Music Video",
+        "url": "https://www.youtube.com/watch?v=ivijoIfhl0o",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Stray Kids Japan Official YouTube",
+        "url": "https://www.youtube.com/channel/UCXhj2pPWvONXmvgHX5wllCA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-02-09",
+      "viewCount": "3152万",
+      "likeCount": "98.4万",
+      "commentCount": "8.8万",
+      "increment_d1": "3752"
     },
     {
       "rank": 1093,
@@ -984,10 +984,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-19",
+      "viewCount": "3147万",
       "likeCount": "-",
       "commentCount": "1.2万",
-      "increment": "6201",
-      "viewCount": "3146万"
+      "increment_d1": "5908"
     },
     {
       "rank": 1094,
@@ -1007,10 +1007,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-05-27",
+      "viewCount": "3145万",
       "likeCount": "16.2万",
       "commentCount": "4761",
-      "increment": "3663",
-      "viewCount": "3145万"
+      "increment_d1": "3623"
     },
     {
       "rank": 1095,
@@ -1030,10 +1030,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-12-01",
+      "viewCount": "3145万",
       "likeCount": "25.5万",
       "commentCount": "1.4万",
-      "increment": "1953",
-      "viewCount": "3144万"
+      "increment_d1": "1978"
     },
     {
       "rank": 1096,
@@ -1053,10 +1053,10 @@
         "target": "_blank"
       },
       "publishedAt": "2010-05-13",
+      "viewCount": "3144万",
       "likeCount": "10.5万",
-      "commentCount": "4189",
-      "increment": "2368",
-      "viewCount": "3144万"
+      "commentCount": "4188",
+      "increment_d1": "2643"
     },
     {
       "rank": 1097,
@@ -1076,10 +1076,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-01-25",
+      "viewCount": "3138万",
       "likeCount": "12.1万",
       "commentCount": "6387",
-      "increment": "3195",
-      "viewCount": "3138万"
+      "increment_d1": "3156"
     },
     {
       "rank": 1098,
@@ -1099,10 +1099,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-11-21",
+      "viewCount": "3138万",
       "likeCount": "23.8万",
       "commentCount": "4529",
-      "increment": "7724",
-      "viewCount": "3137万"
+      "increment_d1": "7484"
     },
     {
       "rank": 1099,
@@ -1122,10 +1122,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-09-12",
+      "viewCount": "3132万",
       "likeCount": "22.8万",
       "commentCount": "6755",
-      "increment": "2159",
-      "viewCount": "3132万"
+      "increment_d1": "2332"
     },
     {
       "rank": 1100,
@@ -1145,10 +1145,10 @@
         "target": "_blank"
       },
       "publishedAt": "2010-07-20",
+      "viewCount": "3125万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment": "1233",
-      "viewCount": "3125万"
+      "increment_d1": "1126"
     }
   ]
 }

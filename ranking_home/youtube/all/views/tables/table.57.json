@@ -3,29 +3,6 @@
     {
       "rank": 2801,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/UMlqTEVMZFE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=UMlqTEVMZFE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "椎名林檎 - 『ＮＩＰＰＯＮ』",
-        "url": "https://www.youtube.com/watch?v=UMlqTEVMZFE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "椎名林檎",
-        "url": "https://www.youtube.com/channel/UCRQX-dpFt_osBpH71ItuuvA",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-06-09",
-      "likeCount": "3.8万",
-      "commentCount": "1317",
-      "increment": "94",
-      "viewCount": "1205万"
-    },
-    {
-      "rank": 2802,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/ChfQ7iqyOnA/default.jpg",
         "url": "https://www.youtube.com/watch?v=ChfQ7iqyOnA",
         "target": "_blank"
@@ -41,10 +18,33 @@
         "target": "_blank"
       },
       "publishedAt": "2015-04-22",
+      "viewCount": "1205万",
       "likeCount": "8.6万",
       "commentCount": "3659",
-      "increment": "1034",
-      "viewCount": "1205万"
+      "increment_d1": "988"
+    },
+    {
+      "rank": 2802,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/UMlqTEVMZFE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=UMlqTEVMZFE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "椎名林檎 - 『ＮＩＰＰＯＮ』",
+        "url": "https://www.youtube.com/watch?v=UMlqTEVMZFE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "椎名林檎",
+        "url": "https://www.youtube.com/channel/UCRQX-dpFt_osBpH71ItuuvA",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-06-09",
+      "viewCount": "1205万",
+      "likeCount": "3.8万",
+      "commentCount": "1317",
+      "increment_d1": "122"
     },
     {
       "rank": 2803,
@@ -64,10 +64,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-12-27",
+      "viewCount": "1204万",
       "likeCount": "8.8万",
       "commentCount": "2643",
-      "increment": "308",
-      "viewCount": "1204万"
+      "increment_d1": "377"
     },
     {
       "rank": 2804,
@@ -87,10 +87,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-05-02",
+      "viewCount": "1202万",
       "likeCount": "2万",
       "commentCount": "591",
-      "increment": "94",
-      "viewCount": "1202万"
+      "increment_d1": "112"
     },
     {
       "rank": 2805,
@@ -110,10 +110,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-10-09",
+      "viewCount": "1202万",
       "likeCount": "-",
-      "commentCount": "5899",
-      "increment": "2250",
-      "viewCount": "1202万"
+      "commentCount": "5900",
+      "increment_d1": "2183"
     },
     {
       "rank": 2806,
@@ -133,10 +133,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-03-24",
+      "viewCount": "1202万",
       "likeCount": "3万",
       "commentCount": "922",
-      "increment": "4413",
-      "viewCount": "1202万"
+      "increment_d1": "4329"
     },
     {
       "rank": 2807,
@@ -156,10 +156,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-01-05",
+      "viewCount": "1201万",
       "likeCount": "13.7万",
       "commentCount": "1.8万",
-      "increment": "902",
-      "viewCount": "1201万"
+      "increment_d1": "854"
     },
     {
       "rank": 2808,
@@ -179,10 +179,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-08",
+      "viewCount": "1201万",
       "likeCount": "10.8万",
       "commentCount": "41",
-      "increment": "738",
-      "viewCount": "1201万"
+      "increment_d1": "849"
     },
     {
       "rank": 2809,
@@ -202,10 +202,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-08",
+      "viewCount": "1200万",
       "likeCount": "11.9万",
-      "commentCount": "2439",
-      "increment": "5398",
-      "viewCount": "1200万"
+      "commentCount": "2440",
+      "increment_d1": "5400"
     },
     {
       "rank": 2810,
@@ -225,10 +225,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-29",
+      "viewCount": "1199万",
       "likeCount": "11.5万",
       "commentCount": "2258",
-      "increment": "808",
-      "viewCount": "1199万"
+      "increment_d1": "743"
     },
     {
       "rank": 2811,
@@ -248,10 +248,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-07-07",
+      "viewCount": "1199万",
       "likeCount": "6.9万",
       "commentCount": "5827",
-      "increment": "635",
-      "viewCount": "1199万"
+      "increment_d1": "561"
     },
     {
       "rank": 2812,
@@ -271,10 +271,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-11",
+      "viewCount": "1199万",
       "likeCount": "9.2万",
-      "commentCount": "8248",
-      "increment": "1624",
-      "viewCount": "1198万"
+      "commentCount": "8251",
+      "increment_d1": "1596"
     },
     {
       "rank": 2813,
@@ -294,10 +294,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-06-27",
+      "viewCount": "1197万",
       "likeCount": "-",
-      "commentCount": "5995",
-      "increment": "1088",
-      "viewCount": "1197万"
+      "commentCount": "5994",
+      "increment_d1": "1176"
     },
     {
       "rank": 2814,
@@ -317,10 +317,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-01-15",
+      "viewCount": "1197万",
       "likeCount": "9万",
       "commentCount": "9846",
-      "increment": "701",
-      "viewCount": "1197万"
+      "increment_d1": "734"
     },
     {
       "rank": 2815,
@@ -340,10 +340,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-08",
+      "viewCount": "1197万",
       "likeCount": "14万",
-      "commentCount": "4482",
-      "increment": "1186",
-      "viewCount": "1197万"
+      "commentCount": "4483",
+      "increment_d1": "1164"
     },
     {
       "rank": 2816,
@@ -363,10 +363,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-10-17",
+      "viewCount": "1195万",
       "likeCount": "4.4万",
-      "commentCount": "1947",
-      "increment": "2375",
-      "viewCount": "1195万"
+      "commentCount": "1948",
+      "increment_d1": "2420"
     },
     {
       "rank": 2817,
@@ -386,105 +386,13 @@
         "target": "_blank"
       },
       "publishedAt": "2012-05-25",
+      "viewCount": "1195万",
       "likeCount": "2.5万",
-      "commentCount": "1492",
-      "increment": "1537",
-      "viewCount": "1194万"
+      "commentCount": "1493",
+      "increment_d1": "1659"
     },
     {
       "rank": 2818,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/RKYgWHSN7fM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=RKYgWHSN7fM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "モーニング娘。'14 『What is LOVE?』 (MV)",
-        "url": "https://www.youtube.com/watch?v=RKYgWHSN7fM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "モーニング娘。",
-        "url": "https://www.youtube.com/channel/UCoKXb95K5h3sME3c9OCBaeA",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-01-03",
-      "likeCount": "4.8万",
-      "commentCount": "2300",
-      "increment": "1226",
-      "viewCount": "1194万"
-    },
-    {
-      "rank": 2819,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/2ukU1meKcD0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=2ukU1meKcD0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ノスタルジックレインフォール／CHiCO with HoneyWorks",
-        "url": "https://www.youtube.com/watch?v=2ukU1meKcD0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "CHiCO / CHiCO with HoneyWorks",
-        "url": "https://www.youtube.com/channel/UCw9-qglgZw8J8m2rxe7bAXw",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-01-19",
-      "likeCount": "11.7万",
-      "commentCount": "5814",
-      "increment": "1127",
-      "viewCount": "1194万"
-    },
-    {
-      "rank": 2820,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/I_Na3ZUUooM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=I_Na3ZUUooM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "星野源 - ドラえもん（Live at Tokyo Dome 2019）",
-        "url": "https://www.youtube.com/watch?v=I_Na3ZUUooM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "星野源 Gen Hoshino",
-        "url": "https://www.youtube.com/channel/UCPKlrgZXnnb89nSeITvTdGA",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-07-23",
-      "likeCount": "6.4万",
-      "commentCount": "2399",
-      "increment": "1175",
-      "viewCount": "1194万"
-    },
-    {
-      "rank": 2821,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/aipq7JTWYBo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=aipq7JTWYBo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "#84【潜入】俺はパスがなくて入れなかったのでカメラだけ放り投げてみた。前編。",
-        "url": "https://www.youtube.com/watch?v=aipq7JTWYBo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "よにのちゃんねる",
-        "url": "https://www.youtube.com/channel/UC2alHD2WkakOiTxCxF-uMAg",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-01-02",
-      "likeCount": "-",
-      "commentCount": "1.2万",
-      "increment": "836",
-      "viewCount": "1194万"
-    },
-    {
-      "rank": 2822,
       "thumb": {
         "img": "https://i.ytimg.com/vi/XQN9uygMr-o/default.jpg",
         "url": "https://www.youtube.com/watch?v=XQN9uygMr-o",
@@ -501,36 +409,105 @@
         "target": "_blank"
       },
       "publishedAt": "2015-10-20",
+      "viewCount": "1194万",
       "likeCount": "6.9万",
       "commentCount": "2982",
-      "increment": "5174",
-      "viewCount": "1194万"
+      "increment_d1": "5474"
     },
     {
-      "rank": 2823,
+      "rank": 2819,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/zK1bo3kBqTg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=zK1bo3kBqTg",
+        "img": "https://i.ytimg.com/vi/RKYgWHSN7fM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=RKYgWHSN7fM",
         "target": "_blank"
       },
       "title": {
-        "text": "てくてくあるこう《東京ハイジ》",
-        "url": "https://www.youtube.com/watch?v=zK1bo3kBqTg",
+        "text": "モーニング娘。'14 『What is LOVE?』 (MV)",
+        "url": "https://www.youtube.com/watch?v=RKYgWHSN7fM",
         "target": "_blank"
       },
       "channel": {
-        "text": "東京ハイジ TOKIOHEIDI",
-        "url": "https://www.youtube.com/channel/UCnrXT1MVcEoaVe33JZ_IkMA",
+        "text": "モーニング娘。",
+        "url": "https://www.youtube.com/channel/UCoKXb95K5h3sME3c9OCBaeA",
         "target": "_blank"
       },
-      "publishedAt": "2011-04-07",
-      "likeCount": "-",
-      "commentCount": "-",
-      "increment": "657",
-      "viewCount": "1192万"
+      "publishedAt": "2014-01-03",
+      "viewCount": "1194万",
+      "likeCount": "4.8万",
+      "commentCount": "2300",
+      "increment_d1": "1200"
     },
     {
-      "rank": 2824,
+      "rank": 2820,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/2ukU1meKcD0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=2ukU1meKcD0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ノスタルジックレインフォール／CHiCO with HoneyWorks",
+        "url": "https://www.youtube.com/watch?v=2ukU1meKcD0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "CHiCO / CHiCO with HoneyWorks",
+        "url": "https://www.youtube.com/channel/UCw9-qglgZw8J8m2rxe7bAXw",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-01-19",
+      "viewCount": "1194万",
+      "likeCount": "11.7万",
+      "commentCount": "5814",
+      "increment_d1": "1102"
+    },
+    {
+      "rank": 2821,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/I_Na3ZUUooM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=I_Na3ZUUooM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "星野源 - ドラえもん（Live at Tokyo Dome 2019）",
+        "url": "https://www.youtube.com/watch?v=I_Na3ZUUooM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "星野源 Gen Hoshino",
+        "url": "https://www.youtube.com/channel/UCPKlrgZXnnb89nSeITvTdGA",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-07-23",
+      "viewCount": "1194万",
+      "likeCount": "6.4万",
+      "commentCount": "2399",
+      "increment_d1": "1245"
+    },
+    {
+      "rank": 2822,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/aipq7JTWYBo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=aipq7JTWYBo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "#84【潜入】俺はパスがなくて入れなかったのでカメラだけ放り投げてみた。前編。",
+        "url": "https://www.youtube.com/watch?v=aipq7JTWYBo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "よにのちゃんねる",
+        "url": "https://www.youtube.com/channel/UC2alHD2WkakOiTxCxF-uMAg",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-01-02",
+      "viewCount": "1194万",
+      "likeCount": "-",
+      "commentCount": "1.2万",
+      "increment_d1": "813"
+    },
+    {
+      "rank": 2823,
       "thumb": {
         "img": "https://i.ytimg.com/vi/hkij4LvACZ0/default.jpg",
         "url": "https://www.youtube.com/watch?v=hkij4LvACZ0",
@@ -547,10 +524,33 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-18",
-      "likeCount": "22.3万",
-      "commentCount": "6877",
-      "increment": "1.05万",
-      "viewCount": "1192万"
+      "viewCount": "1193万",
+      "likeCount": "22.4万",
+      "commentCount": "6878",
+      "increment_d1": "1.01万"
+    },
+    {
+      "rank": 2824,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/zK1bo3kBqTg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=zK1bo3kBqTg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "てくてくあるこう《東京ハイジ》",
+        "url": "https://www.youtube.com/watch?v=zK1bo3kBqTg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "東京ハイジ TOKIOHEIDI",
+        "url": "https://www.youtube.com/channel/UCnrXT1MVcEoaVe33JZ_IkMA",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-04-07",
+      "viewCount": "1192万",
+      "likeCount": "-",
+      "commentCount": "-",
+      "increment_d1": "668"
     },
     {
       "rank": 2825,
@@ -570,10 +570,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-02",
+      "viewCount": "1191万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment": "5708",
-      "viewCount": "1190万"
+      "increment_d1": "6333"
     },
     {
       "rank": 2826,
@@ -593,10 +593,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-07-21",
+      "viewCount": "1190万",
       "likeCount": "12.5万",
       "commentCount": "1万",
-      "increment": "1234",
-      "viewCount": "1190万"
+      "increment_d1": "1266"
     },
     {
       "rank": 2827,
@@ -616,36 +616,13 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-11",
+      "viewCount": "1190万",
       "likeCount": "15.8万",
       "commentCount": "5239",
-      "increment": "1862",
-      "viewCount": "1189万"
+      "increment_d1": "1819"
     },
     {
       "rank": 2828,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/0nzgi6dz8VY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=0nzgi6dz8VY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Official髭男dism - LADY［Official Video］",
-        "url": "https://www.youtube.com/watch?v=0nzgi6dz8VY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Official髭男dism",
-        "url": "https://www.youtube.com/channel/UC3vg17IZ1IV73xx069jG44w",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-09-29",
-      "likeCount": "6.1万",
-      "commentCount": "2300",
-      "increment": "2447",
-      "viewCount": "1188万"
-    },
-    {
-      "rank": 2829,
       "thumb": {
         "img": "https://i.ytimg.com/vi/18H2Uc9_7I0/default.jpg",
         "url": "https://www.youtube.com/watch?v=18H2Uc9_7I0",
@@ -662,10 +639,33 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-17",
+      "viewCount": "1189万",
       "likeCount": "6.9万",
-      "commentCount": "3294",
-      "increment": "7812",
-      "viewCount": "1188万"
+      "commentCount": "3295",
+      "increment_d1": "8145"
+    },
+    {
+      "rank": 2829,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/0nzgi6dz8VY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=0nzgi6dz8VY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Official髭男dism - LADY［Official Video］",
+        "url": "https://www.youtube.com/watch?v=0nzgi6dz8VY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Official髭男dism",
+        "url": "https://www.youtube.com/channel/UC3vg17IZ1IV73xx069jG44w",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-09-29",
+      "viewCount": "1189万",
+      "likeCount": "6.1万",
+      "commentCount": "2301",
+      "increment_d1": "2338"
     },
     {
       "rank": 2830,
@@ -685,10 +685,10 @@
         "target": "_blank"
       },
       "publishedAt": "2025-04-11",
+      "viewCount": "1188万",
       "likeCount": "4.1万",
-      "commentCount": "7147",
-      "increment": "7160",
-      "viewCount": "1187万"
+      "commentCount": "7149",
+      "increment_d1": "7368"
     },
     {
       "rank": 2831,
@@ -708,10 +708,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-08-01",
+      "viewCount": "1187万",
       "likeCount": "16.6万",
       "commentCount": "3497",
-      "increment": "2165",
-      "viewCount": "1187万"
+      "increment_d1": "2273"
     },
     {
       "rank": 2832,
@@ -731,10 +731,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-02-07",
+      "viewCount": "1186万",
       "likeCount": "3.1万",
       "commentCount": "994",
-      "increment": "477",
-      "viewCount": "1186万"
+      "increment_d1": "403"
     },
     {
       "rank": 2833,
@@ -754,36 +754,13 @@
         "target": "_blank"
       },
       "publishedAt": "2015-09-18",
+      "viewCount": "1186万",
       "likeCount": "9.6万",
       "commentCount": "6723",
-      "increment": "853",
-      "viewCount": "1186万"
+      "increment_d1": "688"
     },
     {
       "rank": 2834,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/sQNC5k2O6oE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=sQNC5k2O6oE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "倖田來未 / め組のひと (1コーラス ver.)",
-        "url": "https://www.youtube.com/watch?v=sQNC5k2O6oE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-03-04",
-      "likeCount": "3.2万",
-      "commentCount": "1885",
-      "increment": "141",
-      "viewCount": "1184万"
-    },
-    {
-      "rank": 2835,
       "thumb": {
         "img": "https://i.ytimg.com/vi/e9FaggHTDM4/default.jpg",
         "url": "https://www.youtube.com/watch?v=e9FaggHTDM4",
@@ -800,13 +777,13 @@
         "target": "_blank"
       },
       "publishedAt": "2025-01-04",
+      "viewCount": "1185万",
       "likeCount": "12.7万",
-      "commentCount": "6718",
-      "increment": "1.39万",
-      "viewCount": "1183万"
+      "commentCount": "6720",
+      "increment_d1": "1.39万"
     },
     {
-      "rank": 2836,
+      "rank": 2835,
       "thumb": {
         "img": "https://i.ytimg.com/vi/m4vjI6InDJM/default.jpg",
         "url": "https://www.youtube.com/watch?v=m4vjI6InDJM",
@@ -823,10 +800,33 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-26",
+      "viewCount": "1184万",
       "likeCount": "10万",
       "commentCount": "5488",
-      "increment": "6787",
-      "viewCount": "1183万"
+      "increment_d1": "6885"
+    },
+    {
+      "rank": 2836,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/sQNC5k2O6oE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=sQNC5k2O6oE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "倖田來未 / め組のひと (1コーラス ver.)",
+        "url": "https://www.youtube.com/watch?v=sQNC5k2O6oE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-03-04",
+      "viewCount": "1184万",
+      "likeCount": "3.2万",
+      "commentCount": "1885",
+      "increment_d1": "138"
     },
     {
       "rank": 2837,
@@ -846,10 +846,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-10-17",
+      "viewCount": "1183万",
       "likeCount": "3万",
       "commentCount": "1446",
-      "increment": "63",
-      "viewCount": "1183万"
+      "increment_d1": "58"
     },
     {
       "rank": 2838,
@@ -869,105 +869,13 @@
         "target": "_blank"
       },
       "publishedAt": "2019-03-16",
+      "viewCount": "1183万",
       "likeCount": "24.1万",
       "commentCount": "3931",
-      "increment": "862",
-      "viewCount": "1183万"
+      "increment_d1": "809"
     },
     {
       "rank": 2839,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/pVZ5cXvGDWM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=pVZ5cXvGDWM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ヒカリ証明論／CHiCO with HoneyWorks",
-        "url": "https://www.youtube.com/watch?v=pVZ5cXvGDWM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "CHiCO / CHiCO with HoneyWorks",
-        "url": "https://www.youtube.com/channel/UCw9-qglgZw8J8m2rxe7bAXw",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-08-03",
-      "likeCount": "10.9万",
-      "commentCount": "3807",
-      "increment": "1349",
-      "viewCount": "1181万"
-    },
-    {
-      "rank": 2840,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/S2UcVZQugSo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=S2UcVZQugSo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "DUSTCELL - 足りない / Missing",
-        "url": "https://www.youtube.com/watch?v=S2UcVZQugSo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "DUSTCELL",
-        "url": "https://www.youtube.com/channel/UCJSzxbt4Acel9JdeLiY7tJQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-06-03",
-      "likeCount": "12万",
-      "commentCount": "1071",
-      "increment": "3819",
-      "viewCount": "1181万"
-    },
-    {
-      "rank": 2841,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/vZCGhI0c-uc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=vZCGhI0c-uc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "東京ハイジを30分たっぷり！《東京ハイジ》",
-        "url": "https://www.youtube.com/watch?v=vZCGhI0c-uc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "東京ハイジ TOKIOHEIDI",
-        "url": "https://www.youtube.com/channel/UCnrXT1MVcEoaVe33JZ_IkMA",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-01-01",
-      "likeCount": "-",
-      "commentCount": "-",
-      "increment": "1132",
-      "viewCount": "1181万"
-    },
-    {
-      "rank": 2842,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/w2LLyY__opk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=w2LLyY__opk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "JASMINE -sad to say",
-        "url": "https://www.youtube.com/watch?v=w2LLyY__opk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "jasmineSMEJ",
-        "url": "https://www.youtube.com/channel/UCOtleQbvot_mYB2LvibSzsw",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-05-20",
-      "likeCount": "5万",
-      "commentCount": "1766",
-      "increment": "2008",
-      "viewCount": "1181万"
-    },
-    {
-      "rank": 2843,
       "thumb": {
         "img": "https://i.ytimg.com/vi/lTMSvyYOVjA/default.jpg",
         "url": "https://www.youtube.com/watch?v=lTMSvyYOVjA",
@@ -984,10 +892,102 @@
         "target": "_blank"
       },
       "publishedAt": "2025-05-05",
+      "viewCount": "1183万",
       "likeCount": "11.4万",
       "commentCount": "1.7万",
-      "increment": "2.47万",
-      "viewCount": "1180万"
+      "increment_d1": "2.29万"
+    },
+    {
+      "rank": 2840,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/pVZ5cXvGDWM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=pVZ5cXvGDWM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ヒカリ証明論／CHiCO with HoneyWorks",
+        "url": "https://www.youtube.com/watch?v=pVZ5cXvGDWM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "CHiCO / CHiCO with HoneyWorks",
+        "url": "https://www.youtube.com/channel/UCw9-qglgZw8J8m2rxe7bAXw",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-08-03",
+      "viewCount": "1182万",
+      "likeCount": "10.9万",
+      "commentCount": "3807",
+      "increment_d1": "1385"
+    },
+    {
+      "rank": 2841,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/S2UcVZQugSo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=S2UcVZQugSo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "DUSTCELL - 足りない / Missing",
+        "url": "https://www.youtube.com/watch?v=S2UcVZQugSo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "DUSTCELL",
+        "url": "https://www.youtube.com/channel/UCJSzxbt4Acel9JdeLiY7tJQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-06-03",
+      "viewCount": "1181万",
+      "likeCount": "12万",
+      "commentCount": "1071",
+      "increment_d1": "3572"
+    },
+    {
+      "rank": 2842,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/vZCGhI0c-uc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=vZCGhI0c-uc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "東京ハイジを30分たっぷり！《東京ハイジ》",
+        "url": "https://www.youtube.com/watch?v=vZCGhI0c-uc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "東京ハイジ TOKIOHEIDI",
+        "url": "https://www.youtube.com/channel/UCnrXT1MVcEoaVe33JZ_IkMA",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-01-01",
+      "viewCount": "1181万",
+      "likeCount": "-",
+      "commentCount": "-",
+      "increment_d1": "985"
+    },
+    {
+      "rank": 2843,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/w2LLyY__opk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=w2LLyY__opk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "JASMINE -sad to say",
+        "url": "https://www.youtube.com/watch?v=w2LLyY__opk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "jasmineSMEJ",
+        "url": "https://www.youtube.com/channel/UCOtleQbvot_mYB2LvibSzsw",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-05-20",
+      "viewCount": "1181万",
+      "likeCount": "5万",
+      "commentCount": "1766",
+      "increment_d1": "2044"
     },
     {
       "rank": 2844,
@@ -1007,10 +1007,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-09-11",
+      "viewCount": "1180万",
       "likeCount": "4.6万",
       "commentCount": "1567",
-      "increment": "544",
-      "viewCount": "1180万"
+      "increment_d1": "525"
     },
     {
       "rank": 2845,
@@ -1030,33 +1030,33 @@
         "target": "_blank"
       },
       "publishedAt": "2013-09-04",
+      "viewCount": "1180万",
       "likeCount": "13.3万",
       "commentCount": "3817",
-      "increment": "3439",
-      "viewCount": "1180万"
+      "increment_d1": "3015"
     },
     {
       "rank": 2846,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/I5wtmLCgOP4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=I5wtmLCgOP4",
+        "img": "https://i.ytimg.com/vi/JiWEZbm6lhI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=JiWEZbm6lhI",
         "target": "_blank"
       },
       "title": {
-        "text": "好きが溢れていたの / もさを。【Music Video】",
-        "url": "https://www.youtube.com/watch?v=I5wtmLCgOP4",
+        "text": "倖田來未-KODA KUMI-『愛のうた（album version）』～ 20th Year Special Full Ver. ～",
+        "url": "https://www.youtube.com/watch?v=JiWEZbm6lhI",
         "target": "_blank"
       },
       "channel": {
-        "text": "もさを。",
-        "url": "https://www.youtube.com/channel/UCT7u_4qwBmIjr5mhhgdpB9A",
+        "text": "倖田來未",
+        "url": "https://www.youtube.com/channel/UCCI_DJ1Q-WYGS8bVXsW_V5w",
         "target": "_blank"
       },
-      "publishedAt": "2020-09-27",
-      "likeCount": "14.8万",
-      "commentCount": "5027",
-      "increment": "1044",
-      "viewCount": "1179万"
+      "publishedAt": "2020-01-29",
+      "viewCount": "1180万",
+      "likeCount": "4.2万",
+      "commentCount": "1093",
+      "increment_d1": "1.04万"
     },
     {
       "rank": 2847,
@@ -1076,33 +1076,33 @@
         "target": "_blank"
       },
       "publishedAt": "2016-02-03",
+      "viewCount": "1179万",
       "likeCount": "11.7万",
-      "commentCount": "6865",
-      "increment": "2988",
-      "viewCount": "1179万"
+      "commentCount": "6866",
+      "increment_d1": "2874"
     },
     {
       "rank": 2848,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/70zBVAFqvHQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=70zBVAFqvHQ",
+        "img": "https://i.ytimg.com/vi/I5wtmLCgOP4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=I5wtmLCgOP4",
         "target": "_blank"
       },
       "title": {
-        "text": "JO1｜'Your Key' Official MV (YouTube Edit) (TVアニメ『七つの大罪 黙示録の四騎士』新オープニングテーマ)",
-        "url": "https://www.youtube.com/watch?v=70zBVAFqvHQ",
+        "text": "好きが溢れていたの / もさを。【Music Video】",
+        "url": "https://www.youtube.com/watch?v=I5wtmLCgOP4",
         "target": "_blank"
       },
       "channel": {
-        "text": "JO1",
-        "url": "https://www.youtube.com/channel/UCsmXiDP8S40uBeJYxvyulmA",
+        "text": "もさを。",
+        "url": "https://www.youtube.com/channel/UCT7u_4qwBmIjr5mhhgdpB9A",
         "target": "_blank"
       },
-      "publishedAt": "2024-02-01",
-      "likeCount": "3.9万",
-      "commentCount": "2.2万",
-      "increment": "1244",
-      "viewCount": "1179万"
+      "publishedAt": "2020-09-27",
+      "viewCount": "1179万",
+      "likeCount": "14.8万",
+      "commentCount": "5027",
+      "increment_d1": "1007"
     },
     {
       "rank": 2849,
@@ -1122,33 +1122,33 @@
         "target": "_blank"
       },
       "publishedAt": "2010-12-03",
+      "viewCount": "1179万",
       "likeCount": "4.2万",
-      "commentCount": "1307",
-      "increment": "3161",
-      "viewCount": "1179万"
+      "commentCount": "1308",
+      "increment_d1": "2851"
     },
     {
       "rank": 2850,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/JiWEZbm6lhI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=JiWEZbm6lhI",
+        "img": "https://i.ytimg.com/vi/70zBVAFqvHQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=70zBVAFqvHQ",
         "target": "_blank"
       },
       "title": {
-        "text": "倖田來未-KODA KUMI-『愛のうた（album version）』～ 20th Year Special Full Ver. ～",
-        "url": "https://www.youtube.com/watch?v=JiWEZbm6lhI",
+        "text": "JO1｜'Your Key' Official MV (YouTube Edit) (TVアニメ『七つの大罪 黙示録の四騎士』新オープニングテーマ)",
+        "url": "https://www.youtube.com/watch?v=70zBVAFqvHQ",
         "target": "_blank"
       },
       "channel": {
-        "text": "倖田來未",
-        "url": "https://www.youtube.com/channel/UCCI_DJ1Q-WYGS8bVXsW_V5w",
+        "text": "JO1",
+        "url": "https://www.youtube.com/channel/UCsmXiDP8S40uBeJYxvyulmA",
         "target": "_blank"
       },
-      "publishedAt": "2020-01-29",
-      "likeCount": "4.2万",
-      "commentCount": "1093",
-      "increment": "9448",
-      "viewCount": "1179万"
+      "publishedAt": "2024-02-01",
+      "viewCount": "1179万",
+      "likeCount": "3.9万",
+      "commentCount": "2.2万",
+      "increment_d1": "1240"
     }
   ]
 }

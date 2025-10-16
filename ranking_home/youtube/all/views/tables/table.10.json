@@ -18,10 +18,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-11-28",
+      "viewCount": "6461万",
       "likeCount": "53.2万",
       "commentCount": "1.5万",
-      "increment": "2.44万",
-      "viewCount": "6458万"
+      "increment_d1": "2.4万"
     },
     {
       "rank": 452,
@@ -41,10 +41,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-22",
+      "viewCount": "6459万",
       "likeCount": "24.5万",
       "commentCount": "3390",
-      "increment": "3.68万",
-      "viewCount": "6455万"
+      "increment_d1": "3.81万"
     },
     {
       "rank": 453,
@@ -64,10 +64,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-14",
+      "viewCount": "6441万",
       "likeCount": "38.5万",
       "commentCount": "5644",
-      "increment": "2.94万",
-      "viewCount": "6438万"
+      "increment_d1": "3.03万"
     },
     {
       "rank": 454,
@@ -87,10 +87,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-06-06",
+      "viewCount": "6435万",
       "likeCount": "14.9万",
       "commentCount": "4952",
-      "increment": "859",
-      "viewCount": "6435万"
+      "increment_d1": "814"
     },
     {
       "rank": 455,
@@ -110,59 +110,13 @@
         "target": "_blank"
       },
       "publishedAt": "2021-04-20",
+      "viewCount": "6433万",
       "likeCount": "148万",
       "commentCount": "21万",
-      "increment": "3878",
-      "viewCount": "6432万"
+      "increment_d1": "3666"
     },
     {
       "rank": 456,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/PbISczErpKY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=PbISczErpKY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE - WanteD! WanteD!",
-        "url": "https://www.youtube.com/watch?v=PbISczErpKY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "MrsGREENAPPLEVEVO",
-        "url": "https://www.youtube.com/channel/UC5e0xdyGS7OEgyLroMxwrbw",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-09-08",
-      "likeCount": "51.3万",
-      "commentCount": "1.8万",
-      "increment": "7664",
-      "viewCount": "6425万"
-    },
-    {
-      "rank": 457,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/dcOwj-QE_ZE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=dcOwj-QE_ZE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ずっと真夜中でいいのに。『暗く黒く』MV（ZUTOMAYO – DARKEN）",
-        "url": "https://www.youtube.com/watch?v=dcOwj-QE_ZE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ずっと真夜中でいいのに。 ZUTOMAYO",
-        "url": "https://www.youtube.com/channel/UCv6P5nsS9rP4tDtFlqLU_QQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-01-20",
-      "likeCount": "148.3万",
-      "commentCount": "2.9万",
-      "increment": "1.42万",
-      "viewCount": "6423万"
-    },
-    {
-      "rank": 458,
       "thumb": {
         "img": "https://i.ytimg.com/vi/WNcNOaUWRaU/default.jpg",
         "url": "https://www.youtube.com/watch?v=WNcNOaUWRaU",
@@ -179,10 +133,56 @@
         "target": "_blank"
       },
       "publishedAt": "2023-02-18",
+      "viewCount": "6425万",
       "likeCount": "24.5万",
       "commentCount": "5846",
-      "increment": "3.69万",
-      "viewCount": "6422万"
+      "increment_d1": "3.92万"
+    },
+    {
+      "rank": 457,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/PbISczErpKY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=PbISczErpKY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE - WanteD! WanteD!",
+        "url": "https://www.youtube.com/watch?v=PbISczErpKY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "MrsGREENAPPLEVEVO",
+        "url": "https://www.youtube.com/channel/UC5e0xdyGS7OEgyLroMxwrbw",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-09-08",
+      "viewCount": "6425万",
+      "likeCount": "51.3万",
+      "commentCount": "1.8万",
+      "increment_d1": "7728"
+    },
+    {
+      "rank": 458,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/dcOwj-QE_ZE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=dcOwj-QE_ZE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ずっと真夜中でいいのに。『暗く黒く』MV（ZUTOMAYO – DARKEN）",
+        "url": "https://www.youtube.com/watch?v=dcOwj-QE_ZE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ずっと真夜中でいいのに。 ZUTOMAYO",
+        "url": "https://www.youtube.com/channel/UCv6P5nsS9rP4tDtFlqLU_QQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-01-20",
+      "viewCount": "6424万",
+      "likeCount": "148.3万",
+      "commentCount": "2.9万",
+      "increment_d1": "1.35万"
     },
     {
       "rank": 459,
@@ -202,10 +202,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-07-06",
+      "viewCount": "6419万",
       "likeCount": "63.6万",
       "commentCount": "1.5万",
-      "increment": "5757",
-      "viewCount": "6418万"
+      "increment_d1": "5789"
     },
     {
       "rank": 460,
@@ -225,36 +225,13 @@
         "target": "_blank"
       },
       "publishedAt": "2011-05-30",
+      "viewCount": "6416万",
       "likeCount": "16.1万",
-      "commentCount": "6037",
-      "increment": "1.42万",
-      "viewCount": "6415万"
+      "commentCount": "6038",
+      "increment_d1": "1.43万"
     },
     {
       "rank": 461,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/NLy4cvRx7Vc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=NLy4cvRx7Vc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "きゃりーぱみゅぱみゅ - つけまつける , Kyary Pamyu Pamyu - Tsukematsukeru",
-        "url": "https://www.youtube.com/watch?v=NLy4cvRx7Vc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Warner Music Japan",
-        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-12-07",
-      "likeCount": "24.2万",
-      "commentCount": "2.1万",
-      "increment": "2470",
-      "viewCount": "6414万"
-    },
-    {
-      "rank": 462,
       "thumb": {
         "img": "https://i.ytimg.com/vi/8pGRdRhjX3o/default.jpg",
         "url": "https://www.youtube.com/watch?v=8pGRdRhjX3o",
@@ -271,10 +248,33 @@
         "target": "_blank"
       },
       "publishedAt": "2016-11-18",
-      "likeCount": "56.1万",
+      "viewCount": "6415万",
+      "likeCount": "56.2万",
       "commentCount": "1.4万",
-      "increment": "1.07万",
-      "viewCount": "6413万"
+      "increment_d1": "1.03万"
+    },
+    {
+      "rank": 462,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/NLy4cvRx7Vc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=NLy4cvRx7Vc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "きゃりーぱみゅぱみゅ - つけまつける , Kyary Pamyu Pamyu - Tsukematsukeru",
+        "url": "https://www.youtube.com/watch?v=NLy4cvRx7Vc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Warner Music Japan",
+        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-12-07",
+      "viewCount": "6414万",
+      "likeCount": "24.2万",
+      "commentCount": "2.1万",
+      "increment_d1": "2330"
     },
     {
       "rank": 463,
@@ -294,10 +294,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-12-10",
+      "viewCount": "6404万",
       "likeCount": "51.7万",
       "commentCount": "3.6万",
-      "increment": "7783",
-      "viewCount": "6403万"
+      "increment_d1": "7658"
     },
     {
       "rank": 464,
@@ -317,10 +317,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-26",
+      "viewCount": "6404万",
       "likeCount": "56万",
       "commentCount": "1.2万",
-      "increment": "1.13万",
-      "viewCount": "6403万"
+      "increment_d1": "1.08万"
     },
     {
       "rank": 465,
@@ -340,10 +340,10 @@
         "target": "_blank"
       },
       "publishedAt": "2011-09-21",
+      "viewCount": "6391万",
       "likeCount": "29.6万",
       "commentCount": "9418",
-      "increment": "5927",
-      "viewCount": "6390万"
+      "increment_d1": "6261"
     },
     {
       "rank": 466,
@@ -363,10 +363,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-15",
+      "viewCount": "6390万",
       "likeCount": "57.8万",
       "commentCount": "1.4万",
-      "increment": "8038",
-      "viewCount": "6389万"
+      "increment_d1": "7560"
     },
     {
       "rank": 467,
@@ -386,10 +386,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-10-20",
+      "viewCount": "6389万",
       "likeCount": "171.3万",
       "commentCount": "15.3万",
-      "increment": "1.12万",
-      "viewCount": "6388万"
+      "increment_d1": "1.11万"
     },
     {
       "rank": 468,
@@ -409,10 +409,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-06-10",
+      "viewCount": "6355万",
       "likeCount": "55.7万",
       "commentCount": "1.6万",
-      "increment": "1.02万",
-      "viewCount": "6354万"
+      "increment_d1": "1.03万"
     },
     {
       "rank": 469,
@@ -432,10 +432,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-06-29",
+      "viewCount": "6306万",
       "likeCount": "87.8万",
       "commentCount": "3.9万",
-      "increment": "1.32万",
-      "viewCount": "6304万"
+      "increment_d1": "1.26万"
     },
     {
       "rank": 470,
@@ -455,10 +455,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-02-09",
+      "viewCount": "6303万",
       "likeCount": "35.5万",
       "commentCount": "1.2万",
-      "increment": "2.06万",
-      "viewCount": "6301万"
+      "increment_d1": "2.18万"
     },
     {
       "rank": 471,
@@ -478,10 +478,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-06-13",
+      "viewCount": "6288万",
       "likeCount": "31.2万",
-      "commentCount": "8877",
-      "increment": "2.45万",
-      "viewCount": "6286万"
+      "commentCount": "8879",
+      "increment_d1": "2.47万"
     },
     {
       "rank": 472,
@@ -501,10 +501,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-09-20",
+      "viewCount": "6277万",
       "likeCount": "33.4万",
-      "commentCount": "8983",
-      "increment": "1.52万",
-      "viewCount": "6276万"
+      "commentCount": "8985",
+      "increment_d1": "1.61万"
     },
     {
       "rank": 473,
@@ -524,10 +524,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-06-11",
+      "viewCount": "6257万",
       "likeCount": "105.5万",
       "commentCount": "4.6万",
-      "increment": "3385",
-      "viewCount": "6257万"
+      "increment_d1": "3290"
     },
     {
       "rank": 474,
@@ -547,10 +547,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-05",
+      "viewCount": "6247万",
       "likeCount": "-",
       "commentCount": "5.5万",
-      "increment": "8395",
-      "viewCount": "6246万"
+      "increment_d1": "8654"
     },
     {
       "rank": 475,
@@ -570,10 +570,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-03-15",
+      "viewCount": "6245万",
       "likeCount": "27.7万",
       "commentCount": "8396",
-      "increment": "8298",
-      "viewCount": "6244万"
+      "increment_d1": "8854"
     },
     {
       "rank": 476,
@@ -593,10 +593,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-06-05",
+      "viewCount": "6243万",
       "likeCount": "-",
       "commentCount": "9万",
-      "increment": "1886",
-      "viewCount": "6243万"
+      "increment_d1": "1914"
     },
     {
       "rank": 477,
@@ -616,10 +616,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-09",
+      "viewCount": "6240万",
       "likeCount": "-",
       "commentCount": "1.8万",
-      "increment": "1.8万",
-      "viewCount": "6238万"
+      "increment_d1": "1.97万"
     },
     {
       "rank": 478,
@@ -639,10 +639,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-02",
+      "viewCount": "6231万",
       "likeCount": "44.3万",
       "commentCount": "1.3万",
-      "increment": "1.07万",
-      "viewCount": "6230万"
+      "increment_d1": "1.06万"
     },
     {
       "rank": 479,
@@ -662,59 +662,13 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-05",
+      "viewCount": "6228万",
       "likeCount": "34.2万",
       "commentCount": "138",
-      "increment": "2435",
-      "viewCount": "6228万"
+      "increment_d1": "2435"
     },
     {
       "rank": 480,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/f0wbnQw89J0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=f0wbnQw89J0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "乃木坂46 『シンクロニシティ』",
-        "url": "https://www.youtube.com/watch?v=f0wbnQw89J0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "乃木坂46 OFFICIAL YouTube CHANNEL",
-        "url": "https://www.youtube.com/channel/UCUzpZpX2wRYOk3J8QTFGxDg",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-04-06",
-      "likeCount": "27.2万",
-      "commentCount": "3.4万",
-      "increment": "7545",
-      "viewCount": "6193万"
-    },
-    {
-      "rank": 481,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/tcBBNB5JTOQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=tcBBNB5JTOQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ONE OK ROCK - Deeper Deeper [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=tcBBNB5JTOQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ONE OK ROCK",
-        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-01-07",
-      "likeCount": "32万",
-      "commentCount": "1.1万",
-      "increment": "4038",
-      "viewCount": "6190万"
-    },
-    {
-      "rank": 482,
       "thumb": {
         "img": "https://i.ytimg.com/vi/RCaTLn4qoz4/default.jpg",
         "url": "https://www.youtube.com/watch?v=RCaTLn4qoz4",
@@ -731,10 +685,56 @@
         "target": "_blank"
       },
       "publishedAt": "2025-04-05",
+      "viewCount": "6201万",
       "likeCount": "41.9万",
       "commentCount": "2.7万",
-      "increment": "11.5万",
-      "viewCount": "6189万"
+      "increment_d1": "11.8万"
+    },
+    {
+      "rank": 481,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/f0wbnQw89J0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=f0wbnQw89J0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "乃木坂46 『シンクロニシティ』",
+        "url": "https://www.youtube.com/watch?v=f0wbnQw89J0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "乃木坂46 OFFICIAL YouTube CHANNEL",
+        "url": "https://www.youtube.com/channel/UCUzpZpX2wRYOk3J8QTFGxDg",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-04-06",
+      "viewCount": "6193万",
+      "likeCount": "27.2万",
+      "commentCount": "3.4万",
+      "increment_d1": "7529"
+    },
+    {
+      "rank": 482,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/tcBBNB5JTOQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=tcBBNB5JTOQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ONE OK ROCK - Deeper Deeper [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=tcBBNB5JTOQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ONE OK ROCK",
+        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-01-07",
+      "viewCount": "6191万",
+      "likeCount": "32万",
+      "commentCount": "1.1万",
+      "increment_d1": "4173"
     },
     {
       "rank": 483,
@@ -754,10 +754,10 @@
         "target": "_blank"
       },
       "publishedAt": "2011-11-04",
+      "viewCount": "6179万",
       "likeCount": "21.1万",
       "commentCount": "1.4万",
-      "increment": "5833",
-      "viewCount": "6178万"
+      "increment_d1": "6162"
     },
     {
       "rank": 484,
@@ -777,10 +777,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-11-13",
+      "viewCount": "6164万",
       "likeCount": "46.4万",
       "commentCount": "2.5万",
-      "increment": "7019",
-      "viewCount": "6163万"
+      "increment_d1": "6984"
     },
     {
       "rank": 485,
@@ -800,10 +800,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-03-06",
+      "viewCount": "6163万",
       "likeCount": "22.6万",
-      "commentCount": "7538",
-      "increment": "1.01万",
-      "viewCount": "6162万"
+      "commentCount": "7540",
+      "increment_d1": "1.12万"
     },
     {
       "rank": 486,
@@ -823,10 +823,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-02-03",
+      "viewCount": "6160万",
       "likeCount": "37.3万",
       "commentCount": "2万",
-      "increment": "1.32万",
-      "viewCount": "6159万"
+      "increment_d1": "1.28万"
     },
     {
       "rank": 487,
@@ -846,10 +846,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-01-29",
+      "viewCount": "6157万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment": "1.24万",
-      "viewCount": "6155万"
+      "increment_d1": "1.28万"
     },
     {
       "rank": 488,
@@ -869,10 +869,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-11-10",
+      "viewCount": "6146万",
       "likeCount": "110万",
       "commentCount": "6.6万",
-      "increment": "3837",
-      "viewCount": "6146万"
+      "increment_d1": "3583"
     },
     {
       "rank": 489,
@@ -892,10 +892,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-09",
+      "viewCount": "6142万",
       "likeCount": "-",
       "commentCount": "4.1万",
-      "increment": "8941",
-      "viewCount": "6141万"
+      "increment_d1": "8594"
     },
     {
       "rank": 490,
@@ -915,10 +915,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-29",
+      "viewCount": "6141万",
       "likeCount": "26.2万",
       "commentCount": "6315",
-      "increment": "8872",
-      "viewCount": "6140万"
+      "increment_d1": "9133"
     },
     {
       "rank": 491,
@@ -938,10 +938,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-12-03",
+      "viewCount": "6133万",
       "likeCount": "53.4万",
       "commentCount": "2.4万",
-      "increment": "1.04万",
-      "viewCount": "6132万"
+      "increment_d1": "1.05万"
     },
     {
       "rank": 492,
@@ -961,10 +961,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-10-25",
+      "viewCount": "6087万",
       "likeCount": "44.5万",
       "commentCount": "-",
-      "increment": "1588",
-      "viewCount": "6087万"
+      "increment_d1": "1522"
     },
     {
       "rank": 493,
@@ -984,10 +984,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-02-01",
+      "viewCount": "6085万",
       "likeCount": "51.8万",
       "commentCount": "2万",
-      "increment": "7463",
-      "viewCount": "6084万"
+      "increment_d1": "7113"
     },
     {
       "rank": 494,
@@ -1007,10 +1007,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-25",
-      "likeCount": "53.7万",
-      "commentCount": "9045",
-      "increment": "2.41万",
-      "viewCount": "6081万"
+      "viewCount": "6084万",
+      "likeCount": "53.8万",
+      "commentCount": "9048",
+      "increment_d1": "2.5万"
     },
     {
       "rank": 495,
@@ -1030,10 +1030,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-05",
+      "viewCount": "6054万",
       "likeCount": "26.4万",
-      "commentCount": "7665",
-      "increment": "9388",
-      "viewCount": "6053万"
+      "commentCount": "7662",
+      "increment_d1": "9555"
     },
     {
       "rank": 496,
@@ -1053,10 +1053,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-04",
+      "viewCount": "6050万",
       "likeCount": "-",
       "commentCount": "3.3万",
-      "increment": "5276",
-      "viewCount": "6050万"
+      "increment_d1": "5137"
     },
     {
       "rank": 497,
@@ -1076,10 +1076,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-12-13",
+      "viewCount": "6022万",
       "likeCount": "31.8万",
       "commentCount": "2.2万",
-      "increment": "2613",
-      "viewCount": "6022万"
+      "increment_d1": "2697"
     },
     {
       "rank": 498,
@@ -1099,10 +1099,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-05-12",
+      "viewCount": "6022万",
       "likeCount": "41万",
       "commentCount": "9287",
-      "increment": "7765",
-      "viewCount": "6021万"
+      "increment_d1": "7868"
     },
     {
       "rank": 499,
@@ -1122,10 +1122,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-11-17",
+      "viewCount": "6021万",
       "likeCount": "38.8万",
       "commentCount": "1万",
-      "increment": "2166",
-      "viewCount": "6020万"
+      "increment_d1": "2181"
     },
     {
       "rank": 500,
@@ -1145,10 +1145,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-12",
+      "viewCount": "6003万",
       "likeCount": "49.8万",
       "commentCount": "1.1万",
-      "increment": "1.99万",
-      "viewCount": "6001万"
+      "increment_d1": "1.9万"
     }
   ]
 }

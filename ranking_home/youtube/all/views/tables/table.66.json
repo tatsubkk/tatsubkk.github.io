@@ -3,29 +3,6 @@
     {
       "rank": 3251,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/3vrLWnurHE4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=3vrLWnurHE4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "#277【ご報告!!】現状がわかんなすぎて皆で話し合った日",
-        "url": "https://www.youtube.com/watch?v=3vrLWnurHE4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "よにのちゃんねる",
-        "url": "https://www.youtube.com/channel/UC2alHD2WkakOiTxCxF-uMAg",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-10-04",
-      "likeCount": "-",
-      "commentCount": "2.9万",
-      "increment": "978",
-      "viewCount": "1007万"
-    },
-    {
-      "rank": 3252,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/Q1q-_KD_ZT4/default.jpg",
         "url": "https://www.youtube.com/watch?v=Q1q-_KD_ZT4",
         "target": "_blank"
@@ -41,13 +18,13 @@
         "target": "_blank"
       },
       "publishedAt": "2016-06-20",
+      "viewCount": "1005万",
       "likeCount": "2.8万",
       "commentCount": "1118",
-      "increment": "132",
-      "viewCount": "1005万"
+      "increment_d1": "88"
     },
     {
-      "rank": 3253,
+      "rank": 3252,
       "thumb": {
         "img": "https://i.ytimg.com/vi/S_jNtbF7dHg/default.jpg",
         "url": "https://www.youtube.com/watch?v=S_jNtbF7dHg",
@@ -64,13 +41,13 @@
         "target": "_blank"
       },
       "publishedAt": "2016-09-27",
+      "viewCount": "1003万",
       "likeCount": "5.1万",
       "commentCount": "3586",
-      "increment": "146",
-      "viewCount": "1003万"
+      "increment_d1": "185"
     },
     {
-      "rank": 3254,
+      "rank": 3253,
       "thumb": {
         "img": "https://i.ytimg.com/vi/uQq1x9Z8bhc/default.jpg",
         "url": "https://www.youtube.com/watch?v=uQq1x9Z8bhc",
@@ -87,13 +64,13 @@
         "target": "_blank"
       },
       "publishedAt": "2013-06-10",
+      "viewCount": "1003万",
       "likeCount": "2.1万",
       "commentCount": "1417",
-      "increment": "132",
-      "viewCount": "1003万"
+      "increment_d1": "104"
     },
     {
-      "rank": 3255,
+      "rank": 3254,
       "thumb": {
         "img": "https://i.ytimg.com/vi/M07X9kHd4UM/default.jpg",
         "url": "https://www.youtube.com/watch?v=M07X9kHd4UM",
@@ -110,10 +87,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-12-20",
+      "viewCount": "1002万",
       "likeCount": "4.6万",
-      "commentCount": "1662",
-      "increment": "395",
-      "viewCount": "1002万"
+      "commentCount": "1663",
+      "increment_d1": "541"
     }
   ]
 }

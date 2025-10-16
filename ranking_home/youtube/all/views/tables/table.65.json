@@ -3,25 +3,25 @@
     {
       "rank": 3201,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/8khr6ZBnoLo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=8khr6ZBnoLo",
+        "img": "https://i.ytimg.com/vi/3wqDEKywPxs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=3wqDEKywPxs",
         "target": "_blank"
       },
       "title": {
-        "text": "おばけのバケちゃま／ケロポンズ【楽しいオバケ体操「おばけのバケちゃま」！】",
-        "url": "https://www.youtube.com/watch?v=8khr6ZBnoLo",
+        "text": "浜崎あゆみ / HEAVEN (Short Ver.)",
+        "url": "https://www.youtube.com/watch?v=3wqDEKywPxs",
         "target": "_blank"
       },
       "channel": {
-        "text": "ケロポンズ&プッピーズ",
-        "url": "https://www.youtube.com/channel/UCk_ZQUhYa0vjIAYWzZk6tLQ",
+        "text": "ayu",
+        "url": "https://www.youtube.com/channel/UC7eXWU3oN-w5tNtP7sgeeNg",
         "target": "_blank"
       },
-      "publishedAt": "2016-11-11",
-      "likeCount": "1.1万",
+      "publishedAt": "2010-07-22",
+      "viewCount": "1029万",
+      "likeCount": "-",
       "commentCount": "-",
-      "increment": "3327",
-      "viewCount": "1029万"
+      "increment_d1": "407"
     },
     {
       "rank": 3202,
@@ -41,59 +41,13 @@
         "target": "_blank"
       },
       "publishedAt": "2024-08-24",
+      "viewCount": "1029万",
       "likeCount": "3.6万",
       "commentCount": "1.3万",
-      "increment": "937",
-      "viewCount": "1029万"
+      "increment_d1": "889"
     },
     {
       "rank": 3203,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/eDBOGihYl10/default.jpg",
-        "url": "https://www.youtube.com/watch?v=eDBOGihYl10",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BIGBANG / ガラガラGO!!",
-        "url": "https://www.youtube.com/watch?v=eDBOGihYl10",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "UNIVERSAL MUSIC JAPAN",
-        "url": "https://www.youtube.com/channel/UCl2aT0nRejTCQO_LHZAftBw",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-06-26",
-      "likeCount": "1846",
-      "commentCount": "55",
-      "increment": "11",
-      "viewCount": "1029万"
-    },
-    {
-      "rank": 3204,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Qs9C5sVJuVs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Qs9C5sVJuVs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "岡崎体育 『Natural Lips』Music Video",
-        "url": "https://www.youtube.com/watch?v=Qs9C5sVJuVs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-05-26",
-      "likeCount": "8.1万",
-      "commentCount": "5561",
-      "increment": "245",
-      "viewCount": "1029万"
-    },
-    {
-      "rank": 3205,
       "thumb": {
         "img": "https://i.ytimg.com/vi/-1HI2yiZ8Lg/default.jpg",
         "url": "https://www.youtube.com/watch?v=-1HI2yiZ8Lg",
@@ -110,10 +64,56 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-17",
+      "viewCount": "1029万",
       "likeCount": "34.5万",
       "commentCount": "2万",
-      "increment": "3384",
-      "viewCount": "1029万"
+      "increment_d1": "3475"
+    },
+    {
+      "rank": 3204,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/eDBOGihYl10/default.jpg",
+        "url": "https://www.youtube.com/watch?v=eDBOGihYl10",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BIGBANG / ガラガラGO!!",
+        "url": "https://www.youtube.com/watch?v=eDBOGihYl10",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "UNIVERSAL MUSIC JAPAN",
+        "url": "https://www.youtube.com/channel/UCl2aT0nRejTCQO_LHZAftBw",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-06-26",
+      "viewCount": "1029万",
+      "likeCount": "1846",
+      "commentCount": "55",
+      "increment_d1": "13"
+    },
+    {
+      "rank": 3205,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Qs9C5sVJuVs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Qs9C5sVJuVs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "岡崎体育 『Natural Lips』Music Video",
+        "url": "https://www.youtube.com/watch?v=Qs9C5sVJuVs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-05-26",
+      "viewCount": "1029万",
+      "likeCount": "8.1万",
+      "commentCount": "5561",
+      "increment_d1": "273"
     },
     {
       "rank": 3206,
@@ -133,10 +133,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-07-02",
+      "viewCount": "1027万",
       "likeCount": "3.9万",
       "commentCount": "1267",
-      "increment": "762",
-      "viewCount": "1027万"
+      "increment_d1": "747"
     },
     {
       "rank": 3207,
@@ -156,10 +156,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-08-08",
+      "viewCount": "1026万",
       "likeCount": "2.4万",
       "commentCount": "381",
-      "increment": "442",
-      "viewCount": "1026万"
+      "increment_d1": "485"
     },
     {
       "rank": 3208,
@@ -179,10 +179,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-04-27",
+      "viewCount": "1024万",
       "likeCount": "9.5万",
       "commentCount": "5819",
-      "increment": "979",
-      "viewCount": "1024万"
+      "increment_d1": "935"
     },
     {
       "rank": 3209,
@@ -202,10 +202,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-09-25",
+      "viewCount": "1024万",
       "likeCount": "2.7万",
       "commentCount": "1284",
-      "increment": "212",
-      "viewCount": "1024万"
+      "increment_d1": "275"
     },
     {
       "rank": 3210,
@@ -225,10 +225,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-11-12",
+      "viewCount": "1023万",
       "likeCount": "4万",
       "commentCount": "1106",
-      "increment": "543",
-      "viewCount": "1023万"
+      "increment_d1": "420"
     },
     {
       "rank": 3211,
@@ -248,10 +248,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-05-09",
+      "viewCount": "1023万",
       "likeCount": "2.3万",
       "commentCount": "926",
-      "increment": "519",
-      "viewCount": "1023万"
+      "increment_d1": "497"
     },
     {
       "rank": 3212,
@@ -271,10 +271,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-09",
+      "viewCount": "1023万",
       "likeCount": "17.4万",
       "commentCount": "4713",
-      "increment": "3534",
-      "viewCount": "1023万"
+      "increment_d1": "3623"
     },
     {
       "rank": 3213,
@@ -294,10 +294,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-10-26",
+      "viewCount": "1022万",
       "likeCount": "3万",
       "commentCount": "891",
-      "increment": "1234",
-      "viewCount": "1022万"
+      "increment_d1": "1234"
     },
     {
       "rank": 3214,
@@ -317,10 +317,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-08-19",
+      "viewCount": "1022万",
       "likeCount": "5.9万",
       "commentCount": "914",
-      "increment": "592",
-      "viewCount": "1022万"
+      "increment_d1": "587"
     },
     {
       "rank": 3215,
@@ -340,10 +340,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-12-08",
+      "viewCount": "1021万",
       "likeCount": "5.6万",
       "commentCount": "1435",
-      "increment": "978",
-      "viewCount": "1021万"
+      "increment_d1": "1148"
     },
     {
       "rank": 3216,
@@ -363,10 +363,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-02-15",
+      "viewCount": "1021万",
       "likeCount": "10.7万",
       "commentCount": "1653",
-      "increment": "1641",
-      "viewCount": "1021万"
+      "increment_d1": "1696"
     },
     {
       "rank": 3217,
@@ -386,10 +386,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-01",
+      "viewCount": "1021万",
       "likeCount": "18.3万",
-      "commentCount": "6934",
-      "increment": "2778",
-      "viewCount": "1021万"
+      "commentCount": "6933",
+      "increment_d1": "2554"
     },
     {
       "rank": 3218,
@@ -409,36 +409,13 @@
         "target": "_blank"
       },
       "publishedAt": "2018-10-02",
+      "viewCount": "1021万",
       "likeCount": "4.4万",
       "commentCount": "2530",
-      "increment": "1054",
-      "viewCount": "1020万"
+      "increment_d1": "1174"
     },
     {
       "rank": 3219,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/CpKTiaqHLo4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=CpKTiaqHLo4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Repezen Chikyu - 11th Single「Remember」",
-        "url": "https://www.youtube.com/watch?v=CpKTiaqHLo4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Repezen Foxx - Studio Candy Foxx Co.",
-        "url": "https://www.youtube.com/channel/UCxMLTQETeHIB2WGuTOG5wJA",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-02-20",
-      "likeCount": "6.8万",
-      "commentCount": "4963",
-      "increment": "355",
-      "viewCount": "1020万"
-    },
-    {
-      "rank": 3220,
       "thumb": {
         "img": "https://i.ytimg.com/vi/v58Gidyv55U/default.jpg",
         "url": "https://www.youtube.com/watch?v=v58Gidyv55U",
@@ -455,36 +432,36 @@
         "target": "_blank"
       },
       "publishedAt": "2013-06-11",
+      "viewCount": "1020万",
       "likeCount": "2.3万",
       "commentCount": "1504",
-      "increment": "1309",
-      "viewCount": "1020万"
+      "increment_d1": "1380"
     },
     {
-      "rank": 3221,
+      "rank": 3220,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/xA_4ZFe1TME/default.jpg",
-        "url": "https://www.youtube.com/watch?v=xA_4ZFe1TME",
+        "img": "https://i.ytimg.com/vi/CpKTiaqHLo4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=CpKTiaqHLo4",
         "target": "_blank"
       },
       "title": {
-        "text": "鈴木雅之 『怪物』Music Video",
-        "url": "https://www.youtube.com/watch?v=xA_4ZFe1TME",
+        "text": "Repezen Chikyu - 11th Single「Remember」",
+        "url": "https://www.youtube.com/watch?v=CpKTiaqHLo4",
         "target": "_blank"
       },
       "channel": {
-        "text": "鈴木雅之 Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCUo8fGx9iLwNhpA0_XSPvfw",
+        "text": "Repezen Foxx - Studio Candy Foxx Co.",
+        "url": "https://www.youtube.com/channel/UCxMLTQETeHIB2WGuTOG5wJA",
         "target": "_blank"
       },
-      "publishedAt": "2022-02-22",
-      "likeCount": "20.8万",
-      "commentCount": "5250",
-      "increment": "1501",
-      "viewCount": "1020万"
+      "publishedAt": "2017-02-20",
+      "viewCount": "1020万",
+      "likeCount": "6.8万",
+      "commentCount": "4963",
+      "increment_d1": "562"
     },
     {
-      "rank": 3222,
+      "rank": 3221,
       "thumb": {
         "img": "https://i.ytimg.com/vi/6gmswmbosYo/default.jpg",
         "url": "https://www.youtube.com/watch?v=6gmswmbosYo",
@@ -501,10 +478,33 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-04",
+      "viewCount": "1020万",
       "likeCount": "25.1万",
       "commentCount": "1.4万",
-      "increment": "2492",
-      "viewCount": "1020万"
+      "increment_d1": "2465"
+    },
+    {
+      "rank": 3222,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/xA_4ZFe1TME/default.jpg",
+        "url": "https://www.youtube.com/watch?v=xA_4ZFe1TME",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "鈴木雅之 『怪物』Music Video",
+        "url": "https://www.youtube.com/watch?v=xA_4ZFe1TME",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "鈴木雅之 Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCUo8fGx9iLwNhpA0_XSPvfw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-02-22",
+      "viewCount": "1020万",
+      "likeCount": "20.8万",
+      "commentCount": "5250",
+      "increment_d1": "1365"
     },
     {
       "rank": 3223,
@@ -524,10 +524,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-19",
+      "viewCount": "1020万",
       "likeCount": "7.6万",
-      "commentCount": "9442",
-      "increment": "1096",
-      "viewCount": "1020万"
+      "commentCount": "9441",
+      "increment_d1": "1260"
     },
     {
       "rank": 3224,
@@ -547,10 +547,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-25",
+      "viewCount": "1020万",
       "likeCount": "11.8万",
-      "commentCount": "3168",
-      "increment": "1433",
-      "viewCount": "1019万"
+      "commentCount": "3169",
+      "increment_d1": "1537"
     },
     {
       "rank": 3225,
@@ -570,10 +570,10 @@
         "target": "_blank"
       },
       "publishedAt": "2010-10-18",
+      "viewCount": "1019万",
       "likeCount": "4.2万",
-      "commentCount": "2461",
-      "increment": "2412",
-      "viewCount": "1019万"
+      "commentCount": "2462",
+      "increment_d1": "2350"
     },
     {
       "rank": 3226,
@@ -593,10 +593,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-08",
+      "viewCount": "1019万",
       "likeCount": "5.3万",
       "commentCount": "1323",
-      "increment": "812",
-      "viewCount": "1019万"
+      "increment_d1": "917"
     },
     {
       "rank": 3227,
@@ -616,10 +616,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-03",
+      "viewCount": "1018万",
       "likeCount": "-",
-      "commentCount": "8071",
-      "increment": "720",
-      "viewCount": "1018万"
+      "commentCount": "8070",
+      "increment_d1": "847"
     },
     {
       "rank": 3228,
@@ -639,10 +639,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-01-26",
+      "viewCount": "1017万",
       "likeCount": "6.6万",
       "commentCount": "1776",
-      "increment": "1231",
-      "viewCount": "1017万"
+      "increment_d1": "1406"
     },
     {
       "rank": 3229,
@@ -662,10 +662,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-07-02",
+      "viewCount": "1017万",
       "likeCount": "6.7万",
       "commentCount": "1010",
-      "increment": "1054",
-      "viewCount": "1017万"
+      "increment_d1": "1026"
     },
     {
       "rank": 3230,
@@ -685,10 +685,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-11-23",
+      "viewCount": "1017万",
       "likeCount": "13.2万",
       "commentCount": "6320",
-      "increment": "783",
-      "viewCount": "1017万"
+      "increment_d1": "589"
     },
     {
       "rank": 3231,
@@ -708,10 +708,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-20",
+      "viewCount": "1016万",
       "likeCount": "8.3万",
       "commentCount": "1.1万",
-      "increment": "1216",
-      "viewCount": "1016万"
+      "increment_d1": "1231"
     },
     {
       "rank": 3232,
@@ -731,10 +731,10 @@
         "target": "_blank"
       },
       "publishedAt": "2011-10-13",
+      "viewCount": "1016万",
       "likeCount": "2.8万",
       "commentCount": "948",
-      "increment": "1392",
-      "viewCount": "1016万"
+      "increment_d1": "1387"
     },
     {
       "rank": 3233,
@@ -754,10 +754,10 @@
         "target": "_blank"
       },
       "publishedAt": "2011-08-30",
+      "viewCount": "1016万",
       "likeCount": "2.1万",
       "commentCount": "2724",
-      "increment": "386",
-      "viewCount": "1016万"
+      "increment_d1": "402"
     },
     {
       "rank": 3234,
@@ -777,10 +777,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-06-21",
+      "viewCount": "1015万",
       "likeCount": "3.3万",
       "commentCount": "2411",
-      "increment": "414",
-      "viewCount": "1015万"
+      "increment_d1": "406"
     },
     {
       "rank": 3235,
@@ -800,10 +800,10 @@
         "target": "_blank"
       },
       "publishedAt": "2009-06-18",
+      "viewCount": "1015万",
       "likeCount": "3万",
       "commentCount": "821",
-      "increment": "1132",
-      "viewCount": "1015万"
+      "increment_d1": "1087"
     },
     {
       "rank": 3236,
@@ -823,10 +823,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-02-16",
+      "viewCount": "1015万",
       "likeCount": "3.2万",
       "commentCount": "712",
-      "increment": "333",
-      "viewCount": "1015万"
+      "increment_d1": "267"
     },
     {
       "rank": 3237,
@@ -846,10 +846,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-09",
+      "viewCount": "1015万",
       "likeCount": "6.4万",
       "commentCount": "2889",
-      "increment": "747",
-      "viewCount": "1015万"
+      "increment_d1": "774"
     },
     {
       "rank": 3238,
@@ -869,10 +869,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-08-30",
+      "viewCount": "1014万",
       "likeCount": "2万",
       "commentCount": "888",
-      "increment": "465",
-      "viewCount": "1014万"
+      "increment_d1": "464"
     },
     {
       "rank": 3239,
@@ -892,10 +892,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-10-17",
+      "viewCount": "1014万",
       "likeCount": "4.8万",
       "commentCount": "2756",
-      "increment": "702",
-      "viewCount": "1014万"
+      "increment_d1": "570"
     },
     {
       "rank": 3240,
@@ -915,10 +915,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-24",
+      "viewCount": "1014万",
       "likeCount": "-",
       "commentCount": "1.2万",
-      "increment": "902",
-      "viewCount": "1014万"
+      "increment_d1": "948"
     },
     {
       "rank": 3241,
@@ -938,10 +938,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-08",
+      "viewCount": "1013万",
       "likeCount": "3.9万",
       "commentCount": "1153",
-      "increment": "1249",
-      "viewCount": "1013万"
+      "increment_d1": "1169"
     },
     {
       "rank": 3242,
@@ -961,10 +961,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-12-30",
+      "viewCount": "1013万",
       "likeCount": "10.8万",
       "commentCount": "2005",
-      "increment": "1103",
-      "viewCount": "1012万"
+      "increment_d1": "1268"
     },
     {
       "rank": 3243,
@@ -984,36 +984,13 @@
         "target": "_blank"
       },
       "publishedAt": "2015-10-27",
+      "viewCount": "1012万",
       "likeCount": "3万",
       "commentCount": "878",
-      "increment": "77",
-      "viewCount": "1012万"
+      "increment_d1": "80"
     },
     {
       "rank": 3244,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/JI4ADlb6st0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=JI4ADlb6st0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "miwa 『夜空。feat.ハジ→』MUSIC VIDEO SHORT ver.",
-        "url": "https://www.youtube.com/watch?v=JI4ADlb6st0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-08-14",
-      "likeCount": "3.9万",
-      "commentCount": "952",
-      "increment": "120",
-      "viewCount": "1011万"
-    },
-    {
-      "rank": 3245,
       "thumb": {
         "img": "https://i.ytimg.com/vi/jNSRCvejOeY/default.jpg",
         "url": "https://www.youtube.com/watch?v=jNSRCvejOeY",
@@ -1030,10 +1007,33 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-10",
+      "viewCount": "1011万",
       "likeCount": "-",
       "commentCount": "4956",
-      "increment": "3053",
-      "viewCount": "1011万"
+      "increment_d1": "2762"
+    },
+    {
+      "rank": 3245,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/JI4ADlb6st0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=JI4ADlb6st0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "miwa 『夜空。feat.ハジ→』MUSIC VIDEO SHORT ver.",
+        "url": "https://www.youtube.com/watch?v=JI4ADlb6st0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-08-14",
+      "viewCount": "1011万",
+      "likeCount": "3.9万",
+      "commentCount": "952",
+      "increment_d1": "85"
     },
     {
       "rank": 3246,
@@ -1053,10 +1053,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-07-01",
+      "viewCount": "1011万",
       "likeCount": "4.6万",
       "commentCount": "1606",
-      "increment": "1729",
-      "viewCount": "1010万"
+      "increment_d1": "1536"
     },
     {
       "rank": 3247,
@@ -1076,10 +1076,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-02-20",
+      "viewCount": "1009万",
       "likeCount": "3.3万",
       "commentCount": "817",
-      "increment": "894",
-      "viewCount": "1009万"
+      "increment_d1": "859"
     },
     {
       "rank": 3248,
@@ -1099,10 +1099,10 @@
         "target": "_blank"
       },
       "publishedAt": "2011-12-15",
+      "viewCount": "1009万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment": "695",
-      "viewCount": "1009万"
+      "increment_d1": "665"
     },
     {
       "rank": 3249,
@@ -1122,10 +1122,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-01",
+      "viewCount": "1008万",
       "likeCount": "21.1万",
       "commentCount": "1.2万",
-      "increment": "312",
-      "viewCount": "1008万"
+      "increment_d1": "295"
     },
     {
       "rank": 3250,
@@ -1145,10 +1145,10 @@
         "target": "_blank"
       },
       "publishedAt": "2011-04-27",
+      "viewCount": "1008万",
       "likeCount": "2.1万",
       "commentCount": "2372",
-      "increment": "297",
-      "viewCount": "1008万"
+      "increment_d1": "290"
     }
   ]
 }

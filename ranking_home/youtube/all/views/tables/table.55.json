@@ -3,29 +3,6 @@
     {
       "rank": 2701,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/DUVpqZPgieI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=DUVpqZPgieI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "King & Prince「Magic Touch」MV -Dance ver.- YouTube Edit",
-        "url": "https://www.youtube.com/watch?v=DUVpqZPgieI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "King & Prince",
-        "url": "https://www.youtube.com/channel/UCSxwcQnzA5K6DvofvBn6ATA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-05-30",
-      "likeCount": "-",
-      "commentCount": "7080",
-      "increment": "434",
-      "viewCount": "1253万"
-    },
-    {
-      "rank": 2702,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/s8eLpnWweTU/default.jpg",
         "url": "https://www.youtube.com/watch?v=s8eLpnWweTU",
         "target": "_blank"
@@ -41,10 +18,33 @@
         "target": "_blank"
       },
       "publishedAt": "2017-05-09",
+      "viewCount": "1253万",
       "likeCount": "2.9万",
       "commentCount": "1586",
-      "increment": "1581",
-      "viewCount": "1253万"
+      "increment_d1": "1572"
+    },
+    {
+      "rank": 2702,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/DUVpqZPgieI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=DUVpqZPgieI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "King & Prince「Magic Touch」MV -Dance ver.- YouTube Edit",
+        "url": "https://www.youtube.com/watch?v=DUVpqZPgieI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "King & Prince",
+        "url": "https://www.youtube.com/channel/UCSxwcQnzA5K6DvofvBn6ATA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-05-30",
+      "viewCount": "1253万",
+      "likeCount": "-",
+      "commentCount": "7080",
+      "increment_d1": "516"
     },
     {
       "rank": 2703,
@@ -64,36 +64,13 @@
         "target": "_blank"
       },
       "publishedAt": "2016-07-29",
+      "viewCount": "1252万",
       "likeCount": "4.3万",
       "commentCount": "4036",
-      "increment": "455",
-      "viewCount": "1252万"
+      "increment_d1": "480"
     },
     {
       "rank": 2704,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/f9-PYxAKdfY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=f9-PYxAKdfY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "西野カナ　『GO FOR IT!!(short ver.)』",
-        "url": "https://www.youtube.com/watch?v=f9-PYxAKdfY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-07-02",
-      "likeCount": "2.8万",
-      "commentCount": "1056",
-      "increment": "213",
-      "viewCount": "1251万"
-    },
-    {
-      "rank": 2705,
       "thumb": {
         "img": "https://i.ytimg.com/vi/VolCXD33PoQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=VolCXD33PoQ",
@@ -110,13 +87,13 @@
         "target": "_blank"
       },
       "publishedAt": "2017-06-30",
+      "viewCount": "1251万",
       "likeCount": "10.7万",
-      "commentCount": "2598",
-      "increment": "5543",
-      "viewCount": "1251万"
+      "commentCount": "2599",
+      "increment_d1": "5385"
     },
     {
-      "rank": 2706,
+      "rank": 2705,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qK9k2J-ZkGU/default.jpg",
         "url": "https://www.youtube.com/watch?v=qK9k2J-ZkGU",
@@ -133,10 +110,33 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-22",
+      "viewCount": "1251万",
       "likeCount": "6.9万",
       "commentCount": "1万",
-      "increment": "7380",
-      "viewCount": "1250万"
+      "increment_d1": "8044"
+    },
+    {
+      "rank": 2706,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/f9-PYxAKdfY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=f9-PYxAKdfY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "西野カナ　『GO FOR IT!!(short ver.)』",
+        "url": "https://www.youtube.com/watch?v=f9-PYxAKdfY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-07-02",
+      "viewCount": "1251万",
+      "likeCount": "2.8万",
+      "commentCount": "1056",
+      "increment_d1": "249"
     },
     {
       "rank": 2707,
@@ -156,10 +156,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-26",
+      "viewCount": "1251万",
       "likeCount": "6.4万",
       "commentCount": "1931",
-      "increment": "3913",
-      "viewCount": "1250万"
+      "increment_d1": "3991"
     },
     {
       "rank": 2708,
@@ -179,10 +179,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-10-24",
+      "viewCount": "1247万",
       "likeCount": "-",
       "commentCount": "1.7万",
-      "increment": "2078",
-      "viewCount": "1247万"
+      "increment_d1": "1875"
     },
     {
       "rank": 2709,
@@ -202,10 +202,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-07",
+      "viewCount": "1247万",
       "likeCount": "20.5万",
       "commentCount": "5966",
-      "increment": "798",
-      "viewCount": "1247万"
+      "increment_d1": "709"
     },
     {
       "rank": 2710,
@@ -225,105 +225,13 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-14",
+      "viewCount": "1247万",
       "likeCount": "7.4万",
-      "commentCount": "1946",
-      "increment": "5178",
-      "viewCount": "1247万"
+      "commentCount": "1947",
+      "increment_d1": "5129"
     },
     {
       "rank": 2711,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/8EjPGFGlRq0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=8EjPGFGlRq0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "「I still love you after 10 years.」　　　　　　　　　歴史上初ソロアーティスト2度目の6大ドームツアー！全日程SOLD OUT‼︎総動員数45万人‼︎全公演完走‼︎",
-        "url": "https://www.youtube.com/watch?v=8EjPGFGlRq0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Nissy Channel",
-        "url": "https://www.youtube.com/channel/UClv5-GOsjdBOBLltO_l-cWw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-10-15",
-      "likeCount": "8.7万",
-      "commentCount": "1180",
-      "increment": "266",
-      "viewCount": "1246万"
-    },
-    {
-      "rank": 2712,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/IzJ_ioBHrPU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=IzJ_ioBHrPU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Idol",
-        "url": "https://www.youtube.com/watch?v=IzJ_ioBHrPU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-05-25",
-      "likeCount": "8.6万",
-      "commentCount": "428",
-      "increment": "2739",
-      "viewCount": "1246万"
-    },
-    {
-      "rank": 2713,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/NNtlOs6ldJw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=NNtlOs6ldJw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "KYOSUKE HIMURO -B.BLUE-(2004 at Tokyo Dome)",
-        "url": "https://www.youtube.com/watch?v=NNtlOs6ldJw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "KYOSUKE HIMURO",
-        "url": "https://www.youtube.com/channel/UCxhEMv7GDpJqeSW1VbOEqDQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2008-06-03",
-      "likeCount": "2.2万",
-      "commentCount": "1530",
-      "increment": "3882",
-      "viewCount": "1246万"
-    },
-    {
-      "rank": 2714,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/lRAc3Q_foH0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=lRAc3Q_foH0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "GLAY / BE WITH YOU",
-        "url": "https://www.youtube.com/watch?v=lRAc3Q_foH0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "GLAY",
-        "url": "https://www.youtube.com/channel/UC1DqlLj1onQhBfxW81OgQTw",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-04-05",
-      "likeCount": "2.5万",
-      "commentCount": "1151",
-      "increment": "1924",
-      "viewCount": "1246万"
-    },
-    {
-      "rank": 2715,
       "thumb": {
         "img": "https://i.ytimg.com/vi/fsgBd5ln7-U/default.jpg",
         "url": "https://www.youtube.com/watch?v=fsgBd5ln7-U",
@@ -340,10 +248,102 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-23",
+      "viewCount": "1247万",
       "likeCount": "3.8万",
-      "commentCount": "801",
-      "increment": "1.44万",
-      "viewCount": "1245万"
+      "commentCount": "804",
+      "increment_d1": "1.68万"
+    },
+    {
+      "rank": 2712,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/NNtlOs6ldJw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=NNtlOs6ldJw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "KYOSUKE HIMURO -B.BLUE-(2004 at Tokyo Dome)",
+        "url": "https://www.youtube.com/watch?v=NNtlOs6ldJw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "KYOSUKE HIMURO",
+        "url": "https://www.youtube.com/channel/UCxhEMv7GDpJqeSW1VbOEqDQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2008-06-03",
+      "viewCount": "1247万",
+      "likeCount": "2.2万",
+      "commentCount": "1530",
+      "increment_d1": "4342"
+    },
+    {
+      "rank": 2713,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/IzJ_ioBHrPU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=IzJ_ioBHrPU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Idol",
+        "url": "https://www.youtube.com/watch?v=IzJ_ioBHrPU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-05-25",
+      "viewCount": "1246万",
+      "likeCount": "8.6万",
+      "commentCount": "428",
+      "increment_d1": "2789"
+    },
+    {
+      "rank": 2714,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/8EjPGFGlRq0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=8EjPGFGlRq0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "「I still love you after 10 years.」　　　　　　　　　歴史上初ソロアーティスト2度目の6大ドームツアー！全日程SOLD OUT‼︎総動員数45万人‼︎全公演完走‼︎",
+        "url": "https://www.youtube.com/watch?v=8EjPGFGlRq0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Nissy Channel",
+        "url": "https://www.youtube.com/channel/UClv5-GOsjdBOBLltO_l-cWw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-10-15",
+      "viewCount": "1246万",
+      "likeCount": "8.7万",
+      "commentCount": "1180",
+      "increment_d1": "219"
+    },
+    {
+      "rank": 2715,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/lRAc3Q_foH0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=lRAc3Q_foH0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "GLAY / BE WITH YOU",
+        "url": "https://www.youtube.com/watch?v=lRAc3Q_foH0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "GLAY",
+        "url": "https://www.youtube.com/channel/UC1DqlLj1onQhBfxW81OgQTw",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-04-05",
+      "viewCount": "1246万",
+      "likeCount": "2.5万",
+      "commentCount": "1151",
+      "increment_d1": "1868"
     },
     {
       "rank": 2716,
@@ -363,10 +363,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-11-07",
+      "viewCount": "1245万",
       "likeCount": "4.1万",
       "commentCount": "2171",
-      "increment": "3889",
-      "viewCount": "1245万"
+      "increment_d1": "3907"
     },
     {
       "rank": 2717,
@@ -386,10 +386,10 @@
         "target": "_blank"
       },
       "publishedAt": "2010-07-05",
+      "viewCount": "1244万",
       "likeCount": "-",
       "commentCount": "2万",
-      "increment": "2145",
-      "viewCount": "1244万"
+      "increment_d1": "2143"
     },
     {
       "rank": 2718,
@@ -409,10 +409,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-09-26",
+      "viewCount": "1244万",
       "likeCount": "6.5万",
-      "commentCount": "674",
-      "increment": "7969",
-      "viewCount": "1243万"
+      "commentCount": "673",
+      "increment_d1": "7768"
     },
     {
       "rank": 2719,
@@ -432,36 +432,13 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-21",
+      "viewCount": "1243万",
       "likeCount": "-",
-      "commentCount": "4304",
-      "increment": "2141",
-      "viewCount": "1243万"
+      "commentCount": "4303",
+      "increment_d1": "2196"
     },
     {
       "rank": 2720,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/nrNWpxFflr4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=nrNWpxFflr4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "TWICE「SIGNAL -Japanese ver.-」Music Video（Short ver.）",
-        "url": "https://www.youtube.com/watch?v=nrNWpxFflr4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "TWICE JAPAN OFFICIAL YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCCRb6nYKaT8tzLA8CwDdUtw",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-06-13",
-      "likeCount": "17.3万",
-      "commentCount": "5098",
-      "increment": "238",
-      "viewCount": "1241万"
-    },
-    {
-      "rank": 2721,
       "thumb": {
         "img": "https://i.ytimg.com/vi/r8yTsDQCfR0/default.jpg",
         "url": "https://www.youtube.com/watch?v=r8yTsDQCfR0",
@@ -478,13 +455,13 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-25",
+      "viewCount": "1242万",
       "likeCount": "-",
-      "commentCount": "896",
-      "increment": "1.12万",
-      "viewCount": "1241万"
+      "commentCount": "903",
+      "increment_d1": "1.09万"
     },
     {
-      "rank": 2722,
+      "rank": 2721,
       "thumb": {
         "img": "https://i.ytimg.com/vi/7EuTPTVpuNI/default.jpg",
         "url": "https://www.youtube.com/watch?v=7EuTPTVpuNI",
@@ -501,36 +478,36 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-05",
-      "likeCount": "9.9万",
-      "commentCount": "6739",
-      "increment": "1万",
-      "viewCount": "1241万"
+      "viewCount": "1242万",
+      "likeCount": "10万",
+      "commentCount": "6740",
+      "increment_d1": "1.04万"
     },
     {
-      "rank": 2723,
+      "rank": 2722,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/9xUdZd1ZEp0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=9xUdZd1ZEp0",
+        "img": "https://i.ytimg.com/vi/nrNWpxFflr4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=nrNWpxFflr4",
         "target": "_blank"
       },
       "title": {
-        "text": "三代目 J SOUL BROTHERS from EXILE TRIBE / SCARLET feat. Afrojack",
-        "url": "https://www.youtube.com/watch?v=9xUdZd1ZEp0",
+        "text": "TWICE「SIGNAL -Japanese ver.-」Music Video（Short ver.）",
+        "url": "https://www.youtube.com/watch?v=nrNWpxFflr4",
         "target": "_blank"
       },
       "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "text": "TWICE JAPAN OFFICIAL YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCCRb6nYKaT8tzLA8CwDdUtw",
         "target": "_blank"
       },
-      "publishedAt": "2019-08-03",
-      "likeCount": "6.1万",
-      "commentCount": "4075",
-      "increment": "541",
-      "viewCount": "1239万"
+      "publishedAt": "2017-06-13",
+      "viewCount": "1241万",
+      "likeCount": "17.3万",
+      "commentCount": "5098",
+      "increment_d1": "251"
     },
     {
-      "rank": 2724,
+      "rank": 2723,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Uez2Zcox5kk/default.jpg",
         "url": "https://www.youtube.com/watch?v=Uez2Zcox5kk",
@@ -547,36 +524,36 @@
         "target": "_blank"
       },
       "publishedAt": "2024-02-13",
+      "viewCount": "1240万",
       "likeCount": "5.9万",
       "commentCount": "1355",
-      "increment": "1.11万",
-      "viewCount": "1239万"
+      "increment_d1": "1.11万"
     },
     {
-      "rank": 2725,
+      "rank": 2724,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/_o10f0CMTvU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=_o10f0CMTvU",
+        "img": "https://i.ytimg.com/vi/9xUdZd1ZEp0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=9xUdZd1ZEp0",
         "target": "_blank"
       },
       "title": {
-        "text": "平井堅　『告白』",
-        "url": "https://www.youtube.com/watch?v=_o10f0CMTvU",
+        "text": "三代目 J SOUL BROTHERS from EXILE TRIBE / SCARLET feat. Afrojack",
+        "url": "https://www.youtube.com/watch?v=9xUdZd1ZEp0",
         "target": "_blank"
       },
       "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
         "target": "_blank"
       },
-      "publishedAt": "2012-05-28",
-      "likeCount": "4.9万",
-      "commentCount": "1446",
-      "increment": "1480",
-      "viewCount": "1239万"
+      "publishedAt": "2019-08-03",
+      "viewCount": "1239万",
+      "likeCount": "6.1万",
+      "commentCount": "4075",
+      "increment_d1": "556"
     },
     {
-      "rank": 2726,
+      "rank": 2725,
       "thumb": {
         "img": "https://i.ytimg.com/vi/yWp6SXivHBQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=yWp6SXivHBQ",
@@ -593,10 +570,33 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-06",
+      "viewCount": "1239万",
       "likeCount": "21.3万",
       "commentCount": "6576",
-      "increment": "6295",
-      "viewCount": "1239万"
+      "increment_d1": "4954"
+    },
+    {
+      "rank": 2726,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/_o10f0CMTvU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=_o10f0CMTvU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "平井堅　『告白』",
+        "url": "https://www.youtube.com/watch?v=_o10f0CMTvU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-05-28",
+      "viewCount": "1239万",
+      "likeCount": "4.9万",
+      "commentCount": "1447",
+      "increment_d1": "1472"
     },
     {
       "rank": 2727,
@@ -616,10 +616,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-10",
+      "viewCount": "1238万",
       "likeCount": "8万",
-      "commentCount": "2451",
-      "increment": "4954",
-      "viewCount": "1237万"
+      "commentCount": "2454",
+      "increment_d1": "4907"
     },
     {
       "rank": 2728,
@@ -639,10 +639,10 @@
         "target": "_blank"
       },
       "publishedAt": "2009-07-29",
+      "viewCount": "1237万",
       "likeCount": "2.2万",
-      "commentCount": "789",
-      "increment": "879",
-      "viewCount": "1237万"
+      "commentCount": "790",
+      "increment_d1": "1040"
     },
     {
       "rank": 2729,
@@ -662,10 +662,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
+      "viewCount": "1237万",
       "likeCount": "5.2万",
       "commentCount": "83",
-      "increment": "8629",
-      "viewCount": "1236万"
+      "increment_d1": "8800"
     },
     {
       "rank": 2730,
@@ -685,33 +685,33 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-02",
+      "viewCount": "1236万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment": "4614",
-      "viewCount": "1236万"
+      "increment_d1": "5050"
     },
     {
       "rank": 2731,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/PTzYM7xLXx0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=PTzYM7xLXx0",
+        "img": "https://i.ytimg.com/vi/9gfamY4ABxc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=9gfamY4ABxc",
         "target": "_blank"
       },
       "title": {
-        "text": "Can you see? I'm SUSHI～NHK Minna no Uta ver(NHKみんなのうたバージョン)～ / PIKOTARO （ピコ太郎）",
-        "url": "https://www.youtube.com/watch?v=PTzYM7xLXx0",
+        "text": "西野カナ『たとえどんなに...』MV Full",
+        "url": "https://www.youtube.com/watch?v=9gfamY4ABxc",
         "target": "_blank"
       },
       "channel": {
-        "text": "PIKOTAROピコ太郎OFFICIAL CHANNEL",
-        "url": "https://www.youtube.com/channel/UCKpIOnsk-gcwHXIzuk24ExA",
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
         "target": "_blank"
       },
-      "publishedAt": "2018-08-10",
+      "publishedAt": "2021-11-05",
+      "viewCount": "1236万",
       "likeCount": "3.3万",
-      "commentCount": "1708",
-      "increment": "997",
-      "viewCount": "1236万"
+      "commentCount": "950",
+      "increment_d1": "1.36万"
     },
     {
       "rank": 2732,
@@ -731,13 +731,36 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-26",
+      "viewCount": "1236万",
       "likeCount": "10万",
       "commentCount": "3646",
-      "increment": "5754",
-      "viewCount": "1236万"
+      "increment_d1": "5664"
     },
     {
       "rank": 2733,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/PTzYM7xLXx0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=PTzYM7xLXx0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Can you see? I'm SUSHI～NHK Minna no Uta ver(NHKみんなのうたバージョン)～ / PIKOTARO （ピコ太郎）",
+        "url": "https://www.youtube.com/watch?v=PTzYM7xLXx0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "PIKOTAROピコ太郎OFFICIAL CHANNEL",
+        "url": "https://www.youtube.com/channel/UCKpIOnsk-gcwHXIzuk24ExA",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-08-10",
+      "viewCount": "1236万",
+      "likeCount": "3.3万",
+      "commentCount": "1708",
+      "increment_d1": "1029"
+    },
+    {
+      "rank": 2734,
       "thumb": {
         "img": "https://i.ytimg.com/vi/QvOrdmc-X30/default.jpg",
         "url": "https://www.youtube.com/watch?v=QvOrdmc-X30",
@@ -754,33 +777,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-02-13",
+      "viewCount": "1235万",
       "likeCount": "2.1万",
       "commentCount": "906",
-      "increment": "81",
-      "viewCount": "1235万"
-    },
-    {
-      "rank": 2734,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/9gfamY4ABxc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=9gfamY4ABxc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "西野カナ『たとえどんなに...』MV Full",
-        "url": "https://www.youtube.com/watch?v=9gfamY4ABxc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-05",
-      "likeCount": "3.3万",
-      "commentCount": "949",
-      "increment": "1.3万",
-      "viewCount": "1235万"
+      "increment_d1": "59"
     },
     {
       "rank": 2735,
@@ -800,36 +800,13 @@
         "target": "_blank"
       },
       "publishedAt": "2021-04-09",
+      "viewCount": "1234万",
       "likeCount": "15.8万",
-      "commentCount": "2960",
-      "increment": "6556",
-      "viewCount": "1234万"
+      "commentCount": "2961",
+      "increment_d1": "6323"
     },
     {
       "rank": 2736,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/lcz89e42XEM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=lcz89e42XEM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "東京事変 - 新しい文明開化",
-        "url": "https://www.youtube.com/watch?v=lcz89e42XEM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "TokyoIncidentsVEVO",
-        "url": "https://www.youtube.com/channel/UCMFNa5Yzq6AXjPix8ijHS6A",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-05-27",
-      "likeCount": "3.5万",
-      "commentCount": "1191",
-      "increment": "789",
-      "viewCount": "1233万"
-    },
-    {
-      "rank": 2737,
       "thumb": {
         "img": "https://i.ytimg.com/vi/2qJnqZenIFY/default.jpg",
         "url": "https://www.youtube.com/watch?v=2qJnqZenIFY",
@@ -846,10 +823,33 @@
         "target": "_blank"
       },
       "publishedAt": "2019-11-08",
+      "viewCount": "1234万",
       "likeCount": "3.3万",
-      "commentCount": "1676",
-      "increment": "6581",
-      "viewCount": "1233万"
+      "commentCount": "1677",
+      "increment_d1": "6578"
+    },
+    {
+      "rank": 2737,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/lcz89e42XEM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=lcz89e42XEM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "東京事変 - 新しい文明開化",
+        "url": "https://www.youtube.com/watch?v=lcz89e42XEM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "TokyoIncidentsVEVO",
+        "url": "https://www.youtube.com/channel/UCMFNa5Yzq6AXjPix8ijHS6A",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-05-27",
+      "viewCount": "1233万",
+      "likeCount": "3.5万",
+      "commentCount": "1190",
+      "increment_d1": "602"
     },
     {
       "rank": 2738,
@@ -869,10 +869,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-28",
+      "viewCount": "1233万",
       "likeCount": "26.3万",
       "commentCount": "4762",
-      "increment": "2236",
-      "viewCount": "1233万"
+      "increment_d1": "2262"
     },
     {
       "rank": 2739,
@@ -892,36 +892,13 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-27",
+      "viewCount": "1233万",
       "likeCount": "17.6万",
       "commentCount": "4592",
-      "increment": "2691",
-      "viewCount": "1232万"
+      "increment_d1": "2646"
     },
     {
       "rank": 2740,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/6H6Mop4C5rU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=6H6Mop4C5rU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "変態紳士クラブ / YOKAZE (Official Lyric Video)",
-        "url": "https://www.youtube.com/watch?v=6H6Mop4C5rU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "変態紳士クラブ",
-        "url": "https://www.youtube.com/channel/UCMI5tfhifxlSOOh1ErnfJuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-01-01",
-      "likeCount": "3.1万",
-      "commentCount": "428",
-      "increment": "630",
-      "viewCount": "1232万"
-    },
-    {
-      "rank": 2741,
       "thumb": {
         "img": "https://i.ytimg.com/vi/zejYD43HyQo/default.jpg",
         "url": "https://www.youtube.com/watch?v=zejYD43HyQo",
@@ -938,10 +915,33 @@
         "target": "_blank"
       },
       "publishedAt": "2022-02-26",
+      "viewCount": "1232万",
       "likeCount": "8.5万",
-      "commentCount": "1111",
-      "increment": "7683",
-      "viewCount": "1231万"
+      "commentCount": "1112",
+      "increment_d1": "8236"
+    },
+    {
+      "rank": 2741,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/6H6Mop4C5rU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=6H6Mop4C5rU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "変態紳士クラブ / YOKAZE (Official Lyric Video)",
+        "url": "https://www.youtube.com/watch?v=6H6Mop4C5rU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "変態紳士クラブ",
+        "url": "https://www.youtube.com/channel/UCMI5tfhifxlSOOh1ErnfJuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-01-01",
+      "viewCount": "1232万",
+      "likeCount": "3.1万",
+      "commentCount": "428",
+      "increment_d1": "699"
     },
     {
       "rank": 2742,
@@ -961,36 +961,13 @@
         "target": "_blank"
       },
       "publishedAt": "2016-10-26",
+      "viewCount": "1229万",
       "likeCount": "5.4万",
-      "commentCount": "2810",
-      "increment": "685",
-      "viewCount": "1229万"
+      "commentCount": "2811",
+      "increment_d1": "776"
     },
     {
       "rank": 2743,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/A7XyqSc0VDE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=A7XyqSc0VDE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MACO - Sweet Memory  [Music Video]",
-        "url": "https://www.youtube.com/watch?v=A7XyqSc0VDE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "MACO_CHANNEL",
-        "url": "https://www.youtube.com/channel/UC0piSkXORh7ptudXkHhKmqw",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-11-09",
-      "likeCount": "21.5万",
-      "commentCount": "8653",
-      "increment": "545",
-      "viewCount": "1228万"
-    },
-    {
-      "rank": 2744,
       "thumb": {
         "img": "https://i.ytimg.com/vi/GEau2ZJLobQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=GEau2ZJLobQ",
@@ -1007,10 +984,33 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-27",
+      "viewCount": "1229万",
       "likeCount": "10.5万",
-      "commentCount": "2764",
-      "increment": "5864",
-      "viewCount": "1228万"
+      "commentCount": "2765",
+      "increment_d1": "9381"
+    },
+    {
+      "rank": 2744,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/A7XyqSc0VDE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=A7XyqSc0VDE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MACO - Sweet Memory  [Music Video]",
+        "url": "https://www.youtube.com/watch?v=A7XyqSc0VDE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "MACO_CHANNEL",
+        "url": "https://www.youtube.com/channel/UC0piSkXORh7ptudXkHhKmqw",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-11-09",
+      "viewCount": "1228万",
+      "likeCount": "21.5万",
+      "commentCount": "8653",
+      "increment_d1": "449"
     },
     {
       "rank": 2745,
@@ -1030,10 +1030,10 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-01",
+      "viewCount": "1228万",
       "likeCount": "2.6万",
       "commentCount": "1412",
-      "increment": "1881",
-      "viewCount": "1228万"
+      "increment_d1": "2039"
     },
     {
       "rank": 2746,
@@ -1053,10 +1053,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-21",
+      "viewCount": "1228万",
       "likeCount": "4.8万",
-      "commentCount": "2813",
-      "increment": "3322",
-      "viewCount": "1228万"
+      "commentCount": "2814",
+      "increment_d1": "3553"
     },
     {
       "rank": 2747,
@@ -1076,10 +1076,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-18",
+      "viewCount": "1228万",
       "likeCount": "9.7万",
       "commentCount": "1888",
-      "increment": "6104",
-      "viewCount": "1227万"
+      "increment_d1": "6055"
     },
     {
       "rank": 2748,
@@ -1099,10 +1099,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-06-29",
+      "viewCount": "1227万",
       "likeCount": "6.6万",
       "commentCount": "1562",
-      "increment": "5639",
-      "viewCount": "1226万"
+      "increment_d1": "5942"
     },
     {
       "rank": 2749,
@@ -1122,10 +1122,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-02-16",
+      "viewCount": "1227万",
       "likeCount": "7万",
-      "commentCount": "7367",
-      "increment": "3582",
-      "viewCount": "1226万"
+      "commentCount": "7368",
+      "increment_d1": "3381"
     },
     {
       "rank": 2750,
@@ -1145,10 +1145,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-02",
+      "viewCount": "1226万",
       "likeCount": "30.7万",
       "commentCount": "1.1万",
-      "increment": "583",
-      "viewCount": "1226万"
+      "increment_d1": "651"
     }
   ]
 }

@@ -18,10 +18,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-24",
+      "viewCount": "3381万",
       "likeCount": "13.2万",
       "commentCount": "8118",
-      "increment": "5118",
-      "viewCount": "3380万"
+      "increment_d1": "5190"
     },
     {
       "rank": 1002,
@@ -41,10 +41,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-10-28",
+      "viewCount": "3376万",
       "likeCount": "-",
       "commentCount": "1.8万",
-      "increment": "3198",
-      "viewCount": "3376万"
+      "increment_d1": "3296"
     },
     {
       "rank": 1003,
@@ -64,10 +64,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-30",
+      "viewCount": "3373万",
       "likeCount": "6.6万",
       "commentCount": "1.7万",
-      "increment": "833",
-      "viewCount": "3373万"
+      "increment_d1": "782"
     },
     {
       "rank": 1004,
@@ -87,10 +87,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-18",
+      "viewCount": "3365万",
       "likeCount": "17.5万",
       "commentCount": "4万",
-      "increment": "3704",
-      "viewCount": "3364万"
+      "increment_d1": "3803"
     },
     {
       "rank": 1005,
@@ -110,10 +110,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-07-02",
+      "viewCount": "3363万",
       "likeCount": "19万",
-      "commentCount": "3246",
-      "increment": "9445",
-      "viewCount": "3362万"
+      "commentCount": "3247",
+      "increment_d1": "9550"
     },
     {
       "rank": 1006,
@@ -133,10 +133,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-05",
+      "viewCount": "3363万",
       "likeCount": "11.9万",
-      "commentCount": "4338",
-      "increment": "7094",
-      "viewCount": "3362万"
+      "commentCount": "4342",
+      "increment_d1": "7514"
     },
     {
       "rank": 1007,
@@ -156,10 +156,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-10-01",
+      "viewCount": "3360万",
       "likeCount": "26.5万",
       "commentCount": "9501",
-      "increment": "3489",
-      "viewCount": "3359万"
+      "increment_d1": "3508"
     },
     {
       "rank": 1008,
@@ -179,10 +179,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-02-25",
+      "viewCount": "3359万",
       "likeCount": "35.8万",
       "commentCount": "6553",
-      "increment": "2395",
-      "viewCount": "3358万"
+      "increment_d1": "2341"
     },
     {
       "rank": 1009,
@@ -202,10 +202,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-04-14",
+      "viewCount": "3357万",
       "likeCount": "13.6万",
-      "commentCount": "5134",
-      "increment": "5221",
-      "viewCount": "3356万"
+      "commentCount": "5137",
+      "increment_d1": "5136"
     },
     {
       "rank": 1010,
@@ -225,36 +225,13 @@
         "target": "_blank"
       },
       "publishedAt": "2014-07-01",
+      "viewCount": "3355万",
       "likeCount": "22.3万",
-      "commentCount": "996",
-      "increment": "6240",
-      "viewCount": "3354万"
+      "commentCount": "1000",
+      "increment_d1": "6366"
     },
     {
       "rank": 1011,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/hM4f37uRyKc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=hM4f37uRyKc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "703号室 -『偽物勇者』(Music Video)",
-        "url": "https://www.youtube.com/watch?v=hM4f37uRyKc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "703号室",
-        "url": "https://www.youtube.com/channel/UCVjI6i-uvSD47iIgBQLmbbg",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-03-28",
-      "likeCount": "34.7万",
-      "commentCount": "8020",
-      "increment": "1.03万",
-      "viewCount": "3350万"
-    },
-    {
-      "rank": 1012,
       "thumb": {
         "img": "https://i.ytimg.com/vi/DDlC22Exc8I/default.jpg",
         "url": "https://www.youtube.com/watch?v=DDlC22Exc8I",
@@ -271,10 +248,33 @@
         "target": "_blank"
       },
       "publishedAt": "2014-08-01",
+      "viewCount": "3351万",
       "likeCount": "7.4万",
-      "commentCount": "4653",
-      "increment": "1.02万",
-      "viewCount": "3350万"
+      "commentCount": "4655",
+      "increment_d1": "1.13万"
+    },
+    {
+      "rank": 1012,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/hM4f37uRyKc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=hM4f37uRyKc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "703号室 -『偽物勇者』(Music Video)",
+        "url": "https://www.youtube.com/watch?v=hM4f37uRyKc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "703号室",
+        "url": "https://www.youtube.com/channel/UCVjI6i-uvSD47iIgBQLmbbg",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-03-28",
+      "viewCount": "3351万",
+      "likeCount": "34.7万",
+      "commentCount": "8020",
+      "increment_d1": "9476"
     },
     {
       "rank": 1013,
@@ -294,10 +294,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-26",
+      "viewCount": "3347万",
       "likeCount": "18.3万",
       "commentCount": "1.8万",
-      "increment": "1.24万",
-      "viewCount": "3345万"
+      "increment_d1": "1.13万"
     },
     {
       "rank": 1014,
@@ -317,10 +317,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-06-23",
+      "viewCount": "3345万",
       "likeCount": "23.9万",
-      "commentCount": "6826",
-      "increment": "3555",
-      "viewCount": "3345万"
+      "commentCount": "6825",
+      "increment_d1": "3687"
     },
     {
       "rank": 1015,
@@ -340,10 +340,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-08-06",
+      "viewCount": "3345万",
       "likeCount": "17.4万",
-      "commentCount": "5720",
-      "increment": "4.21万",
-      "viewCount": "3340万"
+      "commentCount": "5725",
+      "increment_d1": "4.4万"
     },
     {
       "rank": 1016,
@@ -363,10 +363,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-09",
+      "viewCount": "3337万",
       "likeCount": "28.3万",
       "commentCount": "1.2万",
-      "increment": "4534",
-      "viewCount": "3337万"
+      "increment_d1": "4487"
     },
     {
       "rank": 1017,
@@ -386,10 +386,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-07-30",
+      "viewCount": "3335万",
       "likeCount": "10.3万",
       "commentCount": "5094",
-      "increment": "880",
-      "viewCount": "3335万"
+      "increment_d1": "1081"
     },
     {
       "rank": 1018,
@@ -409,10 +409,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-20",
+      "viewCount": "3334万",
       "likeCount": "28.7万",
-      "commentCount": "3722",
-      "increment": "1.73万",
-      "viewCount": "3332万"
+      "commentCount": "3723",
+      "increment_d1": "1.69万"
     },
     {
       "rank": 1019,
@@ -432,36 +432,13 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-16",
+      "viewCount": "3332万",
       "likeCount": "25万",
       "commentCount": "1万",
-      "increment": "1.91万",
-      "viewCount": "3330万"
+      "increment_d1": "1.97万"
     },
     {
       "rank": 1020,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/vn7vfza-6fQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=vn7vfza-6fQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "＜TVアニメ「恋と嘘」OPテーマ＞フレデリック「かなしいうれしい」Music Video  -2nd Full Album「フレデリズム2」2019/2/20 Release-",
-        "url": "https://www.youtube.com/watch?v=vn7vfza-6fQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "フレデリック FREDERIC official",
-        "url": "https://www.youtube.com/channel/UCeoCO4_u1DdJBwyil66IsNw",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-08-01",
-      "likeCount": "30.9万",
-      "commentCount": "1万",
-      "increment": "4185",
-      "viewCount": "3330万"
-    },
-    {
-      "rank": 1021,
       "thumb": {
         "img": "https://i.ytimg.com/vi/hV8PSY7s7VQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=hV8PSY7s7VQ",
@@ -478,36 +455,36 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-09",
+      "viewCount": "3331万",
       "likeCount": "88.9万",
       "commentCount": "3万",
-      "increment": "1.91万",
-      "viewCount": "3329万"
+      "increment_d1": "1.93万"
     },
     {
-      "rank": 1022,
+      "rank": 1021,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/nDqaTXqCN-Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=nDqaTXqCN-Q",
+        "img": "https://i.ytimg.com/vi/vn7vfza-6fQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=vn7vfza-6fQ",
         "target": "_blank"
       },
       "title": {
-        "text": "BABYMETAL - イジメ、ダメ、ゼッタイ - Ijime,Dame,Zettai (OFFICIAL)",
-        "url": "https://www.youtube.com/watch?v=nDqaTXqCN-Q",
+        "text": "＜TVアニメ「恋と嘘」OPテーマ＞フレデリック「かなしいうれしい」Music Video  -2nd Full Album「フレデリズム2」2019/2/20 Release-",
+        "url": "https://www.youtube.com/watch?v=vn7vfza-6fQ",
         "target": "_blank"
       },
       "channel": {
-        "text": "BABYMETAL",
-        "url": "https://www.youtube.com/channel/UC33_tIj4m1_XaqfFcomShvw",
+        "text": "フレデリック FREDERIC official",
+        "url": "https://www.youtube.com/channel/UCeoCO4_u1DdJBwyil66IsNw",
         "target": "_blank"
       },
-      "publishedAt": "2012-11-26",
-      "likeCount": "30.2万",
-      "commentCount": "1.7万",
-      "increment": "3600",
-      "viewCount": "3328万"
+      "publishedAt": "2017-08-01",
+      "viewCount": "3330万",
+      "likeCount": "30.9万",
+      "commentCount": "1万",
+      "increment_d1": "3708"
     },
     {
-      "rank": 1023,
+      "rank": 1022,
       "thumb": {
         "img": "https://i.ytimg.com/vi/0lASG1aB5lE/default.jpg",
         "url": "https://www.youtube.com/watch?v=0lASG1aB5lE",
@@ -524,10 +501,33 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-16",
+      "viewCount": "3329万",
       "likeCount": "21.9万",
       "commentCount": "4754",
-      "increment": "1.64万",
-      "viewCount": "3327万"
+      "increment_d1": "1.57万"
+    },
+    {
+      "rank": 1023,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/nDqaTXqCN-Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=nDqaTXqCN-Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BABYMETAL - イジメ、ダメ、ゼッタイ - Ijime,Dame,Zettai (OFFICIAL)",
+        "url": "https://www.youtube.com/watch?v=nDqaTXqCN-Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BABYMETAL",
+        "url": "https://www.youtube.com/channel/UC33_tIj4m1_XaqfFcomShvw",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-11-26",
+      "viewCount": "3328万",
+      "likeCount": "30.2万",
+      "commentCount": "1.7万",
+      "increment_d1": "3572"
     },
     {
       "rank": 1024,
@@ -547,10 +547,10 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-02",
+      "viewCount": "3327万",
       "likeCount": "-",
-      "commentCount": "518",
-      "increment": "1.07万",
-      "viewCount": "3326万"
+      "commentCount": "519",
+      "increment_d1": "1.08万"
     },
     {
       "rank": 1025,
@@ -570,10 +570,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-08",
+      "viewCount": "3325万",
       "likeCount": "25.1万",
       "commentCount": "5215",
-      "increment": "6623",
-      "viewCount": "3325万"
+      "increment_d1": "6615"
     },
     {
       "rank": 1026,
@@ -593,10 +593,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-01-18",
+      "viewCount": "3325万",
       "likeCount": "12.6万",
       "commentCount": "4359",
-      "increment": "6196",
-      "viewCount": "3324万"
+      "increment_d1": "6373"
     },
     {
       "rank": 1027,
@@ -616,10 +616,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-11-01",
-      "likeCount": "19.1万",
+      "viewCount": "3324万",
+      "likeCount": "19.2万",
       "commentCount": "3129",
-      "increment": "9290",
-      "viewCount": "3323万"
+      "increment_d1": "9296"
     },
     {
       "rank": 1028,
@@ -639,10 +639,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-04-12",
+      "viewCount": "3321万",
       "likeCount": "76.2万",
-      "commentCount": "8958",
-      "increment": "4576",
-      "viewCount": "3320万"
+      "commentCount": "8961",
+      "increment_d1": "4157"
     },
     {
       "rank": 1029,
@@ -662,10 +662,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-14",
+      "viewCount": "3318万",
       "likeCount": "12.6万",
       "commentCount": "3436",
-      "increment": "1.59万",
-      "viewCount": "3316万"
+      "increment_d1": "1.65万"
     },
     {
       "rank": 1030,
@@ -685,36 +685,13 @@
         "target": "_blank"
       },
       "publishedAt": "2021-05-28",
+      "viewCount": "3314万",
       "likeCount": "-",
       "commentCount": "1.1万",
-      "increment": "5295",
-      "viewCount": "3314万"
+      "increment_d1": "5501"
     },
     {
       "rank": 1031,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Q2meWkWqc-I/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Q2meWkWqc-I",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【和楽器バンド】天樂 Tengaku 【VOCALOID】",
-        "url": "https://www.youtube.com/watch?v=Q2meWkWqc-I",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "鈴華ゆう子",
-        "url": "https://www.youtube.com/channel/UCYYMBQzRY6DKBj_3qMfRXdg",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-10-13",
-      "likeCount": "20.8万",
-      "commentCount": "5735",
-      "increment": "1394",
-      "viewCount": "3310万"
-    },
-    {
-      "rank": 1032,
       "thumb": {
         "img": "https://i.ytimg.com/vi/G-LdNMa99oQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=G-LdNMa99oQ",
@@ -731,10 +708,33 @@
         "target": "_blank"
       },
       "publishedAt": "2024-03-25",
-      "likeCount": "27.1万",
+      "viewCount": "3311万",
+      "likeCount": "27万",
       "commentCount": "4万",
-      "increment": "4475",
-      "viewCount": "3310万"
+      "increment_d1": "8489"
+    },
+    {
+      "rank": 1032,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Q2meWkWqc-I/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Q2meWkWqc-I",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【和楽器バンド】天樂 Tengaku 【VOCALOID】",
+        "url": "https://www.youtube.com/watch?v=Q2meWkWqc-I",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "鈴華ゆう子",
+        "url": "https://www.youtube.com/channel/UCYYMBQzRY6DKBj_3qMfRXdg",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-10-13",
+      "viewCount": "3310万",
+      "likeCount": "20.8万",
+      "commentCount": "5736",
+      "increment_d1": "1500"
     },
     {
       "rank": 1033,
@@ -754,10 +754,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-05-06",
+      "viewCount": "3309万",
       "likeCount": "7.7万",
-      "commentCount": "3795",
-      "increment": "1024",
-      "viewCount": "3309万"
+      "commentCount": "3796",
+      "increment_d1": "1054"
     },
     {
       "rank": 1034,
@@ -777,36 +777,13 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-14",
+      "viewCount": "3309万",
       "likeCount": "9.8万",
       "commentCount": "1843",
-      "increment": "1.75万",
-      "viewCount": "3307万"
+      "increment_d1": "1.85万"
     },
     {
       "rank": 1035,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/cirhQ8iLdbw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=cirhQ8iLdbw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BABYMETAL - ド・キ・ド・キ☆モーニング - Doki Doki☆Morning (OFFICIAL)",
-        "url": "https://www.youtube.com/watch?v=cirhQ8iLdbw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BABYMETAL",
-        "url": "https://www.youtube.com/channel/UC33_tIj4m1_XaqfFcomShvw",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-11-08",
-      "likeCount": "31.3万",
-      "commentCount": "1.6万",
-      "increment": "3808",
-      "viewCount": "3305万"
-    },
-    {
-      "rank": 1036,
       "thumb": {
         "img": "https://i.ytimg.com/vi/pdkXf2Ztunk/default.jpg",
         "url": "https://www.youtube.com/watch?v=pdkXf2Ztunk",
@@ -823,59 +800,13 @@
         "target": "_blank"
       },
       "publishedAt": "2024-05-14",
+      "viewCount": "3308万",
       "likeCount": "27.7万",
-      "commentCount": "5185",
-      "increment": "4.18万",
-      "viewCount": "3304万"
+      "commentCount": "5191",
+      "increment_d1": "4.09万"
     },
     {
-      "rank": 1037,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/z1NL76tvK34/default.jpg",
-        "url": "https://www.youtube.com/watch?v=z1NL76tvK34",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow Man「EVERYTHING IS EVERYTHING」Rec Movie",
-        "url": "https://www.youtube.com/watch?v=z1NL76tvK34",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Snow Man",
-        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-01-03",
-      "likeCount": "-",
-      "commentCount": "2.4万",
-      "increment": "3711",
-      "viewCount": "3304万"
-    },
-    {
-      "rank": 1038,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/aikM28XkxFk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=aikM28XkxFk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow Man「Dangerholic」Dance Practice",
-        "url": "https://www.youtube.com/watch?v=aikM28XkxFk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Snow Man",
-        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-08-16",
-      "likeCount": "-",
-      "commentCount": "9740",
-      "increment": "2.33万",
-      "viewCount": "3302万"
-    },
-    {
-      "rank": 1039,
+      "rank": 1036,
       "thumb": {
         "img": "https://i.ytimg.com/vi/wTc3jXDTNBo/default.jpg",
         "url": "https://www.youtube.com/watch?v=wTc3jXDTNBo",
@@ -892,36 +823,82 @@
         "target": "_blank"
       },
       "publishedAt": "2024-02-22",
+      "viewCount": "3306万",
       "likeCount": "27.1万",
       "commentCount": "1万",
-      "increment": "5.81万",
-      "viewCount": "3300万"
+      "increment_d1": "5.57万"
     },
     {
-      "rank": 1040,
+      "rank": 1037,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/XAdBNPQ77Ig/default.jpg",
-        "url": "https://www.youtube.com/watch?v=XAdBNPQ77Ig",
+        "img": "https://i.ytimg.com/vi/cirhQ8iLdbw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=cirhQ8iLdbw",
         "target": "_blank"
       },
       "title": {
-        "text": "ISSA×SoulJa+ROLA / i hate u",
-        "url": "https://www.youtube.com/watch?v=XAdBNPQ77Ig",
+        "text": "BABYMETAL - ド・キ・ド・キ☆モーニング - Doki Doki☆Morning (OFFICIAL)",
+        "url": "https://www.youtube.com/watch?v=cirhQ8iLdbw",
         "target": "_blank"
       },
       "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "text": "BABYMETAL",
+        "url": "https://www.youtube.com/channel/UC33_tIj4m1_XaqfFcomShvw",
         "target": "_blank"
       },
-      "publishedAt": "2011-09-22",
-      "likeCount": "7.2万",
-      "commentCount": "3458",
-      "increment": "2052",
-      "viewCount": "3300万"
+      "publishedAt": "2012-11-08",
+      "viewCount": "3305万",
+      "likeCount": "31.3万",
+      "commentCount": "1.6万",
+      "increment_d1": "3919"
     },
     {
-      "rank": 1041,
+      "rank": 1038,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/z1NL76tvK34/default.jpg",
+        "url": "https://www.youtube.com/watch?v=z1NL76tvK34",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow Man「EVERYTHING IS EVERYTHING」Rec Movie",
+        "url": "https://www.youtube.com/watch?v=z1NL76tvK34",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Snow Man",
+        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-01-03",
+      "viewCount": "3304万",
+      "likeCount": "-",
+      "commentCount": "2.4万",
+      "increment_d1": "3797"
+    },
+    {
+      "rank": 1039,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/aikM28XkxFk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=aikM28XkxFk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow Man「Dangerholic」Dance Practice",
+        "url": "https://www.youtube.com/watch?v=aikM28XkxFk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Snow Man",
+        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-08-16",
+      "viewCount": "3304万",
+      "likeCount": "-",
+      "commentCount": "9740",
+      "increment_d1": "2.17万"
+    },
+    {
+      "rank": 1040,
       "thumb": {
         "img": "https://i.ytimg.com/vi/uP8CtPMAd5Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=uP8CtPMAd5Q",
@@ -938,10 +915,33 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-21",
+      "viewCount": "3301万",
       "likeCount": "21.4万",
-      "commentCount": "3911",
-      "increment": "8818",
-      "viewCount": "3300万"
+      "commentCount": "3908",
+      "increment_d1": "9061"
+    },
+    {
+      "rank": 1041,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/XAdBNPQ77Ig/default.jpg",
+        "url": "https://www.youtube.com/watch?v=XAdBNPQ77Ig",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ISSA×SoulJa+ROLA / i hate u",
+        "url": "https://www.youtube.com/watch?v=XAdBNPQ77Ig",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-09-22",
+      "viewCount": "3300万",
+      "likeCount": "7.2万",
+      "commentCount": "3458",
+      "increment_d1": "2072"
     },
     {
       "rank": 1042,
@@ -961,10 +961,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-30",
+      "viewCount": "3296万",
       "likeCount": "25.6万",
       "commentCount": "-",
-      "increment": "1047",
-      "viewCount": "3296万"
+      "increment_d1": "994"
     },
     {
       "rank": 1043,
@@ -984,10 +984,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-12-04",
+      "viewCount": "3295万",
       "likeCount": "28.2万",
       "commentCount": "1.8万",
-      "increment": "4612",
-      "viewCount": "3295万"
+      "increment_d1": "4324"
     },
     {
       "rank": 1044,
@@ -1007,36 +1007,13 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-28",
+      "viewCount": "3292万",
       "likeCount": "-",
       "commentCount": "7717",
-      "increment": "8968",
-      "viewCount": "3291万"
+      "increment_d1": "9101"
     },
     {
       "rank": 1045,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/AIMjbleH394/default.jpg",
-        "url": "https://www.youtube.com/watch?v=AIMjbleH394",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "milet「us」MUSIC VIDEO（日本テレビ系水曜ドラマ『偽装不倫』主題歌）",
-        "url": "https://www.youtube.com/watch?v=AIMjbleH394",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "milet Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCpgxgkifUGSKg9dNFE5Vo7Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-07-24",
-      "likeCount": "14.6万",
-      "commentCount": "3300",
-      "increment": "1979",
-      "viewCount": "3290万"
-    },
-    {
-      "rank": 1046,
       "thumb": {
         "img": "https://i.ytimg.com/vi/WdLNw17xHLc/default.jpg",
         "url": "https://www.youtube.com/watch?v=WdLNw17xHLc",
@@ -1053,13 +1030,13 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-13",
+      "viewCount": "3291万",
       "likeCount": "-",
       "commentCount": "1.1万",
-      "increment": "1.03万",
-      "viewCount": "3290万"
+      "increment_d1": "9440"
     },
     {
-      "rank": 1047,
+      "rank": 1046,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ztJM-3N33hc/default.jpg",
         "url": "https://www.youtube.com/watch?v=ztJM-3N33hc",
@@ -1076,10 +1053,33 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-16",
+      "viewCount": "3291万",
       "likeCount": "-",
-      "commentCount": "8917",
-      "increment": "1.34万",
-      "viewCount": "3290万"
+      "commentCount": "8919",
+      "increment_d1": "1.05万"
+    },
+    {
+      "rank": 1047,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/AIMjbleH394/default.jpg",
+        "url": "https://www.youtube.com/watch?v=AIMjbleH394",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "milet「us」MUSIC VIDEO（日本テレビ系水曜ドラマ『偽装不倫』主題歌）",
+        "url": "https://www.youtube.com/watch?v=AIMjbleH394",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "milet Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCpgxgkifUGSKg9dNFE5Vo7Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-07-24",
+      "viewCount": "3290万",
+      "likeCount": "14.6万",
+      "commentCount": "3300",
+      "increment_d1": "1944"
     },
     {
       "rank": 1048,
@@ -1099,10 +1099,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-03-26",
+      "viewCount": "3290万",
       "likeCount": "14.4万",
       "commentCount": "1.7万",
-      "increment": "2737",
-      "viewCount": "3289万"
+      "increment_d1": "2624"
     },
     {
       "rank": 1049,
@@ -1122,33 +1122,33 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-17",
+      "viewCount": "3287万",
       "likeCount": "-",
       "commentCount": "1.8万",
-      "increment": "6196",
-      "viewCount": "3287万"
+      "increment_d1": "6332"
     },
     {
       "rank": 1050,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/v4WsQsRgbls/default.jpg",
-        "url": "https://www.youtube.com/watch?v=v4WsQsRgbls",
+        "img": "https://i.ytimg.com/vi/A_5wTaQKK6c/default.jpg",
+        "url": "https://www.youtube.com/watch?v=A_5wTaQKK6c",
         "target": "_blank"
       },
       "title": {
-        "text": "玩具 / たかやん (Official Music Video)",
-        "url": "https://www.youtube.com/watch?v=v4WsQsRgbls",
+        "text": "宇多田ヒカル 『あなた』",
+        "url": "https://www.youtube.com/watch?v=A_5wTaQKK6c",
         "target": "_blank"
       },
       "channel": {
-        "text": "たかやん / Takayan",
-        "url": "https://www.youtube.com/channel/UCHGGjDM6Z7nq5qBIPzn1D7Q",
+        "text": "Hikaru Utada",
+        "url": "https://www.youtube.com/channel/UChcgcbX3zMBwd0wTJyy2JlA",
         "target": "_blank"
       },
-      "publishedAt": "2020-02-22",
-      "likeCount": "86.7万",
-      "commentCount": "2.3万",
-      "increment": "1871",
-      "viewCount": "3286万"
+      "publishedAt": "2019-01-17",
+      "viewCount": "3287万",
+      "likeCount": "20.8万",
+      "commentCount": "3786",
+      "increment_d1": "1.99万"
     }
   ]
 }
