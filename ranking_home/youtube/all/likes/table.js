@@ -128,7 +128,6 @@
       const pub   = toDotDate(item.publishedAt);
       const likes = esc(item.likeCount ?? "");
       const comm  = esc(item.commentCount ?? "");
-      const inc   = esc(item.increment ?? "");
       const views = esc(item.viewCount ?? "");
   
       const infoHTML = `
@@ -136,9 +135,8 @@
         <div class="channel">${ch}</div>
         <div class="meta">
           ${pub   ? `<span class="published">Release: ${pub}</span>` : ""}
-          ${likes ? `<span class="chip likes">👍 ${likes}</span>` : ""}
+          ${views ? `<span class="chip views">👀 ${views}</span>` : ""}
           ${comm  ? `<span class="chip comments">💬 ${comm}</span>` : ""}
-          ${inc   ? `<span class="chip increment">↗︎ ${inc}</span>` : ""}
         </div>
       `;
   
@@ -147,7 +145,7 @@
           <th class="rank" scope="row">${rank}</th>
           <td class="thumb">${thumb}</td>
           <td class="info">${infoHTML}</td>
-          <td class="highlight">${views}</td>
+          <td class="highlight">${likes}</td>
         </tr>
       `;
     }
