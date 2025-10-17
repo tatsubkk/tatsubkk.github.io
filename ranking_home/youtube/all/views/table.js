@@ -147,7 +147,7 @@
           <th class="rank" scope="row">${rank}</th>
           <td class="thumb">${thumb}</td>
           <td class="info">${infoHTML}</td>
-          <td class="views">${views}</td>
+          <td class="highlight">${views}</td>
         </tr>
       `;
     }

@@ -78,14 +78,14 @@
     border-radius:999px; background:var(--card,#f9fafb); border:1px solid var(--line,#e5e7eb);
   }
   
-  /* label next to views (if used) */
+  /* label next to highlight (if used) */
   #data-table td.views-label{ color:var(--muted,#666); }
   
-  /* widths: info & views columns */
+  /* widths: info & highlight columns */
   #data-table td.info{
     width:auto; max-width:520px; overflow-wrap:anywhere;
   }
-  #data-table td.views{
+  #data-table td.highlight{
     width:150px; min-width:150px; text-align:left; white-space:nowrap;
     font-variant-numeric:tabular-nums; font-size:1.25rem; line-height:1.2;
   }
@@ -110,6 +110,6 @@
   
     #data-table td.info{ max-width:380px; }
   
-    #data-table td.views{ width:150px; min-width:150px; font-size:1.15rem; }
+    #data-table td.highlight{ width:150px; min-width:150px; font-size:1.15rem; }
   }
   

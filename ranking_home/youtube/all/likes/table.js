@@ -35,7 +35,7 @@
       renderTable4cols(rows, thead, tbody);
     } catch (e) {
       console.error("[table] fetch/render failed:", e);
-      thead.innerHTML = `<tr><th>Rank</th><th>Thumb</th><th>Info</th><th>Views</th></tr>`;
+      thead.innerHTML = `<tr><th>Rank</th><th>Thumb</th><th>Info</th><th>Likes</th></tr>`;
       tbody.innerHTML = `<tr><td colspan="4" style="color:crimson;padding:12px">読み込み失敗：${String(e).replace(/</g,"&lt;")}</td></tr>`;
     }
   
@@ -43,7 +43,7 @@
        render: header + body
        ============================================ */
     function renderTable4cols(rows, thead, tbody) {
-      thead.innerHTML = `<tr><th>Rank</th><th>Thumb</th><th>Info</th><th>Views</th></tr>`;
+      thead.innerHTML = `<tr><th>Rank</th><th>Thumb</th><th>Info</th><th>Likes</th></tr>`;
       if (!rows || rows.length === 0) {
         tbody.innerHTML = `<tr><td colspan="4" style="padding:12px">データがありません</td></tr>`;
         return;
@@ -147,7 +147,7 @@
           <th class="rank" scope="row">${rank}</th>
           <td class="thumb">${thumb}</td>
           <td class="info">${infoHTML}</td>
-          <td class="views">${views}</td>
+          <td class="highlight">${views}</td>
         </tr>
       `;
     }
