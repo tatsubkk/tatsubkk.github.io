@@ -11,10 +11,11 @@
     const u = new URL(location.href);
     let p = parseInt(u.searchParams.get("p") || "1", 10);
     if (!Number.isFinite(p) || p < 1) p = 1;
-  
-    const pageUrl = new URL(`tables/table.${p}.json`, document.baseURI);
-    pageUrl.searchParams.set("v", new Date().toISOString().slice(0, 10)); // cache-buster (daily)
-  
+
+    const pageUrl = new URL(`./tables/table.${p}.json`, location.href);
+    const v = new Date().toLocaleDateString("sv-SE", { timeZone: "Asia/Tokyo" });
+    pageUrl.searchParams.set("v", v);
+
     /* ---------- grab table roots ---------- */
     const thead = document.querySelector("#data-table thead");
     const tbody = document.querySelector("#data-table tbody");

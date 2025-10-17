@@ -11,10 +11,11 @@
     const u = new URL(location.href);
     let p = parseInt(u.searchParams.get("p") || "1", 10);
     if (!Number.isFinite(p) || p < 1) p = 1;
-  
-    const pageUrl = new URL(`tables/table.${p}.json`, document.baseURI);
-    pageUrl.searchParams.set("v", new Date().toISOString().slice(0, 10)); // cache-buster (daily)
-  
+
+    const pageUrl = new URL(`./tables/table.${p}.json`, location.href);
+    const v = new Date().toLocaleDateString("sv-SE", { timeZone: "Asia/Tokyo" });
+    pageUrl.searchParams.set("v", v);
+
     /* ---------- grab table roots ---------- */
     const thead = document.querySelector("#data-table thead");
     const tbody = document.querySelector("#data-table tbody");
@@ -128,7 +129,6 @@
       const pub   = toDotDate(item.publishedAt);
       const likes = esc(item.likeCount ?? "");
       const comm  = esc(item.commentCount ?? "");
-      const inc   = esc(item.increment ?? "");
       const views = esc(item.viewCount ?? "");
   
       const infoHTML = `
@@ -136,9 +136,8 @@
         <div class="channel">${ch}</div>
         <div class="meta">
           ${pub   ? `<span class="published">Release: ${pub}</span>` : ""}
+          ${views  ? `<span class="chip comments">👀 ${views}</span>` : ""}
           ${likes ? `<span class="chip likes">👍 ${likes}</span>` : ""}
-          ${comm  ? `<span class="chip comments">💬 ${comm}</span>` : ""}
-          ${inc   ? `<span class="chip increment">↗︎ ${inc}</span>` : ""}
         </div>
       `;
   
@@ -147,7 +146,7 @@
           <th class="rank" scope="row">${rank}</th>
           <td class="thumb">${thumb}</td>
           <td class="info">${infoHTML}</td>
-          <td class="views">${views}</td>
+          <td class="views">${comm}</td>
         </tr>
       `;
     }
