@@ -1,7 +1,7 @@
 /* ============================================
    table-4cols.js
    Render 1 row / 4 columns from tables/table.{p}.json
-   Columns: Rank | Thumb | Info | Views
+   Columns: Rank | Thumb | Info | Increment(daily)
    - Page is taken from ?p= (default 1)
    - Daily cache-buster (?v=YYYY-MM-DD)
    - Text is escaped; thumbnail HTML only is injected as raw HTML
@@ -11,10 +11,11 @@
     const u = new URL(location.href);
     let p = parseInt(u.searchParams.get("p") || "1", 10);
     if (!Number.isFinite(p) || p < 1) p = 1;
-  
-    const pageUrl = new URL(`tables/table.${p}.json`, document.baseURI);
-    pageUrl.searchParams.set("v", new Date().toISOString().slice(0, 10)); // cache-buster (daily)
-  
+
+    const pageUrl = new URL(`./tables/table.${p}.json`, location.href);
+    const v = new Date().toLocaleDateString("sv-SE", { timeZone: "Asia/Tokyo" });
+    pageUrl.searchParams.set("v", v);
+
     /* ---------- grab table roots ---------- */
     const thead = document.querySelector("#data-table thead");
     const tbody = document.querySelector("#data-table tbody");
@@ -35,7 +36,7 @@
       renderTable4cols(rows, thead, tbody);
     } catch (e) {
       console.error("[table] fetch/render failed:", e);
-      thead.innerHTML = `<tr><th>Rank</th><th>Thumb</th><th>Info</th><th>Views</th></tr>`;
+      thead.innerHTML = `<tr><th>Rank</th><th>Thumb</th><th>Info</th><th>Daily Views</th></tr>`;
       tbody.innerHTML = `<tr><td colspan="4" style="color:crimson;padding:12px">読み込み失敗：${String(e).replace(/</g,"&lt;")}</td></tr>`;
     }
   
@@ -43,7 +44,7 @@
        render: header + body
        ============================================ */
     function renderTable4cols(rows, thead, tbody) {
-      thead.innerHTML = `<tr><th>Rank</th><th>Thumb</th><th>Info</th><th>Views</th></tr>`;
+      thead.innerHTML = `<tr><th>Rank</th><th>Thumb</th><th>Info</th><th>Daily Views</th></tr>`;
       if (!rows || rows.length === 0) {
         tbody.innerHTML = `<tr><td colspan="4" style="padding:12px">データがありません</td></tr>`;
         return;
@@ -108,7 +109,7 @@
     }
   
     /* ============================================
-       per-row renderer (Rank / Thumb / Info / Views)
+       per-row renderer (Rank / Thumb / Info / Increment(daily))
        ============================================ */
     function renderRow4cols(item){
       const rank  = esc(item.rank);
@@ -128,7 +129,7 @@
       const pub   = toDotDate(item.publishedAt);
       const likes = esc(item.likeCount ?? "");
       const comm  = esc(item.commentCount ?? "");
-      const inc   = esc(item.increment ?? "");
+      const inc   = esc(item.increment_d1 ?? "");
       const views = esc(item.viewCount ?? "");
   
       const infoHTML = `
@@ -136,9 +137,9 @@
         <div class="channel">${ch}</div>
         <div class="meta">
           ${pub   ? `<span class="published">Release: ${pub}</span>` : ""}
+          ${inc   ? `<span class="chip views">👀 ${inc}</span>` : ""}
           ${likes ? `<span class="chip likes">👍 ${likes}</span>` : ""}
           ${comm  ? `<span class="chip comments">💬 ${comm}</span>` : ""}
-          ${inc   ? `<span class="chip increment">↗︎ ${inc}</span>` : ""}
         </div>
       `;
   
@@ -147,7 +148,7 @@
           <th class="rank" scope="row">${rank}</th>
           <td class="thumb">${thumb}</td>
           <td class="info">${infoHTML}</td>
-          <td class="views">${views}</td>
+          <td class="highlight">${inc}</td>
         </tr>
       `;
     }
