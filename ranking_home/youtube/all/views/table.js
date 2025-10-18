@@ -129,7 +129,7 @@
       const pub   = toDotDate(item.publishedAt);
       const likes = esc(item.likeCount ?? "");
       const comm  = esc(item.commentCount ?? "");
-      const inc   = esc(item.increment ?? "");
+      const inc   = esc(item.increment_d1 ?? "");
       const views = esc(item.viewCount ?? "");
   
       const infoHTML = `

@@ -1,7 +1,7 @@
 /* ============================================
    table-4cols.js
    Render 1 row / 4 columns from tables/table.{p}.json
-   Columns: Rank | Thumb | Info | Views
+   Columns: Rank | Thumb | Info | Comments
    - Page is taken from ?p= (default 1)
    - Daily cache-buster (?v=YYYY-MM-DD)
    - Text is escaped; thumbnail HTML only is injected as raw HTML
@@ -36,7 +36,7 @@
       renderTable4cols(rows, thead, tbody);
     } catch (e) {
       console.error("[table] fetch/render failed:", e);
-      thead.innerHTML = `<tr><th>Rank</th><th>Thumb</th><th>Info</th><th>Views</th></tr>`;
+      thead.innerHTML = `<tr><th>Rank</th><th>Thumb</th><th>Info</th><th>Comments</th></tr>`;
       tbody.innerHTML = `<tr><td colspan="4" style="color:crimson;padding:12px">読み込み失敗：${String(e).replace(/</g,"&lt;")}</td></tr>`;
     }
   
@@ -44,7 +44,7 @@
        render: header + body
        ============================================ */
     function renderTable4cols(rows, thead, tbody) {
-      thead.innerHTML = `<tr><th>Rank</th><th>Thumb</th><th>Info</th><th>Views</th></tr>`;
+      thead.innerHTML = `<tr><th>Rank</th><th>Thumb</th><th>Info</th><th>Comments</th></tr>`;
       if (!rows || rows.length === 0) {
         tbody.innerHTML = `<tr><td colspan="4" style="padding:12px">データがありません</td></tr>`;
         return;
@@ -109,7 +109,7 @@
     }
   
     /* ============================================
-       per-row renderer (Rank / Thumb / Info / Views)
+       per-row renderer (Rank / Thumb / Info / Comments)
        ============================================ */
     function renderRow4cols(item){
       const rank  = esc(item.rank);
@@ -136,7 +136,7 @@
         <div class="channel">${ch}</div>
         <div class="meta">
           ${pub   ? `<span class="published">Release: ${pub}</span>` : ""}
-          ${views  ? `<span class="chip comments">👀 ${views}</span>` : ""}
+          ${views  ? `<span class="chip views">👀 ${views}</span>` : ""}
           ${likes ? `<span class="chip likes">👍 ${likes}</span>` : ""}
         </div>
       `;
@@ -146,7 +146,7 @@
           <th class="rank" scope="row">${rank}</th>
           <td class="thumb">${thumb}</td>
           <td class="info">${infoHTML}</td>
-          <td class="views">${comm}</td>
+          <td class="highlight">${comm}</td>
         </tr>
       `;
     }
