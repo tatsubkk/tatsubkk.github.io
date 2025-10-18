@@ -1,7 +1,7 @@
 /* ============================================
    table-4cols.js
    Render 1 row / 4 columns from tables/table.{p}.json
-   Columns: Rank | Thumb | Info | Views
+   Columns: Rank | Thumb | Info | Likes
    - Page is taken from ?p= (default 1)
    - Daily cache-buster (?v=YYYY-MM-DD)
    - Text is escaped; thumbnail HTML only is injected as raw HTML
@@ -109,7 +109,7 @@
     }
   
     /* ============================================
-       per-row renderer (Rank / Thumb / Info / Views)
+       per-row renderer (Rank / Thumb / Info / Likes)
        ============================================ */
     function renderRow4cols(item){
       const rank  = esc(item.rank);
