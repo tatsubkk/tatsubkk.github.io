@@ -47,6 +47,28 @@
     {
       "rank": 603,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/L262NKlSl4s/default.jpg",
+        "url": "https://www.youtube.com/watch?v=L262NKlSl4s",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE「ダーリン」Official Music Video",
+        "url": "https://www.youtube.com/watch?v=L262NKlSl4s",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-01-20",
+      "viewCount": "5492万",
+      "likeCount": "36.1万",
+      "commentCount": "1.65万"
+    },
+    {
+      "rank": 604,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/LjzyRNX6D3s/default.jpg",
         "url": "https://www.youtube.com/watch?v=LjzyRNX6D3s",
         "target": "_blank"
@@ -67,28 +89,6 @@
       "commentCount": "1.65万"
     },
     {
-      "rank": 604,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/L262NKlSl4s/default.jpg",
-        "url": "https://www.youtube.com/watch?v=L262NKlSl4s",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE「ダーリン」Official Music Video",
-        "url": "https://www.youtube.com/watch?v=L262NKlSl4s",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-01-20",
-      "viewCount": "5477万",
-      "likeCount": "36万",
-      "commentCount": "1.65万"
-    },
-    {
       "rank": 605,
       "thumb": {
         "img": "https://i.ytimg.com/vi/roh_p2l8DHo/default.jpg",
@@ -106,7 +106,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-10",
-      "viewCount": "2656万",
+      "viewCount": "2657万",
       "likeCount": "72.5万",
       "commentCount": "1.65万"
     },
@@ -128,7 +128,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-06-10",
-      "viewCount": "6357万",
+      "viewCount": "6360万",
       "likeCount": "55.7万",
       "commentCount": "1.65万"
     },
@@ -150,7 +150,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-10",
-      "viewCount": "9884万",
+      "viewCount": "9892万",
       "likeCount": "53.8万",
       "commentCount": "1.65万"
     },
@@ -172,8 +172,8 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-08",
-      "viewCount": "8578万",
-      "likeCount": "88.9万",
+      "viewCount": "8583万",
+      "likeCount": "89万",
       "commentCount": "1.65万"
     },
     {
@@ -194,7 +194,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-01-04",
-      "viewCount": "1701万",
+      "viewCount": "1702万",
       "likeCount": "29.8万",
       "commentCount": "1.64万"
     },
@@ -216,7 +216,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-27",
-      "viewCount": "2604万",
+      "viewCount": "2606万",
       "likeCount": "49.1万",
       "commentCount": "1.64万"
     },
@@ -238,7 +238,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-07-18",
-      "viewCount": "4698万",
+      "viewCount": "4702万",
       "likeCount": "51.5万",
       "commentCount": "1.64万"
     },
@@ -260,7 +260,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-10",
-      "viewCount": "5831万",
+      "viewCount": "5834万",
       "likeCount": "-",
       "commentCount": "1.64万"
     },
@@ -282,7 +282,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-10-28",
-      "viewCount": "1億1148万",
+      "viewCount": "1億1154万",
       "likeCount": "89.8万",
       "commentCount": "1.63万"
     },
@@ -304,7 +304,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-04",
-      "viewCount": "2666万",
+      "viewCount": "2668万",
       "likeCount": "52.4万",
       "commentCount": "1.63万"
     },
@@ -326,7 +326,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-09",
-      "viewCount": "9160万",
+      "viewCount": "9166万",
       "likeCount": "80.5万",
       "commentCount": "1.63万"
     },
@@ -348,9 +348,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-12-27",
-      "viewCount": "4303万",
+      "viewCount": "4308万",
       "likeCount": "17.7万",
-      "commentCount": "1.62万"
+      "commentCount": "1.63万"
     },
     {
       "rank": 617,
@@ -370,8 +370,8 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-05",
-      "viewCount": "4549万",
-      "likeCount": "54.5万",
+      "viewCount": "4560万",
+      "likeCount": "54.6万",
       "commentCount": "1.62万"
     },
     {
@@ -414,7 +414,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-28",
-      "viewCount": "3453万",
+      "viewCount": "3456万",
       "likeCount": "-",
       "commentCount": "1.61万"
     },
@@ -436,12 +436,34 @@
         "target": "_blank"
       },
       "publishedAt": "2019-02-07",
-      "viewCount": "3684万",
+      "viewCount": "3685万",
       "likeCount": "48.6万",
       "commentCount": "1.61万"
     },
     {
       "rank": 621,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/qLMLzBYTTKQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=qLMLzBYTTKQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Official】Uru 『あなたがいることで』TBS系 日曜劇場「テセウスの船」主題歌",
+        "url": "https://www.youtube.com/watch?v=qLMLzBYTTKQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Uru Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-02-09",
+      "viewCount": "1億4281万",
+      "likeCount": "51.5万",
+      "commentCount": "1.6万"
+    },
+    {
+      "rank": 622,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ID6TB4slrCQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=ID6TB4slrCQ",
@@ -463,7 +485,7 @@
       "commentCount": "1.6万"
     },
     {
-      "rank": 622,
+      "rank": 623,
       "thumb": {
         "img": "https://i.ytimg.com/vi/_j0kfGNwIlw/default.jpg",
         "url": "https://www.youtube.com/watch?v=_j0kfGNwIlw",
@@ -480,30 +502,8 @@
         "target": "_blank"
       },
       "publishedAt": "2016-02-22",
-      "viewCount": "5017万",
+      "viewCount": "5018万",
       "likeCount": "43.6万",
-      "commentCount": "1.6万"
-    },
-    {
-      "rank": 623,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/qLMLzBYTTKQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=qLMLzBYTTKQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Official】Uru 『あなたがいることで』TBS系 日曜劇場「テセウスの船」主題歌",
-        "url": "https://www.youtube.com/watch?v=qLMLzBYTTKQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Uru Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-02-09",
-      "viewCount": "1億4273万",
-      "likeCount": "51.5万",
       "commentCount": "1.6万"
     },
     {
@@ -524,7 +524,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-27",
-      "viewCount": "1億7140万",
+      "viewCount": "1億7153万",
       "likeCount": "63.2万",
       "commentCount": "1.6万"
     },
@@ -546,12 +546,34 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-16",
-      "viewCount": "2562万",
+      "viewCount": "2564万",
       "likeCount": "-",
       "commentCount": "1.6万"
     },
     {
       "rank": 626,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/x9v8aNl6Aps/default.jpg",
+        "url": "https://www.youtube.com/watch?v=x9v8aNl6Aps",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ONE OK ROCK - Heartache [Studio Jam Session]",
+        "url": "https://www.youtube.com/watch?v=x9v8aNl6Aps",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ONE OK ROCK",
+        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-02-13",
+      "viewCount": "7690万",
+      "likeCount": "48.9万",
+      "commentCount": "1.6万"
+    },
+    {
+      "rank": 627,
       "thumb": {
         "img": "https://i.ytimg.com/vi/JfgOjtq440o/default.jpg",
         "url": "https://www.youtube.com/watch?v=JfgOjtq440o",
@@ -573,28 +595,6 @@
       "commentCount": "1.6万"
     },
     {
-      "rank": 626,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/x9v8aNl6Aps/default.jpg",
-        "url": "https://www.youtube.com/watch?v=x9v8aNl6Aps",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ONE OK ROCK - Heartache [Studio Jam Session]",
-        "url": "https://www.youtube.com/watch?v=x9v8aNl6Aps",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ONE OK ROCK",
-        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-02-13",
-      "viewCount": "7688万",
-      "likeCount": "48.9万",
-      "commentCount": "1.6万"
-    },
-    {
       "rank": 628,
       "thumb": {
         "img": "https://i.ytimg.com/vi/J5Z7tIq7bco/default.jpg",
@@ -612,8 +612,8 @@
         "target": "_blank"
       },
       "publishedAt": "2008-12-08",
-      "viewCount": "2億291万",
-      "likeCount": "44.7万",
+      "viewCount": "2億299万",
+      "likeCount": "44.8万",
       "commentCount": "1.59万"
     },
     {
@@ -634,8 +634,8 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-17",
-      "viewCount": "8682万",
-      "likeCount": "83.6万",
+      "viewCount": "8686万",
+      "likeCount": "83.7万",
       "commentCount": "1.59万"
     },
     {
@@ -678,7 +678,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-07-15",
-      "viewCount": "8878万",
+      "viewCount": "8880万",
       "likeCount": "101万",
       "commentCount": "1.59万"
     },
@@ -700,8 +700,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-23",
-      "viewCount": "3477万",
-      "likeCount": "47.4万",
+      "viewCount": "3481万",
+      "likeCount": "47.5万",
       "commentCount": "1.59万"
     },
     {
@@ -744,8 +744,8 @@
         "target": "_blank"
       },
       "publishedAt": "2022-02-03",
-      "viewCount": "6878万",
-      "likeCount": "46.7万",
+      "viewCount": "6884万",
+      "likeCount": "46.8万",
       "commentCount": "1.58万"
     },
     {
@@ -766,7 +766,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-10-01",
-      "viewCount": "3752万",
+      "viewCount": "3755万",
       "likeCount": "-",
       "commentCount": "1.58万"
     },
@@ -788,8 +788,8 @@
         "target": "_blank"
       },
       "publishedAt": "2018-08-30",
-      "viewCount": "6599万",
-      "likeCount": "57.3万",
+      "viewCount": "6615万",
+      "likeCount": "57.4万",
       "commentCount": "1.57万"
     },
     {
@@ -810,7 +810,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-12",
-      "viewCount": "1760万",
+      "viewCount": "1762万",
       "likeCount": "8.9万",
       "commentCount": "1.57万"
     },
@@ -832,7 +832,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-21",
-      "viewCount": "2431万",
+      "viewCount": "2432万",
       "likeCount": "33.5万",
       "commentCount": "1.57万"
     },
@@ -854,7 +854,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-11-08",
-      "viewCount": "3306万",
+      "viewCount": "3307万",
       "likeCount": "31.3万",
       "commentCount": "1.57万"
     },
@@ -876,34 +876,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-01-19",
-      "viewCount": "8725万",
+      "viewCount": "8733万",
       "likeCount": "48.8万",
       "commentCount": "1.56万"
     },
     {
       "rank": 641,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/kbIbp2fUVzA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=kbIbp2fUVzA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SixTONES – 人人人 [PLAYLIST -SixTONES YouTube Limited Performance- Day.6]",
-        "url": "https://www.youtube.com/watch?v=kbIbp2fUVzA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SixTONES",
-        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-01-01",
-      "viewCount": "1508万",
-      "likeCount": "-",
-      "commentCount": "1.56万"
-    },
-    {
-      "rank": 642,
       "thumb": {
         "img": "https://i.ytimg.com/vi/EYGGd2NKwtI/default.jpg",
         "url": "https://www.youtube.com/watch?v=EYGGd2NKwtI",
@@ -920,9 +898,31 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-11",
-      "viewCount": "1373万",
-      "likeCount": "50.4万",
-      "commentCount": "1.55万"
+      "viewCount": "1377万",
+      "likeCount": "50.5万",
+      "commentCount": "1.56万"
+    },
+    {
+      "rank": 642,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/kbIbp2fUVzA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=kbIbp2fUVzA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SixTONES – 人人人 [PLAYLIST -SixTONES YouTube Limited Performance- Day.6]",
+        "url": "https://www.youtube.com/watch?v=kbIbp2fUVzA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SixTONES",
+        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-01-01",
+      "viewCount": "1509万",
+      "likeCount": "-",
+      "commentCount": "1.56万"
     },
     {
       "rank": 643,
@@ -942,7 +942,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-02-18",
-      "viewCount": "8607万",
+      "viewCount": "8610万",
       "likeCount": "30.7万",
       "commentCount": "1.55万"
     },
@@ -964,7 +964,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-05-31",
-      "viewCount": "1563万",
+      "viewCount": "1564万",
       "likeCount": "10.5万",
       "commentCount": "1.55万"
     },
@@ -986,9 +986,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-08-23",
-      "viewCount": "1億4830万",
+      "viewCount": "1億4833万",
       "likeCount": "45.7万",
-      "commentCount": "1.54万"
+      "commentCount": "1.55万"
     },
     {
       "rank": 646,
@@ -1008,7 +1008,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-24",
-      "viewCount": "5264万",
+      "viewCount": "5267万",
       "likeCount": "66.6万",
       "commentCount": "1.54万"
     },
@@ -1053,7 +1053,7 @@
       },
       "publishedAt": "2014-11-20",
       "viewCount": "2271万",
-      "likeCount": "25.4万",
+      "likeCount": "25.5万",
       "commentCount": "1.54万"
     },
     {
@@ -1074,7 +1074,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-07-06",
-      "viewCount": "6420万",
+      "viewCount": "6421万",
       "likeCount": "63.6万",
       "commentCount": "1.54万"
     },
@@ -1096,7 +1096,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-05-07",
-      "viewCount": "1463万",
+      "viewCount": "1465万",
       "likeCount": "11.1万",
       "commentCount": "1.54万"
     }
