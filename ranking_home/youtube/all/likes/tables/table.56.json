@@ -3,6 +3,28 @@
     {
       "rank": 2751,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/cO2lsKENxV4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=cO2lsKENxV4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "モーニング娘。 『恋のダンスサイト』 (MV)",
+        "url": "https://www.youtube.com/watch?v=cO2lsKENxV4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "モーニング娘。",
+        "url": "https://www.youtube.com/channel/UCoKXb95K5h3sME3c9OCBaeA",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-10-18",
+      "viewCount": "1038万",
+      "likeCount": "3.21万",
+      "commentCount": "1973"
+    },
+    {
+      "rank": 2752,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/sQNC5k2O6oE/default.jpg",
         "url": "https://www.youtube.com/watch?v=sQNC5k2O6oE",
         "target": "_blank"
@@ -23,28 +45,6 @@
       "commentCount": "1887"
     },
     {
-      "rank": 2752,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/cO2lsKENxV4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=cO2lsKENxV4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "モーニング娘。 『恋のダンスサイト』 (MV)",
-        "url": "https://www.youtube.com/watch?v=cO2lsKENxV4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "モーニング娘。",
-        "url": "https://www.youtube.com/channel/UCoKXb95K5h3sME3c9OCBaeA",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-10-18",
-      "viewCount": "1038万",
-      "likeCount": "3.21万",
-      "commentCount": "1972"
-    },
-    {
       "rank": 2753,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Y3T04hhdHA4/default.jpg",
@@ -62,7 +62,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
-      "viewCount": "1113万",
+      "viewCount": "1114万",
       "likeCount": "3.17万",
       "commentCount": "90"
     },
@@ -108,7 +108,7 @@
       "publishedAt": "2010-09-01",
       "viewCount": "1659万",
       "likeCount": "3.14万",
-      "commentCount": "2759"
+      "commentCount": "2760"
     },
     {
       "rank": 2756,
@@ -194,7 +194,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-15",
-      "viewCount": "1304万",
+      "viewCount": "1305万",
       "likeCount": "3.12万",
       "commentCount": "1615"
     },
@@ -282,8 +282,8 @@
         "target": "_blank"
       },
       "publishedAt": "2022-01-11",
-      "viewCount": "2525万",
-      "likeCount": "3.08万",
+      "viewCount": "2526万",
+      "likeCount": "3.09万",
       "commentCount": "-"
     },
     {
@@ -438,7 +438,7 @@
       "publishedAt": "2012-11-01",
       "viewCount": "1139万",
       "likeCount": "3.04万",
-      "commentCount": "2592"
+      "commentCount": "2593"
     },
     {
       "rank": 2771,
@@ -575,28 +575,6 @@
     {
       "rank": 2777,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/W5zJQ5oG6Ug/default.jpg",
-        "url": "https://www.youtube.com/watch?v=W5zJQ5oG6Ug",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Hi-STANDARD- ANOTHER STARTING LINE- Full ver.(OFFICIAL VIDEO)",
-        "url": "https://www.youtube.com/watch?v=W5zJQ5oG6Ug",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "pizzaofdeathofficial",
-        "url": "https://www.youtube.com/channel/UCrQUlOEbu-0T0l4DAcBEeIg",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-10-26",
-      "viewCount": "1022万",
-      "likeCount": "2.98万",
-      "commentCount": "891"
-    },
-    {
-      "rank": 2778,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/fMoaAlLlSc8/default.jpg",
         "url": "https://www.youtube.com/watch?v=fMoaAlLlSc8",
         "target": "_blank"
@@ -612,9 +590,31 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-29",
-      "viewCount": "2010万",
+      "viewCount": "2011万",
       "likeCount": "2.98万",
       "commentCount": "51"
+    },
+    {
+      "rank": 2778,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/W5zJQ5oG6Ug/default.jpg",
+        "url": "https://www.youtube.com/watch?v=W5zJQ5oG6Ug",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Hi-STANDARD- ANOTHER STARTING LINE- Full ver.(OFFICIAL VIDEO)",
+        "url": "https://www.youtube.com/watch?v=W5zJQ5oG6Ug",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "pizzaofdeathofficial",
+        "url": "https://www.youtube.com/channel/UCrQUlOEbu-0T0l4DAcBEeIg",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-10-26",
+      "viewCount": "1023万",
+      "likeCount": "2.98万",
+      "commentCount": "891"
     },
     {
       "rank": 2779,
@@ -636,7 +636,7 @@
       "publishedAt": "2012-06-12",
       "viewCount": "2058万",
       "likeCount": "2.97万",
-      "commentCount": "3859"
+      "commentCount": "3860"
     },
     {
       "rank": 2780,
@@ -656,9 +656,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-10-24",
-      "viewCount": "1592万",
+      "viewCount": "1593万",
       "likeCount": "2.94万",
-      "commentCount": "1419"
+      "commentCount": "1420"
     },
     {
       "rank": 2781,
@@ -723,7 +723,7 @@
       },
       "publishedAt": "2017-05-09",
       "viewCount": "1254万",
-      "likeCount": "2.88万",
+      "likeCount": "2.89万",
       "commentCount": "1587"
     },
     {
@@ -942,7 +942,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
-      "viewCount": "1091万",
+      "viewCount": "1092万",
       "likeCount": "2.78万",
       "commentCount": "62"
     },
@@ -993,28 +993,6 @@
     {
       "rank": 2796,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/wvwauqABX4o/default.jpg",
-        "url": "https://www.youtube.com/watch?v=wvwauqABX4o",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "レミオロメン - 粉雪（Music Video Short ver.）",
-        "url": "https://www.youtube.com/watch?v=wvwauqABX4o",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "レミオロメン",
-        "url": "https://www.youtube.com/channel/UCnwV0i25fH8pBrzuJ3WrHTw",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-12-03",
-      "viewCount": "1035万",
-      "likeCount": "2.76万",
-      "commentCount": "1016"
-    },
-    {
-      "rank": 2797,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/w9DGRgVnXJE/default.jpg",
         "url": "https://www.youtube.com/watch?v=w9DGRgVnXJE",
         "target": "_blank"
@@ -1033,6 +1011,28 @@
       "viewCount": "1420万",
       "likeCount": "2.76万",
       "commentCount": "2455"
+    },
+    {
+      "rank": 2797,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/wvwauqABX4o/default.jpg",
+        "url": "https://www.youtube.com/watch?v=wvwauqABX4o",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "レミオロメン - 粉雪（Music Video Short ver.）",
+        "url": "https://www.youtube.com/watch?v=wvwauqABX4o",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "レミオロメン",
+        "url": "https://www.youtube.com/channel/UCnwV0i25fH8pBrzuJ3WrHTw",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-12-03",
+      "viewCount": "1035万",
+      "likeCount": "2.76万",
+      "commentCount": "1016"
     },
     {
       "rank": 2798,

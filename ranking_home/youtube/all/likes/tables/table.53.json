@@ -41,7 +41,7 @@
       },
       "publishedAt": "2014-06-01",
       "viewCount": "1063万",
-      "likeCount": "4.37万",
+      "likeCount": "4.38万",
       "commentCount": "1412"
     },
     {
@@ -130,7 +130,7 @@
       "publishedAt": "2010-07-23",
       "viewCount": "1074万",
       "likeCount": "4.33万",
-      "commentCount": "2000"
+      "commentCount": "2001"
     },
     {
       "rank": 2607,
@@ -282,7 +282,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
-      "viewCount": "1112万",
+      "viewCount": "1113万",
       "likeCount": "4.3万",
       "commentCount": "48"
     },
@@ -394,7 +394,7 @@
       "publishedAt": "2012-03-21",
       "viewCount": "1214万",
       "likeCount": "4.27万",
-      "commentCount": "6495"
+      "commentCount": "6496"
     },
     {
       "rank": 2619,
@@ -414,9 +414,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-29",
-      "viewCount": "1185万",
+      "viewCount": "1186万",
       "likeCount": "4.25万",
-      "commentCount": "1095"
+      "commentCount": "1096"
     },
     {
       "rank": 2620,
@@ -482,7 +482,7 @@
       "publishedAt": "2009-12-02",
       "viewCount": "1574万",
       "likeCount": "4.24万",
-      "commentCount": "1296"
+      "commentCount": "1297"
     },
     {
       "rank": 2623,
@@ -547,8 +547,8 @@
       },
       "publishedAt": "2010-12-03",
       "viewCount": "1181万",
-      "likeCount": "4.2万",
-      "commentCount": "1310"
+      "likeCount": "4.21万",
+      "commentCount": "1313"
     },
     {
       "rank": 2626,
@@ -614,7 +614,7 @@
       "publishedAt": "2010-04-06",
       "viewCount": "1572万",
       "likeCount": "4.2万",
-      "commentCount": "2422"
+      "commentCount": "2423"
     },
     {
       "rank": 2629,
@@ -634,9 +634,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-07",
-      "viewCount": "1574万",
+      "viewCount": "1575万",
       "likeCount": "4.2万",
-      "commentCount": "1812"
+      "commentCount": "1813"
     },
     {
       "rank": 2630,
@@ -680,7 +680,7 @@
       "publishedAt": "2012-11-22",
       "viewCount": "1720万",
       "likeCount": "4.17万",
-      "commentCount": "2729"
+      "commentCount": "2730"
     },
     {
       "rank": 2632,
@@ -724,7 +724,7 @@
       "publishedAt": "2013-05-28",
       "viewCount": "1701万",
       "likeCount": "4.16万",
-      "commentCount": "1570"
+      "commentCount": "1571"
     },
     {
       "rank": 2634,
@@ -790,7 +790,7 @@
       "publishedAt": "2020-04-21",
       "viewCount": "1421万",
       "likeCount": "4.14万",
-      "commentCount": "1173"
+      "commentCount": "1174"
     },
     {
       "rank": 2637,
@@ -810,7 +810,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-04-11",
-      "viewCount": "1099万",
+      "viewCount": "1100万",
       "likeCount": "4.13万",
       "commentCount": "2300"
     },
@@ -839,28 +839,6 @@
     {
       "rank": 2639,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/jnIa3MIHejQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=jnIa3MIHejQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV】キャラメルペッパーズ 『ウェディング SONG』　Caramel Peppers",
-        "url": "https://www.youtube.com/watch?v=jnIa3MIHejQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "キャラメルペッパーズ Official YouTube",
-        "url": "https://www.youtube.com/channel/UCfOByQ2uy9DBHLpTKkHL_ug",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-04-01",
-      "viewCount": "2565万",
-      "likeCount": "4.11万",
-      "commentCount": "1519"
-    },
-    {
-      "rank": 2640,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/PlYXXoMPWjs/default.jpg",
         "url": "https://www.youtube.com/watch?v=PlYXXoMPWjs",
         "target": "_blank"
@@ -878,7 +856,29 @@
       "publishedAt": "2025-04-11",
       "viewCount": "1191万",
       "likeCount": "4.11万",
-      "commentCount": "7152"
+      "commentCount": "7154"
+    },
+    {
+      "rank": 2640,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/jnIa3MIHejQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=jnIa3MIHejQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV】キャラメルペッパーズ 『ウェディング SONG』　Caramel Peppers",
+        "url": "https://www.youtube.com/watch?v=jnIa3MIHejQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "キャラメルペッパーズ Official YouTube",
+        "url": "https://www.youtube.com/channel/UCfOByQ2uy9DBHLpTKkHL_ug",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-04-01",
+      "viewCount": "2565万",
+      "likeCount": "4.11万",
+      "commentCount": "1516"
     },
     {
       "rank": 2641,
@@ -966,7 +966,7 @@
       "publishedAt": "2010-09-08",
       "viewCount": "1400万",
       "likeCount": "4.1万",
-      "commentCount": "3113"
+      "commentCount": "3114"
     },
     {
       "rank": 2645,
@@ -1052,7 +1052,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-12-25",
-      "viewCount": "1130万",
+      "viewCount": "1131万",
       "likeCount": "4.08万",
       "commentCount": "2452"
     },
@@ -1096,7 +1096,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-15",
-      "viewCount": "1979万",
+      "viewCount": "1981万",
       "likeCount": "4.07万",
       "commentCount": "1228"
     }
