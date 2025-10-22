@@ -21,7 +21,7 @@
       "viewCount": "1142万",
       "likeCount": "5.5万",
       "commentCount": "-",
-      "increment_d1": "597"
+      "increment_d1": "716"
     },
     {
       "rank": 2952,
@@ -44,7 +44,7 @@
       "viewCount": "1142万",
       "likeCount": "10.6万",
       "commentCount": "5232",
-      "increment_d1": "1731"
+      "increment_d1": "1775"
     },
     {
       "rank": 2953,
@@ -67,7 +67,7 @@
       "viewCount": "1140万",
       "likeCount": "16.6万",
       "commentCount": "3635",
-      "increment_d1": "656"
+      "increment_d1": "575"
     },
     {
       "rank": 2954,
@@ -87,10 +87,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-28",
-      "viewCount": "1139万",
+      "viewCount": "1140万",
       "likeCount": "3.1万",
-      "commentCount": "1474",
-      "increment_d1": "2699"
+      "commentCount": "1475",
+      "increment_d1": "2925"
     },
     {
       "rank": 2955,
@@ -113,33 +113,10 @@
       "viewCount": "1139万",
       "likeCount": "3万",
       "commentCount": "2593",
-      "increment_d1": "488"
+      "increment_d1": "514"
     },
     {
       "rank": 2956,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/aP1-PTtchL8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=aP1-PTtchL8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【歌詞】君に好きと伝えよう/ROYALcomfort",
-        "url": "https://www.youtube.com/watch?v=aP1-PTtchL8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "TAKAMICHI",
-        "url": "https://www.youtube.com/channel/UCxSp5zCrtbrkECpXHenR6gA",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-08-29",
-      "viewCount": "1138万",
-      "likeCount": "6万",
-      "commentCount": "3169",
-      "increment_d1": "62"
-    },
-    {
-      "rank": 2957,
       "thumb": {
         "img": "https://i.ytimg.com/vi/HMjJqovfsi8/default.jpg",
         "url": "https://www.youtube.com/watch?v=HMjJqovfsi8",
@@ -158,34 +135,11 @@
       "publishedAt": "2023-01-06",
       "viewCount": "1138万",
       "likeCount": "-",
-      "commentCount": "4607",
-      "increment_d1": "2055"
+      "commentCount": "4608",
+      "increment_d1": "2091"
     },
     {
-      "rank": 2958,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/SHSWHJBuFzM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=SHSWHJBuFzM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "生まれた意味などなかった。／まふまふ",
-        "url": "https://www.youtube.com/watch?v=SHSWHJBuFzM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "まふまふちゃんねる",
-        "url": "https://www.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-08-30",
-      "viewCount": "1138万",
-      "likeCount": "17.1万",
-      "commentCount": "9609",
-      "increment_d1": "1418"
-    },
-    {
-      "rank": 2959,
+      "rank": 2957,
       "thumb": {
         "img": "https://i.ytimg.com/vi/bLpyU1A-5jI/default.jpg",
         "url": "https://www.youtube.com/watch?v=bLpyU1A-5jI",
@@ -205,7 +159,53 @@
       "viewCount": "1138万",
       "likeCount": "2.4万",
       "commentCount": "-",
-      "increment_d1": "2619"
+      "increment_d1": "2606"
+    },
+    {
+      "rank": 2958,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/aP1-PTtchL8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=aP1-PTtchL8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【歌詞】君に好きと伝えよう/ROYALcomfort",
+        "url": "https://www.youtube.com/watch?v=aP1-PTtchL8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "TAKAMICHI",
+        "url": "https://www.youtube.com/channel/UCxSp5zCrtbrkECpXHenR6gA",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-08-29",
+      "viewCount": "1138万",
+      "likeCount": "6万",
+      "commentCount": "3169",
+      "increment_d1": "57"
+    },
+    {
+      "rank": 2959,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/SHSWHJBuFzM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=SHSWHJBuFzM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "生まれた意味などなかった。／まふまふ",
+        "url": "https://www.youtube.com/watch?v=SHSWHJBuFzM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "まふまふちゃんねる",
+        "url": "https://www.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-08-30",
+      "viewCount": "1138万",
+      "likeCount": "17.1万",
+      "commentCount": "9609",
+      "increment_d1": "1330"
     },
     {
       "rank": 2960,
@@ -228,7 +228,7 @@
       "viewCount": "1138万",
       "likeCount": "14.2万",
       "commentCount": "1.1万",
-      "increment_d1": "972"
+      "increment_d1": "1019"
     },
     {
       "rank": 2961,
@@ -251,7 +251,7 @@
       "viewCount": "1137万",
       "likeCount": "4.1万",
       "commentCount": "1487",
-      "increment_d1": "429"
+      "increment_d1": "441"
     },
     {
       "rank": 2962,
@@ -274,7 +274,7 @@
       "viewCount": "1137万",
       "likeCount": "4.1万",
       "commentCount": "5887",
-      "increment_d1": "1766"
+      "increment_d1": "1730"
     },
     {
       "rank": 2963,
@@ -297,7 +297,7 @@
       "viewCount": "1137万",
       "likeCount": "7.6万",
       "commentCount": "2179",
-      "increment_d1": "1926"
+      "increment_d1": "1842"
     },
     {
       "rank": 2964,
@@ -319,8 +319,8 @@
       "publishedAt": "2022-12-06",
       "viewCount": "1136万",
       "likeCount": "15万",
-      "commentCount": "1418",
-      "increment_d1": "2371"
+      "commentCount": "1417",
+      "increment_d1": "2443"
     },
     {
       "rank": 2965,
@@ -342,7 +342,7 @@
       "publishedAt": "2010-11-05",
       "viewCount": "1136万",
       "likeCount": "1.9万",
-      "commentCount": "2247",
+      "commentCount": "2248",
       "increment_d1": "270"
     },
     {
@@ -366,7 +366,7 @@
       "viewCount": "1136万",
       "likeCount": "4.3万",
       "commentCount": "2304",
-      "increment_d1": "502"
+      "increment_d1": "516"
     },
     {
       "rank": 2967,
@@ -389,7 +389,7 @@
       "viewCount": "1135万",
       "likeCount": "6.2万",
       "commentCount": "2352",
-      "increment_d1": "1588"
+      "increment_d1": "1591"
     },
     {
       "rank": 2968,
@@ -412,7 +412,7 @@
       "viewCount": "1135万",
       "likeCount": "-",
       "commentCount": "1712",
-      "increment_d1": "1786"
+      "increment_d1": "1415"
     },
     {
       "rank": 2969,
@@ -435,7 +435,7 @@
       "viewCount": "1135万",
       "likeCount": "15.6万",
       "commentCount": "4710",
-      "increment_d1": "3005"
+      "increment_d1": "3458"
     },
     {
       "rank": 2970,
@@ -458,7 +458,7 @@
       "viewCount": "1134万",
       "likeCount": "3.7万",
       "commentCount": "2318",
-      "increment_d1": "1859"
+      "increment_d1": "1664"
     },
     {
       "rank": 2971,
@@ -478,10 +478,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-01-18",
-      "viewCount": "1133万",
+      "viewCount": "1134万",
       "likeCount": "4.7万",
-      "commentCount": "1517",
-      "increment_d1": "2562"
+      "commentCount": "1518",
+      "increment_d1": "3116"
     },
     {
       "rank": 2972,
@@ -504,7 +504,7 @@
       "viewCount": "1133万",
       "likeCount": "8.3万",
       "commentCount": "4090",
-      "increment_d1": "535"
+      "increment_d1": "575"
     },
     {
       "rank": 2973,
@@ -526,8 +526,8 @@
       "publishedAt": "2013-07-12",
       "viewCount": "1132万",
       "likeCount": "4.3万",
-      "commentCount": "2276",
-      "increment_d1": "1484"
+      "commentCount": "2275",
+      "increment_d1": "1586"
     },
     {
       "rank": 2974,
@@ -550,33 +550,10 @@
       "viewCount": "1131万",
       "likeCount": "3.9万",
       "commentCount": "5750",
-      "increment_d1": "762"
+      "increment_d1": "894"
     },
     {
       "rank": 2975,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Y3cZqOMVEAg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Y3cZqOMVEAg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ななこのおるすばん《東京ハイジ》",
-        "url": "https://www.youtube.com/watch?v=Y3cZqOMVEAg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "東京ハイジ TOKIOHEIDI",
-        "url": "https://www.youtube.com/channel/UCnrXT1MVcEoaVe33JZ_IkMA",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-04-08",
-      "viewCount": "1131万",
-      "likeCount": "-",
-      "commentCount": "-",
-      "increment_d1": "269"
-    },
-    {
-      "rank": 2976,
       "thumb": {
         "img": "https://i.ytimg.com/vi/sd4LIb8pm8s/default.jpg",
         "url": "https://www.youtube.com/watch?v=sd4LIb8pm8s",
@@ -596,7 +573,30 @@
       "viewCount": "1131万",
       "likeCount": "4.1万",
       "commentCount": "2452",
-      "increment_d1": "8130"
+      "increment_d1": "7276"
+    },
+    {
+      "rank": 2976,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Y3cZqOMVEAg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Y3cZqOMVEAg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ななこのおるすばん《東京ハイジ》",
+        "url": "https://www.youtube.com/watch?v=Y3cZqOMVEAg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "東京ハイジ TOKIOHEIDI",
+        "url": "https://www.youtube.com/channel/UCnrXT1MVcEoaVe33JZ_IkMA",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-04-08",
+      "viewCount": "1131万",
+      "likeCount": "-",
+      "commentCount": "-",
+      "increment_d1": "289"
     },
     {
       "rank": 2977,
@@ -619,7 +619,7 @@
       "viewCount": "1130万",
       "likeCount": "11.8万",
       "commentCount": "3683",
-      "increment_d1": "4193"
+      "increment_d1": "4190"
     },
     {
       "rank": 2978,
@@ -639,10 +639,10 @@
         "target": "_blank"
       },
       "publishedAt": "2009-06-03",
-      "viewCount": "1127万",
+      "viewCount": "1128万",
       "likeCount": "8.5万",
-      "commentCount": "2808",
-      "increment_d1": "2399"
+      "commentCount": "2809",
+      "increment_d1": "2331"
     },
     {
       "rank": 2979,
@@ -665,7 +665,7 @@
       "viewCount": "1127万",
       "likeCount": "-",
       "commentCount": "1.3万",
-      "increment_d1": "904"
+      "increment_d1": "791"
     },
     {
       "rank": 2980,
@@ -688,7 +688,7 @@
       "viewCount": "1127万",
       "likeCount": "3.4万",
       "commentCount": "937",
-      "increment_d1": "953"
+      "increment_d1": "931"
     },
     {
       "rank": 2981,
@@ -711,7 +711,7 @@
       "viewCount": "1126万",
       "likeCount": "9.6万",
       "commentCount": "2587",
-      "increment_d1": "363"
+      "increment_d1": "433"
     },
     {
       "rank": 2982,
@@ -731,10 +731,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-12-09",
-      "viewCount": "1125万",
+      "viewCount": "1126万",
       "likeCount": "3.8万",
-      "commentCount": "1806",
-      "increment_d1": "2575"
+      "commentCount": "1809",
+      "increment_d1": "2713"
     },
     {
       "rank": 2983,
@@ -757,7 +757,7 @@
       "viewCount": "1125万",
       "likeCount": "14.3万",
       "commentCount": "2430",
-      "increment_d1": "2934"
+      "increment_d1": "2941"
     },
     {
       "rank": 2984,
@@ -780,7 +780,7 @@
       "viewCount": "1124万",
       "likeCount": "3.7万",
       "commentCount": "2106",
-      "increment_d1": "2967"
+      "increment_d1": "3175"
     },
     {
       "rank": 2985,
@@ -803,7 +803,7 @@
       "viewCount": "1124万",
       "likeCount": "3.3万",
       "commentCount": "702",
-      "increment_d1": "30"
+      "increment_d1": "52"
     },
     {
       "rank": 2986,
@@ -826,7 +826,7 @@
       "viewCount": "1124万",
       "likeCount": "3.3万",
       "commentCount": "710",
-      "increment_d1": "1207"
+      "increment_d1": "1164"
     },
     {
       "rank": 2987,
@@ -849,7 +849,7 @@
       "viewCount": "1122万",
       "likeCount": "6万",
       "commentCount": "3100",
-      "increment_d1": "659"
+      "increment_d1": "784"
     },
     {
       "rank": 2988,
@@ -872,7 +872,7 @@
       "viewCount": "1121万",
       "likeCount": "6.8万",
       "commentCount": "2633",
-      "increment_d1": "234"
+      "increment_d1": "363"
     },
     {
       "rank": 2989,
@@ -895,10 +895,33 @@
       "viewCount": "1121万",
       "likeCount": "29.2万",
       "commentCount": "2.1万",
-      "increment_d1": "775"
+      "increment_d1": "877"
     },
     {
       "rank": 2990,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/P2GhoO-u0kI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=P2GhoO-u0kI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE「ツキマシテハ」Official Lyric Video",
+        "url": "https://www.youtube.com/watch?v=P2GhoO-u0kI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-07-05",
+      "viewCount": "1121万",
+      "likeCount": "10.5万",
+      "commentCount": "3176",
+      "increment_d1": "1.01万"
+    },
+    {
+      "rank": 2991,
       "thumb": {
         "img": "https://i.ytimg.com/vi/PTGWtHKafqU/default.jpg",
         "url": "https://www.youtube.com/watch?v=PTGWtHKafqU",
@@ -918,10 +941,10 @@
       "viewCount": "1120万",
       "likeCount": "1.1万",
       "commentCount": "-",
-      "increment_d1": "764"
+      "increment_d1": "714"
     },
     {
-      "rank": 2991,
+      "rank": 2992,
       "thumb": {
         "img": "https://i.ytimg.com/vi/mbINajwhMs0/default.jpg",
         "url": "https://www.youtube.com/watch?v=mbINajwhMs0",
@@ -941,30 +964,7 @@
       "viewCount": "1120万",
       "likeCount": "3.9万",
       "commentCount": "1104",
-      "increment_d1": "595"
-    },
-    {
-      "rank": 2992,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/P2GhoO-u0kI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=P2GhoO-u0kI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE「ツキマシテハ」Official Lyric Video",
-        "url": "https://www.youtube.com/watch?v=P2GhoO-u0kI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-07-05",
-      "viewCount": "1120万",
-      "likeCount": "10.5万",
-      "commentCount": "3176",
-      "increment_d1": "1.01万"
+      "increment_d1": "625"
     },
     {
       "rank": 2993,
@@ -987,7 +987,7 @@
       "viewCount": "1119万",
       "likeCount": "3.1万",
       "commentCount": "1757",
-      "increment_d1": "120"
+      "increment_d1": "175"
     },
     {
       "rank": 2994,
@@ -1007,13 +1007,36 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-12",
-      "viewCount": "1117万",
+      "viewCount": "1118万",
       "likeCount": "9.1万",
       "commentCount": "2.2万",
-      "increment_d1": "1851"
+      "increment_d1": "1944"
     },
     {
       "rank": 2995,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/tHk4thfcL9Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=tHk4thfcL9Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Janne Da Arc - 月光花",
+        "url": "https://www.youtube.com/watch?v=tHk4thfcL9Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-01-25",
+      "viewCount": "1117万",
+      "likeCount": "7.3万",
+      "commentCount": "2436",
+      "increment_d1": "9637"
+    },
+    {
+      "rank": 2996,
       "thumb": {
         "img": "https://i.ytimg.com/vi/SAHvDE9FFAE/default.jpg",
         "url": "https://www.youtube.com/watch?v=SAHvDE9FFAE",
@@ -1033,30 +1056,7 @@
       "viewCount": "1117万",
       "likeCount": "9.3万",
       "commentCount": "2170",
-      "increment_d1": "586"
-    },
-    {
-      "rank": 2996,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/tHk4thfcL9Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=tHk4thfcL9Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Janne Da Arc - 月光花",
-        "url": "https://www.youtube.com/watch?v=tHk4thfcL9Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-01-25",
-      "viewCount": "1116万",
-      "likeCount": "7.3万",
-      "commentCount": "2434",
-      "increment_d1": "9890"
+      "increment_d1": "588"
     },
     {
       "rank": 2997,
@@ -1078,34 +1078,11 @@
       "publishedAt": "2023-09-06",
       "viewCount": "1116万",
       "likeCount": "12.2万",
-      "commentCount": "1419",
-      "increment_d1": "4385"
+      "commentCount": "1420",
+      "increment_d1": "4744"
     },
     {
       "rank": 2998,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/cHcD1LcmxfA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=cHcD1LcmxfA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "DAOKO「さみしいかみさま」medium ver.",
-        "url": "https://www.youtube.com/watch?v=cHcD1LcmxfA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "daoko_jp",
-        "url": "https://www.youtube.com/channel/UCIzc1_X3OAFquArF3EOVeWw",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-10-12",
-      "viewCount": "1115万",
-      "likeCount": "18万",
-      "commentCount": "1056",
-      "increment_d1": "576"
-    },
-    {
-      "rank": 2999,
       "thumb": {
         "img": "https://i.ytimg.com/vi/AGYJ6jeu3p8/default.jpg",
         "url": "https://www.youtube.com/watch?v=AGYJ6jeu3p8",
@@ -1125,7 +1102,30 @@
       "viewCount": "1115万",
       "likeCount": "5.5万",
       "commentCount": "1869",
-      "increment_d1": "3083"
+      "increment_d1": "3057"
+    },
+    {
+      "rank": 2999,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/cHcD1LcmxfA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=cHcD1LcmxfA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "DAOKO「さみしいかみさま」medium ver.",
+        "url": "https://www.youtube.com/watch?v=cHcD1LcmxfA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "daoko_jp",
+        "url": "https://www.youtube.com/channel/UCIzc1_X3OAFquArF3EOVeWw",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-10-12",
+      "viewCount": "1115万",
+      "likeCount": "18万",
+      "commentCount": "1056",
+      "increment_d1": "706"
     },
     {
       "rank": 3000,
@@ -1148,7 +1148,7 @@
       "viewCount": "1115万",
       "likeCount": "2.7万",
       "commentCount": "1165",
-      "increment_d1": "996"
+      "increment_d1": "765"
     }
   ]
 }

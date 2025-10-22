@@ -21,7 +21,7 @@
       "viewCount": "3126万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "1216"
+      "increment_d1": "1165"
     },
     {
       "rank": 1102,
@@ -44,7 +44,7 @@
       "viewCount": "3125万",
       "likeCount": "8.6万",
       "commentCount": "3224",
-      "increment_d1": "4813"
+      "increment_d1": "4707"
     },
     {
       "rank": 1103,
@@ -66,8 +66,8 @@
       "publishedAt": "2015-10-05",
       "viewCount": "3124万",
       "likeCount": "19.7万",
-      "commentCount": "6604",
-      "increment_d1": "3478"
+      "commentCount": "6605",
+      "increment_d1": "3628"
     },
     {
       "rank": 1104,
@@ -87,10 +87,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-31",
-      "viewCount": "3122万",
+      "viewCount": "3123万",
       "likeCount": "-",
       "commentCount": "1.2万",
-      "increment_d1": "5967"
+      "increment_d1": "5920"
     },
     {
       "rank": 1105,
@@ -110,10 +110,10 @@
         "target": "_blank"
       },
       "publishedAt": "2011-08-18",
-      "viewCount": "3121万",
+      "viewCount": "3122万",
       "likeCount": "22.7万",
       "commentCount": "1.3万",
-      "increment_d1": "9468"
+      "increment_d1": "9138"
     },
     {
       "rank": 1106,
@@ -136,7 +136,7 @@
       "viewCount": "3120万",
       "likeCount": "-",
       "commentCount": "5.9万",
-      "increment_d1": "5362"
+      "increment_d1": "5238"
     },
     {
       "rank": 1107,
@@ -159,7 +159,7 @@
       "viewCount": "3120万",
       "likeCount": "-",
       "commentCount": "2万",
-      "increment_d1": "3043"
+      "increment_d1": "3172"
     },
     {
       "rank": 1108,
@@ -179,10 +179,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-21",
-      "viewCount": "3118万",
+      "viewCount": "3120万",
       "likeCount": "25万",
       "commentCount": "4507",
-      "increment_d1": "1.48万"
+      "increment_d1": "1.52万"
     },
     {
       "rank": 1109,
@@ -205,7 +205,7 @@
       "viewCount": "3118万",
       "likeCount": "12.3万",
       "commentCount": "5746",
-      "increment_d1": "667"
+      "increment_d1": "721"
     },
     {
       "rank": 1110,
@@ -225,13 +225,36 @@
         "target": "_blank"
       },
       "publishedAt": "2015-05-01",
-      "viewCount": "3114万",
+      "viewCount": "3116万",
       "likeCount": "12.4万",
-      "commentCount": "8519",
-      "increment_d1": "1.28万"
+      "commentCount": "8531",
+      "increment_d1": "1.54万"
     },
     {
       "rank": 1111,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1KVdWZyM6EU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1KVdWZyM6EU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "My Hair is Bad – 恋人ができたんだ　(Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=1KVdWZyM6EU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "My Hair is Bad",
+        "url": "https://www.youtube.com/channel/UCYgA-dCbtiGdyIwadjcNgpg",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-10-07",
+      "viewCount": "3113万",
+      "likeCount": "17.3万",
+      "commentCount": "5350",
+      "increment_d1": "7075"
+    },
+    {
+      "rank": 1112,
       "thumb": {
         "img": "https://i.ytimg.com/vi/BPrslgZKkRI/default.jpg",
         "url": "https://www.youtube.com/watch?v=BPrslgZKkRI",
@@ -250,31 +273,8 @@
       "publishedAt": "2014-07-02",
       "viewCount": "3113万",
       "likeCount": "9.8万",
-      "commentCount": "3663",
-      "increment_d1": "1732"
-    },
-    {
-      "rank": 1112,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1KVdWZyM6EU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1KVdWZyM6EU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "My Hair is Bad – 恋人ができたんだ　(Official Music Video)",
-        "url": "https://www.youtube.com/watch?v=1KVdWZyM6EU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "My Hair is Bad",
-        "url": "https://www.youtube.com/channel/UCYgA-dCbtiGdyIwadjcNgpg",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-10-07",
-      "viewCount": "3113万",
-      "likeCount": "17.2万",
-      "commentCount": "5350",
-      "increment_d1": "6373"
+      "commentCount": "3662",
+      "increment_d1": "2083"
     },
     {
       "rank": 1113,
@@ -294,10 +294,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-12",
-      "viewCount": "3111万",
+      "viewCount": "3112万",
       "likeCount": "17.2万",
-      "commentCount": "2625",
-      "increment_d1": "5104"
+      "commentCount": "2627",
+      "increment_d1": "5196"
     },
     {
       "rank": 1114,
@@ -320,7 +320,7 @@
       "viewCount": "3108万",
       "likeCount": "9.3万",
       "commentCount": "3449",
-      "increment_d1": "1209"
+      "increment_d1": "1188"
     },
     {
       "rank": 1115,
@@ -343,7 +343,7 @@
       "viewCount": "3108万",
       "likeCount": "13.6万",
       "commentCount": "1.9万",
-      "increment_d1": "1467"
+      "increment_d1": "1684"
     },
     {
       "rank": 1116,
@@ -363,10 +363,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-03-23",
-      "viewCount": "3105万",
+      "viewCount": "3106万",
       "likeCount": "7.7万",
       "commentCount": "766",
-      "increment_d1": "7043"
+      "increment_d1": "6606"
     },
     {
       "rank": 1117,
@@ -389,10 +389,33 @@
       "viewCount": "3105万",
       "likeCount": "-",
       "commentCount": "7884",
-      "increment_d1": "2208"
+      "increment_d1": "2317"
     },
     {
       "rank": 1118,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/gPTFyx2R46w/default.jpg",
+        "url": "https://www.youtube.com/watch?v=gPTFyx2R46w",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "スピッツ / 魔法のコトバ",
+        "url": "https://www.youtube.com/watch?v=gPTFyx2R46w",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "spitzclips",
+        "url": "https://www.youtube.com/channel/UCEAOVoVVtVBhcn7vLIQIkDA",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-04-16",
+      "viewCount": "3103万",
+      "likeCount": "7.9万",
+      "commentCount": "3284",
+      "increment_d1": "6550"
+    },
+    {
+      "rank": 1119,
       "thumb": {
         "img": "https://i.ytimg.com/vi/MAkIYZiyJq4/default.jpg",
         "url": "https://www.youtube.com/watch?v=MAkIYZiyJq4",
@@ -412,56 +435,10 @@
       "viewCount": "3103万",
       "likeCount": "18万",
       "commentCount": "3.5万",
-      "increment_d1": "2102"
-    },
-    {
-      "rank": 1119,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/gPTFyx2R46w/default.jpg",
-        "url": "https://www.youtube.com/watch?v=gPTFyx2R46w",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "スピッツ / 魔法のコトバ",
-        "url": "https://www.youtube.com/watch?v=gPTFyx2R46w",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "spitzclips",
-        "url": "https://www.youtube.com/channel/UCEAOVoVVtVBhcn7vLIQIkDA",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-04-16",
-      "viewCount": "3103万",
-      "likeCount": "7.9万",
-      "commentCount": "3283",
-      "increment_d1": "6094"
+      "increment_d1": "2535"
     },
     {
       "rank": 1120,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/beN5ep5MrdY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=beN5ep5MrdY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "マキシマム ザ ホルモン 『予襲復讐』 Music Video",
-        "url": "https://www.youtube.com/watch?v=beN5ep5MrdY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "マキシマム ザ ホルモン公式",
-        "url": "https://www.youtube.com/channel/UCbb9FsCRA83-6vdgXn2KSyA",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-07-26",
-      "viewCount": "3102万",
-      "likeCount": "18.4万",
-      "commentCount": "-",
-      "increment_d1": "4123"
-    },
-    {
-      "rank": 1121,
       "thumb": {
         "img": "https://i.ytimg.com/vi/e19-eR6_0Lo/default.jpg",
         "url": "https://www.youtube.com/watch?v=e19-eR6_0Lo",
@@ -478,10 +455,33 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-31",
-      "viewCount": "3102万",
+      "viewCount": "3103万",
       "likeCount": "-",
       "commentCount": "1.1万",
-      "increment_d1": "6608"
+      "increment_d1": "6477"
+    },
+    {
+      "rank": 1121,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/beN5ep5MrdY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=beN5ep5MrdY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "マキシマム ザ ホルモン 『予襲復讐』 Music Video",
+        "url": "https://www.youtube.com/watch?v=beN5ep5MrdY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "マキシマム ザ ホルモン公式",
+        "url": "https://www.youtube.com/channel/UCbb9FsCRA83-6vdgXn2KSyA",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-07-26",
+      "viewCount": "3103万",
+      "likeCount": "18.4万",
+      "commentCount": "-",
+      "increment_d1": "4338"
     },
     {
       "rank": 1122,
@@ -504,7 +504,7 @@
       "viewCount": "3102万",
       "likeCount": "20.8万",
       "commentCount": "1.1万",
-      "increment_d1": "4449"
+      "increment_d1": "4376"
     },
     {
       "rank": 1123,
@@ -524,10 +524,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-07",
-      "viewCount": "3085万",
+      "viewCount": "3086万",
       "likeCount": "22.3万",
       "commentCount": "5592",
-      "increment_d1": "1684"
+      "increment_d1": "1852"
     },
     {
       "rank": 1124,
@@ -547,10 +547,10 @@
         "target": "_blank"
       },
       "publishedAt": "2009-07-01",
-      "viewCount": "3082万",
+      "viewCount": "3083万",
       "likeCount": "12.7万",
       "commentCount": "5246",
-      "increment_d1": "4573"
+      "increment_d1": "4146"
     },
     {
       "rank": 1125,
@@ -573,7 +573,7 @@
       "viewCount": "3078万",
       "likeCount": "22.5万",
       "commentCount": "5248",
-      "increment_d1": "4537"
+      "increment_d1": "4614"
     },
     {
       "rank": 1126,
@@ -596,7 +596,7 @@
       "viewCount": "3076万",
       "likeCount": "4.1万",
       "commentCount": "1439",
-      "increment_d1": "989"
+      "increment_d1": "1194"
     },
     {
       "rank": 1127,
@@ -619,7 +619,7 @@
       "viewCount": "3073万",
       "likeCount": "9.2万",
       "commentCount": "3072",
-      "increment_d1": "8334"
+      "increment_d1": "8821"
     },
     {
       "rank": 1128,
@@ -639,10 +639,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-02-15",
-      "viewCount": "3068万",
+      "viewCount": "3071万",
       "likeCount": "6.9万",
-      "commentCount": "3064",
-      "increment_d1": "2.57万"
+      "commentCount": "3067",
+      "increment_d1": "2.74万"
     },
     {
       "rank": 1129,
@@ -662,10 +662,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-04-30",
-      "viewCount": "3064万",
+      "viewCount": "3065万",
       "likeCount": "56.6万",
       "commentCount": "1.7万",
-      "increment_d1": "4474"
+      "increment_d1": "4381"
     },
     {
       "rank": 1130,
@@ -688,7 +688,7 @@
       "viewCount": "3056万",
       "likeCount": "-",
       "commentCount": "7725",
-      "increment_d1": "2461"
+      "increment_d1": "2651"
     },
     {
       "rank": 1131,
@@ -708,10 +708,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-26",
-      "viewCount": "3052万",
+      "viewCount": "3054万",
       "likeCount": "13.1万",
-      "commentCount": "8541",
-      "increment_d1": "1.6万"
+      "commentCount": "8542",
+      "increment_d1": "1.66万"
     },
     {
       "rank": 1132,
@@ -731,10 +731,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-23",
-      "viewCount": "3042万",
+      "viewCount": "3043万",
       "likeCount": "-",
       "commentCount": "1.5万",
-      "increment_d1": "7025"
+      "increment_d1": "6837"
     },
     {
       "rank": 1133,
@@ -754,10 +754,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-06-01",
-      "viewCount": "3030万",
+      "viewCount": "3031万",
       "likeCount": "20万",
       "commentCount": "1.2万",
-      "increment_d1": "2084"
+      "increment_d1": "2219"
     },
     {
       "rank": 1134,
@@ -777,10 +777,10 @@
         "target": "_blank"
       },
       "publishedAt": "2010-12-10",
-      "viewCount": "3029万",
+      "viewCount": "3030万",
       "likeCount": "8.8万",
-      "commentCount": "4799",
-      "increment_d1": "4504"
+      "commentCount": "4798",
+      "increment_d1": "5556"
     },
     {
       "rank": 1135,
@@ -802,8 +802,8 @@
       "publishedAt": "2012-08-08",
       "viewCount": "3028万",
       "likeCount": "6.3万",
-      "commentCount": "2274",
-      "increment_d1": "2960"
+      "commentCount": "2275",
+      "increment_d1": "2823"
     },
     {
       "rank": 1136,
@@ -825,8 +825,8 @@
       "publishedAt": "2014-03-14",
       "viewCount": "3025万",
       "likeCount": "12.3万",
-      "commentCount": "3772",
-      "increment_d1": "3787"
+      "commentCount": "3773",
+      "increment_d1": "3716"
     },
     {
       "rank": 1137,
@@ -847,32 +847,32 @@
       },
       "publishedAt": "2016-03-31",
       "viewCount": "3023万",
-      "likeCount": "8.8万",
-      "commentCount": "3594",
-      "increment_d1": "3432"
+      "likeCount": "8.9万",
+      "commentCount": "3597",
+      "increment_d1": "3341"
     },
     {
       "rank": 1138,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/1Xc9VpB4jaE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1Xc9VpB4jaE",
+        "img": "https://i.ytimg.com/vi/VDdLF1YubI0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=VDdLF1YubI0",
         "target": "_blank"
       },
       "title": {
-        "text": "AAA / 「LIFE」Music Video (short ver.)",
-        "url": "https://www.youtube.com/watch?v=1Xc9VpB4jaE",
+        "text": "なとり - プロポーズ",
+        "url": "https://www.youtube.com/watch?v=VDdLF1YubI0",
         "target": "_blank"
       },
       "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "text": "なとり / natori",
+        "url": "https://www.youtube.com/channel/UCC0zLuvujaZRFqR3aNql3Sg",
         "target": "_blank"
       },
-      "publishedAt": "2017-09-28",
-      "viewCount": "3006万",
-      "likeCount": "13.3万",
-      "commentCount": "8225",
-      "increment_d1": "1216"
+      "publishedAt": "2025-06-06",
+      "viewCount": "3017万",
+      "likeCount": "39.5万",
+      "commentCount": "5417",
+      "increment_d1": "24.37万"
     },
     {
       "rank": 1139,
@@ -892,13 +892,36 @@
         "target": "_blank"
       },
       "publishedAt": "2025-06-04",
-      "viewCount": "3006万",
+      "viewCount": "3013万",
       "likeCount": "24.7万",
       "commentCount": "1.4万",
-      "increment_d1": "7.73万"
+      "increment_d1": "7.76万"
     },
     {
       "rank": 1140,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1Xc9VpB4jaE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1Xc9VpB4jaE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "AAA / 「LIFE」Music Video (short ver.)",
+        "url": "https://www.youtube.com/watch?v=1Xc9VpB4jaE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-09-28",
+      "viewCount": "3006万",
+      "likeCount": "13.3万",
+      "commentCount": "8225",
+      "increment_d1": "1050"
+    },
+    {
+      "rank": 1141,
       "thumb": {
         "img": "https://i.ytimg.com/vi/RST6ctNtoDw/default.jpg",
         "url": "https://www.youtube.com/watch?v=RST6ctNtoDw",
@@ -917,11 +940,11 @@
       "publishedAt": "2017-02-06",
       "viewCount": "3003万",
       "likeCount": "18.7万",
-      "commentCount": "7332",
-      "increment_d1": "3365"
+      "commentCount": "7333",
+      "increment_d1": "3214"
     },
     {
-      "rank": 1141,
+      "rank": 1142,
       "thumb": {
         "img": "https://i.ytimg.com/vi/WsEOnichYgI/default.jpg",
         "url": "https://www.youtube.com/watch?v=WsEOnichYgI",
@@ -940,11 +963,11 @@
       "publishedAt": "2017-11-07",
       "viewCount": "2999万",
       "likeCount": "15.7万",
-      "commentCount": "3390",
-      "increment_d1": "4241"
+      "commentCount": "3391",
+      "increment_d1": "3926"
     },
     {
-      "rank": 1142,
+      "rank": 1143,
       "thumb": {
         "img": "https://i.ytimg.com/vi/W3YfiVGSbus/default.jpg",
         "url": "https://www.youtube.com/watch?v=W3YfiVGSbus",
@@ -961,13 +984,13 @@
         "target": "_blank"
       },
       "publishedAt": "2024-02-09",
-      "viewCount": "2997万",
+      "viewCount": "2999万",
       "likeCount": "18.1万",
-      "commentCount": "6716",
-      "increment_d1": "1.81万"
+      "commentCount": "6717",
+      "increment_d1": "1.89万"
     },
     {
-      "rank": 1143,
+      "rank": 1144,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vG_rgBD6uwk/default.jpg",
         "url": "https://www.youtube.com/watch?v=vG_rgBD6uwk",
@@ -987,10 +1010,10 @@
       "viewCount": "2996万",
       "likeCount": "6.1万",
       "commentCount": "4495",
-      "increment_d1": "758"
+      "increment_d1": "777"
     },
     {
-      "rank": 1144,
+      "rank": 1145,
       "thumb": {
         "img": "https://i.ytimg.com/vi/x9S9oygUEW0/default.jpg",
         "url": "https://www.youtube.com/watch?v=x9S9oygUEW0",
@@ -1007,13 +1030,13 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-07",
-      "viewCount": "2995万",
+      "viewCount": "2996万",
       "likeCount": "8万",
-      "commentCount": "3008",
-      "increment_d1": "3090"
+      "commentCount": "3009",
+      "increment_d1": "3202"
     },
     {
-      "rank": 1145,
+      "rank": 1146,
       "thumb": {
         "img": "https://i.ytimg.com/vi/fxTD_ZIAnH4/default.jpg",
         "url": "https://www.youtube.com/watch?v=fxTD_ZIAnH4",
@@ -1030,13 +1053,13 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-23",
-      "viewCount": "2994万",
+      "viewCount": "2995万",
       "likeCount": "8.8万",
-      "commentCount": "4195",
-      "increment_d1": "1.28万"
+      "commentCount": "4202",
+      "increment_d1": "1.36万"
     },
     {
-      "rank": 1146,
+      "rank": 1147,
       "thumb": {
         "img": "https://i.ytimg.com/vi/mLMluQow_TA/default.jpg",
         "url": "https://www.youtube.com/watch?v=mLMluQow_TA",
@@ -1053,33 +1076,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-08-23",
-      "viewCount": "2993万",
+      "viewCount": "2994万",
       "likeCount": "10.6万",
-      "commentCount": "4827",
-      "increment_d1": "9358"
-    },
-    {
-      "rank": 1147,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/VDdLF1YubI0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=VDdLF1YubI0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "なとり - プロポーズ",
-        "url": "https://www.youtube.com/watch?v=VDdLF1YubI0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "なとり / natori",
-        "url": "https://www.youtube.com/channel/UCC0zLuvujaZRFqR3aNql3Sg",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-06-06",
-      "viewCount": "2993万",
-      "likeCount": "39.4万",
-      "commentCount": "5391",
-      "increment_d1": "24.34万"
+      "commentCount": "4828",
+      "increment_d1": "9284"
     },
     {
       "rank": 1148,
@@ -1102,7 +1102,7 @@
       "viewCount": "2991万",
       "likeCount": "-",
       "commentCount": "1万",
-      "increment_d1": "6253"
+      "increment_d1": "6628"
     },
     {
       "rank": 1149,
@@ -1125,7 +1125,7 @@
       "viewCount": "2984万",
       "likeCount": "4.7万",
       "commentCount": "1341",
-      "increment_d1": "296"
+      "increment_d1": "289"
     },
     {
       "rank": 1150,
@@ -1145,10 +1145,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-01-06",
-      "viewCount": "2983万",
+      "viewCount": "2984万",
       "likeCount": "8.6万",
       "commentCount": "2789",
-      "increment_d1": "5373"
+      "increment_d1": "5610"
     }
   ]
 }

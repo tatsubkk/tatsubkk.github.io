@@ -20,7 +20,7 @@
       "publishedAt": "2020-08-22",
       "viewCount": "1317万",
       "likeCount": "9.17万",
-      "commentCount": "2447"
+      "commentCount": "2448"
     },
     {
       "rank": 2002,
@@ -40,9 +40,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-20",
-      "viewCount": "1435万",
+      "viewCount": "1436万",
       "likeCount": "9.17万",
-      "commentCount": "1106"
+      "commentCount": "1107"
     },
     {
       "rank": 2003,
@@ -84,7 +84,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-12",
-      "viewCount": "1117万",
+      "viewCount": "1118万",
       "likeCount": "9.14万",
       "commentCount": "2.2万"
     },
@@ -194,7 +194,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-04-21",
-      "viewCount": "2791万",
+      "viewCount": "2792万",
       "likeCount": "9.1万",
       "commentCount": "2601"
     },
@@ -216,9 +216,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-12-18",
-      "viewCount": "1067万",
+      "viewCount": "1068万",
       "likeCount": "9.09万",
-      "commentCount": "3074"
+      "commentCount": "3075"
     },
     {
       "rank": 2011,
@@ -238,7 +238,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-06",
-      "viewCount": "2457万",
+      "viewCount": "2458万",
       "likeCount": "9.06万",
       "commentCount": "3788"
     },
@@ -261,8 +261,8 @@
       },
       "publishedAt": "2019-10-31",
       "viewCount": "1111万",
-      "likeCount": "9.05万",
-      "commentCount": "2446"
+      "likeCount": "9.06万",
+      "commentCount": "2447"
     },
     {
       "rank": 2013,
@@ -328,7 +328,7 @@
       "publishedAt": "2017-02-20",
       "viewCount": "1437万",
       "likeCount": "9.04万",
-      "commentCount": "3353"
+      "commentCount": "3354"
     },
     {
       "rank": 2016,
@@ -348,8 +348,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-19",
-      "viewCount": "1441万",
-      "likeCount": "9.03万",
+      "viewCount": "1442万",
+      "likeCount": "9.04万",
       "commentCount": "4479"
     },
     {
@@ -416,10 +416,32 @@
       "publishedAt": "2014-11-19",
       "viewCount": "4742万",
       "likeCount": "9.01万",
-      "commentCount": "3880"
+      "commentCount": "3879"
     },
     {
       "rank": 2020,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ks8WPvlQpbg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ks8WPvlQpbg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Kalafina　『Magia』",
+        "url": "https://www.youtube.com/watch?v=ks8WPvlQpbg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kalafina Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCnRbD__LEKBj_ZR_dC8KmzQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-03-14",
+      "viewCount": "1974万",
+      "likeCount": "8.98万",
+      "commentCount": "3734"
+    },
+    {
+      "rank": 2021,
       "thumb": {
         "img": "https://i.ytimg.com/vi/_PecUdX2j1A/default.jpg",
         "url": "https://www.youtube.com/watch?v=_PecUdX2j1A",
@@ -441,28 +463,6 @@
       "commentCount": "1.2万"
     },
     {
-      "rank": 2021,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ks8WPvlQpbg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ks8WPvlQpbg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Kalafina　『Magia』",
-        "url": "https://www.youtube.com/watch?v=ks8WPvlQpbg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kalafina Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCnRbD__LEKBj_ZR_dC8KmzQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-03-14",
-      "viewCount": "1973万",
-      "likeCount": "8.97万",
-      "commentCount": "3729"
-    },
-    {
       "rank": 2022,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ngrBbLTvjN4/default.jpg",
@@ -480,8 +480,8 @@
         "target": "_blank"
       },
       "publishedAt": "2022-01-23",
-      "viewCount": "1710万",
-      "likeCount": "8.95万",
+      "viewCount": "1712万",
+      "likeCount": "8.96万",
       "commentCount": "958"
     },
     {
@@ -502,12 +502,56 @@
         "target": "_blank"
       },
       "publishedAt": "2024-04-10",
-      "viewCount": "1176万",
+      "viewCount": "1177万",
       "likeCount": "8.95万",
-      "commentCount": "4363"
+      "commentCount": "4364"
     },
     {
       "rank": 2024,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/wfNKe-1B4Ag/default.jpg",
+        "url": "https://www.youtube.com/watch?v=wfNKe-1B4Ag",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "OKAXILE /  ライジング 岡村サン(from EXILE LIVE TOUR 2011 TOWER OF WISH ～願いの塔～)",
+        "url": "https://www.youtube.com/watch?v=wfNKe-1B4Ag",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-03-07",
+      "viewCount": "3542万",
+      "likeCount": "8.94万",
+      "commentCount": "3214"
+    },
+    {
+      "rank": 2025,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1q_B-yWMJA4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1q_B-yWMJA4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – アポロドロス【LIVE from ゼンジン未到とヴェルトラウム〜銘銘編〜】",
+        "url": "https://www.youtube.com/watch?v=1q_B-yWMJA4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-07-14",
+      "viewCount": "1175万",
+      "likeCount": "8.93万",
+      "commentCount": "3205"
+    },
+    {
+      "rank": 2026,
       "thumb": {
         "img": "https://i.ytimg.com/vi/nabLCezmvTE/default.jpg",
         "url": "https://www.youtube.com/watch?v=nabLCezmvTE",
@@ -527,50 +571,6 @@
       "viewCount": "2513万",
       "likeCount": "8.93万",
       "commentCount": "1721"
-    },
-    {
-      "rank": 2025,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/wfNKe-1B4Ag/default.jpg",
-        "url": "https://www.youtube.com/watch?v=wfNKe-1B4Ag",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "OKAXILE /  ライジング 岡村サン(from EXILE LIVE TOUR 2011 TOWER OF WISH ～願いの塔～)",
-        "url": "https://www.youtube.com/watch?v=wfNKe-1B4Ag",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-03-07",
-      "viewCount": "3541万",
-      "likeCount": "8.93万",
-      "commentCount": "3214"
-    },
-    {
-      "rank": 2026,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1q_B-yWMJA4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1q_B-yWMJA4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – アポロドロス【LIVE from ゼンジン未到とヴェルトラウム〜銘銘編〜】",
-        "url": "https://www.youtube.com/watch?v=1q_B-yWMJA4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-07-14",
-      "viewCount": "1173万",
-      "likeCount": "8.93万",
-      "commentCount": "3205"
     },
     {
       "rank": 2027,
@@ -612,7 +612,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-12",
-      "viewCount": "1762万",
+      "viewCount": "1763万",
       "likeCount": "8.92万",
       "commentCount": "1.6万"
     },
@@ -678,7 +678,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-11-06",
-      "viewCount": "2381万",
+      "viewCount": "2382万",
       "likeCount": "8.88万",
       "commentCount": "2100"
     },
@@ -700,7 +700,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-11-13",
-      "viewCount": "1425万",
+      "viewCount": "1426万",
       "likeCount": "8.87万",
       "commentCount": "-"
     },
@@ -724,7 +724,7 @@
       "publishedAt": "2016-03-31",
       "viewCount": "3023万",
       "likeCount": "8.85万",
-      "commentCount": "3594"
+      "commentCount": "3597"
     },
     {
       "rank": 2034,
@@ -766,7 +766,7 @@
         "target": "_blank"
       },
       "publishedAt": "2009-06-27",
-      "viewCount": "1751万",
+      "viewCount": "1752万",
       "likeCount": "8.84万",
       "commentCount": "4539"
     },
@@ -788,9 +788,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-12-10",
-      "viewCount": "3029万",
-      "likeCount": "8.83万",
-      "commentCount": "4799"
+      "viewCount": "3030万",
+      "likeCount": "8.84万",
+      "commentCount": "4798"
     },
     {
       "rank": 2037,
@@ -812,7 +812,7 @@
       "publishedAt": "2019-06-26",
       "viewCount": "1995万",
       "likeCount": "8.83万",
-      "commentCount": "3538"
+      "commentCount": "3539"
     },
     {
       "rank": 2038,
@@ -832,9 +832,9 @@
         "target": "_blank"
       },
       "publishedAt": "2008-06-03",
-      "viewCount": "3846万",
+      "viewCount": "3847万",
       "likeCount": "8.83万",
-      "commentCount": "6959"
+      "commentCount": "6960"
     },
     {
       "rank": 2039,
@@ -855,33 +855,11 @@
       },
       "publishedAt": "2014-08-21",
       "viewCount": "1410万",
-      "likeCount": "8.82万",
+      "likeCount": "8.83万",
       "commentCount": "2181"
     },
     {
       "rank": 2040,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/vZIMc5v-pjE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=vZIMc5v-pjE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "GENERATIONS from EXILE TRIBE / 「BIG CITY RODEO」Music Video ～歌詞有り～",
-        "url": "https://www.youtube.com/watch?v=vZIMc5v-pjE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-09-28",
-      "viewCount": "2242万",
-      "likeCount": "8.82万",
-      "commentCount": "5218"
-    },
-    {
-      "rank": 2041,
       "thumb": {
         "img": "https://i.ytimg.com/vi/MHDe8QL--go/default.jpg",
         "url": "https://www.youtube.com/watch?v=MHDe8QL--go",
@@ -903,6 +881,28 @@
       "commentCount": "3684"
     },
     {
+      "rank": 2041,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/vZIMc5v-pjE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=vZIMc5v-pjE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "GENERATIONS from EXILE TRIBE / 「BIG CITY RODEO」Music Video ～歌詞有り～",
+        "url": "https://www.youtube.com/watch?v=vZIMc5v-pjE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-09-28",
+      "viewCount": "2242万",
+      "likeCount": "8.82万",
+      "commentCount": "5218"
+    },
+    {
       "rank": 2042,
       "thumb": {
         "img": "https://i.ytimg.com/vi/AP4ZQma_yjY/default.jpg",
@@ -922,7 +922,7 @@
       "publishedAt": "2019-09-10",
       "viewCount": "1487万",
       "likeCount": "8.81万",
-      "commentCount": "4792"
+      "commentCount": "4794"
     },
     {
       "rank": 2043,
@@ -942,7 +942,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-07-16",
-      "viewCount": "2547万",
+      "viewCount": "2548万",
       "likeCount": "8.81万",
       "commentCount": "3500"
     },
@@ -964,7 +964,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-09-09",
-      "viewCount": "4871万",
+      "viewCount": "4872万",
       "likeCount": "8.8万",
       "commentCount": "3119"
     },
@@ -986,8 +986,8 @@
         "target": "_blank"
       },
       "publishedAt": "2017-07-19",
-      "viewCount": "1084万",
-      "likeCount": "8.79万",
+      "viewCount": "1085万",
+      "likeCount": "8.8万",
       "commentCount": "159"
     },
     {
@@ -1008,9 +1008,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-23",
-      "viewCount": "2994万",
+      "viewCount": "2995万",
       "likeCount": "8.78万",
-      "commentCount": "4195"
+      "commentCount": "4202"
     },
     {
       "rank": 2047,
@@ -1052,7 +1052,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-05-12",
-      "viewCount": "2169万",
+      "viewCount": "2170万",
       "likeCount": "8.77万",
       "commentCount": "9.2万"
     },
