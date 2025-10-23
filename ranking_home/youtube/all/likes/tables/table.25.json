@@ -19,8 +19,8 @@
       },
       "publishedAt": "2017-10-03",
       "viewCount": "1535万",
-      "likeCount": "18.1万",
-      "commentCount": "4756"
+      "likeCount": "18.11万",
+      "commentCount": "4757"
     },
     {
       "rank": 1202,
@@ -40,9 +40,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-02-09",
-      "viewCount": "2999万",
+      "viewCount": "3001万",
       "likeCount": "18.09万",
-      "commentCount": "6717"
+      "commentCount": "6723"
     },
     {
       "rank": 1203,
@@ -64,7 +64,7 @@
       "publishedAt": "2017-10-01",
       "viewCount": "1892万",
       "likeCount": "18.06万",
-      "commentCount": "7240"
+      "commentCount": "7239"
     },
     {
       "rank": 1204,
@@ -84,8 +84,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-17",
-      "viewCount": "1112万",
-      "likeCount": "18.03万",
+      "viewCount": "1113万",
+      "likeCount": "18.04万",
       "commentCount": "1731"
     },
     {
@@ -172,9 +172,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-05",
-      "viewCount": "1405万",
+      "viewCount": "1406万",
       "likeCount": "17.96万",
-      "commentCount": "4027"
+      "commentCount": "4029"
     },
     {
       "rank": 1209,
@@ -194,9 +194,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-11-12",
-      "viewCount": "1669万",
+      "viewCount": "1670万",
       "likeCount": "17.93万",
-      "commentCount": "5291"
+      "commentCount": "5292"
     },
     {
       "rank": 1210,
@@ -238,9 +238,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-18",
-      "viewCount": "1780万",
-      "likeCount": "17.91万",
-      "commentCount": "2196"
+      "viewCount": "1783万",
+      "likeCount": "17.92万",
+      "commentCount": "2198"
     },
     {
       "rank": 1212,
@@ -261,8 +261,8 @@
       },
       "publishedAt": "2022-07-17",
       "viewCount": "1741万",
-      "likeCount": "17.9万",
-      "commentCount": "4064"
+      "likeCount": "17.91万",
+      "commentCount": "4065"
     },
     {
       "rank": 1213,
@@ -282,9 +282,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-12-27",
-      "viewCount": "4876万",
+      "viewCount": "4880万",
       "likeCount": "17.89万",
-      "commentCount": "5913"
+      "commentCount": "5912"
     },
     {
       "rank": 1214,
@@ -305,7 +305,7 @@
       },
       "publishedAt": "2023-05-21",
       "viewCount": "1073万",
-      "likeCount": "17.88万",
+      "likeCount": "17.89万",
       "commentCount": "4125"
     },
     {
@@ -370,12 +370,34 @@
         "target": "_blank"
       },
       "publishedAt": "2025-03-21",
-      "viewCount": "1668万",
-      "likeCount": "17.85万",
+      "viewCount": "1671万",
+      "likeCount": "17.86万",
       "commentCount": "2.3万"
     },
     {
       "rank": 1218,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/qFeKKGDoF2E/default.jpg",
+        "url": "https://www.youtube.com/watch?v=qFeKKGDoF2E",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "アンコール",
+        "url": "https://www.youtube.com/watch?v=qFeKKGDoF2E",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-01-05",
+      "viewCount": "4186万",
+      "likeCount": "17.82万",
+      "commentCount": "197"
+    },
+    {
+      "rank": 1219,
       "thumb": {
         "img": "https://i.ytimg.com/vi/C66yySFa48A/default.jpg",
         "url": "https://www.youtube.com/watch?v=C66yySFa48A",
@@ -394,29 +416,7 @@
       "publishedAt": "2019-01-11",
       "viewCount": "3401万",
       "likeCount": "17.82万",
-      "commentCount": "6709"
-    },
-    {
-      "rank": 1219,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/qFeKKGDoF2E/default.jpg",
-        "url": "https://www.youtube.com/watch?v=qFeKKGDoF2E",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "アンコール",
-        "url": "https://www.youtube.com/watch?v=qFeKKGDoF2E",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-01-05",
-      "viewCount": "4184万",
-      "likeCount": "17.82万",
-      "commentCount": "197"
+      "commentCount": "6708"
     },
     {
       "rank": 1220,
@@ -437,7 +437,7 @@
       },
       "publishedAt": "2016-02-12",
       "viewCount": "1325万",
-      "likeCount": "17.78万",
+      "likeCount": "17.79万",
       "commentCount": "6458"
     },
     {
@@ -458,34 +458,12 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-30",
-      "viewCount": "2181万",
-      "likeCount": "17.76万",
-      "commentCount": "3945"
+      "viewCount": "2182万",
+      "likeCount": "17.77万",
+      "commentCount": "3944"
     },
     {
       "rank": 1222,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/rpFUNMmKIlg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=rpFUNMmKIlg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "DA PUMP / if... (short ver.)",
-        "url": "https://www.youtube.com/watch?v=rpFUNMmKIlg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-06-26",
-      "viewCount": "5586万",
-      "likeCount": "17.75万",
-      "commentCount": "9444"
-    },
-    {
-      "rank": 1223,
       "thumb": {
         "img": "https://i.ytimg.com/vi/dfOsUNxc2Xg/default.jpg",
         "url": "https://www.youtube.com/watch?v=dfOsUNxc2Xg",
@@ -502,9 +480,31 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-19",
-      "viewCount": "1493万",
-      "likeCount": "17.75万",
-      "commentCount": "5349"
+      "viewCount": "1494万",
+      "likeCount": "17.76万",
+      "commentCount": "5350"
+    },
+    {
+      "rank": 1223,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/rpFUNMmKIlg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=rpFUNMmKIlg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "DA PUMP / if... (short ver.)",
+        "url": "https://www.youtube.com/watch?v=rpFUNMmKIlg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-06-26",
+      "viewCount": "5587万",
+      "likeCount": "17.76万",
+      "commentCount": "9444"
     },
     {
       "rank": 1224,
@@ -524,7 +524,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-01-09",
-      "viewCount": "2229万",
+      "viewCount": "2230万",
       "likeCount": "17.74万",
       "commentCount": "3404"
     },
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-01",
-      "viewCount": "1885万",
+      "viewCount": "1886万",
       "likeCount": "17.72万",
       "commentCount": "2699"
     },
@@ -568,8 +568,8 @@
         "target": "_blank"
       },
       "publishedAt": "2024-12-27",
-      "viewCount": "4312万",
-      "likeCount": "17.71万",
+      "viewCount": "4315万",
+      "likeCount": "17.72万",
       "commentCount": "1.6万"
     },
     {
@@ -590,7 +590,7 @@
         "target": "_blank"
       },
       "publishedAt": "2009-07-02",
-      "viewCount": "4805万",
+      "viewCount": "4806万",
       "likeCount": "17.68万",
       "commentCount": "5989"
     },
@@ -612,9 +612,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-04-09",
-      "viewCount": "1784万",
+      "viewCount": "1785万",
       "likeCount": "17.67万",
-      "commentCount": "6827"
+      "commentCount": "6828"
     },
     {
       "rank": 1229,
@@ -636,7 +636,7 @@
       "publishedAt": "2018-11-08",
       "viewCount": "1592万",
       "likeCount": "17.64万",
-      "commentCount": "6537"
+      "commentCount": "6538"
     },
     {
       "rank": 1230,
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-12",
-      "viewCount": "1730万",
+      "viewCount": "1731万",
       "likeCount": "17.63万",
       "commentCount": "2098"
     },
@@ -679,8 +679,8 @@
       },
       "publishedAt": "2017-01-13",
       "viewCount": "2561万",
-      "likeCount": "17.62万",
-      "commentCount": "2015"
+      "likeCount": "17.63万",
+      "commentCount": "2017"
     },
     {
       "rank": 1232,
@@ -700,9 +700,9 @@
         "target": "_blank"
       },
       "publishedAt": "2016-09-01",
-      "viewCount": "2768万",
+      "viewCount": "2769万",
       "likeCount": "17.61万",
-      "commentCount": "6935"
+      "commentCount": "6936"
     },
     {
       "rank": 1233,
@@ -722,9 +722,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-02-16",
-      "viewCount": "1518万",
+      "viewCount": "1519万",
       "likeCount": "17.61万",
-      "commentCount": "8932"
+      "commentCount": "8934"
     },
     {
       "rank": 1234,
@@ -746,7 +746,7 @@
       "publishedAt": "2022-08-19",
       "viewCount": "1324万",
       "likeCount": "17.6万",
-      "commentCount": "2440"
+      "commentCount": "2437"
     },
     {
       "rank": 1235,
@@ -766,7 +766,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-12-13",
-      "viewCount": "2558万",
+      "viewCount": "2559万",
       "likeCount": "17.6万",
       "commentCount": "1.2万"
     },
@@ -788,9 +788,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-27",
-      "viewCount": "1234万",
+      "viewCount": "1235万",
       "likeCount": "17.59万",
-      "commentCount": "4595"
+      "commentCount": "4596"
     },
     {
       "rank": 1237,
@@ -810,7 +810,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-10-24",
-      "viewCount": "1797万",
+      "viewCount": "1798万",
       "likeCount": "17.58万",
       "commentCount": "6212"
     },
@@ -833,7 +833,7 @@
       },
       "publishedAt": "2018-03-09",
       "viewCount": "2519万",
-      "likeCount": "17.52万",
+      "likeCount": "17.53万",
       "commentCount": "2430"
     },
     {
@@ -854,7 +854,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-18",
-      "viewCount": "3367万",
+      "viewCount": "3368万",
       "likeCount": "17.5万",
       "commentCount": "4万"
     },
@@ -883,6 +883,28 @@
     {
       "rank": 1241,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/D_xkQAxyf-o/default.jpg",
+        "url": "https://www.youtube.com/watch?v=D_xkQAxyf-o",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "モーニング娘。 『恋愛レボリューション21』  (MV)",
+        "url": "https://www.youtube.com/watch?v=D_xkQAxyf-o",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "モーニング娘。",
+        "url": "https://www.youtube.com/channel/UCoKXb95K5h3sME3c9OCBaeA",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-10-18",
+      "viewCount": "5041万",
+      "likeCount": "17.49万",
+      "commentCount": "1.1万"
+    },
+    {
+      "rank": 1242,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/Jjzbr_73ifc/default.jpg",
         "url": "https://www.youtube.com/watch?v=Jjzbr_73ifc",
         "target": "_blank"
@@ -903,28 +925,6 @@
       "commentCount": "4468"
     },
     {
-      "rank": 1242,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/D_xkQAxyf-o/default.jpg",
-        "url": "https://www.youtube.com/watch?v=D_xkQAxyf-o",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "モーニング娘。 『恋愛レボリューション21』  (MV)",
-        "url": "https://www.youtube.com/watch?v=D_xkQAxyf-o",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "モーニング娘。",
-        "url": "https://www.youtube.com/channel/UCoKXb95K5h3sME3c9OCBaeA",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-10-18",
-      "viewCount": "5039万",
-      "likeCount": "17.48万",
-      "commentCount": "1.1万"
-    },
-    {
       "rank": 1243,
       "thumb": {
         "img": "https://i.ytimg.com/vi/9UQQwRcHHQY/default.jpg",
@@ -942,9 +942,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-08-06",
-      "viewCount": "3373万",
-      "likeCount": "17.46万",
-      "commentCount": "5739"
+      "viewCount": "3377万",
+      "likeCount": "17.47万",
+      "commentCount": "5743"
     },
     {
       "rank": 1244,
@@ -966,7 +966,7 @@
       "publishedAt": "2018-10-11",
       "viewCount": "1652万",
       "likeCount": "17.44万",
-      "commentCount": "6421"
+      "commentCount": "6422"
     },
     {
       "rank": 1245,
@@ -986,9 +986,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-09",
-      "viewCount": "1025万",
+      "viewCount": "1026万",
       "likeCount": "17.43万",
-      "commentCount": "4714"
+      "commentCount": "4713"
     },
     {
       "rank": 1246,
@@ -1054,7 +1054,7 @@
       "publishedAt": "2017-06-26",
       "viewCount": "1544万",
       "likeCount": "17.39万",
-      "commentCount": "6684"
+      "commentCount": "6687"
     },
     {
       "rank": 1249,
@@ -1074,9 +1074,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-18",
-      "viewCount": "2663万",
+      "viewCount": "2664万",
       "likeCount": "17.38万",
-      "commentCount": "8221"
+      "commentCount": "8222"
     },
     {
       "rank": 1250,
@@ -1097,8 +1097,8 @@
       },
       "publishedAt": "2016-10-27",
       "viewCount": "2005万",
-      "likeCount": "17.37万",
-      "commentCount": "9875"
+      "likeCount": "17.38万",
+      "commentCount": "9878"
     }
   ]
 }
