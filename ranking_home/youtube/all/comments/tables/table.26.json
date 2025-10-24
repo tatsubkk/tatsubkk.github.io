@@ -1,7 +1,7 @@
 {
   "rows": [
     {
-      "rank": 1251,
+      "rank": 1250,
       "thumb": {
         "img": "https://i.ytimg.com/vi/LwIm_TSvhyQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=LwIm_TSvhyQ",
@@ -18,12 +18,34 @@
         "target": "_blank"
       },
       "publishedAt": "2015-03-23",
-      "viewCount": "1166万",
+      "viewCount": "1167万",
       "likeCount": "10.3万",
-      "commentCount": "7667"
+      "commentCount": "7675"
     },
     {
       "rank": 1252,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/lz8frtP6_kk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=lz8frtP6_kk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "いきものがかり 『YELL』Music Video",
+        "url": "https://www.youtube.com/watch?v=lz8frtP6_kk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "いきものがかり",
+        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-03-26",
+      "viewCount": "4529万",
+      "likeCount": "22.3万",
+      "commentCount": "7671"
+    },
+    {
+      "rank": 1253,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Yo83M-KOc7k/default.jpg",
         "url": "https://www.youtube.com/watch?v=Yo83M-KOc7k",
@@ -45,28 +67,6 @@
       "commentCount": "7665"
     },
     {
-      "rank": 1252,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/lz8frtP6_kk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=lz8frtP6_kk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "いきものがかり 『YELL』Music Video",
-        "url": "https://www.youtube.com/watch?v=lz8frtP6_kk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "いきものがかり",
-        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-03-26",
-      "viewCount": "4527万",
-      "likeCount": "22.3万",
-      "commentCount": "7665"
-    },
-    {
       "rank": 1254,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ljDRzQz3ULE/default.jpg",
@@ -84,7 +84,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-05",
-      "viewCount": "6061万",
+      "viewCount": "6062万",
       "likeCount": "26.4万",
       "commentCount": "7663"
     },
@@ -128,7 +128,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-08",
-      "viewCount": "3751万",
+      "viewCount": "3752万",
       "likeCount": "10万",
       "commentCount": "7656"
     },
@@ -150,7 +150,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-02-11",
-      "viewCount": "2569万",
+      "viewCount": "2570万",
       "likeCount": "18.7万",
       "commentCount": "7654"
     },
@@ -172,9 +172,9 @@
         "target": "_blank"
       },
       "publishedAt": "2025-04-11",
-      "viewCount": "1099万",
+      "viewCount": "1100万",
       "likeCount": "21.7万",
-      "commentCount": "7641"
+      "commentCount": "7647"
     },
     {
       "rank": 1259,
@@ -194,7 +194,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-04-30",
-      "viewCount": "7872万",
+      "viewCount": "7873万",
       "likeCount": "38.4万",
       "commentCount": "7629"
     },
@@ -217,7 +217,7 @@
       },
       "publishedAt": "2016-12-31",
       "viewCount": "2683万",
-      "likeCount": "22.6万",
+      "likeCount": "22.7万",
       "commentCount": "7622"
     },
     {
@@ -238,31 +238,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-16",
-      "viewCount": "4154万",
+      "viewCount": "4155万",
       "likeCount": "49.5万",
-      "commentCount": "7600"
-    },
-    {
-      "rank": 1262,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/t6xdg6TKbyQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=t6xdg6TKbyQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "大塚 愛 / プラネタリウム",
-        "url": "https://www.youtube.com/watch?v=t6xdg6TKbyQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-06-30",
-      "viewCount": "3832万",
-      "likeCount": "16.4万",
-      "commentCount": "7591"
+      "commentCount": "7602"
     },
     {
       "rank": 1262,
@@ -284,7 +262,29 @@
       "publishedAt": "2020-04-27",
       "viewCount": "1159万",
       "likeCount": "16万",
-      "commentCount": "7591"
+      "commentCount": "7593"
+    },
+    {
+      "rank": 1263,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/t6xdg6TKbyQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=t6xdg6TKbyQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "大塚 愛 / プラネタリウム",
+        "url": "https://www.youtube.com/watch?v=t6xdg6TKbyQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-06-30",
+      "viewCount": "3834万",
+      "likeCount": "16.4万",
+      "commentCount": "7592"
     },
     {
       "rank": 1264,
@@ -304,9 +304,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-11-02",
-      "viewCount": "3899万",
+      "viewCount": "3900万",
       "likeCount": "-",
-      "commentCount": "7580"
+      "commentCount": "7581"
     },
     {
       "rank": 1265,
@@ -328,7 +328,7 @@
       "publishedAt": "2018-08-17",
       "viewCount": "1143万",
       "likeCount": "19.2万",
-      "commentCount": "7577"
+      "commentCount": "7579"
     },
     {
       "rank": 1266,
@@ -348,9 +348,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-12-12",
-      "viewCount": "1577万",
+      "viewCount": "1578万",
       "likeCount": "12.6万",
-      "commentCount": "7576"
+      "commentCount": "7577"
     },
     {
       "rank": 1267,
@@ -414,9 +414,31 @@
         "target": "_blank"
       },
       "publishedAt": "2014-03-06",
-      "viewCount": "6171万",
+      "viewCount": "6172万",
       "likeCount": "22.6万",
-      "commentCount": "7545"
+      "commentCount": "7544"
+    },
+    {
+      "rank": 1270,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/-qoVeoG8XuU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=-qoVeoG8XuU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "hide with Spread Beaver - ROCKET DIVE",
+        "url": "https://www.youtube.com/watch?v=-qoVeoG8XuU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "hideofficialVEVO",
+        "url": "https://www.youtube.com/channel/UCcK2Lbdj9eU6UW1R9jaWe5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-12-09",
+      "viewCount": "2124万",
+      "likeCount": "9.8万",
+      "commentCount": "7531"
     },
     {
       "rank": 1270,
@@ -441,28 +463,6 @@
       "commentCount": "7531"
     },
     {
-      "rank": 1271,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/-qoVeoG8XuU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=-qoVeoG8XuU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "hide with Spread Beaver - ROCKET DIVE",
-        "url": "https://www.youtube.com/watch?v=-qoVeoG8XuU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "hideofficialVEVO",
-        "url": "https://www.youtube.com/channel/UCcK2Lbdj9eU6UW1R9jaWe5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-12-09",
-      "viewCount": "2123万",
-      "likeCount": "9.8万",
-      "commentCount": "7528"
-    },
-    {
       "rank": 1272,
       "thumb": {
         "img": "https://i.ytimg.com/vi/L2dKjnmWRkk/default.jpg",
@@ -480,8 +480,8 @@
         "target": "_blank"
       },
       "publishedAt": "2013-06-21",
-      "viewCount": "4666万",
-      "likeCount": "24.3万",
+      "viewCount": "4667万",
+      "likeCount": "24.4万",
       "commentCount": "7500"
     },
     {
@@ -568,7 +568,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-08-16",
-      "viewCount": "1億542万",
+      "viewCount": "1億543万",
       "likeCount": "37.2万",
       "commentCount": "7469"
     },
@@ -592,7 +592,7 @@
       "publishedAt": "2023-06-21",
       "viewCount": "1532万",
       "likeCount": "-",
-      "commentCount": "7463"
+      "commentCount": "7464"
     },
     {
       "rank": 1278,
@@ -612,9 +612,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-09-07",
-      "viewCount": "4063万",
+      "viewCount": "4064万",
       "likeCount": "7.1万",
-      "commentCount": "7445"
+      "commentCount": "7447"
     },
     {
       "rank": 1279,
@@ -634,7 +634,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-01",
-      "viewCount": "1628万",
+      "viewCount": "1629万",
       "likeCount": "17.9万",
       "commentCount": "7444"
     },
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-16",
-      "viewCount": "1500万",
+      "viewCount": "1501万",
       "likeCount": "24.3万",
       "commentCount": "7444"
     },
@@ -678,9 +678,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-17",
-      "viewCount": "4091万",
+      "viewCount": "4093万",
       "likeCount": "23.8万",
-      "commentCount": "7437"
+      "commentCount": "7439"
     },
     {
       "rank": 1282,
@@ -744,7 +744,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-04-27",
-      "viewCount": "2799万",
+      "viewCount": "2800万",
       "likeCount": "28.4万",
       "commentCount": "7405"
     },
@@ -766,9 +766,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-29",
-      "viewCount": "1546万",
+      "viewCount": "1547万",
       "likeCount": "14.5万",
-      "commentCount": "7384"
+      "commentCount": "7385"
     },
     {
       "rank": 1286,
@@ -790,7 +790,7 @@
       "publishedAt": "2021-02-16",
       "viewCount": "1229万",
       "likeCount": "7万",
-      "commentCount": "7373"
+      "commentCount": "7374"
     },
     {
       "rank": 1287,
@@ -810,9 +810,9 @@
         "target": "_blank"
       },
       "publishedAt": "2014-04-01",
-      "viewCount": "3283万",
+      "viewCount": "3284万",
       "likeCount": "12万",
-      "commentCount": "7359"
+      "commentCount": "7365"
     },
     {
       "rank": 1288,
@@ -883,6 +883,28 @@
     {
       "rank": 1291,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/7iZ4-4EYNnk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=7iZ4-4EYNnk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BEGIN／島人ぬ宝（沖縄からうた開き！うたの日コンサート2016 in 嘉手納【歌之日演唱會 】",
+        "url": "https://www.youtube.com/watch?v=7iZ4-4EYNnk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BEGIN ch",
+        "url": "https://www.youtube.com/channel/UCkn4RZNbITpBEHWdS_pzGEg",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-10-12",
+      "viewCount": "4346万",
+      "likeCount": "13.2万",
+      "commentCount": "7332"
+    },
+    {
+      "rank": 1292,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/QhyQOt-rDco/default.jpg",
         "url": "https://www.youtube.com/watch?v=QhyQOt-rDco",
         "target": "_blank"
@@ -901,28 +923,6 @@
       "viewCount": "1754万",
       "likeCount": "15万",
       "commentCount": "7327"
-    },
-    {
-      "rank": 1292,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/7iZ4-4EYNnk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=7iZ4-4EYNnk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BEGIN／島人ぬ宝（沖縄からうた開き！うたの日コンサート2016 in 嘉手納【歌之日演唱會 】",
-        "url": "https://www.youtube.com/watch?v=7iZ4-4EYNnk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BEGIN ch",
-        "url": "https://www.youtube.com/channel/UCkn4RZNbITpBEHWdS_pzGEg",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-10-12",
-      "viewCount": "4345万",
-      "likeCount": "13.2万",
-      "commentCount": "7326"
     },
     {
       "rank": 1293,
@@ -964,7 +964,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-03-10",
-      "viewCount": "2722万",
+      "viewCount": "2723万",
       "likeCount": "9.9万",
       "commentCount": "7296"
     },
@@ -1008,7 +1008,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-13",
-      "viewCount": "1億786万",
+      "viewCount": "1億788万",
       "likeCount": "50.6万",
       "commentCount": "7280"
     },
@@ -1052,7 +1052,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-11-16",
-      "viewCount": "3996万",
+      "viewCount": "3997万",
       "likeCount": "35.5万",
       "commentCount": "7269"
     },
@@ -1076,7 +1076,7 @@
       "publishedAt": "2020-04-19",
       "viewCount": "1153万",
       "likeCount": "7.4万",
-      "commentCount": "7245"
+      "commentCount": "7246"
     },
     {
       "rank": 1300,
@@ -1096,9 +1096,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-03",
-      "viewCount": "3444万",
+      "viewCount": "3447万",
       "likeCount": "51.6万",
-      "commentCount": "7243"
+      "commentCount": "7244"
     }
   ]
 }

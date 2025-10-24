@@ -3,6 +3,28 @@
     {
       "rank": 1901,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/9i8yeYhTEes/default.jpg",
+        "url": "https://www.youtube.com/watch?v=9i8yeYhTEes",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "HoneyWorks meets さゆりんご軍団＋真夏さんリスペクト軍団 from 乃木坂46 『大嫌いなはずだった。』",
+        "url": "https://www.youtube.com/watch?v=9i8yeYhTEes",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-12-06",
+      "viewCount": "1438万",
+      "likeCount": "10.04万",
+      "commentCount": "9409"
+    },
+    {
+      "rank": 1902,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/m4vjI6InDJM/default.jpg",
         "url": "https://www.youtube.com/watch?v=m4vjI6InDJM",
         "target": "_blank"
@@ -20,10 +42,10 @@
       "publishedAt": "2023-03-26",
       "viewCount": "1189万",
       "likeCount": "10.04万",
-      "commentCount": "5492"
+      "commentCount": "5493"
     },
     {
-      "rank": 1902,
+      "rank": 1903,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Y2mFDFUTKzQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=Y2mFDFUTKzQ",
@@ -41,11 +63,11 @@
       },
       "publishedAt": "2012-06-19",
       "viewCount": "4501万",
-      "likeCount": "10.03万",
+      "likeCount": "10.04万",
       "commentCount": "-"
     },
     {
-      "rank": 1903,
+      "rank": 1904,
       "thumb": {
         "img": "https://i.ytimg.com/vi/LuNmfDmeCTc/default.jpg",
         "url": "https://www.youtube.com/watch?v=LuNmfDmeCTc",
@@ -64,10 +86,10 @@
       "publishedAt": "2013-07-12",
       "viewCount": "1517万",
       "likeCount": "10.02万",
-      "commentCount": "6754"
+      "commentCount": "6756"
     },
     {
-      "rank": 1904,
+      "rank": 1905,
       "thumb": {
         "img": "https://i.ytimg.com/vi/uSFdckpwXQc/default.jpg",
         "url": "https://www.youtube.com/watch?v=uSFdckpwXQc",
@@ -89,7 +111,7 @@
       "commentCount": "2338"
     },
     {
-      "rank": 1905,
+      "rank": 1906,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vHm0RWaf0FE/default.jpg",
         "url": "https://www.youtube.com/watch?v=vHm0RWaf0FE",
@@ -111,28 +133,6 @@
       "commentCount": "-"
     },
     {
-      "rank": 1906,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/yZaiV-G3pbE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=yZaiV-G3pbE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "CREAM - PLAYBOY Remix feat. t-Ace",
-        "url": "https://www.youtube.com/watch?v=yZaiV-G3pbE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "CREAM OFFICIAL",
-        "url": "https://www.youtube.com/channel/UCijutLKQjb9a_aA33NmoECw",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-01-28",
-      "viewCount": "1914万",
-      "likeCount": "10万",
-      "commentCount": "2231"
-    },
-    {
       "rank": 1907,
       "thumb": {
         "img": "https://i.ytimg.com/vi/7EuTPTVpuNI/default.jpg",
@@ -150,12 +150,34 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-05",
-      "viewCount": "1249万",
-      "likeCount": "10万",
-      "commentCount": "6757"
+      "viewCount": "1250万",
+      "likeCount": "10.01万",
+      "commentCount": "6759"
     },
     {
       "rank": 1908,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/yZaiV-G3pbE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=yZaiV-G3pbE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "CREAM - PLAYBOY Remix feat. t-Ace",
+        "url": "https://www.youtube.com/watch?v=yZaiV-G3pbE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "CREAM OFFICIAL",
+        "url": "https://www.youtube.com/channel/UCijutLKQjb9a_aA33NmoECw",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-01-28",
+      "viewCount": "1914万",
+      "likeCount": "10.01万",
+      "commentCount": "2233"
+    },
+    {
+      "rank": 1909,
       "thumb": {
         "img": "https://i.ytimg.com/vi/wP6K8WfaF60/default.jpg",
         "url": "https://www.youtube.com/watch?v=wP6K8WfaF60",
@@ -177,7 +199,7 @@
       "commentCount": "3904"
     },
     {
-      "rank": 1909,
+      "rank": 1910,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qJ-Drv9tVjI/default.jpg",
         "url": "https://www.youtube.com/watch?v=qJ-Drv9tVjI",
@@ -194,31 +216,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-08",
-      "viewCount": "3751万",
+      "viewCount": "3752万",
       "likeCount": "9.99万",
       "commentCount": "7656"
-    },
-    {
-      "rank": 1910,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/6W8mmtgeOzY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=6W8mmtgeOzY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "乃木坂46 『きっかけ』",
-        "url": "https://www.youtube.com/watch?v=6W8mmtgeOzY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "乃木坂46 OFFICIAL YouTube CHANNEL",
-        "url": "https://www.youtube.com/channel/UCUzpZpX2wRYOk3J8QTFGxDg",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-07-07",
-      "viewCount": "2035万",
-      "likeCount": "9.99万",
-      "commentCount": "6680"
     },
     {
       "rank": 1911,
@@ -238,12 +238,34 @@
         "target": "_blank"
       },
       "publishedAt": "2024-12-31",
-      "viewCount": "2768万",
-      "likeCount": "9.98万",
-      "commentCount": "2429"
+      "viewCount": "2773万",
+      "likeCount": "9.99万",
+      "commentCount": "2431"
     },
     {
       "rank": 1912,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/6W8mmtgeOzY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=6W8mmtgeOzY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "乃木坂46 『きっかけ』",
+        "url": "https://www.youtube.com/watch?v=6W8mmtgeOzY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "乃木坂46 OFFICIAL YouTube CHANNEL",
+        "url": "https://www.youtube.com/channel/UCUzpZpX2wRYOk3J8QTFGxDg",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-07-07",
+      "viewCount": "2036万",
+      "likeCount": "9.99万",
+      "commentCount": "6681"
+    },
+    {
+      "rank": 1913,
       "thumb": {
         "img": "https://i.ytimg.com/vi/_RRbVhobb9o/default.jpg",
         "url": "https://www.youtube.com/watch?v=_RRbVhobb9o",
@@ -260,12 +282,12 @@
         "target": "_blank"
       },
       "publishedAt": "2016-09-09",
-      "viewCount": "2197万",
+      "viewCount": "2198万",
       "likeCount": "9.95万",
       "commentCount": "4154"
     },
     {
-      "rank": 1913,
+      "rank": 1914,
       "thumb": {
         "img": "https://i.ytimg.com/vi/bVYu3f4qfsU/default.jpg",
         "url": "https://www.youtube.com/watch?v=bVYu3f4qfsU",
@@ -287,7 +309,7 @@
       "commentCount": "-"
     },
     {
-      "rank": 1914,
+      "rank": 1915,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Btr4NN_QSFI/default.jpg",
         "url": "https://www.youtube.com/watch?v=Btr4NN_QSFI",
@@ -309,7 +331,7 @@
       "commentCount": "3731"
     },
     {
-      "rank": 1915,
+      "rank": 1916,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qVrM-BxWybA/default.jpg",
         "url": "https://www.youtube.com/watch?v=qVrM-BxWybA",
@@ -328,10 +350,10 @@
       "publishedAt": "2016-01-26",
       "viewCount": "3540万",
       "likeCount": "9.91万",
-      "commentCount": "4300"
+      "commentCount": "4301"
     },
     {
-      "rank": 1916,
+      "rank": 1917,
       "thumb": {
         "img": "https://i.ytimg.com/vi/VHKMwue-jUE/default.jpg",
         "url": "https://www.youtube.com/watch?v=VHKMwue-jUE",
@@ -348,12 +370,12 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-01",
-      "viewCount": "4146万",
-      "likeCount": "9.9万",
+      "viewCount": "4147万",
+      "likeCount": "9.91万",
       "commentCount": "1万"
     },
     {
-      "rank": 1917,
+      "rank": 1918,
       "thumb": {
         "img": "https://i.ytimg.com/vi/BYReH01GqV8/default.jpg",
         "url": "https://www.youtube.com/watch?v=BYReH01GqV8",
@@ -370,31 +392,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-03-10",
-      "viewCount": "2722万",
+      "viewCount": "2723万",
       "likeCount": "9.89万",
       "commentCount": "7296"
-    },
-    {
-      "rank": 1918,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/JKhw0CKEhMk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=JKhw0CKEhMk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Little Glee Monster 『世界はあなたに笑いかけている』Short Ver.",
-        "url": "https://www.youtube.com/watch?v=JKhw0CKEhMk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "LittleGleeMonsterYT",
-        "url": "https://www.youtube.com/channel/UCC2M6-jBjWuVtrTZZg-ymjg",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-07-05",
-      "viewCount": "2362万",
-      "likeCount": "9.87万",
-      "commentCount": "5304"
     },
     {
       "rank": 1919,
@@ -414,12 +414,34 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-23",
-      "viewCount": "1726万",
-      "likeCount": "9.87万",
+      "viewCount": "1727万",
+      "likeCount": "9.88万",
       "commentCount": "2412"
     },
     {
       "rank": 1920,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/JKhw0CKEhMk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=JKhw0CKEhMk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Little Glee Monster 『世界はあなたに笑いかけている』Short Ver.",
+        "url": "https://www.youtube.com/watch?v=JKhw0CKEhMk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "LittleGleeMonsterYT",
+        "url": "https://www.youtube.com/channel/UCC2M6-jBjWuVtrTZZg-ymjg",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-07-05",
+      "viewCount": "2362万",
+      "likeCount": "9.88万",
+      "commentCount": "5303"
+    },
+    {
+      "rank": 1921,
       "thumb": {
         "img": "https://i.ytimg.com/vi/VGMsTaGAQ3g/default.jpg",
         "url": "https://www.youtube.com/watch?v=VGMsTaGAQ3g",
@@ -441,7 +463,29 @@
       "commentCount": "1112"
     },
     {
-      "rank": 1921,
+      "rank": 1922,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/at3CEJvdg2I/default.jpg",
+        "url": "https://www.youtube.com/watch?v=at3CEJvdg2I",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – lovin’【LIVE from “ゼンジン未到とヴェルトラウム〜銘銘編〜”】",
+        "url": "https://www.youtube.com/watch?v=at3CEJvdg2I",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-02-25",
+      "viewCount": "1335万",
+      "likeCount": "9.87万",
+      "commentCount": "3026"
+    },
+    {
+      "rank": 1923,
       "thumb": {
         "img": "https://i.ytimg.com/vi/pR2E2OatMTQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=pR2E2OatMTQ",
@@ -460,32 +504,32 @@
       "publishedAt": "2015-11-11",
       "viewCount": "2327万",
       "likeCount": "9.87万",
-      "commentCount": "3289"
+      "commentCount": "3290"
     },
     {
-      "rank": 1922,
+      "rank": 1924,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/at3CEJvdg2I/default.jpg",
-        "url": "https://www.youtube.com/watch?v=at3CEJvdg2I",
+        "img": "https://i.ytimg.com/vi/HUTbH6ywrXk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=HUTbH6ywrXk",
         "target": "_blank"
       },
       "title": {
-        "text": "Mrs. GREEN APPLE – lovin’【LIVE from “ゼンジン未到とヴェルトラウム〜銘銘編〜”】",
-        "url": "https://www.youtube.com/watch?v=at3CEJvdg2I",
+        "text": "心を開いて （Music Video）",
+        "url": "https://www.youtube.com/watch?v=HUTbH6ywrXk",
         "target": "_blank"
       },
       "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "text": "zardofficial",
+        "url": "https://www.youtube.com/channel/UC9OXNkUKmf3bUx8N9l8jM2w",
         "target": "_blank"
       },
-      "publishedAt": "2025-02-25",
-      "viewCount": "1333万",
-      "likeCount": "9.86万",
-      "commentCount": "3026"
+      "publishedAt": "2020-04-14",
+      "viewCount": "3325万",
+      "likeCount": "9.85万",
+      "commentCount": "1843"
     },
     {
-      "rank": 1923,
+      "rank": 1925,
       "thumb": {
         "img": "https://i.ytimg.com/vi/BPrslgZKkRI/default.jpg",
         "url": "https://www.youtube.com/watch?v=BPrslgZKkRI",
@@ -507,29 +551,7 @@
       "commentCount": "3662"
     },
     {
-      "rank": 1924,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/HUTbH6ywrXk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=HUTbH6ywrXk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "心を開いて （Music Video）",
-        "url": "https://www.youtube.com/watch?v=HUTbH6ywrXk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "zardofficial",
-        "url": "https://www.youtube.com/channel/UC9OXNkUKmf3bUx8N9l8jM2w",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-04-14",
-      "viewCount": "3323万",
-      "likeCount": "9.85万",
-      "commentCount": "1843"
-    },
-    {
-      "rank": 1925,
+      "rank": 1926,
       "thumb": {
         "img": "https://i.ytimg.com/vi/bzhER32wO_U/default.jpg",
         "url": "https://www.youtube.com/watch?v=bzhER32wO_U",
@@ -551,7 +573,7 @@
       "commentCount": "2383"
     },
     {
-      "rank": 1926,
+      "rank": 1927,
       "thumb": {
         "img": "https://i.ytimg.com/vi/NYbZ4nR0g38/default.jpg",
         "url": "https://www.youtube.com/watch?v=NYbZ4nR0g38",
@@ -573,7 +595,7 @@
       "commentCount": "5126"
     },
     {
-      "rank": 1927,
+      "rank": 1928,
       "thumb": {
         "img": "https://i.ytimg.com/vi/HkIhnJ9Y-2A/default.jpg",
         "url": "https://www.youtube.com/watch?v=HkIhnJ9Y-2A",
@@ -590,12 +612,12 @@
         "target": "_blank"
       },
       "publishedAt": "2012-06-13",
-      "viewCount": "3633万",
+      "viewCount": "3634万",
       "likeCount": "9.81万",
       "commentCount": "2948"
     },
     {
-      "rank": 1928,
+      "rank": 1929,
       "thumb": {
         "img": "https://i.ytimg.com/vi/edeBkHxmJWM/default.jpg",
         "url": "https://www.youtube.com/watch?v=edeBkHxmJWM",
@@ -612,12 +634,34 @@
         "target": "_blank"
       },
       "publishedAt": "2018-12-18",
-      "viewCount": "1063万",
+      "viewCount": "1064万",
       "likeCount": "9.81万",
-      "commentCount": "1497"
+      "commentCount": "1498"
     },
     {
-      "rank": 1929,
+      "rank": 1930,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/iw_1zU2MSc8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=iw_1zU2MSc8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "西野カナ『トリセツ』MV Full",
+        "url": "https://www.youtube.com/watch?v=iw_1zU2MSc8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-06-28",
+      "viewCount": "1433万",
+      "likeCount": "9.8万",
+      "commentCount": "2701"
+    },
+    {
+      "rank": 1931,
       "thumb": {
         "img": "https://i.ytimg.com/vi/u92-LNtnwlg/default.jpg",
         "url": "https://www.youtube.com/watch?v=u92-LNtnwlg",
@@ -639,29 +683,7 @@
       "commentCount": "4128"
     },
     {
-      "rank": 1930,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/iw_1zU2MSc8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=iw_1zU2MSc8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "西野カナ『トリセツ』MV Full",
-        "url": "https://www.youtube.com/watch?v=iw_1zU2MSc8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-06-28",
-      "viewCount": "1432万",
-      "likeCount": "9.8万",
-      "commentCount": "2700"
-    },
-    {
-      "rank": 1931,
+      "rank": 1932,
       "thumb": {
         "img": "https://i.ytimg.com/vi/1zKo_I8VhkA/default.jpg",
         "url": "https://www.youtube.com/watch?v=1zKo_I8VhkA",
@@ -683,7 +705,7 @@
       "commentCount": "2179"
     },
     {
-      "rank": 1932,
+      "rank": 1933,
       "thumb": {
         "img": "https://i.ytimg.com/vi/wwmBAlispZI/default.jpg",
         "url": "https://www.youtube.com/watch?v=wwmBAlispZI",
@@ -700,12 +722,12 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-02",
-      "viewCount": "1290万",
+      "viewCount": "1291万",
       "likeCount": "9.79万",
       "commentCount": "1921"
     },
     {
-      "rank": 1933,
+      "rank": 1934,
       "thumb": {
         "img": "https://i.ytimg.com/vi/H51Xj5aEgkA/default.jpg",
         "url": "https://www.youtube.com/watch?v=H51Xj5aEgkA",
@@ -722,12 +744,12 @@
         "target": "_blank"
       },
       "publishedAt": "2010-03-23",
-      "viewCount": "2855万",
+      "viewCount": "2856万",
       "likeCount": "9.77万",
-      "commentCount": "8428"
+      "commentCount": "8429"
     },
     {
-      "rank": 1934,
+      "rank": 1935,
       "thumb": {
         "img": "https://i.ytimg.com/vi/gNieKej1GAM/default.jpg",
         "url": "https://www.youtube.com/watch?v=gNieKej1GAM",
@@ -744,12 +766,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-03",
-      "viewCount": "1936万",
-      "likeCount": "9.76万",
+      "viewCount": "1938万",
+      "likeCount": "9.77万",
       "commentCount": "1277"
     },
     {
-      "rank": 1935,
+      "rank": 1936,
       "thumb": {
         "img": "https://i.ytimg.com/vi/-qoVeoG8XuU/default.jpg",
         "url": "https://www.youtube.com/watch?v=-qoVeoG8XuU",
@@ -766,12 +788,12 @@
         "target": "_blank"
       },
       "publishedAt": "2014-12-09",
-      "viewCount": "2123万",
+      "viewCount": "2124万",
       "likeCount": "9.75万",
-      "commentCount": "7528"
+      "commentCount": "7531"
     },
     {
-      "rank": 1936,
+      "rank": 1937,
       "thumb": {
         "img": "https://i.ytimg.com/vi/rFlsY2F7K-M/default.jpg",
         "url": "https://www.youtube.com/watch?v=rFlsY2F7K-M",
@@ -793,7 +815,7 @@
       "commentCount": "1891"
     },
     {
-      "rank": 1937,
+      "rank": 1938,
       "thumb": {
         "img": "https://i.ytimg.com/vi/2fmucSKJXxQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=2fmucSKJXxQ",
@@ -810,12 +832,12 @@
         "target": "_blank"
       },
       "publishedAt": "2019-05-20",
-      "viewCount": "1580万",
+      "viewCount": "1581万",
       "likeCount": "9.72万",
       "commentCount": "-"
     },
     {
-      "rank": 1938,
+      "rank": 1939,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qo55wGLXcOQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=qo55wGLXcOQ",
@@ -832,12 +854,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-09",
-      "viewCount": "1472万",
+      "viewCount": "1473万",
       "likeCount": "9.72万",
-      "commentCount": "4984"
+      "commentCount": "4983"
     },
     {
-      "rank": 1939,
+      "rank": 1940,
       "thumb": {
         "img": "https://i.ytimg.com/vi/pZDqElqNW34/default.jpg",
         "url": "https://www.youtube.com/watch?v=pZDqElqNW34",
@@ -859,7 +881,7 @@
       "commentCount": "1.7万"
     },
     {
-      "rank": 1940,
+      "rank": 1941,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Oy_UURDHcEU/default.jpg",
         "url": "https://www.youtube.com/watch?v=Oy_UURDHcEU",
@@ -881,7 +903,7 @@
       "commentCount": "4332"
     },
     {
-      "rank": 1941,
+      "rank": 1942,
       "thumb": {
         "img": "https://i.ytimg.com/vi/fPZ37t3nvco/default.jpg",
         "url": "https://www.youtube.com/watch?v=fPZ37t3nvco",
@@ -903,7 +925,7 @@
       "commentCount": "1.8万"
     },
     {
-      "rank": 1942,
+      "rank": 1943,
       "thumb": {
         "img": "https://i.ytimg.com/vi/5DNqESedFMk/default.jpg",
         "url": "https://www.youtube.com/watch?v=5DNqESedFMk",
@@ -920,12 +942,12 @@
         "target": "_blank"
       },
       "publishedAt": "2024-09-24",
-      "viewCount": "1237万",
+      "viewCount": "1238万",
       "likeCount": "9.69万",
-      "commentCount": "2231"
+      "commentCount": "2233"
     },
     {
-      "rank": 1943,
+      "rank": 1944,
       "thumb": {
         "img": "https://i.ytimg.com/vi/7xRWOylrLfI/default.jpg",
         "url": "https://www.youtube.com/watch?v=7xRWOylrLfI",
@@ -942,12 +964,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-07",
-      "viewCount": "1833万",
-      "likeCount": "9.68万",
+      "viewCount": "1834万",
+      "likeCount": "9.69万",
       "commentCount": "3359"
     },
     {
-      "rank": 1944,
+      "rank": 1945,
       "thumb": {
         "img": "https://i.ytimg.com/vi/VjAxLbmy83E/default.jpg",
         "url": "https://www.youtube.com/watch?v=VjAxLbmy83E",
@@ -965,11 +987,33 @@
       },
       "publishedAt": "2016-09-21",
       "viewCount": "1384万",
-      "likeCount": "9.67万",
-      "commentCount": "2309"
+      "likeCount": "9.68万",
+      "commentCount": "2308"
     },
     {
-      "rank": 1945,
+      "rank": 1946,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1Xxnp0Q1GYQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1Xxnp0Q1GYQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ヒャダインのじょーじょーゆーじょーで、PVを作ってみた",
+        "url": "https://www.youtube.com/watch?v=1Xxnp0Q1GYQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ヒャダイン Hyadain",
+        "url": "https://www.youtube.com/channel/UCXkTUvGpbyvufhip8J04G5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-07-19",
+      "viewCount": "1282万",
+      "likeCount": "9.67万",
+      "commentCount": "5612"
+    },
+    {
+      "rank": 1947,
       "thumb": {
         "img": "https://i.ytimg.com/vi/BMG_ZlqwOZM/default.jpg",
         "url": "https://www.youtube.com/watch?v=BMG_ZlqwOZM",
@@ -991,29 +1035,7 @@
       "commentCount": "10.5万"
     },
     {
-      "rank": 1946,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1Xxnp0Q1GYQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1Xxnp0Q1GYQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ヒャダインのじょーじょーゆーじょーで、PVを作ってみた",
-        "url": "https://www.youtube.com/watch?v=1Xxnp0Q1GYQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ヒャダイン Hyadain",
-        "url": "https://www.youtube.com/channel/UCXkTUvGpbyvufhip8J04G5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-07-19",
-      "viewCount": "1281万",
-      "likeCount": "9.67万",
-      "commentCount": "5612"
-    },
-    {
-      "rank": 1947,
+      "rank": 1948,
       "thumb": {
         "img": "https://i.ytimg.com/vi/sapgmOmPmFU/default.jpg",
         "url": "https://www.youtube.com/watch?v=sapgmOmPmFU",
@@ -1030,12 +1052,12 @@
         "target": "_blank"
       },
       "publishedAt": "2014-08-23",
-      "viewCount": "3504万",
+      "viewCount": "3505万",
       "likeCount": "9.64万",
       "commentCount": "4001"
     },
     {
-      "rank": 1948,
+      "rank": 1949,
       "thumb": {
         "img": "https://i.ytimg.com/vi/35FbwCIxT0g/default.jpg",
         "url": "https://www.youtube.com/watch?v=35FbwCIxT0g",
@@ -1054,29 +1076,7 @@
       "publishedAt": "2014-06-25",
       "viewCount": "1362万",
       "likeCount": "9.63万",
-      "commentCount": "5215"
-    },
-    {
-      "rank": 1949,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/q8zIc4fxHTM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=q8zIc4fxHTM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BASI / これだけで十分なのに（BASI REMIX）- Official Video -",
-        "url": "https://www.youtube.com/watch?v=q8zIc4fxHTM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BASICMUSICTV",
-        "url": "https://www.youtube.com/channel/UC1xIFEp8N54S8HAG8NU68Xg",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-12-14",
-      "viewCount": "1951万",
-      "likeCount": "9.61万",
-      "commentCount": "2187"
+      "commentCount": "5217"
     },
     {
       "rank": 1950,

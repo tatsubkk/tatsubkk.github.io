@@ -3,6 +3,29 @@
     {
       "rank": 651,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/qivRUhepWVA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=qivRUhepWVA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "怪物",
+        "url": "https://www.youtube.com/watch?v=qivRUhepWVA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-11-30",
+      "viewCount": "4888万",
+      "likeCount": "12.1万",
+      "commentCount": "350",
+      "increment_d1": "3.52万"
+    },
+    {
+      "rank": 652,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/vkcTN70fnXA/default.jpg",
         "url": "https://www.youtube.com/watch?v=vkcTN70fnXA",
         "target": "_blank"
@@ -21,30 +44,7 @@
       "viewCount": "4885万",
       "likeCount": "13.6万",
       "commentCount": "6645",
-      "increment_d1": "2744"
-    },
-    {
-      "rank": 652,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/qivRUhepWVA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=qivRUhepWVA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "怪物",
-        "url": "https://www.youtube.com/watch?v=qivRUhepWVA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-30",
-      "viewCount": "4884万",
-      "likeCount": "12.1万",
-      "commentCount": "350",
-      "increment_d1": "2.75万"
+      "increment_d1": "2584"
     },
     {
       "rank": 653,
@@ -64,13 +64,36 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-05",
-      "viewCount": "4882万",
+      "viewCount": "4885万",
       "likeCount": "30.9万",
       "commentCount": "2.5万",
-      "increment_d1": "2.99万"
+      "increment_d1": "3.26万"
     },
     {
       "rank": 654,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/i1wofkI11g8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=i1wofkI11g8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – ケセラセラ(第65回 輝く！日本レコード大賞受賞曲)【LIVE from “Atlantis”】",
+        "url": "https://www.youtube.com/watch?v=i1wofkI11g8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-12-27",
+      "viewCount": "4884万",
+      "likeCount": "17.9万",
+      "commentCount": "5916",
+      "increment_d1": "4.04万"
+    },
+    {
+      "rank": 655,
       "thumb": {
         "img": "https://i.ytimg.com/vi/X_uefh0Etao/default.jpg",
         "url": "https://www.youtube.com/watch?v=X_uefh0Etao",
@@ -87,13 +110,13 @@
         "target": "_blank"
       },
       "publishedAt": "2017-02-04",
-      "viewCount": "4881万",
+      "viewCount": "4882万",
       "likeCount": "35.9万",
       "commentCount": "3701",
-      "increment_d1": "7484"
+      "increment_d1": "7130"
     },
     {
-      "rank": 655,
+      "rank": 656,
       "thumb": {
         "img": "https://i.ytimg.com/vi/BCt9lS_Uv_Y/default.jpg",
         "url": "https://www.youtube.com/watch?v=BCt9lS_Uv_Y",
@@ -112,31 +135,8 @@
       "publishedAt": "2017-04-21",
       "viewCount": "4881万",
       "likeCount": "23.3万",
-      "commentCount": "3552",
-      "increment_d1": "9473"
-    },
-    {
-      "rank": 656,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/i1wofkI11g8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=i1wofkI11g8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – ケセラセラ(第65回 輝く！日本レコード大賞受賞曲)【LIVE from “Atlantis”】",
-        "url": "https://www.youtube.com/watch?v=i1wofkI11g8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-12-27",
-      "viewCount": "4880万",
-      "likeCount": "17.9万",
-      "commentCount": "5912",
-      "increment_d1": "4.11万"
+      "commentCount": "3553",
+      "increment_d1": "9311"
     },
     {
       "rank": 657,
@@ -159,7 +159,7 @@
       "viewCount": "4877万",
       "likeCount": "16.7万",
       "commentCount": "6668",
-      "increment_d1": "5544"
+      "increment_d1": "5249"
     },
     {
       "rank": 658,
@@ -179,10 +179,10 @@
         "target": "_blank"
       },
       "publishedAt": "2010-05-26",
-      "viewCount": "4873万",
+      "viewCount": "4874万",
       "likeCount": "29万",
       "commentCount": "7.8万",
-      "increment_d1": "6536"
+      "increment_d1": "6119"
     },
     {
       "rank": 659,
@@ -202,10 +202,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-09-09",
-      "viewCount": "4872万",
+      "viewCount": "4873万",
       "likeCount": "8.8万",
-      "commentCount": "3119",
-      "increment_d1": "5218"
+      "commentCount": "3121",
+      "increment_d1": "5393"
     },
     {
       "rank": 660,
@@ -225,10 +225,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-12-27",
-      "viewCount": "4866万",
+      "viewCount": "4867万",
       "likeCount": "32.9万",
-      "commentCount": "9445",
-      "increment_d1": "9031"
+      "commentCount": "9446",
+      "increment_d1": "8666"
     },
     {
       "rank": 661,
@@ -248,10 +248,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-05",
-      "viewCount": "4863万",
+      "viewCount": "4865万",
       "likeCount": "16.4万",
-      "commentCount": "171",
-      "increment_d1": "2.9万"
+      "commentCount": "170",
+      "increment_d1": "2.93万"
     },
     {
       "rank": 662,
@@ -271,10 +271,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-29",
-      "viewCount": "4854万",
+      "viewCount": "4857万",
       "likeCount": "52.5万",
       "commentCount": "1.2万",
-      "increment_d1": "3.15万"
+      "increment_d1": "2.99万"
     },
     {
       "rank": 663,
@@ -294,10 +294,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-11",
-      "viewCount": "4850万",
+      "viewCount": "4851万",
       "likeCount": "-",
       "commentCount": "5.3万",
-      "increment_d1": "5112"
+      "increment_d1": "5354"
     },
     {
       "rank": 664,
@@ -320,7 +320,7 @@
       "viewCount": "4844万",
       "likeCount": "20.8万",
       "commentCount": "9404",
-      "increment_d1": "1354"
+      "increment_d1": "1319"
     },
     {
       "rank": 665,
@@ -340,10 +340,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-26",
-      "viewCount": "4842万",
+      "viewCount": "4843万",
       "likeCount": "64.3万",
       "commentCount": "1.2万",
-      "increment_d1": "1.29万"
+      "increment_d1": "1.22万"
     },
     {
       "rank": 666,
@@ -365,34 +365,11 @@
       "publishedAt": "2018-12-20",
       "viewCount": "4840万",
       "likeCount": "24.1万",
-      "commentCount": "9971",
-      "increment_d1": "4090"
+      "commentCount": "9972",
+      "increment_d1": "4086"
     },
     {
       "rank": 667,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ztdpBUDf00o/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ztdpBUDf00o",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "あいみょん – 空の青さを知る人よ【OFFICIAL MUSIC VIDEO】",
-        "url": "https://www.youtube.com/watch?v=ztdpBUDf00o",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "あいみょん",
-        "url": "https://www.youtube.com/channel/UCG8MvaPCa2ecKH3GZyFxduA",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-09-19",
-      "viewCount": "4835万",
-      "likeCount": "18.9万",
-      "commentCount": "5879",
-      "increment_d1": "5868"
-    },
-    {
-      "rank": 668,
       "thumb": {
         "img": "https://i.ytimg.com/vi/5YKBgBMynbI/default.jpg",
         "url": "https://www.youtube.com/watch?v=5YKBgBMynbI",
@@ -409,10 +386,33 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-08",
-      "viewCount": "4835万",
+      "viewCount": "4837万",
       "likeCount": "24.2万",
       "commentCount": "5302",
-      "increment_d1": "2.25万"
+      "increment_d1": "2.15万"
+    },
+    {
+      "rank": 668,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ztdpBUDf00o/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ztdpBUDf00o",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "あいみょん – 空の青さを知る人よ【OFFICIAL MUSIC VIDEO】",
+        "url": "https://www.youtube.com/watch?v=ztdpBUDf00o",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "あいみょん",
+        "url": "https://www.youtube.com/channel/UCG8MvaPCa2ecKH3GZyFxduA",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-09-19",
+      "viewCount": "4836万",
+      "likeCount": "18.9万",
+      "commentCount": "5879",
+      "increment_d1": "5899"
     },
     {
       "rank": 669,
@@ -432,10 +432,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-21",
-      "viewCount": "4824万",
+      "viewCount": "4826万",
       "likeCount": "-",
-      "commentCount": "1463",
-      "increment_d1": "1.79万"
+      "commentCount": "1464",
+      "increment_d1": "1.72万"
     },
     {
       "rank": 670,
@@ -455,10 +455,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-05-25",
-      "viewCount": "4823万",
+      "viewCount": "4825万",
       "likeCount": "28.3万",
       "commentCount": "1.2万",
-      "increment_d1": "2.46万"
+      "increment_d1": "2.51万"
     },
     {
       "rank": 671,
@@ -481,10 +481,33 @@
       "viewCount": "4810万",
       "likeCount": "13.3万",
       "commentCount": "6859",
-      "increment_d1": "2975"
+      "increment_d1": "2954"
     },
     {
       "rank": 672,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/VUsURj_OYdA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=VUsURj_OYdA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "米津玄師  - 地球儀　Kenshi Yonezu - Spinning Globe",
+        "url": "https://www.youtube.com/watch?v=VUsURj_OYdA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-07-25",
+      "viewCount": "4810万",
+      "likeCount": "33.5万",
+      "commentCount": "1.3万",
+      "increment_d1": "4.31万"
+    },
+    {
+      "rank": 673,
       "thumb": {
         "img": "https://i.ytimg.com/vi/c2y8Ba3WwPY/default.jpg",
         "url": "https://www.youtube.com/watch?v=c2y8Ba3WwPY",
@@ -503,31 +526,8 @@
       "publishedAt": "2009-07-02",
       "viewCount": "4806万",
       "likeCount": "17.7万",
-      "commentCount": "5989",
-      "increment_d1": "6561"
-    },
-    {
-      "rank": 673,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/VUsURj_OYdA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=VUsURj_OYdA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "米津玄師  - 地球儀　Kenshi Yonezu - Spinning Globe",
-        "url": "https://www.youtube.com/watch?v=VUsURj_OYdA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-07-25",
-      "viewCount": "4805万",
-      "likeCount": "33.5万",
-      "commentCount": "1.3万",
-      "increment_d1": "4.27万"
+      "commentCount": "5988",
+      "increment_d1": "6177"
     },
     {
       "rank": 674,
@@ -550,56 +550,10 @@
       "viewCount": "4798万",
       "likeCount": "33.8万",
       "commentCount": "2.7万",
-      "increment_d1": "882"
+      "increment_d1": "744"
     },
     {
       "rank": 675,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/onhBN0qkUcE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=onhBN0qkUcE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "花占い / Vaundy：MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=onhBN0qkUcE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Vaundy",
-        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-07-04",
-      "viewCount": "4792万",
-      "likeCount": "30万",
-      "commentCount": "4568",
-      "increment_d1": "2.17万"
-    },
-    {
-      "rank": 676,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/TkHcaAVQoiI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=TkHcaAVQoiI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "DISH// - 沈丁花 [Official Video]",
-        "url": "https://www.youtube.com/watch?v=TkHcaAVQoiI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "DISH// official YouTube channel",
-        "url": "https://www.youtube.com/channel/UCU6KkThusZwJccr_FQV9kvg",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-10-29",
-      "viewCount": "4788万",
-      "likeCount": "25.6万",
-      "commentCount": "7783",
-      "increment_d1": "1.53万"
-    },
-    {
-      "rank": 677,
       "thumb": {
         "img": "https://i.ytimg.com/vi/M4-XU0a2hf0/default.jpg",
         "url": "https://www.youtube.com/watch?v=M4-XU0a2hf0",
@@ -616,10 +570,56 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-03",
-      "viewCount": "4787万",
+      "viewCount": "4794万",
       "likeCount": "20.4万",
-      "commentCount": "584",
-      "increment_d1": "6.28万"
+      "commentCount": "585",
+      "increment_d1": "6.59万"
+    },
+    {
+      "rank": 676,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/onhBN0qkUcE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=onhBN0qkUcE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "花占い / Vaundy：MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=onhBN0qkUcE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Vaundy",
+        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-07-04",
+      "viewCount": "4794万",
+      "likeCount": "30万",
+      "commentCount": "4568",
+      "increment_d1": "2.02万"
+    },
+    {
+      "rank": 677,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/TkHcaAVQoiI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=TkHcaAVQoiI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "DISH// - 沈丁花 [Official Video]",
+        "url": "https://www.youtube.com/watch?v=TkHcaAVQoiI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "DISH// official YouTube channel",
+        "url": "https://www.youtube.com/channel/UCU6KkThusZwJccr_FQV9kvg",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-10-29",
+      "viewCount": "4789万",
+      "likeCount": "25.7万",
+      "commentCount": "7783",
+      "increment_d1": "1.44万"
     },
     {
       "rank": 678,
@@ -639,10 +639,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-23",
-      "viewCount": "4769万",
+      "viewCount": "4771万",
       "likeCount": "16.1万",
-      "commentCount": "4375",
-      "increment_d1": "1.72万"
+      "commentCount": "4376",
+      "increment_d1": "1.59万"
     },
     {
       "rank": 679,
@@ -662,10 +662,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-21",
-      "viewCount": "4764万",
+      "viewCount": "4765万",
       "likeCount": "31.3万",
       "commentCount": "1.3万",
-      "increment_d1": "5585"
+      "increment_d1": "4882"
     },
     {
       "rank": 680,
@@ -686,9 +686,9 @@
       },
       "publishedAt": "2020-12-11",
       "viewCount": "4758万",
-      "likeCount": "61.1万",
+      "likeCount": "61.2万",
       "commentCount": "1.3万",
-      "increment_d1": "3049"
+      "increment_d1": "3236"
     },
     {
       "rank": 681,
@@ -711,10 +711,33 @@
       "viewCount": "4755万",
       "likeCount": "-",
       "commentCount": "3.6万",
-      "increment_d1": "2944"
+      "increment_d1": "2809"
     },
     {
       "rank": 682,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ENcnYh79dUY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ENcnYh79dUY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ヨルシカ - 思想犯（OFFICIAL VIDEO）",
+        "url": "https://www.youtube.com/watch?v=ENcnYh79dUY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ヨルシカ / n-buna Official",
+        "url": "https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-06-24",
+      "viewCount": "4753万",
+      "likeCount": "31.6万",
+      "commentCount": "1.1万",
+      "increment_d1": "1.53万"
+    },
+    {
+      "rank": 683,
       "thumb": {
         "img": "https://i.ytimg.com/vi/dMSdg2_cPfM/default.jpg",
         "url": "https://www.youtube.com/watch?v=dMSdg2_cPfM",
@@ -734,30 +757,7 @@
       "viewCount": "4752万",
       "likeCount": "52.7万",
       "commentCount": "2.2万",
-      "increment_d1": "620"
-    },
-    {
-      "rank": 683,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ENcnYh79dUY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ENcnYh79dUY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ヨルシカ - 思想犯（OFFICIAL VIDEO）",
-        "url": "https://www.youtube.com/watch?v=ENcnYh79dUY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ヨルシカ / n-buna Official",
-        "url": "https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-06-24",
-      "viewCount": "4751万",
-      "likeCount": "31.6万",
-      "commentCount": "1.1万",
-      "increment_d1": "1.71万"
+      "increment_d1": "598"
     },
     {
       "rank": 684,
@@ -777,10 +777,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-11-29",
-      "viewCount": "4743万",
+      "viewCount": "4747万",
       "likeCount": "28.3万",
       "commentCount": "1.2万",
-      "increment_d1": "4.15万"
+      "increment_d1": "4.02万"
     },
     {
       "rank": 685,
@@ -800,10 +800,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-03-01",
-      "viewCount": "4743万",
+      "viewCount": "4744万",
       "likeCount": "20.3万",
       "commentCount": "7022",
-      "increment_d1": "4359"
+      "increment_d1": "4318"
     },
     {
       "rank": 686,
@@ -823,10 +823,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-19",
-      "viewCount": "4742万",
+      "viewCount": "4743万",
       "likeCount": "9万",
-      "commentCount": "3879",
-      "increment_d1": "1380"
+      "commentCount": "3874",
+      "increment_d1": "1532"
     },
     {
       "rank": 687,
@@ -849,7 +849,7 @@
       "viewCount": "4729万",
       "likeCount": "11万",
       "commentCount": "5852",
-      "increment_d1": "2655"
+      "increment_d1": "2572"
     },
     {
       "rank": 688,
@@ -869,10 +869,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-10-22",
-      "viewCount": "4722万",
+      "viewCount": "4723万",
       "likeCount": "24.6万",
       "commentCount": "8923",
-      "increment_d1": "1.1万"
+      "increment_d1": "1.11万"
     },
     {
       "rank": 689,
@@ -892,10 +892,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-16",
-      "viewCount": "4713万",
+      "viewCount": "4715万",
       "likeCount": "39.3万",
       "commentCount": "1.5万",
-      "increment_d1": "1.72万"
+      "increment_d1": "1.64万"
     },
     {
       "rank": 690,
@@ -918,7 +918,7 @@
       "viewCount": "4713万",
       "likeCount": "18.2万",
       "commentCount": "2.2万",
-      "increment_d1": "381"
+      "increment_d1": "389"
     },
     {
       "rank": 691,
@@ -938,10 +938,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-07-18",
-      "viewCount": "4706万",
-      "likeCount": "51.5万",
+      "viewCount": "4708万",
+      "likeCount": "51.6万",
       "commentCount": "1.6万",
-      "increment_d1": "1.49万"
+      "increment_d1": "1.54万"
     },
     {
       "rank": 692,
@@ -961,10 +961,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-10-24",
-      "viewCount": "4702万",
+      "viewCount": "4703万",
       "likeCount": "-",
-      "commentCount": "2701",
-      "increment_d1": "7670"
+      "commentCount": "2704",
+      "increment_d1": "7359"
     },
     {
       "rank": 693,
@@ -984,10 +984,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-10",
-      "viewCount": "4691万",
+      "viewCount": "4693万",
       "likeCount": "12.9万",
-      "commentCount": "4147",
-      "increment_d1": "1.93万"
+      "commentCount": "4148",
+      "increment_d1": "1.94万"
     },
     {
       "rank": 694,
@@ -1010,7 +1010,7 @@
       "viewCount": "4687万",
       "likeCount": "25.9万",
       "commentCount": "2万",
-      "increment_d1": "3021"
+      "increment_d1": "3027"
     },
     {
       "rank": 695,
@@ -1030,10 +1030,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-06-21",
-      "viewCount": "4684万",
+      "viewCount": "4686万",
       "likeCount": "41.6万",
-      "commentCount": "2126",
-      "increment_d1": "1.91万"
+      "commentCount": "2128",
+      "increment_d1": "1.86万"
     },
     {
       "rank": 696,
@@ -1053,10 +1053,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-02-28",
-      "viewCount": "4676万",
-      "likeCount": "49.2万",
+      "viewCount": "4683万",
+      "likeCount": "49.3万",
       "commentCount": "1.2万",
-      "increment_d1": "6.9万"
+      "increment_d1": "7.03万"
     },
     {
       "rank": 697,
@@ -1076,10 +1076,10 @@
         "target": "_blank"
       },
       "publishedAt": "2009-07-01",
-      "viewCount": "4669万",
+      "viewCount": "4671万",
       "likeCount": "24.6万",
       "commentCount": "1.1万",
-      "increment_d1": "1.81万"
+      "increment_d1": "1.78万"
     },
     {
       "rank": 698,
@@ -1099,10 +1099,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-06-21",
-      "viewCount": "4666万",
-      "likeCount": "24.3万",
+      "viewCount": "4667万",
+      "likeCount": "24.4万",
       "commentCount": "7500",
-      "increment_d1": "7502"
+      "increment_d1": "7333"
     },
     {
       "rank": 699,
@@ -1122,10 +1122,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-05-11",
-      "viewCount": "4664万",
+      "viewCount": "4665万",
       "likeCount": "-",
       "commentCount": "4.6万",
-      "increment_d1": "4965"
+      "increment_d1": "4884"
     },
     {
       "rank": 700,
@@ -1145,10 +1145,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-05-24",
-      "viewCount": "4663万",
+      "viewCount": "4664万",
       "likeCount": "14.7万",
       "commentCount": "1.2万",
-      "increment_d1": "7168"
+      "increment_d1": "7260"
     }
   ]
 }

@@ -18,7 +18,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-05-15",
-      "viewCount": "1億8536万",
+      "viewCount": "1億8537万",
       "likeCount": "33.1万",
       "commentCount": "2.29万"
     },
@@ -40,7 +40,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-04-25",
-      "viewCount": "8745万",
+      "viewCount": "8746万",
       "likeCount": "31.7万",
       "commentCount": "2.28万"
     },
@@ -62,7 +62,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-18",
-      "viewCount": "1億597万",
+      "viewCount": "1億599万",
       "likeCount": "79.9万",
       "commentCount": "2.27万"
     },
@@ -84,7 +84,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-12-11",
-      "viewCount": "1億4192万",
+      "viewCount": "1億4194万",
       "likeCount": "49.5万",
       "commentCount": "2.27万"
     },
@@ -195,7 +195,7 @@
       },
       "publishedAt": "2019-08-08",
       "viewCount": "2403万",
-      "likeCount": "12.3万",
+      "likeCount": "12.4万",
       "commentCount": "2.25万"
     },
     {
@@ -223,6 +223,50 @@
     {
       "rank": 411,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/xGbxsiBZGPI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=xGbxsiBZGPI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ONE OK ROCK 「完全感覚Dreamer」",
+        "url": "https://www.youtube.com/watch?v=xGbxsiBZGPI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "A-Sketch MUSIC LABEL",
+        "url": "https://www.youtube.com/channel/UCdIGbKA_8trRiOq7eGZ7oSA",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-05-13",
+      "viewCount": "1億3534万",
+      "likeCount": "58.7万",
+      "commentCount": "2.25万"
+    },
+    {
+      "rank": 412,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/766qmHTc2ro/default.jpg",
+        "url": "https://www.youtube.com/watch?v=766qmHTc2ro",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "美波「アメヲマツ、」MV",
+        "url": "https://www.youtube.com/watch?v=766qmHTc2ro",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "美波",
+        "url": "https://www.youtube.com/channel/UC2JzylaIF8qeowc7-5VwwmA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-06-30",
+      "viewCount": "7989万",
+      "likeCount": "90.8万",
+      "commentCount": "2.25万"
+    },
+    {
+      "rank": 413,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/c64sQsABKcM/default.jpg",
         "url": "https://www.youtube.com/watch?v=c64sQsABKcM",
         "target": "_blank"
@@ -240,50 +284,6 @@
       "publishedAt": "2015-12-13",
       "viewCount": "6025万",
       "likeCount": "31.8万",
-      "commentCount": "2.25万"
-    },
-    {
-      "rank": 412,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/xGbxsiBZGPI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=xGbxsiBZGPI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ONE OK ROCK 「完全感覚Dreamer」",
-        "url": "https://www.youtube.com/watch?v=xGbxsiBZGPI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "A-Sketch MUSIC LABEL",
-        "url": "https://www.youtube.com/channel/UCdIGbKA_8trRiOq7eGZ7oSA",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-05-13",
-      "viewCount": "1億3532万",
-      "likeCount": "58.7万",
-      "commentCount": "2.25万"
-    },
-    {
-      "rank": 413,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/766qmHTc2ro/default.jpg",
-        "url": "https://www.youtube.com/watch?v=766qmHTc2ro",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "美波「アメヲマツ、」MV",
-        "url": "https://www.youtube.com/watch?v=766qmHTc2ro",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "美波",
-        "url": "https://www.youtube.com/channel/UC2JzylaIF8qeowc7-5VwwmA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-06-30",
-      "viewCount": "7987万",
-      "likeCount": "90.7万",
       "commentCount": "2.25万"
     },
     {
@@ -348,9 +348,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-11-06",
-      "viewCount": "6559万",
+      "viewCount": "6560万",
       "likeCount": "43.4万",
-      "commentCount": "2.24万"
+      "commentCount": "2.23万"
     },
     {
       "rank": 417,
@@ -370,7 +370,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-20",
-      "viewCount": "1億5479万",
+      "viewCount": "1億5485万",
       "likeCount": "162万",
       "commentCount": "2.22万"
     },
@@ -414,7 +414,7 @@
         "target": "_blank"
       },
       "publishedAt": "2025-06-12",
-      "viewCount": "3754万",
+      "viewCount": "3759万",
       "likeCount": "21.2万",
       "commentCount": "2.21万"
     },
@@ -458,9 +458,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-28",
-      "viewCount": "1億2966万",
+      "viewCount": "1億2975万",
       "likeCount": "52.9万",
-      "commentCount": "2.2万"
+      "commentCount": "2.21万"
     },
     {
       "rank": 422,
@@ -480,7 +480,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-02-13",
-      "viewCount": "7939万",
+      "viewCount": "7942万",
       "likeCount": "84万",
       "commentCount": "2.2万"
     },
@@ -502,7 +502,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-03-03",
-      "viewCount": "6929万",
+      "viewCount": "6930万",
       "likeCount": "55.7万",
       "commentCount": "2.19万"
     },
@@ -524,7 +524,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-12-19",
-      "viewCount": "7251万",
+      "viewCount": "7254万",
       "likeCount": "78.3万",
       "commentCount": "2.19万"
     },
@@ -568,7 +568,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-02-22",
-      "viewCount": "4975万",
+      "viewCount": "4976万",
       "likeCount": "40.1万",
       "commentCount": "2.19万"
     },
@@ -634,7 +634,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-10-01",
-      "viewCount": "7848万",
+      "viewCount": "7850万",
       "likeCount": "70.3万",
       "commentCount": "2.18万"
     },
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-01-09",
-      "viewCount": "2875万",
+      "viewCount": "2876万",
       "likeCount": "57.1万",
       "commentCount": "2.18万"
     },
@@ -700,7 +700,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-10-30",
-      "viewCount": "1億3006万",
+      "viewCount": "1億3008万",
       "likeCount": "72.9万",
       "commentCount": "2.18万"
     },
@@ -744,7 +744,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-07-31",
-      "viewCount": "5723万",
+      "viewCount": "5724万",
       "likeCount": "53.3万",
       "commentCount": "2.17万"
     },
@@ -766,7 +766,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-01",
-      "viewCount": "4368万",
+      "viewCount": "4370万",
       "likeCount": "-",
       "commentCount": "2.17万"
     },
@@ -788,7 +788,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-06-12",
-      "viewCount": "3243万",
+      "viewCount": "3244万",
       "likeCount": "45.6万",
       "commentCount": "2.17万"
     },
@@ -832,7 +832,7 @@
         "target": "_blank"
       },
       "publishedAt": "2008-12-18",
-      "viewCount": "5006万",
+      "viewCount": "5007万",
       "likeCount": "28.9万",
       "commentCount": "2.16万"
     },
@@ -861,28 +861,6 @@
     {
       "rank": 440,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/5g6E_UY5G88/default.jpg",
-        "url": "https://www.youtube.com/watch?v=5g6E_UY5G88",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SixTONES – バリア [YouTube ver.]",
-        "url": "https://www.youtube.com/watch?v=5g6E_UY5G88",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SixTONES",
-        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-02-14",
-      "viewCount": "1809万",
-      "likeCount": "14万",
-      "commentCount": "2.15万"
-    },
-    {
-      "rank": 441,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/ufc54RdoitM/default.jpg",
         "url": "https://www.youtube.com/watch?v=ufc54RdoitM",
         "target": "_blank"
@@ -898,9 +876,31 @@
         "target": "_blank"
       },
       "publishedAt": "2025-08-24",
-      "viewCount": "5699万",
-      "likeCount": "24万",
-      "commentCount": "2.15万"
+      "viewCount": "5710万",
+      "likeCount": "24.1万",
+      "commentCount": "2.16万"
+    },
+    {
+      "rank": 441,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/5g6E_UY5G88/default.jpg",
+        "url": "https://www.youtube.com/watch?v=5g6E_UY5G88",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SixTONES – バリア [YouTube ver.]",
+        "url": "https://www.youtube.com/watch?v=5g6E_UY5G88",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SixTONES",
+        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-02-14",
+      "viewCount": "1810万",
+      "likeCount": "14万",
+      "commentCount": "2.16万"
     },
     {
       "rank": 442,
@@ -942,7 +942,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-07",
-      "viewCount": "5875万",
+      "viewCount": "5877万",
       "likeCount": "-",
       "commentCount": "2.15万"
     },
@@ -964,8 +964,8 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-14",
-      "viewCount": "2億8109万",
-      "likeCount": "132万",
+      "viewCount": "2億8115万",
+      "likeCount": "133万",
       "commentCount": "2.14万"
     },
     {
@@ -986,7 +986,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-16",
-      "viewCount": "8566万",
+      "viewCount": "8572万",
       "likeCount": "116万",
       "commentCount": "2.14万"
     },
@@ -1074,7 +1074,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-06",
-      "viewCount": "1億5544万",
+      "viewCount": "1億5550万",
       "likeCount": "128万",
       "commentCount": "2.13万"
     },
@@ -1096,8 +1096,8 @@
         "target": "_blank"
       },
       "publishedAt": "2013-01-07",
-      "viewCount": "5721万",
-      "likeCount": "47.2万",
+      "viewCount": "5723万",
+      "likeCount": "47.3万",
       "commentCount": "2.12万"
     }
   ]

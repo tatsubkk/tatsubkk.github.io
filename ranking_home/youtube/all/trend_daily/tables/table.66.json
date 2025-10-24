@@ -3,6 +3,29 @@
     {
       "rank": 3251,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/JgV5NTcX3WY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=JgV5NTcX3WY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【1200万回再生突破！】ねぼすけとうさん〈新沢としひこの「手あそびクルリンパ！」〉",
+        "url": "https://www.youtube.com/watch?v=JgV5NTcX3WY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "アスク・ミュージック公式チャンネル",
+        "url": "https://www.youtube.com/channel/UC9WYPe8SuMhaaHbFg03Pxjg",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-07-30",
+      "viewCount": "1221万",
+      "likeCount": "1.8万",
+      "commentCount": "-",
+      "increment_d1": "13"
+    },
+    {
+      "rank": 3252,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/d62El5YUbS8/default.jpg",
         "url": "https://www.youtube.com/watch?v=d62El5YUbS8",
         "target": "_blank"
@@ -21,10 +44,10 @@
       "viewCount": "1580万",
       "likeCount": "2.2万",
       "commentCount": "428",
-      "increment_d1": "19"
+      "increment_d1": "12"
     },
     {
-      "rank": 3252,
+      "rank": 3253,
       "thumb": {
         "img": "https://i.ytimg.com/vi/eDBOGihYl10/default.jpg",
         "url": "https://www.youtube.com/watch?v=eDBOGihYl10",
@@ -45,29 +68,6 @@
       "likeCount": "1845",
       "commentCount": "55",
       "increment_d1": "5"
-    },
-    {
-      "rank": 3253,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/wFKvOPQyVL0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=wFKvOPQyVL0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "KICK THE CAN CREW「千％」MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=wFKvOPQyVL0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Victor Entertainment",
-        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-06-18",
-      "viewCount": "1122万",
-      "likeCount": "6万",
-      "commentCount": "3100",
-      "increment_d1": "-1106"
     }
   ]
 }
