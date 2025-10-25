@@ -3,6 +3,29 @@
     {
       "rank": 801,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/RY0VC4A4saE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=RY0VC4A4saE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "西野カナ 『もしも運命の人がいるのなら』MV(Short Ver.)",
+        "url": "https://www.youtube.com/watch?v=RY0VC4A4saE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-04-08",
+      "viewCount": "4127万",
+      "likeCount": "8.5万",
+      "commentCount": "2821",
+      "increment_d1": "962"
+    },
+    {
+      "rank": 802,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/PiQpGzYMVos/default.jpg",
         "url": "https://www.youtube.com/watch?v=PiQpGzYMVos",
         "target": "_blank"
@@ -20,11 +43,11 @@
       "publishedAt": "2015-10-09",
       "viewCount": "4126万",
       "likeCount": "16万",
-      "commentCount": "3511",
+      "commentCount": "3512",
       "increment_d1": "5870"
     },
     {
-      "rank": 802,
+      "rank": 803,
       "thumb": {
         "img": "https://i.ytimg.com/vi/jmKRgqWGrWc/default.jpg",
         "url": "https://www.youtube.com/watch?v=jmKRgqWGrWc",
@@ -41,33 +64,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-02-02",
-      "viewCount": "4124万",
+      "viewCount": "4125万",
       "likeCount": "34.6万",
-      "commentCount": "8626",
-      "increment_d1": "1.11万"
-    },
-    {
-      "rank": 803,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/AOfaWrBwo7I/default.jpg",
-        "url": "https://www.youtube.com/watch?v=AOfaWrBwo7I",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "tuki.『ひゅるりらぱっぱ』Official Music Video",
-        "url": "https://www.youtube.com/watch?v=AOfaWrBwo7I",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "tuki.(16)",
-        "url": "https://www.youtube.com/channel/UCp74ruKv2sUiI2HqEhH8pRw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-08-09",
-      "viewCount": "4120万",
-      "likeCount": "43.6万",
-      "commentCount": "6355",
-      "increment_d1": "11.01万"
+      "commentCount": "8630",
+      "increment_d1": "1.15万"
     },
     {
       "rank": 804,
@@ -87,10 +87,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-02-16",
-      "viewCount": "4112万",
+      "viewCount": "4114万",
       "likeCount": "45.6万",
-      "commentCount": "8321",
-      "increment_d1": "1.46万"
+      "commentCount": "8320",
+      "increment_d1": "1.47万"
     },
     {
       "rank": 805,
@@ -110,10 +110,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-27",
-      "viewCount": "4106万",
+      "viewCount": "4107万",
       "likeCount": "18.2万",
       "commentCount": "1万",
-      "increment_d1": "7292"
+      "increment_d1": "7386"
     },
     {
       "rank": 806,
@@ -133,10 +133,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-04",
-      "viewCount": "4105万",
+      "viewCount": "4106万",
       "likeCount": "-",
       "commentCount": "1.9万",
-      "increment_d1": "4397"
+      "increment_d1": "4111"
     },
     {
       "rank": 807,
@@ -159,33 +159,10 @@
       "viewCount": "4097万",
       "likeCount": "26万",
       "commentCount": "1.5万",
-      "increment_d1": "3071"
+      "increment_d1": "3532"
     },
     {
       "rank": 808,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/QJie7dTvbjQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=QJie7dTvbjQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "majiko - 心做し [LIVE]",
-        "url": "https://www.youtube.com/watch?v=QJie7dTvbjQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "majiko / まじ娘 OFFICIAL CHANNEL",
-        "url": "https://www.youtube.com/channel/UCT4_Eu49Yy0ydqP57DUl3nQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-03-07",
-      "viewCount": "4093万",
-      "likeCount": "79.1万",
-      "commentCount": "2万",
-      "increment_d1": "1.12万"
-    },
-    {
-      "rank": 809,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ow5FBOBAdhU/default.jpg",
         "url": "https://www.youtube.com/watch?v=ow5FBOBAdhU",
@@ -202,10 +179,33 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-17",
-      "viewCount": "4093万",
+      "viewCount": "4094万",
       "likeCount": "23.8万",
-      "commentCount": "7439",
-      "increment_d1": "1.55万"
+      "commentCount": "7437",
+      "increment_d1": "1.45万"
+    },
+    {
+      "rank": 809,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/QJie7dTvbjQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=QJie7dTvbjQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "majiko - 心做し [LIVE]",
+        "url": "https://www.youtube.com/watch?v=QJie7dTvbjQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "majiko / まじ娘 OFFICIAL CHANNEL",
+        "url": "https://www.youtube.com/channel/UCT4_Eu49Yy0ydqP57DUl3nQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-03-07",
+      "viewCount": "4094万",
+      "likeCount": "79.1万",
+      "commentCount": "2万",
+      "increment_d1": "1.14万"
     },
     {
       "rank": 810,
@@ -225,10 +225,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-06-07",
-      "viewCount": "4090万",
+      "viewCount": "4092万",
       "likeCount": "25.5万",
-      "commentCount": "8588",
-      "increment_d1": "1.11万"
+      "commentCount": "8589",
+      "increment_d1": "1.14万"
     },
     {
       "rank": 811,
@@ -248,10 +248,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-09-19",
-      "viewCount": "4089万",
+      "viewCount": "4090万",
       "likeCount": "29.1万",
       "commentCount": "1.1万",
-      "increment_d1": "1.1万"
+      "increment_d1": "1.18万"
     },
     {
       "rank": 812,
@@ -271,10 +271,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-01-10",
-      "viewCount": "4083万",
+      "viewCount": "4086万",
       "likeCount": "25.1万",
       "commentCount": "1.2万",
-      "increment_d1": "2.52万"
+      "increment_d1": "2.67万"
     },
     {
       "rank": 813,
@@ -294,10 +294,10 @@
         "target": "_blank"
       },
       "publishedAt": "2009-04-08",
-      "viewCount": "4080万",
+      "viewCount": "4081万",
       "likeCount": "9.3万",
       "commentCount": "3786",
-      "increment_d1": "7047"
+      "increment_d1": "7427"
     },
     {
       "rank": 814,
@@ -317,10 +317,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-02-20",
-      "viewCount": "4065万",
-      "likeCount": "47.1万",
+      "viewCount": "4066万",
+      "likeCount": "47.2万",
       "commentCount": "1万",
-      "increment_d1": "1.52万"
+      "increment_d1": "1.64万"
     },
     {
       "rank": 815,
@@ -340,13 +340,36 @@
         "target": "_blank"
       },
       "publishedAt": "2012-09-07",
-      "viewCount": "4064万",
+      "viewCount": "4065万",
       "likeCount": "7.1万",
-      "commentCount": "7447",
-      "increment_d1": "8731"
+      "commentCount": "7448",
+      "increment_d1": "9720"
     },
     {
       "rank": 816,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/-NFhRWhkp7I/default.jpg",
+        "url": "https://www.youtube.com/watch?v=-NFhRWhkp7I",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE「ライラック」MV - TVアニメ『忘却バッテリー』Ver. -",
+        "url": "https://www.youtube.com/watch?v=-NFhRWhkp7I",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-07-04",
+      "viewCount": "4065万",
+      "likeCount": "16.8万",
+      "commentCount": "3793",
+      "increment_d1": "6.85万"
+    },
+    {
+      "rank": 817,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qJf1i24iQv8/default.jpg",
         "url": "https://www.youtube.com/watch?v=qJf1i24iQv8",
@@ -366,10 +389,10 @@
       "viewCount": "4062万",
       "likeCount": "-",
       "commentCount": "2.1万",
-      "increment_d1": "5849"
+      "increment_d1": "5441"
     },
     {
-      "rank": 817,
+      "rank": 818,
       "thumb": {
         "img": "https://i.ytimg.com/vi/CRLLWNIqb8w/default.jpg",
         "url": "https://www.youtube.com/watch?v=CRLLWNIqb8w",
@@ -389,30 +412,7 @@
       "viewCount": "4059万",
       "likeCount": "32.2万",
       "commentCount": "1.3万",
-      "increment_d1": "4659"
-    },
-    {
-      "rank": 818,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/-NFhRWhkp7I/default.jpg",
-        "url": "https://www.youtube.com/watch?v=-NFhRWhkp7I",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE「ライラック」MV - TVアニメ『忘却バッテリー』Ver. -",
-        "url": "https://www.youtube.com/watch?v=-NFhRWhkp7I",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-07-04",
-      "viewCount": "4058万",
-      "likeCount": "16.8万",
-      "commentCount": "3792",
-      "increment_d1": "6.79万"
+      "increment_d1": "4686"
     },
     {
       "rank": 819,
@@ -432,10 +432,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-04-16",
-      "viewCount": "4053万",
+      "viewCount": "4054万",
       "likeCount": "57.4万",
       "commentCount": "2.5万",
-      "increment_d1": "6351"
+      "increment_d1": "6582"
     },
     {
       "rank": 820,
@@ -455,10 +455,10 @@
         "target": "_blank"
       },
       "publishedAt": "2009-07-06",
-      "viewCount": "4049万",
+      "viewCount": "4050万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "7014"
+      "increment_d1": "7781"
     },
     {
       "rank": 821,
@@ -478,10 +478,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-07-15",
-      "viewCount": "4038万",
+      "viewCount": "4040万",
       "likeCount": "16.8万",
-      "commentCount": "6191",
-      "increment_d1": "2.42万"
+      "commentCount": "6195",
+      "increment_d1": "2.62万"
     },
     {
       "rank": 822,
@@ -501,10 +501,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-02",
-      "viewCount": "4028万",
+      "viewCount": "4030万",
       "likeCount": "26.8万",
       "commentCount": "2673",
-      "increment_d1": "2.49万"
+      "increment_d1": "2.36万"
     },
     {
       "rank": 823,
@@ -524,10 +524,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-07-23",
-      "viewCount": "4024万",
+      "viewCount": "4025万",
       "likeCount": "10.7万",
-      "commentCount": "5291",
-      "increment_d1": "1695"
+      "commentCount": "5292",
+      "increment_d1": "1905"
     },
     {
       "rank": 824,
@@ -550,7 +550,7 @@
       "viewCount": "4024万",
       "likeCount": "18.9万",
       "commentCount": "8271",
-      "increment_d1": "1722"
+      "increment_d1": "1853"
     },
     {
       "rank": 825,
@@ -570,10 +570,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-03-11",
-      "viewCount": "4019万",
+      "viewCount": "4021万",
       "likeCount": "10.5万",
-      "commentCount": "4894",
-      "increment_d1": "2.21万"
+      "commentCount": "4896",
+      "increment_d1": "2.29万"
     },
     {
       "rank": 826,
@@ -593,10 +593,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-07",
-      "viewCount": "4018万",
+      "viewCount": "4019万",
       "likeCount": "33万",
-      "commentCount": "8385",
-      "increment_d1": "1.26万"
+      "commentCount": "8383",
+      "increment_d1": "1.32万"
     },
     {
       "rank": 827,
@@ -616,13 +616,36 @@
         "target": "_blank"
       },
       "publishedAt": "2022-01-17",
-      "viewCount": "4014万",
+      "viewCount": "4015万",
       "likeCount": "38万",
-      "commentCount": "5569",
-      "increment_d1": "1.36万"
+      "commentCount": "5572",
+      "increment_d1": "1.48万"
     },
     {
       "rank": 828,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/oLrp9uTa9gw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=oLrp9uTa9gw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Official髭男dism - TATTOO [Official Video]",
+        "url": "https://www.youtube.com/watch?v=oLrp9uTa9gw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Official髭男dism",
+        "url": "https://www.youtube.com/channel/UC9M4B-fqveLyWPGNdSkam7g",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-04-20",
+      "viewCount": "4015万",
+      "likeCount": "19万",
+      "commentCount": "8598",
+      "increment_d1": "1.85万"
+    },
+    {
+      "rank": 829,
       "thumb": {
         "img": "https://i.ytimg.com/vi/wP6K8WfaF60/default.jpg",
         "url": "https://www.youtube.com/watch?v=wP6K8WfaF60",
@@ -641,31 +664,8 @@
       "publishedAt": "2015-01-08",
       "viewCount": "4013万",
       "likeCount": "10万",
-      "commentCount": "3904",
-      "increment_d1": "793"
-    },
-    {
-      "rank": 829,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/oLrp9uTa9gw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=oLrp9uTa9gw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Official髭男dism - TATTOO [Official Video]",
-        "url": "https://www.youtube.com/watch?v=oLrp9uTa9gw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Official髭男dism",
-        "url": "https://www.youtube.com/channel/UC9M4B-fqveLyWPGNdSkam7g",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-04-20",
-      "viewCount": "4013万",
-      "likeCount": "19万",
-      "commentCount": "8598",
-      "increment_d1": "1.86万"
+      "commentCount": "3905",
+      "increment_d1": "811"
     },
     {
       "rank": 830,
@@ -685,10 +685,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-07-21",
-      "viewCount": "4010万",
+      "viewCount": "4011万",
       "likeCount": "16.5万",
-      "commentCount": "5013",
-      "increment_d1": "1320"
+      "commentCount": "5011",
+      "increment_d1": "1326"
     },
     {
       "rank": 831,
@@ -708,10 +708,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-08-24",
-      "viewCount": "4006万",
+      "viewCount": "4007万",
       "likeCount": "7.4万",
-      "commentCount": "3681",
-      "increment_d1": "8147"
+      "commentCount": "3682",
+      "increment_d1": "9195"
     },
     {
       "rank": 832,
@@ -731,9 +731,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-11-16",
-      "viewCount": "3997万",
+      "viewCount": "3999万",
       "likeCount": "35.5万",
-      "commentCount": "7269",
+      "commentCount": "7270",
       "increment_d1": "1.36万"
     },
     {
@@ -754,10 +754,10 @@
         "target": "_blank"
       },
       "publishedAt": "2011-09-22",
-      "viewCount": "3996万",
+      "viewCount": "3997万",
       "likeCount": "21.3万",
-      "commentCount": "8616",
-      "increment_d1": "7713"
+      "commentCount": "8607",
+      "increment_d1": "7640"
     },
     {
       "rank": 834,
@@ -780,7 +780,7 @@
       "viewCount": "3995万",
       "likeCount": "9万",
       "commentCount": "3.7万",
-      "increment_d1": "1582"
+      "increment_d1": "1650"
     },
     {
       "rank": 835,
@@ -800,10 +800,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-09-05",
-      "viewCount": "3985万",
+      "viewCount": "3986万",
       "likeCount": "13.3万",
       "commentCount": "4431",
-      "increment_d1": "5935"
+      "increment_d1": "6178"
     },
     {
       "rank": 836,
@@ -826,7 +826,7 @@
       "viewCount": "3983万",
       "likeCount": "15.7万",
       "commentCount": "4719",
-      "increment_d1": "1788"
+      "increment_d1": "1754"
     },
     {
       "rank": 837,
@@ -846,10 +846,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-07-04",
-      "viewCount": "3975万",
+      "viewCount": "3976万",
       "likeCount": "58.2万",
       "commentCount": "3.5万",
-      "increment_d1": "2716"
+      "increment_d1": "2885"
     },
     {
       "rank": 838,
@@ -872,7 +872,7 @@
       "viewCount": "3960万",
       "likeCount": "13.9万",
       "commentCount": "4625",
-      "increment_d1": "3012"
+      "increment_d1": "2986"
     },
     {
       "rank": 839,
@@ -892,13 +892,36 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-25",
-      "viewCount": "3954万",
+      "viewCount": "3956万",
       "likeCount": "52.6万",
-      "commentCount": "9084",
-      "increment_d1": "2.27万"
+      "commentCount": "9088",
+      "increment_d1": "2.31万"
     },
     {
       "rank": 840,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/DtBoAqkIJzI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=DtBoAqkIJzI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "幽霊東京 / Ayase (self cover)",
+        "url": "https://www.youtube.com/watch?v=DtBoAqkIJzI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ayase / YOASOBI",
+        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-12-23",
+      "viewCount": "3944万",
+      "likeCount": "40.1万",
+      "commentCount": "6172",
+      "increment_d1": "7949"
+    },
+    {
+      "rank": 841,
       "thumb": {
         "img": "https://i.ytimg.com/vi/CbJx788qTao/default.jpg",
         "url": "https://www.youtube.com/watch?v=CbJx788qTao",
@@ -918,30 +941,7 @@
       "viewCount": "3943万",
       "likeCount": "10.7万",
       "commentCount": "7089",
-      "increment_d1": "3279"
-    },
-    {
-      "rank": 841,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/DtBoAqkIJzI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=DtBoAqkIJzI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "幽霊東京 / Ayase (self cover)",
-        "url": "https://www.youtube.com/watch?v=DtBoAqkIJzI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ayase / YOASOBI",
-        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-12-23",
-      "viewCount": "3943万",
-      "likeCount": "40.1万",
-      "commentCount": "6172",
-      "increment_d1": "8039"
+      "increment_d1": "3572"
     },
     {
       "rank": 842,
@@ -961,36 +961,13 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-05",
-      "viewCount": "3941万",
-      "likeCount": "14万",
-      "commentCount": "363",
-      "increment_d1": "2.12万"
+      "viewCount": "3943万",
+      "likeCount": "14.1万",
+      "commentCount": "364",
+      "increment_d1": "2.15万"
     },
     {
       "rank": 843,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/3iAXclHlTTg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=3iAXclHlTTg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ずっと真夜中でいいのに。『脳裏上のクラッカー』MV",
-        "url": "https://www.youtube.com/watch?v=3iAXclHlTTg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ずっと真夜中でいいのに。 ZUTOMAYO",
-        "url": "https://www.youtube.com/channel/UCv6P5nsS9rP4tDtFlqLU_QQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-10-02",
-      "viewCount": "3927万",
-      "likeCount": "31.3万",
-      "commentCount": "1万",
-      "increment_d1": "4554"
-    },
-    {
-      "rank": 844,
       "thumb": {
         "img": "https://i.ytimg.com/vi/h21pp5-k9SA/default.jpg",
         "url": "https://www.youtube.com/watch?v=h21pp5-k9SA",
@@ -1007,10 +984,33 @@
         "target": "_blank"
       },
       "publishedAt": "2024-11-12",
-      "viewCount": "3927万",
+      "viewCount": "3931万",
       "likeCount": "103万",
       "commentCount": "7.1万",
-      "increment_d1": "3.81万"
+      "increment_d1": "3.89万"
+    },
+    {
+      "rank": 844,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/3iAXclHlTTg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=3iAXclHlTTg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ずっと真夜中でいいのに。『脳裏上のクラッカー』MV",
+        "url": "https://www.youtube.com/watch?v=3iAXclHlTTg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ずっと真夜中でいいのに。 ZUTOMAYO",
+        "url": "https://www.youtube.com/channel/UCv6P5nsS9rP4tDtFlqLU_QQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-10-02",
+      "viewCount": "3928万",
+      "likeCount": "31.3万",
+      "commentCount": "1万",
+      "increment_d1": "4282"
     },
     {
       "rank": 845,
@@ -1030,13 +1030,36 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-25",
-      "viewCount": "3921万",
+      "viewCount": "3923万",
       "likeCount": "-",
-      "commentCount": "3429",
-      "increment_d1": "1.44万"
+      "commentCount": "3434",
+      "increment_d1": "1.48万"
     },
     {
       "rank": 846,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/GUTHk7IjI6A/default.jpg",
+        "url": "https://www.youtube.com/watch?v=GUTHk7IjI6A",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ドレミファ アンパンマン （テレビサイズver.）［公式エンディングテーマ］",
+        "url": "https://www.youtube.com/watch?v=GUTHk7IjI6A",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "VAP OFFICIAL MUSIC CHANNEL",
+        "url": "https://www.youtube.com/channel/UCIDd5lVNKs7N0V3dvm1wj2w",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-03-24",
+      "viewCount": "3922万",
+      "likeCount": "-",
+      "commentCount": "-",
+      "increment_d1": "5.05万"
+    },
+    {
+      "rank": 847,
       "thumb": {
         "img": "https://i.ytimg.com/vi/VfATdDI3604/default.jpg",
         "url": "https://www.youtube.com/watch?v=VfATdDI3604",
@@ -1056,30 +1079,7 @@
       "viewCount": "3918万",
       "likeCount": "24万",
       "commentCount": "159",
-      "increment_d1": "1509"
-    },
-    {
-      "rank": 847,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/GUTHk7IjI6A/default.jpg",
-        "url": "https://www.youtube.com/watch?v=GUTHk7IjI6A",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ドレミファ アンパンマン （テレビサイズver.）［公式エンディングテーマ］",
-        "url": "https://www.youtube.com/watch?v=GUTHk7IjI6A",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "VAP OFFICIAL MUSIC CHANNEL",
-        "url": "https://www.youtube.com/channel/UCIDd5lVNKs7N0V3dvm1wj2w",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-03-24",
-      "viewCount": "3917万",
-      "likeCount": "-",
-      "commentCount": "-",
-      "increment_d1": "4.86万"
+      "increment_d1": "1480"
     },
     {
       "rank": 848,
@@ -1099,10 +1099,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-04",
-      "viewCount": "3914万",
+      "viewCount": "3915万",
       "likeCount": "-",
       "commentCount": "3.7万",
-      "increment_d1": "5242"
+      "increment_d1": "4839"
     },
     {
       "rank": 849,
@@ -1122,10 +1122,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-25",
-      "viewCount": "3911万",
+      "viewCount": "3912万",
       "likeCount": "50.5万",
       "commentCount": "1.3万",
-      "increment_d1": "8302"
+      "increment_d1": "8794"
     },
     {
       "rank": 850,
@@ -1148,7 +1148,7 @@
       "viewCount": "3910万",
       "likeCount": "47.4万",
       "commentCount": "3872",
-      "increment_d1": "4190"
+      "increment_d1": "4174"
     }
   ]
 }

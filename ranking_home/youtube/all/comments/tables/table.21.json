@@ -18,9 +18,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-10-31",
-      "viewCount": "4401万",
+      "viewCount": "4402万",
       "likeCount": "11.4万",
-      "commentCount": "9886"
+      "commentCount": "9887"
     },
     {
       "rank": 1002,
@@ -42,7 +42,7 @@
       "publishedAt": "2016-10-27",
       "viewCount": "2006万",
       "likeCount": "17.4万",
-      "commentCount": "9879"
+      "commentCount": "9883"
     },
     {
       "rank": 1003,
@@ -62,9 +62,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-08",
-      "viewCount": "8697万",
+      "viewCount": "8698万",
       "likeCount": "14.8万",
-      "commentCount": "9868"
+      "commentCount": "9869"
     },
     {
       "rank": 1004,
@@ -84,7 +84,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-18",
-      "viewCount": "3196万",
+      "viewCount": "3198万",
       "likeCount": "22.1万",
       "commentCount": "9866"
     },
@@ -106,9 +106,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-13",
-      "viewCount": "2400万",
+      "viewCount": "2401万",
       "likeCount": "20.6万",
-      "commentCount": "9857"
+      "commentCount": "9858"
     },
     {
       "rank": 1006,
@@ -194,7 +194,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-03-11",
-      "viewCount": "5600万",
+      "viewCount": "5602万",
       "likeCount": "33.5万",
       "commentCount": "9795"
     },
@@ -218,7 +218,7 @@
       "publishedAt": "2023-08-30",
       "viewCount": "1676万",
       "likeCount": "-",
-      "commentCount": "9789"
+      "commentCount": "9791"
     },
     {
       "rank": 1011,
@@ -238,9 +238,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-14",
-      "viewCount": "8469万",
+      "viewCount": "8474万",
       "likeCount": "42万",
-      "commentCount": "9769"
+      "commentCount": "9776"
     },
     {
       "rank": 1012,
@@ -260,56 +260,12 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-19",
-      "viewCount": "4544万",
+      "viewCount": "4545万",
       "likeCount": "32.1万",
-      "commentCount": "9767"
+      "commentCount": "9768"
     },
     {
       "rank": 1013,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/v9V5aByfeCM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=v9V5aByfeCM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SEKAI NO OWARI「ANTI-HERO」",
-        "url": "https://www.youtube.com/watch?v=v9V5aByfeCM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "sekainoowarijp",
-        "url": "https://www.youtube.com/channel/UCOYmRdtvvcQPspSmW8QsJhQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-07-14",
-      "viewCount": "3435万",
-      "likeCount": "26.8万",
-      "commentCount": "9755"
-    },
-    {
-      "rank": 1014,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/aikM28XkxFk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=aikM28XkxFk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow Man「Dangerholic」Dance Practice",
-        "url": "https://www.youtube.com/watch?v=aikM28XkxFk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Snow Man",
-        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-08-16",
-      "viewCount": "3319万",
-      "likeCount": "-",
-      "commentCount": "9752"
-    },
-    {
-      "rank": 1015,
       "thumb": {
         "img": "https://i.ytimg.com/vi/thFb8_JGIeo/default.jpg",
         "url": "https://www.youtube.com/watch?v=thFb8_JGIeo",
@@ -326,9 +282,53 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-26",
-      "viewCount": "2811万",
+      "viewCount": "2812万",
       "likeCount": "-",
-      "commentCount": "9751"
+      "commentCount": "9755"
+    },
+    {
+      "rank": 1014,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/v9V5aByfeCM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=v9V5aByfeCM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SEKAI NO OWARI「ANTI-HERO」",
+        "url": "https://www.youtube.com/watch?v=v9V5aByfeCM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "sekainoowarijp",
+        "url": "https://www.youtube.com/channel/UCOYmRdtvvcQPspSmW8QsJhQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-07-14",
+      "viewCount": "3436万",
+      "likeCount": "26.8万",
+      "commentCount": "9754"
+    },
+    {
+      "rank": 1015,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/aikM28XkxFk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=aikM28XkxFk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow Man「Dangerholic」Dance Practice",
+        "url": "https://www.youtube.com/watch?v=aikM28XkxFk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Snow Man",
+        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-08-16",
+      "viewCount": "3321万",
+      "likeCount": "-",
+      "commentCount": "9753"
     },
     {
       "rank": 1016,
@@ -350,7 +350,7 @@
       "publishedAt": "2019-08-27",
       "viewCount": "2328万",
       "likeCount": "23.5万",
-      "commentCount": "9734"
+      "commentCount": "9733"
     },
     {
       "rank": 1017,
@@ -370,9 +370,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-02",
-      "viewCount": "1846万",
+      "viewCount": "1847万",
       "likeCount": "17.2万",
-      "commentCount": "9733"
+      "commentCount": "9732"
     },
     {
       "rank": 1018,
@@ -392,9 +392,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-17",
-      "viewCount": "2101万",
+      "viewCount": "2103万",
       "likeCount": "14.8万",
-      "commentCount": "9711"
+      "commentCount": "9716"
     },
     {
       "rank": 1019,
@@ -414,9 +414,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-14",
-      "viewCount": "7641万",
+      "viewCount": "7644万",
       "likeCount": "38.7万",
-      "commentCount": "9706"
+      "commentCount": "9707"
     },
     {
       "rank": 1020,
@@ -436,7 +436,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-01-07",
-      "viewCount": "7269万",
+      "viewCount": "7270万",
       "likeCount": "20.6万",
       "commentCount": "9694"
     },
@@ -460,7 +460,7 @@
       "publishedAt": "2020-04-18",
       "viewCount": "1912万",
       "likeCount": "12.1万",
-      "commentCount": "9676"
+      "commentCount": "9675"
     },
     {
       "rank": 1022,
@@ -524,7 +524,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-27",
-      "viewCount": "3460万",
+      "viewCount": "3461万",
       "likeCount": "34.3万",
       "commentCount": "9657"
     },
@@ -546,9 +546,9 @@
         "target": "_blank"
       },
       "publishedAt": "2018-07-09",
-      "viewCount": "2738万",
+      "viewCount": "2739万",
       "likeCount": "15.1万",
-      "commentCount": "9641"
+      "commentCount": "9647"
     },
     {
       "rank": 1026,
@@ -597,28 +597,6 @@
     {
       "rank": 1028,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/QzLvXenuZ8k/default.jpg",
-        "url": "https://www.youtube.com/watch?v=QzLvXenuZ8k",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "KinKi Kids「愛のかたまり -YouTube Original Live-」",
-        "url": "https://www.youtube.com/watch?v=QzLvXenuZ8k",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "KinKi Kids",
-        "url": "https://www.youtube.com/channel/UCexu4C8IfBuC5CH7R4PLHFQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-11-03",
-      "viewCount": "1985万",
-      "likeCount": "-",
-      "commentCount": "9616"
-    },
-    {
-      "rank": 1029,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/J71ILoiePMg/default.jpg",
         "url": "https://www.youtube.com/watch?v=J71ILoiePMg",
         "target": "_blank"
@@ -637,6 +615,50 @@
       "viewCount": "1830万",
       "likeCount": "8.6万",
       "commentCount": "9615"
+    },
+    {
+      "rank": 1028,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/QzLvXenuZ8k/default.jpg",
+        "url": "https://www.youtube.com/watch?v=QzLvXenuZ8k",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "KinKi Kids「愛のかたまり -YouTube Original Live-」",
+        "url": "https://www.youtube.com/watch?v=QzLvXenuZ8k",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "KinKi Kids",
+        "url": "https://www.youtube.com/channel/UCexu4C8IfBuC5CH7R4PLHFQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-11-03",
+      "viewCount": "1986万",
+      "likeCount": "-",
+      "commentCount": "9615"
+    },
+    {
+      "rank": 1030,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/P_w0uL0Jl6g/default.jpg",
+        "url": "https://www.youtube.com/watch?v=P_w0uL0Jl6g",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ARASHI - truth [Official Live Video]",
+        "url": "https://www.youtube.com/watch?v=P_w0uL0Jl6g",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ARASHI",
+        "url": "https://www.youtube.com/channel/UCP7Gw_YZAuh4Yg2fcdcuumQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-10-28",
+      "viewCount": "1398万",
+      "likeCount": "-",
+      "commentCount": "9602"
     },
     {
       "rank": 1030,
@@ -658,29 +680,29 @@
       "publishedAt": "2019-08-30",
       "viewCount": "1138万",
       "likeCount": "17.1万",
-      "commentCount": "9604"
+      "commentCount": "9602"
     },
     {
-      "rank": 1031,
+      "rank": 1032,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/P_w0uL0Jl6g/default.jpg",
-        "url": "https://www.youtube.com/watch?v=P_w0uL0Jl6g",
+        "img": "https://i.ytimg.com/vi/q09Gs6e5XVI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=q09Gs6e5XVI",
         "target": "_blank"
       },
       "title": {
-        "text": "ARASHI - truth [Official Live Video]",
-        "url": "https://www.youtube.com/watch?v=P_w0uL0Jl6g",
+        "text": "変態紳士クラブ / YOKAZE (Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=q09Gs6e5XVI",
         "target": "_blank"
       },
       "channel": {
-        "text": "ARASHI",
-        "url": "https://www.youtube.com/channel/UCP7Gw_YZAuh4Yg2fcdcuumQ",
+        "text": "変態紳士クラブ",
+        "url": "https://www.youtube.com/channel/UCMI5tfhifxlSOOh1ErnfJuw",
         "target": "_blank"
       },
-      "publishedAt": "2019-10-28",
-      "viewCount": "1397万",
-      "likeCount": "-",
-      "commentCount": "9599"
+      "publishedAt": "2020-05-29",
+      "viewCount": "9738万",
+      "likeCount": "33万",
+      "commentCount": "9591"
     },
     {
       "rank": 1032,
@@ -702,29 +724,7 @@
       "publishedAt": "2020-10-09",
       "viewCount": "1568万",
       "likeCount": "-",
-      "commentCount": "9592"
-    },
-    {
-      "rank": 1033,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/q09Gs6e5XVI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=q09Gs6e5XVI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "変態紳士クラブ / YOKAZE (Official Music Video)",
-        "url": "https://www.youtube.com/watch?v=q09Gs6e5XVI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "変態紳士クラブ",
-        "url": "https://www.youtube.com/channel/UCMI5tfhifxlSOOh1ErnfJuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-05-29",
-      "viewCount": "9735万",
-      "likeCount": "33万",
-      "commentCount": "9590"
+      "commentCount": "9591"
     },
     {
       "rank": 1034,
@@ -768,7 +768,7 @@
       "publishedAt": "2021-07-12",
       "viewCount": "1956万",
       "likeCount": "-",
-      "commentCount": "9571"
+      "commentCount": "9572"
     },
     {
       "rank": 1036,
@@ -788,9 +788,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-01",
-      "viewCount": "1147万",
+      "viewCount": "1148万",
       "likeCount": "6.7万",
-      "commentCount": "9538"
+      "commentCount": "9539"
     },
     {
       "rank": 1037,
@@ -876,34 +876,12 @@
         "target": "_blank"
       },
       "publishedAt": "2018-12-27",
-      "viewCount": "4867万",
+      "viewCount": "4868万",
       "likeCount": "32.9万",
       "commentCount": "9446"
     },
     {
       "rank": 1041,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/rpFUNMmKIlg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=rpFUNMmKIlg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "DA PUMP / if... (short ver.)",
-        "url": "https://www.youtube.com/watch?v=rpFUNMmKIlg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-06-26",
-      "viewCount": "5587万",
-      "likeCount": "17.8万",
-      "commentCount": "9444"
-    },
-    {
-      "rank": 1042,
       "thumb": {
         "img": "https://i.ytimg.com/vi/GMElC5PJWIM/default.jpg",
         "url": "https://www.youtube.com/watch?v=GMElC5PJWIM",
@@ -922,6 +900,28 @@
       "publishedAt": "2021-01-19",
       "viewCount": "1021万",
       "likeCount": "7.6万",
+      "commentCount": "9445"
+    },
+    {
+      "rank": 1042,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/rpFUNMmKIlg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=rpFUNMmKIlg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "DA PUMP / if... (short ver.)",
+        "url": "https://www.youtube.com/watch?v=rpFUNMmKIlg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-06-26",
+      "viewCount": "5588万",
+      "likeCount": "17.8万",
       "commentCount": "9442"
     },
     {
@@ -942,7 +942,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-09",
-      "viewCount": "1924万",
+      "viewCount": "1925万",
       "likeCount": "23.9万",
       "commentCount": "9439"
     },
@@ -964,7 +964,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-03-16",
-      "viewCount": "9630万",
+      "viewCount": "9633万",
       "likeCount": "34.2万",
       "commentCount": "9424"
     },
@@ -986,9 +986,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-12",
-      "viewCount": "2745万",
+      "viewCount": "2746万",
       "likeCount": "37.9万",
-      "commentCount": "9420"
+      "commentCount": "9423"
     },
     {
       "rank": 1046,
@@ -1010,7 +1010,7 @@
       "publishedAt": "2011-09-21",
       "viewCount": "6396万",
       "likeCount": "29.6万",
-      "commentCount": "9415"
+      "commentCount": "9416"
     },
     {
       "rank": 1047,
@@ -1052,9 +1052,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-26",
-      "viewCount": "3430万",
+      "viewCount": "3432万",
       "likeCount": "46.7万",
-      "commentCount": "9406"
+      "commentCount": "9408"
     },
     {
       "rank": 1049,
@@ -1076,7 +1076,7 @@
       "publishedAt": "2016-07-10",
       "viewCount": "4844万",
       "likeCount": "20.8万",
-      "commentCount": "9404"
+      "commentCount": "9401"
     },
     {
       "rank": 1050,
@@ -1096,7 +1096,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-09-06",
-      "viewCount": "3662万",
+      "viewCount": "3663万",
       "likeCount": "15.6万",
       "commentCount": "9386"
     }

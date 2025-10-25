@@ -21,7 +21,7 @@
       "viewCount": "1032万",
       "likeCount": "1.6万",
       "commentCount": "518",
-      "increment_d1": "864"
+      "increment_d1": "768"
     },
     {
       "rank": 3202,
@@ -44,7 +44,7 @@
       "viewCount": "1030万",
       "likeCount": "3.6万",
       "commentCount": "1.3万",
-      "increment_d1": "1220"
+      "increment_d1": "1019"
     },
     {
       "rank": 3203,
@@ -67,7 +67,7 @@
       "viewCount": "1030万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "409"
+      "increment_d1": "390"
     },
     {
       "rank": 3204,
@@ -90,7 +90,7 @@
       "viewCount": "1029万",
       "likeCount": "8.1万",
       "commentCount": "5560",
-      "increment_d1": "283"
+      "increment_d1": "242"
     },
     {
       "rank": 3205,
@@ -113,7 +113,7 @@
       "viewCount": "1029万",
       "likeCount": "1845",
       "commentCount": "55",
-      "increment_d1": "5"
+      "increment_d1": "14"
     },
     {
       "rank": 3206,
@@ -136,10 +136,33 @@
       "viewCount": "1028万",
       "likeCount": "3.9万",
       "commentCount": "1267",
-      "increment_d1": "763"
+      "increment_d1": "785"
     },
     {
       "rank": 3207,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/oy2WTnhVT2w/default.jpg",
+        "url": "https://www.youtube.com/watch?v=oy2WTnhVT2w",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Ado】いばら",
+        "url": "https://www.youtube.com/watch?v=oy2WTnhVT2w",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ado",
+        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-05-09",
+      "viewCount": "1026万",
+      "likeCount": "17.4万",
+      "commentCount": "4716",
+      "increment_d1": "4160"
+    },
+    {
+      "rank": 3208,
       "thumb": {
         "img": "https://i.ytimg.com/vi/DYRxxgOMF64/default.jpg",
         "url": "https://www.youtube.com/watch?v=DYRxxgOMF64",
@@ -159,30 +182,7 @@
       "viewCount": "1026万",
       "likeCount": "2.4万",
       "commentCount": "381",
-      "increment_d1": "633"
-    },
-    {
-      "rank": 3208,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/oy2WTnhVT2w/default.jpg",
-        "url": "https://www.youtube.com/watch?v=oy2WTnhVT2w",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Ado】いばら",
-        "url": "https://www.youtube.com/watch?v=oy2WTnhVT2w",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ado",
-        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-05-09",
-      "viewCount": "1026万",
-      "likeCount": "17.4万",
-      "commentCount": "4715",
-      "increment_d1": "3661"
+      "increment_d1": "615"
     },
     {
       "rank": 3209,
@@ -205,7 +205,7 @@
       "viewCount": "1025万",
       "likeCount": "9.5万",
       "commentCount": "5820",
-      "increment_d1": "958"
+      "increment_d1": "1066"
     },
     {
       "rank": 3210,
@@ -228,7 +228,7 @@
       "viewCount": "1024万",
       "likeCount": "2.7万",
       "commentCount": "1284",
-      "increment_d1": "226"
+      "increment_d1": "291"
     },
     {
       "rank": 3211,
@@ -251,7 +251,7 @@
       "viewCount": "1024万",
       "likeCount": "4万",
       "commentCount": "1105",
-      "increment_d1": "683"
+      "increment_d1": "482"
     },
     {
       "rank": 3212,
@@ -271,10 +271,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-05-09",
-      "viewCount": "1023万",
+      "viewCount": "1024万",
       "likeCount": "2.3万",
       "commentCount": "926",
-      "increment_d1": "521"
+      "increment_d1": "527"
     },
     {
       "rank": 3213,
@@ -297,7 +297,7 @@
       "viewCount": "1023万",
       "likeCount": "3万",
       "commentCount": "891",
-      "increment_d1": "1378"
+      "increment_d1": "1420"
     },
     {
       "rank": 3214,
@@ -319,8 +319,8 @@
       "publishedAt": "2021-06-01",
       "viewCount": "1023万",
       "likeCount": "18.4万",
-      "commentCount": "6932",
-      "increment_d1": "1956"
+      "commentCount": "6933",
+      "increment_d1": "2143"
     },
     {
       "rank": 3215,
@@ -343,7 +343,7 @@
       "viewCount": "1022万",
       "likeCount": "5.9万",
       "commentCount": "913",
-      "increment_d1": "580"
+      "increment_d1": "540"
     },
     {
       "rank": 3216,
@@ -366,33 +366,10 @@
       "viewCount": "1022万",
       "likeCount": "10.7万",
       "commentCount": "1653",
-      "increment_d1": "1415"
+      "increment_d1": "1487"
     },
     {
       "rank": 3217,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/CiCWbfjf8Tw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=CiCWbfjf8Tw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "「3月のライオン meets BUMP OF CHICKEN」MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=CiCWbfjf8Tw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BUMP OF CHICKEN",
-        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-12-08",
-      "viewCount": "1022万",
-      "likeCount": "5.6万",
-      "commentCount": "1436",
-      "increment_d1": "800"
-    },
-    {
-      "rank": 3218,
       "thumb": {
         "img": "https://i.ytimg.com/vi/6gmswmbosYo/default.jpg",
         "url": "https://www.youtube.com/watch?v=6gmswmbosYo",
@@ -412,7 +389,30 @@
       "viewCount": "1022万",
       "likeCount": "25.1万",
       "commentCount": "1.4万",
-      "increment_d1": "2147"
+      "increment_d1": "2592"
+    },
+    {
+      "rank": 3218,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/CiCWbfjf8Tw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=CiCWbfjf8Tw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "「3月のライオン meets BUMP OF CHICKEN」MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=CiCWbfjf8Tw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BUMP OF CHICKEN",
+        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-12-08",
+      "viewCount": "1022万",
+      "likeCount": "5.6万",
+      "commentCount": "1436",
+      "increment_d1": "725"
     },
     {
       "rank": 3219,
@@ -432,10 +432,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-06-11",
-      "viewCount": "1021万",
+      "viewCount": "1022万",
       "likeCount": "2.3万",
       "commentCount": "1505",
-      "increment_d1": "1284"
+      "increment_d1": "1289"
     },
     {
       "rank": 3220,
@@ -455,10 +455,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-10-02",
-      "viewCount": "1021万",
+      "viewCount": "1022万",
       "likeCount": "4.4万",
       "commentCount": "2532",
-      "increment_d1": "1268"
+      "increment_d1": "1202"
     },
     {
       "rank": 3221,
@@ -481,7 +481,7 @@
       "viewCount": "1021万",
       "likeCount": "20.8万",
       "commentCount": "5251",
-      "increment_d1": "1246"
+      "increment_d1": "1312"
     },
     {
       "rank": 3222,
@@ -503,34 +503,11 @@
       "publishedAt": "2010-10-18",
       "viewCount": "1021万",
       "likeCount": "4.2万",
-      "commentCount": "2465",
-      "increment_d1": "2241"
+      "commentCount": "2466",
+      "increment_d1": "2279"
     },
     {
       "rank": 3223,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/CpKTiaqHLo4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=CpKTiaqHLo4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Repezen Chikyu - 11th Single「Remember」",
-        "url": "https://www.youtube.com/watch?v=CpKTiaqHLo4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Repezen Foxx - Studio Candy Foxx Co.",
-        "url": "https://www.youtube.com/channel/UCxMLTQETeHIB2WGuTOG5wJA",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-02-20",
-      "viewCount": "1021万",
-      "likeCount": "6.8万",
-      "commentCount": "4964",
-      "increment_d1": "413"
-    },
-    {
-      "rank": 3224,
       "thumb": {
         "img": "https://i.ytimg.com/vi/zd4ONUviSQY/default.jpg",
         "url": "https://www.youtube.com/watch?v=zd4ONUviSQY",
@@ -550,7 +527,30 @@
       "viewCount": "1021万",
       "likeCount": "11.8万",
       "commentCount": "3174",
-      "increment_d1": "1465"
+      "increment_d1": "1716"
+    },
+    {
+      "rank": 3224,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/CpKTiaqHLo4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=CpKTiaqHLo4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Repezen Chikyu - 11th Single「Remember」",
+        "url": "https://www.youtube.com/watch?v=CpKTiaqHLo4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Repezen Foxx - Studio Candy Foxx Co.",
+        "url": "https://www.youtube.com/channel/UCxMLTQETeHIB2WGuTOG5wJA",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-02-20",
+      "viewCount": "1021万",
+      "likeCount": "6.8万",
+      "commentCount": "4964",
+      "increment_d1": "420"
     },
     {
       "rank": 3225,
@@ -572,8 +572,8 @@
       "publishedAt": "2021-01-19",
       "viewCount": "1021万",
       "likeCount": "7.6万",
-      "commentCount": "9442",
-      "increment_d1": "1358"
+      "commentCount": "9445",
+      "increment_d1": "1303"
     },
     {
       "rank": 3226,
@@ -596,7 +596,7 @@
       "viewCount": "1020万",
       "likeCount": "5.3万",
       "commentCount": "1323",
-      "increment_d1": "816"
+      "increment_d1": "906"
     },
     {
       "rank": 3227,
@@ -619,7 +619,7 @@
       "viewCount": "1019万",
       "likeCount": "-",
       "commentCount": "8069",
-      "increment_d1": "1097"
+      "increment_d1": "958"
     },
     {
       "rank": 3228,
@@ -642,7 +642,7 @@
       "viewCount": "1019万",
       "likeCount": "6.6万",
       "commentCount": "1777",
-      "increment_d1": "1210"
+      "increment_d1": "1354"
     },
     {
       "rank": 3229,
@@ -665,7 +665,7 @@
       "viewCount": "1018万",
       "likeCount": "6.7万",
       "commentCount": "1010",
-      "increment_d1": "1104"
+      "increment_d1": "1247"
     },
     {
       "rank": 3230,
@@ -685,10 +685,10 @@
         "target": "_blank"
       },
       "publishedAt": "2011-10-13",
-      "viewCount": "1017万",
+      "viewCount": "1018万",
       "likeCount": "2.8万",
-      "commentCount": "949",
-      "increment_d1": "1280"
+      "commentCount": "950",
+      "increment_d1": "1409"
     },
     {
       "rank": 3231,
@@ -711,7 +711,7 @@
       "viewCount": "1017万",
       "likeCount": "8.3万",
       "commentCount": "1.1万",
-      "increment_d1": "1195"
+      "increment_d1": "981"
     },
     {
       "rank": 3232,
@@ -734,10 +734,33 @@
       "viewCount": "1017万",
       "likeCount": "13.2万",
       "commentCount": "6321",
-      "increment_d1": "808"
+      "increment_d1": "719"
     },
     {
       "rank": 3233,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/55Qv-CuDl-4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=55Qv-CuDl-4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "東京スカパラダイスオーケストラ / めくれたオレンジ",
+        "url": "https://www.youtube.com/watch?v=55Qv-CuDl-4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "TOKYO SKA PARADISE ORCHESTRA OFFICIAL",
+        "url": "https://www.youtube.com/channel/UC5RmUAcm_w5K9cxtQSj7W7g",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-06-18",
+      "viewCount": "1017万",
+      "likeCount": "3万",
+      "commentCount": "822",
+      "increment_d1": "1348"
+    },
+    {
+      "rank": 3234,
       "thumb": {
         "img": "https://i.ytimg.com/vi/bASSi2OJYbI/default.jpg",
         "url": "https://www.youtube.com/watch?v=bASSi2OJYbI",
@@ -757,30 +780,7 @@
       "viewCount": "1016万",
       "likeCount": "2.1万",
       "commentCount": "2725",
-      "increment_d1": "318"
-    },
-    {
-      "rank": 3234,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/55Qv-CuDl-4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=55Qv-CuDl-4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "東京スカパラダイスオーケストラ / めくれたオレンジ",
-        "url": "https://www.youtube.com/watch?v=55Qv-CuDl-4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "TOKYO SKA PARADISE ORCHESTRA OFFICIAL",
-        "url": "https://www.youtube.com/channel/UC5RmUAcm_w5K9cxtQSj7W7g",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-06-18",
-      "viewCount": "1016万",
-      "likeCount": "3万",
-      "commentCount": "822",
-      "increment_d1": "1168"
+      "increment_d1": "402"
     },
     {
       "rank": 3235,
@@ -803,7 +803,7 @@
       "viewCount": "1016万",
       "likeCount": "6.4万",
       "commentCount": "2888",
-      "increment_d1": "836"
+      "increment_d1": "765"
     },
     {
       "rank": 3236,
@@ -826,7 +826,7 @@
       "viewCount": "1016万",
       "likeCount": "3.3万",
       "commentCount": "2394",
-      "increment_d1": "398"
+      "increment_d1": "417"
     },
     {
       "rank": 3237,
@@ -846,10 +846,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-02-16",
-      "viewCount": "1015万",
+      "viewCount": "1016万",
       "likeCount": "3.2万",
       "commentCount": "712",
-      "increment_d1": "300"
+      "increment_d1": "243"
     },
     {
       "rank": 3238,
@@ -872,7 +872,7 @@
       "viewCount": "1015万",
       "likeCount": "4.8万",
       "commentCount": "2759",
-      "increment_d1": "654"
+      "increment_d1": "732"
     },
     {
       "rank": 3239,
@@ -895,7 +895,7 @@
       "viewCount": "1015万",
       "likeCount": "2万",
       "commentCount": "887",
-      "increment_d1": "498"
+      "increment_d1": "518"
     },
     {
       "rank": 3240,
@@ -915,10 +915,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-24",
-      "viewCount": "1014万",
+      "viewCount": "1015万",
       "likeCount": "-",
       "commentCount": "1.2万",
-      "increment_d1": "1052"
+      "increment_d1": "1025"
     },
     {
       "rank": 3241,
@@ -940,8 +940,8 @@
       "publishedAt": "2014-11-08",
       "viewCount": "1014万",
       "likeCount": "3.9万",
-      "commentCount": "1154",
-      "increment_d1": "1082"
+      "commentCount": "1155",
+      "increment_d1": "1149"
     },
     {
       "rank": 3242,
@@ -963,8 +963,8 @@
       "publishedAt": "2023-12-30",
       "viewCount": "1014万",
       "likeCount": "10.8万",
-      "commentCount": "2005",
-      "increment_d1": "1415"
+      "commentCount": "2007",
+      "increment_d1": "1563"
     },
     {
       "rank": 3243,
@@ -986,8 +986,8 @@
       "publishedAt": "2023-05-10",
       "viewCount": "1013万",
       "likeCount": "-",
-      "commentCount": "4957",
-      "increment_d1": "2157"
+      "commentCount": "4958",
+      "increment_d1": "1895"
     },
     {
       "rank": 3244,
@@ -1010,7 +1010,7 @@
       "viewCount": "1012万",
       "likeCount": "3万",
       "commentCount": "878",
-      "increment_d1": "57"
+      "increment_d1": "65"
     },
     {
       "rank": 3245,
@@ -1033,7 +1033,7 @@
       "viewCount": "1012万",
       "likeCount": "4.6万",
       "commentCount": "1609",
-      "increment_d1": "1658"
+      "increment_d1": "1729"
     },
     {
       "rank": 3246,
@@ -1056,7 +1056,7 @@
       "viewCount": "1011万",
       "likeCount": "3.9万",
       "commentCount": "953",
-      "increment_d1": "110"
+      "increment_d1": "80"
     },
     {
       "rank": 3247,
@@ -1079,7 +1079,7 @@
       "viewCount": "1010万",
       "likeCount": "3.3万",
       "commentCount": "819",
-      "increment_d1": "888"
+      "increment_d1": "965"
     },
     {
       "rank": 3248,
@@ -1102,7 +1102,7 @@
       "viewCount": "1010万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "865"
+      "increment_d1": "805"
     },
     {
       "rank": 3249,
@@ -1125,7 +1125,7 @@
       "viewCount": "1009万",
       "likeCount": "21.1万",
       "commentCount": "1.2万",
-      "increment_d1": "228"
+      "increment_d1": "321"
     },
     {
       "rank": 3250,
@@ -1147,8 +1147,8 @@
       "publishedAt": "2011-04-27",
       "viewCount": "1008万",
       "likeCount": "2.1万",
-      "commentCount": "2377",
-      "increment_d1": "356"
+      "commentCount": "2378",
+      "increment_d1": "390"
     }
   ]
 }
