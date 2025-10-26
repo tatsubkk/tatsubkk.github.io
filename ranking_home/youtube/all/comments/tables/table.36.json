@@ -1,7 +1,29 @@
 {
   "rows": [
     {
-      "rank": 1751,
+      "rank": 1749,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Vao7eDMtrro/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Vao7eDMtrro",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Bubble feat.Uta - MV Eve",
+        "url": "https://www.youtube.com/watch?v=Vao7eDMtrro",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Eve",
+        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-04-28",
+      "viewCount": "1236万",
+      "likeCount": "26.3万",
+      "commentCount": "4762"
+    },
+    {
+      "rank": 1752,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vgwhZyKQUU8/default.jpg",
         "url": "https://www.youtube.com/watch?v=vgwhZyKQUU8",
@@ -18,30 +40,8 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-16",
-      "viewCount": "1321万",
+      "viewCount": "1322万",
       "likeCount": "10.4万",
-      "commentCount": "4761"
-    },
-    {
-      "rank": 1751,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/0lASG1aB5lE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=0lASG1aB5lE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Saucy Dog「あぁ、もう。」Music Video",
-        "url": "https://www.youtube.com/watch?v=0lASG1aB5lE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Saucy Dog",
-        "url": "https://www.youtube.com/channel/UCs8nP5mUR3pwJmgixsul8Hw",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-12-16",
-      "viewCount": "3342万",
-      "likeCount": "21.9万",
       "commentCount": "4761"
     },
     {
@@ -62,9 +62,9 @@
         "target": "_blank"
       },
       "publishedAt": "2017-10-03",
-      "viewCount": "1536万",
+      "viewCount": "1537万",
       "likeCount": "18.1万",
-      "commentCount": "4757"
+      "commentCount": "4758"
     },
     {
       "rank": 1754,
@@ -106,9 +106,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-04-10",
-      "viewCount": "2077万",
+      "viewCount": "2078万",
       "likeCount": "18.5万",
-      "commentCount": "4748"
+      "commentCount": "4747"
     },
     {
       "rank": 1756,
@@ -128,12 +128,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-11",
-      "viewCount": "3456万",
+      "viewCount": "3458万",
       "likeCount": "25.2万",
-      "commentCount": "4737"
+      "commentCount": "4741"
     },
     {
-      "rank": 1756,
+      "rank": 1757,
       "thumb": {
         "img": "https://i.ytimg.com/vi/D6CNN7FFP4s/default.jpg",
         "url": "https://www.youtube.com/watch?v=D6CNN7FFP4s",
@@ -172,12 +172,12 @@
         "target": "_blank"
       },
       "publishedAt": "2024-05-31",
-      "viewCount": "1738万",
+      "viewCount": "1741万",
       "likeCount": "29.1万",
-      "commentCount": "4720"
+      "commentCount": "4721"
     },
     {
-      "rank": 1758,
+      "rank": 1759,
       "thumb": {
         "img": "https://i.ytimg.com/vi/pUDI2x5Y0Wo/default.jpg",
         "url": "https://www.youtube.com/watch?v=pUDI2x5Y0Wo",
@@ -260,7 +260,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-09",
-      "viewCount": "1026万",
+      "viewCount": "1027万",
       "likeCount": "17.4万",
       "commentCount": "4716"
     },
@@ -282,34 +282,12 @@
         "target": "_blank"
       },
       "publishedAt": "2016-05-24",
-      "viewCount": "6676万",
-      "likeCount": "14.7万",
+      "viewCount": "6678万",
+      "likeCount": "14.8万",
       "commentCount": "4712"
     },
     {
-      "rank": 1764,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/wKKqOYt3gH0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=wKKqOYt3gH0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "kZm - TEENAGE VIBE feat. Tohji (Prod. Chaki Zulu)",
-        "url": "https://www.youtube.com/watch?v=wKKqOYt3gH0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YENTOWN",
-        "url": "https://www.youtube.com/channel/UCSVUraoC0p7x_HwMlMcvsPA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-04-22",
-      "viewCount": "1725万",
-      "likeCount": "17.1万",
-      "commentCount": "4711"
-    },
-    {
-      "rank": 1764,
+      "rank": 1763,
       "thumb": {
         "img": "https://i.ytimg.com/vi/drSMZgnmJjk/default.jpg",
         "url": "https://www.youtube.com/watch?v=drSMZgnmJjk",
@@ -326,12 +304,12 @@
         "target": "_blank"
       },
       "publishedAt": "2013-03-11",
-      "viewCount": "3687万",
+      "viewCount": "3688万",
       "likeCount": "18.2万",
-      "commentCount": "4711"
+      "commentCount": "4712"
     },
     {
-      "rank": 1764,
+      "rank": 1765,
       "thumb": {
         "img": "https://i.ytimg.com/vi/PzaW0E7uRwc/default.jpg",
         "url": "https://www.youtube.com/watch?v=PzaW0E7uRwc",
@@ -351,6 +329,28 @@
       "viewCount": "1136万",
       "likeCount": "15.7万",
       "commentCount": "4711"
+    },
+    {
+      "rank": 1766,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/wKKqOYt3gH0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=wKKqOYt3gH0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "kZm - TEENAGE VIBE feat. Tohji (Prod. Chaki Zulu)",
+        "url": "https://www.youtube.com/watch?v=wKKqOYt3gH0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YENTOWN",
+        "url": "https://www.youtube.com/channel/UCSVUraoC0p7x_HwMlMcvsPA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-04-22",
+      "viewCount": "1725万",
+      "likeCount": "17.1万",
+      "commentCount": "4710"
     },
     {
       "rank": 1767,
@@ -436,9 +436,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-18",
-      "viewCount": "2795万",
+      "viewCount": "2796万",
       "likeCount": "16.8万",
-      "commentCount": "4689"
+      "commentCount": "4691"
     },
     {
       "rank": 1771,
@@ -458,7 +458,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-25",
-      "viewCount": "2951万",
+      "viewCount": "2952万",
       "likeCount": "19.6万",
       "commentCount": "4683"
     },
@@ -480,9 +480,31 @@
         "target": "_blank"
       },
       "publishedAt": "2014-08-01",
-      "viewCount": "3361万",
+      "viewCount": "3362万",
       "likeCount": "7.4万",
       "commentCount": "4668"
+    },
+    {
+      "rank": 1773,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/5MZo9otAWAw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=5MZo9otAWAw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "King Gnu - SPECIALZ (King Gnu Dome Tour THE GREATEST UNKNOWN at TOKYO DOME)",
+        "url": "https://www.youtube.com/watch?v=5MZo9otAWAw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "King Gnu official YouTube channel",
+        "url": "https://www.youtube.com/channel/UCkB8HnJSDSJ2hkLQFUc-YrQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-03-23",
+      "viewCount": "1882万",
+      "likeCount": "18.8万",
+      "commentCount": "4658"
     },
     {
       "rank": 1773,
@@ -502,34 +524,34 @@
         "target": "_blank"
       },
       "publishedAt": "2012-08-28",
-      "viewCount": "2175万",
+      "viewCount": "2176万",
       "likeCount": "8.7万",
       "commentCount": "4658"
     },
     {
-      "rank": 1774,
+      "rank": 1775,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/5MZo9otAWAw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=5MZo9otAWAw",
+        "img": "https://i.ytimg.com/vi/wggigwtz4dQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=wggigwtz4dQ",
         "target": "_blank"
       },
       "title": {
-        "text": "King Gnu - SPECIALZ (King Gnu Dome Tour THE GREATEST UNKNOWN at TOKYO DOME)",
-        "url": "https://www.youtube.com/watch?v=5MZo9otAWAw",
+        "text": "IRIS OUT",
+        "url": "https://www.youtube.com/watch?v=wggigwtz4dQ",
         "target": "_blank"
       },
       "channel": {
-        "text": "King Gnu official YouTube channel",
-        "url": "https://www.youtube.com/channel/UCkB8HnJSDSJ2hkLQFUc-YrQ",
+        "text": "Kenshi Yonezu - Topic",
+        "url": "https://www.youtube.com/channel/UCC_OGcKdYY-aWFvVMFVGbzw",
         "target": "_blank"
       },
-      "publishedAt": "2024-03-23",
-      "viewCount": "1880万",
-      "likeCount": "18.8万",
-      "commentCount": "4655"
+      "publishedAt": "2025-09-14",
+      "viewCount": "3170万",
+      "likeCount": "29.9万",
+      "commentCount": "4651"
     },
     {
-      "rank": 1775,
+      "rank": 1776,
       "thumb": {
         "img": "https://i.ytimg.com/vi/tZbXHt3xPr8/default.jpg",
         "url": "https://www.youtube.com/watch?v=tZbXHt3xPr8",
@@ -551,28 +573,6 @@
       "commentCount": "4649"
     },
     {
-      "rank": 1776,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/8KwqvUKYkPg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=8KwqvUKYkPg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【第75回紅白歌合戦歌唱曲】『EYES ON YOU』MV Full",
-        "url": "https://www.youtube.com/watch?v=8KwqvUKYkPg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-07-12",
-      "viewCount": "1413万",
-      "likeCount": "9.4万",
-      "commentCount": "4638"
-    },
-    {
       "rank": 1777,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vS7-JPj8V-Q/default.jpg",
@@ -592,51 +592,29 @@
       "publishedAt": "2017-03-13",
       "viewCount": "1169万",
       "likeCount": "4.4万",
-      "commentCount": "4637"
+      "commentCount": "4638"
     },
     {
       "rank": 1777,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/wggigwtz4dQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=wggigwtz4dQ",
+        "img": "https://i.ytimg.com/vi/8KwqvUKYkPg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=8KwqvUKYkPg",
         "target": "_blank"
       },
       "title": {
-        "text": "IRIS OUT",
-        "url": "https://www.youtube.com/watch?v=wggigwtz4dQ",
+        "text": "【第75回紅白歌合戦歌唱曲】『EYES ON YOU』MV Full",
+        "url": "https://www.youtube.com/watch?v=8KwqvUKYkPg",
         "target": "_blank"
       },
       "channel": {
-        "text": "Kenshi Yonezu - Topic",
-        "url": "https://www.youtube.com/channel/UCC_OGcKdYY-aWFvVMFVGbzw",
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
         "target": "_blank"
       },
-      "publishedAt": "2025-09-14",
-      "viewCount": "3111万",
-      "likeCount": "29.6万",
-      "commentCount": "4637"
-    },
-    {
-      "rank": 1779,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/G7JClBRVjSQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=G7JClBRVjSQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "GENERATIONS from EXILE TRIBE / 「F.L.Y. BOYS F.L.Y. GIRLS」Music Video ～歌詞有り～",
-        "url": "https://www.youtube.com/watch?v=G7JClBRVjSQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-05-06",
-      "viewCount": "1762万",
-      "likeCount": "7.3万",
-      "commentCount": "4633"
+      "publishedAt": "2024-07-12",
+      "viewCount": "1414万",
+      "likeCount": "9.4万",
+      "commentCount": "4638"
     },
     {
       "rank": 1779,
@@ -656,8 +634,30 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-04",
-      "viewCount": "3234万",
+      "viewCount": "3236万",
       "likeCount": "23.9万",
+      "commentCount": "4634"
+    },
+    {
+      "rank": 1780,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/G7JClBRVjSQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=G7JClBRVjSQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "GENERATIONS from EXILE TRIBE / 「F.L.Y. BOYS F.L.Y. GIRLS」Music Video ～歌詞有り～",
+        "url": "https://www.youtube.com/watch?v=G7JClBRVjSQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-05-06",
+      "viewCount": "1762万",
+      "likeCount": "7.3万",
       "commentCount": "4633"
     },
     {
@@ -700,7 +700,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-10-17",
-      "viewCount": "1105万",
+      "viewCount": "1106万",
       "likeCount": "10.2万",
       "commentCount": "4622"
     },
@@ -724,7 +724,7 @@
       "publishedAt": "2023-01-06",
       "viewCount": "1139万",
       "likeCount": "-",
-      "commentCount": "4611"
+      "commentCount": "4613"
     },
     {
       "rank": 1784,
@@ -744,7 +744,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-25",
-      "viewCount": "2502万",
+      "viewCount": "2503万",
       "likeCount": "25.4万",
       "commentCount": "4598"
     },
@@ -788,7 +788,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-11-02",
-      "viewCount": "2239万",
+      "viewCount": "2240万",
       "likeCount": "44.2万",
       "commentCount": "4596"
     },
@@ -810,9 +810,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-12",
-      "viewCount": "2835万",
+      "viewCount": "2836万",
       "likeCount": "30.6万",
-      "commentCount": "4584"
+      "commentCount": "4586"
     },
     {
       "rank": 1788,
@@ -832,9 +832,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-10-09",
-      "viewCount": "5998万",
+      "viewCount": "5999万",
       "likeCount": "16万",
-      "commentCount": "4579"
+      "commentCount": "4580"
     },
     {
       "rank": 1789,
@@ -876,7 +876,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-04",
-      "viewCount": "4796万",
+      "viewCount": "4798万",
       "likeCount": "30.1万",
       "commentCount": "4568"
     },
@@ -900,7 +900,7 @@
       "publishedAt": "2021-06-08",
       "viewCount": "1860万",
       "likeCount": "-",
-      "commentCount": "4563"
+      "commentCount": "4564"
     },
     {
       "rank": 1792,
@@ -949,28 +949,6 @@
     {
       "rank": 1794,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/XjuHFHxwvGI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=XjuHFHxwvGI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "NMB48 - ナギイチ(Nagiichi) Official MV",
-        "url": "https://www.youtube.com/watch?v=XjuHFHxwvGI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "NMB48",
-        "url": "https://www.youtube.com/channel/UCnhrIe3jZNmqDEL_zSBXADQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-04-28",
-      "viewCount": "2324万",
-      "likeCount": "5万",
-      "commentCount": "4532"
-    },
-    {
-      "rank": 1795,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/-3RyqCAJkRU/default.jpg",
         "url": "https://www.youtube.com/watch?v=-3RyqCAJkRU",
         "target": "_blank"
@@ -988,7 +966,29 @@
       "publishedAt": "2010-10-18",
       "viewCount": "1854万",
       "likeCount": "6.2万",
-      "commentCount": "4531"
+      "commentCount": "4533"
+    },
+    {
+      "rank": 1794,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/XjuHFHxwvGI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=XjuHFHxwvGI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "NMB48 - ナギイチ(Nagiichi) Official MV",
+        "url": "https://www.youtube.com/watch?v=XjuHFHxwvGI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "NMB48",
+        "url": "https://www.youtube.com/channel/UCnhrIe3jZNmqDEL_zSBXADQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-04-28",
+      "viewCount": "2324万",
+      "likeCount": "5万",
+      "commentCount": "4533"
     },
     {
       "rank": 1796,
@@ -1008,9 +1008,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-30",
-      "viewCount": "1221万",
+      "viewCount": "1222万",
       "likeCount": "15.3万",
-      "commentCount": "4528"
+      "commentCount": "4527"
     },
     {
       "rank": 1797,
@@ -1030,9 +1030,9 @@
         "target": "_blank"
       },
       "publishedAt": "2016-11-21",
-      "viewCount": "3144万",
+      "viewCount": "3145万",
       "likeCount": "23.9万",
-      "commentCount": "4524"
+      "commentCount": "4526"
     },
     {
       "rank": 1798,
@@ -1052,7 +1052,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-11-20",
-      "viewCount": "2734万",
+      "viewCount": "2735万",
       "likeCount": "10.6万",
       "commentCount": "4523"
     },
@@ -1076,10 +1076,10 @@
       "publishedAt": "2022-09-02",
       "viewCount": "1887万",
       "likeCount": "26.1万",
-      "commentCount": "4520"
+      "commentCount": "4521"
     },
     {
-      "rank": 1799,
+      "rank": 1800,
       "thumb": {
         "img": "https://i.ytimg.com/vi/CePgforHlTs/default.jpg",
         "url": "https://www.youtube.com/watch?v=CePgforHlTs",

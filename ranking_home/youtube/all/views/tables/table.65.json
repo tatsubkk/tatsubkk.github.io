@@ -21,7 +21,7 @@
       "viewCount": "1032万",
       "likeCount": "1.6万",
       "commentCount": "518",
-      "increment_d1": "768"
+      "increment_d1": "845"
     },
     {
       "rank": 3202,
@@ -44,7 +44,7 @@
       "viewCount": "1030万",
       "likeCount": "3.6万",
       "commentCount": "1.3万",
-      "increment_d1": "1019"
+      "increment_d1": "1072"
     },
     {
       "rank": 3203,
@@ -67,7 +67,7 @@
       "viewCount": "1030万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "390"
+      "increment_d1": "379"
     },
     {
       "rank": 3204,
@@ -90,7 +90,7 @@
       "viewCount": "1029万",
       "likeCount": "8.1万",
       "commentCount": "5560",
-      "increment_d1": "242"
+      "increment_d1": "311"
     },
     {
       "rank": 3205,
@@ -113,7 +113,7 @@
       "viewCount": "1029万",
       "likeCount": "1845",
       "commentCount": "55",
-      "increment_d1": "14"
+      "increment_d1": "7"
     },
     {
       "rank": 3206,
@@ -136,7 +136,7 @@
       "viewCount": "1028万",
       "likeCount": "3.9万",
       "commentCount": "1267",
-      "increment_d1": "785"
+      "increment_d1": "704"
     },
     {
       "rank": 3207,
@@ -156,10 +156,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-09",
-      "viewCount": "1026万",
+      "viewCount": "1027万",
       "likeCount": "17.4万",
       "commentCount": "4716",
-      "increment_d1": "4160"
+      "increment_d1": "4355"
     },
     {
       "rank": 3208,
@@ -181,8 +181,8 @@
       "publishedAt": "2014-08-08",
       "viewCount": "1026万",
       "likeCount": "2.4万",
-      "commentCount": "381",
-      "increment_d1": "615"
+      "commentCount": "382",
+      "increment_d1": "519"
     },
     {
       "rank": 3209,
@@ -205,7 +205,7 @@
       "viewCount": "1025万",
       "likeCount": "9.5万",
       "commentCount": "5820",
-      "increment_d1": "1066"
+      "increment_d1": "1160"
     },
     {
       "rank": 3210,
@@ -228,7 +228,7 @@
       "viewCount": "1024万",
       "likeCount": "2.7万",
       "commentCount": "1284",
-      "increment_d1": "291"
+      "increment_d1": "252"
     },
     {
       "rank": 3211,
@@ -250,8 +250,8 @@
       "publishedAt": "2012-11-12",
       "viewCount": "1024万",
       "likeCount": "4万",
-      "commentCount": "1105",
-      "increment_d1": "482"
+      "commentCount": "1106",
+      "increment_d1": "644"
     },
     {
       "rank": 3212,
@@ -274,7 +274,7 @@
       "viewCount": "1024万",
       "likeCount": "2.3万",
       "commentCount": "926",
-      "increment_d1": "527"
+      "increment_d1": "564"
     },
     {
       "rank": 3213,
@@ -297,7 +297,7 @@
       "viewCount": "1023万",
       "likeCount": "3万",
       "commentCount": "891",
-      "increment_d1": "1420"
+      "increment_d1": "1391"
     },
     {
       "rank": 3214,
@@ -319,8 +319,31 @@
       "publishedAt": "2021-06-01",
       "viewCount": "1023万",
       "likeCount": "18.4万",
-      "commentCount": "6933",
-      "increment_d1": "2143"
+      "commentCount": "6934",
+      "increment_d1": "2236"
+    },
+    {
+      "rank": 3215,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/6bYQ7f1xTOE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=6bYQ7f1xTOE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "シュガーヘイト／luz×nqrse×ぷす",
+        "url": "https://www.youtube.com/watch?v=6bYQ7f1xTOE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ツユ",
+        "url": "https://www.youtube.com/channel/UCB2tP2QfRG7hTra0KTOtTBg",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-02-15",
+      "viewCount": "1022万",
+      "likeCount": "10.7万",
+      "commentCount": "1653",
+      "increment_d1": "1318"
     },
     {
       "rank": 3215,
@@ -343,30 +366,7 @@
       "viewCount": "1022万",
       "likeCount": "5.9万",
       "commentCount": "913",
-      "increment_d1": "540"
-    },
-    {
-      "rank": 3216,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/6bYQ7f1xTOE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=6bYQ7f1xTOE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "シュガーヘイト／luz×nqrse×ぷす",
-        "url": "https://www.youtube.com/watch?v=6bYQ7f1xTOE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ツユ",
-        "url": "https://www.youtube.com/channel/UCB2tP2QfRG7hTra0KTOtTBg",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-02-15",
-      "viewCount": "1022万",
-      "likeCount": "10.7万",
-      "commentCount": "1653",
-      "increment_d1": "1487"
+      "increment_d1": "712"
     },
     {
       "rank": 3217,
@@ -389,7 +389,7 @@
       "viewCount": "1022万",
       "likeCount": "25.1万",
       "commentCount": "1.4万",
-      "increment_d1": "2592"
+      "increment_d1": "2574"
     },
     {
       "rank": 3218,
@@ -411,8 +411,8 @@
       "publishedAt": "2014-12-08",
       "viewCount": "1022万",
       "likeCount": "5.6万",
-      "commentCount": "1436",
-      "increment_d1": "725"
+      "commentCount": "1437",
+      "increment_d1": "748"
     },
     {
       "rank": 3219,
@@ -435,7 +435,7 @@
       "viewCount": "1022万",
       "likeCount": "2.3万",
       "commentCount": "1505",
-      "increment_d1": "1289"
+      "increment_d1": "1177"
     },
     {
       "rank": 3220,
@@ -458,10 +458,33 @@
       "viewCount": "1022万",
       "likeCount": "4.4万",
       "commentCount": "2532",
-      "increment_d1": "1202"
+      "increment_d1": "1054"
     },
     {
       "rank": 3221,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ItyC0Ipi51I/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ItyC0Ipi51I",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "モーニング娘。 『シャボン玉』 (MV)",
+        "url": "https://www.youtube.com/watch?v=ItyC0Ipi51I",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "モーニング娘。",
+        "url": "https://www.youtube.com/channel/UCoKXb95K5h3sME3c9OCBaeA",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-10-18",
+      "viewCount": "1021万",
+      "likeCount": "4.2万",
+      "commentCount": "2467",
+      "increment_d1": "2504"
+    },
+    {
+      "rank": 3222,
       "thumb": {
         "img": "https://i.ytimg.com/vi/xA_4ZFe1TME/default.jpg",
         "url": "https://www.youtube.com/watch?v=xA_4ZFe1TME",
@@ -481,30 +504,7 @@
       "viewCount": "1021万",
       "likeCount": "20.8万",
       "commentCount": "5251",
-      "increment_d1": "1312"
-    },
-    {
-      "rank": 3222,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ItyC0Ipi51I/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ItyC0Ipi51I",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "モーニング娘。 『シャボン玉』 (MV)",
-        "url": "https://www.youtube.com/watch?v=ItyC0Ipi51I",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "モーニング娘。",
-        "url": "https://www.youtube.com/channel/UCoKXb95K5h3sME3c9OCBaeA",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-10-18",
-      "viewCount": "1021万",
-      "likeCount": "4.2万",
-      "commentCount": "2466",
-      "increment_d1": "2279"
+      "increment_d1": "1324"
     },
     {
       "rank": 3223,
@@ -525,35 +525,12 @@
       },
       "publishedAt": "2020-02-25",
       "viewCount": "1021万",
-      "likeCount": "11.8万",
+      "likeCount": "11.9万",
       "commentCount": "3174",
-      "increment_d1": "1716"
+      "increment_d1": "1613"
     },
     {
       "rank": 3224,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/CpKTiaqHLo4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=CpKTiaqHLo4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Repezen Chikyu - 11th Single「Remember」",
-        "url": "https://www.youtube.com/watch?v=CpKTiaqHLo4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Repezen Foxx - Studio Candy Foxx Co.",
-        "url": "https://www.youtube.com/channel/UCxMLTQETeHIB2WGuTOG5wJA",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-02-20",
-      "viewCount": "1021万",
-      "likeCount": "6.8万",
-      "commentCount": "4964",
-      "increment_d1": "420"
-    },
-    {
-      "rank": 3225,
       "thumb": {
         "img": "https://i.ytimg.com/vi/GMElC5PJWIM/default.jpg",
         "url": "https://www.youtube.com/watch?v=GMElC5PJWIM",
@@ -573,7 +550,30 @@
       "viewCount": "1021万",
       "likeCount": "7.6万",
       "commentCount": "9445",
-      "increment_d1": "1303"
+      "increment_d1": "1348"
+    },
+    {
+      "rank": 3225,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/CpKTiaqHLo4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=CpKTiaqHLo4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Repezen Chikyu - 11th Single「Remember」",
+        "url": "https://www.youtube.com/watch?v=CpKTiaqHLo4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Repezen Foxx - Studio Candy Foxx Co.",
+        "url": "https://www.youtube.com/channel/UCxMLTQETeHIB2WGuTOG5wJA",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-02-20",
+      "viewCount": "1021万",
+      "likeCount": "6.8万",
+      "commentCount": "4964",
+      "increment_d1": "392"
     },
     {
       "rank": 3226,
@@ -596,7 +596,7 @@
       "viewCount": "1020万",
       "likeCount": "5.3万",
       "commentCount": "1323",
-      "increment_d1": "906"
+      "increment_d1": "930"
     },
     {
       "rank": 3227,
@@ -619,7 +619,7 @@
       "viewCount": "1019万",
       "likeCount": "-",
       "commentCount": "8069",
-      "increment_d1": "958"
+      "increment_d1": "1181"
     },
     {
       "rank": 3228,
@@ -642,7 +642,7 @@
       "viewCount": "1019万",
       "likeCount": "6.6万",
       "commentCount": "1777",
-      "increment_d1": "1354"
+      "increment_d1": "1372"
     },
     {
       "rank": 3229,
@@ -664,8 +664,8 @@
       "publishedAt": "2017-07-02",
       "viewCount": "1018万",
       "likeCount": "6.7万",
-      "commentCount": "1010",
-      "increment_d1": "1247"
+      "commentCount": "1009",
+      "increment_d1": "1026"
     },
     {
       "rank": 3230,
@@ -688,7 +688,7 @@
       "viewCount": "1018万",
       "likeCount": "2.8万",
       "commentCount": "950",
-      "increment_d1": "1409"
+      "increment_d1": "1544"
     },
     {
       "rank": 3231,
@@ -711,7 +711,7 @@
       "viewCount": "1017万",
       "likeCount": "8.3万",
       "commentCount": "1.1万",
-      "increment_d1": "981"
+      "increment_d1": "1129"
     },
     {
       "rank": 3232,
@@ -734,7 +734,7 @@
       "viewCount": "1017万",
       "likeCount": "13.2万",
       "commentCount": "6321",
-      "increment_d1": "719"
+      "increment_d1": "702"
     },
     {
       "rank": 3233,
@@ -757,7 +757,7 @@
       "viewCount": "1017万",
       "likeCount": "3万",
       "commentCount": "822",
-      "increment_d1": "1348"
+      "increment_d1": "1284"
     },
     {
       "rank": 3234,
@@ -780,7 +780,7 @@
       "viewCount": "1016万",
       "likeCount": "2.1万",
       "commentCount": "2725",
-      "increment_d1": "402"
+      "increment_d1": "308"
     },
     {
       "rank": 3235,
@@ -803,7 +803,7 @@
       "viewCount": "1016万",
       "likeCount": "6.4万",
       "commentCount": "2888",
-      "increment_d1": "765"
+      "increment_d1": "757"
     },
     {
       "rank": 3236,
@@ -826,7 +826,7 @@
       "viewCount": "1016万",
       "likeCount": "3.3万",
       "commentCount": "2394",
-      "increment_d1": "417"
+      "increment_d1": "331"
     },
     {
       "rank": 3237,
@@ -849,7 +849,7 @@
       "viewCount": "1016万",
       "likeCount": "3.2万",
       "commentCount": "712",
-      "increment_d1": "243"
+      "increment_d1": "263"
     },
     {
       "rank": 3238,
@@ -872,7 +872,7 @@
       "viewCount": "1015万",
       "likeCount": "4.8万",
       "commentCount": "2759",
-      "increment_d1": "732"
+      "increment_d1": "576"
     },
     {
       "rank": 3239,
@@ -895,7 +895,7 @@
       "viewCount": "1015万",
       "likeCount": "2万",
       "commentCount": "887",
-      "increment_d1": "518"
+      "increment_d1": "385"
     },
     {
       "rank": 3240,
@@ -918,7 +918,7 @@
       "viewCount": "1015万",
       "likeCount": "-",
       "commentCount": "1.2万",
-      "increment_d1": "1025"
+      "increment_d1": "1127"
     },
     {
       "rank": 3241,
@@ -940,8 +940,8 @@
       "publishedAt": "2014-11-08",
       "viewCount": "1014万",
       "likeCount": "3.9万",
-      "commentCount": "1155",
-      "increment_d1": "1149"
+      "commentCount": "1154",
+      "increment_d1": "1190"
     },
     {
       "rank": 3242,
@@ -964,7 +964,7 @@
       "viewCount": "1014万",
       "likeCount": "10.8万",
       "commentCount": "2007",
-      "increment_d1": "1563"
+      "increment_d1": "1438"
     },
     {
       "rank": 3243,
@@ -986,34 +986,11 @@
       "publishedAt": "2023-05-10",
       "viewCount": "1013万",
       "likeCount": "-",
-      "commentCount": "4958",
-      "increment_d1": "1895"
+      "commentCount": "4959",
+      "increment_d1": "2408"
     },
     {
       "rank": 3244,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/pywWH9XaBZg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=pywWH9XaBZg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "miwa 『あなたがここにいて抱きしめることができるなら』",
-        "url": "https://www.youtube.com/watch?v=pywWH9XaBZg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-10-27",
-      "viewCount": "1012万",
-      "likeCount": "3万",
-      "commentCount": "878",
-      "increment_d1": "65"
-    },
-    {
-      "rank": 3245,
       "thumb": {
         "img": "https://i.ytimg.com/vi/y1KqtVpmh1s/default.jpg",
         "url": "https://www.youtube.com/watch?v=y1KqtVpmh1s",
@@ -1033,7 +1010,30 @@
       "viewCount": "1012万",
       "likeCount": "4.6万",
       "commentCount": "1609",
-      "increment_d1": "1729"
+      "increment_d1": "2872"
+    },
+    {
+      "rank": 3245,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/pywWH9XaBZg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=pywWH9XaBZg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "miwa 『あなたがここにいて抱きしめることができるなら』",
+        "url": "https://www.youtube.com/watch?v=pywWH9XaBZg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-10-27",
+      "viewCount": "1012万",
+      "likeCount": "3万",
+      "commentCount": "878",
+      "increment_d1": "72"
     },
     {
       "rank": 3246,
@@ -1056,7 +1056,7 @@
       "viewCount": "1011万",
       "likeCount": "3.9万",
       "commentCount": "953",
-      "increment_d1": "80"
+      "increment_d1": "125"
     },
     {
       "rank": 3247,
@@ -1079,7 +1079,7 @@
       "viewCount": "1010万",
       "likeCount": "3.3万",
       "commentCount": "819",
-      "increment_d1": "965"
+      "increment_d1": "808"
     },
     {
       "rank": 3248,
@@ -1102,7 +1102,7 @@
       "viewCount": "1010万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "805"
+      "increment_d1": "764"
     },
     {
       "rank": 3249,
@@ -1125,7 +1125,7 @@
       "viewCount": "1009万",
       "likeCount": "21.1万",
       "commentCount": "1.2万",
-      "increment_d1": "321"
+      "increment_d1": "283"
     },
     {
       "rank": 3250,
@@ -1148,7 +1148,7 @@
       "viewCount": "1008万",
       "likeCount": "2.1万",
       "commentCount": "2378",
-      "increment_d1": "390"
+      "increment_d1": "354"
     }
   ]
 }

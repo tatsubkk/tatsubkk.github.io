@@ -20,7 +20,7 @@
       "publishedAt": "2012-10-31",
       "viewCount": "4402万",
       "likeCount": "11.4万",
-      "commentCount": "9887"
+      "commentCount": "9888"
     },
     {
       "rank": 1002,
@@ -64,32 +64,10 @@
       "publishedAt": "2010-09-08",
       "viewCount": "8698万",
       "likeCount": "14.8万",
-      "commentCount": "9869"
+      "commentCount": "9870"
     },
     {
       "rank": 1004,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/E7YAf0O02Ms/default.jpg",
-        "url": "https://www.youtube.com/watch?v=E7YAf0O02Ms",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE「ニュー・マイ・ノーマル」Official Music Video",
-        "url": "https://www.youtube.com/watch?v=E7YAf0O02Ms",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-03-18",
-      "viewCount": "3198万",
-      "likeCount": "22.1万",
-      "commentCount": "9866"
-    },
-    {
-      "rank": 1005,
       "thumb": {
         "img": "https://i.ytimg.com/vi/BC9P3DSZu0A/default.jpg",
         "url": "https://www.youtube.com/watch?v=BC9P3DSZu0A",
@@ -106,9 +84,31 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-13",
-      "viewCount": "2401万",
-      "likeCount": "20.6万",
-      "commentCount": "9858"
+      "viewCount": "2403万",
+      "likeCount": "20.7万",
+      "commentCount": "9869"
+    },
+    {
+      "rank": 1005,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/E7YAf0O02Ms/default.jpg",
+        "url": "https://www.youtube.com/watch?v=E7YAf0O02Ms",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE「ニュー・マイ・ノーマル」Official Music Video",
+        "url": "https://www.youtube.com/watch?v=E7YAf0O02Ms",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-03-18",
+      "viewCount": "3200万",
+      "likeCount": "22.1万",
+      "commentCount": "9868"
     },
     {
       "rank": 1006,
@@ -172,9 +172,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-22",
-      "viewCount": "3602万",
+      "viewCount": "3603万",
       "likeCount": "48.5万",
-      "commentCount": "9829"
+      "commentCount": "9825"
     },
     {
       "rank": 1009,
@@ -194,9 +194,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-03-11",
-      "viewCount": "5602万",
+      "viewCount": "5603万",
       "likeCount": "33.5万",
-      "commentCount": "9795"
+      "commentCount": "9797"
     },
     {
       "rank": 1010,
@@ -216,7 +216,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-30",
-      "viewCount": "1676万",
+      "viewCount": "1677万",
       "likeCount": "-",
       "commentCount": "9791"
     },
@@ -238,9 +238,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-14",
-      "viewCount": "8474万",
+      "viewCount": "8481万",
       "likeCount": "42万",
-      "commentCount": "9776"
+      "commentCount": "9778"
     },
     {
       "rank": 1012,
@@ -260,34 +260,12 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-19",
-      "viewCount": "4545万",
+      "viewCount": "4546万",
       "likeCount": "32.1万",
-      "commentCount": "9768"
+      "commentCount": "9772"
     },
     {
       "rank": 1013,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/thFb8_JGIeo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=thFb8_JGIeo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ARASHI - Happiness [Official Live Video]",
-        "url": "https://www.youtube.com/watch?v=thFb8_JGIeo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ARASHI",
-        "url": "https://www.youtube.com/channel/UCP7Gw_YZAuh4Yg2fcdcuumQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-10-26",
-      "viewCount": "2812万",
-      "likeCount": "-",
-      "commentCount": "9755"
-    },
-    {
-      "rank": 1014,
       "thumb": {
         "img": "https://i.ytimg.com/vi/v9V5aByfeCM/default.jpg",
         "url": "https://www.youtube.com/watch?v=v9V5aByfeCM",
@@ -309,7 +287,7 @@
       "commentCount": "9754"
     },
     {
-      "rank": 1015,
+      "rank": 1013,
       "thumb": {
         "img": "https://i.ytimg.com/vi/aikM28XkxFk/default.jpg",
         "url": "https://www.youtube.com/watch?v=aikM28XkxFk",
@@ -326,7 +304,29 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-16",
-      "viewCount": "3321万",
+      "viewCount": "3323万",
+      "likeCount": "-",
+      "commentCount": "9754"
+    },
+    {
+      "rank": 1015,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/thFb8_JGIeo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=thFb8_JGIeo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ARASHI - Happiness [Official Live Video]",
+        "url": "https://www.youtube.com/watch?v=thFb8_JGIeo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ARASHI",
+        "url": "https://www.youtube.com/channel/UCP7Gw_YZAuh4Yg2fcdcuumQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-10-26",
+      "viewCount": "2814万",
       "likeCount": "-",
       "commentCount": "9753"
     },
@@ -348,9 +348,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-27",
-      "viewCount": "2328万",
+      "viewCount": "2329万",
       "likeCount": "23.5万",
-      "commentCount": "9733"
+      "commentCount": "9735"
     },
     {
       "rank": 1017,
@@ -392,9 +392,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-17",
-      "viewCount": "2103万",
+      "viewCount": "2105万",
       "likeCount": "14.8万",
-      "commentCount": "9716"
+      "commentCount": "9719"
     },
     {
       "rank": 1019,
@@ -414,9 +414,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-14",
-      "viewCount": "7644万",
+      "viewCount": "7647万",
       "likeCount": "38.7万",
-      "commentCount": "9707"
+      "commentCount": "9710"
     },
     {
       "rank": 1020,
@@ -458,9 +458,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-18",
-      "viewCount": "1912万",
+      "viewCount": "1913万",
       "likeCount": "12.1万",
-      "commentCount": "9675"
+      "commentCount": "9673"
     },
     {
       "rank": 1022,
@@ -480,34 +480,12 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-15",
-      "viewCount": "2535万",
+      "viewCount": "2536万",
       "likeCount": "18.4万",
       "commentCount": "9665"
     },
     {
       "rank": 1023,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/v2HN4gd66nM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=v2HN4gd66nM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ワタシノテンシ feat.成海聖奈（CV：雨宮天）／ HoneyWorks",
-        "url": "https://www.youtube.com/watch?v=v2HN4gd66nM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "HoneyWorks OFFICIAL",
-        "url": "https://www.youtube.com/channel/UCAaGaynFpku5cAx6OOSrW-w",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-12-22",
-      "viewCount": "2445万",
-      "likeCount": "32.2万",
-      "commentCount": "9658"
-    },
-    {
-      "rank": 1024,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ErqUUYWfOBo/default.jpg",
         "url": "https://www.youtube.com/watch?v=ErqUUYWfOBo",
@@ -529,6 +507,28 @@
       "commentCount": "9657"
     },
     {
+      "rank": 1023,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/v2HN4gd66nM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=v2HN4gd66nM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ワタシノテンシ feat.成海聖奈（CV：雨宮天）／ HoneyWorks",
+        "url": "https://www.youtube.com/watch?v=v2HN4gd66nM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "HoneyWorks OFFICIAL",
+        "url": "https://www.youtube.com/channel/UCAaGaynFpku5cAx6OOSrW-w",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-12-22",
+      "viewCount": "2445万",
+      "likeCount": "32.2万",
+      "commentCount": "9657"
+    },
+    {
       "rank": 1025,
       "thumb": {
         "img": "https://i.ytimg.com/vi/XU94JysTLVI/default.jpg",
@@ -546,9 +546,9 @@
         "target": "_blank"
       },
       "publishedAt": "2018-07-09",
-      "viewCount": "2739万",
+      "viewCount": "2741万",
       "likeCount": "15.1万",
-      "commentCount": "9647"
+      "commentCount": "9652"
     },
     {
       "rank": 1026,
@@ -597,28 +597,6 @@
     {
       "rank": 1028,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/J71ILoiePMg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=J71ILoiePMg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Vegetable(ベジタボー)/Momoclo-chan Z×PIKOTARO(ももくろちゃんZ×ピコ太郎)",
-        "url": "https://www.youtube.com/watch?v=J71ILoiePMg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "PIKOTAROピコ太郎OFFICIAL CHANNEL",
-        "url": "https://www.youtube.com/channel/UCKpIOnsk-gcwHXIzuk24ExA",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-02-20",
-      "viewCount": "1830万",
-      "likeCount": "8.6万",
-      "commentCount": "9615"
-    },
-    {
-      "rank": 1028,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/QzLvXenuZ8k/default.jpg",
         "url": "https://www.youtube.com/watch?v=QzLvXenuZ8k",
         "target": "_blank"
@@ -637,6 +615,28 @@
       "viewCount": "1986万",
       "likeCount": "-",
       "commentCount": "9615"
+    },
+    {
+      "rank": 1029,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/J71ILoiePMg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=J71ILoiePMg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Vegetable(ベジタボー)/Momoclo-chan Z×PIKOTARO(ももくろちゃんZ×ピコ太郎)",
+        "url": "https://www.youtube.com/watch?v=J71ILoiePMg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "PIKOTAROピコ太郎OFFICIAL CHANNEL",
+        "url": "https://www.youtube.com/channel/UCKpIOnsk-gcwHXIzuk24ExA",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-02-20",
+      "viewCount": "1830万",
+      "likeCount": "8.6万",
+      "commentCount": "9609"
     },
     {
       "rank": 1030,
@@ -658,10 +658,10 @@
       "publishedAt": "2019-10-28",
       "viewCount": "1398万",
       "likeCount": "-",
-      "commentCount": "9602"
+      "commentCount": "9605"
     },
     {
-      "rank": 1030,
+      "rank": 1031,
       "thumb": {
         "img": "https://i.ytimg.com/vi/SHSWHJBuFzM/default.jpg",
         "url": "https://www.youtube.com/watch?v=SHSWHJBuFzM",
@@ -680,29 +680,7 @@
       "publishedAt": "2019-08-30",
       "viewCount": "1138万",
       "likeCount": "17.1万",
-      "commentCount": "9602"
-    },
-    {
-      "rank": 1032,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/q09Gs6e5XVI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=q09Gs6e5XVI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "変態紳士クラブ / YOKAZE (Official Music Video)",
-        "url": "https://www.youtube.com/watch?v=q09Gs6e5XVI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "変態紳士クラブ",
-        "url": "https://www.youtube.com/channel/UCMI5tfhifxlSOOh1ErnfJuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-05-29",
-      "viewCount": "9738万",
-      "likeCount": "33万",
-      "commentCount": "9591"
+      "commentCount": "9603"
     },
     {
       "rank": 1032,
@@ -724,6 +702,28 @@
       "publishedAt": "2020-10-09",
       "viewCount": "1568万",
       "likeCount": "-",
+      "commentCount": "9591"
+    },
+    {
+      "rank": 1032,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/q09Gs6e5XVI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=q09Gs6e5XVI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "変態紳士クラブ / YOKAZE (Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=q09Gs6e5XVI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "変態紳士クラブ",
+        "url": "https://www.youtube.com/channel/UCMI5tfhifxlSOOh1ErnfJuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-05-29",
+      "viewCount": "9741万",
+      "likeCount": "33万",
       "commentCount": "9591"
     },
     {
@@ -768,7 +768,7 @@
       "publishedAt": "2021-07-12",
       "viewCount": "1956万",
       "likeCount": "-",
-      "commentCount": "9572"
+      "commentCount": "9574"
     },
     {
       "rank": 1036,
@@ -810,9 +810,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-31",
-      "viewCount": "1776万",
+      "viewCount": "1777万",
       "likeCount": "-",
-      "commentCount": "9531"
+      "commentCount": "9532"
     },
     {
       "rank": 1038,
@@ -854,34 +854,12 @@
         "target": "_blank"
       },
       "publishedAt": "2018-10-01",
-      "viewCount": "3363万",
+      "viewCount": "3364万",
       "likeCount": "26.6万",
       "commentCount": "9502"
     },
     {
       "rank": 1040,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/4MoRLTAJY_0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=4MoRLTAJY_0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ヨルシカ - 藍二乗 (Music Video)",
-        "url": "https://www.youtube.com/watch?v=4MoRLTAJY_0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ヨルシカ / n-buna Official",
-        "url": "https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-12-27",
-      "viewCount": "4868万",
-      "likeCount": "32.9万",
-      "commentCount": "9446"
-    },
-    {
-      "rank": 1041,
       "thumb": {
         "img": "https://i.ytimg.com/vi/GMElC5PJWIM/default.jpg",
         "url": "https://www.youtube.com/watch?v=GMElC5PJWIM",
@@ -903,6 +881,28 @@
       "commentCount": "9445"
     },
     {
+      "rank": 1041,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/4MoRLTAJY_0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=4MoRLTAJY_0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ヨルシカ - 藍二乗 (Music Video)",
+        "url": "https://www.youtube.com/watch?v=4MoRLTAJY_0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ヨルシカ / n-buna Official",
+        "url": "https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-12-27",
+      "viewCount": "4869万",
+      "likeCount": "32.9万",
+      "commentCount": "9444"
+    },
+    {
       "rank": 1042,
       "thumb": {
         "img": "https://i.ytimg.com/vi/rpFUNMmKIlg/default.jpg",
@@ -920,9 +920,9 @@
         "target": "_blank"
       },
       "publishedAt": "2018-06-26",
-      "viewCount": "5588万",
+      "viewCount": "5589万",
       "likeCount": "17.8万",
-      "commentCount": "9442"
+      "commentCount": "9441"
     },
     {
       "rank": 1043,
@@ -949,28 +949,6 @@
     {
       "rank": 1044,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/ReCnlwVZj1M/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ReCnlwVZj1M",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Official髭男dism - 115万キロのフィルム［Official Audio］",
-        "url": "https://www.youtube.com/watch?v=ReCnlwVZj1M",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Official髭男dism",
-        "url": "https://www.youtube.com/channel/UC3vg17IZ1IV73xx069jG44w",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-03-16",
-      "viewCount": "9633万",
-      "likeCount": "34.2万",
-      "commentCount": "9424"
-    },
-    {
-      "rank": 1045,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/Z2wKQLY1XcQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=Z2wKQLY1XcQ",
         "target": "_blank"
@@ -988,7 +966,29 @@
       "publishedAt": "2022-12-12",
       "viewCount": "2746万",
       "likeCount": "37.9万",
-      "commentCount": "9423"
+      "commentCount": "9427"
+    },
+    {
+      "rank": 1045,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ReCnlwVZj1M/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ReCnlwVZj1M",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Official髭男dism - 115万キロのフィルム［Official Audio］",
+        "url": "https://www.youtube.com/watch?v=ReCnlwVZj1M",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Official髭男dism",
+        "url": "https://www.youtube.com/channel/UC3vg17IZ1IV73xx069jG44w",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-03-16",
+      "viewCount": "9635万",
+      "likeCount": "34.2万",
+      "commentCount": "9426"
     },
     {
       "rank": 1046,
@@ -1008,9 +1008,9 @@
         "target": "_blank"
       },
       "publishedAt": "2011-09-21",
-      "viewCount": "6396万",
+      "viewCount": "6397万",
       "likeCount": "29.6万",
-      "commentCount": "9416"
+      "commentCount": "9418"
     },
     {
       "rank": 1047,
@@ -1052,7 +1052,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-26",
-      "viewCount": "3432万",
+      "viewCount": "3433万",
       "likeCount": "46.7万",
       "commentCount": "9408"
     },
@@ -1074,9 +1074,9 @@
         "target": "_blank"
       },
       "publishedAt": "2016-07-10",
-      "viewCount": "4844万",
+      "viewCount": "4845万",
       "likeCount": "20.8万",
-      "commentCount": "9401"
+      "commentCount": "9402"
     },
     {
       "rank": 1050,

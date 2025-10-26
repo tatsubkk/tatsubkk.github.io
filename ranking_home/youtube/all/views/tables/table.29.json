@@ -21,7 +21,7 @@
       "viewCount": "2458万",
       "likeCount": "8.1万",
       "commentCount": "5323",
-      "increment_d1": "1627"
+      "increment_d1": "1839"
     },
     {
       "rank": 1402,
@@ -41,13 +41,36 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-24",
-      "viewCount": "2452万",
+      "viewCount": "2453万",
       "likeCount": "-",
       "commentCount": "1.3万",
-      "increment_d1": "7922"
+      "increment_d1": "9286"
     },
     {
       "rank": 1403,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/8ooptXF4IDE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=8ooptXF4IDE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "マカロニえんぴつ「ミスター・ブルースカイ」 MV",
+        "url": "https://www.youtube.com/watch?v=8ooptXF4IDE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "murffin discs",
+        "url": "https://www.youtube.com/channel/UC1-EP9cKVrNQqvG-drnDA7Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-11-21",
+      "viewCount": "2449万",
+      "likeCount": "14.9万",
+      "commentCount": "1894",
+      "increment_d1": "5.02万"
+    },
+    {
+      "rank": 1404,
       "thumb": {
         "img": "https://i.ytimg.com/vi/xkMdLcB_vNU/default.jpg",
         "url": "https://www.youtube.com/watch?v=xkMdLcB_vNU",
@@ -67,30 +90,7 @@
       "viewCount": "2448万",
       "likeCount": "15.1万",
       "commentCount": "1.3万",
-      "increment_d1": "2276"
-    },
-    {
-      "rank": 1404,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/v2HN4gd66nM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=v2HN4gd66nM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ワタシノテンシ feat.成海聖奈（CV：雨宮天）／ HoneyWorks",
-        "url": "https://www.youtube.com/watch?v=v2HN4gd66nM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "HoneyWorks OFFICIAL",
-        "url": "https://www.youtube.com/channel/UCAaGaynFpku5cAx6OOSrW-w",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-12-22",
-      "viewCount": "2445万",
-      "likeCount": "32.2万",
-      "commentCount": "9658",
-      "increment_d1": "2404"
+      "increment_d1": "2520"
     },
     {
       "rank": 1405,
@@ -110,36 +110,82 @@
         "target": "_blank"
       },
       "publishedAt": "2020-11-18",
-      "viewCount": "2444万",
+      "viewCount": "2445万",
       "likeCount": "7.6万",
-      "commentCount": "4161",
-      "increment_d1": "1.11万"
+      "commentCount": "4163",
+      "increment_d1": "1.2万"
     },
     {
       "rank": 1406,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/8ooptXF4IDE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=8ooptXF4IDE",
+        "img": "https://i.ytimg.com/vi/v2HN4gd66nM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=v2HN4gd66nM",
         "target": "_blank"
       },
       "title": {
-        "text": "マカロニえんぴつ「ミスター・ブルースカイ」 MV",
-        "url": "https://www.youtube.com/watch?v=8ooptXF4IDE",
+        "text": "ワタシノテンシ feat.成海聖奈（CV：雨宮天）／ HoneyWorks",
+        "url": "https://www.youtube.com/watch?v=v2HN4gd66nM",
         "target": "_blank"
       },
       "channel": {
-        "text": "murffin discs",
-        "url": "https://www.youtube.com/channel/UC1-EP9cKVrNQqvG-drnDA7Q",
+        "text": "HoneyWorks OFFICIAL",
+        "url": "https://www.youtube.com/channel/UCAaGaynFpku5cAx6OOSrW-w",
         "target": "_blank"
       },
-      "publishedAt": "2017-11-21",
-      "viewCount": "2444万",
-      "likeCount": "14.9万",
-      "commentCount": "1893",
-      "increment_d1": "4.29万"
+      "publishedAt": "2019-12-22",
+      "viewCount": "2445万",
+      "likeCount": "32.2万",
+      "commentCount": "9657",
+      "increment_d1": "2419"
     },
     {
       "rank": 1407,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/HmkbBdD8044/default.jpg",
+        "url": "https://www.youtube.com/watch?v=HmkbBdD8044",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【LIVE映像】愛して愛して愛して PEACOCK THEATER  Los Angeles, CA 2024.3.29【Ado】",
+        "url": "https://www.youtube.com/watch?v=HmkbBdD8044",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ado",
+        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-06-07",
+      "viewCount": "2444万",
+      "likeCount": "57.6万",
+      "commentCount": "8488",
+      "increment_d1": "4.53万"
+    },
+    {
+      "rank": 1408,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/dFC3Qorbvgo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=dFC3Qorbvgo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Official】Uru 『それを愛と呼ぶなら』 LIVE “Uru Tour 2023「contrast」” on WOWOWプラス",
+        "url": "https://www.youtube.com/watch?v=dFC3Qorbvgo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Uru Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-10-27",
+      "viewCount": "2440万",
+      "likeCount": "7万",
+      "commentCount": "2453",
+      "increment_d1": "2.84万"
+    },
+    {
+      "rank": 1409,
       "thumb": {
         "img": "https://i.ytimg.com/vi/A2JZozYJgt0/default.jpg",
         "url": "https://www.youtube.com/watch?v=A2JZozYJgt0",
@@ -159,33 +205,10 @@
       "viewCount": "2440万",
       "likeCount": "2.5万",
       "commentCount": "-",
-      "increment_d1": "379"
+      "increment_d1": "463"
     },
     {
-      "rank": 1408,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/HmkbBdD8044/default.jpg",
-        "url": "https://www.youtube.com/watch?v=HmkbBdD8044",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【LIVE映像】愛して愛して愛して PEACOCK THEATER  Los Angeles, CA 2024.3.29【Ado】",
-        "url": "https://www.youtube.com/watch?v=HmkbBdD8044",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ado",
-        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-06-07",
-      "viewCount": "2440万",
-      "likeCount": "57.5万",
-      "commentCount": "8480",
-      "increment_d1": "4.15万"
-    },
-    {
-      "rank": 1409,
+      "rank": 1410,
       "thumb": {
         "img": "https://i.ytimg.com/vi/1KN4DhVXw-Y/default.jpg",
         "url": "https://www.youtube.com/watch?v=1KN4DhVXw-Y",
@@ -202,59 +225,13 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-11",
-      "viewCount": "2438万",
+      "viewCount": "2439万",
       "likeCount": "21.2万",
       "commentCount": "2715",
-      "increment_d1": "5000"
-    },
-    {
-      "rank": 1410,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/6HGLeUqoUf8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=6HGLeUqoUf8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "+♂ver れをる",
-        "url": "https://www.youtube.com/watch?v=6HGLeUqoUf8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Reol Official",
-        "url": "https://www.youtube.com/channel/UCB6pJFaFByws3dQj4AdLdyA",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-03-20",
-      "viewCount": "2437万",
-      "likeCount": "36.3万",
-      "commentCount": "1.1万",
-      "increment_d1": "2340"
+      "increment_d1": "5034"
     },
     {
       "rank": 1411,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/dFC3Qorbvgo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=dFC3Qorbvgo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Official】Uru 『それを愛と呼ぶなら』 LIVE “Uru Tour 2023「contrast」” on WOWOWプラス",
-        "url": "https://www.youtube.com/watch?v=dFC3Qorbvgo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Uru Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-10-27",
-      "viewCount": "2437万",
-      "likeCount": "7万",
-      "commentCount": "2450",
-      "increment_d1": "2.89万"
-    },
-    {
-      "rank": 1412,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ACYNHhiQkwI/default.jpg",
         "url": "https://www.youtube.com/watch?v=ACYNHhiQkwI",
@@ -271,13 +248,59 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-30",
-      "viewCount": "2436万",
+      "viewCount": "2439万",
       "likeCount": "5万",
-      "commentCount": "1628",
+      "commentCount": "1630",
       "increment_d1": "2.35万"
     },
     {
+      "rank": 1412,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/sPLqsLsooJY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=sPLqsLsooJY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "米津玄師, 宇多田ヒカル Kenshi Yonezu, Hikaru Utada -  JANE DOE",
+        "url": "https://www.youtube.com/watch?v=sPLqsLsooJY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-09-23",
+      "viewCount": "2438万",
+      "likeCount": "44.3万",
+      "commentCount": "1.5万",
+      "increment_d1": "59.63万"
+    },
+    {
       "rank": 1413,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/6HGLeUqoUf8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=6HGLeUqoUf8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "+♂ver れをる",
+        "url": "https://www.youtube.com/watch?v=6HGLeUqoUf8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Reol Official",
+        "url": "https://www.youtube.com/channel/UCB6pJFaFByws3dQj4AdLdyA",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-03-20",
+      "viewCount": "2438万",
+      "likeCount": "36.3万",
+      "commentCount": "1.1万",
+      "increment_d1": "2178"
+    },
+    {
+      "rank": 1414,
       "thumb": {
         "img": "https://i.ytimg.com/vi/QkQ4AmDNTR0/default.jpg",
         "url": "https://www.youtube.com/watch?v=QkQ4AmDNTR0",
@@ -294,13 +317,13 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
-      "viewCount": "2436万",
+      "viewCount": "2437万",
       "likeCount": "7万",
       "commentCount": "233",
       "increment_d1": "1.31万"
     },
     {
-      "rank": 1414,
+      "rank": 1415,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ji99kh-GzTQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=ji99kh-GzTQ",
@@ -317,13 +340,13 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-05",
-      "viewCount": "2435万",
+      "viewCount": "2437万",
       "likeCount": "19.4万",
-      "commentCount": "3074",
-      "increment_d1": "1.29万"
+      "commentCount": "3073",
+      "increment_d1": "1.4万"
     },
     {
-      "rank": 1415,
+      "rank": 1416,
       "thumb": {
         "img": "https://i.ytimg.com/vi/sNXry0scN7E/default.jpg",
         "url": "https://www.youtube.com/watch?v=sNXry0scN7E",
@@ -340,13 +363,13 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-06",
-      "viewCount": "2434万",
+      "viewCount": "2435万",
       "likeCount": "-",
       "commentCount": "1.7万",
-      "increment_d1": "3437"
+      "increment_d1": "3108"
     },
     {
-      "rank": 1416,
+      "rank": 1417,
       "thumb": {
         "img": "https://i.ytimg.com/vi/w5uJEecsDa8/default.jpg",
         "url": "https://www.youtube.com/watch?v=w5uJEecsDa8",
@@ -363,13 +386,13 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-21",
-      "viewCount": "2433万",
+      "viewCount": "2434万",
       "likeCount": "33.5万",
       "commentCount": "1.6万",
-      "increment_d1": "3329"
+      "increment_d1": "3178"
     },
     {
-      "rank": 1417,
+      "rank": 1418,
       "thumb": {
         "img": "https://i.ytimg.com/vi/VmSNNOTB_FE/default.jpg",
         "url": "https://www.youtube.com/watch?v=VmSNNOTB_FE",
@@ -386,13 +409,13 @@
         "target": "_blank"
       },
       "publishedAt": "2024-04-15",
-      "viewCount": "2431万",
+      "viewCount": "2432万",
       "likeCount": "-",
-      "commentCount": "6598",
-      "increment_d1": "1.12万"
+      "commentCount": "6599",
+      "increment_d1": "1.27万"
     },
     {
-      "rank": 1418,
+      "rank": 1419,
       "thumb": {
         "img": "https://i.ytimg.com/vi/sawxwunW7G0/default.jpg",
         "url": "https://www.youtube.com/watch?v=sawxwunW7G0",
@@ -412,10 +435,10 @@
       "viewCount": "2430万",
       "likeCount": "4.8万",
       "commentCount": "1516",
-      "increment_d1": "471"
+      "increment_d1": "552"
     },
     {
-      "rank": 1419,
+      "rank": 1420,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ZVx4xmju27s/default.jpg",
         "url": "https://www.youtube.com/watch?v=ZVx4xmju27s",
@@ -435,10 +458,10 @@
       "viewCount": "2430万",
       "likeCount": "1.4万",
       "commentCount": "633",
-      "increment_d1": "25"
+      "increment_d1": "31"
     },
     {
-      "rank": 1420,
+      "rank": 1421,
       "thumb": {
         "img": "https://i.ytimg.com/vi/gLWWXhMVuQs/default.jpg",
         "url": "https://www.youtube.com/watch?v=gLWWXhMVuQs",
@@ -458,10 +481,10 @@
       "viewCount": "2429万",
       "likeCount": "14.8万",
       "commentCount": "1.7万",
-      "increment_d1": "1493"
+      "increment_d1": "1557"
     },
     {
-      "rank": 1421,
+      "rank": 1422,
       "thumb": {
         "img": "https://i.ytimg.com/vi/kXfNZeyldI0/default.jpg",
         "url": "https://www.youtube.com/watch?v=kXfNZeyldI0",
@@ -478,13 +501,13 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-14",
-      "viewCount": "2428万",
+      "viewCount": "2429万",
       "likeCount": "-",
       "commentCount": "1.7万",
-      "increment_d1": "3161"
+      "increment_d1": "2989"
     },
     {
-      "rank": 1422,
+      "rank": 1423,
       "thumb": {
         "img": "https://i.ytimg.com/vi/bNiLTsDIJg0/default.jpg",
         "url": "https://www.youtube.com/watch?v=bNiLTsDIJg0",
@@ -501,13 +524,13 @@
         "target": "_blank"
       },
       "publishedAt": "2013-08-29",
-      "viewCount": "2427万",
+      "viewCount": "2428万",
       "likeCount": "15.4万",
-      "commentCount": "321",
-      "increment_d1": "3363"
+      "commentCount": "320",
+      "increment_d1": "3594"
     },
     {
-      "rank": 1423,
+      "rank": 1424,
       "thumb": {
         "img": "https://i.ytimg.com/vi/apr2JCdpTbQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=apr2JCdpTbQ",
@@ -527,10 +550,10 @@
       "viewCount": "2427万",
       "likeCount": "7.9万",
       "commentCount": "3645",
-      "increment_d1": "1261"
+      "increment_d1": "1153"
     },
     {
-      "rank": 1424,
+      "rank": 1425,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qyQvbemmlN8/default.jpg",
         "url": "https://www.youtube.com/watch?v=qyQvbemmlN8",
@@ -550,30 +573,7 @@
       "viewCount": "2426万",
       "likeCount": "8.5万",
       "commentCount": "2833",
-      "increment_d1": "308"
-    },
-    {
-      "rank": 1425,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/WXk69QJ-Wr4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=WXk69QJ-Wr4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Suchmos – MINT [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=WXk69QJ-Wr4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SPACE SHOWER",
-        "url": "https://www.youtube.com/channel/UCQZDh-m6a31o7rXJPuMiFbA",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-06-23",
-      "viewCount": "2420万",
-      "likeCount": "7.6万",
-      "commentCount": "2444",
-      "increment_d1": "2455"
+      "increment_d1": "295"
     },
     {
       "rank": 1426,
@@ -593,13 +593,59 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-07",
-      "viewCount": "2419万",
-      "likeCount": "11.1万",
-      "commentCount": "3608",
-      "increment_d1": "2.02万"
+      "viewCount": "2421万",
+      "likeCount": "11.2万",
+      "commentCount": "3609",
+      "increment_d1": "2.13万"
     },
     {
       "rank": 1427,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/EX4NpFZ1tnE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=EX4NpFZ1tnE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "世界最強可愛いコラボレーション！ののちゃん X ピンキッツ・ベイビーシャーク💕",
+        "url": "https://www.youtube.com/watch?v=EX4NpFZ1tnE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ののちゃんねる【村方乃々佳】",
+        "url": "https://www.youtube.com/channel/UCCqUNWyxicP6Q5KKrSSZ1bA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-10-01",
+      "viewCount": "2421万",
+      "likeCount": "1.3万",
+      "commentCount": "-",
+      "increment_d1": "2.95万"
+    },
+    {
+      "rank": 1428,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/WXk69QJ-Wr4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=WXk69QJ-Wr4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Suchmos – MINT [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=WXk69QJ-Wr4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SPACE SHOWER",
+        "url": "https://www.youtube.com/channel/UCQZDh-m6a31o7rXJPuMiFbA",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-06-23",
+      "viewCount": "2421万",
+      "likeCount": "7.6万",
+      "commentCount": "2444",
+      "increment_d1": "2396"
+    },
+    {
+      "rank": 1429,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ElnxZtiBDvs/default.jpg",
         "url": "https://www.youtube.com/watch?v=ElnxZtiBDvs",
@@ -619,33 +665,10 @@
       "viewCount": "2419万",
       "likeCount": "21.3万",
       "commentCount": "6378",
-      "increment_d1": "4078"
+      "increment_d1": "3953"
     },
     {
-      "rank": 1428,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/EX4NpFZ1tnE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=EX4NpFZ1tnE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "世界最強可愛いコラボレーション！ののちゃん X ピンキッツ・ベイビーシャーク💕",
-        "url": "https://www.youtube.com/watch?v=EX4NpFZ1tnE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ののちゃんねる【村方乃々佳】",
-        "url": "https://www.youtube.com/channel/UCCqUNWyxicP6Q5KKrSSZ1bA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-10-01",
-      "viewCount": "2418万",
-      "likeCount": "1.3万",
-      "commentCount": "-",
-      "increment_d1": "2.2万"
-    },
-    {
-      "rank": 1429,
+      "rank": 1430,
       "thumb": {
         "img": "https://i.ytimg.com/vi/y4FYCJRjHBg/default.jpg",
         "url": "https://www.youtube.com/watch?v=y4FYCJRjHBg",
@@ -662,13 +685,13 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-20",
-      "viewCount": "2416万",
+      "viewCount": "2417万",
       "likeCount": "18.2万",
-      "commentCount": "7053",
-      "increment_d1": "1.39万"
+      "commentCount": "7056",
+      "increment_d1": "1.35万"
     },
     {
-      "rank": 1430,
+      "rank": 1431,
       "thumb": {
         "img": "https://i.ytimg.com/vi/hVFY4Yvv3ho/default.jpg",
         "url": "https://www.youtube.com/watch?v=hVFY4Yvv3ho",
@@ -688,10 +711,10 @@
       "viewCount": "2411万",
       "likeCount": "7.6万",
       "commentCount": "4782",
-      "increment_d1": "722"
+      "increment_d1": "717"
     },
     {
-      "rank": 1431,
+      "rank": 1432,
       "thumb": {
         "img": "https://i.ytimg.com/vi/cBGzxjmRhTU/default.jpg",
         "url": "https://www.youtube.com/watch?v=cBGzxjmRhTU",
@@ -708,33 +731,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-14",
-      "viewCount": "2408万",
+      "viewCount": "2409万",
       "likeCount": "11.6万",
-      "commentCount": "3489",
-      "increment_d1": "1.19万"
-    },
-    {
-      "rank": 1432,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/htMGeeLObNM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=htMGeeLObNM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "サザンオールスターズ - いとしのエリー [Live at サザンオールスターズ キックオフライブ 2018 「ちょっとエッチなラララのおじさん」, 2018]",
-        "url": "https://www.youtube.com/watch?v=htMGeeLObNM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "サザンオールスターズ",
-        "url": "https://www.youtube.com/channel/UCSXpSoWV4_R1Taf_4E2fOsQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-07-12",
-      "viewCount": "2405万",
-      "likeCount": "6.8万",
-      "commentCount": "1021",
-      "increment_d1": "6119"
+      "commentCount": "3493",
+      "increment_d1": "1.26万"
     },
     {
       "rank": 1433,
@@ -756,11 +756,34 @@
       "publishedAt": "2015-05-01",
       "viewCount": "2405万",
       "likeCount": "15.3万",
-      "commentCount": "6030",
-      "increment_d1": "6557"
+      "commentCount": "6028",
+      "increment_d1": "7512"
     },
     {
       "rank": 1434,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/htMGeeLObNM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=htMGeeLObNM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "サザンオールスターズ - いとしのエリー [Live at サザンオールスターズ キックオフライブ 2018 「ちょっとエッチなラララのおじさん」, 2018]",
+        "url": "https://www.youtube.com/watch?v=htMGeeLObNM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "サザンオールスターズ",
+        "url": "https://www.youtube.com/channel/UCSXpSoWV4_R1Taf_4E2fOsQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-07-12",
+      "viewCount": "2405万",
+      "likeCount": "6.8万",
+      "commentCount": "1021",
+      "increment_d1": "6691"
+    },
+    {
+      "rank": 1435,
       "thumb": {
         "img": "https://i.ytimg.com/vi/9yCEYQeMqJc/default.jpg",
         "url": "https://www.youtube.com/watch?v=9yCEYQeMqJc",
@@ -777,13 +800,13 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-08",
-      "viewCount": "2403万",
+      "viewCount": "2404万",
       "likeCount": "12.4万",
       "commentCount": "2.3万",
-      "increment_d1": "2829"
+      "increment_d1": "2930"
     },
     {
-      "rank": 1435,
+      "rank": 1436,
       "thumb": {
         "img": "https://i.ytimg.com/vi/RxIeyXLba8k/default.jpg",
         "url": "https://www.youtube.com/watch?v=RxIeyXLba8k",
@@ -800,13 +823,13 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-14",
-      "viewCount": "2403万",
+      "viewCount": "2404万",
       "likeCount": "10.9万",
-      "commentCount": "6312",
-      "increment_d1": "1748"
+      "commentCount": "6313",
+      "increment_d1": "1923"
     },
     {
-      "rank": 1436,
+      "rank": 1437,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3ywY7yDhvWM/default.jpg",
         "url": "https://www.youtube.com/watch?v=3ywY7yDhvWM",
@@ -826,10 +849,10 @@
       "viewCount": "2403万",
       "likeCount": "71.7万",
       "commentCount": "2.5万",
-      "increment_d1": "7095"
+      "increment_d1": "7650"
     },
     {
-      "rank": 1437,
+      "rank": 1438,
       "thumb": {
         "img": "https://i.ytimg.com/vi/BC9P3DSZu0A/default.jpg",
         "url": "https://www.youtube.com/watch?v=BC9P3DSZu0A",
@@ -846,13 +869,13 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-13",
-      "viewCount": "2401万",
-      "likeCount": "20.6万",
-      "commentCount": "9858",
-      "increment_d1": "1.3万"
+      "viewCount": "2403万",
+      "likeCount": "20.7万",
+      "commentCount": "9869",
+      "increment_d1": "1.76万"
     },
     {
-      "rank": 1438,
+      "rank": 1439,
       "thumb": {
         "img": "https://i.ytimg.com/vi/mZ23BLKnA1Y/default.jpg",
         "url": "https://www.youtube.com/watch?v=mZ23BLKnA1Y",
@@ -869,13 +892,13 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-07",
-      "viewCount": "2400万",
+      "viewCount": "2401万",
       "likeCount": "8万",
       "commentCount": "3149",
-      "increment_d1": "2267"
+      "increment_d1": "2228"
     },
     {
-      "rank": 1439,
+      "rank": 1440,
       "thumb": {
         "img": "https://i.ytimg.com/vi/cWlugvcnuSA/default.jpg",
         "url": "https://www.youtube.com/watch?v=cWlugvcnuSA",
@@ -892,13 +915,13 @@
         "target": "_blank"
       },
       "publishedAt": "2021-10-29",
-      "viewCount": "2394万",
+      "viewCount": "2396万",
       "likeCount": "71.4万",
       "commentCount": "1.1万",
-      "increment_d1": "1.29万"
+      "increment_d1": "1.5万"
     },
     {
-      "rank": 1440,
+      "rank": 1441,
       "thumb": {
         "img": "https://i.ytimg.com/vi/63D43-xGZdo/default.jpg",
         "url": "https://www.youtube.com/watch?v=63D43-xGZdo",
@@ -917,11 +940,11 @@
       "publishedAt": "2019-12-06",
       "viewCount": "2394万",
       "likeCount": "12.9万",
-      "commentCount": "4195",
-      "increment_d1": "4349"
+      "commentCount": "4197",
+      "increment_d1": "4768"
     },
     {
-      "rank": 1441,
+      "rank": 1442,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ulforNn47PM/default.jpg",
         "url": "https://www.youtube.com/watch?v=ulforNn47PM",
@@ -938,13 +961,13 @@
         "target": "_blank"
       },
       "publishedAt": "2022-01-21",
-      "viewCount": "2392万",
+      "viewCount": "2393万",
       "likeCount": "13.8万",
       "commentCount": "2385",
-      "increment_d1": "4146"
+      "increment_d1": "4661"
     },
     {
-      "rank": 1442,
+      "rank": 1443,
       "thumb": {
         "img": "https://i.ytimg.com/vi/fCt6-dJq-To/default.jpg",
         "url": "https://www.youtube.com/watch?v=fCt6-dJq-To",
@@ -961,13 +984,13 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-23",
-      "viewCount": "2383万",
+      "viewCount": "2384万",
       "likeCount": "13.6万",
       "commentCount": "3309",
-      "increment_d1": "6868"
+      "increment_d1": "8270"
     },
     {
-      "rank": 1443,
+      "rank": 1444,
       "thumb": {
         "img": "https://i.ytimg.com/vi/T4RHuXd5pMg/default.jpg",
         "url": "https://www.youtube.com/watch?v=T4RHuXd5pMg",
@@ -987,10 +1010,10 @@
       "viewCount": "2382万",
       "likeCount": "35.7万",
       "commentCount": "8210",
-      "increment_d1": "3509"
+      "increment_d1": "3451"
     },
     {
-      "rank": 1444,
+      "rank": 1445,
       "thumb": {
         "img": "https://i.ytimg.com/vi/yBCbjFM7mzg/default.jpg",
         "url": "https://www.youtube.com/watch?v=yBCbjFM7mzg",
@@ -1010,10 +1033,10 @@
       "viewCount": "2382万",
       "likeCount": "8.9万",
       "commentCount": "2100",
-      "increment_d1": "563"
+      "increment_d1": "469"
     },
     {
-      "rank": 1445,
+      "rank": 1446,
       "thumb": {
         "img": "https://i.ytimg.com/vi/tU6ToAYvz1g/default.jpg",
         "url": "https://www.youtube.com/watch?v=tU6ToAYvz1g",
@@ -1030,33 +1053,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-04-24",
-      "viewCount": "2380万",
+      "viewCount": "2381万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "1480"
-    },
-    {
-      "rank": 1446,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/w1yr9fMa-jE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=w1yr9fMa-jE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Nissy(西島隆弘)  /  「トリコ」Music Video",
-        "url": "https://www.youtube.com/watch?v=w1yr9fMa-jE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-08-23",
-      "viewCount": "2379万",
-      "likeCount": "18.5万",
-      "commentCount": "8465",
-      "increment_d1": "1179"
+      "increment_d1": "1423"
     },
     {
       "rank": 1447,
@@ -1076,33 +1076,33 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-07",
-      "viewCount": "2379万",
+      "viewCount": "2381万",
       "likeCount": "24.4万",
       "commentCount": "1.2万",
-      "increment_d1": "1.39万"
+      "increment_d1": "1.35万"
     },
     {
       "rank": 1448,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/sPLqsLsooJY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=sPLqsLsooJY",
+        "img": "https://i.ytimg.com/vi/w1yr9fMa-jE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=w1yr9fMa-jE",
         "target": "_blank"
       },
       "title": {
-        "text": "米津玄師, 宇多田ヒカル Kenshi Yonezu, Hikaru Utada -  JANE DOE",
-        "url": "https://www.youtube.com/watch?v=sPLqsLsooJY",
+        "text": "Nissy(西島隆弘)  /  「トリコ」Music Video",
+        "url": "https://www.youtube.com/watch?v=w1yr9fMa-jE",
         "target": "_blank"
       },
       "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
         "target": "_blank"
       },
-      "publishedAt": "2025-09-23",
+      "publishedAt": "2018-08-23",
       "viewCount": "2379万",
-      "likeCount": "43.7万",
-      "commentCount": "1.5万",
-      "increment_d1": "57.27万"
+      "likeCount": "18.5万",
+      "commentCount": "8464",
+      "increment_d1": "1398"
     },
     {
       "rank": 1449,
@@ -1125,30 +1125,30 @@
       "viewCount": "2377万",
       "likeCount": "10.1万",
       "commentCount": "5585",
-      "increment_d1": "481"
+      "increment_d1": "439"
     },
     {
       "rank": 1450,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/FPLxRe4ho_A/default.jpg",
-        "url": "https://www.youtube.com/watch?v=FPLxRe4ho_A",
+        "img": "https://i.ytimg.com/vi/Ff7kdaIQvQM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Ff7kdaIQvQM",
         "target": "_blank"
       },
       "title": {
-        "text": "BUMP OF CHICKEN「記念撮影」リリックビデオ",
-        "url": "https://www.youtube.com/watch?v=FPLxRe4ho_A",
+        "text": "Mrs. GREEN APPLE - lovin'",
+        "url": "https://www.youtube.com/watch?v=Ff7kdaIQvQM",
         "target": "_blank"
       },
       "channel": {
-        "text": "BUMP OF CHICKEN",
-        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
         "target": "_blank"
       },
-      "publishedAt": "2017-07-04",
-      "viewCount": "2376万",
-      "likeCount": "12万",
-      "commentCount": "8979",
-      "increment_d1": "1683"
+      "publishedAt": "2019-08-24",
+      "viewCount": "2377万",
+      "likeCount": "21.5万",
+      "commentCount": "5404",
+      "increment_d1": "1.48万"
     }
   ]
 }

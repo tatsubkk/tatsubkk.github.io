@@ -1,7 +1,29 @@
 {
   "rows": [
     {
-      "rank": 2150,
+      "rank": 2151,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/lBmH1VsdD80/default.jpg",
+        "url": "https://www.youtube.com/watch?v=lBmH1VsdD80",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ばーか。/あれくん【Official Music Video】",
+        "url": "https://www.youtube.com/watch?v=lBmH1VsdD80",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "あれくん ",
+        "url": "https://www.youtube.com/channel/UCPkhvJShYNk2dJoIcne66BQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-08-04",
+      "viewCount": "1096万",
+      "likeCount": "14.8万",
+      "commentCount": "3288"
+    },
+    {
+      "rank": 2151,
       "thumb": {
         "img": "https://i.ytimg.com/vi/gPTFyx2R46w/default.jpg",
         "url": "https://www.youtube.com/watch?v=gPTFyx2R46w",
@@ -18,56 +40,12 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-16",
-      "viewCount": "3105万",
+      "viewCount": "3106万",
       "likeCount": "7.9万",
       "commentCount": "3288"
     },
     {
-      "rank": 2152,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/sYMaoGflrug/default.jpg",
-        "url": "https://www.youtube.com/watch?v=sYMaoGflrug",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – Dear【LIVE from ゼンジン未到とヴェルトラウム〜銘銘編〜】",
-        "url": "https://www.youtube.com/watch?v=sYMaoGflrug",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-08-21",
-      "viewCount": "1622万",
-      "likeCount": "8.7万",
-      "commentCount": "3284"
-    },
-    {
       "rank": 2153,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/IiqfKF9BlcI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=IiqfKF9BlcI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "サカナクション / ネイティブダンサー",
-        "url": "https://www.youtube.com/watch?v=IiqfKF9BlcI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "hiplandmusic",
-        "url": "https://www.youtube.com/channel/UCqTp-NYHvYy96FDldAcPVUA",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-01-06",
-      "viewCount": "2531万",
-      "likeCount": "8.6万",
-      "commentCount": "3281"
-    },
-    {
-      "rank": 2154,
       "thumb": {
         "img": "https://i.ytimg.com/vi/W5cZcrkQ-b4/default.jpg",
         "url": "https://www.youtube.com/watch?v=W5cZcrkQ-b4",
@@ -86,7 +64,29 @@
       "publishedAt": "2010-09-01",
       "viewCount": "2003万",
       "likeCount": "3.8万",
-      "commentCount": "3280"
+      "commentCount": "3283"
+    },
+    {
+      "rank": 2154,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/IiqfKF9BlcI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=IiqfKF9BlcI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "サカナクション / ネイティブダンサー",
+        "url": "https://www.youtube.com/watch?v=IiqfKF9BlcI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "hiplandmusic",
+        "url": "https://www.youtube.com/channel/UCqTp-NYHvYy96FDldAcPVUA",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-01-06",
+      "viewCount": "2532万",
+      "likeCount": "8.6万",
+      "commentCount": "3281"
     },
     {
       "rank": 2155,
@@ -130,7 +130,7 @@
       "publishedAt": "2021-02-23",
       "viewCount": "1801万",
       "likeCount": "8.2万",
-      "commentCount": "3275"
+      "commentCount": "3276"
     },
     {
       "rank": 2157,
@@ -155,7 +155,7 @@
       "commentCount": "3271"
     },
     {
-      "rank": 2158,
+      "rank": 2157,
       "thumb": {
         "img": "https://i.ytimg.com/vi/6a0S4hhMTis/default.jpg",
         "url": "https://www.youtube.com/watch?v=6a0S4hhMTis",
@@ -174,10 +174,10 @@
       "publishedAt": "2020-04-29",
       "viewCount": "1622万",
       "likeCount": "10.6万",
-      "commentCount": "3270"
+      "commentCount": "3271"
     },
     {
-      "rank": 2158,
+      "rank": 2159,
       "thumb": {
         "img": "https://i.ytimg.com/vi/jIl8_jMMULs/default.jpg",
         "url": "https://www.youtube.com/watch?v=jIl8_jMMULs",
@@ -194,7 +194,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-11-07",
-      "viewCount": "5686万",
+      "viewCount": "5687万",
       "likeCount": "14.6万",
       "commentCount": "3270"
     },
@@ -216,7 +216,7 @@
         "target": "_blank"
       },
       "publishedAt": "2008-12-16",
-      "viewCount": "2540万",
+      "viewCount": "2541万",
       "likeCount": "7.1万",
       "commentCount": "3265"
     },
@@ -245,6 +245,28 @@
     {
       "rank": 2162,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/-o-zH8hn1kQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=-o-zH8hn1kQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BAD HOP - Hood Gospel feat. T-Pablow, Bark & YZERR (Official Video)",
+        "url": "https://www.youtube.com/watch?v=-o-zH8hn1kQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BAD HOP",
+        "url": "https://www.youtube.com/channel/UCcb0Ixexedx7eXLzgYZh6bg",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-03-26",
+      "viewCount": "1622万",
+      "likeCount": "6.2万",
+      "commentCount": "3256"
+    },
+    {
+      "rank": 2163,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/8GmP3CQmHQ4/default.jpg",
         "url": "https://www.youtube.com/watch?v=8GmP3CQmHQ4",
         "target": "_blank"
@@ -260,12 +282,12 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-24",
-      "viewCount": "3677万",
+      "viewCount": "3679万",
       "likeCount": "20.4万",
       "commentCount": "3255"
     },
     {
-      "rank": 2163,
+      "rank": 2164,
       "thumb": {
         "img": "https://i.ytimg.com/vi/W_IkBXSyC_4/default.jpg",
         "url": "https://www.youtube.com/watch?v=W_IkBXSyC_4",
@@ -282,31 +304,9 @@
         "target": "_blank"
       },
       "publishedAt": "2017-07-02",
-      "viewCount": "3371万",
+      "viewCount": "3372万",
       "likeCount": "19万",
       "commentCount": "3254"
-    },
-    {
-      "rank": 2164,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/-o-zH8hn1kQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=-o-zH8hn1kQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BAD HOP - Hood Gospel feat. T-Pablow, Bark & YZERR (Official Video)",
-        "url": "https://www.youtube.com/watch?v=-o-zH8hn1kQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BAD HOP",
-        "url": "https://www.youtube.com/channel/UCcb0Ixexedx7eXLzgYZh6bg",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-03-26",
-      "viewCount": "1621万",
-      "likeCount": "6.2万",
-      "commentCount": "3253"
     },
     {
       "rank": 2165,
@@ -326,7 +326,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-28",
-      "viewCount": "4323万",
+      "viewCount": "4324万",
       "likeCount": "20.7万",
       "commentCount": "3249"
     },
@@ -348,7 +348,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-04-17",
-      "viewCount": "1149万",
+      "viewCount": "1150万",
       "likeCount": "12.9万",
       "commentCount": "3241"
     },
@@ -370,9 +370,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-04",
-      "viewCount": "1331万",
+      "viewCount": "1332万",
       "likeCount": "9.6万",
-      "commentCount": "3226"
+      "commentCount": "3225"
     },
     {
       "rank": 2168,
@@ -394,7 +394,7 @@
       "publishedAt": "2014-04-11",
       "viewCount": "3127万",
       "likeCount": "8.6万",
-      "commentCount": "3224"
+      "commentCount": "3222"
     },
     {
       "rank": 2169,
@@ -414,9 +414,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-03-07",
-      "viewCount": "3543万",
-      "likeCount": "8.9万",
-      "commentCount": "3219"
+      "viewCount": "3544万",
+      "likeCount": "9万",
+      "commentCount": "3221"
     },
     {
       "rank": 2170,
@@ -436,12 +436,12 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-11",
-      "viewCount": "2061万",
+      "viewCount": "2062万",
       "likeCount": "-",
-      "commentCount": "3214"
+      "commentCount": "3216"
     },
     {
-      "rank": 2170,
+      "rank": 2171,
       "thumb": {
         "img": "https://i.ytimg.com/vi/tsZ90Obzv90/default.jpg",
         "url": "https://www.youtube.com/watch?v=tsZ90Obzv90",
@@ -458,34 +458,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-21",
-      "viewCount": "2283万",
+      "viewCount": "2284万",
       "likeCount": "31.6万",
       "commentCount": "3214"
     },
     {
-      "rank": 2172,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/rpVvPAFaoqM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=rpVvPAFaoqM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "tuki.『サクラキミワタシ』Official Music Video",
-        "url": "https://www.youtube.com/watch?v=rpVvPAFaoqM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "tuki.(16)",
-        "url": "https://www.youtube.com/channel/UCp74ruKv2sUiI2HqEhH8pRw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-02-19",
-      "viewCount": "1703万",
-      "likeCount": "12.8万",
-      "commentCount": "3213"
-    },
-    {
-      "rank": 2173,
+      "rank": 2171,
       "thumb": {
         "img": "https://i.ytimg.com/vi/mJ1N7-HyH1A/default.jpg",
         "url": "https://www.youtube.com/watch?v=mJ1N7-HyH1A",
@@ -502,12 +480,34 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-05",
-      "viewCount": "2億1502万",
-      "likeCount": "99.9万",
-      "commentCount": "3211"
+      "viewCount": "2億1515万",
+      "likeCount": "100万",
+      "commentCount": "3214"
     },
     {
       "rank": 2173,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/rpVvPAFaoqM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=rpVvPAFaoqM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "tuki.『サクラキミワタシ』Official Music Video",
+        "url": "https://www.youtube.com/watch?v=rpVvPAFaoqM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "tuki.(16)",
+        "url": "https://www.youtube.com/channel/UCp74ruKv2sUiI2HqEhH8pRw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-02-19",
+      "viewCount": "1704万",
+      "likeCount": "12.8万",
+      "commentCount": "3213"
+    },
+    {
+      "rank": 2174,
       "thumb": {
         "img": "https://i.ytimg.com/vi/TSlpJaWLcC8/default.jpg",
         "url": "https://www.youtube.com/watch?v=TSlpJaWLcC8",
@@ -546,9 +546,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-14",
-      "viewCount": "1179万",
+      "viewCount": "1180万",
       "likeCount": "8.9万",
-      "commentCount": "3208"
+      "commentCount": "3210"
     },
     {
       "rank": 2176,
@@ -570,10 +570,10 @@
       "publishedAt": "2021-11-14",
       "viewCount": "1452万",
       "likeCount": "14.2万",
-      "commentCount": "3204"
+      "commentCount": "3205"
     },
     {
-      "rank": 2176,
+      "rank": 2177,
       "thumb": {
         "img": "https://i.ytimg.com/vi/67K6oXHyf_Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=67K6oXHyf_Q",
@@ -612,9 +612,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-08-30",
-      "viewCount": "2795万",
+      "viewCount": "2796万",
       "likeCount": "-",
-      "commentCount": "3197"
+      "commentCount": "3198"
     },
     {
       "rank": 2179,
@@ -634,31 +634,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-28",
-      "viewCount": "1661万",
+      "viewCount": "1662万",
       "likeCount": "12.6万",
-      "commentCount": "3194"
-    },
-    {
-      "rank": 2180,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/LKyx3EYVlkA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=LKyx3EYVlkA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "僕は今日も / Vaundy ：MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=LKyx3EYVlkA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Vaundy",
-        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-02-07",
-      "viewCount": "1296万",
-      "likeCount": "12.7万",
-      "commentCount": "3191"
+      "commentCount": "3195"
     },
     {
       "rank": 2180,
@@ -700,31 +678,31 @@
         "target": "_blank"
       },
       "publishedAt": "2024-12-05",
-      "viewCount": "4214万",
+      "viewCount": "4220万",
       "likeCount": "26.3万",
       "commentCount": "3191"
     },
     {
-      "rank": 2183,
+      "rank": 2180,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/n-4SVb8ZoIU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=n-4SVb8ZoIU",
+        "img": "https://i.ytimg.com/vi/LKyx3EYVlkA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=LKyx3EYVlkA",
         "target": "_blank"
       },
       "title": {
-        "text": "凛として時雨　『abnormalize(short ver.)』",
-        "url": "https://www.youtube.com/watch?v=n-4SVb8ZoIU",
+        "text": "僕は今日も / Vaundy ：MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=LKyx3EYVlkA",
         "target": "_blank"
       },
       "channel": {
-        "text": "凛として時雨 Official Channel",
-        "url": "https://www.youtube.com/channel/UCWxFYv7xfPQVx5yzjpJX33w",
+        "text": "Vaundy",
+        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
         "target": "_blank"
       },
-      "publishedAt": "2012-10-22",
-      "viewCount": "1512万",
-      "likeCount": "11.3万",
-      "commentCount": "3187"
+      "publishedAt": "2020-02-07",
+      "viewCount": "1297万",
+      "likeCount": "12.7万",
+      "commentCount": "3191"
     },
     {
       "rank": 2183,
@@ -744,8 +722,30 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-24",
-      "viewCount": "1613万",
+      "viewCount": "1614万",
       "likeCount": "10.9万",
+      "commentCount": "3189"
+    },
+    {
+      "rank": 2184,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/n-4SVb8ZoIU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=n-4SVb8ZoIU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "凛として時雨　『abnormalize(short ver.)』",
+        "url": "https://www.youtube.com/watch?v=n-4SVb8ZoIU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "凛として時雨 Official Channel",
+        "url": "https://www.youtube.com/channel/UCWxFYv7xfPQVx5yzjpJX33w",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-10-22",
+      "viewCount": "1512万",
+      "likeCount": "11.3万",
       "commentCount": "3187"
     },
     {
@@ -810,9 +810,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-05",
-      "viewCount": "1124万",
+      "viewCount": "1125万",
       "likeCount": "10.6万",
-      "commentCount": "3180"
+      "commentCount": "3182"
     },
     {
       "rank": 2188,
@@ -839,28 +839,6 @@
     {
       "rank": 2189,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/zd4ONUviSQY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=zd4ONUviSQY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Awich - 洗脳 feat. DOGMA & 鎮座DOPENESS (Prod. Chaki Zulu)",
-        "url": "https://www.youtube.com/watch?v=zd4ONUviSQY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YENTOWN",
-        "url": "https://www.youtube.com/channel/UCSVUraoC0p7x_HwMlMcvsPA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-02-25",
-      "viewCount": "1021万",
-      "likeCount": "11.8万",
-      "commentCount": "3174"
-    },
-    {
-      "rank": 2189,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/6IKqsDuUqWw/default.jpg",
         "url": "https://www.youtube.com/watch?v=6IKqsDuUqWw",
         "target": "_blank"
@@ -878,6 +856,28 @@
       "publishedAt": "2016-04-11",
       "viewCount": "1085万",
       "likeCount": "11万",
+      "commentCount": "3174"
+    },
+    {
+      "rank": 2189,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/zd4ONUviSQY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=zd4ONUviSQY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Awich - 洗脳 feat. DOGMA & 鎮座DOPENESS (Prod. Chaki Zulu)",
+        "url": "https://www.youtube.com/watch?v=zd4ONUviSQY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YENTOWN",
+        "url": "https://www.youtube.com/channel/UCSVUraoC0p7x_HwMlMcvsPA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-02-25",
+      "viewCount": "1021万",
+      "likeCount": "11.9万",
       "commentCount": "3174"
     },
     {
@@ -942,7 +942,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-06-09",
-      "viewCount": "1564万",
+      "viewCount": "1565万",
       "likeCount": "4.4万",
       "commentCount": "3162"
     },
@@ -1008,7 +1008,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-07",
-      "viewCount": "1064万",
+      "viewCount": "1065万",
       "likeCount": "11.1万",
       "commentCount": "3152"
     },
@@ -1030,7 +1030,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-07",
-      "viewCount": "2400万",
+      "viewCount": "2401万",
       "likeCount": "8万",
       "commentCount": "3149"
     },
@@ -1096,7 +1096,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-05",
-      "viewCount": "2528万",
+      "viewCount": "2530万",
       "likeCount": "25.9万",
       "commentCount": "3136"
     }

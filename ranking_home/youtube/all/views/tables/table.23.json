@@ -3,6 +3,29 @@
     {
       "rank": 1101,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/pRG7FJobkv4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=pRG7FJobkv4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MY FIRST STORY -不可逆リプレイス-【Official Video】",
+        "url": "https://www.youtube.com/watch?v=pRG7FJobkv4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "JMS BASE",
+        "url": "https://www.youtube.com/channel/UCj8RXhnU4RR9wnRUYQoyLqw",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-09-12",
+      "viewCount": "3135万",
+      "likeCount": "22.8万",
+      "commentCount": "6756",
+      "increment_d1": "2296"
+    },
+    {
+      "rank": 1102,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/9KpAtOAohV8/default.jpg",
         "url": "https://www.youtube.com/watch?v=9KpAtOAohV8",
         "target": "_blank"
@@ -20,11 +43,11 @@
       "publishedAt": "2014-04-11",
       "viewCount": "3127万",
       "likeCount": "8.6万",
-      "commentCount": "3224",
-      "increment_d1": "4944"
+      "commentCount": "3222",
+      "increment_d1": "4736"
     },
     {
-      "rank": 1102,
+      "rank": 1103,
       "thumb": {
         "img": "https://i.ytimg.com/vi/YRFC0LexblM/default.jpg",
         "url": "https://www.youtube.com/watch?v=YRFC0LexblM",
@@ -44,30 +67,7 @@
       "viewCount": "3126万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "1214"
-    },
-    {
-      "rank": 1103,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/q2dFMNPA9jQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=q2dFMNPA9jQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ONE OK ROCK - The Way Back - Japanese Ver. - [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=q2dFMNPA9jQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ONE OK ROCK",
-        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-10-05",
-      "viewCount": "3125万",
-      "likeCount": "19.7万",
-      "commentCount": "6611",
-      "increment_d1": "3538"
+      "increment_d1": "1329"
     },
     {
       "rank": 1104,
@@ -87,36 +87,13 @@
         "target": "_blank"
       },
       "publishedAt": "2011-08-18",
-      "viewCount": "3125万",
+      "viewCount": "3126万",
       "likeCount": "22.8万",
       "commentCount": "1.3万",
-      "increment_d1": "1.02万"
+      "increment_d1": "8843"
     },
     {
       "rank": 1105,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/OVaANCGC70c/default.jpg",
-        "url": "https://www.youtube.com/watch?v=OVaANCGC70c",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow Man「Infighter」 Dance Practice",
-        "url": "https://www.youtube.com/watch?v=OVaANCGC70c",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Snow Man",
-        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-12-31",
-      "viewCount": "3124万",
-      "likeCount": "-",
-      "commentCount": "1.2万",
-      "increment_d1": "6236"
-    },
-    {
-      "rank": 1106,
       "thumb": {
         "img": "https://i.ytimg.com/vi/K1Tz2yNmamI/default.jpg",
         "url": "https://www.youtube.com/watch?v=K1Tz2yNmamI",
@@ -133,13 +110,82 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-21",
-      "viewCount": "3124万",
+      "viewCount": "3126万",
       "likeCount": "25万",
-      "commentCount": "4508",
-      "increment_d1": "1.6万"
+      "commentCount": "4509",
+      "increment_d1": "1.48万"
+    },
+    {
+      "rank": 1106,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/q2dFMNPA9jQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=q2dFMNPA9jQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ONE OK ROCK - The Way Back - Japanese Ver. - [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=q2dFMNPA9jQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ONE OK ROCK",
+        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-10-05",
+      "viewCount": "3125万",
+      "likeCount": "19.7万",
+      "commentCount": "6617",
+      "increment_d1": "3414"
     },
     {
       "rank": 1107,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/OVaANCGC70c/default.jpg",
+        "url": "https://www.youtube.com/watch?v=OVaANCGC70c",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow Man「Infighter」 Dance Practice",
+        "url": "https://www.youtube.com/watch?v=OVaANCGC70c",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Snow Man",
+        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-12-31",
+      "viewCount": "3125万",
+      "likeCount": "-",
+      "commentCount": "1.2万",
+      "increment_d1": "7342"
+    },
+    {
+      "rank": 1108,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/_me2yfR7Jfk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=_me2yfR7Jfk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "X Japan Rusty Nail from \"The Last Live\" HD",
+        "url": "https://www.youtube.com/watch?v=_me2yfR7Jfk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Yoshiki",
+        "url": "https://www.youtube.com/channel/UCaZK0kfr_sKxmLNoP2g9OWw",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-05-01",
+      "viewCount": "3122万",
+      "likeCount": "12.5万",
+      "commentCount": "8549",
+      "increment_d1": "1.73万"
+    },
+    {
+      "rank": 1109,
       "thumb": {
         "img": "https://i.ytimg.com/vi/jnVlcB74A_k/default.jpg",
         "url": "https://www.youtube.com/watch?v=jnVlcB74A_k",
@@ -159,10 +205,10 @@
       "viewCount": "3122万",
       "likeCount": "-",
       "commentCount": "5.9万",
-      "increment_d1": "4892"
+      "increment_d1": "5068"
     },
     {
-      "rank": 1108,
+      "rank": 1110,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ha1sXlzixrQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=ha1sXlzixrQ",
@@ -182,33 +228,10 @@
       "viewCount": "3121万",
       "likeCount": "-",
       "commentCount": "2万",
-      "increment_d1": "2998"
+      "increment_d1": "2960"
     },
     {
-      "rank": 1109,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/_me2yfR7Jfk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=_me2yfR7Jfk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "X Japan Rusty Nail from \"The Last Live\" HD",
-        "url": "https://www.youtube.com/watch?v=_me2yfR7Jfk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Yoshiki",
-        "url": "https://www.youtube.com/channel/UCaZK0kfr_sKxmLNoP2g9OWw",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-05-01",
-      "viewCount": "3121万",
-      "likeCount": "12.5万",
-      "commentCount": "8543",
-      "increment_d1": "1.76万"
-    },
-    {
-      "rank": 1110,
+      "rank": 1111,
       "thumb": {
         "img": "https://i.ytimg.com/vi/1awua0YrSRs/default.jpg",
         "url": "https://www.youtube.com/watch?v=1awua0YrSRs",
@@ -228,10 +251,10 @@
       "viewCount": "3118万",
       "likeCount": "12.3万",
       "commentCount": "5746",
-      "increment_d1": "705"
+      "increment_d1": "918"
     },
     {
-      "rank": 1111,
+      "rank": 1112,
       "thumb": {
         "img": "https://i.ytimg.com/vi/1KVdWZyM6EU/default.jpg",
         "url": "https://www.youtube.com/watch?v=1KVdWZyM6EU",
@@ -248,36 +271,36 @@
         "target": "_blank"
       },
       "publishedAt": "2016-10-07",
-      "viewCount": "3115万",
+      "viewCount": "3116万",
       "likeCount": "17.3万",
-      "commentCount": "5350",
-      "increment_d1": "6839"
-    },
-    {
-      "rank": 1112,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/BPrslgZKkRI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=BPrslgZKkRI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "AAA / 「風に薫る夏の記憶」Music Video",
-        "url": "https://www.youtube.com/watch?v=BPrslgZKkRI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-07-02",
-      "viewCount": "3114万",
-      "likeCount": "9.8万",
-      "commentCount": "3662",
-      "increment_d1": "2157"
+      "commentCount": "5352",
+      "increment_d1": "8361"
     },
     {
       "rank": 1113,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/VDdLF1YubI0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=VDdLF1YubI0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "なとり - プロポーズ",
+        "url": "https://www.youtube.com/watch?v=VDdLF1YubI0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "なとり / natori",
+        "url": "https://www.youtube.com/channel/UCC0zLuvujaZRFqR3aNql3Sg",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-06-06",
+      "viewCount": "3116万",
+      "likeCount": "40.2万",
+      "commentCount": "5481",
+      "increment_d1": "26.83万"
+    },
+    {
+      "rank": 1114,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ZSaTxMkEHas/default.jpg",
         "url": "https://www.youtube.com/watch?v=ZSaTxMkEHas",
@@ -297,56 +320,56 @@
       "viewCount": "3114万",
       "likeCount": "17.2万",
       "commentCount": "2628",
-      "increment_d1": "5642"
-    },
-    {
-      "rank": 1114,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/wggigwtz4dQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=wggigwtz4dQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "IRIS OUT",
-        "url": "https://www.youtube.com/watch?v=wggigwtz4dQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu - Topic",
-        "url": "https://www.youtube.com/channel/UCC_OGcKdYY-aWFvVMFVGbzw",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-09-14",
-      "viewCount": "3111万",
-      "likeCount": "29.6万",
-      "commentCount": "4637",
-      "increment_d1": "59.07万"
+      "increment_d1": "5343"
     },
     {
       "rank": 1115,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/65v7JSBpQ4U/default.jpg",
-        "url": "https://www.youtube.com/watch?v=65v7JSBpQ4U",
+        "img": "https://i.ytimg.com/vi/BPrslgZKkRI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=BPrslgZKkRI",
         "target": "_blank"
       },
       "title": {
-        "text": "欅坂46 『エキセントリック』",
-        "url": "https://www.youtube.com/watch?v=65v7JSBpQ4U",
+        "text": "AAA / 「風に薫る夏の記憶」Music Video",
+        "url": "https://www.youtube.com/watch?v=BPrslgZKkRI",
         "target": "_blank"
       },
       "channel": {
-        "text": "櫻坂46 OFFICIAL YouTube CHANNEL",
-        "url": "https://www.youtube.com/channel/UCmr9bYmymcBmQ1p2tLBRvwg",
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
         "target": "_blank"
       },
-      "publishedAt": "2017-07-06",
-      "viewCount": "3108万",
-      "likeCount": "13.6万",
-      "commentCount": "1.9万",
-      "increment_d1": "1516"
+      "publishedAt": "2014-07-02",
+      "viewCount": "3114万",
+      "likeCount": "9.8万",
+      "commentCount": "3662",
+      "increment_d1": "1963"
     },
     {
       "rank": 1116,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/J2Ya8mWfulU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=J2Ya8mWfulU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "清水翔太『HOME』MV",
+        "url": "https://www.youtube.com/watch?v=J2Ya8mWfulU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "清水翔太 / Shota Shimizu",
+        "url": "https://www.youtube.com/channel/UCv3cmuTwVzTXROJdaT7xw6w",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-03-23",
+      "viewCount": "3108万",
+      "likeCount": "7.7万",
+      "commentCount": "770",
+      "increment_d1": "6474"
+    },
+    {
+      "rank": 1117,
       "thumb": {
         "img": "https://i.ytimg.com/vi/S_zJwCCDwRU/default.jpg",
         "url": "https://www.youtube.com/watch?v=S_zJwCCDwRU",
@@ -366,53 +389,30 @@
       "viewCount": "3108万",
       "likeCount": "9.3万",
       "commentCount": "3449",
-      "increment_d1": "1219"
-    },
-    {
-      "rank": 1117,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/J2Ya8mWfulU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=J2Ya8mWfulU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "清水翔太『HOME』MV",
-        "url": "https://www.youtube.com/watch?v=J2Ya8mWfulU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "清水翔太 / Shota Shimizu",
-        "url": "https://www.youtube.com/channel/UCv3cmuTwVzTXROJdaT7xw6w",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-03-23",
-      "viewCount": "3108万",
-      "likeCount": "7.7万",
-      "commentCount": "769",
-      "increment_d1": "6670"
+      "increment_d1": "1487"
     },
     {
       "rank": 1118,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/sHk8a3flepE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=sHk8a3flepE",
+        "img": "https://i.ytimg.com/vi/65v7JSBpQ4U/default.jpg",
+        "url": "https://www.youtube.com/watch?v=65v7JSBpQ4U",
         "target": "_blank"
       },
       "title": {
-        "text": "なにわ男子 - NANIWA'n WAY [Official Music Video] YouTube ver.",
-        "url": "https://www.youtube.com/watch?v=sHk8a3flepE",
+        "text": "欅坂46 『エキセントリック』",
+        "url": "https://www.youtube.com/watch?v=65v7JSBpQ4U",
         "target": "_blank"
       },
       "channel": {
-        "text": "なにわ男子",
-        "url": "https://www.youtube.com/channel/UCDtVdj7sm41Ysg3XSiSUH3w",
+        "text": "櫻坂46 OFFICIAL YouTube CHANNEL",
+        "url": "https://www.youtube.com/channel/UCmr9bYmymcBmQ1p2tLBRvwg",
         "target": "_blank"
       },
-      "publishedAt": "2021-10-29",
-      "viewCount": "3106万",
-      "likeCount": "-",
-      "commentCount": "7883",
-      "increment_d1": "2373"
+      "publishedAt": "2017-07-06",
+      "viewCount": "3108万",
+      "likeCount": "13.6万",
+      "commentCount": "1.9万",
+      "increment_d1": "1364"
     },
     {
       "rank": 1119,
@@ -432,13 +432,36 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-16",
-      "viewCount": "3105万",
+      "viewCount": "3106万",
       "likeCount": "7.9万",
       "commentCount": "3288",
-      "increment_d1": "6935"
+      "increment_d1": "7264"
     },
     {
       "rank": 1120,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/sHk8a3flepE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=sHk8a3flepE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "なにわ男子 - NANIWA'n WAY [Official Music Video] YouTube ver.",
+        "url": "https://www.youtube.com/watch?v=sHk8a3flepE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "なにわ男子",
+        "url": "https://www.youtube.com/channel/UCDtVdj7sm41Ysg3XSiSUH3w",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-10-29",
+      "viewCount": "3106万",
+      "likeCount": "-",
+      "commentCount": "7885",
+      "increment_d1": "2711"
+    },
+    {
+      "rank": 1121,
       "thumb": {
         "img": "https://i.ytimg.com/vi/e19-eR6_0Lo/default.jpg",
         "url": "https://www.youtube.com/watch?v=e19-eR6_0Lo",
@@ -458,10 +481,10 @@
       "viewCount": "3105万",
       "likeCount": "-",
       "commentCount": "1.1万",
-      "increment_d1": "5713"
+      "increment_d1": "6874"
     },
     {
-      "rank": 1121,
+      "rank": 1122,
       "thumb": {
         "img": "https://i.ytimg.com/vi/beN5ep5MrdY/default.jpg",
         "url": "https://www.youtube.com/watch?v=beN5ep5MrdY",
@@ -478,13 +501,13 @@
         "target": "_blank"
       },
       "publishedAt": "2013-07-26",
-      "viewCount": "3104万",
+      "viewCount": "3105万",
       "likeCount": "18.4万",
       "commentCount": "-",
-      "increment_d1": "4716"
+      "increment_d1": "4864"
     },
     {
-      "rank": 1122,
+      "rank": 1123,
       "thumb": {
         "img": "https://i.ytimg.com/vi/MAkIYZiyJq4/default.jpg",
         "url": "https://www.youtube.com/watch?v=MAkIYZiyJq4",
@@ -504,10 +527,10 @@
       "viewCount": "3104万",
       "likeCount": "18万",
       "commentCount": "3.5万",
-      "increment_d1": "2523"
+      "increment_d1": "2240"
     },
     {
-      "rank": 1123,
+      "rank": 1124,
       "thumb": {
         "img": "https://i.ytimg.com/vi/cyq5bUXpnYI/default.jpg",
         "url": "https://www.youtube.com/watch?v=cyq5bUXpnYI",
@@ -524,33 +547,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-12-24",
-      "viewCount": "3103万",
+      "viewCount": "3104万",
       "likeCount": "20.8万",
       "commentCount": "1.1万",
-      "increment_d1": "4667"
-    },
-    {
-      "rank": 1124,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/VDdLF1YubI0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=VDdLF1YubI0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "なとり - プロポーズ",
-        "url": "https://www.youtube.com/watch?v=VDdLF1YubI0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "なとり / natori",
-        "url": "https://www.youtube.com/channel/UCC0zLuvujaZRFqR3aNql3Sg",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-06-06",
-      "viewCount": "3089万",
-      "likeCount": "40万",
-      "commentCount": "5461",
-      "increment_d1": "23.78万"
+      "increment_d1": "4875"
     },
     {
       "rank": 1125,
@@ -570,10 +570,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-07",
-      "viewCount": "3086万",
+      "viewCount": "3087万",
       "likeCount": "22.3万",
-      "commentCount": "5596",
-      "increment_d1": "2290"
+      "commentCount": "5597",
+      "increment_d1": "1865"
     },
     {
       "rank": 1126,
@@ -596,10 +596,33 @@
       "viewCount": "3084万",
       "likeCount": "12.7万",
       "commentCount": "5246",
-      "increment_d1": "4521"
+      "increment_d1": "4652"
     },
     {
       "rank": 1127,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/yFvrbelLW5w/default.jpg",
+        "url": "https://www.youtube.com/watch?v=yFvrbelLW5w",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "DEEN「このまま君だけを奪い去りたい (DEEN The Best DX)」Music Video",
+        "url": "https://www.youtube.com/watch?v=yFvrbelLW5w",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "DEEN Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCVxiN0fbJT1PqWGIqQFZSXg",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-02-15",
+      "viewCount": "3083万",
+      "likeCount": "6.9万",
+      "commentCount": "3076",
+      "increment_d1": "3.14万"
+    },
+    {
+      "rank": 1128,
       "thumb": {
         "img": "https://i.ytimg.com/vi/7Q28SCQyqtM/default.jpg",
         "url": "https://www.youtube.com/watch?v=7Q28SCQyqtM",
@@ -619,33 +642,33 @@
       "viewCount": "3080万",
       "likeCount": "22.5万",
       "commentCount": "5250",
-      "increment_d1": "4109"
-    },
-    {
-      "rank": 1128,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/yFvrbelLW5w/default.jpg",
-        "url": "https://www.youtube.com/watch?v=yFvrbelLW5w",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "DEEN「このまま君だけを奪い去りたい (DEEN The Best DX)」Music Video",
-        "url": "https://www.youtube.com/watch?v=yFvrbelLW5w",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "DEEN Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCVxiN0fbJT1PqWGIqQFZSXg",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-02-15",
-      "viewCount": "3079万",
-      "likeCount": "6.9万",
-      "commentCount": "3073",
-      "increment_d1": "2.92万"
+      "increment_d1": "4491"
     },
     {
       "rank": 1129,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/MgY-OY3RjUM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=MgY-OY3RjUM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "あいみょん – ハルノヒ 【AIMYON TOUR 2019 -SIXTH SENSE STORY- IN YOKOHAMA ARENA】",
+        "url": "https://www.youtube.com/watch?v=MgY-OY3RjUM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "あいみょん",
+        "url": "https://www.youtube.com/channel/UCQVhrypJhw1HxuRV4gX6hoQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-06-09",
+      "viewCount": "3077万",
+      "likeCount": "9.2万",
+      "commentCount": "3075",
+      "increment_d1": "9734"
+    },
+    {
+      "rank": 1130,
       "thumb": {
         "img": "https://i.ytimg.com/vi/gEX21myCfU8/default.jpg",
         "url": "https://www.youtube.com/watch?v=gEX21myCfU8",
@@ -665,30 +688,7 @@
       "viewCount": "3077万",
       "likeCount": "4.1万",
       "commentCount": "1439",
-      "increment_d1": "1335"
-    },
-    {
-      "rank": 1130,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/MgY-OY3RjUM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=MgY-OY3RjUM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "あいみょん – ハルノヒ 【AIMYON TOUR 2019 -SIXTH SENSE STORY- IN YOKOHAMA ARENA】",
-        "url": "https://www.youtube.com/watch?v=MgY-OY3RjUM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "あいみょん",
-        "url": "https://www.youtube.com/channel/UCQVhrypJhw1HxuRV4gX6hoQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-06-09",
-      "viewCount": "3076万",
-      "likeCount": "9.2万",
-      "commentCount": "3074",
-      "increment_d1": "9587"
+      "increment_d1": "1564"
     },
     {
       "rank": 1131,
@@ -711,7 +711,7 @@
       "viewCount": "3066万",
       "likeCount": "56.6万",
       "commentCount": "1.7万",
-      "increment_d1": "4324"
+      "increment_d1": "4478"
     },
     {
       "rank": 1132,
@@ -731,10 +731,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-26",
-      "viewCount": "3059万",
+      "viewCount": "3060万",
       "likeCount": "13.2万",
-      "commentCount": "8548",
-      "increment_d1": "1.62万"
+      "commentCount": "8552",
+      "increment_d1": "1.69万"
     },
     {
       "rank": 1133,
@@ -757,7 +757,7 @@
       "viewCount": "3057万",
       "likeCount": "-",
       "commentCount": "7735",
-      "increment_d1": "2509"
+      "increment_d1": "2856"
     },
     {
       "rank": 1134,
@@ -777,10 +777,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-23",
-      "viewCount": "3045万",
+      "viewCount": "3046万",
       "likeCount": "-",
       "commentCount": "1.5万",
-      "increment_d1": "6932"
+      "increment_d1": "7904"
     },
     {
       "rank": 1135,
@@ -800,36 +800,13 @@
         "target": "_blank"
       },
       "publishedAt": "2025-06-04",
-      "viewCount": "3037万",
+      "viewCount": "3045万",
       "likeCount": "24.8万",
       "commentCount": "1.4万",
-      "increment_d1": "7.88万"
+      "increment_d1": "8.81万"
     },
     {
       "rank": 1136,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Q2E7TLotcko/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Q2E7TLotcko",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV full】 君はメロディー / AKB48[公式]",
-        "url": "https://www.youtube.com/watch?v=Q2E7TLotcko",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "AKB48",
-        "url": "https://www.youtube.com/channel/UCxjXU89x6owat9dA8Z-bzdw",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-06-01",
-      "viewCount": "3031万",
-      "likeCount": "20万",
-      "commentCount": "1.2万",
-      "increment_d1": "2218"
-    },
-    {
-      "rank": 1137,
       "thumb": {
         "img": "https://i.ytimg.com/vi/F9L7QAL5m5g/default.jpg",
         "url": "https://www.youtube.com/watch?v=F9L7QAL5m5g",
@@ -846,10 +823,33 @@
         "target": "_blank"
       },
       "publishedAt": "2010-12-10",
-      "viewCount": "3031万",
+      "viewCount": "3032万",
       "likeCount": "8.8万",
-      "commentCount": "4798",
-      "increment_d1": "6167"
+      "commentCount": "4801",
+      "increment_d1": "7259"
+    },
+    {
+      "rank": 1137,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Q2E7TLotcko/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Q2E7TLotcko",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV full】 君はメロディー / AKB48[公式]",
+        "url": "https://www.youtube.com/watch?v=Q2E7TLotcko",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "AKB48",
+        "url": "https://www.youtube.com/channel/UCxjXU89x6owat9dA8Z-bzdw",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-06-01",
+      "viewCount": "3032万",
+      "likeCount": "20.1万",
+      "commentCount": "1.2万",
+      "increment_d1": "2394"
     },
     {
       "rank": 1138,
@@ -869,10 +869,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-08-08",
-      "viewCount": "3029万",
+      "viewCount": "3030万",
       "likeCount": "6.3万",
       "commentCount": "2276",
-      "increment_d1": "2957"
+      "increment_d1": "3059"
     },
     {
       "rank": 1139,
@@ -894,8 +894,8 @@
       "publishedAt": "2014-03-14",
       "viewCount": "3026万",
       "likeCount": "12.3万",
-      "commentCount": "3774",
-      "increment_d1": "3757"
+      "commentCount": "3776",
+      "increment_d1": "3870"
     },
     {
       "rank": 1140,
@@ -918,33 +918,10 @@
       "viewCount": "3024万",
       "likeCount": "8.9万",
       "commentCount": "3599",
-      "increment_d1": "3628"
+      "increment_d1": "4041"
     },
     {
       "rank": 1141,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1Xc9VpB4jaE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1Xc9VpB4jaE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "AAA / 「LIFE」Music Video (short ver.)",
-        "url": "https://www.youtube.com/watch?v=1Xc9VpB4jaE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-09-28",
-      "viewCount": "3006万",
-      "likeCount": "13.3万",
-      "commentCount": "8225",
-      "increment_d1": "1024"
-    },
-    {
-      "rank": 1142,
       "thumb": {
         "img": "https://i.ytimg.com/vi/W3YfiVGSbus/default.jpg",
         "url": "https://www.youtube.com/watch?v=W3YfiVGSbus",
@@ -961,10 +938,33 @@
         "target": "_blank"
       },
       "publishedAt": "2024-02-09",
-      "viewCount": "3004万",
+      "viewCount": "3007万",
       "likeCount": "18.1万",
-      "commentCount": "6727",
-      "increment_d1": "1.87万"
+      "commentCount": "6729",
+      "increment_d1": "2.19万"
+    },
+    {
+      "rank": 1142,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1Xc9VpB4jaE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1Xc9VpB4jaE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "AAA / 「LIFE」Music Video (short ver.)",
+        "url": "https://www.youtube.com/watch?v=1Xc9VpB4jaE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-09-28",
+      "viewCount": "3007万",
+      "likeCount": "13.3万",
+      "commentCount": "8225",
+      "increment_d1": "1145"
     },
     {
       "rank": 1143,
@@ -984,36 +984,13 @@
         "target": "_blank"
       },
       "publishedAt": "2017-02-06",
-      "viewCount": "3004万",
+      "viewCount": "3005万",
       "likeCount": "18.7万",
       "commentCount": "7334",
-      "increment_d1": "3136"
+      "increment_d1": "3262"
     },
     {
       "rank": 1144,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/WsEOnichYgI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=WsEOnichYgI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "あいみょん - ふたりの世界 【OFFICIAL MUSIC VIDEO】",
-        "url": "https://www.youtube.com/watch?v=WsEOnichYgI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "あいみょん",
-        "url": "https://www.youtube.com/channel/UCG8MvaPCa2ecKH3GZyFxduA",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-11-07",
-      "viewCount": "3000万",
-      "likeCount": "15.7万",
-      "commentCount": "3393",
-      "increment_d1": "3831"
-    },
-    {
-      "rank": 1145,
       "thumb": {
         "img": "https://i.ytimg.com/vi/fxTD_ZIAnH4/default.jpg",
         "url": "https://www.youtube.com/watch?v=fxTD_ZIAnH4",
@@ -1030,10 +1007,33 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-23",
-      "viewCount": "2999万",
+      "viewCount": "3001万",
       "likeCount": "8.8万",
-      "commentCount": "4211",
-      "increment_d1": "1.34万"
+      "commentCount": "4215",
+      "increment_d1": "1.51万"
+    },
+    {
+      "rank": 1145,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/WsEOnichYgI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=WsEOnichYgI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "あいみょん - ふたりの世界 【OFFICIAL MUSIC VIDEO】",
+        "url": "https://www.youtube.com/watch?v=WsEOnichYgI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "あいみょん",
+        "url": "https://www.youtube.com/channel/UCG8MvaPCa2ecKH3GZyFxduA",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-11-07",
+      "viewCount": "3001万",
+      "likeCount": "15.7万",
+      "commentCount": "3393",
+      "increment_d1": "4019"
     },
     {
       "rank": 1146,
@@ -1053,10 +1053,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-08-23",
-      "viewCount": "2997万",
+      "viewCount": "2998万",
       "likeCount": "10.6万",
       "commentCount": "4830",
-      "increment_d1": "9156"
+      "increment_d1": "8876"
     },
     {
       "rank": 1147,
@@ -1076,10 +1076,10 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-07",
-      "viewCount": "2996万",
+      "viewCount": "2997万",
       "likeCount": "8万",
-      "commentCount": "3009",
-      "increment_d1": "3220"
+      "commentCount": "3010",
+      "increment_d1": "3214"
     },
     {
       "rank": 1148,
@@ -1101,8 +1101,8 @@
       "publishedAt": "2022-05-17",
       "viewCount": "2996万",
       "likeCount": "6.1万",
-      "commentCount": "4495",
-      "increment_d1": "739"
+      "commentCount": "4494",
+      "increment_d1": "832"
     },
     {
       "rank": 1149,
@@ -1122,10 +1122,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-02-22",
-      "viewCount": "2993万",
+      "viewCount": "2994万",
       "likeCount": "-",
       "commentCount": "1万",
-      "increment_d1": "6473"
+      "increment_d1": "6592"
     },
     {
       "rank": 1150,
@@ -1145,10 +1145,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-06",
-      "viewCount": "2986万",
+      "viewCount": "2988万",
       "likeCount": "21.7万",
       "commentCount": "4499",
-      "increment_d1": "1.4万"
+      "increment_d1": "1.41万"
     }
   ]
 }

@@ -20,8 +20,8 @@
       "publishedAt": "2014-03-02",
       "viewCount": "1257万",
       "likeCount": "7.2万",
-      "commentCount": "2136",
-      "increment_d1": "2093"
+      "commentCount": "2137",
+      "increment_d1": "2076"
     },
     {
       "rank": 2702,
@@ -42,9 +42,9 @@
       },
       "publishedAt": "2017-06-30",
       "viewCount": "1256万",
-      "likeCount": "10.7万",
-      "commentCount": "2601",
-      "increment_d1": "4603"
+      "likeCount": "10.8万",
+      "commentCount": "2602",
+      "increment_d1": "5755"
     },
     {
       "rank": 2703,
@@ -67,7 +67,7 @@
       "viewCount": "1255万",
       "likeCount": "2.9万",
       "commentCount": "1587",
-      "increment_d1": "2292"
+      "increment_d1": "1850"
     },
     {
       "rank": 2704,
@@ -90,7 +90,7 @@
       "viewCount": "1255万",
       "likeCount": "5.6万",
       "commentCount": "8269",
-      "increment_d1": "1253"
+      "increment_d1": "1299"
     },
     {
       "rank": 2705,
@@ -110,13 +110,36 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-26",
-      "viewCount": "1254万",
+      "viewCount": "1255万",
       "likeCount": "6.4万",
       "commentCount": "1932",
-      "increment_d1": "3817"
+      "increment_d1": "4481"
     },
     {
       "rank": 2706,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/r8yTsDQCfR0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=r8yTsDQCfR0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "aiko- 『KissHug』music video",
+        "url": "https://www.youtube.com/watch?v=r8yTsDQCfR0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "aikoOfficial",
+        "url": "https://www.youtube.com/channel/UCtLQyS4toPOarqufGUxTtIQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-02-25",
+      "viewCount": "1254万",
+      "likeCount": "-",
+      "commentCount": "909",
+      "increment_d1": "1.55万"
+    },
+    {
+      "rank": 2707,
       "thumb": {
         "img": "https://i.ytimg.com/vi/DUVpqZPgieI/default.jpg",
         "url": "https://www.youtube.com/watch?v=DUVpqZPgieI",
@@ -136,10 +159,33 @@
       "viewCount": "1254万",
       "likeCount": "-",
       "commentCount": "7086",
-      "increment_d1": "442"
+      "increment_d1": "476"
     },
     {
-      "rank": 2707,
+      "rank": 2708,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Uez2Zcox5kk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Uez2Zcox5kk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BAD HOP - Day N Night feat. G-k.i.d, guca owl & KEIJU(Official Video)",
+        "url": "https://www.youtube.com/watch?v=Uez2Zcox5kk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BAD HOP",
+        "url": "https://www.youtube.com/channel/UCcb0Ixexedx7eXLzgYZh6bg",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-02-13",
+      "viewCount": "1254万",
+      "likeCount": "5.9万",
+      "commentCount": "1357",
+      "increment_d1": "1.61万"
+    },
+    {
+      "rank": 2709,
       "thumb": {
         "img": "https://i.ytimg.com/vi/V7Nizgi4Gec/default.jpg",
         "url": "https://www.youtube.com/watch?v=V7Nizgi4Gec",
@@ -159,56 +205,56 @@
       "viewCount": "1253万",
       "likeCount": "4.3万",
       "commentCount": "4040",
-      "increment_d1": "484"
-    },
-    {
-      "rank": 2708,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/r8yTsDQCfR0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=r8yTsDQCfR0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "aiko- 『KissHug』music video",
-        "url": "https://www.youtube.com/watch?v=r8yTsDQCfR0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "aikoOfficial",
-        "url": "https://www.youtube.com/channel/UCtLQyS4toPOarqufGUxTtIQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-02-25",
-      "viewCount": "1253万",
-      "likeCount": "-",
-      "commentCount": "908",
-      "increment_d1": "1.23万"
-    },
-    {
-      "rank": 2709,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Uez2Zcox5kk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Uez2Zcox5kk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BAD HOP - Day N Night feat. G-k.i.d, guca owl & KEIJU(Official Video)",
-        "url": "https://www.youtube.com/watch?v=Uez2Zcox5kk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BAD HOP",
-        "url": "https://www.youtube.com/channel/UCcb0Ixexedx7eXLzgYZh6bg",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-02-13",
-      "viewCount": "1252万",
-      "likeCount": "5.9万",
-      "commentCount": "1355",
-      "increment_d1": "1.47万"
+      "increment_d1": "416"
     },
     {
       "rank": 2710,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/9gfamY4ABxc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=9gfamY4ABxc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "西野カナ『たとえどんなに...』MV Full",
+        "url": "https://www.youtube.com/watch?v=9gfamY4ABxc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-11-05",
+      "viewCount": "1253万",
+      "likeCount": "3.4万",
+      "commentCount": "963",
+      "increment_d1": "1.77万"
+    },
+    {
+      "rank": 2711,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/z2TNnnQbGJs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=z2TNnnQbGJs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "サカナクション / ミュージック　-Music Video-",
+        "url": "https://www.youtube.com/watch?v=z2TNnnQbGJs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "サカナクション sakanaction",
+        "url": "https://www.youtube.com/channel/UCli_j3KPGhsF1Mv1AK17UPA",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-09-26",
+      "viewCount": "1252万",
+      "likeCount": "6.5万",
+      "commentCount": "688",
+      "increment_d1": "8617"
+    },
+    {
+      "rank": 2712,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Z-z0-W61xLw/default.jpg",
         "url": "https://www.youtube.com/watch?v=Z-z0-W61xLw",
@@ -227,54 +273,8 @@
       "publishedAt": "2020-05-14",
       "viewCount": "1252万",
       "likeCount": "7.5万",
-      "commentCount": "1956",
-      "increment_d1": "5497"
-    },
-    {
-      "rank": 2711,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/f9-PYxAKdfY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=f9-PYxAKdfY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "西野カナ　『GO FOR IT!!(short ver.)』",
-        "url": "https://www.youtube.com/watch?v=f9-PYxAKdfY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-07-02",
-      "viewCount": "1251万",
-      "likeCount": "2.8万",
-      "commentCount": "1056",
-      "increment_d1": "294"
-    },
-    {
-      "rank": 2712,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/z2TNnnQbGJs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=z2TNnnQbGJs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "サカナクション / ミュージック　-Music Video-",
-        "url": "https://www.youtube.com/watch?v=z2TNnnQbGJs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "サカナクション sakanaction",
-        "url": "https://www.youtube.com/channel/UCli_j3KPGhsF1Mv1AK17UPA",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-09-26",
-      "viewCount": "1251万",
-      "likeCount": "6.5万",
-      "commentCount": "686",
-      "increment_d1": "8109"
+      "commentCount": "1958",
+      "increment_d1": "5394"
     },
     {
       "rank": 2713,
@@ -294,36 +294,13 @@
         "target": "_blank"
       },
       "publishedAt": "2008-06-03",
-      "viewCount": "1251万",
+      "viewCount": "1252万",
       "likeCount": "2.2万",
-      "commentCount": "1537",
-      "increment_d1": "5810"
+      "commentCount": "1538",
+      "increment_d1": "6670"
     },
     {
       "rank": 2714,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/9gfamY4ABxc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=9gfamY4ABxc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "西野カナ『たとえどんなに...』MV Full",
-        "url": "https://www.youtube.com/watch?v=9gfamY4ABxc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-05",
-      "viewCount": "1251万",
-      "likeCount": "3.4万",
-      "commentCount": "961",
-      "increment_d1": "1.79万"
-    },
-    {
-      "rank": 2715,
       "thumb": {
         "img": "https://i.ytimg.com/vi/7EuTPTVpuNI/default.jpg",
         "url": "https://www.youtube.com/watch?v=7EuTPTVpuNI",
@@ -340,10 +317,33 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-05",
-      "viewCount": "1251万",
+      "viewCount": "1252万",
       "likeCount": "10万",
-      "commentCount": "6762",
-      "increment_d1": "9769"
+      "commentCount": "6763",
+      "increment_d1": "1.04万"
+    },
+    {
+      "rank": 2715,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/f9-PYxAKdfY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=f9-PYxAKdfY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "西野カナ　『GO FOR IT!!(short ver.)』",
+        "url": "https://www.youtube.com/watch?v=f9-PYxAKdfY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-07-02",
+      "viewCount": "1252万",
+      "likeCount": "2.8万",
+      "commentCount": "1056",
+      "increment_d1": "292"
     },
     {
       "rank": 2716,
@@ -366,10 +366,33 @@
       "viewCount": "1249万",
       "likeCount": "8.6万",
       "commentCount": "428",
-      "increment_d1": "2950"
+      "increment_d1": "2835"
     },
     {
       "rank": 2717,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/n7di6LFTtPA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=n7di6LFTtPA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "T.M.Revolution 『HEART OF SWORD ～夜明け前～』",
+        "url": "https://www.youtube.com/watch?v=n7di6LFTtPA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "T.M.Revolution",
+        "url": "https://www.youtube.com/channel/UCq1xU8DeDDRqu2q618RDvhQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-11-07",
+      "viewCount": "1249万",
+      "likeCount": "4.1万",
+      "commentCount": "2177",
+      "increment_d1": "3613"
+    },
+    {
+      "rank": 2718,
       "thumb": {
         "img": "https://i.ytimg.com/vi/6OU50pLDlYA/default.jpg",
         "url": "https://www.youtube.com/watch?v=6OU50pLDlYA",
@@ -389,30 +412,7 @@
       "viewCount": "1249万",
       "likeCount": "-",
       "commentCount": "1.7万",
-      "increment_d1": "1378"
-    },
-    {
-      "rank": 2718,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/n7di6LFTtPA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=n7di6LFTtPA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "T.M.Revolution 『HEART OF SWORD ～夜明け前～』",
-        "url": "https://www.youtube.com/watch?v=n7di6LFTtPA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "T.M.Revolution",
-        "url": "https://www.youtube.com/channel/UCq1xU8DeDDRqu2q618RDvhQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-11-07",
-      "viewCount": "1249万",
-      "likeCount": "4.1万",
-      "commentCount": "2176",
-      "increment_d1": "3630"
+      "increment_d1": "1570"
     },
     {
       "rank": 2719,
@@ -435,7 +435,7 @@
       "viewCount": "1248万",
       "likeCount": "20.5万",
       "commentCount": "5966",
-      "increment_d1": "915"
+      "increment_d1": "782"
     },
     {
       "rank": 2720,
@@ -458,7 +458,7 @@
       "viewCount": "1248万",
       "likeCount": "2.5万",
       "commentCount": "1153",
-      "increment_d1": "2154"
+      "increment_d1": "2071"
     },
     {
       "rank": 2721,
@@ -481,7 +481,7 @@
       "viewCount": "1247万",
       "likeCount": "8.7万",
       "commentCount": "1180",
-      "increment_d1": "241"
+      "increment_d1": "381"
     },
     {
       "rank": 2722,
@@ -504,7 +504,7 @@
       "viewCount": "1246万",
       "likeCount": "-",
       "commentCount": "2万",
-      "increment_d1": "2844"
+      "increment_d1": "2270"
     },
     {
       "rank": 2723,
@@ -526,8 +526,8 @@
       "publishedAt": "2023-04-21",
       "viewCount": "1246万",
       "likeCount": "-",
-      "commentCount": "4305",
-      "increment_d1": "2448"
+      "commentCount": "4306",
+      "increment_d1": "3037"
     },
     {
       "rank": 2724,
@@ -550,7 +550,7 @@
       "viewCount": "1245万",
       "likeCount": "5.2万",
       "commentCount": "85",
-      "increment_d1": "1.03万"
+      "increment_d1": "7375"
     },
     {
       "rank": 2725,
@@ -572,8 +572,8 @@
       "publishedAt": "2022-05-06",
       "viewCount": "1243万",
       "likeCount": "21.3万",
-      "commentCount": "6577",
-      "increment_d1": "4036"
+      "commentCount": "6581",
+      "increment_d1": "4693"
     },
     {
       "rank": 2726,
@@ -593,10 +593,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-10",
-      "viewCount": "1242万",
+      "viewCount": "1243万",
       "likeCount": "8万",
       "commentCount": "2454",
-      "increment_d1": "5023"
+      "increment_d1": "5159"
     },
     {
       "rank": 2727,
@@ -616,10 +616,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-26",
-      "viewCount": "1242万",
+      "viewCount": "1243万",
       "likeCount": "10.1万",
-      "commentCount": "3657",
-      "increment_d1": "6113"
+      "commentCount": "3663",
+      "increment_d1": "6565"
     },
     {
       "rank": 2728,
@@ -639,13 +639,36 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-02",
-      "viewCount": "1241万",
+      "viewCount": "1242万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "5476"
+      "increment_d1": "5565"
     },
     {
       "rank": 2729,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/5DNqESedFMk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=5DNqESedFMk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "米津玄師 - さよーならまたいつか！「虎に翼」OPタイトルバック・フル　Kenshi Yonezu - Sayonara, Mata Itsuka !",
+        "url": "https://www.youtube.com/watch?v=5DNqESedFMk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-09-24",
+      "viewCount": "1242万",
+      "likeCount": "9.7万",
+      "commentCount": "2234",
+      "increment_d1": "1.73万"
+    },
+    {
+      "rank": 2730,
       "thumb": {
         "img": "https://i.ytimg.com/vi/nrNWpxFflr4/default.jpg",
         "url": "https://www.youtube.com/watch?v=nrNWpxFflr4",
@@ -665,10 +688,33 @@
       "viewCount": "1241万",
       "likeCount": "17.3万",
       "commentCount": "5099",
-      "increment_d1": "169"
+      "increment_d1": "308"
     },
     {
-      "rank": 2730,
+      "rank": 2731,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/2qJnqZenIFY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=2qJnqZenIFY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "松任谷由実 - あの日にかえりたい (Yumi Arai The Concert with old Friends)",
+        "url": "https://www.youtube.com/watch?v=2qJnqZenIFY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "松任谷由実",
+        "url": "https://www.youtube.com/channel/UCDD7BcoKphATW57_46mPFLg",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-11-08",
+      "viewCount": "1241万",
+      "likeCount": "3.3万",
+      "commentCount": "1680",
+      "increment_d1": "6854"
+    },
+    {
+      "rank": 2732,
       "thumb": {
         "img": "https://i.ytimg.com/vi/_o10f0CMTvU/default.jpg",
         "url": "https://www.youtube.com/watch?v=_o10f0CMTvU",
@@ -687,80 +733,11 @@
       "publishedAt": "2012-05-28",
       "viewCount": "1240万",
       "likeCount": "4.9万",
-      "commentCount": "1453",
-      "increment_d1": "1329"
-    },
-    {
-      "rank": 2731,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/5DNqESedFMk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=5DNqESedFMk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "米津玄師 - さよーならまたいつか！「虎に翼」OPタイトルバック・フル　Kenshi Yonezu - Sayonara, Mata Itsuka !",
-        "url": "https://www.youtube.com/watch?v=5DNqESedFMk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-09-24",
-      "viewCount": "1240万",
-      "likeCount": "9.7万",
-      "commentCount": "2233",
-      "increment_d1": "1.66万"
-    },
-    {
-      "rank": 2732,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/2qJnqZenIFY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=2qJnqZenIFY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "松任谷由実 - あの日にかえりたい (Yumi Arai The Concert with old Friends)",
-        "url": "https://www.youtube.com/watch?v=2qJnqZenIFY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "松任谷由実",
-        "url": "https://www.youtube.com/channel/UCDD7BcoKphATW57_46mPFLg",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-11-08",
-      "viewCount": "1240万",
-      "likeCount": "3.3万",
-      "commentCount": "1680",
-      "increment_d1": "6224"
+      "commentCount": "1454",
+      "increment_d1": "1296"
     },
     {
       "rank": 2733,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/9xUdZd1ZEp0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=9xUdZd1ZEp0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "三代目 J SOUL BROTHERS from EXILE TRIBE / SCARLET feat. Afrojack",
-        "url": "https://www.youtube.com/watch?v=9xUdZd1ZEp0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-08-03",
-      "viewCount": "1240万",
-      "likeCount": "6.1万",
-      "commentCount": "4074",
-      "increment_d1": "695"
-    },
-    {
-      "rank": 2734,
       "thumb": {
         "img": "https://i.ytimg.com/vi/WkQE64jInOw/default.jpg",
         "url": "https://www.youtube.com/watch?v=WkQE64jInOw",
@@ -780,10 +757,10 @@
       "viewCount": "1240万",
       "likeCount": "15.8万",
       "commentCount": "2965",
-      "increment_d1": "6665"
+      "increment_d1": "5731"
     },
     {
-      "rank": 2735,
+      "rank": 2734,
       "thumb": {
         "img": "https://i.ytimg.com/vi/zejYD43HyQo/default.jpg",
         "url": "https://www.youtube.com/watch?v=zejYD43HyQo",
@@ -800,10 +777,33 @@
         "target": "_blank"
       },
       "publishedAt": "2022-02-26",
-      "viewCount": "1239万",
+      "viewCount": "1240万",
       "likeCount": "8.6万",
-      "commentCount": "1113",
-      "increment_d1": "7399"
+      "commentCount": "1114",
+      "increment_d1": "7650"
+    },
+    {
+      "rank": 2735,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/9xUdZd1ZEp0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=9xUdZd1ZEp0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "三代目 J SOUL BROTHERS from EXILE TRIBE / SCARLET feat. Afrojack",
+        "url": "https://www.youtube.com/watch?v=9xUdZd1ZEp0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-08-03",
+      "viewCount": "1240万",
+      "likeCount": "6.1万",
+      "commentCount": "4074",
+      "increment_d1": "530"
     },
     {
       "rank": 2736,
@@ -825,11 +825,34 @@
       "publishedAt": "2009-07-29",
       "viewCount": "1238万",
       "likeCount": "2.2万",
-      "commentCount": "790",
-      "increment_d1": "1128"
+      "commentCount": "789",
+      "increment_d1": "1038"
     },
     {
       "rank": 2737,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/fVvjv3xpSMA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=fVvjv3xpSMA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "HY -「恋をして」(映画『366日』主題歌)  Music Video",
+        "url": "https://www.youtube.com/watch?v=fVvjv3xpSMA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "HY Official",
+        "url": "https://www.youtube.com/channel/UCjk0vxDFjZCdiZ6keN1KtgQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-01-07",
+      "viewCount": "1237万",
+      "likeCount": "6.9万",
+      "commentCount": "1913",
+      "increment_d1": "2.06万"
+    },
+    {
+      "rank": 2738,
       "thumb": {
         "img": "https://i.ytimg.com/vi/PTzYM7xLXx0/default.jpg",
         "url": "https://www.youtube.com/watch?v=PTzYM7xLXx0",
@@ -848,11 +871,11 @@
       "publishedAt": "2018-08-10",
       "viewCount": "1237万",
       "likeCount": "3.3万",
-      "commentCount": "1710",
-      "increment_d1": "982"
+      "commentCount": "1709",
+      "increment_d1": "1412"
     },
     {
-      "rank": 2738,
+      "rank": 2739,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Vao7eDMtrro/default.jpg",
         "url": "https://www.youtube.com/watch?v=Vao7eDMtrro",
@@ -869,13 +892,13 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-28",
-      "viewCount": "1235万",
+      "viewCount": "1236万",
       "likeCount": "26.3万",
       "commentCount": "4762",
-      "increment_d1": "2524"
+      "increment_d1": "2320"
     },
     {
-      "rank": 2739,
+      "rank": 2740,
       "thumb": {
         "img": "https://i.ytimg.com/vi/QvOrdmc-X30/default.jpg",
         "url": "https://www.youtube.com/watch?v=QvOrdmc-X30",
@@ -895,10 +918,10 @@
       "viewCount": "1235万",
       "likeCount": "2.1万",
       "commentCount": "906",
-      "increment_d1": "54"
+      "increment_d1": "67"
     },
     {
-      "rank": 2740,
+      "rank": 2741,
       "thumb": {
         "img": "https://i.ytimg.com/vi/OZpv_AcPCKg/default.jpg",
         "url": "https://www.youtube.com/watch?v=OZpv_AcPCKg",
@@ -918,30 +941,7 @@
       "viewCount": "1235万",
       "likeCount": "17.6万",
       "commentCount": "4597",
-      "increment_d1": "2743"
-    },
-    {
-      "rank": 2741,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/fVvjv3xpSMA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=fVvjv3xpSMA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "HY -「恋をして」(映画『366日』主題歌)  Music Video",
-        "url": "https://www.youtube.com/watch?v=fVvjv3xpSMA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "HY Official",
-        "url": "https://www.youtube.com/channel/UCjk0vxDFjZCdiZ6keN1KtgQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-01-07",
-      "viewCount": "1235万",
-      "likeCount": "6.9万",
-      "commentCount": "1910",
-      "increment_d1": "2.01万"
+      "increment_d1": "2764"
     },
     {
       "rank": 2742,
@@ -961,13 +961,36 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-27",
-      "viewCount": "1234万",
+      "viewCount": "1235万",
       "likeCount": "10.5万",
-      "commentCount": "2776",
-      "increment_d1": "3967"
+      "commentCount": "2784",
+      "increment_d1": "4780"
     },
     {
       "rank": 2743,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/UunoGo6KioE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=UunoGo6KioE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "『3月9日』acoustic ver. 優里× 春茶",
+        "url": "https://www.youtube.com/watch?v=UunoGo6KioE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "優里ちゃんねる【公式】",
+        "url": "https://www.youtube.com/channel/UC7MvTslTWkE1HKNYkXiGv1Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-03-09",
+      "viewCount": "1235万",
+      "likeCount": "5.9万",
+      "commentCount": "1342",
+      "increment_d1": "1.2万"
+    },
+    {
+      "rank": 2744,
       "thumb": {
         "img": "https://i.ytimg.com/vi/lcz89e42XEM/default.jpg",
         "url": "https://www.youtube.com/watch?v=lcz89e42XEM",
@@ -987,30 +1010,7 @@
       "viewCount": "1234万",
       "likeCount": "3.5万",
       "commentCount": "1193",
-      "increment_d1": "766"
-    },
-    {
-      "rank": 2744,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/UunoGo6KioE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=UunoGo6KioE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "『3月9日』acoustic ver. 優里× 春茶",
-        "url": "https://www.youtube.com/watch?v=UunoGo6KioE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "優里ちゃんねる【公式】",
-        "url": "https://www.youtube.com/channel/UC7MvTslTWkE1HKNYkXiGv1Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-03-09",
-      "viewCount": "1233万",
-      "likeCount": "5.9万",
-      "commentCount": "1341",
-      "increment_d1": "1.08万"
+      "increment_d1": "957"
     },
     {
       "rank": 2745,
@@ -1030,33 +1030,33 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-18",
-      "viewCount": "1233万",
+      "viewCount": "1234万",
       "likeCount": "9.7万",
       "commentCount": "1891",
-      "increment_d1": "6266"
+      "increment_d1": "6815"
     },
     {
       "rank": 2746,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/EJ1znwnhj68/default.jpg",
-        "url": "https://www.youtube.com/watch?v=EJ1znwnhj68",
+        "img": "https://i.ytimg.com/vi/5Crs4En8Knw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=5Crs4En8Knw",
         "target": "_blank"
       },
       "title": {
-        "text": "ZOT on the WAVE feat. YZERR & Candee - TEIHEN (Official Music Video)",
-        "url": "https://www.youtube.com/watch?v=EJ1znwnhj68",
+        "text": "【ののちゃん】はんぶんごっこ／ののちゃん(村方乃々佳)",
+        "url": "https://www.youtube.com/watch?v=5Crs4En8Knw",
         "target": "_blank"
       },
       "channel": {
-        "text": "BAD HOP",
-        "url": "https://www.youtube.com/channel/UCcb0Ixexedx7eXLzgYZh6bg",
+        "text": "コロムビアキッズ TV",
+        "url": "https://www.youtube.com/channel/UCY23ZWAoiQk_JrJfmV0l4fw",
         "target": "_blank"
       },
-      "publishedAt": "2022-06-29",
+      "publishedAt": "2023-08-20",
       "viewCount": "1233万",
-      "likeCount": "6.6万",
-      "commentCount": "1564",
-      "increment_d1": "6122"
+      "likeCount": "6234",
+      "commentCount": "-",
+      "increment_d1": "1.1万"
     },
     {
       "rank": 2747,
@@ -1076,33 +1076,33 @@
         "target": "_blank"
       },
       "publishedAt": "2022-06-01",
-      "viewCount": "1232万",
+      "viewCount": "1233万",
       "likeCount": "10.7万",
-      "commentCount": "1982",
-      "increment_d1": "8922"
+      "commentCount": "1984",
+      "increment_d1": "1.03万"
     },
     {
       "rank": 2748,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/5Crs4En8Knw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=5Crs4En8Knw",
+        "img": "https://i.ytimg.com/vi/EJ1znwnhj68/default.jpg",
+        "url": "https://www.youtube.com/watch?v=EJ1znwnhj68",
         "target": "_blank"
       },
       "title": {
-        "text": "【ののちゃん】はんぶんごっこ／ののちゃん(村方乃々佳)",
-        "url": "https://www.youtube.com/watch?v=5Crs4En8Knw",
+        "text": "ZOT on the WAVE feat. YZERR & Candee - TEIHEN (Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=EJ1znwnhj68",
         "target": "_blank"
       },
       "channel": {
-        "text": "コロムビアキッズ TV",
-        "url": "https://www.youtube.com/channel/UCY23ZWAoiQk_JrJfmV0l4fw",
+        "text": "BAD HOP",
+        "url": "https://www.youtube.com/channel/UCcb0Ixexedx7eXLzgYZh6bg",
         "target": "_blank"
       },
-      "publishedAt": "2023-08-20",
-      "viewCount": "1232万",
-      "likeCount": "6228",
-      "commentCount": "-",
-      "increment_d1": "7646"
+      "publishedAt": "2022-06-29",
+      "viewCount": "1233万",
+      "likeCount": "6.6万",
+      "commentCount": "1566",
+      "increment_d1": "7486"
     },
     {
       "rank": 2749,
@@ -1125,7 +1125,7 @@
       "viewCount": "1232万",
       "likeCount": "3.1万",
       "commentCount": "428",
-      "increment_d1": "570"
+      "increment_d1": "625"
     },
     {
       "rank": 2750,
@@ -1145,10 +1145,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-21",
-      "viewCount": "1231万",
+      "viewCount": "1232万",
       "likeCount": "4.8万",
-      "commentCount": "2818",
-      "increment_d1": "3922"
+      "commentCount": "2821",
+      "increment_d1": "4056"
     }
   ]
 }

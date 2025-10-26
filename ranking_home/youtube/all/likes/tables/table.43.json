@@ -1,7 +1,7 @@
 {
   "rows": [
     {
-      "rank": 2100,
+      "rank": 2101,
       "thumb": {
         "img": "https://i.ytimg.com/vi/mDvM37bNsRQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=mDvM37bNsRQ",
@@ -84,9 +84,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-02-09",
-      "viewCount": "1514万",
+      "viewCount": "1515万",
       "likeCount": "8.31万",
-      "commentCount": "1834"
+      "commentCount": "1836"
     },
     {
       "rank": 2105,
@@ -106,9 +106,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-09-26",
-      "viewCount": "1376万",
+      "viewCount": "1377万",
       "likeCount": "8.31万",
-      "commentCount": "598"
+      "commentCount": "599"
     },
     {
       "rank": 2106,
@@ -129,7 +129,7 @@
       },
       "publishedAt": "2017-06-29",
       "viewCount": "2833万",
-      "likeCount": "8.3万",
+      "likeCount": "8.31万",
       "commentCount": "2193"
     },
     {
@@ -157,6 +157,28 @@
     {
       "rank": 2108,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/G7E-puFvS90/default.jpg",
+        "url": "https://www.youtube.com/watch?v=G7E-puFvS90",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Biri-Biri",
+        "url": "https://www.youtube.com/watch?v=G7E-puFvS90",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-11-17",
+      "viewCount": "1714万",
+      "likeCount": "8.29万",
+      "commentCount": "604"
+    },
+    {
+      "rank": 2109,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/Lsb6Dq-92NA/default.jpg",
         "url": "https://www.youtube.com/watch?v=Lsb6Dq-92NA",
         "target": "_blank"
@@ -175,28 +197,6 @@
       "viewCount": "1134万",
       "likeCount": "8.28万",
       "commentCount": "4090"
-    },
-    {
-      "rank": 2109,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/G7E-puFvS90/default.jpg",
-        "url": "https://www.youtube.com/watch?v=G7E-puFvS90",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Biri-Biri",
-        "url": "https://www.youtube.com/watch?v=G7E-puFvS90",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-11-17",
-      "viewCount": "1712万",
-      "likeCount": "8.28万",
-      "commentCount": "604"
     },
     {
       "rank": 2110,
@@ -238,34 +238,12 @@
         "target": "_blank"
       },
       "publishedAt": "2024-09-11",
-      "viewCount": "1318万",
+      "viewCount": "1319万",
       "likeCount": "8.27万",
-      "commentCount": "1848"
+      "commentCount": "1850"
     },
     {
       "rank": 2112,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/WcwYTUNdZsY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=WcwYTUNdZsY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE - 愛情と矛先【LIVE from 『EDEN no SONO』】",
-        "url": "https://www.youtube.com/watch?v=WcwYTUNdZsY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-07-14",
-      "viewCount": "1047万",
-      "likeCount": "8.26万",
-      "commentCount": "3036"
-    },
-    {
-      "rank": 2113,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Pw_cYJoSsKQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=Pw_cYJoSsKQ",
@@ -282,9 +260,31 @@
         "target": "_blank"
       },
       "publishedAt": "2019-09-25",
-      "viewCount": "1794万",
+      "viewCount": "1795万",
       "likeCount": "8.26万",
-      "commentCount": "3798"
+      "commentCount": "3800"
+    },
+    {
+      "rank": 2113,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/WcwYTUNdZsY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=WcwYTUNdZsY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE - 愛情と矛先【LIVE from 『EDEN no SONO』】",
+        "url": "https://www.youtube.com/watch?v=WcwYTUNdZsY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-07-14",
+      "viewCount": "1048万",
+      "likeCount": "8.26万",
+      "commentCount": "3037"
     },
     {
       "rank": 2114,
@@ -327,8 +327,8 @@
       },
       "publishedAt": "2020-04-07",
       "viewCount": "1988万",
-      "likeCount": "8.23万",
-      "commentCount": "5067"
+      "likeCount": "8.24万",
+      "commentCount": "5068"
     },
     {
       "rank": 2116,
@@ -372,7 +372,7 @@
       "publishedAt": "2021-02-23",
       "viewCount": "1801万",
       "likeCount": "8.22万",
-      "commentCount": "3275"
+      "commentCount": "3276"
     },
     {
       "rank": 2118,
@@ -392,9 +392,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-10",
-      "viewCount": "1991万",
+      "viewCount": "1992万",
       "likeCount": "8.18万",
-      "commentCount": "3330"
+      "commentCount": "3331"
     },
     {
       "rank": 2119,
@@ -436,8 +436,8 @@
         "target": "_blank"
       },
       "publishedAt": "2012-06-13",
-      "viewCount": "3822万",
-      "likeCount": "8.17万",
+      "viewCount": "3823万",
+      "likeCount": "8.18万",
       "commentCount": "2859"
     },
     {
@@ -480,9 +480,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-02",
-      "viewCount": "1466万",
+      "viewCount": "1467万",
       "likeCount": "8.16万",
-      "commentCount": "2978"
+      "commentCount": "2981"
     },
     {
       "rank": 2123,
@@ -502,9 +502,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-07",
-      "viewCount": "1617万",
-      "likeCount": "8.15万",
-      "commentCount": "2151"
+      "viewCount": "1619万",
+      "likeCount": "8.16万",
+      "commentCount": "2152"
     },
     {
       "rank": 2124,
@@ -524,7 +524,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-03-24",
-      "viewCount": "1754万",
+      "viewCount": "1755万",
       "likeCount": "8.15万",
       "commentCount": "3816"
     },
@@ -614,7 +614,7 @@
       "publishedAt": "2012-12-25",
       "viewCount": "2940万",
       "likeCount": "8.07万",
-      "commentCount": "3535"
+      "commentCount": "3536"
     },
     {
       "rank": 2129,
@@ -634,7 +634,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-18",
-      "viewCount": "1157万",
+      "viewCount": "1158万",
       "likeCount": "8.05万",
       "commentCount": "1.5万"
     },
@@ -656,9 +656,9 @@
         "target": "_blank"
       },
       "publishedAt": "2014-03-11",
-      "viewCount": "1086万",
+      "viewCount": "1087万",
       "likeCount": "8.03万",
-      "commentCount": "2830"
+      "commentCount": "2831"
     },
     {
       "rank": 2131,
@@ -685,6 +685,28 @@
     {
       "rank": 2132,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/2oRbf2rBGzI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=2oRbf2rBGzI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV】Creepy Nuts - ビリケン(BIRIKEN)",
+        "url": "https://www.youtube.com/watch?v=2oRbf2rBGzI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Creepy Nuts",
+        "url": "https://www.youtube.com/channel/UCEc1YzMOSKKtJD7H-q71HgQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-10-10",
+      "viewCount": "1243万",
+      "likeCount": "8.01万",
+      "commentCount": "2454"
+    },
+    {
+      "rank": 2133,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/PL9-6rClgXs/default.jpg",
         "url": "https://www.youtube.com/watch?v=PL9-6rClgXs",
         "target": "_blank"
@@ -701,30 +723,8 @@
       },
       "publishedAt": "2016-05-25",
       "viewCount": "1388万",
-      "likeCount": "8万",
-      "commentCount": "1994"
-    },
-    {
-      "rank": 2133,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/2oRbf2rBGzI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=2oRbf2rBGzI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV】Creepy Nuts - ビリケン(BIRIKEN)",
-        "url": "https://www.youtube.com/watch?v=2oRbf2rBGzI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Creepy Nuts",
-        "url": "https://www.youtube.com/channel/UCEc1YzMOSKKtJD7H-q71HgQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-10-10",
-      "viewCount": "1242万",
-      "likeCount": "8万",
-      "commentCount": "2454"
+      "likeCount": "8.01万",
+      "commentCount": "1996"
     },
     {
       "rank": 2134,
@@ -744,9 +744,9 @@
         "target": "_blank"
       },
       "publishedAt": "2017-07-11",
-      "viewCount": "1160万",
+      "viewCount": "1161万",
       "likeCount": "8万",
-      "commentCount": "2869"
+      "commentCount": "2867"
     },
     {
       "rank": 2135,
@@ -767,7 +767,7 @@
       },
       "publishedAt": "2014-11-10",
       "viewCount": "1314万",
-      "likeCount": "7.99万",
+      "likeCount": "8万",
       "commentCount": "3861"
     },
     {
@@ -810,8 +810,8 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-09",
-      "viewCount": "1641万",
-      "likeCount": "7.97万",
+      "viewCount": "1642万",
+      "likeCount": "7.98万",
       "commentCount": "4125"
     },
     {
@@ -832,9 +832,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-07",
-      "viewCount": "2996万",
+      "viewCount": "2997万",
       "likeCount": "7.97万",
-      "commentCount": "3009"
+      "commentCount": "3010"
     },
     {
       "rank": 2139,
@@ -856,7 +856,7 @@
       "publishedAt": "2018-04-09",
       "viewCount": "1404万",
       "likeCount": "7.97万",
-      "commentCount": "3036"
+      "commentCount": "3037"
     },
     {
       "rank": 2140,
@@ -898,7 +898,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-07",
-      "viewCount": "2400万",
+      "viewCount": "2401万",
       "likeCount": "7.96万",
       "commentCount": "3149"
     },
@@ -922,7 +922,7 @@
       "publishedAt": "2013-05-27",
       "viewCount": "2525万",
       "likeCount": "7.96万",
-      "commentCount": "2002"
+      "commentCount": "2003"
     },
     {
       "rank": 2143,
@@ -942,9 +942,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-10-06",
-      "viewCount": "1853万",
-      "likeCount": "7.95万",
-      "commentCount": "5844"
+      "viewCount": "1854万",
+      "likeCount": "7.96万",
+      "commentCount": "5845"
     },
     {
       "rank": 2144,
@@ -964,9 +964,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-01",
-      "viewCount": "4952万",
+      "viewCount": "4954万",
       "likeCount": "7.95万",
-      "commentCount": "5163"
+      "commentCount": "5165"
     },
     {
       "rank": 2145,
@@ -986,9 +986,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-06-18",
-      "viewCount": "1272万",
-      "likeCount": "7.94万",
-      "commentCount": "4318"
+      "viewCount": "1273万",
+      "likeCount": "7.95万",
+      "commentCount": "4320"
     },
     {
       "rank": 2146,
@@ -1008,9 +1008,9 @@
         "target": "_blank"
       },
       "publishedAt": "2016-10-28",
-      "viewCount": "1598万",
+      "viewCount": "1599万",
       "likeCount": "7.92万",
-      "commentCount": "3773"
+      "commentCount": "3774"
     },
     {
       "rank": 2147,
@@ -1032,7 +1032,7 @@
       "publishedAt": "2018-10-31",
       "viewCount": "1597万",
       "likeCount": "7.92万",
-      "commentCount": "2408"
+      "commentCount": "2410"
     },
     {
       "rank": 2148,
@@ -1054,7 +1054,7 @@
       "publishedAt": "2018-03-12",
       "viewCount": "1151万",
       "likeCount": "7.9万",
-      "commentCount": "2953"
+      "commentCount": "2954"
     },
     {
       "rank": 2149,
@@ -1074,7 +1074,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-16",
-      "viewCount": "3105万",
+      "viewCount": "3106万",
       "likeCount": "7.9万",
       "commentCount": "3288"
     },
@@ -1098,7 +1098,7 @@
       "publishedAt": "2013-11-06",
       "viewCount": "1628万",
       "likeCount": "7.89万",
-      "commentCount": "2031"
+      "commentCount": "2032"
     }
   ]
 }

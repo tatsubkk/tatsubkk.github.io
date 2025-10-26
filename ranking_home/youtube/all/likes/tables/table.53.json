@@ -129,7 +129,7 @@
       },
       "publishedAt": "2010-07-23",
       "viewCount": "1074万",
-      "likeCount": "4.33万",
+      "likeCount": "4.34万",
       "commentCount": "2006"
     },
     {
@@ -152,7 +152,7 @@
       "publishedAt": "2018-03-24",
       "viewCount": "1103万",
       "likeCount": "4.32万",
-      "commentCount": "2642"
+      "commentCount": "2643"
     },
     {
       "rank": 2608,
@@ -260,7 +260,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
-      "viewCount": "1114万",
+      "viewCount": "1115万",
       "likeCount": "4.3万",
       "commentCount": "49"
     },
@@ -311,28 +311,6 @@
     {
       "rank": 2615,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/MhAkq1M5m9U/default.jpg",
-        "url": "https://www.youtube.com/watch?v=MhAkq1M5m9U",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "清水 翔太 feat.仲宗根 泉(HY)　『366日 Short Ver.』",
-        "url": "https://www.youtube.com/watch?v=MhAkq1M5m9U",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "清水翔太 / Shota Shimizu",
-        "url": "https://www.youtube.com/channel/UCv3cmuTwVzTXROJdaT7xw6w",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-08-29",
-      "viewCount": "1998万",
-      "likeCount": "4.28万",
-      "commentCount": "439"
-    },
-    {
-      "rank": 2616,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/mHxFKmpvEmM/default.jpg",
         "url": "https://www.youtube.com/watch?v=mHxFKmpvEmM",
         "target": "_blank"
@@ -348,9 +326,31 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-03",
-      "viewCount": "1523万",
+      "viewCount": "1524万",
       "likeCount": "4.28万",
       "commentCount": "792"
+    },
+    {
+      "rank": 2616,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/MhAkq1M5m9U/default.jpg",
+        "url": "https://www.youtube.com/watch?v=MhAkq1M5m9U",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "清水 翔太 feat.仲宗根 泉(HY)　『366日 Short Ver.』",
+        "url": "https://www.youtube.com/watch?v=MhAkq1M5m9U",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "清水翔太 / Shota Shimizu",
+        "url": "https://www.youtube.com/channel/UCv3cmuTwVzTXROJdaT7xw6w",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-08-29",
+      "viewCount": "1999万",
+      "likeCount": "4.28万",
+      "commentCount": "439"
     },
     {
       "rank": 2617,
@@ -392,7 +392,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-03-21",
-      "viewCount": "1214万",
+      "viewCount": "1215万",
       "likeCount": "4.27万",
       "commentCount": "6497"
     },
@@ -414,34 +414,12 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-29",
-      "viewCount": "1190万",
-      "likeCount": "4.26万",
+      "viewCount": "1192万",
+      "likeCount": "4.27万",
       "commentCount": "1098"
     },
     {
       "rank": 2620,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Vw0vhiRtLkw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Vw0vhiRtLkw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ShuuKaRen 『UNIVERSE』 【Beats by Dr.Dre「Show Your Color」CMソング】",
-        "url": "https://www.youtube.com/watch?v=Vw0vhiRtLkw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-09-09",
-      "viewCount": "1112万",
-      "likeCount": "4.25万",
-      "commentCount": "2281"
-    },
-    {
-      "rank": 2621,
       "thumb": {
         "img": "https://i.ytimg.com/vi/l0n0hRasLw0/default.jpg",
         "url": "https://www.youtube.com/watch?v=l0n0hRasLw0",
@@ -463,6 +441,28 @@
       "commentCount": "2081"
     },
     {
+      "rank": 2621,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Vw0vhiRtLkw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Vw0vhiRtLkw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ShuuKaRen 『UNIVERSE』 【Beats by Dr.Dre「Show Your Color」CMソング】",
+        "url": "https://www.youtube.com/watch?v=Vw0vhiRtLkw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-09-09",
+      "viewCount": "1113万",
+      "likeCount": "4.25万",
+      "commentCount": "2281"
+    },
+    {
       "rank": 2622,
       "thumb": {
         "img": "https://i.ytimg.com/vi/WfTkaKqQbGA/default.jpg",
@@ -482,7 +482,7 @@
       "publishedAt": "2009-12-02",
       "viewCount": "1575万",
       "likeCount": "4.24万",
-      "commentCount": "1297"
+      "commentCount": "1298"
     },
     {
       "rank": 2623,
@@ -504,7 +504,7 @@
       "publishedAt": "2016-04-25",
       "viewCount": "1636万",
       "likeCount": "4.23万",
-      "commentCount": "1712"
+      "commentCount": "1713"
     },
     {
       "rank": 2624,
@@ -524,7 +524,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-12-03",
-      "viewCount": "1182万",
+      "viewCount": "1183万",
       "likeCount": "4.21万",
       "commentCount": "1314"
     },
@@ -570,7 +570,7 @@
       "publishedAt": "2010-10-18",
       "viewCount": "1021万",
       "likeCount": "4.21万",
-      "commentCount": "2466"
+      "commentCount": "2467"
     },
     {
       "rank": 2627,
@@ -590,9 +590,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-06",
-      "viewCount": "1572万",
+      "viewCount": "1573万",
       "likeCount": "4.2万",
-      "commentCount": "2426"
+      "commentCount": "2429"
     },
     {
       "rank": 2628,
@@ -634,9 +634,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-07",
-      "viewCount": "1577万",
+      "viewCount": "1578万",
       "likeCount": "4.2万",
-      "commentCount": "1814"
+      "commentCount": "1816"
     },
     {
       "rank": 2630,
@@ -656,9 +656,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-11-22",
-      "viewCount": "1723万",
+      "viewCount": "1724万",
       "likeCount": "4.18万",
-      "commentCount": "2742"
+      "commentCount": "2743"
     },
     {
       "rank": 2631,
@@ -729,6 +729,28 @@
     {
       "rank": 2634,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/ozQwltlnin0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ozQwltlnin0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "湘南乃風「曖歌」MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=ozQwltlnin0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "湘南乃風",
+        "url": "https://www.youtube.com/channel/UCwAVKZKMkKNEMShMK68PuzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-04-21",
+      "viewCount": "1424万",
+      "likeCount": "4.15万",
+      "commentCount": "1176"
+    },
+    {
+      "rank": 2635,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/TWaSgGbR9aY/default.jpg",
         "url": "https://www.youtube.com/watch?v=TWaSgGbR9aY",
         "target": "_blank"
@@ -747,28 +769,6 @@
       "viewCount": "1137万",
       "likeCount": "4.15万",
       "commentCount": "1487"
-    },
-    {
-      "rank": 2635,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ozQwltlnin0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ozQwltlnin0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "湘南乃風「曖歌」MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=ozQwltlnin0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "湘南乃風",
-        "url": "https://www.youtube.com/channel/UCwAVKZKMkKNEMShMK68PuzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-04-21",
-      "viewCount": "1423万",
-      "likeCount": "4.15万",
-      "commentCount": "1175"
     },
     {
       "rank": 2636,
@@ -832,8 +832,8 @@
         "target": "_blank"
       },
       "publishedAt": "2025-04-11",
-      "viewCount": "1194万",
-      "likeCount": "4.12万",
+      "viewCount": "1195万",
+      "likeCount": "4.13万",
       "commentCount": "7155"
     },
     {
@@ -900,7 +900,7 @@
       "publishedAt": "2012-11-07",
       "viewCount": "1249万",
       "likeCount": "4.11万",
-      "commentCount": "2176"
+      "commentCount": "2177"
     },
     {
       "rank": 2642,
@@ -920,7 +920,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-18",
-      "viewCount": "1137万",
+      "viewCount": "1138万",
       "likeCount": "4.11万",
       "commentCount": "5887"
     },
@@ -1032,7 +1032,7 @@
       "publishedAt": "2012-12-27",
       "viewCount": "1722万",
       "likeCount": "4.09万",
-      "commentCount": "1953"
+      "commentCount": "1954"
     },
     {
       "rank": 2648,
@@ -1052,12 +1052,34 @@
         "target": "_blank"
       },
       "publishedAt": "2024-12-25",
-      "viewCount": "1133万",
+      "viewCount": "1135万",
       "likeCount": "4.09万",
       "commentCount": "2453"
     },
     {
       "rank": 2649,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/hT1DXCqGpn4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=hT1DXCqGpn4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Premium】AAA - さよならの前に(AAA ARENA TOUR 2014 -Gold Symphony-)",
+        "url": "https://www.youtube.com/watch?v=hT1DXCqGpn4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-01-15",
+      "viewCount": "1987万",
+      "likeCount": "4.08万",
+      "commentCount": "1232"
+    },
+    {
+      "rank": 2650,
       "thumb": {
         "img": "https://i.ytimg.com/vi/6IyYxhCjInE/default.jpg",
         "url": "https://www.youtube.com/watch?v=6IyYxhCjInE",
@@ -1077,28 +1099,6 @@
       "viewCount": "1879万",
       "likeCount": "4.08万",
       "commentCount": "4335"
-    },
-    {
-      "rank": 2650,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/hT1DXCqGpn4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=hT1DXCqGpn4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Premium】AAA - さよならの前に(AAA ARENA TOUR 2014 -Gold Symphony-)",
-        "url": "https://www.youtube.com/watch?v=hT1DXCqGpn4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-01-15",
-      "viewCount": "1986万",
-      "likeCount": "4.08万",
-      "commentCount": "1232"
     }
   ]
 }

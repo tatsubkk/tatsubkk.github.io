@@ -1,7 +1,29 @@
 {
   "rows": [
     {
-      "rank": 1651,
+      "rank": 1650,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/B--iJ2pNvLU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=B--iJ2pNvLU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BUMP OF CHICKEN「クロノスタシス」",
+        "url": "https://www.youtube.com/watch?v=B--iJ2pNvLU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BUMP OF CHICKEN",
+        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-04-17",
+      "viewCount": "2336万",
+      "likeCount": "18.6万",
+      "commentCount": "5239"
+    },
+    {
+      "rank": 1652,
       "thumb": {
         "img": "https://i.ytimg.com/vi/haCJtSnfNEg/default.jpg",
         "url": "https://www.youtube.com/watch?v=haCJtSnfNEg",
@@ -21,28 +43,6 @@
       "viewCount": "1191万",
       "likeCount": "15.8万",
       "commentCount": "5238"
-    },
-    {
-      "rank": 1652,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/9mU607YOmu8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=9mU607YOmu8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Fujii Kaze - \"Kirari\" Live at Yoyogi National Stadium First Gymnasium",
-        "url": "https://www.youtube.com/watch?v=9mU607YOmu8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Fujii Kaze",
-        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-05-19",
-      "viewCount": "1955万",
-      "likeCount": "26.9万",
-      "commentCount": "5237"
     },
     {
       "rank": 1653,
@@ -69,28 +69,6 @@
     {
       "rank": 1654,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/oqxvaDbAHkI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=oqxvaDbAHkI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[Official Music Video]Perfume 「再生」",
-        "url": "https://www.youtube.com/watch?v=oqxvaDbAHkI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Perfume",
-        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-12-13",
-      "viewCount": "1142万",
-      "likeCount": "10.7万",
-      "commentCount": "5233"
-    },
-    {
-      "rank": 1655,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/7F_un08wc5A/default.jpg",
         "url": "https://www.youtube.com/watch?v=7F_un08wc5A",
         "target": "_blank"
@@ -106,9 +84,31 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-09",
-      "viewCount": "5908万",
+      "viewCount": "5911万",
       "likeCount": "31.9万",
-      "commentCount": "5230"
+      "commentCount": "5233"
+    },
+    {
+      "rank": 1654,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/oqxvaDbAHkI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=oqxvaDbAHkI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[Official Music Video]Perfume 「再生」",
+        "url": "https://www.youtube.com/watch?v=oqxvaDbAHkI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Perfume",
+        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-12-13",
+      "viewCount": "1143万",
+      "likeCount": "10.7万",
+      "commentCount": "5233"
     },
     {
       "rank": 1656,
@@ -130,7 +130,7 @@
       "publishedAt": "2021-06-11",
       "viewCount": "1604万",
       "likeCount": "9.3万",
-      "commentCount": "5225"
+      "commentCount": "5226"
     },
     {
       "rank": 1657,
@@ -150,9 +150,9 @@
         "target": "_blank"
       },
       "publishedAt": "2016-03-30",
-      "viewCount": "7677万",
+      "viewCount": "7678万",
       "likeCount": "14.5万",
-      "commentCount": "5221"
+      "commentCount": "5223"
     },
     {
       "rank": 1658,
@@ -172,9 +172,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-08",
-      "viewCount": "3331万",
+      "viewCount": "3332万",
       "likeCount": "25.1万",
-      "commentCount": "5218"
+      "commentCount": "5219"
     },
     {
       "rank": 1658,
@@ -194,34 +194,12 @@
         "target": "_blank"
       },
       "publishedAt": "2017-09-01",
-      "viewCount": "1714万",
+      "viewCount": "1715万",
       "likeCount": "13.5万",
-      "commentCount": "5218"
+      "commentCount": "5219"
     },
     {
-      "rank": 1658,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/35FbwCIxT0g/default.jpg",
-        "url": "https://www.youtube.com/watch?v=35FbwCIxT0g",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Kyary Pamyu Pamyu - Kira Kira Killer(きゃりーぱみゅぱみゅ - きらきらキラー) Official Music Video",
-        "url": "https://www.youtube.com/watch?v=35FbwCIxT0g",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kyary Pamyu Pamyu ( きゃりーぱみゅぱみゅ )",
-        "url": "https://www.youtube.com/channel/UCMMEwnArQWFNU1VrRlbIDtg",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-06-25",
-      "viewCount": "1362万",
-      "likeCount": "9.6万",
-      "commentCount": "5218"
-    },
-    {
-      "rank": 1658,
+      "rank": 1660,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vZIMc5v-pjE/default.jpg",
         "url": "https://www.youtube.com/watch?v=vZIMc5v-pjE",
@@ -243,6 +221,28 @@
       "commentCount": "5218"
     },
     {
+      "rank": 1661,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/35FbwCIxT0g/default.jpg",
+        "url": "https://www.youtube.com/watch?v=35FbwCIxT0g",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Kyary Pamyu Pamyu - Kira Kira Killer(きゃりーぱみゅぱみゅ - きらきらキラー) Official Music Video",
+        "url": "https://www.youtube.com/watch?v=35FbwCIxT0g",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kyary Pamyu Pamyu ( きゃりーぱみゅぱみゅ )",
+        "url": "https://www.youtube.com/channel/UCMMEwnArQWFNU1VrRlbIDtg",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-06-25",
+      "viewCount": "1363万",
+      "likeCount": "9.6万",
+      "commentCount": "5217"
+    },
+    {
       "rank": 1662,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Ok-4jI24m8g/default.jpg",
@@ -262,7 +262,7 @@
       "publishedAt": "2013-09-09",
       "viewCount": "5114万",
       "likeCount": "9.5万",
-      "commentCount": "5212"
+      "commentCount": "5213"
     },
     {
       "rank": 1663,
@@ -282,8 +282,8 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-31",
-      "viewCount": "1680万",
-      "likeCount": "32.8万",
+      "viewCount": "1681万",
+      "likeCount": "32.9万",
       "commentCount": "5209"
     },
     {
@@ -304,9 +304,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-05-14",
-      "viewCount": "3345万",
+      "viewCount": "3349万",
       "likeCount": "27.8万",
-      "commentCount": "5202"
+      "commentCount": "5203"
     },
     {
       "rank": 1665,
@@ -326,31 +326,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-25",
-      "viewCount": "2009万",
+      "viewCount": "2010万",
       "likeCount": "-",
-      "commentCount": "5197"
-    },
-    {
-      "rank": 1666,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/7GBn6IuTQ6w/default.jpg",
-        "url": "https://www.youtube.com/watch?v=7GBn6IuTQ6w",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【syudou】ギャンブル",
-        "url": "https://www.youtube.com/watch?v=7GBn6IuTQ6w",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "syudou",
-        "url": "https://www.youtube.com/channel/UCraC7460yGQF4GDmSjCecpQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-07-09",
-      "viewCount": "1585万",
-      "likeCount": "19万",
-      "commentCount": "5195"
+      "commentCount": "5198"
     },
     {
       "rank": 1666,
@@ -372,6 +350,28 @@
       "publishedAt": "2017-10-07",
       "viewCount": "2543万",
       "likeCount": "16.3万",
+      "commentCount": "5196"
+    },
+    {
+      "rank": 1667,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/7GBn6IuTQ6w/default.jpg",
+        "url": "https://www.youtube.com/watch?v=7GBn6IuTQ6w",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【syudou】ギャンブル",
+        "url": "https://www.youtube.com/watch?v=7GBn6IuTQ6w",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "syudou",
+        "url": "https://www.youtube.com/channel/UCraC7460yGQF4GDmSjCecpQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-07-09",
+      "viewCount": "1585万",
+      "likeCount": "19万",
       "commentCount": "5195"
     },
     {
@@ -394,7 +394,7 @@
       "publishedAt": "2015-12-30",
       "viewCount": "3239万",
       "likeCount": "14.6万",
-      "commentCount": "5190"
+      "commentCount": "5191"
     },
     {
       "rank": 1669,
@@ -421,6 +421,28 @@
     {
       "rank": 1670,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/s8_vqfjYpBg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=s8_vqfjYpBg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[Official Music Video] Perfume「未来のミュージアム」",
+        "url": "https://www.youtube.com/watch?v=s8_vqfjYpBg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Perfume",
+        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-06-18",
+      "viewCount": "1342万",
+      "likeCount": "11.7万",
+      "commentCount": "5176"
+    },
+    {
+      "rank": 1671,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/Ff7k1zxBe1I/default.jpg",
         "url": "https://www.youtube.com/watch?v=Ff7k1zxBe1I",
         "target": "_blank"
@@ -441,28 +463,6 @@
       "commentCount": "5175"
     },
     {
-      "rank": 1670,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/s8_vqfjYpBg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=s8_vqfjYpBg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[Official Music Video] Perfume「未来のミュージアム」",
-        "url": "https://www.youtube.com/watch?v=s8_vqfjYpBg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Perfume",
-        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-06-18",
-      "viewCount": "1341万",
-      "likeCount": "11.7万",
-      "commentCount": "5175"
-    },
-    {
       "rank": 1672,
       "thumb": {
         "img": "https://i.ytimg.com/vi/OLRbIc8KZ_8/default.jpg",
@@ -480,9 +480,9 @@
         "target": "_blank"
       },
       "publishedAt": "2025-05-09",
-      "viewCount": "1384万",
+      "viewCount": "1387万",
       "likeCount": "16.2万",
-      "commentCount": "5168"
+      "commentCount": "5172"
     },
     {
       "rank": 1673,
@@ -502,9 +502,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-01",
-      "viewCount": "4952万",
+      "viewCount": "4954万",
       "likeCount": "7.9万",
-      "commentCount": "5163"
+      "commentCount": "5165"
     },
     {
       "rank": 1674,
@@ -524,12 +524,12 @@
         "target": "_blank"
       },
       "publishedAt": "2016-12-19",
-      "viewCount": "2913万",
+      "viewCount": "2914万",
       "likeCount": "13万",
-      "commentCount": "5162"
+      "commentCount": "5163"
     },
     {
-      "rank": 1674,
+      "rank": 1675,
       "thumb": {
         "img": "https://i.ytimg.com/vi/h1Ebp1_f6Q0/default.jpg",
         "url": "https://www.youtube.com/watch?v=h1Ebp1_f6Q0",
@@ -568,31 +568,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-04-14",
-      "viewCount": "3361万",
+      "viewCount": "3362万",
       "likeCount": "13.6万",
-      "commentCount": "5145"
-    },
-    {
-      "rank": 1677,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/9f-tksBZ1Wk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=9f-tksBZ1Wk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Fujii Kaze - Kiri Ga Naikara (Official Video)",
-        "url": "https://www.youtube.com/watch?v=9f-tksBZ1Wk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Fujii Kaze",
-        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-05-14",
-      "viewCount": "1212万",
-      "likeCount": "11.2万",
-      "commentCount": "5134"
+      "commentCount": "5147"
     },
     {
       "rank": 1677,
@@ -614,6 +592,28 @@
       "publishedAt": "2015-11-04",
       "viewCount": "2727万",
       "likeCount": "13.4万",
+      "commentCount": "5134"
+    },
+    {
+      "rank": 1677,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/9f-tksBZ1Wk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=9f-tksBZ1Wk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Fujii Kaze - Kiri Ga Naikara (Official Video)",
+        "url": "https://www.youtube.com/watch?v=9f-tksBZ1Wk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Fujii Kaze",
+        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-05-14",
+      "viewCount": "1212万",
+      "likeCount": "11.2万",
       "commentCount": "5134"
     },
     {
@@ -656,9 +656,9 @@
         "target": "_blank"
       },
       "publishedAt": "2014-02-20",
-      "viewCount": "4950万",
+      "viewCount": "4951万",
       "likeCount": "17.3万",
-      "commentCount": "5116"
+      "commentCount": "5117"
     },
     {
       "rank": 1681,
@@ -702,7 +702,7 @@
       "publishedAt": "2013-05-24",
       "viewCount": "1340万",
       "likeCount": "2.6万",
-      "commentCount": "5108"
+      "commentCount": "5105"
     },
     {
       "rank": 1683,
@@ -746,7 +746,7 @@
       "publishedAt": "2014-07-30",
       "viewCount": "3336万",
       "likeCount": "10.3万",
-      "commentCount": "5097"
+      "commentCount": "5098"
     },
     {
       "rank": 1685,
@@ -766,9 +766,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-02-02",
-      "viewCount": "2654万",
+      "viewCount": "2655万",
       "likeCount": "40.8万",
-      "commentCount": "5095"
+      "commentCount": "5096"
     },
     {
       "rank": 1686,
@@ -810,9 +810,9 @@
         "target": "_blank"
       },
       "publishedAt": "2018-05-10",
-      "viewCount": "1907万",
+      "viewCount": "1908万",
       "likeCount": "16.9万",
-      "commentCount": "5080"
+      "commentCount": "5093"
     },
     {
       "rank": 1688,
@@ -854,7 +854,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-07-10",
-      "viewCount": "1701万",
+      "viewCount": "1702万",
       "likeCount": "11万",
       "commentCount": "5069"
     },
@@ -878,7 +878,7 @@
       "publishedAt": "2020-04-07",
       "viewCount": "1988万",
       "likeCount": "8.2万",
-      "commentCount": "5067"
+      "commentCount": "5068"
     },
     {
       "rank": 1691,
@@ -900,7 +900,7 @@
       "publishedAt": "2013-06-02",
       "viewCount": "2476万",
       "likeCount": "11万",
-      "commentCount": "5062"
+      "commentCount": "5063"
     },
     {
       "rank": 1692,
@@ -920,7 +920,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-02-03",
-      "viewCount": "1340万",
+      "viewCount": "1341万",
       "likeCount": "-",
       "commentCount": "5056"
     },
@@ -942,7 +942,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-08-21",
-      "viewCount": "3874万",
+      "viewCount": "3876万",
       "likeCount": "24.9万",
       "commentCount": "5052"
     },
@@ -987,33 +987,11 @@
       },
       "publishedAt": "2020-07-23",
       "viewCount": "1048万",
-      "likeCount": "15.9万",
+      "likeCount": "16万",
       "commentCount": "5036"
     },
     {
-      "rank": 1696,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/RxeNV7EyYuk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=RxeNV7EyYuk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "なにわ男子 - The Answer [なにわ男子 Debut Tour 2022 1st Love]",
-        "url": "https://www.youtube.com/watch?v=RxeNV7EyYuk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "なにわ男子",
-        "url": "https://www.youtube.com/channel/UCDtVdj7sm41Ysg3XSiSUH3w",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-04-14",
-      "viewCount": "1209万",
-      "likeCount": "-",
-      "commentCount": "5035"
-    },
-    {
-      "rank": 1696,
+      "rank": 1695,
       "thumb": {
         "img": "https://i.ytimg.com/vi/6tJ_vEqyXTQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=6tJ_vEqyXTQ",
@@ -1030,9 +1008,31 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-13",
-      "viewCount": "2068万",
+      "viewCount": "2069万",
       "likeCount": "53.6万",
-      "commentCount": "5035"
+      "commentCount": "5036"
+    },
+    {
+      "rank": 1695,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/RxeNV7EyYuk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=RxeNV7EyYuk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "なにわ男子 - The Answer [なにわ男子 Debut Tour 2022 1st Love]",
+        "url": "https://www.youtube.com/watch?v=RxeNV7EyYuk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "なにわ男子",
+        "url": "https://www.youtube.com/channel/UCDtVdj7sm41Ysg3XSiSUH3w",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-04-14",
+      "viewCount": "1210万",
+      "likeCount": "-",
+      "commentCount": "5036"
     },
     {
       "rank": 1698,
@@ -1052,9 +1052,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-02-13",
-      "viewCount": "3564万",
+      "viewCount": "3565万",
       "likeCount": "10.8万",
-      "commentCount": "5032"
+      "commentCount": "5034"
     },
     {
       "rank": 1699,
@@ -1076,7 +1076,7 @@
       "publishedAt": "2020-09-27",
       "viewCount": "1180万",
       "likeCount": "14.8万",
-      "commentCount": "5027"
+      "commentCount": "5028"
     },
     {
       "rank": 1700,
@@ -1096,9 +1096,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-31",
-      "viewCount": "3811万",
+      "viewCount": "3816万",
       "likeCount": "18.8万",
-      "commentCount": "5019"
+      "commentCount": "5020"
     }
   ]
 }

@@ -25,28 +25,6 @@
     {
       "rank": 2852,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/rI6KKXJ1TUg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=rI6KKXJ1TUg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Summer",
-        "url": "https://www.youtube.com/watch?v=rI6KKXJ1TUg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Joe Hisaishi - Topic",
-        "url": "https://www.youtube.com/channel/UCeoT9BqyKRktIHvQnWE8zug",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-02-20",
-      "viewCount": "1364万",
-      "likeCount": "10.4万",
-      "commentCount": "1333"
-    },
-    {
-      "rank": 2853,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/xxsvTvDQKMY/default.jpg",
         "url": "https://www.youtube.com/watch?v=xxsvTvDQKMY",
         "target": "_blank"
@@ -62,9 +40,31 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-20",
-      "viewCount": "4163万",
+      "viewCount": "4166万",
       "likeCount": "56.3万",
-      "commentCount": "1330"
+      "commentCount": "1333"
+    },
+    {
+      "rank": 2852,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/rI6KKXJ1TUg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=rI6KKXJ1TUg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Summer",
+        "url": "https://www.youtube.com/watch?v=rI6KKXJ1TUg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Joe Hisaishi - Topic",
+        "url": "https://www.youtube.com/channel/UCeoT9BqyKRktIHvQnWE8zug",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-02-20",
+      "viewCount": "1365万",
+      "likeCount": "10.4万",
+      "commentCount": "1333"
     },
     {
       "rank": 2854,
@@ -84,7 +84,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-14",
-      "viewCount": "3491万",
+      "viewCount": "3492万",
       "likeCount": "10.7万",
       "commentCount": "1327"
     },
@@ -106,7 +106,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-23",
-      "viewCount": "1817万",
+      "viewCount": "1819万",
       "likeCount": "22万",
       "commentCount": "1323"
     },
@@ -194,7 +194,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-12-03",
-      "viewCount": "1182万",
+      "viewCount": "1183万",
       "likeCount": "4.2万",
       "commentCount": "1314"
     },
@@ -218,7 +218,7 @@
       "publishedAt": "2021-09-01",
       "viewCount": "1915万",
       "likeCount": "17万",
-      "commentCount": "1311"
+      "commentCount": "1312"
     },
     {
       "rank": 2861,
@@ -238,7 +238,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-03-04",
-      "viewCount": "1852万",
+      "viewCount": "1855万",
       "likeCount": "5.9万",
       "commentCount": "1306"
     },
@@ -282,31 +282,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-10-24",
-      "viewCount": "2108万",
+      "viewCount": "2109万",
       "likeCount": "5.3万",
       "commentCount": "1302"
-    },
-    {
-      "rank": 2864,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/8Bbao7u6DH8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=8Bbao7u6DH8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MAN WITH A MISSION　『When My Devil Rises』",
-        "url": "https://www.youtube.com/watch?v=8Bbao7u6DH8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-07-23",
-      "viewCount": "1447万",
-      "likeCount": "5.3万",
-      "commentCount": "1297"
     },
     {
       "rank": 2864,
@@ -328,10 +306,32 @@
       "publishedAt": "2009-12-02",
       "viewCount": "1575万",
       "likeCount": "4.2万",
+      "commentCount": "1298"
+    },
+    {
+      "rank": 2865,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/8Bbao7u6DH8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=8Bbao7u6DH8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MAN WITH A MISSION　『When My Devil Rises』",
+        "url": "https://www.youtube.com/watch?v=8Bbao7u6DH8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-07-23",
+      "viewCount": "1447万",
+      "likeCount": "5.3万",
       "commentCount": "1297"
     },
     {
-      "rank": 2864,
+      "rank": 2865,
       "thumb": {
         "img": "https://i.ytimg.com/vi/auofz0gr7C8/default.jpg",
         "url": "https://www.youtube.com/watch?v=auofz0gr7C8",
@@ -370,7 +370,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-21",
-      "viewCount": "1285万",
+      "viewCount": "1286万",
       "likeCount": "10.2万",
       "commentCount": "1293"
     },
@@ -436,9 +436,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-03",
-      "viewCount": "1939万",
+      "viewCount": "1941万",
       "likeCount": "9.8万",
-      "commentCount": "1277"
+      "commentCount": "1276"
     },
     {
       "rank": 2871,
@@ -458,9 +458,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-25",
-      "viewCount": "1323万",
-      "likeCount": "8.7万",
-      "commentCount": "1271"
+      "viewCount": "1325万",
+      "likeCount": "8.8万",
+      "commentCount": "1272"
     },
     {
       "rank": 2872,
@@ -502,7 +502,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-01-21",
-      "viewCount": "1043万",
+      "viewCount": "1044万",
       "likeCount": "14.2万",
       "commentCount": "1263"
     },
@@ -526,7 +526,7 @@
       "publishedAt": "2020-04-14",
       "viewCount": "2356万",
       "likeCount": "7.7万",
-      "commentCount": "1260"
+      "commentCount": "1259"
     },
     {
       "rank": 2875,
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2008-05-26",
-      "viewCount": "1916万",
+      "viewCount": "1917万",
       "likeCount": "3.1万",
       "commentCount": "1258"
     },
@@ -568,9 +568,31 @@
         "target": "_blank"
       },
       "publishedAt": "2013-10-21",
-      "viewCount": "1048万",
+      "viewCount": "1049万",
       "likeCount": "1.8万",
       "commentCount": "1255"
+    },
+    {
+      "rank": 2877,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Ax3TTEORxcQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Ax3TTEORxcQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "桑田佳祐 – 悲しい気持ち (JUST A MAN IN LOVE) （Full ver.）",
+        "url": "https://www.youtube.com/watch?v=Ax3TTEORxcQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "桑田佳祐",
+        "url": "https://www.youtube.com/channel/UCaZ17KNeiVkQkeG7i2WDOnQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-05-03",
+      "viewCount": "1653万",
+      "likeCount": "5.6万",
+      "commentCount": "1253"
     },
     {
       "rank": 2877,
@@ -597,28 +619,6 @@
     {
       "rank": 2877,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/Ax3TTEORxcQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Ax3TTEORxcQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "桑田佳祐 – 悲しい気持ち (JUST A MAN IN LOVE) （Full ver.）",
-        "url": "https://www.youtube.com/watch?v=Ax3TTEORxcQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "桑田佳祐",
-        "url": "https://www.youtube.com/channel/UCaZ17KNeiVkQkeG7i2WDOnQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-05-03",
-      "viewCount": "1653万",
-      "likeCount": "5.6万",
-      "commentCount": "1253"
-    },
-    {
-      "rank": 2879,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/g8q3Pcyx1Zk/default.jpg",
         "url": "https://www.youtube.com/watch?v=g8q3Pcyx1Zk",
         "target": "_blank"
@@ -636,7 +636,7 @@
       "publishedAt": "2020-11-25",
       "viewCount": "1288万",
       "likeCount": "-",
-      "commentCount": "1252"
+      "commentCount": "1253"
     },
     {
       "rank": 2880,
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-28",
-      "viewCount": "3611万",
+      "viewCount": "3612万",
       "likeCount": "18.5万",
       "commentCount": "1251"
     },
@@ -700,7 +700,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-08-28",
-      "viewCount": "1296万",
+      "viewCount": "1297万",
       "likeCount": "3.2万",
       "commentCount": "1247"
     },
@@ -773,28 +773,6 @@
     {
       "rank": 2886,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/IITjr6Ysh60/default.jpg",
-        "url": "https://www.youtube.com/watch?v=IITjr6Ysh60",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "UVERworld　『D-tecnoLife』",
-        "url": "https://www.youtube.com/watch?v=IITjr6Ysh60",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "UVERworld Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCnziFQs4Ihms4UtxmVZP6cg",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-04-11",
-      "viewCount": "1301万",
-      "likeCount": "5万",
-      "commentCount": "1243"
-    },
-    {
-      "rank": 2887,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/J0HGFly2kO8/default.jpg",
         "url": "https://www.youtube.com/watch?v=J0HGFly2kO8",
         "target": "_blank"
@@ -815,6 +793,28 @@
       "commentCount": "1242"
     },
     {
+      "rank": 2886,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/IITjr6Ysh60/default.jpg",
+        "url": "https://www.youtube.com/watch?v=IITjr6Ysh60",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "UVERworld　『D-tecnoLife』",
+        "url": "https://www.youtube.com/watch?v=IITjr6Ysh60",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "UVERworld Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCnziFQs4Ihms4UtxmVZP6cg",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-04-11",
+      "viewCount": "1301万",
+      "likeCount": "5万",
+      "commentCount": "1242"
+    },
+    {
       "rank": 2888,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Xhkvge0rrss/default.jpg",
@@ -832,7 +832,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-06-18",
-      "viewCount": "1098万",
+      "viewCount": "1099万",
       "likeCount": "4.6万",
       "commentCount": "1240"
     },
@@ -854,7 +854,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-08-30",
-      "viewCount": "1036万",
+      "viewCount": "1037万",
       "likeCount": "4.5万",
       "commentCount": "1234"
     },
@@ -876,7 +876,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-15",
-      "viewCount": "1986万",
+      "viewCount": "1987万",
       "likeCount": "4.1万",
       "commentCount": "1232"
     },
@@ -964,7 +964,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-14",
-      "viewCount": "1601万",
+      "viewCount": "1602万",
       "likeCount": "5万",
       "commentCount": "1206"
     },
@@ -1008,7 +1008,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-09",
-      "viewCount": "1673万",
+      "viewCount": "1674万",
       "likeCount": "5.7万",
       "commentCount": "1204"
     },
@@ -1076,7 +1076,7 @@
       "publishedAt": "2016-12-27",
       "viewCount": "1156万",
       "likeCount": "6万",
-      "commentCount": "1191"
+      "commentCount": "1190"
     },
     {
       "rank": 2900,
