@@ -3,6 +3,28 @@
     {
       "rank": 2751,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/biMO46z_VSY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=biMO46z_VSY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[Official Music Video] Perfume「スパイス」",
+        "url": "https://www.youtube.com/watch?v=biMO46z_VSY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Perfume",
+        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-02-28",
+      "viewCount": "1169万",
+      "likeCount": "4.3万",
+      "commentCount": "1600"
+    },
+    {
+      "rank": 2751,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/eYh7prKmMio/default.jpg",
         "url": "https://www.youtube.com/watch?v=eYh7prKmMio",
         "target": "_blank"
@@ -20,10 +42,10 @@
       "publishedAt": "2022-01-09",
       "viewCount": "1664万",
       "likeCount": "5.6万",
-      "commentCount": "1599"
+      "commentCount": "1600"
     },
     {
-      "rank": 2752,
+      "rank": 2753,
       "thumb": {
         "img": "https://i.ytimg.com/vi/y2nWIwmM8Y0/default.jpg",
         "url": "https://www.youtube.com/watch?v=y2nWIwmM8Y0",
@@ -42,28 +64,6 @@
       "publishedAt": "2012-06-10",
       "viewCount": "2352万",
       "likeCount": "5.3万",
-      "commentCount": "1598"
-    },
-    {
-      "rank": 2752,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/biMO46z_VSY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=biMO46z_VSY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[Official Music Video] Perfume「スパイス」",
-        "url": "https://www.youtube.com/watch?v=biMO46z_VSY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Perfume",
-        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-02-28",
-      "viewCount": "1169万",
-      "likeCount": "4.3万",
       "commentCount": "1598"
     },
     {
@@ -86,7 +86,7 @@
       "publishedAt": "2009-04-08",
       "viewCount": "1049万",
       "likeCount": "2.4万",
-      "commentCount": "1596"
+      "commentCount": "1597"
     },
     {
       "rank": 2755,
@@ -194,31 +194,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-06-13",
-      "viewCount": "2477万",
+      "viewCount": "2478万",
       "likeCount": "7.3万",
       "commentCount": "1584"
-    },
-    {
-      "rank": 2760,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/VSucxMB_Z6k/default.jpg",
-        "url": "https://www.youtube.com/watch?v=VSucxMB_Z6k",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Vicke Blanka - Black Rover (Audio Video (TVアニメ「ブラッククローバー」第3クールオープニングテーマ)",
-        "url": "https://www.youtube.com/watch?v=VSucxMB_Z6k",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "VK Blanka - ビッケブランカ",
-        "url": "https://www.youtube.com/channel/UCWDksMO8R0Mew4B89GhO9dA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-01-21",
-      "viewCount": "1952万",
-      "likeCount": "12.9万",
-      "commentCount": "1582"
     },
     {
       "rank": 2760,
@@ -240,10 +218,32 @@
       "publishedAt": "2010-09-14",
       "viewCount": "1094万",
       "likeCount": "2.5万",
+      "commentCount": "1583"
+    },
+    {
+      "rank": 2761,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/VSucxMB_Z6k/default.jpg",
+        "url": "https://www.youtube.com/watch?v=VSucxMB_Z6k",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Vicke Blanka - Black Rover (Audio Video (TVアニメ「ブラッククローバー」第3クールオープニングテーマ)",
+        "url": "https://www.youtube.com/watch?v=VSucxMB_Z6k",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "VK Blanka - ビッケブランカ",
+        "url": "https://www.youtube.com/channel/UCWDksMO8R0Mew4B89GhO9dA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-01-21",
+      "viewCount": "1953万",
+      "likeCount": "12.9万",
       "commentCount": "1582"
     },
     {
-      "rank": 2762,
+      "rank": 2761,
       "thumb": {
         "img": "https://i.ytimg.com/vi/2qQ68a-ghdg/default.jpg",
         "url": "https://www.youtube.com/watch?v=2qQ68a-ghdg",
@@ -260,9 +260,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-02-05",
-      "viewCount": "1172万",
+      "viewCount": "1173万",
       "likeCount": "13.5万",
-      "commentCount": "1581"
+      "commentCount": "1582"
     },
     {
       "rank": 2763,
@@ -333,28 +333,6 @@
     {
       "rank": 2766,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/EJ1znwnhj68/default.jpg",
-        "url": "https://www.youtube.com/watch?v=EJ1znwnhj68",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ZOT on the WAVE feat. YZERR & Candee - TEIHEN (Official Music Video)",
-        "url": "https://www.youtube.com/watch?v=EJ1znwnhj68",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BAD HOP",
-        "url": "https://www.youtube.com/channel/UCcb0Ixexedx7eXLzgYZh6bg",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-06-29",
-      "viewCount": "1233万",
-      "likeCount": "6.6万",
-      "commentCount": "1566"
-    },
-    {
-      "rank": 2766,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/M4sWFgBYNbI/default.jpg",
         "url": "https://www.youtube.com/watch?v=M4sWFgBYNbI",
         "target": "_blank"
@@ -372,6 +350,28 @@
       "publishedAt": "2008-12-08",
       "viewCount": "1311万",
       "likeCount": "3.6万",
+      "commentCount": "1567"
+    },
+    {
+      "rank": 2767,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/EJ1znwnhj68/default.jpg",
+        "url": "https://www.youtube.com/watch?v=EJ1znwnhj68",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ZOT on the WAVE feat. YZERR & Candee - TEIHEN (Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=EJ1znwnhj68",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BAD HOP",
+        "url": "https://www.youtube.com/channel/UCcb0Ixexedx7eXLzgYZh6bg",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-06-29",
+      "viewCount": "1234万",
+      "likeCount": "6.6万",
       "commentCount": "1566"
     },
     {
@@ -414,7 +414,7 @@
         "target": "_blank"
       },
       "publishedAt": "2008-12-08",
-      "viewCount": "1744万",
+      "viewCount": "1745万",
       "likeCount": "3.3万",
       "commentCount": "1548"
     },
@@ -458,31 +458,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-29",
-      "viewCount": "1209万",
+      "viewCount": "1210万",
       "likeCount": "7.4万",
       "commentCount": "1541"
-    },
-    {
-      "rank": 2772,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/NNtlOs6ldJw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=NNtlOs6ldJw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "KYOSUKE HIMURO -B.BLUE-(2004 at Tokyo Dome)",
-        "url": "https://www.youtube.com/watch?v=NNtlOs6ldJw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "KYOSUKE HIMURO",
-        "url": "https://www.youtube.com/channel/UCxhEMv7GDpJqeSW1VbOEqDQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2008-06-03",
-      "viewCount": "1252万",
-      "likeCount": "2.2万",
-      "commentCount": "1538"
     },
     {
       "rank": 2772,
@@ -504,7 +482,29 @@
       "publishedAt": "2015-10-06",
       "viewCount": "2966万",
       "likeCount": "6.8万",
-      "commentCount": "1538"
+      "commentCount": "1539"
+    },
+    {
+      "rank": 2772,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/NNtlOs6ldJw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=NNtlOs6ldJw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "KYOSUKE HIMURO -B.BLUE-(2004 at Tokyo Dome)",
+        "url": "https://www.youtube.com/watch?v=NNtlOs6ldJw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "KYOSUKE HIMURO",
+        "url": "https://www.youtube.com/channel/UCxhEMv7GDpJqeSW1VbOEqDQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2008-06-03",
+      "viewCount": "1253万",
+      "likeCount": "2.3万",
+      "commentCount": "1539"
     },
     {
       "rank": 2774,
@@ -524,9 +524,9 @@
         "target": "_blank"
       },
       "publishedAt": "2014-08-23",
-      "viewCount": "1163万",
+      "viewCount": "1164万",
       "likeCount": "6万",
-      "commentCount": "1533"
+      "commentCount": "1535"
     },
     {
       "rank": 2775,
@@ -553,6 +553,28 @@
     {
       "rank": 2776,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/XggsuWPjLhc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=XggsuWPjLhc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ASIAN KUNG-FU GENERATION　『遥か彼方』",
+        "url": "https://www.youtube.com/watch?v=XggsuWPjLhc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ASIAN KUNG-FU GENERATION Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UC3J-txytRWiRtNXrLS95eEw",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-01-18",
+      "viewCount": "1136万",
+      "likeCount": "4.8万",
+      "commentCount": "1527"
+    },
+    {
+      "rank": 2777,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/90n1E_QZTvU/default.jpg",
         "url": "https://www.youtube.com/watch?v=90n1E_QZTvU",
         "target": "_blank"
@@ -573,7 +595,7 @@
       "commentCount": "1526"
     },
     {
-      "rank": 2777,
+      "rank": 2778,
       "thumb": {
         "img": "https://i.ytimg.com/vi/5QqZDJJr8Ho/default.jpg",
         "url": "https://www.youtube.com/watch?v=5QqZDJJr8Ho",
@@ -595,51 +617,29 @@
       "commentCount": "1524"
     },
     {
-      "rank": 2778,
+      "rank": 2779,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/XggsuWPjLhc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=XggsuWPjLhc",
+        "img": "https://i.ytimg.com/vi/sawxwunW7G0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=sawxwunW7G0",
         "target": "_blank"
       },
       "title": {
-        "text": "ASIAN KUNG-FU GENERATION　『遥か彼方』",
-        "url": "https://www.youtube.com/watch?v=XggsuWPjLhc",
+        "text": "西野カナ 『Darling』MV(Short Ver.)",
+        "url": "https://www.youtube.com/watch?v=sawxwunW7G0",
         "target": "_blank"
       },
       "channel": {
-        "text": "ASIAN KUNG-FU GENERATION Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UC3J-txytRWiRtNXrLS95eEw",
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
         "target": "_blank"
       },
-      "publishedAt": "2012-01-18",
-      "viewCount": "1135万",
-      "likeCount": "4.7万",
-      "commentCount": "1521"
+      "publishedAt": "2014-08-10",
+      "viewCount": "2431万",
+      "likeCount": "4.8万",
+      "commentCount": "1516"
     },
     {
       "rank": 2779,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/m3VnVRHOMZM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=m3VnVRHOMZM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "優里『おにごっこ』Official Music Video",
-        "url": "https://www.youtube.com/watch?v=m3VnVRHOMZM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "優里 Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCBNVZPlWoR7oArfzJNrK9yw",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-09-16",
-      "viewCount": "1398万",
-      "likeCount": "5.6万",
-      "commentCount": "1517"
-    },
-    {
-      "rank": 2780,
       "thumb": {
         "img": "https://i.ytimg.com/vi/jnIa3MIHejQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=jnIa3MIHejQ",
@@ -661,26 +661,26 @@
       "commentCount": "1516"
     },
     {
-      "rank": 2780,
+      "rank": 2781,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/sawxwunW7G0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=sawxwunW7G0",
+        "img": "https://i.ytimg.com/vi/m3VnVRHOMZM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=m3VnVRHOMZM",
         "target": "_blank"
       },
       "title": {
-        "text": "西野カナ 『Darling』MV(Short Ver.)",
-        "url": "https://www.youtube.com/watch?v=sawxwunW7G0",
+        "text": "優里『おにごっこ』Official Music Video",
+        "url": "https://www.youtube.com/watch?v=m3VnVRHOMZM",
         "target": "_blank"
       },
       "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "text": "優里 Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCBNVZPlWoR7oArfzJNrK9yw",
         "target": "_blank"
       },
-      "publishedAt": "2014-08-10",
-      "viewCount": "2430万",
-      "likeCount": "4.8万",
-      "commentCount": "1516"
+      "publishedAt": "2022-09-16",
+      "viewCount": "1398万",
+      "likeCount": "5.6万",
+      "commentCount": "1515"
     },
     {
       "rank": 2782,
@@ -702,7 +702,7 @@
       "publishedAt": "2021-09-03",
       "viewCount": "1421万",
       "likeCount": "5.6万",
-      "commentCount": "1513"
+      "commentCount": "1514"
     },
     {
       "rank": 2783,
@@ -773,6 +773,28 @@
     {
       "rank": 2785,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/8tTkCZzRx5Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=8tTkCZzRx5Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "東京事変 - 女の子は誰でも",
+        "url": "https://www.youtube.com/watch?v=8tTkCZzRx5Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "TokyoIncidentsVEVO",
+        "url": "https://www.youtube.com/channel/UCMFNa5Yzq6AXjPix8ijHS6A",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-05-27",
+      "viewCount": "1420万",
+      "likeCount": "7.4万",
+      "commentCount": "1505"
+    },
+    {
+      "rank": 2785,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/v58Gidyv55U/default.jpg",
         "url": "https://www.youtube.com/watch?v=v58Gidyv55U",
         "target": "_blank"
@@ -793,28 +815,6 @@
       "commentCount": "1505"
     },
     {
-      "rank": 2787,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/8tTkCZzRx5Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=8tTkCZzRx5Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "東京事変 - 女の子は誰でも",
-        "url": "https://www.youtube.com/watch?v=8tTkCZzRx5Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "TokyoIncidentsVEVO",
-        "url": "https://www.youtube.com/channel/UCMFNa5Yzq6AXjPix8ijHS6A",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-05-27",
-      "viewCount": "1420万",
-      "likeCount": "7.4万",
-      "commentCount": "1504"
-    },
-    {
       "rank": 2788,
       "thumb": {
         "img": "https://i.ytimg.com/vi/D0ATlLRLHzs/default.jpg",
@@ -832,9 +832,31 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-23",
-      "viewCount": "1362万",
+      "viewCount": "1363万",
       "likeCount": "9.5万",
       "commentCount": "1503"
+    },
+    {
+      "rank": 2789,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/edeBkHxmJWM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=edeBkHxmJWM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Premium】BLACKPINK - REALLY -KR Ver.-  [LIVE](（MAKUHARI MESSE EVENT HALL[2018.08.26] ))",
+        "url": "https://www.youtube.com/watch?v=edeBkHxmJWM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-12-18",
+      "viewCount": "1065万",
+      "likeCount": "9.8万",
+      "commentCount": "1500"
     },
     {
       "rank": 2789,
@@ -859,7 +881,7 @@
       "commentCount": "1500"
     },
     {
-      "rank": 2790,
+      "rank": 2791,
       "thumb": {
         "img": "https://i.ytimg.com/vi/AEBvkj7hEPo/default.jpg",
         "url": "https://www.youtube.com/watch?v=AEBvkj7hEPo",
@@ -881,28 +903,6 @@
       "commentCount": "1499"
     },
     {
-      "rank": 2791,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/edeBkHxmJWM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=edeBkHxmJWM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Premium】BLACKPINK - REALLY -KR Ver.-  [LIVE](（MAKUHARI MESSE EVENT HALL[2018.08.26] ))",
-        "url": "https://www.youtube.com/watch?v=edeBkHxmJWM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-12-18",
-      "viewCount": "1065万",
-      "likeCount": "9.8万",
-      "commentCount": "1498"
-    },
-    {
       "rank": 2792,
       "thumb": {
         "img": "https://i.ytimg.com/vi/cFt59n19Jnw/default.jpg",
@@ -922,7 +922,7 @@
       "publishedAt": "2015-04-25",
       "viewCount": "1055万",
       "likeCount": "4.1万",
-      "commentCount": "1497"
+      "commentCount": "1496"
     },
     {
       "rank": 2793,
@@ -944,7 +944,7 @@
       "publishedAt": "2012-05-25",
       "viewCount": "1196万",
       "likeCount": "2.5万",
-      "commentCount": "1494"
+      "commentCount": "1495"
     },
     {
       "rank": 2794,
@@ -1074,9 +1074,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-19",
-      "viewCount": "1810万",
+      "viewCount": "1811万",
       "likeCount": "11.5万",
-      "commentCount": "1473"
+      "commentCount": "1474"
     },
     {
       "rank": 2800,

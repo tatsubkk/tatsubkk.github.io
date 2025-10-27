@@ -42,7 +42,7 @@
       "publishedAt": "2015-08-31",
       "viewCount": "1714万",
       "likeCount": "4.07万",
-      "commentCount": "1717"
+      "commentCount": "1718"
     },
     {
       "rank": 2653,
@@ -85,8 +85,8 @@
       },
       "publishedAt": "2020-05-06",
       "viewCount": "1322万",
-      "likeCount": "4.05万",
-      "commentCount": "775"
+      "likeCount": "4.06万",
+      "commentCount": "776"
     },
     {
       "rank": 2655,
@@ -150,7 +150,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-12-09",
-      "viewCount": "2108万",
+      "viewCount": "2109万",
       "likeCount": "4.04万",
       "commentCount": "1461"
     },
@@ -218,7 +218,7 @@
       "publishedAt": "2010-01-26",
       "viewCount": "1035万",
       "likeCount": "4.02万",
-      "commentCount": "2118"
+      "commentCount": "2119"
     },
     {
       "rank": 2661,
@@ -284,7 +284,7 @@
       "publishedAt": "2010-04-16",
       "viewCount": "1092万",
       "likeCount": "3.99万",
-      "commentCount": "1998"
+      "commentCount": "1999"
     },
     {
       "rank": 2664,
@@ -306,7 +306,7 @@
       "publishedAt": "2010-04-06",
       "viewCount": "2092万",
       "likeCount": "3.97万",
-      "commentCount": "2332"
+      "commentCount": "2330"
     },
     {
       "rank": 2665,
@@ -348,9 +348,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-20",
-      "viewCount": "1074万",
+      "viewCount": "1075万",
       "likeCount": "3.97万",
-      "commentCount": "1827"
+      "commentCount": "1832"
     },
     {
       "rank": 2667,
@@ -548,10 +548,32 @@
       "publishedAt": "2012-12-22",
       "viewCount": "1132万",
       "likeCount": "3.87万",
-      "commentCount": "5751"
+      "commentCount": "5752"
     },
     {
       "rank": 2676,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Y-vtEQJTwI8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Y-vtEQJTwI8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "工藤静香 / 慟哭［Official Video］",
+        "url": "https://www.youtube.com/watch?v=Y-vtEQJTwI8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "工藤静香 -PONY CANYON-",
+        "url": "https://www.youtube.com/channel/UCUQYjb1vV1j95xJxaG0zK_g",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-06-07",
+      "viewCount": "1540万",
+      "likeCount": "3.86万",
+      "commentCount": "1651"
+    },
+    {
+      "rank": 2677,
       "thumb": {
         "img": "https://i.ytimg.com/vi/70zBVAFqvHQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=70zBVAFqvHQ",
@@ -571,28 +593,6 @@
       "viewCount": "1181万",
       "likeCount": "3.86万",
       "commentCount": "2.2万"
-    },
-    {
-      "rank": 2677,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Y-vtEQJTwI8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Y-vtEQJTwI8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "工藤静香 / 慟哭［Official Video］",
-        "url": "https://www.youtube.com/watch?v=Y-vtEQJTwI8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "工藤静香 -PONY CANYON-",
-        "url": "https://www.youtube.com/channel/UCUQYjb1vV1j95xJxaG0zK_g",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-06-07",
-      "viewCount": "1540万",
-      "likeCount": "3.86万",
-      "commentCount": "1650"
     },
     {
       "rank": 2678,
@@ -656,9 +656,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-23",
-      "viewCount": "1264万",
+      "viewCount": "1266万",
       "likeCount": "3.83万",
-      "commentCount": "812"
+      "commentCount": "815"
     },
     {
       "rank": 2681,
@@ -700,7 +700,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-01",
-      "viewCount": "2003万",
+      "viewCount": "2004万",
       "likeCount": "3.83万",
       "commentCount": "3283"
     },
@@ -724,7 +724,7 @@
       "publishedAt": "2013-01-21",
       "viewCount": "1100万",
       "likeCount": "3.82万",
-      "commentCount": "669"
+      "commentCount": "670"
     },
     {
       "rank": 2684,
@@ -744,7 +744,7 @@
         "target": "_blank"
       },
       "publishedAt": "2025-05-05",
-      "viewCount": "1061万",
+      "viewCount": "1062万",
       "likeCount": "3.82万",
       "commentCount": "1162"
     },
@@ -766,7 +766,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-09-01",
-      "viewCount": "1485万",
+      "viewCount": "1486万",
       "likeCount": "3.8万",
       "commentCount": "-"
     },
@@ -788,9 +788,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-05",
-      "viewCount": "1379万",
+      "viewCount": "1382万",
       "likeCount": "3.79万",
-      "commentCount": "686"
+      "commentCount": "688"
     },
     {
       "rank": 2687,
@@ -811,8 +811,8 @@
       },
       "publishedAt": "2015-12-09",
       "viewCount": "1127万",
-      "likeCount": "3.77万",
-      "commentCount": "1814"
+      "likeCount": "3.78万",
+      "commentCount": "1815"
     },
     {
       "rank": 2688,
@@ -878,7 +878,7 @@
       "publishedAt": "2010-06-10",
       "viewCount": "1154万",
       "likeCount": "3.74万",
-      "commentCount": "1451"
+      "commentCount": "1452"
     },
     {
       "rank": 2691,
@@ -899,11 +899,33 @@
       },
       "publishedAt": "2010-04-16",
       "viewCount": "1135万",
-      "likeCount": "3.73万",
+      "likeCount": "3.74万",
       "commentCount": "2320"
     },
     {
       "rank": 2692,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/hCgKjuJvDBw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=hCgKjuJvDBw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ののちゃん(村方乃々佳)「パンダうさぎコアラ」Music Video",
+        "url": "https://www.youtube.com/watch?v=hCgKjuJvDBw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "KING RECORDS",
+        "url": "https://www.youtube.com/channel/UC6KEU5-KSTszEOOnAl8ZwPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-03-29",
+      "viewCount": "1798万",
+      "likeCount": "3.73万",
+      "commentCount": "-"
+    },
+    {
+      "rank": 2693,
       "thumb": {
         "img": "https://i.ytimg.com/vi/rOAEAlEcXEU/default.jpg",
         "url": "https://www.youtube.com/watch?v=rOAEAlEcXEU",
@@ -920,12 +942,12 @@
         "target": "_blank"
       },
       "publishedAt": "2012-08-09",
-      "viewCount": "1764万",
+      "viewCount": "1765万",
       "likeCount": "3.73万",
       "commentCount": "2663"
     },
     {
-      "rank": 2693,
+      "rank": 2694,
       "thumb": {
         "img": "https://i.ytimg.com/vi/KsWTbuB4xH4/default.jpg",
         "url": "https://www.youtube.com/watch?v=KsWTbuB4xH4",
@@ -945,28 +967,6 @@
       "viewCount": "1653万",
       "likeCount": "3.73万",
       "commentCount": "1469"
-    },
-    {
-      "rank": 2694,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/hCgKjuJvDBw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=hCgKjuJvDBw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ののちゃん(村方乃々佳)「パンダうさぎコアラ」Music Video",
-        "url": "https://www.youtube.com/watch?v=hCgKjuJvDBw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "KING RECORDS",
-        "url": "https://www.youtube.com/channel/UC6KEU5-KSTszEOOnAl8ZwPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-03-29",
-      "viewCount": "1794万",
-      "likeCount": "3.73万",
-      "commentCount": "-"
     },
     {
       "rank": 2695,
@@ -1015,24 +1015,24 @@
     {
       "rank": 2697,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/xQCTxb4aaH4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=xQCTxb4aaH4",
+        "img": "https://i.ytimg.com/vi/DNgjoJVnTvs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=DNgjoJVnTvs",
         "target": "_blank"
       },
       "title": {
-        "text": "三代目 J SOUL BROTHERS from EXILE TRIBE / LOVE SONG -フル ver.-",
-        "url": "https://www.youtube.com/watch?v=xQCTxb4aaH4",
+        "text": "B'z / イチブトゼンブ",
+        "url": "https://www.youtube.com/watch?v=DNgjoJVnTvs",
         "target": "_blank"
       },
       "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "text": "Bz",
+        "url": "https://www.youtube.com/channel/UCpEEcJhBig2GqUFxcXjqiLg",
         "target": "_blank"
       },
-      "publishedAt": "2011-04-18",
-      "viewCount": "1930万",
+      "publishedAt": "2013-03-24",
+      "viewCount": "1150万",
       "likeCount": "3.71万",
-      "commentCount": "1683"
+      "commentCount": "1103"
     },
     {
       "rank": 2698,
@@ -1059,24 +1059,24 @@
     {
       "rank": 2699,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/DNgjoJVnTvs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=DNgjoJVnTvs",
+        "img": "https://i.ytimg.com/vi/xQCTxb4aaH4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=xQCTxb4aaH4",
         "target": "_blank"
       },
       "title": {
-        "text": "B'z / イチブトゼンブ",
-        "url": "https://www.youtube.com/watch?v=DNgjoJVnTvs",
+        "text": "三代目 J SOUL BROTHERS from EXILE TRIBE / LOVE SONG -フル ver.-",
+        "url": "https://www.youtube.com/watch?v=xQCTxb4aaH4",
         "target": "_blank"
       },
       "channel": {
-        "text": "Bz",
-        "url": "https://www.youtube.com/channel/UCpEEcJhBig2GqUFxcXjqiLg",
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
         "target": "_blank"
       },
-      "publishedAt": "2013-03-24",
-      "viewCount": "1150万",
+      "publishedAt": "2011-04-18",
+      "viewCount": "1930万",
       "likeCount": "3.71万",
-      "commentCount": "1103"
+      "commentCount": "1683"
     },
     {
       "rank": 2700,
@@ -1098,7 +1098,7 @@
       "publishedAt": "2012-11-14",
       "viewCount": "1942万",
       "likeCount": "3.71万",
-      "commentCount": "2406"
+      "commentCount": "2410"
     }
   ]
 }

@@ -18,12 +18,34 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-22",
-      "viewCount": "1259万",
+      "viewCount": "1260万",
       "likeCount": "6.9万",
       "commentCount": "1.04万"
     },
     {
       "rank": 952,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/m9SMT5ipbxk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=m9SMT5ipbxk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "アイドル",
+        "url": "https://www.youtube.com/watch?v=m9SMT5ipbxk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-04-11",
+      "viewCount": "2億7834万",
+      "likeCount": "143万",
+      "commentCount": "1.03万"
+    },
+    {
+      "rank": 953,
       "thumb": {
         "img": "https://i.ytimg.com/vi/YGx5fcgEuwA/default.jpg",
         "url": "https://www.youtube.com/watch?v=YGx5fcgEuwA",
@@ -42,28 +64,6 @@
       "publishedAt": "2022-12-31",
       "viewCount": "2356万",
       "likeCount": "35.6万",
-      "commentCount": "1.03万"
-    },
-    {
-      "rank": 953,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/m9SMT5ipbxk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=m9SMT5ipbxk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "アイドル",
-        "url": "https://www.youtube.com/watch?v=m9SMT5ipbxk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-04-11",
-      "viewCount": "2億7820万",
-      "likeCount": "143万",
       "commentCount": "1.03万"
     },
     {
@@ -128,7 +128,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-05-21",
-      "viewCount": "6945万",
+      "viewCount": "6946万",
       "likeCount": "21.1万",
       "commentCount": "1.03万"
     },
@@ -150,7 +150,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-05-27",
-      "viewCount": "2943万",
+      "viewCount": "2944万",
       "likeCount": "36.6万",
       "commentCount": "1.03万"
     },
@@ -172,7 +172,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-10-02",
-      "viewCount": "3928万",
+      "viewCount": "3929万",
       "likeCount": "31.3万",
       "commentCount": "1.03万"
     },
@@ -194,7 +194,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-07",
-      "viewCount": "5786万",
+      "viewCount": "5787万",
       "likeCount": "42.2万",
       "commentCount": "1.03万"
     },
@@ -216,8 +216,30 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-28",
-      "viewCount": "1億774万",
+      "viewCount": "1億779万",
       "likeCount": "24.8万",
+      "commentCount": "1.03万"
+    },
+    {
+      "rank": 961,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/sXLzVwgmv_w/default.jpg",
+        "url": "https://www.youtube.com/watch?v=sXLzVwgmv_w",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "HoneyWorks 『東京サマーセッション feat.瀬戸口優・榎本夏樹・望月蒼太・早坂あかり・芹沢春輝・合田美桜（CV：神谷浩史・戸松遥・梶裕貴・阿澄佳奈・鈴村健一・豊崎愛生）』",
+        "url": "https://www.youtube.com/watch?v=sXLzVwgmv_w",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-01-24",
+      "viewCount": "2303万",
+      "likeCount": "20万",
       "commentCount": "1.03万"
     },
     {
@@ -243,51 +265,7 @@
       "commentCount": "1.03万"
     },
     {
-      "rank": 962,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/sXLzVwgmv_w/default.jpg",
-        "url": "https://www.youtube.com/watch?v=sXLzVwgmv_w",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "HoneyWorks 『東京サマーセッション feat.瀬戸口優・榎本夏樹・望月蒼太・早坂あかり・芹沢春輝・合田美桜（CV：神谷浩史・戸松遥・梶裕貴・阿澄佳奈・鈴村健一・豊崎愛生）』",
-        "url": "https://www.youtube.com/watch?v=sXLzVwgmv_w",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-01-24",
-      "viewCount": "2302万",
-      "likeCount": "20万",
-      "commentCount": "1.02万"
-    },
-    {
       "rank": 963,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/MVcDG8JcDtY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=MVcDG8JcDtY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow Man「タペストリー」Dance Practice",
-        "url": "https://www.youtube.com/watch?v=MVcDG8JcDtY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Snow Man",
-        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-02-22",
-      "viewCount": "2994万",
-      "likeCount": "-",
-      "commentCount": "1.02万"
-    },
-    {
-      "rank": 964,
       "thumb": {
         "img": "https://i.ytimg.com/vi/wTc3jXDTNBo/default.jpg",
         "url": "https://www.youtube.com/watch?v=wTc3jXDTNBo",
@@ -304,8 +282,30 @@
         "target": "_blank"
       },
       "publishedAt": "2024-02-22",
-      "viewCount": "3361万",
+      "viewCount": "3366万",
       "likeCount": "27.3万",
+      "commentCount": "1.02万"
+    },
+    {
+      "rank": 964,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/MVcDG8JcDtY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=MVcDG8JcDtY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow Man「タペストリー」Dance Practice",
+        "url": "https://www.youtube.com/watch?v=MVcDG8JcDtY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Snow Man",
+        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-02-22",
+      "viewCount": "2995万",
+      "likeCount": "-",
       "commentCount": "1.02万"
     },
     {
@@ -370,7 +370,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-14",
-      "viewCount": "8896万",
+      "viewCount": "8901万",
       "likeCount": "41.5万",
       "commentCount": "1.02万"
     },
@@ -392,7 +392,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-29",
-      "viewCount": "1161万",
+      "viewCount": "1162万",
       "likeCount": "21.3万",
       "commentCount": "1.02万"
     },
@@ -414,7 +414,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-06-13",
-      "viewCount": "5168万",
+      "viewCount": "5173万",
       "likeCount": "39.4万",
       "commentCount": "1.02万"
     },
@@ -436,7 +436,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-12-31",
-      "viewCount": "1725万",
+      "viewCount": "1726万",
       "likeCount": "-",
       "commentCount": "1.02万"
     },
@@ -590,12 +590,12 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-08",
-      "viewCount": "1億926万",
+      "viewCount": "1億928万",
       "likeCount": "23.4万",
       "commentCount": "1.01万"
     },
     {
-      "rank": 978,
+      "rank": 977,
       "thumb": {
         "img": "https://i.ytimg.com/vi/nDbNRb9gOr4/default.jpg",
         "url": "https://www.youtube.com/watch?v=nDbNRb9gOr4",
@@ -612,7 +612,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-01-03",
-      "viewCount": "4404万",
+      "viewCount": "4405万",
       "likeCount": "38.4万",
       "commentCount": "1.01万"
     },
@@ -634,7 +634,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-27",
-      "viewCount": "4108万",
+      "viewCount": "4109万",
       "likeCount": "18.2万",
       "commentCount": "1.01万"
     },
@@ -678,7 +678,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-07-09",
-      "viewCount": "2301万",
+      "viewCount": "2302万",
       "likeCount": "23.9万",
       "commentCount": "1.01万"
     },
@@ -722,7 +722,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-27",
-      "viewCount": "5442万",
+      "viewCount": "5445万",
       "likeCount": "18.3万",
       "commentCount": "1.01万"
     },
@@ -766,7 +766,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-31",
-      "viewCount": "2152万",
+      "viewCount": "2154万",
       "likeCount": "15.5万",
       "commentCount": "1万"
     },
@@ -788,12 +788,34 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-13",
-      "viewCount": "5516万",
+      "viewCount": "5519万",
       "likeCount": "18.5万",
       "commentCount": "1万"
     },
     {
       "rank": 987,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1z-_XtdtMwk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1z-_XtdtMwk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Sexy Zone ｢本音と建前｣ (YouTube Ver.)",
+        "url": "https://www.youtube.com/watch?v=1z-_XtdtMwk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "timelesz [タイムレス]",
+        "url": "https://www.youtube.com/channel/UCgXJMvOBqHk5wJFRKZfIgWQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-08-23",
+      "viewCount": "1528万",
+      "likeCount": "-",
+      "commentCount": "1万"
+    },
+    {
+      "rank": 988,
       "thumb": {
         "img": "https://i.ytimg.com/vi/4QePrv24TBU/default.jpg",
         "url": "https://www.youtube.com/watch?v=4QePrv24TBU",
@@ -815,28 +837,6 @@
       "commentCount": "1万"
     },
     {
-      "rank": 988,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1z-_XtdtMwk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1z-_XtdtMwk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Sexy Zone ｢本音と建前｣ (YouTube Ver.)",
-        "url": "https://www.youtube.com/watch?v=1z-_XtdtMwk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "timelesz [タイムレス]",
-        "url": "https://www.youtube.com/channel/UCgXJMvOBqHk5wJFRKZfIgWQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-08-23",
-      "viewCount": "1527万",
-      "likeCount": "-",
-      "commentCount": "1万"
-    },
-    {
       "rank": 989,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Q9cT5EAEGyk/default.jpg",
@@ -854,9 +854,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-02-20",
-      "viewCount": "2008万",
+      "viewCount": "2009万",
       "likeCount": "21.2万",
-      "commentCount": "9995"
+      "commentCount": "9998"
     },
     {
       "rank": 990,
@@ -878,7 +878,7 @@
       "publishedAt": "2016-06-01",
       "viewCount": "2509万",
       "likeCount": "-",
-      "commentCount": "9994"
+      "commentCount": "9997"
     },
     {
       "rank": 991,
@@ -920,9 +920,9 @@
         "target": "_blank"
       },
       "publishedAt": "2018-12-20",
-      "viewCount": "4841万",
+      "viewCount": "4842万",
       "likeCount": "24.1万",
-      "commentCount": "9973"
+      "commentCount": "9975"
     },
     {
       "rank": 993,
@@ -966,7 +966,7 @@
       "publishedAt": "2018-12-12",
       "viewCount": "2096万",
       "likeCount": "19.4万",
-      "commentCount": "9936"
+      "commentCount": "9940"
     },
     {
       "rank": 995,
@@ -1008,7 +1008,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-26",
-      "viewCount": "1641万",
+      "viewCount": "1642万",
       "likeCount": "-",
       "commentCount": "9931"
     },
@@ -1032,7 +1032,7 @@
       "publishedAt": "2016-01-21",
       "viewCount": "6604万",
       "likeCount": "16.4万",
-      "commentCount": "9927"
+      "commentCount": "9928"
     },
     {
       "rank": 998,
@@ -1052,9 +1052,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-05-28",
-      "viewCount": "3717万",
+      "viewCount": "3718万",
       "likeCount": "-",
-      "commentCount": "9925"
+      "commentCount": "9927"
     },
     {
       "rank": 999,
@@ -1074,9 +1074,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-23",
-      "viewCount": "4351万",
+      "viewCount": "4353万",
       "likeCount": "22.7万",
-      "commentCount": "9920"
+      "commentCount": "9918"
     },
     {
       "rank": 1000,
@@ -1096,9 +1096,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-11",
-      "viewCount": "1億430万",
+      "viewCount": "1億436万",
       "likeCount": "42.5万",
-      "commentCount": "9905"
+      "commentCount": "9906"
     }
   ]
 }
