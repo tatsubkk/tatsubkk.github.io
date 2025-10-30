@@ -3,6 +3,144 @@
     {
       "rank": 1001,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/9qhJ1vhTH7A/default.jpg",
+        "url": "https://www.youtube.com/watch?v=9qhJ1vhTH7A",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "家入レオ -「君がくれた夏」（Full Ver.）",
+        "url": "https://www.youtube.com/watch?v=9qhJ1vhTH7A",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "家入レオ",
+        "url": "https://www.youtube.com/channel/UCwvWJX42p4C7IfpedYlvvGQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-02-02",
+      "viewCount": "2063万",
+      "likeCount": "12.3万",
+      "commentCount": "2944",
+      "increment_d7": "6万"
+    },
+    {
+      "rank": 1002,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/lzyDD8bMDKs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=lzyDD8bMDKs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV】ファンサ／mona(CV：夏川椎菜)【HoneyWorks】",
+        "url": "https://www.youtube.com/watch?v=lzyDD8bMDKs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "HoneyWorks OFFICIAL",
+        "url": "https://www.youtube.com/channel/UCAaGaynFpku5cAx6OOSrW-w",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-06-22",
+      "viewCount": "4473万",
+      "likeCount": "53.9万",
+      "commentCount": "1.3万",
+      "increment_d7": "6万"
+    },
+    {
+      "rank": 1003,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/XSilkpvSUfg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=XSilkpvSUfg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "清水翔太『恋唄』MV",
+        "url": "https://www.youtube.com/watch?v=XSilkpvSUfg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "清水翔太 / Shota Shimizu",
+        "url": "https://www.youtube.com/channel/UCv3cmuTwVzTXROJdaT7xw6w",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-05-17",
+      "viewCount": "1918万",
+      "likeCount": "-",
+      "commentCount": "1855",
+      "increment_d7": "5.9万"
+    },
+    {
+      "rank": 1004,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/mgVV2TeWZo4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=mgVV2TeWZo4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "V6 / Darling（YouTube Ver.）",
+        "url": "https://www.youtube.com/watch?v=mgVV2TeWZo4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-04-29",
+      "viewCount": "1837万",
+      "likeCount": "-",
+      "commentCount": "-",
+      "increment_d7": "5.9万"
+    },
+    {
+      "rank": 1005,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/p8FDl_tMs4Y/default.jpg",
+        "url": "https://www.youtube.com/watch?v=p8FDl_tMs4Y",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mitski - A Pearl (Official Video)",
+        "url": "https://www.youtube.com/watch?v=p8FDl_tMs4Y",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mitski",
+        "url": "https://www.youtube.com/channel/UC-GjYlrAWIHgwNDnbFHZ77g",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-01-31",
+      "viewCount": "1684万",
+      "likeCount": "32.9万",
+      "commentCount": "5211",
+      "increment_d7": "5.9万"
+    },
+    {
+      "rank": 1006,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/KhTxlm4REQc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=KhTxlm4REQc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "m.o.v.e / Gamble Rumble",
+        "url": "https://www.youtube.com/watch?v=KhTxlm4REQc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-06-27",
+      "viewCount": "2962万",
+      "likeCount": "12.8万",
+      "commentCount": "6233",
+      "increment_d7": "5.9万"
+    },
+    {
+      "rank": 1007,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/C6SX7B1o-w4/default.jpg",
         "url": "https://www.youtube.com/watch?v=C6SX7B1o-w4",
         "target": "_blank"
@@ -18,320 +156,44 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-07",
-      "viewCount": "1802万",
+      "viewCount": "1804万",
       "likeCount": "15.8万",
       "commentCount": "5485",
-      "increment_d7": "6万"
-    },
-    {
-      "rank": 1002,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/XeFQJ6-XoD0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=XeFQJ6-XoD0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "米津玄師 - カムパネルラ  Kenshi Yonezu - Campanella",
-        "url": "https://www.youtube.com/watch?v=XeFQJ6-XoD0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-08-04",
-      "viewCount": "4285万",
-      "likeCount": "37.5万",
-      "commentCount": "3万",
-      "increment_d7": "6万"
-    },
-    {
-      "rank": 1003,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/gD2mhJ3ByGQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=gD2mhJ3ByGQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "東京事変 - 群青日和",
-        "url": "https://www.youtube.com/watch?v=gD2mhJ3ByGQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "TokyoIncidentsVEVO",
-        "url": "https://www.youtube.com/channel/UCMFNa5Yzq6AXjPix8ijHS6A",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-05-27",
-      "viewCount": "4556万",
-      "likeCount": "17万",
-      "commentCount": "6312",
-      "increment_d7": "6万"
-    },
-    {
-      "rank": 1004,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/R3V4sAXUJ-g/default.jpg",
-        "url": "https://www.youtube.com/watch?v=R3V4sAXUJ-g",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ - U",
-        "url": "https://www.youtube.com/watch?v=R3V4sAXUJ-g",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "MILLENNIUM PARADE Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UChex1vr4WtFu-OsAukjuYCA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-07-15",
-      "viewCount": "6400万",
-      "likeCount": "57.9万",
-      "commentCount": "1.4万",
-      "increment_d7": "6万"
-    },
-    {
-      "rank": 1005,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/tVjvDBD80fo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=tVjvDBD80fo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "優しい彗星",
-        "url": "https://www.youtube.com/watch?v=tVjvDBD80fo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-30",
-      "viewCount": "1247万",
-      "likeCount": "5.2万",
-      "commentCount": "85",
-      "increment_d7": "6万"
-    },
-    {
-      "rank": 1006,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/sd4LIb8pm8s/default.jpg",
-        "url": "https://www.youtube.com/watch?v=sd4LIb8pm8s",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV】 マシュマロパンチ‪👊🏻💗 / しなこfeat. 午前0時のプリンセス / あぃりDX",
-        "url": "https://www.youtube.com/watch?v=sd4LIb8pm8s",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "しなこ Shinako / ASMR",
-        "url": "https://www.youtube.com/channel/UCSPkmZyeHlDNE-6YMSg5Fbg",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-12-25",
-      "viewCount": "1137万",
-      "likeCount": "4.1万",
-      "commentCount": "2454",
-      "increment_d7": "6万"
-    },
-    {
-      "rank": 1007,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/X9aKVLPoKJk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=X9aKVLPoKJk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Ado】ボッカデラベリタ 歌いました",
-        "url": "https://www.youtube.com/watch?v=X9aKVLPoKJk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ado",
-        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-06-02",
-      "viewCount": "4907万",
-      "likeCount": "52万",
-      "commentCount": "8425",
-      "increment_d7": "6万"
+      "increment_d7": "5.9万"
     },
     {
       "rank": 1008,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/cNCzjEkyn8A/default.jpg",
-        "url": "https://www.youtube.com/watch?v=cNCzjEkyn8A",
+        "img": "https://i.ytimg.com/vi/7JH02ylIgxQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=7JH02ylIgxQ",
         "target": "_blank"
       },
       "title": {
-        "text": "西野カナ『君って』 Live Performance-Kana Nishino “Kimitte”",
-        "url": "https://www.youtube.com/watch?v=cNCzjEkyn8A",
+        "text": "Snow Man「W」Dance Practice",
+        "url": "https://www.youtube.com/watch?v=7JH02ylIgxQ",
         "target": "_blank"
       },
       "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "text": "Snow Man",
+        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
         "target": "_blank"
       },
-      "publishedAt": "2022-09-23",
-      "viewCount": "1780万",
-      "likeCount": "4.5万",
-      "commentCount": "1660",
-      "increment_d7": "6万"
+      "publishedAt": "2023-03-08",
+      "viewCount": "2311万",
+      "likeCount": "-",
+      "commentCount": "7145",
+      "increment_d7": "5.9万"
     },
     {
       "rank": 1009,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/BkOVkthMkOc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=BkOVkthMkOc",
+        "img": "https://i.ytimg.com/vi/P_At3pIE5BU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=P_At3pIE5BU",
         "target": "_blank"
       },
       "title": {
-        "text": "青いベンチ / サスケ",
-        "url": "https://www.youtube.com/watch?v=BkOVkthMkOc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "TV ASAHI MUSIC",
-        "url": "https://www.youtube.com/channel/UClvt7FLjIobNc93MqL8p8ow",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-03-04",
-      "viewCount": "5863万",
-      "likeCount": "21.3万",
-      "commentCount": "1.1万",
-      "increment_d7": "5.9万"
-    },
-    {
-      "rank": 1010,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/mnQhQfQkoXM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=mnQhQfQkoXM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – ケセラセラ 【LIVE “NOAH no HAKOBUNE” on WOWOWプラス】",
-        "url": "https://www.youtube.com/watch?v=mnQhQfQkoXM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-08-18",
-      "viewCount": "2798万",
-      "likeCount": "16.8万",
-      "commentCount": "4691",
-      "increment_d7": "5.9万"
-    },
-    {
-      "rank": 1011,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/PbISczErpKY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=PbISczErpKY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE - WanteD! WanteD!",
-        "url": "https://www.youtube.com/watch?v=PbISczErpKY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "MrsGREENAPPLEVEVO",
-        "url": "https://www.youtube.com/channel/UC5e0xdyGS7OEgyLroMxwrbw",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-09-08",
-      "viewCount": "6436万",
-      "likeCount": "51.3万",
-      "commentCount": "1.8万",
-      "increment_d7": "5.9万"
-    },
-    {
-      "rank": 1012,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/iAOTwdlEdVg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=iAOTwdlEdVg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "あの夢をなぞって",
-        "url": "https://www.youtube.com/watch?v=iAOTwdlEdVg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-01-17",
-      "viewCount": "2008万",
-      "likeCount": "9.4万",
-      "commentCount": "394",
-      "increment_d7": "5.9万"
-    },
-    {
-      "rank": 1013,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Ae6gQmhaMn4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Ae6gQmhaMn4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ゲスの極み乙女「私以外私じゃないの」",
-        "url": "https://www.youtube.com/watch?v=Ae6gQmhaMn4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ゲスの極み乙女 Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UC0pHUMEOtul5NlaT-Rt-34w",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-04-08",
-      "viewCount": "1億1033万",
-      "likeCount": "42.6万",
-      "commentCount": "3万",
-      "increment_d7": "5.9万"
-    },
-    {
-      "rank": 1014,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Oy7fhdAWvpk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Oy7fhdAWvpk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "悲しみは雪のように (ON THE ROAD 2011 \"The Last Weekend\")",
-        "url": "https://www.youtube.com/watch?v=Oy7fhdAWvpk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "浜田省吾 Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCS4Rrb_cE8F_Jo1XI4bNQdA",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-08-24",
-      "viewCount": "4010万",
-      "likeCount": "7.4万",
-      "commentCount": "3684",
-      "increment_d7": "5.9万"
-    },
-    {
-      "rank": 1015,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/o1WXFxHXieM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=o1WXFxHXieM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "HoneyWorks 『可愛くなりたい feat.成海聖奈（CV.：雨宮天）』",
-        "url": "https://www.youtube.com/watch?v=o1WXFxHXieM",
+        "text": "アイのシナリオ／CHiCO with HoneyWorks",
+        "url": "https://www.youtube.com/watch?v=P_At3pIE5BU",
         "target": "_blank"
       },
       "channel": {
@@ -339,198 +201,106 @@
         "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
         "target": "_blank"
       },
-      "publishedAt": "2017-01-17",
-      "viewCount": "5797万",
-      "likeCount": "40.3万",
-      "commentCount": "2万",
+      "publishedAt": "2015-01-26",
+      "viewCount": "7140万",
+      "likeCount": "43.6万",
+      "commentCount": "1.4万",
       "increment_d7": "5.9万"
     },
     {
-      "rank": 1016,
+      "rank": 1010,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/q6T0wOMsNrI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=q6T0wOMsNrI",
+        "img": "https://i.ytimg.com/vi/74IKR0WeKXY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=74IKR0WeKXY",
         "target": "_blank"
       },
       "title": {
-        "text": "[Official Music Video] Perfume 「FLASH」",
-        "url": "https://www.youtube.com/watch?v=q6T0wOMsNrI",
+        "text": "ASKA - はじまりはいつも雨 (Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=74IKR0WeKXY",
         "target": "_blank"
       },
       "channel": {
-        "text": "Perfume",
-        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
+        "text": "ASKA Official Channel",
+        "url": "https://www.youtube.com/channel/UCrkEToV2jYoWlYO92nzVTNA",
         "target": "_blank"
       },
-      "publishedAt": "2016-04-12",
-      "viewCount": "8355万",
-      "likeCount": "33.8万",
-      "commentCount": "1.3万",
+      "publishedAt": "2018-08-24",
+      "viewCount": "2337万",
+      "likeCount": "8.4万",
+      "commentCount": "6948",
       "increment_d7": "5.9万"
     },
     {
-      "rank": 1017,
+      "rank": 1011,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/aM7ZwfhUXTg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=aM7ZwfhUXTg",
+        "img": "https://i.ytimg.com/vi/iQhRmQWwDYs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=iQhRmQWwDYs",
         "target": "_blank"
       },
       "title": {
-        "text": "reGretGirl 「ホワイトアウト」 Official Music Video",
-        "url": "https://www.youtube.com/watch?v=aM7ZwfhUXTg",
+        "text": "宮本浩次－冬の花",
+        "url": "https://www.youtube.com/watch?v=iQhRmQWwDYs",
         "target": "_blank"
       },
       "channel": {
-        "text": "reGretGirl",
-        "url": "https://www.youtube.com/channel/UCU2wjFrYJyIhwpXDcuWd2mw",
+        "text": "宮本浩次",
+        "url": "https://www.youtube.com/channel/UCcUcK64JLSZAPUfG07s-Wew",
         "target": "_blank"
       },
-      "publishedAt": "2017-04-07",
-      "viewCount": "4329万",
-      "likeCount": "30.5万",
-      "commentCount": "5730",
+      "publishedAt": "2019-02-11",
+      "viewCount": "2575万",
+      "likeCount": "18.8万",
+      "commentCount": "7659",
       "increment_d7": "5.9万"
     },
     {
-      "rank": 1018,
+      "rank": 1012,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/IQOhCvlkYps/default.jpg",
-        "url": "https://www.youtube.com/watch?v=IQOhCvlkYps",
+        "img": "https://i.ytimg.com/vi/W0C_VJqjtpw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=W0C_VJqjtpw",
         "target": "_blank"
       },
       "title": {
-        "text": "BUMP OF CHICKEN「新世界」",
-        "url": "https://www.youtube.com/watch?v=IQOhCvlkYps",
+        "text": "RADWIMPS - うるうびと [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=W0C_VJqjtpw",
         "target": "_blank"
       },
       "channel": {
-        "text": "BUMP OF CHICKEN",
-        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
+        "text": "RADWIMPS",
+        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
         "target": "_blank"
       },
-      "publishedAt": "2020-12-04",
-      "viewCount": "2702万",
-      "likeCount": "29.4万",
-      "commentCount": "5759",
+      "publishedAt": "2022-03-12",
+      "viewCount": "1816万",
+      "likeCount": "19.9万",
+      "commentCount": "3701",
       "increment_d7": "5.9万"
     },
     {
-      "rank": 1019,
+      "rank": 1013,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/b5qDEwUMIQg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=b5qDEwUMIQg",
+        "img": "https://i.ytimg.com/vi/olWvy0PiLfA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=olWvy0PiLfA",
         "target": "_blank"
       },
       "title": {
-        "text": "マカロニえんぴつ「ヤングアダルト」MV",
-        "url": "https://www.youtube.com/watch?v=b5qDEwUMIQg",
+        "text": "ツユ - くらべられっ子 MV",
+        "url": "https://www.youtube.com/watch?v=olWvy0PiLfA",
         "target": "_blank"
       },
       "channel": {
-        "text": "murffin discs",
-        "url": "https://www.youtube.com/channel/UC1-EP9cKVrNQqvG-drnDA7Q",
+        "text": "ツユ",
+        "url": "https://www.youtube.com/channel/UCB2tP2QfRG7hTra0KTOtTBg",
         "target": "_blank"
       },
-      "publishedAt": "2019-08-16",
-      "viewCount": "2962万",
-      "likeCount": "19.5万",
-      "commentCount": "4089",
+      "publishedAt": "2019-10-16",
+      "viewCount": "5863万",
+      "likeCount": "85.7万",
+      "commentCount": "2.9万",
       "increment_d7": "5.9万"
     },
     {
-      "rank": 1020,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/pVEcvk3fwtE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=pVEcvk3fwtE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ARASHI - Love so sweet [Official Live Video]",
-        "url": "https://www.youtube.com/watch?v=pVEcvk3fwtE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ARASHI",
-        "url": "https://www.youtube.com/channel/UCP7Gw_YZAuh4Yg2fcdcuumQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-10-24",
-      "viewCount": "2454万",
-      "likeCount": "-",
-      "commentCount": "1.3万",
-      "increment_d7": "5.9万"
-    },
-    {
-      "rank": 1021,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/VyvhvlYvRnc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=VyvhvlYvRnc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "YOASOBI「優しい彗星」Official Music Video　(YOASOBI - Comet)",
-        "url": "https://www.youtube.com/watch?v=VyvhvlYvRnc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ayase / YOASOBI",
-        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-03-25",
-      "viewCount": "3915万",
-      "likeCount": "50.5万",
-      "commentCount": "1.3万",
-      "increment_d7": "5.9万"
-    },
-    {
-      "rank": 1022,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/AUeRiPyjFH4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=AUeRiPyjFH4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "マキシマム ザ ホルモン 『恋のスペルマ』 Music Video 野外フェス映像ver.",
-        "url": "https://www.youtube.com/watch?v=AUeRiPyjFH4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "マキシマム ザ ホルモン公式",
-        "url": "https://www.youtube.com/channel/UCbb9FsCRA83-6vdgXn2KSyA",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-06-26",
-      "viewCount": "2001万",
-      "likeCount": "8.8万",
-      "commentCount": "3544",
-      "increment_d7": "5.9万"
-    },
-    {
-      "rank": 1023,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/omk3tMOIJZo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=omk3tMOIJZo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "timelesz ｢Anthem｣ MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=omk3tMOIJZo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "timelesz [タイムレス]",
-        "url": "https://www.youtube.com/channel/UCgXJMvOBqHk5wJFRKZfIgWQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-05-21",
-      "viewCount": "1308万",
-      "likeCount": "10.8万",
-      "commentCount": "8637",
-      "increment_d7": "5.9万"
-    },
-    {
-      "rank": 1024,
+      "rank": 1014,
       "thumb": {
         "img": "https://i.ytimg.com/vi/KoFSQeOAYz4/default.jpg",
         "url": "https://www.youtube.com/watch?v=KoFSQeOAYz4",
@@ -547,13 +317,174 @@
         "target": "_blank"
       },
       "publishedAt": "2009-06-28",
-      "viewCount": "2645万",
+      "viewCount": "2647万",
       "likeCount": "16.5万",
-      "commentCount": "9195",
+      "commentCount": "9199",
       "increment_d7": "5.9万"
     },
     {
-      "rank": 1025,
+      "rank": 1015,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/IQOhCvlkYps/default.jpg",
+        "url": "https://www.youtube.com/watch?v=IQOhCvlkYps",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BUMP OF CHICKEN「新世界」",
+        "url": "https://www.youtube.com/watch?v=IQOhCvlkYps",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BUMP OF CHICKEN",
+        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-12-04",
+      "viewCount": "2704万",
+      "likeCount": "29.4万",
+      "commentCount": "5759",
+      "increment_d7": "5.9万"
+    },
+    {
+      "rank": 1016,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/XLouH_6hrcY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=XLouH_6hrcY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ジェニーハイ「華奢なリップ」feat.ちゃんみな",
+        "url": "https://www.youtube.com/watch?v=XLouH_6hrcY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ジェニーハイ",
+        "url": "https://www.youtube.com/channel/UCZUm9b2e5w54cQM7MVVR_9A",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-06-10",
+      "viewCount": "2121万",
+      "likeCount": "20.3万",
+      "commentCount": "3071",
+      "increment_d7": "5.9万"
+    },
+    {
+      "rank": 1017,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/pVEcvk3fwtE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=pVEcvk3fwtE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ARASHI - Love so sweet [Official Live Video]",
+        "url": "https://www.youtube.com/watch?v=pVEcvk3fwtE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ARASHI",
+        "url": "https://www.youtube.com/channel/UCP7Gw_YZAuh4Yg2fcdcuumQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-10-24",
+      "viewCount": "2456万",
+      "likeCount": "-",
+      "commentCount": "1.3万",
+      "increment_d7": "5.9万"
+    },
+    {
+      "rank": 1018,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/W_IkBXSyC_4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=W_IkBXSyC_4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "當山みれい 『願い～あの頃のキミへ～』",
+        "url": "https://www.youtube.com/watch?v=W_IkBXSyC_4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "當山みれい / MIREI",
+        "url": "https://www.youtube.com/channel/UCLMYRi83dsYs83prGn0tByw",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-07-02",
+      "viewCount": "3375万",
+      "likeCount": "19万",
+      "commentCount": "3255",
+      "increment_d7": "5.8万"
+    },
+    {
+      "rank": 1019,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/cNCzjEkyn8A/default.jpg",
+        "url": "https://www.youtube.com/watch?v=cNCzjEkyn8A",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "西野カナ『君って』 Live Performance-Kana Nishino “Kimitte”",
+        "url": "https://www.youtube.com/watch?v=cNCzjEkyn8A",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-09-23",
+      "viewCount": "1781万",
+      "likeCount": "4.5万",
+      "commentCount": "1661",
+      "increment_d7": "5.8万"
+    },
+    {
+      "rank": 1020,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/b5qDEwUMIQg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=b5qDEwUMIQg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "マカロニえんぴつ「ヤングアダルト」MV",
+        "url": "https://www.youtube.com/watch?v=b5qDEwUMIQg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "murffin discs",
+        "url": "https://www.youtube.com/channel/UC1-EP9cKVrNQqvG-drnDA7Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-08-16",
+      "viewCount": "2964万",
+      "likeCount": "19.6万",
+      "commentCount": "4090",
+      "increment_d7": "5.8万"
+    },
+    {
+      "rank": 1021,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/4MoRLTAJY_0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=4MoRLTAJY_0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ヨルシカ - 藍二乗 (Music Video)",
+        "url": "https://www.youtube.com/watch?v=4MoRLTAJY_0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ヨルシカ / n-buna Official",
+        "url": "https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-12-27",
+      "viewCount": "4872万",
+      "likeCount": "32.9万",
+      "commentCount": "9446",
+      "increment_d7": "5.8万"
+    },
+    {
+      "rank": 1022,
       "thumb": {
         "img": "https://i.ytimg.com/vi/aqoeNOw4_uQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=aqoeNOw4_uQ",
@@ -570,473 +501,36 @@
         "target": "_blank"
       },
       "publishedAt": "2023-01-27",
-      "viewCount": "2006万",
+      "viewCount": "2007万",
       "likeCount": "19.9万",
       "commentCount": "2565",
       "increment_d7": "5.8万"
     },
     {
-      "rank": 1026,
+      "rank": 1023,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/byThUoq0TaU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=byThUoq0TaU",
+        "img": "https://i.ytimg.com/vi/WdLNw17xHLc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=WdLNw17xHLc",
         "target": "_blank"
       },
       "title": {
-        "text": "【LIVE】W/X/Y feat.優里【コラボ】",
-        "url": "https://www.youtube.com/watch?v=byThUoq0TaU",
+        "text": "Snow Man 「僕に大切にされてね。」Rec Ver.",
+        "url": "https://www.youtube.com/watch?v=WdLNw17xHLc",
         "target": "_blank"
       },
       "channel": {
-        "text": "Tani Yuuki",
-        "url": "https://www.youtube.com/channel/UCkPhQEwdob-Dc539qnJASvg",
+        "text": "Snow Man",
+        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
         "target": "_blank"
       },
-      "publishedAt": "2023-01-10",
-      "viewCount": "2179万",
-      "likeCount": "7.7万",
-      "commentCount": "1419",
-      "increment_d7": "5.8万"
-    },
-    {
-      "rank": 1027,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/o3whOgZwjkI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=o3whOgZwjkI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ロードオブメジャー / 大切なもの",
-        "url": "https://www.youtube.com/watch?v=o3whOgZwjkI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-08-22",
-      "viewCount": "4949万",
-      "likeCount": "10.7万",
-      "commentCount": "4832",
-      "increment_d7": "5.8万"
-    },
-    {
-      "rank": 1028,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/IGInsosP0Ac/default.jpg",
-        "url": "https://www.youtube.com/watch?v=IGInsosP0Ac",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ONE OK ROCK: Stand Out Fit In [OFFICIAL VIDEO]",
-        "url": "https://www.youtube.com/watch?v=IGInsosP0Ac",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ONE OK ROCK",
-        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-11-23",
-      "viewCount": "6711万",
-      "likeCount": "80.5万",
-      "commentCount": "2.6万",
-      "increment_d7": "5.8万"
-    },
-    {
-      "rank": 1029,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ErqUUYWfOBo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ErqUUYWfOBo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "決戦スピリット／CHiCO with HoneyWorks",
-        "url": "https://www.youtube.com/watch?v=ErqUUYWfOBo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "CHiCO / CHiCO with HoneyWorks",
-        "url": "https://www.youtube.com/channel/UCw9-qglgZw8J8m2rxe7bAXw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-02-27",
-      "viewCount": "3463万",
-      "likeCount": "34.3万",
-      "commentCount": "9657",
-      "increment_d7": "5.8万"
-    },
-    {
-      "rank": 1030,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/j9rax18IghI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=j9rax18IghI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Don't you see! （What a beautiful memory  2009）",
-        "url": "https://www.youtube.com/watch?v=j9rax18IghI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "zardofficial",
-        "url": "https://www.youtube.com/channel/UC9OXNkUKmf3bUx8N9l8jM2w",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-04-14",
-      "viewCount": "2358万",
-      "likeCount": "7.7万",
-      "commentCount": "1259",
-      "increment_d7": "5.8万"
-    },
-    {
-      "rank": 1031,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/8IK6eLTNV1k/default.jpg",
-        "url": "https://www.youtube.com/watch?v=8IK6eLTNV1k",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[MV] REOL - 宵々古今 / YoiYoi Kokon",
-        "url": "https://www.youtube.com/watch?v=8IK6eLTNV1k",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Reol Official",
-        "url": "https://www.youtube.com/channel/UCB6pJFaFByws3dQj4AdLdyA",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-09-15",
-      "viewCount": "6556万",
-      "likeCount": "51.7万",
-      "commentCount": "8430",
-      "increment_d7": "5.8万"
-    },
-    {
-      "rank": 1032,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/teMdjJ3w9iM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=teMdjJ3w9iM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "きゃりーぱみゅぱみゅ - にんじゃりばんばん,Kyary Pamyu Pamyu - Ninja Re Bang Bang",
-        "url": "https://www.youtube.com/watch?v=teMdjJ3w9iM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Warner Music Japan",
-        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-03-11",
-      "viewCount": "8088万",
-      "likeCount": "50.5万",
-      "commentCount": "3万",
-      "increment_d7": "5.7万"
-    },
-    {
-      "rank": 1033,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/B--iJ2pNvLU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=B--iJ2pNvLU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BUMP OF CHICKEN「クロノスタシス」",
-        "url": "https://www.youtube.com/watch?v=B--iJ2pNvLU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BUMP OF CHICKEN",
-        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-04-17",
-      "viewCount": "2338万",
-      "likeCount": "18.6万",
-      "commentCount": "5243",
-      "increment_d7": "5.7万"
-    },
-    {
-      "rank": 1034,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/msSGCeCrJos/default.jpg",
-        "url": "https://www.youtube.com/watch?v=msSGCeCrJos",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "RADWIMPS - ラストバージン [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=msSGCeCrJos",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "RADWIMPS",
-        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-11-13",
-      "viewCount": "1431万",
-      "likeCount": "8.9万",
-      "commentCount": "-",
-      "increment_d7": "5.7万"
-    },
-    {
-      "rank": 1035,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/GvD3CHA48pA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=GvD3CHA48pA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BABYMETAL - KARATE (OFFICIAL MUSIC VIDEO)",
-        "url": "https://www.youtube.com/watch?v=GvD3CHA48pA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BABYMETAL",
-        "url": "https://www.youtube.com/channel/UC33_tIj4m1_XaqfFcomShvw",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-03-18",
-      "viewCount": "8517万",
-      "likeCount": "102万",
-      "commentCount": "5.5万",
-      "increment_d7": "5.7万"
-    },
-    {
-      "rank": 1036,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/eWeSqrRk-gs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=eWeSqrRk-gs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "優里『メリーゴーランド』Official Music Video",
-        "url": "https://www.youtube.com/watch?v=eWeSqrRk-gs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "優里 Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCBNVZPlWoR7oArfzJNrK9yw",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-12-28",
-      "viewCount": "1664万",
-      "likeCount": "12.6万",
-      "commentCount": "3197",
-      "increment_d7": "5.7万"
-    },
-    {
-      "rank": 1037,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/35nV_M3asRs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=35nV_M3asRs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "インソムニア (INSOMNIA) – Eve Music Video",
-        "url": "https://www.youtube.com/watch?v=35nV_M3asRs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Eve",
-        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-06-09",
-      "viewCount": "1768万",
-      "likeCount": "35.7万",
-      "commentCount": "6172",
-      "increment_d7": "5.7万"
-    },
-    {
-      "rank": 1038,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Z2tedgbqJJs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Z2tedgbqJJs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Superfly 『タマシイレボリューション』Music Video",
-        "url": "https://www.youtube.com/watch?v=Z2tedgbqJJs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Superfly",
-        "url": "https://www.youtube.com/channel/UCW1vck-e025HMBwix6cW_qw",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-01-13",
-      "viewCount": "5160万",
-      "likeCount": "19.1万",
-      "commentCount": "5603",
-      "increment_d7": "5.7万"
-    },
-    {
-      "rank": 1039,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Gw96jPDtoDQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Gw96jPDtoDQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "虎狼来 (Kororon) - Eve Music Video",
-        "url": "https://www.youtube.com/watch?v=Gw96jPDtoDQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Eve",
-        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-08-27",
-      "viewCount": "1740万",
-      "likeCount": "44.8万",
-      "commentCount": "6165",
-      "increment_d7": "5.7万"
-    },
-    {
-      "rank": 1040,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/5cvXmuuC1GI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=5cvXmuuC1GI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SUPER BEAVER「人として」LIVE MV",
-        "url": "https://www.youtube.com/watch?v=5cvXmuuC1GI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SUPER BEAVER Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCKYG5wIg3B_QuwyiLXgGklA",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-06-18",
-      "viewCount": "1348万",
-      "likeCount": "11.4万",
-      "commentCount": "2243",
-      "increment_d7": "5.7万"
-    },
-    {
-      "rank": 1041,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/XOBjOWELu1o/default.jpg",
-        "url": "https://www.youtube.com/watch?v=XOBjOWELu1o",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SEAMO 『マタアイマショウ』15th Anniversary ver. Music Video（フル）",
-        "url": "https://www.youtube.com/watch?v=XOBjOWELu1o",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-12-18",
-      "viewCount": "1802万",
-      "likeCount": "5.5万",
-      "commentCount": "2616",
-      "increment_d7": "5.7万"
-    },
-    {
-      "rank": 1042,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/8lx0vLTH_yg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=8lx0vLTH_yg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "サカナクション / 多分、風。  -Music Video-",
-        "url": "https://www.youtube.com/watch?v=8lx0vLTH_yg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "サカナクション sakanaction",
-        "url": "https://www.youtube.com/channel/UCli_j3KPGhsF1Mv1AK17UPA",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-10-28",
-      "viewCount": "3645万",
-      "likeCount": "15.6万",
-      "commentCount": "588",
-      "increment_d7": "5.7万"
-    },
-    {
-      "rank": 1043,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/IiqfKF9BlcI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=IiqfKF9BlcI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "サカナクション / ネイティブダンサー",
-        "url": "https://www.youtube.com/watch?v=IiqfKF9BlcI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "hiplandmusic",
-        "url": "https://www.youtube.com/channel/UCqTp-NYHvYy96FDldAcPVUA",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-01-06",
-      "viewCount": "2533万",
-      "likeCount": "8.6万",
-      "commentCount": "3282",
-      "increment_d7": "5.7万"
-    },
-    {
-      "rank": 1044,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/As5jJ_qwCEI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=As5jJ_qwCEI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "「キリンさん」 ののちゃん（村方乃々佳）",
-        "url": "https://www.youtube.com/watch?v=As5jJ_qwCEI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "KING RECORDS",
-        "url": "https://www.youtube.com/channel/UC6KEU5-KSTszEOOnAl8ZwPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-01-11",
-      "viewCount": "2531万",
-      "likeCount": "3.1万",
-      "commentCount": "-",
-      "increment_d7": "5.7万"
-    },
-    {
-      "rank": 1045,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/FkXdPTA5URk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=FkXdPTA5URk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "E-Girls / Follow Me ～Short Version～",
-        "url": "https://www.youtube.com/watch?v=FkXdPTA5URk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-08-23",
-      "viewCount": "9422万",
-      "likeCount": "16.1万",
+      "publishedAt": "2022-07-13",
+      "viewCount": "3303万",
+      "likeCount": "-",
       "commentCount": "1.1万",
-      "increment_d7": "5.7万"
+      "increment_d7": "5.8万"
     },
     {
-      "rank": 1046,
+      "rank": 1024,
       "thumb": {
         "img": "https://i.ytimg.com/vi/CW-Dbbuk0uE/default.jpg",
         "url": "https://www.youtube.com/watch?v=CW-Dbbuk0uE",
@@ -1053,101 +547,607 @@
         "target": "_blank"
       },
       "publishedAt": "2020-10-10",
-      "viewCount": "1692万",
+      "viewCount": "1694万",
       "likeCount": "12.3万",
       "commentCount": "893",
+      "increment_d7": "5.8万"
+    },
+    {
+      "rank": 1025,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Oy7fhdAWvpk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Oy7fhdAWvpk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "悲しみは雪のように (ON THE ROAD 2011 \"The Last Weekend\")",
+        "url": "https://www.youtube.com/watch?v=Oy7fhdAWvpk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "浜田省吾 Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCS4Rrb_cE8F_Jo1XI4bNQdA",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-08-24",
+      "viewCount": "4011万",
+      "likeCount": "7.4万",
+      "commentCount": "3685",
+      "increment_d7": "5.8万"
+    },
+    {
+      "rank": 1026,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Ae6gQmhaMn4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Ae6gQmhaMn4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ゲスの極み乙女「私以外私じゃないの」",
+        "url": "https://www.youtube.com/watch?v=Ae6gQmhaMn4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ゲスの極み乙女 Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UC0pHUMEOtul5NlaT-Rt-34w",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-04-08",
+      "viewCount": "1億1034万",
+      "likeCount": "42.7万",
+      "commentCount": "3万",
+      "increment_d7": "5.8万"
+    },
+    {
+      "rank": 1027,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/sd4LIb8pm8s/default.jpg",
+        "url": "https://www.youtube.com/watch?v=sd4LIb8pm8s",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV】 マシュマロパンチ‪👊🏻💗 / しなこfeat. 午前0時のプリンセス / あぃりDX",
+        "url": "https://www.youtube.com/watch?v=sd4LIb8pm8s",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "しなこ Shinako / ASMR",
+        "url": "https://www.youtube.com/channel/UCSPkmZyeHlDNE-6YMSg5Fbg",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-12-25",
+      "viewCount": "1138万",
+      "likeCount": "4.1万",
+      "commentCount": "2454",
+      "increment_d7": "5.8万"
+    },
+    {
+      "rank": 1028,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/GvD3CHA48pA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=GvD3CHA48pA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BABYMETAL - KARATE (OFFICIAL MUSIC VIDEO)",
+        "url": "https://www.youtube.com/watch?v=GvD3CHA48pA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BABYMETAL",
+        "url": "https://www.youtube.com/channel/UC33_tIj4m1_XaqfFcomShvw",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-03-18",
+      "viewCount": "8519万",
+      "likeCount": "102万",
+      "commentCount": "5.5万",
+      "increment_d7": "5.8万"
+    },
+    {
+      "rank": 1029,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/F9L7QAL5m5g/default.jpg",
+        "url": "https://www.youtube.com/watch?v=F9L7QAL5m5g",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BUMP OF CHICKEN「sailing day」",
+        "url": "https://www.youtube.com/watch?v=F9L7QAL5m5g",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BUMP OF CHICKEN",
+        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-12-10",
+      "viewCount": "3036万",
+      "likeCount": "8.9万",
+      "commentCount": "4811",
+      "increment_d7": "5.8万"
+    },
+    {
+      "rank": 1030,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Gw96jPDtoDQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Gw96jPDtoDQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "虎狼来 (Kororon) - Eve Music Video",
+        "url": "https://www.youtube.com/watch?v=Gw96jPDtoDQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Eve",
+        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-08-27",
+      "viewCount": "1742万",
+      "likeCount": "44.8万",
+      "commentCount": "6166",
+      "increment_d7": "5.8万"
+    },
+    {
+      "rank": 1031,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/As5jJ_qwCEI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=As5jJ_qwCEI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "「キリンさん」 ののちゃん（村方乃々佳）",
+        "url": "https://www.youtube.com/watch?v=As5jJ_qwCEI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "KING RECORDS",
+        "url": "https://www.youtube.com/channel/UC6KEU5-KSTszEOOnAl8ZwPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-01-11",
+      "viewCount": "2533万",
+      "likeCount": "3.1万",
+      "commentCount": "-",
+      "increment_d7": "5.8万"
+    },
+    {
+      "rank": 1032,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/R3V4sAXUJ-g/default.jpg",
+        "url": "https://www.youtube.com/watch?v=R3V4sAXUJ-g",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ - U",
+        "url": "https://www.youtube.com/watch?v=R3V4sAXUJ-g",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "MILLENNIUM PARADE Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UChex1vr4WtFu-OsAukjuYCA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-07-15",
+      "viewCount": "6402万",
+      "likeCount": "57.9万",
+      "commentCount": "1.4万",
+      "increment_d7": "5.8万"
+    },
+    {
+      "rank": 1033,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ucbx9we6EHk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ucbx9we6EHk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV】女の子になりたい／まふまふ",
+        "url": "https://www.youtube.com/watch?v=ucbx9we6EHk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "まふまふちゃんねる",
+        "url": "https://www.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-10-19",
+      "viewCount": "5148万",
+      "likeCount": "80.9万",
+      "commentCount": "5.8万",
+      "increment_d7": "5.8万"
+    },
+    {
+      "rank": 1034,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/18H2Uc9_7I0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=18H2Uc9_7I0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【公式】PENICILLIN「ロマンス」(MV)【8thシングル】ペニシリン/Romance",
+        "url": "https://www.youtube.com/watch?v=18H2Uc9_7I0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Warner Music Japan",
+        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-08-17",
+      "viewCount": "1201万",
+      "likeCount": "6.9万",
+      "commentCount": "3317",
       "increment_d7": "5.7万"
+    },
+    {
+      "rank": 1035,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/XeFQJ6-XoD0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=XeFQJ6-XoD0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "米津玄師 - カムパネルラ  Kenshi Yonezu - Campanella",
+        "url": "https://www.youtube.com/watch?v=XeFQJ6-XoD0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-08-04",
+      "viewCount": "4286万",
+      "likeCount": "37.5万",
+      "commentCount": "3万",
+      "increment_d7": "5.7万"
+    },
+    {
+      "rank": 1036,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/iAOTwdlEdVg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=iAOTwdlEdVg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "あの夢をなぞって",
+        "url": "https://www.youtube.com/watch?v=iAOTwdlEdVg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-01-17",
+      "viewCount": "2010万",
+      "likeCount": "9.4万",
+      "commentCount": "394",
+      "increment_d7": "5.7万"
+    },
+    {
+      "rank": 1037,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/iSsct7423J4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=iSsct7423J4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ウ”ィ”エ”",
+        "url": "https://www.youtube.com/watch?v=iSsct7423J4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "バーバパパ",
+        "url": "https://www.youtube.com/channel/UC8xkzBruPP96NI22ki4mB_w",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-07-22",
+      "viewCount": "4928万",
+      "likeCount": "64万",
+      "commentCount": "15.8万",
+      "increment_d7": "5.7万"
+    },
+    {
+      "rank": 1038,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/o3whOgZwjkI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=o3whOgZwjkI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ロードオブメジャー / 大切なもの",
+        "url": "https://www.youtube.com/watch?v=o3whOgZwjkI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-08-22",
+      "viewCount": "4951万",
+      "likeCount": "10.7万",
+      "commentCount": "4836",
+      "increment_d7": "5.7万"
+    },
+    {
+      "rank": 1039,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/IGInsosP0Ac/default.jpg",
+        "url": "https://www.youtube.com/watch?v=IGInsosP0Ac",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ONE OK ROCK: Stand Out Fit In [OFFICIAL VIDEO]",
+        "url": "https://www.youtube.com/watch?v=IGInsosP0Ac",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ONE OK ROCK",
+        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-11-23",
+      "viewCount": "6713万",
+      "likeCount": "80.5万",
+      "commentCount": "2.6万",
+      "increment_d7": "5.7万"
+    },
+    {
+      "rank": 1040,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/C-xF2MAFw5s/default.jpg",
+        "url": "https://www.youtube.com/watch?v=C-xF2MAFw5s",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ONE OK ROCK - C.h.a.o.s.m.y.t.h. [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=C-xF2MAFw5s",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ONE OK ROCK",
+        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-04-09",
+      "viewCount": "5895万",
+      "likeCount": "27万",
+      "commentCount": "8214",
+      "increment_d7": "5.7万"
+    },
+    {
+      "rank": 1041,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/j9rax18IghI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=j9rax18IghI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Don't you see! （What a beautiful memory  2009）",
+        "url": "https://www.youtube.com/watch?v=j9rax18IghI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "zardofficial",
+        "url": "https://www.youtube.com/channel/UC9OXNkUKmf3bUx8N9l8jM2w",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-04-14",
+      "viewCount": "2360万",
+      "likeCount": "7.7万",
+      "commentCount": "1259",
+      "increment_d7": "5.7万"
+    },
+    {
+      "rank": 1042,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/t5gbZCkpYmI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=t5gbZCkpYmI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "aiko- 『ストロー』music video",
+        "url": "https://www.youtube.com/watch?v=t5gbZCkpYmI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "aikoOfficial",
+        "url": "https://www.youtube.com/channel/UCtLQyS4toPOarqufGUxTtIQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-02-25",
+      "viewCount": "1512万",
+      "likeCount": "-",
+      "commentCount": "991",
+      "increment_d7": "5.7万"
+    },
+    {
+      "rank": 1043,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/GVFR9zmQjec/default.jpg",
+        "url": "https://www.youtube.com/watch?v=GVFR9zmQjec",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "AAA / 「さよならの前に」Music Video",
+        "url": "https://www.youtube.com/watch?v=GVFR9zmQjec",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-08-14",
+      "viewCount": "1億2233万",
+      "likeCount": "33.5万",
+      "commentCount": "2万",
+      "increment_d7": "5.6万"
+    },
+    {
+      "rank": 1044,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/q6T0wOMsNrI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=q6T0wOMsNrI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[Official Music Video] Perfume 「FLASH」",
+        "url": "https://www.youtube.com/watch?v=q6T0wOMsNrI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Perfume",
+        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-04-12",
+      "viewCount": "8356万",
+      "likeCount": "33.8万",
+      "commentCount": "1.3万",
+      "increment_d7": "5.6万"
+    },
+    {
+      "rank": 1045,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/8IK6eLTNV1k/default.jpg",
+        "url": "https://www.youtube.com/watch?v=8IK6eLTNV1k",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[MV] REOL - 宵々古今 / YoiYoi Kokon",
+        "url": "https://www.youtube.com/watch?v=8IK6eLTNV1k",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Reol Official",
+        "url": "https://www.youtube.com/channel/UCB6pJFaFByws3dQj4AdLdyA",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-09-15",
+      "viewCount": "6558万",
+      "likeCount": "51.7万",
+      "commentCount": "8433",
+      "increment_d7": "5.6万"
+    },
+    {
+      "rank": 1046,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/07SWfNXgKGo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=07SWfNXgKGo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "三原色",
+        "url": "https://www.youtube.com/watch?v=07SWfNXgKGo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-11-30",
+      "viewCount": "1226万",
+      "likeCount": "5.1万",
+      "commentCount": "100",
+      "increment_d7": "5.6万"
     },
     {
       "rank": 1047,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/aIXcSB9fSyo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=aIXcSB9fSyo",
+        "img": "https://i.ytimg.com/vi/z2TNnnQbGJs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=z2TNnnQbGJs",
         "target": "_blank"
       },
       "title": {
-        "text": "Aぇ! group「《A》BEGINNING」Official Music Video - Streaming Ver. -",
-        "url": "https://www.youtube.com/watch?v=aIXcSB9fSyo",
+        "text": "サカナクション / ミュージック　-Music Video-",
+        "url": "https://www.youtube.com/watch?v=z2TNnnQbGJs",
         "target": "_blank"
       },
       "channel": {
-        "text": "Aぇ! group",
-        "url": "https://www.youtube.com/channel/UCkHCieVhC_HXVRmnWGWcB1A",
+        "text": "サカナクション sakanaction",
+        "url": "https://www.youtube.com/channel/UCli_j3KPGhsF1Mv1AK17UPA",
         "target": "_blank"
       },
-      "publishedAt": "2024-04-15",
-      "viewCount": "1334万",
-      "likeCount": "11.9万",
-      "commentCount": "4.2万",
-      "increment_d7": "5.7万"
+      "publishedAt": "2015-09-26",
+      "viewCount": "1255万",
+      "likeCount": "6.6万",
+      "commentCount": "695",
+      "increment_d7": "5.6万"
     },
     {
       "rank": 1048,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/ztJM-3N33hc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ztJM-3N33hc",
+        "img": "https://i.ytimg.com/vi/XOBjOWELu1o/default.jpg",
+        "url": "https://www.youtube.com/watch?v=XOBjOWELu1o",
         "target": "_blank"
       },
       "title": {
-        "text": "Snow Man「REFRESH」Dance Video YouTube Ver.",
-        "url": "https://www.youtube.com/watch?v=ztJM-3N33hc",
+        "text": "SEAMO 『マタアイマショウ』15th Anniversary ver. Music Video（フル）",
+        "url": "https://www.youtube.com/watch?v=XOBjOWELu1o",
         "target": "_blank"
       },
       "channel": {
-        "text": "Snow Man",
-        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
         "target": "_blank"
       },
-      "publishedAt": "2022-03-16",
-      "viewCount": "3301万",
-      "likeCount": "-",
-      "commentCount": "8933",
-      "increment_d7": "5.7万"
+      "publishedAt": "2019-12-18",
+      "viewCount": "1804万",
+      "likeCount": "5.5万",
+      "commentCount": "2623",
+      "increment_d7": "5.6万"
     },
     {
       "rank": 1049,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/qK9k2J-ZkGU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=qK9k2J-ZkGU",
+        "img": "https://i.ytimg.com/vi/msSGCeCrJos/default.jpg",
+        "url": "https://www.youtube.com/watch?v=msSGCeCrJos",
         "target": "_blank"
       },
       "title": {
-        "text": "乃木坂46『Monopoly』",
-        "url": "https://www.youtube.com/watch?v=qK9k2J-ZkGU",
+        "text": "RADWIMPS - ラストバージン [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=msSGCeCrJos",
         "target": "_blank"
       },
       "channel": {
-        "text": "乃木坂46 OFFICIAL YouTube CHANNEL",
-        "url": "https://www.youtube.com/channel/UCUzpZpX2wRYOk3J8QTFGxDg",
+        "text": "RADWIMPS",
+        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
         "target": "_blank"
       },
-      "publishedAt": "2023-11-22",
-      "viewCount": "1261万",
-      "likeCount": "6.9万",
-      "commentCount": "1万",
-      "increment_d7": "5.7万"
+      "publishedAt": "2013-11-13",
+      "viewCount": "1433万",
+      "likeCount": "8.9万",
+      "commentCount": "-",
+      "increment_d7": "5.6万"
     },
     {
       "rank": 1050,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/rI6KKXJ1TUg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=rI6KKXJ1TUg",
+        "img": "https://i.ytimg.com/vi/B--iJ2pNvLU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=B--iJ2pNvLU",
         "target": "_blank"
       },
       "title": {
-        "text": "Summer",
-        "url": "https://www.youtube.com/watch?v=rI6KKXJ1TUg",
+        "text": "BUMP OF CHICKEN「クロノスタシス」",
+        "url": "https://www.youtube.com/watch?v=B--iJ2pNvLU",
         "target": "_blank"
       },
       "channel": {
-        "text": "Joe Hisaishi - Topic",
-        "url": "https://www.youtube.com/channel/UCeoT9BqyKRktIHvQnWE8zug",
+        "text": "BUMP OF CHICKEN",
+        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
         "target": "_blank"
       },
-      "publishedAt": "2020-02-20",
-      "viewCount": "1366万",
-      "likeCount": "10.5万",
-      "commentCount": "1333",
+      "publishedAt": "2022-04-17",
+      "viewCount": "2340万",
+      "likeCount": "18.6万",
+      "commentCount": "5244",
       "increment_d7": "5.6万"
     }
   ]
