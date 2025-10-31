@@ -18,10 +18,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-14",
-      "viewCount": "1101万",
+      "viewCount": "1102万",
       "likeCount": "-",
       "commentCount": "1.7万",
-      "increment_d1": "334"
+      "increment_d1": "557"
     },
     {
       "rank": 3052,
@@ -44,7 +44,7 @@
       "viewCount": "1101万",
       "likeCount": "-",
       "commentCount": "6683",
-      "increment_d1": "523"
+      "increment_d1": "951"
     },
     {
       "rank": 3053,
@@ -67,7 +67,7 @@
       "viewCount": "1101万",
       "likeCount": "4.1万",
       "commentCount": "2303",
-      "increment_d1": "1107"
+      "increment_d1": "1613"
     },
     {
       "rank": 3054,
@@ -90,33 +90,10 @@
       "viewCount": "1100万",
       "likeCount": "3.8万",
       "commentCount": "670",
-      "increment_d1": "244"
+      "increment_d1": "418"
     },
     {
       "rank": 3055,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/LNSh0JHUfgg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=LNSh0JHUfgg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow Man「D.D.」（from「Snow Man ASIA TOUR 2D.2D.」）",
-        "url": "https://www.youtube.com/watch?v=LNSh0JHUfgg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Snow Man",
-        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-02-03",
-      "viewCount": "1100万",
-      "likeCount": "-",
-      "commentCount": "6890",
-      "increment_d1": "929"
-    },
-    {
-      "rank": 3056,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Xhkvge0rrss/default.jpg",
         "url": "https://www.youtube.com/watch?v=Xhkvge0rrss",
@@ -136,56 +113,33 @@
       "viewCount": "1100万",
       "likeCount": "4.7万",
       "commentCount": "1240",
-      "increment_d1": "1758"
+      "increment_d1": "2921"
+    },
+    {
+      "rank": 3056,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/LNSh0JHUfgg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=LNSh0JHUfgg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow Man「D.D.」（from「Snow Man ASIA TOUR 2D.2D.」）",
+        "url": "https://www.youtube.com/watch?v=LNSh0JHUfgg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Snow Man",
+        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-02-03",
+      "viewCount": "1100万",
+      "likeCount": "-",
+      "commentCount": "6890",
+      "increment_d1": "1323"
     },
     {
       "rank": 3057,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/WMzlv_g6FSY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=WMzlv_g6FSY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "菅田将暉×中村倫也 『サンキュー神様』",
-        "url": "https://www.youtube.com/watch?v=WMzlv_g6FSY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "菅田将暉 Official Channel",
-        "url": "https://www.youtube.com/channel/UCn2UPKO76hTLYEUVzVMBAeg",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-08-27",
-      "viewCount": "1099万",
-      "likeCount": "9.2万",
-      "commentCount": "2685",
-      "increment_d1": "254"
-    },
-    {
-      "rank": 3058,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/XQTM2M5iD_I/default.jpg",
-        "url": "https://www.youtube.com/watch?v=XQTM2M5iD_I",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "泣き地蔵 / Vaundy：MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=XQTM2M5iD_I",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Vaundy",
-        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-10-18",
-      "viewCount": "1099万",
-      "likeCount": "10.3万",
-      "commentCount": "1466",
-      "increment_d1": "1437"
-    },
-    {
-      "rank": 3059,
       "thumb": {
         "img": "https://i.ytimg.com/vi/DvAwGsPX-_0/default.jpg",
         "url": "https://www.youtube.com/watch?v=DvAwGsPX-_0",
@@ -205,10 +159,79 @@
       "viewCount": "1099万",
       "likeCount": "2.8万",
       "commentCount": "62",
-      "increment_d1": "4454"
+      "increment_d1": "8487"
+    },
+    {
+      "rank": 3058,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/WMzlv_g6FSY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=WMzlv_g6FSY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "菅田将暉×中村倫也 『サンキュー神様』",
+        "url": "https://www.youtube.com/watch?v=WMzlv_g6FSY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "菅田将暉 Official Channel",
+        "url": "https://www.youtube.com/channel/UCn2UPKO76hTLYEUVzVMBAeg",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-08-27",
+      "viewCount": "1099万",
+      "likeCount": "9.2万",
+      "commentCount": "2685",
+      "increment_d1": "487"
+    },
+    {
+      "rank": 3059,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/XQTM2M5iD_I/default.jpg",
+        "url": "https://www.youtube.com/watch?v=XQTM2M5iD_I",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "泣き地蔵 / Vaundy：MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=XQTM2M5iD_I",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Vaundy",
+        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-10-18",
+      "viewCount": "1099万",
+      "likeCount": "10.3万",
+      "commentCount": "1466",
+      "increment_d1": "2156"
     },
     {
       "rank": 3060,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/wQbVEC5ttEA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=wQbVEC5ttEA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Sexy Zone ｢夏のハイドレンジア｣ Lyric Video",
+        "url": "https://www.youtube.com/watch?v=wQbVEC5ttEA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "timelesz [タイムレス]",
+        "url": "https://www.youtube.com/channel/UCgXJMvOBqHk5wJFRKZfIgWQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-08-01",
+      "viewCount": "1099万",
+      "likeCount": "-",
+      "commentCount": "3990",
+      "increment_d1": "3303"
+    },
+    {
+      "rank": 3061,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Sfz5TpCRSiI/default.jpg",
         "url": "https://www.youtube.com/watch?v=Sfz5TpCRSiI",
@@ -228,30 +251,7 @@
       "viewCount": "1099万",
       "likeCount": "14.6万",
       "commentCount": "3754",
-      "increment_d1": "1189"
-    },
-    {
-      "rank": 3061,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/wQbVEC5ttEA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=wQbVEC5ttEA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Sexy Zone ｢夏のハイドレンジア｣ Lyric Video",
-        "url": "https://www.youtube.com/watch?v=wQbVEC5ttEA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "timelesz [タイムレス]",
-        "url": "https://www.youtube.com/channel/UCgXJMvOBqHk5wJFRKZfIgWQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-08-01",
-      "viewCount": "1098万",
-      "likeCount": "-",
-      "commentCount": "3987",
-      "increment_d1": "1627"
+      "increment_d1": "2267"
     },
     {
       "rank": 3062,
@@ -273,8 +273,8 @@
       "publishedAt": "2011-02-07",
       "viewCount": "1098万",
       "likeCount": "6.3万",
-      "commentCount": "3400",
-      "increment_d1": "632"
+      "commentCount": "3401",
+      "increment_d1": "950"
     },
     {
       "rank": 3063,
@@ -296,8 +296,8 @@
       "publishedAt": "2015-05-25",
       "viewCount": "1098万",
       "likeCount": "7.4万",
-      "commentCount": "1383",
-      "increment_d1": "553"
+      "commentCount": "1384",
+      "increment_d1": "870"
     },
     {
       "rank": 3064,
@@ -320,7 +320,7 @@
       "viewCount": "1098万",
       "likeCount": "2.6万",
       "commentCount": "734",
-      "increment_d1": "469"
+      "increment_d1": "856"
     },
     {
       "rank": 3065,
@@ -343,7 +343,7 @@
       "viewCount": "1097万",
       "likeCount": "4.6万",
       "commentCount": "2356",
-      "increment_d1": "141"
+      "increment_d1": "152"
     },
     {
       "rank": 3066,
@@ -366,7 +366,7 @@
       "viewCount": "1097万",
       "likeCount": "2.7万",
       "commentCount": "1194",
-      "increment_d1": "195"
+      "increment_d1": "201"
     },
     {
       "rank": 3067,
@@ -389,7 +389,7 @@
       "viewCount": "1097万",
       "likeCount": "1.9万",
       "commentCount": "1064",
-      "increment_d1": "81"
+      "increment_d1": "139"
     },
     {
       "rank": 3068,
@@ -411,11 +411,34 @@
       "publishedAt": "2023-01-16",
       "viewCount": "1097万",
       "likeCount": "5.7万",
-      "commentCount": "1247",
-      "increment_d1": "1652"
+      "commentCount": "1249",
+      "increment_d1": "2577"
     },
     {
       "rank": 3069,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/B50A9Nf5FCE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=B50A9Nf5FCE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "置き手紙 / Vaundy：MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=B50A9Nf5FCE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Vaundy",
+        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-11-28",
+      "viewCount": "1097万",
+      "likeCount": "5.8万",
+      "commentCount": "1169",
+      "increment_d1": "2289"
+    },
+    {
+      "rank": 3070,
       "thumb": {
         "img": "https://i.ytimg.com/vi/lBmH1VsdD80/default.jpg",
         "url": "https://www.youtube.com/watch?v=lBmH1VsdD80",
@@ -435,30 +458,7 @@
       "viewCount": "1097万",
       "likeCount": "14.8万",
       "commentCount": "3288",
-      "increment_d1": "209"
-    },
-    {
-      "rank": 3070,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/B50A9Nf5FCE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=B50A9Nf5FCE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "置き手紙 / Vaundy：MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=B50A9Nf5FCE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Vaundy",
-        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-11-28",
-      "viewCount": "1096万",
-      "likeCount": "5.8万",
-      "commentCount": "1169",
-      "increment_d1": "1437"
+      "increment_d1": "247"
     },
     {
       "rank": 3071,
@@ -481,7 +481,7 @@
       "viewCount": "1096万",
       "likeCount": "17.2万",
       "commentCount": "2970",
-      "increment_d1": "1211"
+      "increment_d1": "1961"
     },
     {
       "rank": 3072,
@@ -504,10 +504,33 @@
       "viewCount": "1096万",
       "likeCount": "2.7万",
       "commentCount": "1242",
-      "increment_d1": "45"
+      "increment_d1": "91"
     },
     {
       "rank": 3073,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/EZZx5VkZtw8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=EZZx5VkZtw8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "アイナ・ジ・エンド - アイコトバ [Official Music Video]（TVアニメ『薬屋のひとりごと』エンディングテーマ）",
+        "url": "https://www.youtube.com/watch?v=EZZx5VkZtw8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "アイナ・ジ・エンド Official",
+        "url": "https://www.youtube.com/channel/UCFPb0Vc0Cjd3MpDOlHPQoPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-11-13",
+      "viewCount": "1096万",
+      "likeCount": "7.7万",
+      "commentCount": "1184",
+      "increment_d1": "6737"
+    },
+    {
+      "rank": 3074,
       "thumb": {
         "img": "https://i.ytimg.com/vi/CzRqaoq_4Nw/default.jpg",
         "url": "https://www.youtube.com/watch?v=CzRqaoq_4Nw",
@@ -527,30 +550,7 @@
       "viewCount": "1095万",
       "likeCount": "23.7万",
       "commentCount": "3259",
-      "increment_d1": "1646"
-    },
-    {
-      "rank": 3074,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/EZZx5VkZtw8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=EZZx5VkZtw8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "アイナ・ジ・エンド - アイコトバ [Official Music Video]（TVアニメ『薬屋のひとりごと』エンディングテーマ）",
-        "url": "https://www.youtube.com/watch?v=EZZx5VkZtw8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アイナ・ジ・エンド Official",
-        "url": "https://www.youtube.com/channel/UCFPb0Vc0Cjd3MpDOlHPQoPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-11-13",
-      "viewCount": "1095万",
-      "likeCount": "7.7万",
-      "commentCount": "1184",
-      "increment_d1": "4202"
+      "increment_d1": "2303"
     },
     {
       "rank": 3075,
@@ -573,7 +573,7 @@
       "viewCount": "1094万",
       "likeCount": "2.5万",
       "commentCount": "1583",
-      "increment_d1": "724"
+      "increment_d1": "1425"
     },
     {
       "rank": 3076,
@@ -596,10 +596,33 @@
       "viewCount": "1094万",
       "likeCount": "2.6万",
       "commentCount": "1530",
-      "increment_d1": "405"
+      "increment_d1": "543"
     },
     {
       "rank": 3077,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/mf-RrGndfC8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=mf-RrGndfC8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "スピッツ / スパイダー",
+        "url": "https://www.youtube.com/watch?v=mf-RrGndfC8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "spitzclips",
+        "url": "https://www.youtube.com/channel/UCEAOVoVVtVBhcn7vLIQIkDA",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-04-16",
+      "viewCount": "1094万",
+      "likeCount": "4万",
+      "commentCount": "2001",
+      "increment_d1": "4046"
+    },
+    {
+      "rank": 3078,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ctQOziJeYoA/default.jpg",
         "url": "https://www.youtube.com/watch?v=ctQOziJeYoA",
@@ -618,31 +641,8 @@
       "publishedAt": "2014-06-18",
       "viewCount": "1093万",
       "likeCount": "3万",
-      "commentCount": "690",
-      "increment_d1": "341"
-    },
-    {
-      "rank": 3078,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/mf-RrGndfC8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=mf-RrGndfC8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "スピッツ / スパイダー",
-        "url": "https://www.youtube.com/watch?v=mf-RrGndfC8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "spitzclips",
-        "url": "https://www.youtube.com/channel/UCEAOVoVVtVBhcn7vLIQIkDA",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-04-16",
-      "viewCount": "1093万",
-      "likeCount": "4万",
-      "commentCount": "2000",
-      "increment_d1": "2503"
+      "commentCount": "691",
+      "increment_d1": "469"
     },
     {
       "rank": 3079,
@@ -664,8 +664,8 @@
       "publishedAt": "2015-06-18",
       "viewCount": "1093万",
       "likeCount": "3.6万",
-      "commentCount": "1159",
-      "increment_d1": "454"
+      "commentCount": "1158",
+      "increment_d1": "662"
     },
     {
       "rank": 3080,
@@ -685,10 +685,10 @@
         "target": "_blank"
       },
       "publishedAt": "2009-08-10",
-      "viewCount": "1092万",
+      "viewCount": "1093万",
       "likeCount": "2.4万",
       "commentCount": "1245",
-      "increment_d1": "391"
+      "increment_d1": "717"
     },
     {
       "rank": 3081,
@@ -711,7 +711,7 @@
       "viewCount": "1092万",
       "likeCount": "3.1万",
       "commentCount": "1173",
-      "increment_d1": "1133"
+      "increment_d1": "1623"
     },
     {
       "rank": 3082,
@@ -733,8 +733,8 @@
       "publishedAt": "2013-05-28",
       "viewCount": "1092万",
       "likeCount": "3.6万",
-      "commentCount": "1735",
-      "increment_d1": "1357"
+      "commentCount": "1732",
+      "increment_d1": "2085"
     },
     {
       "rank": 3083,
@@ -757,7 +757,7 @@
       "viewCount": "1092万",
       "likeCount": "-",
       "commentCount": "4020",
-      "increment_d1": "680"
+      "increment_d1": "916"
     },
     {
       "rank": 3084,
@@ -780,7 +780,7 @@
       "viewCount": "1092万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "700"
+      "increment_d1": "1061"
     },
     {
       "rank": 3085,
@@ -803,7 +803,7 @@
       "viewCount": "1092万",
       "likeCount": "4.6万",
       "commentCount": "1996",
-      "increment_d1": "333"
+      "increment_d1": "541"
     },
     {
       "rank": 3086,
@@ -826,7 +826,7 @@
       "viewCount": "1091万",
       "likeCount": "7.4万",
       "commentCount": "34",
-      "increment_d1": "151"
+      "increment_d1": "685"
     },
     {
       "rank": 3087,
@@ -848,8 +848,8 @@
       "publishedAt": "2014-10-22",
       "viewCount": "1091万",
       "likeCount": "7.7万",
-      "commentCount": "2302",
-      "increment_d1": "388"
+      "commentCount": "2303",
+      "increment_d1": "800"
     },
     {
       "rank": 3088,
@@ -869,10 +869,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-09",
-      "viewCount": "1090万",
+      "viewCount": "1091万",
       "likeCount": "18万",
       "commentCount": "1803",
-      "increment_d1": "1517"
+      "increment_d1": "2969"
     },
     {
       "rank": 3089,
@@ -895,7 +895,7 @@
       "viewCount": "1090万",
       "likeCount": "1.8万",
       "commentCount": "1815",
-      "increment_d1": "158"
+      "increment_d1": "273"
     },
     {
       "rank": 3090,
@@ -915,10 +915,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-29",
-      "viewCount": "1089万",
+      "viewCount": "1090万",
       "likeCount": "-",
       "commentCount": "4306",
-      "increment_d1": "1678"
+      "increment_d1": "2803"
     },
     {
       "rank": 3091,
@@ -938,10 +938,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-08",
-      "viewCount": "1089万",
+      "viewCount": "1090万",
       "likeCount": "-",
       "commentCount": "7934",
-      "increment_d1": "1053"
+      "increment_d1": "2031"
     },
     {
       "rank": 3092,
@@ -964,7 +964,7 @@
       "viewCount": "1089万",
       "likeCount": "4.6万",
       "commentCount": "100",
-      "increment_d1": "3905"
+      "increment_d1": "6993"
     },
     {
       "rank": 3093,
@@ -987,7 +987,7 @@
       "viewCount": "1088万",
       "likeCount": "23万",
       "commentCount": "1.9万",
-      "increment_d1": "174"
+      "increment_d1": "442"
     },
     {
       "rank": 3094,
@@ -1009,34 +1009,11 @@
       "publishedAt": "2014-03-11",
       "viewCount": "1088万",
       "likeCount": "8万",
-      "commentCount": "2832",
-      "increment_d1": "1623"
+      "commentCount": "2833",
+      "increment_d1": "2164"
     },
     {
       "rank": 3095,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/4HaG6yshADA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=4HaG6yshADA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【借金替え歌】うっせぇわ【粗品】",
-        "url": "https://www.youtube.com/watch?v=4HaG6yshADA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "粗品 Official Channel",
-        "url": "https://www.youtube.com/channel/UC1H5dv45x2aFKk-6JZLSWIQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-02-11",
-      "viewCount": "1086万",
-      "likeCount": "21.2万",
-      "commentCount": "6493",
-      "increment_d1": "148"
-    },
-    {
-      "rank": 3096,
       "thumb": {
         "img": "https://i.ytimg.com/vi/lOGwN-W1fpM/default.jpg",
         "url": "https://www.youtube.com/watch?v=lOGwN-W1fpM",
@@ -1056,10 +1033,10 @@
       "viewCount": "1086万",
       "likeCount": "8.8万",
       "commentCount": "162",
-      "increment_d1": "1674"
+      "increment_d1": "3690"
     },
     {
-      "rank": 3097,
+      "rank": 3096,
       "thumb": {
         "img": "https://i.ytimg.com/vi/M3J1KRD1H1Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=M3J1KRD1H1Q",
@@ -1079,10 +1056,56 @@
       "viewCount": "1086万",
       "likeCount": "8.6万",
       "commentCount": "2214",
-      "increment_d1": "1227"
+      "increment_d1": "2073"
+    },
+    {
+      "rank": 3097,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/4HaG6yshADA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=4HaG6yshADA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【借金替え歌】うっせぇわ【粗品】",
+        "url": "https://www.youtube.com/watch?v=4HaG6yshADA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "粗品 Official Channel",
+        "url": "https://www.youtube.com/channel/UC1H5dv45x2aFKk-6JZLSWIQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-02-11",
+      "viewCount": "1086万",
+      "likeCount": "21.2万",
+      "commentCount": "6493",
+      "increment_d1": "205"
     },
     {
       "rank": 3098,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/E3UDqofqcc4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=E3UDqofqcc4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – Loneliness 【LIVE “NOAH no HAKOBUNE” on WOWOWプラス】",
+        "url": "https://www.youtube.com/watch?v=E3UDqofqcc4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-09-21",
+      "viewCount": "1086万",
+      "likeCount": "7.8万",
+      "commentCount": "2676",
+      "increment_d1": "1.01万"
+    },
+    {
+      "rank": 3099,
       "thumb": {
         "img": "https://i.ytimg.com/vi/6IKqsDuUqWw/default.jpg",
         "url": "https://www.youtube.com/watch?v=6IKqsDuUqWw",
@@ -1102,10 +1125,10 @@
       "viewCount": "1086万",
       "likeCount": "11万",
       "commentCount": "3175",
-      "increment_d1": "413"
+      "increment_d1": "889"
     },
     {
-      "rank": 3099,
+      "rank": 3100,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Ueibw7AdCmI/default.jpg",
         "url": "https://www.youtube.com/watch?v=Ueibw7AdCmI",
@@ -1122,33 +1145,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-23",
-      "viewCount": "1085万",
+      "viewCount": "1086万",
       "likeCount": "16.5万",
       "commentCount": "7116",
-      "increment_d1": "2139"
-    },
-    {
-      "rank": 3100,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/E3UDqofqcc4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=E3UDqofqcc4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – Loneliness 【LIVE “NOAH no HAKOBUNE” on WOWOWプラス】",
-        "url": "https://www.youtube.com/watch?v=E3UDqofqcc4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-09-21",
-      "viewCount": "1085万",
-      "likeCount": "7.8万",
-      "commentCount": "2676",
-      "increment_d1": "5904"
+      "increment_d1": "3255"
     }
   ]
 }

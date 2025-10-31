@@ -3,6 +3,28 @@
     {
       "rank": 3051,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/HlXVnUl7Z3Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=HlXVnUl7Z3Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "加藤ミリヤ　『Love is...』",
+        "url": "https://www.youtube.com/watch?v=HlXVnUl7Z3Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "加藤ミリヤ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCqT7VnHfRlvZU8mGU-HAvGw",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-06-13",
+      "viewCount": "1283万",
+      "likeCount": "2.2万",
+      "commentCount": "510"
+    },
+    {
+      "rank": 3051,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/xzqKMITzbSo/default.jpg",
         "url": "https://www.youtube.com/watch?v=xzqKMITzbSo",
         "target": "_blank"
@@ -23,28 +45,6 @@
       "commentCount": "510"
     },
     {
-      "rank": 3051,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/HlXVnUl7Z3Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=HlXVnUl7Z3Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "加藤ミリヤ　『Love is...』",
-        "url": "https://www.youtube.com/watch?v=HlXVnUl7Z3Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "加藤ミリヤ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCqT7VnHfRlvZU8mGU-HAvGw",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-06-13",
-      "viewCount": "1282万",
-      "likeCount": "2.2万",
-      "commentCount": "510"
-    },
-    {
       "rank": 3053,
       "thumb": {
         "img": "https://i.ytimg.com/vi/2I25AFSBm2g/default.jpg",
@@ -62,7 +62,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-09-26",
-      "viewCount": "1873万",
+      "viewCount": "1874万",
       "likeCount": "7.8万",
       "commentCount": "487"
     },
@@ -128,7 +128,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-19",
-      "viewCount": "1759万",
+      "viewCount": "1760万",
       "likeCount": "6.9万",
       "commentCount": "448"
     },
@@ -284,7 +284,7 @@
       "publishedAt": "2019-07-11",
       "viewCount": "1750万",
       "likeCount": "12.7万",
-      "commentCount": "399"
+      "commentCount": "402"
     },
     {
       "rank": 3064,
@@ -304,9 +304,31 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-17",
-      "viewCount": "2010万",
+      "viewCount": "2011万",
       "likeCount": "9.4万",
       "commentCount": "394"
+    },
+    {
+      "rank": 3065,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/9NPv4q57on8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=9NPv4q57on8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "あの夢をなぞって",
+        "url": "https://www.youtube.com/watch?v=9NPv4q57on8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-01-05",
+      "viewCount": "5201万",
+      "likeCount": "22.6万",
+      "commentCount": "383"
     },
     {
       "rank": 3065,
@@ -329,28 +351,6 @@
       "viewCount": "1027万",
       "likeCount": "2.4万",
       "commentCount": "383"
-    },
-    {
-      "rank": 3066,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/9NPv4q57on8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=9NPv4q57on8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "あの夢をなぞって",
-        "url": "https://www.youtube.com/watch?v=9NPv4q57on8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-01-05",
-      "viewCount": "5198万",
-      "likeCount": "22.6万",
-      "commentCount": "382"
     },
     {
       "rank": 3067,
@@ -414,9 +414,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-05",
-      "viewCount": "3954万",
+      "viewCount": "3956万",
       "likeCount": "14.1万",
-      "commentCount": "364"
+      "commentCount": "365"
     },
     {
       "rank": 3070,
@@ -436,7 +436,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
-      "viewCount": "4909万",
+      "viewCount": "4913万",
       "likeCount": "12.2万",
       "commentCount": "353"
     },
@@ -482,7 +482,7 @@
       "publishedAt": "2013-08-29",
       "viewCount": "2429万",
       "likeCount": "15.4万",
-      "commentCount": "322"
+      "commentCount": "323"
     },
     {
       "rank": 3073,
@@ -568,7 +568,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
-      "viewCount": "2442万",
+      "viewCount": "2443万",
       "likeCount": "7万",
       "commentCount": "235"
     },
@@ -590,7 +590,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-03",
-      "viewCount": "1264万",
+      "viewCount": "1265万",
       "likeCount": "11.1万",
       "commentCount": "211"
     },
@@ -612,7 +612,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-09",
-      "viewCount": "2040万",
+      "viewCount": "2042万",
       "likeCount": "7.4万",
       "commentCount": "200"
     },
@@ -634,7 +634,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-05",
-      "viewCount": "4196万",
+      "viewCount": "4197万",
       "likeCount": "17.9万",
       "commentCount": "200"
     },
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-03",
-      "viewCount": "1580万",
+      "viewCount": "1581万",
       "likeCount": "5万",
       "commentCount": "174"
     },
@@ -678,7 +678,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-05",
-      "viewCount": "4883万",
+      "viewCount": "4886万",
       "likeCount": "16.5万",
       "commentCount": "173"
     },
@@ -701,7 +701,7 @@
       },
       "publishedAt": "2009-04-22",
       "viewCount": "2034万",
-      "likeCount": "5537",
+      "likeCount": "5540",
       "commentCount": "170"
     },
     {
@@ -788,7 +788,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-05",
-      "viewCount": "6231万",
+      "viewCount": "6232万",
       "likeCount": "34.2万",
       "commentCount": "139"
     },
@@ -832,7 +832,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
-      "viewCount": "1160万",
+      "viewCount": "1161万",
       "likeCount": "3.3万",
       "commentCount": "118"
     },
@@ -854,31 +854,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
-      "viewCount": "1371万",
+      "viewCount": "1373万",
       "likeCount": "5.7万",
       "commentCount": "107"
-    },
-    {
-      "rank": 3090,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/07SWfNXgKGo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=07SWfNXgKGo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "三原色",
-        "url": "https://www.youtube.com/watch?v=07SWfNXgKGo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-30",
-      "viewCount": "1226万",
-      "likeCount": "5.1万",
-      "commentCount": "100"
     },
     {
       "rank": 3090,
@@ -903,6 +881,28 @@
       "commentCount": "100"
     },
     {
+      "rank": 3090,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/07SWfNXgKGo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=07SWfNXgKGo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "三原色",
+        "url": "https://www.youtube.com/watch?v=07SWfNXgKGo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-11-30",
+      "viewCount": "1227万",
+      "likeCount": "5.1万",
+      "commentCount": "100"
+    },
+    {
       "rank": 3092,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Y3T04hhdHA4/default.jpg",
@@ -920,31 +920,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
-      "viewCount": "1120万",
+      "viewCount": "1121万",
       "likeCount": "3.2万",
       "commentCount": "93"
-    },
-    {
-      "rank": 3093,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/iykAM_McguQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=iykAM_McguQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "優しい彗星",
-        "url": "https://www.youtube.com/watch?v=iykAM_McguQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-01-19",
-      "viewCount": "2343万",
-      "likeCount": "12.9万",
-      "commentCount": "85"
     },
     {
       "rank": 3093,
@@ -964,8 +942,30 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
-      "viewCount": "1249万",
+      "viewCount": "1250万",
       "likeCount": "5.2万",
+      "commentCount": "85"
+    },
+    {
+      "rank": 3093,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/iykAM_McguQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=iykAM_McguQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "優しい彗星",
+        "url": "https://www.youtube.com/watch?v=iykAM_McguQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-01-19",
+      "viewCount": "2344万",
+      "likeCount": "12.9万",
       "commentCount": "85"
     },
     {

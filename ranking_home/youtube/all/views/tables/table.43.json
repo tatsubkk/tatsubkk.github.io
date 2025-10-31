@@ -3,6 +3,29 @@
     {
       "rank": 2101,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/oBE4lGvGUVg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=oBE4lGvGUVg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "篠原涼子 with t.komuro / 恋しさと せつなさと 心強さと 2023 ミュージックビデオ",
+        "url": "https://www.youtube.com/watch?v=oBE4lGvGUVg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-12-09",
+      "viewCount": "1650万",
+      "likeCount": "8万",
+      "commentCount": "4133",
+      "increment_d1": "1.47万"
+    },
+    {
+      "rank": 2102,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/VKn9APunesw/default.jpg",
         "url": "https://www.youtube.com/watch?v=VKn9APunesw",
         "target": "_blank"
@@ -20,11 +43,11 @@
       "publishedAt": "2024-10-21",
       "viewCount": "1650万",
       "likeCount": "12.8万",
-      "commentCount": "592",
-      "increment_d1": "1667"
+      "commentCount": "594",
+      "increment_d1": "2816"
     },
     {
-      "rank": 2102,
+      "rank": 2103,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Y3xehyYXbJw/default.jpg",
         "url": "https://www.youtube.com/watch?v=Y3xehyYXbJw",
@@ -44,30 +67,7 @@
       "viewCount": "1649万",
       "likeCount": "14.8万",
       "commentCount": "1074",
-      "increment_d1": "823"
-    },
-    {
-      "rank": 2103,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/oBE4lGvGUVg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=oBE4lGvGUVg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "篠原涼子 with t.komuro / 恋しさと せつなさと 心強さと 2023 ミュージックビデオ",
-        "url": "https://www.youtube.com/watch?v=oBE4lGvGUVg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-12-09",
-      "viewCount": "1649万",
-      "likeCount": "8万",
-      "commentCount": "4132",
-      "increment_d1": "9424"
+      "increment_d1": "1268"
     },
     {
       "rank": 2104,
@@ -90,7 +90,7 @@
       "viewCount": "1648万",
       "likeCount": "6.2万",
       "commentCount": "2082",
-      "increment_d1": "120"
+      "increment_d1": "183"
     },
     {
       "rank": 2105,
@@ -113,33 +113,10 @@
       "viewCount": "1648万",
       "likeCount": "14.8万",
       "commentCount": "2.3万",
-      "increment_d1": "244"
+      "increment_d1": "418"
     },
     {
       "rank": 2106,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/xbveKspBcEc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=xbveKspBcEc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "DUSTCELL - 命の行方 / Fate of Life",
-        "url": "https://www.youtube.com/watch?v=xbveKspBcEc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "DUSTCELL",
-        "url": "https://www.youtube.com/channel/UCJSzxbt4Acel9JdeLiY7tJQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-04-21",
-      "viewCount": "1646万",
-      "likeCount": "15.2万",
-      "commentCount": "2725",
-      "increment_d1": "778"
-    },
-    {
-      "rank": 2107,
       "thumb": {
         "img": "https://i.ytimg.com/vi/_2hwblQ_I20/default.jpg",
         "url": "https://www.youtube.com/watch?v=_2hwblQ_I20",
@@ -156,10 +133,33 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-23",
-      "viewCount": "1646万",
+      "viewCount": "1647万",
       "likeCount": "12.3万",
       "commentCount": "1885",
-      "increment_d1": "4924"
+      "increment_d1": "8769"
+    },
+    {
+      "rank": 2107,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/xbveKspBcEc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=xbveKspBcEc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "DUSTCELL - 命の行方 / Fate of Life",
+        "url": "https://www.youtube.com/watch?v=xbveKspBcEc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "DUSTCELL",
+        "url": "https://www.youtube.com/channel/UCJSzxbt4Acel9JdeLiY7tJQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-04-21",
+      "viewCount": "1647万",
+      "likeCount": "15.2万",
+      "commentCount": "2725",
+      "increment_d1": "1106"
     },
     {
       "rank": 2108,
@@ -182,7 +182,7 @@
       "viewCount": "1645万",
       "likeCount": "6.3万",
       "commentCount": "2016",
-      "increment_d1": "1180"
+      "increment_d1": "2031"
     },
     {
       "rank": 2109,
@@ -205,7 +205,7 @@
       "viewCount": "1644万",
       "likeCount": "5.6万",
       "commentCount": "5525",
-      "increment_d1": "588"
+      "increment_d1": "1049"
     },
     {
       "rank": 2110,
@@ -225,10 +225,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-14",
-      "viewCount": "1643万",
+      "viewCount": "1644万",
       "likeCount": "25万",
       "commentCount": "4926",
-      "increment_d1": "3506"
+      "increment_d1": "6363"
     },
     {
       "rank": 2111,
@@ -251,7 +251,7 @@
       "viewCount": "1643万",
       "likeCount": "11.5万",
       "commentCount": "5237",
-      "increment_d1": "498"
+      "increment_d1": "1019"
     },
     {
       "rank": 2112,
@@ -273,8 +273,8 @@
       "publishedAt": "2020-01-26",
       "viewCount": "1642万",
       "likeCount": "-",
-      "commentCount": "9932",
-      "increment_d1": "980"
+      "commentCount": "9933",
+      "increment_d1": "1362"
     },
     {
       "rank": 2113,
@@ -296,8 +296,8 @@
       "publishedAt": "2012-02-14",
       "viewCount": "1641万",
       "likeCount": "4.6万",
-      "commentCount": "4704",
-      "increment_d1": "435"
+      "commentCount": "4703",
+      "increment_d1": "787"
     },
     {
       "rank": 2114,
@@ -317,10 +317,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-12",
-      "viewCount": "1639万",
+      "viewCount": "1640万",
       "likeCount": "22.7万",
       "commentCount": "8760",
-      "increment_d1": "6831"
+      "increment_d1": "1.13万"
     },
     {
       "rank": 2115,
@@ -342,8 +342,8 @@
       "publishedAt": "2020-01-21",
       "viewCount": "1638万",
       "likeCount": "21.4万",
-      "commentCount": "5340",
-      "increment_d1": "3262"
+      "commentCount": "5339",
+      "increment_d1": "5800"
     },
     {
       "rank": 2116,
@@ -366,7 +366,7 @@
       "viewCount": "1638万",
       "likeCount": "11.2万",
       "commentCount": "10.8万",
-      "increment_d1": "171"
+      "increment_d1": "302"
     },
     {
       "rank": 2117,
@@ -389,7 +389,7 @@
       "viewCount": "1637万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "1454"
+      "increment_d1": "2222"
     },
     {
       "rank": 2118,
@@ -412,7 +412,7 @@
       "viewCount": "1636万",
       "likeCount": "29.3万",
       "commentCount": "1.1万",
-      "increment_d1": "215"
+      "increment_d1": "452"
     },
     {
       "rank": 2119,
@@ -434,8 +434,8 @@
       "publishedAt": "2016-12-11",
       "viewCount": "1636万",
       "likeCount": "14.2万",
-      "commentCount": "4969",
-      "increment_d1": "686"
+      "commentCount": "4970",
+      "increment_d1": "1051"
     },
     {
       "rank": 2120,
@@ -458,7 +458,7 @@
       "viewCount": "1636万",
       "likeCount": "8.8万",
       "commentCount": "3436",
-      "increment_d1": "425"
+      "increment_d1": "814"
     },
     {
       "rank": 2121,
@@ -481,10 +481,33 @@
       "viewCount": "1636万",
       "likeCount": "4.2万",
       "commentCount": "1712",
-      "increment_d1": "75"
+      "increment_d1": "108"
     },
     {
       "rank": 2122,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/sYMaoGflrug/default.jpg",
+        "url": "https://www.youtube.com/watch?v=sYMaoGflrug",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – Dear【LIVE from ゼンジン未到とヴェルトラウム〜銘銘編〜】",
+        "url": "https://www.youtube.com/watch?v=sYMaoGflrug",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-08-21",
+      "viewCount": "1634万",
+      "likeCount": "8.7万",
+      "commentCount": "3296",
+      "increment_d1": "1.94万"
+    },
+    {
+      "rank": 2123,
       "thumb": {
         "img": "https://i.ytimg.com/vi/7FJZWjGjEBc/default.jpg",
         "url": "https://www.youtube.com/watch?v=7FJZWjGjEBc",
@@ -501,13 +524,13 @@
         "target": "_blank"
       },
       "publishedAt": "2008-01-10",
-      "viewCount": "1633万",
+      "viewCount": "1634万",
       "likeCount": "4.9万",
       "commentCount": "-",
-      "increment_d1": "1280"
+      "increment_d1": "1802"
     },
     {
-      "rank": 2123,
+      "rank": 2124,
       "thumb": {
         "img": "https://i.ytimg.com/vi/5ZwctAeWrVs/default.jpg",
         "url": "https://www.youtube.com/watch?v=5ZwctAeWrVs",
@@ -527,30 +550,7 @@
       "viewCount": "1633万",
       "likeCount": "7.6万",
       "commentCount": "2412",
-      "increment_d1": "1306"
-    },
-    {
-      "rank": 2124,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/sYMaoGflrug/default.jpg",
-        "url": "https://www.youtube.com/watch?v=sYMaoGflrug",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – Dear【LIVE from ゼンジン未到とヴェルトラウム〜銘銘編〜】",
-        "url": "https://www.youtube.com/watch?v=sYMaoGflrug",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-08-21",
-      "viewCount": "1632万",
-      "likeCount": "8.7万",
-      "commentCount": "3292",
-      "increment_d1": "1.19万"
+      "increment_d1": "1653"
     },
     {
       "rank": 2125,
@@ -573,7 +573,7 @@
       "viewCount": "1630万",
       "likeCount": "17.9万",
       "commentCount": "7448",
-      "increment_d1": "1189"
+      "increment_d1": "1687"
     },
     {
       "rank": 2126,
@@ -596,7 +596,7 @@
       "viewCount": "1630万",
       "likeCount": "7.8万",
       "commentCount": "2929",
-      "increment_d1": "382"
+      "increment_d1": "801"
     },
     {
       "rank": 2127,
@@ -619,7 +619,7 @@
       "viewCount": "1629万",
       "likeCount": "7.9万",
       "commentCount": "2036",
-      "increment_d1": "1891"
+      "increment_d1": "2971"
     },
     {
       "rank": 2128,
@@ -642,7 +642,7 @@
       "viewCount": "1629万",
       "likeCount": "14.5万",
       "commentCount": "1.3万",
-      "increment_d1": "870"
+      "increment_d1": "1335"
     },
     {
       "rank": 2129,
@@ -662,10 +662,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-07-17",
-      "viewCount": "1628万",
+      "viewCount": "1629万",
       "likeCount": "9.5万",
       "commentCount": "6791",
-      "increment_d1": "1221"
+      "increment_d1": "1812"
     },
     {
       "rank": 2130,
@@ -688,10 +688,33 @@
       "viewCount": "1627万",
       "likeCount": "4.9万",
       "commentCount": "2065",
-      "increment_d1": "341"
+      "increment_d1": "599"
     },
     {
       "rank": 2131,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/MAn9ni-drZw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=MAn9ni-drZw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "西野カナ『 if 』MV Full",
+        "url": "https://www.youtube.com/watch?v=MAn9ni-drZw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-07-07",
+      "viewCount": "1627万",
+      "likeCount": "8.2万",
+      "commentCount": "2150",
+      "increment_d1": "1.65万"
+    },
+    {
+      "rank": 2132,
       "thumb": {
         "img": "https://i.ytimg.com/vi/oBSt2ehzkm0/default.jpg",
         "url": "https://www.youtube.com/watch?v=oBSt2ehzkm0",
@@ -711,10 +734,10 @@
       "viewCount": "1627万",
       "likeCount": "5.3万",
       "commentCount": "2439",
-      "increment_d1": "201"
+      "increment_d1": "296"
     },
     {
-      "rank": 2132,
+      "rank": 2133,
       "thumb": {
         "img": "https://i.ytimg.com/vi/6a0S4hhMTis/default.jpg",
         "url": "https://www.youtube.com/watch?v=6a0S4hhMTis",
@@ -731,59 +754,13 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-29",
-      "viewCount": "1625万",
+      "viewCount": "1626万",
       "likeCount": "10.7万",
       "commentCount": "3280",
-      "increment_d1": "4301"
-    },
-    {
-      "rank": 2133,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/MAn9ni-drZw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=MAn9ni-drZw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "西野カナ『 if 』MV Full",
-        "url": "https://www.youtube.com/watch?v=MAn9ni-drZw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-07-07",
-      "viewCount": "1625万",
-      "likeCount": "8.2万",
-      "commentCount": "2149",
-      "increment_d1": "9627"
+      "increment_d1": "6391"
     },
     {
       "rank": 2134,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/M_4nGY9at9M/default.jpg",
-        "url": "https://www.youtube.com/watch?v=M_4nGY9at9M",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "E-girls / RYDEEN 〜Dance All Night〜 (Music Video)",
-        "url": "https://www.youtube.com/watch?v=M_4nGY9at9M",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-03-04",
-      "viewCount": "1624万",
-      "likeCount": "4万",
-      "commentCount": "3091",
-      "increment_d1": "291"
-    },
-    {
-      "rank": 2135,
       "thumb": {
         "img": "https://i.ytimg.com/vi/D0ehC_8sQuU/default.jpg",
         "url": "https://www.youtube.com/watch?v=D0ehC_8sQuU",
@@ -802,11 +779,11 @@
       "publishedAt": "2019-06-12",
       "viewCount": "1624万",
       "likeCount": "28.8万",
-      "commentCount": "6064",
-      "increment_d1": "2130"
+      "commentCount": "6066",
+      "increment_d1": "3829"
     },
     {
-      "rank": 2136,
+      "rank": 2135,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ZvFs03X944E/default.jpg",
         "url": "https://www.youtube.com/watch?v=ZvFs03X944E",
@@ -826,10 +803,10 @@
       "viewCount": "1624万",
       "likeCount": "13.2万",
       "commentCount": "5288",
-      "increment_d1": "2243"
+      "increment_d1": "3791"
     },
     {
-      "rank": 2137,
+      "rank": 2136,
       "thumb": {
         "img": "https://i.ytimg.com/vi/-o-zH8hn1kQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=-o-zH8hn1kQ",
@@ -849,7 +826,30 @@
       "viewCount": "1624万",
       "likeCount": "6.2万",
       "commentCount": "3257",
-      "increment_d1": "3018"
+      "increment_d1": "5032"
+    },
+    {
+      "rank": 2137,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/M_4nGY9at9M/default.jpg",
+        "url": "https://www.youtube.com/watch?v=M_4nGY9at9M",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "E-girls / RYDEEN 〜Dance All Night〜 (Music Video)",
+        "url": "https://www.youtube.com/watch?v=M_4nGY9at9M",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-03-04",
+      "viewCount": "1624万",
+      "likeCount": "4万",
+      "commentCount": "3091",
+      "increment_d1": "479"
     },
     {
       "rank": 2138,
@@ -872,7 +872,7 @@
       "viewCount": "1622万",
       "likeCount": "40.5万",
       "commentCount": "1.9万",
-      "increment_d1": "2357"
+      "increment_d1": "6297"
     },
     {
       "rank": 2139,
@@ -895,10 +895,33 @@
       "viewCount": "1621万",
       "likeCount": "29.7万",
       "commentCount": "8507",
-      "increment_d1": "354"
+      "increment_d1": "514"
     },
     {
       "rank": 2140,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/hu6y1ol9yUg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=hu6y1ol9yUg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "back number - 冬と春",
+        "url": "https://www.youtube.com/watch?v=hu6y1ol9yUg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "back number",
+        "url": "https://www.youtube.com/channel/UCgipy6-EqjT-1BCDndXX1PA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-01-24",
+      "viewCount": "1620万",
+      "likeCount": "11万",
+      "commentCount": "3192",
+      "increment_d1": "1.08万"
+    },
+    {
+      "rank": 2141,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Z-asfMte17s/default.jpg",
         "url": "https://www.youtube.com/watch?v=Z-asfMte17s",
@@ -918,30 +941,7 @@
       "viewCount": "1619万",
       "likeCount": "5.6万",
       "commentCount": "-",
-      "increment_d1": "1870"
-    },
-    {
-      "rank": 2141,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/hu6y1ol9yUg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=hu6y1ol9yUg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "back number - 冬と春",
-        "url": "https://www.youtube.com/watch?v=hu6y1ol9yUg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "back number",
-        "url": "https://www.youtube.com/channel/UCgipy6-EqjT-1BCDndXX1PA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-01-24",
-      "viewCount": "1619万",
-      "likeCount": "11万",
-      "commentCount": "3190",
-      "increment_d1": "6595"
+      "increment_d1": "3197"
     },
     {
       "rank": 2142,
@@ -961,10 +961,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-03",
-      "viewCount": "1618万",
+      "viewCount": "1619万",
       "likeCount": "-",
       "commentCount": "1.1万",
-      "increment_d1": "669"
+      "increment_d1": "1266"
     },
     {
       "rank": 2143,
@@ -987,10 +987,56 @@
       "viewCount": "1618万",
       "likeCount": "10.6万",
       "commentCount": "3096",
-      "increment_d1": "1941"
+      "increment_d1": "3795"
     },
     {
       "rank": 2144,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/G9hAP106sSg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=G9hAP106sSg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SCANDAL 「少女S」/ Syoujo S ‐Music Video",
+        "url": "https://www.youtube.com/watch?v=G9hAP106sSg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SCANDAL YouTube Official Channel",
+        "url": "https://www.youtube.com/channel/UCRgOqI54g1VqnQnwIB6WPSA",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-11-19",
+      "viewCount": "1618万",
+      "likeCount": "10.3万",
+      "commentCount": "3073",
+      "increment_d1": "4614"
+    },
+    {
+      "rank": 2145,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/fmDB-HyPNYc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=fmDB-HyPNYc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "幾田りら 「Answer」 Official Music Video",
+        "url": "https://www.youtube.com/watch?v=fmDB-HyPNYc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "幾田りら Official",
+        "url": "https://www.youtube.com/channel/UCztEY6czNyJKjRWMwuur9bg",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-03-25",
+      "viewCount": "1618万",
+      "likeCount": "12.1万",
+      "commentCount": "1770",
+      "increment_d1": "1.61万"
+    },
+    {
+      "rank": 2146,
       "thumb": {
         "img": "https://i.ytimg.com/vi/m7ddbml_vkY/default.jpg",
         "url": "https://www.youtube.com/watch?v=m7ddbml_vkY",
@@ -1010,33 +1056,10 @@
       "viewCount": "1617万",
       "likeCount": "17.2万",
       "commentCount": "6333",
-      "increment_d1": "741"
+      "increment_d1": "1090"
     },
     {
-      "rank": 2145,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/G9hAP106sSg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=G9hAP106sSg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SCANDAL 「少女S」/ Syoujo S ‐Music Video",
-        "url": "https://www.youtube.com/watch?v=G9hAP106sSg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SCANDAL YouTube Official Channel",
-        "url": "https://www.youtube.com/channel/UCRgOqI54g1VqnQnwIB6WPSA",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-11-19",
-      "viewCount": "1617万",
-      "likeCount": "10.3万",
-      "commentCount": "3072",
-      "increment_d1": "2549"
-    },
-    {
-      "rank": 2146,
+      "rank": 2147,
       "thumb": {
         "img": "https://i.ytimg.com/vi/-A0ICz6rVvU/default.jpg",
         "url": "https://www.youtube.com/watch?v=-A0ICz6rVvU",
@@ -1056,10 +1079,10 @@
       "viewCount": "1617万",
       "likeCount": "25.3万",
       "commentCount": "3666",
-      "increment_d1": "2521"
+      "increment_d1": "4580"
     },
     {
-      "rank": 2147,
+      "rank": 2148,
       "thumb": {
         "img": "https://i.ytimg.com/vi/O5VhnfkSjgA/default.jpg",
         "url": "https://www.youtube.com/watch?v=O5VhnfkSjgA",
@@ -1076,33 +1099,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-07",
-      "viewCount": "1616万",
+      "viewCount": "1617万",
       "likeCount": "16.5万",
-      "commentCount": "1433",
-      "increment_d1": "5178"
-    },
-    {
-      "rank": 2148,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/fmDB-HyPNYc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=fmDB-HyPNYc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "幾田りら 「Answer」 Official Music Video",
-        "url": "https://www.youtube.com/watch?v=fmDB-HyPNYc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "幾田りら Official",
-        "url": "https://www.youtube.com/channel/UCztEY6czNyJKjRWMwuur9bg",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-03-25",
-      "viewCount": "1616万",
-      "likeCount": "12万",
-      "commentCount": "1769",
-      "increment_d1": "9423"
+      "commentCount": "1432",
+      "increment_d1": "7343"
     },
     {
       "rank": 2149,
@@ -1125,7 +1125,7 @@
       "viewCount": "1615万",
       "likeCount": "9.5万",
       "commentCount": "2727",
-      "increment_d1": "236"
+      "increment_d1": "354"
     },
     {
       "rank": 2150,
@@ -1148,7 +1148,7 @@
       "viewCount": "1614万",
       "likeCount": "6.7万",
       "commentCount": "483",
-      "increment_d1": "683"
+      "increment_d1": "1374"
     }
   ]
 }

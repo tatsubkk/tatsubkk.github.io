@@ -157,28 +157,6 @@
     {
       "rank": 2308,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/Jtw5S12-ZeI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Jtw5S12-ZeI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[MV] サンプラザ中野くん「Runner (平成30年 Ver.)」〔フルver.〕",
-        "url": "https://www.youtube.com/watch?v=Jtw5S12-ZeI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "サンプラザ中野くん",
-        "url": "https://www.youtube.com/channel/UCdF9vW3tAchSqMTQhYgBRxg",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-07-06",
-      "viewCount": "1495万",
-      "likeCount": "6.7万",
-      "commentCount": "3751"
-    },
-    {
-      "rank": 2309,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/iFnRk8KH6cg/default.jpg",
         "url": "https://www.youtube.com/watch?v=iFnRk8KH6cg",
         "target": "_blank"
@@ -199,6 +177,28 @@
       "commentCount": "1009"
     },
     {
+      "rank": 2309,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Jtw5S12-ZeI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Jtw5S12-ZeI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[MV] サンプラザ中野くん「Runner (平成30年 Ver.)」〔フルver.〕",
+        "url": "https://www.youtube.com/watch?v=Jtw5S12-ZeI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "サンプラザ中野くん",
+        "url": "https://www.youtube.com/channel/UCdF9vW3tAchSqMTQhYgBRxg",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-07-06",
+      "viewCount": "1495万",
+      "likeCount": "6.7万",
+      "commentCount": "3751"
+    },
+    {
       "rank": 2310,
       "thumb": {
         "img": "https://i.ytimg.com/vi/BUG9r-s56II/default.jpg",
@@ -216,8 +216,8 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-25",
-      "viewCount": "1118万",
-      "likeCount": "6.66万",
+      "viewCount": "1119万",
+      "likeCount": "6.67万",
       "commentCount": "1070"
     },
     {
@@ -262,7 +262,7 @@
       "publishedAt": "2009-04-09",
       "viewCount": "1604万",
       "likeCount": "6.64万",
-      "commentCount": "3522"
+      "commentCount": "3523"
     },
     {
       "rank": 2313,
@@ -326,8 +326,8 @@
         "target": "_blank"
       },
       "publishedAt": "2022-06-29",
-      "viewCount": "1236万",
-      "likeCount": "6.59万",
+      "viewCount": "1237万",
+      "likeCount": "6.6万",
       "commentCount": "1567"
     },
     {
@@ -348,34 +348,12 @@
         "target": "_blank"
       },
       "publishedAt": "2015-09-26",
-      "viewCount": "1285万",
+      "viewCount": "1286万",
       "likeCount": "6.59万",
-      "commentCount": "525"
+      "commentCount": "526"
     },
     {
       "rank": 2317,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Q1Xzw12qMgk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Q1Xzw12qMgk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SUPER BEAVER「ありがとう」MV（バンドver.）",
-        "url": "https://www.youtube.com/watch?v=Q1Xzw12qMgk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SUPER BEAVER Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCKYG5wIg3B_QuwyiLXgGklA",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-01-26",
-      "viewCount": "1019万",
-      "likeCount": "6.57万",
-      "commentCount": "1778"
-    },
-    {
-      "rank": 2318,
       "thumb": {
         "img": "https://i.ytimg.com/vi/z2TNnnQbGJs/default.jpg",
         "url": "https://www.youtube.com/watch?v=z2TNnnQbGJs",
@@ -392,9 +370,31 @@
         "target": "_blank"
       },
       "publishedAt": "2015-09-26",
-      "viewCount": "1255万",
-      "likeCount": "6.56万",
-      "commentCount": "695"
+      "viewCount": "1256万",
+      "likeCount": "6.57万",
+      "commentCount": "697"
+    },
+    {
+      "rank": 2318,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Q1Xzw12qMgk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Q1Xzw12qMgk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SUPER BEAVER「ありがとう」MV（バンドver.）",
+        "url": "https://www.youtube.com/watch?v=Q1Xzw12qMgk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SUPER BEAVER Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCKYG5wIg3B_QuwyiLXgGklA",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-01-26",
+      "viewCount": "1020万",
+      "likeCount": "6.57万",
+      "commentCount": "1779"
     },
     {
       "rank": 2319,
@@ -414,7 +414,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-30",
-      "viewCount": "3374万",
+      "viewCount": "3375万",
       "likeCount": "6.56万",
       "commentCount": "1.7万"
     },
@@ -458,7 +458,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-06-20",
-      "viewCount": "6855万",
+      "viewCount": "6856万",
       "likeCount": "6.54万",
       "commentCount": "-"
     },
@@ -503,8 +503,8 @@
       },
       "publishedAt": "2013-01-25",
       "viewCount": "1424万",
-      "likeCount": "6.53万",
-      "commentCount": "4152"
+      "likeCount": "6.54万",
+      "commentCount": "4153"
     },
     {
       "rank": 2324,
@@ -570,7 +570,7 @@
       "publishedAt": "2013-03-24",
       "viewCount": "1769万",
       "likeCount": "6.49万",
-      "commentCount": "3305"
+      "commentCount": "3303"
     },
     {
       "rank": 2327,
@@ -592,7 +592,7 @@
       "publishedAt": "2017-08-25",
       "viewCount": "1060万",
       "likeCount": "6.48万",
-      "commentCount": "2323"
+      "commentCount": "2324"
     },
     {
       "rank": 2328,
@@ -613,8 +613,8 @@
       },
       "publishedAt": "2015-11-30",
       "viewCount": "2034万",
-      "likeCount": "6.46万",
-      "commentCount": "3476"
+      "likeCount": "6.47万",
+      "commentCount": "3477"
     },
     {
       "rank": 2329,
@@ -635,7 +635,7 @@
       },
       "publishedAt": "2017-06-01",
       "viewCount": "2043万",
-      "likeCount": "6.45万",
+      "likeCount": "6.46万",
       "commentCount": "1467"
     },
     {
@@ -722,7 +722,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-26",
-      "viewCount": "1256万",
+      "viewCount": "1257万",
       "likeCount": "6.42万",
       "commentCount": "1932"
     },
@@ -768,7 +768,7 @@
       "publishedAt": "2011-01-14",
       "viewCount": "1557万",
       "likeCount": "6.4万",
-      "commentCount": "4381"
+      "commentCount": "4382"
     },
     {
       "rank": 2336,
@@ -790,10 +790,32 @@
       "publishedAt": "2015-08-05",
       "viewCount": "1326万",
       "likeCount": "6.4万",
-      "commentCount": "2542"
+      "commentCount": "2543"
     },
     {
       "rank": 2337,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/H8a2k0cGmew/default.jpg",
+        "url": "https://www.youtube.com/watch?v=H8a2k0cGmew",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "GAO - Sayonara [OFFICIAL MUSIC VIDEO]",
+        "url": "https://www.youtube.com/watch?v=H8a2k0cGmew",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "VAP OFFICIAL MUSIC CHANNEL",
+        "url": "https://www.youtube.com/channel/UCIDd5lVNKs7N0V3dvm1wj2w",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-08-01",
+      "viewCount": "1588万",
+      "likeCount": "6.39万",
+      "commentCount": "4262"
+    },
+    {
+      "rank": 2338,
       "thumb": {
         "img": "https://i.ytimg.com/vi/RpggNE6agKo/default.jpg",
         "url": "https://www.youtube.com/watch?v=RpggNE6agKo",
@@ -815,29 +837,29 @@
       "commentCount": "4046"
     },
     {
-      "rank": 2338,
+      "rank": 2339,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/H8a2k0cGmew/default.jpg",
-        "url": "https://www.youtube.com/watch?v=H8a2k0cGmew",
+        "img": "https://i.ytimg.com/vi/87wf45zW5NA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=87wf45zW5NA",
         "target": "_blank"
       },
       "title": {
-        "text": "GAO - Sayonara [OFFICIAL MUSIC VIDEO]",
-        "url": "https://www.youtube.com/watch?v=H8a2k0cGmew",
+        "text": "サカナクション - さよならはエモーション 　-Music Video-",
+        "url": "https://www.youtube.com/watch?v=87wf45zW5NA",
         "target": "_blank"
       },
       "channel": {
-        "text": "VAP OFFICIAL MUSIC CHANNEL",
-        "url": "https://www.youtube.com/channel/UCIDd5lVNKs7N0V3dvm1wj2w",
+        "text": "サカナクション sakanaction",
+        "url": "https://www.youtube.com/channel/UCli_j3KPGhsF1Mv1AK17UPA",
         "target": "_blank"
       },
-      "publishedAt": "2013-08-01",
-      "viewCount": "1587万",
-      "likeCount": "6.39万",
-      "commentCount": "4262"
+      "publishedAt": "2014-11-20",
+      "viewCount": "1576万",
+      "likeCount": "6.38万",
+      "commentCount": "1934"
     },
     {
-      "rank": 2339,
+      "rank": 2340,
       "thumb": {
         "img": "https://i.ytimg.com/vi/fMHj3U3-RA4/default.jpg",
         "url": "https://www.youtube.com/watch?v=fMHj3U3-RA4",
@@ -857,28 +879,6 @@
       "viewCount": "2002万",
       "likeCount": "6.38万",
       "commentCount": "3923"
-    },
-    {
-      "rank": 2340,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/87wf45zW5NA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=87wf45zW5NA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "サカナクション - さよならはエモーション 　-Music Video-",
-        "url": "https://www.youtube.com/watch?v=87wf45zW5NA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "サカナクション sakanaction",
-        "url": "https://www.youtube.com/channel/UCli_j3KPGhsF1Mv1AK17UPA",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-11-20",
-      "viewCount": "1576万",
-      "likeCount": "6.38万",
-      "commentCount": "1935"
     },
     {
       "rank": 2341,
@@ -905,6 +905,28 @@
     {
       "rank": 2342,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/LrwC2Xu2POs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=LrwC2Xu2POs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "スピッツ / 君が思い出になる前に",
+        "url": "https://www.youtube.com/watch?v=LrwC2Xu2POs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "spitzclips",
+        "url": "https://www.youtube.com/channel/UCEAOVoVVtVBhcn7vLIQIkDA",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-04-16",
+      "viewCount": "2085万",
+      "likeCount": "6.37万",
+      "commentCount": "2673"
+    },
+    {
+      "rank": 2343,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/HGJK1IKIvrI/default.jpg",
         "url": "https://www.youtube.com/watch?v=HGJK1IKIvrI",
         "target": "_blank"
@@ -923,28 +945,6 @@
       "viewCount": "1417万",
       "likeCount": "6.37万",
       "commentCount": "2225"
-    },
-    {
-      "rank": 2343,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/LrwC2Xu2POs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=LrwC2Xu2POs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "スピッツ / 君が思い出になる前に",
-        "url": "https://www.youtube.com/watch?v=LrwC2Xu2POs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "spitzclips",
-        "url": "https://www.youtube.com/channel/UCEAOVoVVtVBhcn7vLIQIkDA",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-04-16",
-      "viewCount": "2084万",
-      "likeCount": "6.37万",
-      "commentCount": "2673"
     },
     {
       "rank": 2344,
@@ -986,9 +986,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-01-25",
-      "viewCount": "1550万",
+      "viewCount": "1551万",
       "likeCount": "6.37万",
-      "commentCount": "4437"
+      "commentCount": "4438"
     },
     {
       "rank": 2346,
@@ -1032,7 +1032,7 @@
       "publishedAt": "2015-04-24",
       "viewCount": "2307万",
       "likeCount": "6.36万",
-      "commentCount": "2514"
+      "commentCount": "2515"
     },
     {
       "rank": 2348,
@@ -1097,7 +1097,7 @@
       },
       "publishedAt": "2012-02-21",
       "viewCount": "2037万",
-      "likeCount": "6.35万",
+      "likeCount": "6.36万",
       "commentCount": "1179"
     }
   ]
