@@ -1,7 +1,7 @@
 {
   "rows": [
     {
-      "rank": 1151,
+      "rank": 1150,
       "thumb": {
         "img": "https://i.ytimg.com/vi/H51Xj5aEgkA/default.jpg",
         "url": "https://www.youtube.com/watch?v=H51Xj5aEgkA",
@@ -62,9 +62,31 @@
         "target": "_blank"
       },
       "publishedAt": "2012-03-15",
-      "viewCount": "6261万",
+      "viewCount": "6262万",
       "likeCount": "27.8万",
-      "commentCount": "8413"
+      "commentCount": "8414"
+    },
+    {
+      "rank": 1154,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/fJh5UeiULZs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=fJh5UeiULZs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【LIVE映像】結束バンド「星座になれたら」LIVE at 秀華祭/ 「ぼっち・ざ・ろっく！」劇中曲",
+        "url": "https://www.youtube.com/watch?v=fJh5UeiULZs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "アニプレックス チャンネル",
+        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-12-24",
+      "viewCount": "2718万",
+      "likeCount": "29.7万",
+      "commentCount": "8411"
     },
     {
       "rank": 1154,
@@ -86,29 +108,7 @@
       "publishedAt": "2015-06-14",
       "viewCount": "7318万",
       "likeCount": "14.2万",
-      "commentCount": "8412"
-    },
-    {
-      "rank": 1155,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/fJh5UeiULZs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=fJh5UeiULZs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【LIVE映像】結束バンド「星座になれたら」LIVE at 秀華祭/ 「ぼっち・ざ・ろっく！」劇中曲",
-        "url": "https://www.youtube.com/watch?v=fJh5UeiULZs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アニプレックス チャンネル",
-        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-12-24",
-      "viewCount": "2717万",
-      "likeCount": "29.7万",
-      "commentCount": "8410"
+      "commentCount": "8411"
     },
     {
       "rank": 1156,
@@ -130,10 +130,10 @@
       "publishedAt": "2011-04-19",
       "viewCount": "2375万",
       "likeCount": "13.8万",
-      "commentCount": "8395"
+      "commentCount": "8396"
     },
     {
-      "rank": 1157,
+      "rank": 1156,
       "thumb": {
         "img": "https://i.ytimg.com/vi/VEe_yIbW64w/default.jpg",
         "url": "https://www.youtube.com/watch?v=VEe_yIbW64w",
@@ -150,9 +150,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-15",
-      "viewCount": "1億5431万",
+      "viewCount": "1億5435万",
       "likeCount": "225万",
-      "commentCount": "8394"
+      "commentCount": "8396"
     },
     {
       "rank": 1158,
@@ -172,9 +172,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-07",
-      "viewCount": "4028万",
+      "viewCount": "4030万",
       "likeCount": "33万",
-      "commentCount": "8388"
+      "commentCount": "8389"
     },
     {
       "rank": 1159,
@@ -245,28 +245,6 @@
     {
       "rank": 1162,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/LPr_UZkmVn8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=LPr_UZkmVn8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "DA PUMP / U.S.A. Dance -Mirror ver.-",
-        "url": "https://www.youtube.com/watch?v=LPr_UZkmVn8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-06-12",
-      "viewCount": "3908万",
-      "likeCount": "12万",
-      "commentCount": "8361"
-    },
-    {
-      "rank": 1163,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/lGDsQ940-3A/default.jpg",
         "url": "https://www.youtube.com/watch?v=lGDsQ940-3A",
         "target": "_blank"
@@ -284,6 +262,28 @@
       "publishedAt": "2019-08-06",
       "viewCount": "2083万",
       "likeCount": "14.5万",
+      "commentCount": "8361"
+    },
+    {
+      "rank": 1163,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/LPr_UZkmVn8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=LPr_UZkmVn8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "DA PUMP / U.S.A. Dance -Mirror ver.-",
+        "url": "https://www.youtube.com/watch?v=LPr_UZkmVn8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-06-12",
+      "viewCount": "3908万",
+      "likeCount": "12万",
       "commentCount": "8360"
     },
     {
@@ -311,28 +311,6 @@
     {
       "rank": 1165,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/maHs9Ogzojo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=maHs9Ogzojo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "FAKE TYPE. \"FAKE LAND\" MV",
-        "url": "https://www.youtube.com/watch?v=maHs9Ogzojo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "FAKE TYPE. (TOPHAMHAT-KYO & DYES IWASAKI)",
-        "url": "https://www.youtube.com/channel/UCvsjE1LW3lVVF0O0fPDnO7w",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-02-16",
-      "viewCount": "4123万",
-      "likeCount": "45.7万",
-      "commentCount": "8323"
-    },
-    {
-      "rank": 1166,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/wSTbdqo-j74/default.jpg",
         "url": "https://www.youtube.com/watch?v=wSTbdqo-j74",
         "target": "_blank"
@@ -348,9 +326,31 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-24",
-      "viewCount": "5093万",
-      "likeCount": "33.7万",
-      "commentCount": "8322"
+      "viewCount": "5095万",
+      "likeCount": "33.8万",
+      "commentCount": "8324"
+    },
+    {
+      "rank": 1166,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/maHs9Ogzojo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=maHs9Ogzojo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "FAKE TYPE. \"FAKE LAND\" MV",
+        "url": "https://www.youtube.com/watch?v=maHs9Ogzojo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "FAKE TYPE. (TOPHAMHAT-KYO & DYES IWASAKI)",
+        "url": "https://www.youtube.com/channel/UCvsjE1LW3lVVF0O0fPDnO7w",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-02-16",
+      "viewCount": "4124万",
+      "likeCount": "45.7万",
+      "commentCount": "8323"
     },
     {
       "rank": 1167,
@@ -394,7 +394,7 @@
       "publishedAt": "2022-03-04",
       "viewCount": "1420万",
       "likeCount": "-",
-      "commentCount": "8294"
+      "commentCount": "8293"
     },
     {
       "rank": 1169,
@@ -436,31 +436,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-01",
-      "viewCount": "2370万",
+      "viewCount": "2371万",
       "likeCount": "33.2万",
       "commentCount": "8286"
-    },
-    {
-      "rank": 1171,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/lQvyKRBCDi8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=lQvyKRBCDi8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "JO1｜'Phobia' PERFORMANCE VIDEO",
-        "url": "https://www.youtube.com/watch?v=lQvyKRBCDi8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "JO1",
-        "url": "https://www.youtube.com/channel/UCsmXiDP8S40uBeJYxvyulmA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-10-28",
-      "viewCount": "1256万",
-      "likeCount": "5.6万",
-      "commentCount": "8269"
     },
     {
       "rank": 1171,
@@ -480,12 +458,12 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-05",
-      "viewCount": "2607万",
+      "viewCount": "2608万",
       "likeCount": "15.4万",
-      "commentCount": "8269"
+      "commentCount": "8272"
     },
     {
-      "rank": 1171,
+      "rank": 1172,
       "thumb": {
         "img": "https://i.ytimg.com/vi/XyOETZna7cQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=XyOETZna7cQ",
@@ -504,6 +482,28 @@
       "publishedAt": "2016-12-19",
       "viewCount": "4025万",
       "likeCount": "18.9万",
+      "commentCount": "8269"
+    },
+    {
+      "rank": 1172,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/lQvyKRBCDi8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=lQvyKRBCDi8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "JO1｜'Phobia' PERFORMANCE VIDEO",
+        "url": "https://www.youtube.com/watch?v=lQvyKRBCDi8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "JO1",
+        "url": "https://www.youtube.com/channel/UCsmXiDP8S40uBeJYxvyulmA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-10-28",
+      "viewCount": "1256万",
+      "likeCount": "5.6万",
       "commentCount": "8269"
     },
     {
@@ -526,10 +526,10 @@
       "publishedAt": "2020-05-11",
       "viewCount": "1201万",
       "likeCount": "9.2万",
-      "commentCount": "8266"
+      "commentCount": "8267"
     },
     {
-      "rank": 1174,
+      "rank": 1175,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vk0iPWFxQ9w/default.jpg",
         "url": "https://www.youtube.com/watch?v=vk0iPWFxQ9w",
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-02",
-      "viewCount": "2913万",
+      "viewCount": "2914万",
       "likeCount": "30.7万",
       "commentCount": "8266"
     },
@@ -590,9 +590,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-05-28",
-      "viewCount": "4564万",
+      "viewCount": "4565万",
       "likeCount": "38.8万",
-      "commentCount": "8252"
+      "commentCount": "8254"
     },
     {
       "rank": 1178,
@@ -636,7 +636,7 @@
       "publishedAt": "2021-08-18",
       "viewCount": "2669万",
       "likeCount": "17.4万",
-      "commentCount": "8229"
+      "commentCount": "8231"
     },
     {
       "rank": 1180,
@@ -678,9 +678,9 @@
         "target": "_blank"
       },
       "publishedAt": "2008-06-06",
-      "viewCount": "5980万",
-      "likeCount": "19.4万",
-      "commentCount": "8219"
+      "viewCount": "5982万",
+      "likeCount": "19.5万",
+      "commentCount": "8222"
     },
     {
       "rank": 1182,
@@ -723,33 +723,11 @@
       },
       "publishedAt": "2015-06-30",
       "viewCount": "2384万",
-      "likeCount": "35.7万",
+      "likeCount": "35.8万",
       "commentCount": "8215"
     },
     {
       "rank": 1184,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/C-xF2MAFw5s/default.jpg",
-        "url": "https://www.youtube.com/watch?v=C-xF2MAFw5s",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ONE OK ROCK - C.h.a.o.s.m.y.t.h. [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=C-xF2MAFw5s",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ONE OK ROCK",
-        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-04-09",
-      "viewCount": "5896万",
-      "likeCount": "27万",
-      "commentCount": "8213"
-    },
-    {
-      "rank": 1185,
       "thumb": {
         "img": "https://i.ytimg.com/vi/w05Q_aZKkFw/default.jpg",
         "url": "https://www.youtube.com/watch?v=w05Q_aZKkFw",
@@ -768,7 +746,29 @@
       "publishedAt": "2013-03-26",
       "viewCount": "3252万",
       "likeCount": "20.1万",
-      "commentCount": "8211"
+      "commentCount": "8214"
+    },
+    {
+      "rank": 1185,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/C-xF2MAFw5s/default.jpg",
+        "url": "https://www.youtube.com/watch?v=C-xF2MAFw5s",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ONE OK ROCK - C.h.a.o.s.m.y.t.h. [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=C-xF2MAFw5s",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ONE OK ROCK",
+        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-04-09",
+      "viewCount": "5897万",
+      "likeCount": "27万",
+      "commentCount": "8213"
     },
     {
       "rank": 1186,
@@ -790,10 +790,32 @@
       "publishedAt": "2019-11-15",
       "viewCount": "4164万",
       "likeCount": "24.6万",
-      "commentCount": "8206"
+      "commentCount": "8209"
     },
     {
       "rank": 1187,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/CM4iVSsD524/default.jpg",
+        "url": "https://www.youtube.com/watch?v=CM4iVSsD524",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ONE OK ROCK × Monster Hunter Now - \"Make It Out Alive\" Music Video",
+        "url": "https://www.youtube.com/watch?v=CM4iVSsD524",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ONE OK ROCK",
+        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-08-29",
+      "viewCount": "1926万",
+      "likeCount": "27.1万",
+      "commentCount": "8204"
+    },
+    {
+      "rank": 1188,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vNa83RXmZdg/default.jpg",
         "url": "https://www.youtube.com/watch?v=vNa83RXmZdg",
@@ -815,7 +837,7 @@
       "commentCount": "8202"
     },
     {
-      "rank": 1188,
+      "rank": 1189,
       "thumb": {
         "img": "https://i.ytimg.com/vi/E13jVMczRJg/default.jpg",
         "url": "https://www.youtube.com/watch?v=E13jVMczRJg",
@@ -837,28 +859,6 @@
       "commentCount": "8197"
     },
     {
-      "rank": 1189,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/CM4iVSsD524/default.jpg",
-        "url": "https://www.youtube.com/watch?v=CM4iVSsD524",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ONE OK ROCK × Monster Hunter Now - \"Make It Out Alive\" Music Video",
-        "url": "https://www.youtube.com/watch?v=CM4iVSsD524",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ONE OK ROCK",
-        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-08-29",
-      "viewCount": "1924万",
-      "likeCount": "27.1万",
-      "commentCount": "8193"
-    },
-    {
       "rank": 1190,
       "thumb": {
         "img": "https://i.ytimg.com/vi/khplMpm4ctc/default.jpg",
@@ -876,9 +876,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-21",
-      "viewCount": "1767万",
+      "viewCount": "1768万",
       "likeCount": "34.7万",
-      "commentCount": "8188"
+      "commentCount": "8191"
     },
     {
       "rank": 1191,
@@ -898,7 +898,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-06",
-      "viewCount": "2655万",
+      "viewCount": "2656万",
       "likeCount": "12.5万",
       "commentCount": "8185"
     },
@@ -927,28 +927,6 @@
     {
       "rank": 1193,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/b3GCfyNKeLs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=b3GCfyNKeLs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Ado】世界のつづき（ウタ from ONE PIECE FILM RED）",
-        "url": "https://www.youtube.com/watch?v=b3GCfyNKeLs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ado",
-        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-08-10",
-      "viewCount": "3233万",
-      "likeCount": "38.6万",
-      "commentCount": "8167"
-    },
-    {
-      "rank": 1193,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/MYo5alIaUOk/default.jpg",
         "url": "https://www.youtube.com/watch?v=MYo5alIaUOk",
         "target": "_blank"
@@ -964,9 +942,31 @@
         "target": "_blank"
       },
       "publishedAt": "2009-11-13",
-      "viewCount": "9480万",
+      "viewCount": "9482万",
       "likeCount": "25.8万",
-      "commentCount": "8167"
+      "commentCount": "8170"
+    },
+    {
+      "rank": 1194,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/b3GCfyNKeLs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=b3GCfyNKeLs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Ado】世界のつづき（ウタ from ONE PIECE FILM RED）",
+        "url": "https://www.youtube.com/watch?v=b3GCfyNKeLs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ado",
+        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-08-10",
+      "viewCount": "3234万",
+      "likeCount": "38.6万",
+      "commentCount": "8168"
     },
     {
       "rank": 1195,
@@ -986,9 +986,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-09-11",
-      "viewCount": "7040万",
+      "viewCount": "7041万",
       "likeCount": "19.9万",
-      "commentCount": "8148"
+      "commentCount": "8150"
     },
     {
       "rank": 1196,
@@ -1008,7 +1008,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-24",
-      "viewCount": "3391万",
+      "viewCount": "3392万",
       "likeCount": "13.3万",
       "commentCount": "8132"
     },
@@ -1030,7 +1030,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-04-07",
-      "viewCount": "3417万",
+      "viewCount": "3418万",
       "likeCount": "16.2万",
       "commentCount": "8129"
     },
@@ -1054,7 +1054,7 @@
       "publishedAt": "2020-02-05",
       "viewCount": "1406万",
       "likeCount": "23.4万",
-      "commentCount": "8123"
+      "commentCount": "8125"
     },
     {
       "rank": 1199,
@@ -1096,9 +1096,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-10-15",
-      "viewCount": "3172万",
+      "viewCount": "3173万",
       "likeCount": "14.8万",
-      "commentCount": "8117"
+      "commentCount": "8118"
     }
   ]
 }

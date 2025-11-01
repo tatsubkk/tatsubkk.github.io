@@ -3,28 +3,6 @@
     {
       "rank": 1651,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/2uU7cWfnuKw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=2uU7cWfnuKw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ME:I (ミーアイ) ⊹ 'Hi-Five' Official MV",
-        "url": "https://www.youtube.com/watch?v=2uU7cWfnuKw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ME:I",
-        "url": "https://www.youtube.com/channel/UCvTsv4KmVuBdECI08_HR87Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-07-29",
-      "viewCount": "1537万",
-      "likeCount": "12.31万",
-      "commentCount": "3.2万"
-    },
-    {
-      "rank": 1652,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/1awua0YrSRs/default.jpg",
         "url": "https://www.youtube.com/watch?v=1awua0YrSRs",
         "target": "_blank"
@@ -43,6 +21,28 @@
       "viewCount": "3119万",
       "likeCount": "12.31万",
       "commentCount": "5744"
+    },
+    {
+      "rank": 1652,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/2uU7cWfnuKw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=2uU7cWfnuKw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ME:I (ミーアイ) ⊹ 'Hi-Five' Official MV",
+        "url": "https://www.youtube.com/watch?v=2uU7cWfnuKw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ME:I",
+        "url": "https://www.youtube.com/channel/UCvTsv4KmVuBdECI08_HR87Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-07-29",
+      "viewCount": "1537万",
+      "likeCount": "12.31万",
+      "commentCount": "3.2万"
     },
     {
       "rank": 1653,
@@ -84,7 +84,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-02",
-      "viewCount": "2063万",
+      "viewCount": "2064万",
       "likeCount": "12.3万",
       "commentCount": "2944"
     },
@@ -106,7 +106,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-04-05",
-      "viewCount": "1693万",
+      "viewCount": "1694万",
       "likeCount": "12.3万",
       "commentCount": "2万"
     },
@@ -172,12 +172,34 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-06",
-      "viewCount": "6621万",
+      "viewCount": "6623万",
       "likeCount": "12.28万",
-      "commentCount": "6382"
+      "commentCount": "6383"
     },
     {
       "rank": 1659,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/_2hwblQ_I20/default.jpg",
+        "url": "https://www.youtube.com/watch?v=_2hwblQ_I20",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "UNISON SQUARE GARDEN「カオスが極まる」ブルーロック Animation MV",
+        "url": "https://www.youtube.com/watch?v=_2hwblQ_I20",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "unisonsgofficial",
+        "url": "https://www.youtube.com/channel/UC1uZYgOfncA-Gnk0GsLVK5A",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-12-23",
+      "viewCount": "1648万",
+      "likeCount": "12.27万",
+      "commentCount": "1885"
+    },
+    {
+      "rank": 1660,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ITcuTjKEd9o/default.jpg",
         "url": "https://www.youtube.com/watch?v=ITcuTjKEd9o",
@@ -197,28 +219,6 @@
       "viewCount": "1584万",
       "likeCount": "12.27万",
       "commentCount": "3692"
-    },
-    {
-      "rank": 1660,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/_2hwblQ_I20/default.jpg",
-        "url": "https://www.youtube.com/watch?v=_2hwblQ_I20",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "UNISON SQUARE GARDEN「カオスが極まる」ブルーロック Animation MV",
-        "url": "https://www.youtube.com/watch?v=_2hwblQ_I20",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "unisonsgofficial",
-        "url": "https://www.youtube.com/channel/UC1uZYgOfncA-Gnk0GsLVK5A",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-12-23",
-      "viewCount": "1647万",
-      "likeCount": "12.27万",
-      "commentCount": "1885"
     },
     {
       "rank": 1661,
@@ -283,8 +283,8 @@
       },
       "publishedAt": "2018-04-06",
       "viewCount": "2262万",
-      "likeCount": "12.22万",
-      "commentCount": "2945"
+      "likeCount": "12.23万",
+      "commentCount": "2946"
     },
     {
       "rank": 1664,
@@ -304,7 +304,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-06-18",
-      "viewCount": "2180万",
+      "viewCount": "2181万",
       "likeCount": "12.21万",
       "commentCount": "3924"
     },
@@ -333,6 +333,28 @@
     {
       "rank": 1666,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/UK5xSs9jBlk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=UK5xSs9jBlk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "サザンオールスターズ - 希望の轍 [Live at ROCK IN JAPAN FESTIVAL, 2018]",
+        "url": "https://www.youtube.com/watch?v=UK5xSs9jBlk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "サザンオールスターズ",
+        "url": "https://www.youtube.com/channel/UCSXpSoWV4_R1Taf_4E2fOsQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-06-25",
+      "viewCount": "3529万",
+      "likeCount": "12.2万",
+      "commentCount": "2192"
+    },
+    {
+      "rank": 1667,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/sRC6ki5sHhY/default.jpg",
         "url": "https://www.youtube.com/watch?v=sRC6ki5sHhY",
         "target": "_blank"
@@ -353,28 +375,6 @@
       "commentCount": "8830"
     },
     {
-      "rank": 1667,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/UK5xSs9jBlk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=UK5xSs9jBlk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "サザンオールスターズ - 希望の轍 [Live at ROCK IN JAPAN FESTIVAL, 2018]",
-        "url": "https://www.youtube.com/watch?v=UK5xSs9jBlk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "サザンオールスターズ",
-        "url": "https://www.youtube.com/channel/UCSXpSoWV4_R1Taf_4E2fOsQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-06-25",
-      "viewCount": "3528万",
-      "likeCount": "12.2万",
-      "commentCount": "2192"
-    },
-    {
       "rank": 1668,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qivRUhepWVA/default.jpg",
@@ -392,12 +392,34 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
-      "viewCount": "4913万",
-      "likeCount": "12.16万",
+      "viewCount": "4917万",
+      "likeCount": "12.17万",
       "commentCount": "353"
     },
     {
       "rank": 1669,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1WTy2yqKI4w/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1WTy2yqKI4w",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[Official Music Video] Perfume「チョコレイト・ディスコ」",
+        "url": "https://www.youtube.com/watch?v=1WTy2yqKI4w",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Perfume",
+        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-06-18",
+      "viewCount": "1861万",
+      "likeCount": "12.15万",
+      "commentCount": "6522"
+    },
+    {
+      "rank": 1670,
       "thumb": {
         "img": "https://i.ytimg.com/vi/JjIiK9VcIsA/default.jpg",
         "url": "https://www.youtube.com/watch?v=JjIiK9VcIsA",
@@ -419,28 +441,6 @@
       "commentCount": "3099"
     },
     {
-      "rank": 1670,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1WTy2yqKI4w/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1WTy2yqKI4w",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[Official Music Video] Perfume「チョコレイト・ディスコ」",
-        "url": "https://www.youtube.com/watch?v=1WTy2yqKI4w",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Perfume",
-        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-06-18",
-      "viewCount": "1861万",
-      "likeCount": "12.15万",
-      "commentCount": "6519"
-    },
-    {
       "rank": 1671,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ZeDGODkAoxU/default.jpg",
@@ -460,7 +460,7 @@
       "publishedAt": "2015-11-02",
       "viewCount": "1063万",
       "likeCount": "12.14万",
-      "commentCount": "3276"
+      "commentCount": "3277"
     },
     {
       "rank": 1672,
@@ -482,7 +482,7 @@
       "publishedAt": "2016-12-26",
       "viewCount": "1394万",
       "likeCount": "12.13万",
-      "commentCount": "4577"
+      "commentCount": "4578"
     },
     {
       "rank": 1673,
@@ -548,7 +548,7 @@
       "publishedAt": "2013-01-25",
       "viewCount": "3143万",
       "likeCount": "12.1万",
-      "commentCount": "6386"
+      "commentCount": "6388"
     },
     {
       "rank": 1676,
@@ -575,6 +575,28 @@
     {
       "rank": 1677,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/kNH3eExqWFw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=kNH3eExqWFw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "back number - ベルベットの詩",
+        "url": "https://www.youtube.com/watch?v=kNH3eExqWFw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "back number",
+        "url": "https://www.youtube.com/channel/UCgipy6-EqjT-1BCDndXX1PA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-08-26",
+      "viewCount": "1730万",
+      "likeCount": "12.08万",
+      "commentCount": "3300"
+    },
+    {
+      "rank": 1678,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/qknDI1k39Ic/default.jpg",
         "url": "https://www.youtube.com/watch?v=qknDI1k39Ic",
         "target": "_blank"
@@ -593,28 +615,6 @@
       "viewCount": "1506万",
       "likeCount": "12.08万",
       "commentCount": "2381"
-    },
-    {
-      "rank": 1678,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/kNH3eExqWFw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=kNH3eExqWFw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "back number - ベルベットの詩",
-        "url": "https://www.youtube.com/watch?v=kNH3eExqWFw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "back number",
-        "url": "https://www.youtube.com/channel/UCgipy6-EqjT-1BCDndXX1PA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-08-26",
-      "viewCount": "1730万",
-      "likeCount": "12.08万",
-      "commentCount": "3298"
     },
     {
       "rank": 1679,
@@ -636,7 +636,7 @@
       "publishedAt": "2019-04-03",
       "viewCount": "1221万",
       "likeCount": "12.07万",
-      "commentCount": "4393"
+      "commentCount": "4394"
     },
     {
       "rank": 1680,
@@ -658,7 +658,7 @@
       "publishedAt": "2019-08-22",
       "viewCount": "1112万",
       "likeCount": "12.07万",
-      "commentCount": "3076"
+      "commentCount": "3077"
     },
     {
       "rank": 1681,
@@ -685,6 +685,28 @@
     {
       "rank": 1682,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/fmDB-HyPNYc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=fmDB-HyPNYc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "幾田りら 「Answer」 Official Music Video",
+        "url": "https://www.youtube.com/watch?v=fmDB-HyPNYc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "幾田りら Official",
+        "url": "https://www.youtube.com/channel/UCztEY6czNyJKjRWMwuur9bg",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-03-25",
+      "viewCount": "1619万",
+      "likeCount": "12.06万",
+      "commentCount": "1771"
+    },
+    {
+      "rank": 1683,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/43wWe7_SztA/default.jpg",
         "url": "https://www.youtube.com/watch?v=43wWe7_SztA",
         "target": "_blank"
@@ -705,7 +727,7 @@
       "commentCount": "5478"
     },
     {
-      "rank": 1683,
+      "rank": 1684,
       "thumb": {
         "img": "https://i.ytimg.com/vi/gNUyc4mIRws/default.jpg",
         "url": "https://www.youtube.com/watch?v=gNUyc4mIRws",
@@ -723,11 +745,11 @@
       },
       "publishedAt": "2024-07-24",
       "viewCount": "1275万",
-      "likeCount": "12.05万",
-      "commentCount": "7845"
+      "likeCount": "12.06万",
+      "commentCount": "7847"
     },
     {
-      "rank": 1684,
+      "rank": 1685,
       "thumb": {
         "img": "https://i.ytimg.com/vi/eWnLRboP6LI/default.jpg",
         "url": "https://www.youtube.com/watch?v=eWnLRboP6LI",
@@ -746,29 +768,7 @@
       "publishedAt": "2015-03-04",
       "viewCount": "2147万",
       "likeCount": "12.05万",
-      "commentCount": "6025"
-    },
-    {
-      "rank": 1685,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/fmDB-HyPNYc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=fmDB-HyPNYc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "幾田りら 「Answer」 Official Music Video",
-        "url": "https://www.youtube.com/watch?v=fmDB-HyPNYc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "幾田りら Official",
-        "url": "https://www.youtube.com/channel/UCztEY6czNyJKjRWMwuur9bg",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-03-25",
-      "viewCount": "1618万",
-      "likeCount": "12.05万",
-      "commentCount": "1770"
+      "commentCount": "6028"
     },
     {
       "rank": 1686,
@@ -789,7 +789,7 @@
       },
       "publishedAt": "2020-03-25",
       "viewCount": "1370万",
-      "likeCount": "12.04万",
+      "likeCount": "12.05万",
       "commentCount": "2067"
     },
     {
@@ -834,7 +834,7 @@
       "publishedAt": "2018-06-12",
       "viewCount": "3908万",
       "likeCount": "12.04万",
-      "commentCount": "8361"
+      "commentCount": "8360"
     },
     {
       "rank": 1689,
@@ -854,9 +854,9 @@
         "target": "_blank"
       },
       "publishedAt": "2014-04-01",
-      "viewCount": "3292万",
+      "viewCount": "3293万",
       "likeCount": "12.03万",
-      "commentCount": "7394"
+      "commentCount": "7398"
     },
     {
       "rank": 1690,
@@ -883,6 +883,28 @@
     {
       "rank": 1691,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/3Um_xMmE8OA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=3Um_xMmE8OA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mr.Children 「くるみ」 MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=3Um_xMmE8OA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mr.Children Official Channel",
+        "url": "https://www.youtube.com/channel/UCXteDRy5qB0IjA8WPusCJ7w",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-05-28",
+      "viewCount": "3896万",
+      "likeCount": "11.97万",
+      "commentCount": "6954"
+    },
+    {
+      "rank": 1692,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/FPLxRe4ho_A/default.jpg",
         "url": "https://www.youtube.com/watch?v=FPLxRe4ho_A",
         "target": "_blank"
@@ -903,28 +925,6 @@
       "commentCount": "8978"
     },
     {
-      "rank": 1692,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/3Um_xMmE8OA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=3Um_xMmE8OA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mr.Children 「くるみ」 MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=3Um_xMmE8OA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mr.Children Official Channel",
-        "url": "https://www.youtube.com/channel/UCXteDRy5qB0IjA8WPusCJ7w",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-05-28",
-      "viewCount": "3895万",
-      "likeCount": "11.97万",
-      "commentCount": "6950"
-    },
-    {
       "rank": 1693,
       "thumb": {
         "img": "https://i.ytimg.com/vi/AeMRXJtg500/default.jpg",
@@ -942,8 +942,8 @@
         "target": "_blank"
       },
       "publishedAt": "2008-12-08",
-      "viewCount": "3606万",
-      "likeCount": "11.96万",
+      "viewCount": "3607万",
+      "likeCount": "11.97万",
       "commentCount": "5260"
     },
     {
@@ -964,7 +964,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-05",
-      "viewCount": "3374万",
+      "viewCount": "3375万",
       "likeCount": "11.96万",
       "commentCount": "4348"
     },
@@ -1032,7 +1032,7 @@
       "publishedAt": "2022-09-08",
       "viewCount": "1208万",
       "likeCount": "11.93万",
-      "commentCount": "2439"
+      "commentCount": "2440"
     },
     {
       "rank": 1698,
@@ -1074,7 +1074,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-04-27",
-      "viewCount": "1739万",
+      "viewCount": "1740万",
       "likeCount": "11.91万",
       "commentCount": "1.8万"
     },
@@ -1096,7 +1096,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-04-15",
-      "viewCount": "1336万",
+      "viewCount": "1337万",
       "likeCount": "11.88万",
       "commentCount": "4.2万"
     }
