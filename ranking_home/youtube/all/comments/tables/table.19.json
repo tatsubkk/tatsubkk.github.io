@@ -18,7 +18,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-02-24",
-      "viewCount": "8912万",
+      "viewCount": "8914万",
       "likeCount": "49.7万",
       "commentCount": "1.1万"
     },
@@ -128,7 +128,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-16",
-      "viewCount": "8885万",
+      "viewCount": "8888万",
       "likeCount": "25.8万",
       "commentCount": "1.1万"
     },
@@ -150,7 +150,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-22",
-      "viewCount": "3268万",
+      "viewCount": "3270万",
       "likeCount": "46.4万",
       "commentCount": "1.1万"
     },
@@ -172,7 +172,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-20",
-      "viewCount": "1181万",
+      "viewCount": "1182万",
       "likeCount": "23.3万",
       "commentCount": "1.09万"
     },
@@ -194,12 +194,34 @@
         "target": "_blank"
       },
       "publishedAt": "2011-01-24",
-      "viewCount": "1億3202万",
-      "likeCount": "15.9万",
+      "viewCount": "1億3203万",
+      "likeCount": "16万",
       "commentCount": "1.09万"
     },
     {
       "rank": 910,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/BYGo5t6rdA8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=BYGo5t6rdA8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "米津玄師 - 毎日　Kenshi Yonezu - Mainichi ( Every Day )",
+        "url": "https://www.youtube.com/watch?v=BYGo5t6rdA8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-05-28",
+      "viewCount": "1845万",
+      "likeCount": "20.1万",
+      "commentCount": "1.09万"
+    },
+    {
+      "rank": 911,
       "thumb": {
         "img": "https://i.ytimg.com/vi/BFSAQ9RUHtg/default.jpg",
         "url": "https://www.youtube.com/watch?v=BFSAQ9RUHtg",
@@ -221,28 +243,6 @@
       "commentCount": "1.09万"
     },
     {
-      "rank": 911,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/BYGo5t6rdA8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=BYGo5t6rdA8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "米津玄師 - 毎日　Kenshi Yonezu - Mainichi ( Every Day )",
-        "url": "https://www.youtube.com/watch?v=BYGo5t6rdA8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-05-28",
-      "viewCount": "1844万",
-      "likeCount": "20.1万",
-      "commentCount": "1.09万"
-    },
-    {
       "rank": 912,
       "thumb": {
         "img": "https://i.ytimg.com/vi/pUH9vCsvq08/default.jpg",
@@ -260,7 +260,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-07",
-      "viewCount": "5344万",
+      "viewCount": "5347万",
       "likeCount": "49.4万",
       "commentCount": "1.09万"
     },
@@ -304,12 +304,12 @@
         "target": "_blank"
       },
       "publishedAt": "2017-08-01",
-      "viewCount": "4233万",
+      "viewCount": "4235万",
       "likeCount": "21.5万",
       "commentCount": "1.09万"
     },
     {
-      "rank": 915,
+      "rank": 914,
       "thumb": {
         "img": "https://i.ytimg.com/vi/mp2-w15SXms/default.jpg",
         "url": "https://www.youtube.com/watch?v=mp2-w15SXms",
@@ -326,7 +326,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-05-26",
-      "viewCount": "1億9331万",
+      "viewCount": "1億9337万",
       "likeCount": "66.7万",
       "commentCount": "1.09万"
     },
@@ -348,7 +348,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-07-06",
-      "viewCount": "2881万",
+      "viewCount": "2882万",
       "likeCount": "30.1万",
       "commentCount": "1.09万"
     },
@@ -370,7 +370,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-12-24",
-      "viewCount": "3106万",
+      "viewCount": "3107万",
       "likeCount": "20.9万",
       "commentCount": "1.09万"
     },
@@ -392,8 +392,8 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-18",
-      "viewCount": "4227万",
-      "likeCount": "39.4万",
+      "viewCount": "4228万",
+      "likeCount": "39.5万",
       "commentCount": "1.09万"
     },
     {
@@ -421,6 +421,28 @@
     {
       "rank": 920,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/PWbRleMGagU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=PWbRleMGagU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ヨルシカ - 雨とカプチーノ(Official Video)",
+        "url": "https://www.youtube.com/watch?v=PWbRleMGagU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ヨルシカ / n-buna Official",
+        "url": "https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-08-01",
+      "viewCount": "6936万",
+      "likeCount": "43.3万",
+      "commentCount": "1.09万"
+    },
+    {
+      "rank": 921,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/6HGLeUqoUf8/default.jpg",
         "url": "https://www.youtube.com/watch?v=6HGLeUqoUf8",
         "target": "_blank"
@@ -438,28 +460,6 @@
       "publishedAt": "2014-03-20",
       "viewCount": "2439万",
       "likeCount": "36.3万",
-      "commentCount": "1.08万"
-    },
-    {
-      "rank": 920,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/PWbRleMGagU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=PWbRleMGagU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ヨルシカ - 雨とカプチーノ(Official Video)",
-        "url": "https://www.youtube.com/watch?v=PWbRleMGagU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ヨルシカ / n-buna Official",
-        "url": "https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-08-01",
-      "viewCount": "6933万",
-      "likeCount": "43.3万",
       "commentCount": "1.08万"
     },
     {
@@ -502,7 +502,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-04-01",
-      "viewCount": "4570万",
+      "viewCount": "4571万",
       "likeCount": "16.5万",
       "commentCount": "1.08万"
     },
@@ -524,7 +524,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-16",
-      "viewCount": "2783万",
+      "viewCount": "2784万",
       "likeCount": "39.8万",
       "commentCount": "1.08万"
     },
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-31",
-      "viewCount": "3109万",
+      "viewCount": "3110万",
       "likeCount": "-",
       "commentCount": "1.07万"
     },
@@ -568,7 +568,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-07",
-      "viewCount": "5571万",
+      "viewCount": "5572万",
       "likeCount": "49.3万",
       "commentCount": "1.07万"
     },
@@ -590,7 +590,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-06-11",
-      "viewCount": "5507万",
+      "viewCount": "5508万",
       "likeCount": "25.7万",
       "commentCount": "1.07万"
     },
@@ -612,7 +612,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-10-29",
-      "viewCount": "2405万",
+      "viewCount": "2406万",
       "likeCount": "71.6万",
       "commentCount": "1.07万"
     },
@@ -641,6 +641,28 @@
     {
       "rank": 930,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/2IZbzRj3CJk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=2IZbzRj3CJk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SOUL'd OUT　『ウェカピポ』",
+        "url": "https://www.youtube.com/watch?v=2IZbzRj3CJk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SOUL'd OUT オフィシャルYouTubeチャンネル",
+        "url": "https://www.youtube.com/channel/UC4Ws3VbmjUATvxsJlznaqdg",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-01-25",
+      "viewCount": "2961万",
+      "likeCount": "17.5万",
+      "commentCount": "1.06万"
+    },
+    {
+      "rank": 931,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/YOYeJn4mz8M/default.jpg",
         "url": "https://www.youtube.com/watch?v=YOYeJn4mz8M",
         "target": "_blank"
@@ -657,29 +679,7 @@
       },
       "publishedAt": "2020-12-01",
       "viewCount": "2536万",
-      "likeCount": "19.2万",
-      "commentCount": "1.06万"
-    },
-    {
-      "rank": 931,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/2IZbzRj3CJk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=2IZbzRj3CJk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SOUL'd OUT　『ウェカピポ』",
-        "url": "https://www.youtube.com/watch?v=2IZbzRj3CJk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SOUL'd OUT オフィシャルYouTubeチャンネル",
-        "url": "https://www.youtube.com/channel/UC4Ws3VbmjUATvxsJlznaqdg",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-01-25",
-      "viewCount": "2960万",
-      "likeCount": "17.5万",
+      "likeCount": "19.3万",
       "commentCount": "1.06万"
     },
     {
@@ -700,7 +700,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-10-24",
-      "viewCount": "1824万",
+      "viewCount": "1826万",
       "likeCount": "17万",
       "commentCount": "1.06万"
     },
@@ -722,7 +722,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-29",
-      "viewCount": "1112万",
+      "viewCount": "1113万",
       "likeCount": "31.2万",
       "commentCount": "1.06万"
     },
@@ -766,7 +766,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-25",
-      "viewCount": "3704万",
+      "viewCount": "3707万",
       "likeCount": "19.6万",
       "commentCount": "1.05万"
     },
@@ -810,7 +810,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-12",
-      "viewCount": "6032万",
+      "viewCount": "6034万",
       "likeCount": "50万",
       "commentCount": "1.05万"
     },
@@ -832,7 +832,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-28",
-      "viewCount": "8886万",
+      "viewCount": "8889万",
       "likeCount": "20.1万",
       "commentCount": "1.05万"
     },
@@ -854,7 +854,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-01",
-      "viewCount": "4156万",
+      "viewCount": "4157万",
       "likeCount": "9.9万",
       "commentCount": "1.05万"
     },
@@ -898,7 +898,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-08",
-      "viewCount": "2575万",
+      "viewCount": "2576万",
       "likeCount": "-",
       "commentCount": "1.05万"
     },
@@ -942,7 +942,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-24",
-      "viewCount": "3524万",
+      "viewCount": "3525万",
       "likeCount": "41.4万",
       "commentCount": "1.04万"
     },
@@ -964,12 +964,12 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-23",
-      "viewCount": "4302万",
+      "viewCount": "4306万",
       "likeCount": "27.5万",
       "commentCount": "1.04万"
     },
     {
-      "rank": 944,
+      "rank": 945,
       "thumb": {
         "img": "https://i.ytimg.com/vi/4QXCPuwBz2E/default.jpg",
         "url": "https://www.youtube.com/watch?v=4QXCPuwBz2E",
@@ -1030,7 +1030,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-30",
-      "viewCount": "2914万",
+      "viewCount": "2915万",
       "likeCount": "54.6万",
       "commentCount": "1.04万"
     },
@@ -1052,7 +1052,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-06-26",
-      "viewCount": "7876万",
+      "viewCount": "7878万",
       "likeCount": "16.7万",
       "commentCount": "1.04万"
     },
@@ -1074,7 +1074,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-02-20",
-      "viewCount": "4077万",
+      "viewCount": "4079万",
       "likeCount": "47.2万",
       "commentCount": "1.04万"
     },
@@ -1096,7 +1096,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-16",
-      "viewCount": "3364万",
+      "viewCount": "3366万",
       "likeCount": "25.1万",
       "commentCount": "1.04万"
     }

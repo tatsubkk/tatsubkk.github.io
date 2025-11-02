@@ -1,7 +1,7 @@
 {
   "rows": [
     {
-      "rank": 1451,
+      "rank": 1450,
       "thumb": {
         "img": "https://i.ytimg.com/vi/IzqLX_KVK0Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=IzqLX_KVK0Q",
@@ -18,9 +18,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-06",
-      "viewCount": "6623万",
+      "viewCount": "6625万",
       "likeCount": "12.3万",
-      "commentCount": "6383"
+      "commentCount": "6386"
     },
     {
       "rank": 1452,
@@ -62,9 +62,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-18",
-      "viewCount": "5330万",
+      "viewCount": "5333万",
       "likeCount": "45.3万",
-      "commentCount": "6374"
+      "commentCount": "6375"
     },
     {
       "rank": 1454,
@@ -106,9 +106,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-02-24",
-      "viewCount": "2172万",
+      "viewCount": "2173万",
       "likeCount": "31.1万",
-      "commentCount": "6346"
+      "commentCount": "6348"
     },
     {
       "rank": 1456,
@@ -128,7 +128,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-11",
-      "viewCount": "2470万",
+      "viewCount": "2471万",
       "likeCount": "37万",
       "commentCount": "6345"
     },
@@ -216,9 +216,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-29",
-      "viewCount": "6155万",
+      "viewCount": "6156万",
       "likeCount": "26.2万",
-      "commentCount": "6326"
+      "commentCount": "6328"
     },
     {
       "rank": 1461,
@@ -245,28 +245,6 @@
     {
       "rank": 1462,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/RxIeyXLba8k/default.jpg",
-        "url": "https://www.youtube.com/watch?v=RxIeyXLba8k",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "HoneyWorks　『告白予行練習 feat.榎本夏樹(CV：戸松遥)』",
-        "url": "https://www.youtube.com/watch?v=RxIeyXLba8k",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-11-14",
-      "viewCount": "2404万",
-      "likeCount": "10.9万",
-      "commentCount": "6314"
-    },
-    {
-      "rank": 1463,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/gD2mhJ3ByGQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=gD2mhJ3ByGQ",
         "target": "_blank"
@@ -282,8 +260,30 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-27",
-      "viewCount": "4560万",
+      "viewCount": "4561万",
       "likeCount": "17.1万",
+      "commentCount": "6313"
+    },
+    {
+      "rank": 1462,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/RxIeyXLba8k/default.jpg",
+        "url": "https://www.youtube.com/watch?v=RxIeyXLba8k",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "HoneyWorks　『告白予行練習 feat.榎本夏樹(CV：戸松遥)』",
+        "url": "https://www.youtube.com/watch?v=RxIeyXLba8k",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-11-14",
+      "viewCount": "2405万",
+      "likeCount": "10.9万",
       "commentCount": "6313"
     },
     {
@@ -306,29 +306,7 @@
       "publishedAt": "2019-12-09",
       "viewCount": "5268万",
       "likeCount": "32.5万",
-      "commentCount": "6307"
-    },
-    {
-      "rank": 1465,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/wol-XHb1VhM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=wol-XHb1VhM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SUPER BEAVER「らしさ」MV",
-        "url": "https://www.youtube.com/watch?v=wol-XHb1VhM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SUPER BEAVER Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCKYG5wIg3B_QuwyiLXgGklA",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-09-01",
-      "viewCount": "2649万",
-      "likeCount": "20.9万",
-      "commentCount": "6301"
+      "commentCount": "6308"
     },
     {
       "rank": 1465,
@@ -350,6 +328,28 @@
       "publishedAt": "2016-11-04",
       "viewCount": "2760万",
       "likeCount": "10.8万",
+      "commentCount": "6301"
+    },
+    {
+      "rank": 1465,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/wol-XHb1VhM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=wol-XHb1VhM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SUPER BEAVER「らしさ」MV",
+        "url": "https://www.youtube.com/watch?v=wol-XHb1VhM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SUPER BEAVER Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCKYG5wIg3B_QuwyiLXgGklA",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-09-01",
+      "viewCount": "2650万",
+      "likeCount": "20.9万",
       "commentCount": "6301"
     },
     {
@@ -394,7 +394,7 @@
       "publishedAt": "2022-09-14",
       "viewCount": "1982万",
       "likeCount": "-",
-      "commentCount": "6274"
+      "commentCount": "6276"
     },
     {
       "rank": 1469,
@@ -414,9 +414,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-04-23",
-      "viewCount": "3816万",
+      "viewCount": "3817万",
       "likeCount": "10.9万",
-      "commentCount": "6264"
+      "commentCount": "6263"
     },
     {
       "rank": 1470,
@@ -436,9 +436,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-07-14",
-      "viewCount": "4197万",
+      "viewCount": "4199万",
       "likeCount": "36.5万",
-      "commentCount": "6249"
+      "commentCount": "6250"
     },
     {
       "rank": 1471,
@@ -480,9 +480,31 @@
         "target": "_blank"
       },
       "publishedAt": "2009-06-27",
-      "viewCount": "2964万",
+      "viewCount": "2965万",
       "likeCount": "12.8万",
       "commentCount": "6241"
+    },
+    {
+      "rank": 1473,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/51jx8ilwM5Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=51jx8ilwM5Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Fujii Kaze - Hedemo Ne-Yo (Single Version)",
+        "url": "https://www.youtube.com/watch?v=51jx8ilwM5Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Fujii Kaze",
+        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-12-04",
+      "viewCount": "1417万",
+      "likeCount": "17.1万",
+      "commentCount": "6232"
     },
     {
       "rank": 1473,
@@ -502,31 +524,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-10-24",
-      "viewCount": "1804万",
+      "viewCount": "1805万",
       "likeCount": "17.6万",
       "commentCount": "6232"
-    },
-    {
-      "rank": 1474,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/51jx8ilwM5Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=51jx8ilwM5Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Fujii Kaze - Hedemo Ne-Yo (Single Version)",
-        "url": "https://www.youtube.com/watch?v=51jx8ilwM5Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Fujii Kaze",
-        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-12-04",
-      "viewCount": "1416万",
-      "likeCount": "17万",
-      "commentCount": "6231"
     },
     {
       "rank": 1475,
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-12-14",
-      "viewCount": "5633万",
+      "viewCount": "5635万",
       "likeCount": "36.1万",
       "commentCount": "6226"
     },
@@ -568,7 +568,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-01",
-      "viewCount": "2067万",
+      "viewCount": "2068万",
       "likeCount": "23.4万",
       "commentCount": "6225"
     },
@@ -612,7 +612,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-08-29",
-      "viewCount": "4171万",
+      "viewCount": "4172万",
       "likeCount": "9万",
       "commentCount": "6211"
     },
@@ -634,7 +634,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-12",
-      "viewCount": "1339万",
+      "viewCount": "1340万",
       "likeCount": "12.3万",
       "commentCount": "6205"
     },
@@ -656,9 +656,9 @@
         "target": "_blank"
       },
       "publishedAt": "2017-07-15",
-      "viewCount": "4056万",
+      "viewCount": "4058万",
       "likeCount": "16.9万",
-      "commentCount": "6199"
+      "commentCount": "6201"
     },
     {
       "rank": 1481,
@@ -722,9 +722,31 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-09",
-      "viewCount": "1771万",
+      "viewCount": "1772万",
       "likeCount": "35.8万",
-      "commentCount": "6188"
+      "commentCount": "6189"
+    },
+    {
+      "rank": 1484,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Nij9BiHzP7E/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Nij9BiHzP7E",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "神はサイコロを振らない「夜永唄」【Official Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=Nij9BiHzP7E",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "神はサイコロを振らない",
+        "url": "https://www.youtube.com/channel/UCipIkLmhz2DFOL0-Rng_Qog",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-06-26",
+      "viewCount": "3532万",
+      "likeCount": "30.5万",
+      "commentCount": "6187"
     },
     {
       "rank": 1484,
@@ -744,31 +766,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-19",
-      "viewCount": "2228万",
+      "viewCount": "2229万",
       "likeCount": "37.9万",
       "commentCount": "6187"
-    },
-    {
-      "rank": 1485,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Nij9BiHzP7E/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Nij9BiHzP7E",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "神はサイコロを振らない「夜永唄」【Official Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=Nij9BiHzP7E",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "神はサイコロを振らない",
-        "url": "https://www.youtube.com/channel/UCipIkLmhz2DFOL0-Rng_Qog",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-06-26",
-      "viewCount": "3532万",
-      "likeCount": "30.4万",
-      "commentCount": "6186"
     },
     {
       "rank": 1486,
@@ -788,9 +788,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-23",
-      "viewCount": "3949万",
+      "viewCount": "3950万",
       "likeCount": "40.1万",
-      "commentCount": "6170"
+      "commentCount": "6169"
     },
     {
       "rank": 1487,
@@ -810,9 +810,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-27",
-      "viewCount": "1743万",
+      "viewCount": "1744万",
       "likeCount": "44.9万",
-      "commentCount": "6166"
+      "commentCount": "6167"
     },
     {
       "rank": 1488,
@@ -854,7 +854,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-10",
-      "viewCount": "1813万",
+      "viewCount": "1814万",
       "likeCount": "22.2万",
       "commentCount": "6142"
     },
@@ -898,9 +898,9 @@
         "target": "_blank"
       },
       "publishedAt": "2017-11-28",
-      "viewCount": "4926万",
+      "viewCount": "4927万",
       "likeCount": "32.7万",
-      "commentCount": "6129"
+      "commentCount": "6131"
     },
     {
       "rank": 1491,
@@ -920,9 +920,9 @@
         "target": "_blank"
       },
       "publishedAt": "2014-04-01",
-      "viewCount": "3189万",
+      "viewCount": "3191万",
       "likeCount": "10.6万",
-      "commentCount": "6129"
+      "commentCount": "6131"
     },
     {
       "rank": 1493,
@@ -944,32 +944,10 @@
       "publishedAt": "2020-01-16",
       "viewCount": "1413万",
       "likeCount": "21.8万",
-      "commentCount": "6106"
+      "commentCount": "6107"
     },
     {
       "rank": 1494,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/uQx7Lmb-dcg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=uQx7Lmb-dcg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "なにわ男子 - ダイヤモンドスマイル [Music Video Dance ver.]",
-        "url": "https://www.youtube.com/watch?v=uQx7Lmb-dcg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "なにわ男子",
-        "url": "https://www.youtube.com/channel/UCDtVdj7sm41Ysg3XSiSUH3w",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-07-23",
-      "viewCount": "2627万",
-      "likeCount": "-",
-      "commentCount": "6069"
-    },
-    {
-      "rank": 1495,
       "thumb": {
         "img": "https://i.ytimg.com/vi/D0ehC_8sQuU/default.jpg",
         "url": "https://www.youtube.com/watch?v=D0ehC_8sQuU",
@@ -991,6 +969,28 @@
       "commentCount": "6068"
     },
     {
+      "rank": 1495,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/uQx7Lmb-dcg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=uQx7Lmb-dcg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "なにわ男子 - ダイヤモンドスマイル [Music Video Dance ver.]",
+        "url": "https://www.youtube.com/watch?v=uQx7Lmb-dcg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "なにわ男子",
+        "url": "https://www.youtube.com/channel/UCDtVdj7sm41Ysg3XSiSUH3w",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-07-23",
+      "viewCount": "2627万",
+      "likeCount": "-",
+      "commentCount": "6067"
+    },
+    {
       "rank": 1496,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Ug0N4qGRp_w/default.jpg",
@@ -1008,9 +1008,9 @@
         "target": "_blank"
       },
       "publishedAt": "2025-04-08",
-      "viewCount": "1763万",
-      "likeCount": "21.7万",
-      "commentCount": "6063"
+      "viewCount": "1766万",
+      "likeCount": "21.8万",
+      "commentCount": "6065"
     },
     {
       "rank": 1497,
@@ -1030,7 +1030,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-12",
-      "viewCount": "4148万",
+      "viewCount": "4149万",
       "likeCount": "23.3万",
       "commentCount": "6061"
     },
@@ -1059,6 +1059,28 @@
     {
       "rank": 1499,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/JUbU6VLV6yI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=JUbU6VLV6yI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV full】 365日の紙飛行機/ AKB48 [公式]",
+        "url": "https://www.youtube.com/watch?v=JUbU6VLV6yI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "AKB48",
+        "url": "https://www.youtube.com/channel/UCxjXU89x6owat9dA8Z-bzdw",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-12-08",
+      "viewCount": "1935万",
+      "likeCount": "10.2万",
+      "commentCount": "6049"
+    },
+    {
+      "rank": 1500,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/kZKmmCIqN2Y/default.jpg",
         "url": "https://www.youtube.com/watch?v=kZKmmCIqN2Y",
         "target": "_blank"
@@ -1077,28 +1099,6 @@
       "viewCount": "1047万",
       "likeCount": "22.3万",
       "commentCount": "6047"
-    },
-    {
-      "rank": 1500,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/YQSS7SgGia8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=YQSS7SgGia8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "湘南乃風 「純恋歌」MUSIC VIDEO（オリジナルver.)",
-        "url": "https://www.youtube.com/watch?v=YQSS7SgGia8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "湘南乃風",
-        "url": "https://www.youtube.com/channel/UCwAVKZKMkKNEMShMK68PuzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-05-30",
-      "viewCount": "6438万",
-      "likeCount": "16.2万",
-      "commentCount": "6044"
     }
   ]
 }
