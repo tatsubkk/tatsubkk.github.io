@@ -1,7 +1,7 @@
 {
   "rows": [
     {
-      "rank": 951,
+      "rank": 950,
       "thumb": {
         "img": "https://i.ytimg.com/vi/m9SMT5ipbxk/default.jpg",
         "url": "https://www.youtube.com/watch?v=m9SMT5ipbxk",
@@ -18,7 +18,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-11",
-      "viewCount": "2億7924万",
+      "viewCount": "2億7937万",
       "likeCount": "143万",
       "commentCount": "1.04万"
     },
@@ -40,7 +40,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-22",
-      "viewCount": "1265万",
+      "viewCount": "1266万",
       "likeCount": "6.9万",
       "commentCount": "1.04万"
     },
@@ -62,12 +62,34 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-31",
-      "viewCount": "2358万",
+      "viewCount": "2359万",
       "likeCount": "35.6万",
       "commentCount": "1.03万"
     },
     {
       "rank": 954,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/wTc3jXDTNBo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=wTc3jXDTNBo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "RADWIMPS - 正解 [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=wTc3jXDTNBo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "RADWIMPS",
+        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-02-22",
+      "viewCount": "3407万",
+      "likeCount": "27.5万",
+      "commentCount": "1.03万"
+    },
+    {
+      "rank": 955,
       "thumb": {
         "img": "https://i.ytimg.com/vi/9Y6H-YjsE9Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=9Y6H-YjsE9Q",
@@ -89,28 +111,6 @@
       "commentCount": "1.03万"
     },
     {
-      "rank": 955,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/VV7LMEbd1Es/default.jpg",
-        "url": "https://www.youtube.com/watch?v=VV7LMEbd1Es",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【公式】アニメ『衛宮さんちの今日のごはん』第二話「鮭ときのこのバターホイル焼き」",
-        "url": "https://www.youtube.com/watch?v=VV7LMEbd1Es",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アニプレックス チャンネル",
-        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-02-08",
-      "viewCount": "1340万",
-      "likeCount": "11.6万",
-      "commentCount": "1.03万"
-    },
-    {
       "rank": 956,
       "thumb": {
         "img": "https://i.ytimg.com/vi/PjGbnPYwt1g/default.jpg",
@@ -128,30 +128,30 @@
         "target": "_blank"
       },
       "publishedAt": "2012-05-21",
-      "viewCount": "6951万",
+      "viewCount": "6952万",
       "likeCount": "21.1万",
       "commentCount": "1.03万"
     },
     {
       "rank": 957,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/wTc3jXDTNBo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=wTc3jXDTNBo",
+        "img": "https://i.ytimg.com/vi/VV7LMEbd1Es/default.jpg",
+        "url": "https://www.youtube.com/watch?v=VV7LMEbd1Es",
         "target": "_blank"
       },
       "title": {
-        "text": "RADWIMPS - 正解 [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=wTc3jXDTNBo",
+        "text": "【公式】アニメ『衛宮さんちの今日のごはん』第二話「鮭ときのこのバターホイル焼き」",
+        "url": "https://www.youtube.com/watch?v=VV7LMEbd1Es",
         "target": "_blank"
       },
       "channel": {
-        "text": "RADWIMPS",
-        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
+        "text": "アニプレックス チャンネル",
+        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
         "target": "_blank"
       },
-      "publishedAt": "2024-02-22",
-      "viewCount": "3401万",
-      "likeCount": "27.5万",
+      "publishedAt": "2018-02-08",
+      "viewCount": "1341万",
+      "likeCount": "11.6万",
       "commentCount": "1.03万"
     },
     {
@@ -172,7 +172,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-05-27",
-      "viewCount": "2949万",
+      "viewCount": "2950万",
       "likeCount": "36.7万",
       "commentCount": "1.03万"
     },
@@ -216,7 +216,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-28",
-      "viewCount": "1億807万",
+      "viewCount": "1億811万",
       "likeCount": "24.8万",
       "commentCount": "1.03万"
     },
@@ -238,7 +238,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-07",
-      "viewCount": "5791万",
+      "viewCount": "5792万",
       "likeCount": "42.2万",
       "commentCount": "1.03万"
     },
@@ -311,6 +311,28 @@
     {
       "rank": 965,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/vkPfKnUaq5k/default.jpg",
+        "url": "https://www.youtube.com/watch?v=vkPfKnUaq5k",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Fujii Kaze - Garden (Not a MV)",
+        "url": "https://www.youtube.com/watch?v=vkPfKnUaq5k",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Fujii Kaze",
+        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-06-13",
+      "viewCount": "5208万",
+      "likeCount": "39.6万",
+      "commentCount": "1.02万"
+    },
+    {
+      "rank": 965,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/EsJGbHJyXYc/default.jpg",
         "url": "https://www.youtube.com/watch?v=EsJGbHJyXYc",
         "target": "_blank"
@@ -326,12 +348,34 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-14",
-      "viewCount": "8927万",
+      "viewCount": "8931万",
       "likeCount": "41.6万",
       "commentCount": "1.02万"
     },
     {
-      "rank": 966,
+      "rank": 967,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/J69oCCM1EcI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=J69oCCM1EcI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Hello Sleepwalkers「午夜の待ち合わせ」MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=J69oCCM1EcI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Hello Sleepwalkers Official",
+        "url": "https://www.youtube.com/channel/UCjiWGVvc7YJKxUp-YE5I0xQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-01-26",
+      "viewCount": "5013万",
+      "likeCount": "50.5万",
+      "commentCount": "1.02万"
+    },
+    {
+      "rank": 967,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vn7vfza-6fQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=vn7vfza-6fQ",
@@ -353,50 +397,6 @@
       "commentCount": "1.02万"
     },
     {
-      "rank": 966,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/vkPfKnUaq5k/default.jpg",
-        "url": "https://www.youtube.com/watch?v=vkPfKnUaq5k",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Fujii Kaze - Garden (Not a MV)",
-        "url": "https://www.youtube.com/watch?v=vkPfKnUaq5k",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Fujii Kaze",
-        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-06-13",
-      "viewCount": "5203万",
-      "likeCount": "39.6万",
-      "commentCount": "1.02万"
-    },
-    {
-      "rank": 968,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/J69oCCM1EcI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=J69oCCM1EcI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Hello Sleepwalkers「午夜の待ち合わせ」MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=J69oCCM1EcI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Hello Sleepwalkers Official",
-        "url": "https://www.youtube.com/channel/UCjiWGVvc7YJKxUp-YE5I0xQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-01-26",
-      "viewCount": "5012万",
-      "likeCount": "50.5万",
-      "commentCount": "1.02万"
-    },
-    {
       "rank": 969,
       "thumb": {
         "img": "https://i.ytimg.com/vi/z7eCaRQK918/default.jpg",
@@ -414,7 +414,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-12-31",
-      "viewCount": "1730万",
+      "viewCount": "1731万",
       "likeCount": "-",
       "commentCount": "1.02万"
     },
@@ -509,6 +509,28 @@
     {
       "rank": 974,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/RkF5_BpBQU4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=RkF5_BpBQU4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "My Little Lover「Hello, Again 〜昔からある場所〜」",
+        "url": "https://www.youtube.com/watch?v=RkF5_BpBQU4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "TOYSFACTORYJP",
+        "url": "https://www.youtube.com/channel/UC4C37AMho6DRUIYnoc4fiSA",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-08-27",
+      "viewCount": "5464万",
+      "likeCount": "18.4万",
+      "commentCount": "1.01万"
+    },
+    {
+      "rank": 975,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/8xwYER57Vts/default.jpg",
         "url": "https://www.youtube.com/watch?v=8xwYER57Vts",
         "target": "_blank"
@@ -529,29 +551,29 @@
       "commentCount": "1.01万"
     },
     {
-      "rank": 975,
+      "rank": 976,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/RkF5_BpBQU4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=RkF5_BpBQU4",
+        "img": "https://i.ytimg.com/vi/WPH1BLHKOJE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=WPH1BLHKOJE",
         "target": "_blank"
       },
       "title": {
-        "text": "My Little Lover「Hello, Again 〜昔からある場所〜」",
-        "url": "https://www.youtube.com/watch?v=RkF5_BpBQU4",
+        "text": "コブクロ - 蕾",
+        "url": "https://www.youtube.com/watch?v=WPH1BLHKOJE",
         "target": "_blank"
       },
       "channel": {
-        "text": "TOYSFACTORYJP",
-        "url": "https://www.youtube.com/channel/UC4C37AMho6DRUIYnoc4fiSA",
+        "text": "コブクロ 公式チャンネル",
+        "url": "https://www.youtube.com/channel/UC73Cla79COot99ltD8wuH0w",
         "target": "_blank"
       },
-      "publishedAt": "2019-08-27",
-      "viewCount": "5462万",
-      "likeCount": "18.4万",
+      "publishedAt": "2014-11-08",
+      "viewCount": "1億943万",
+      "likeCount": "23.4万",
       "commentCount": "1.01万"
     },
     {
-      "rank": 976,
+      "rank": 977,
       "thumb": {
         "img": "https://i.ytimg.com/vi/6NQbSN85kJQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=6NQbSN85kJQ",
@@ -570,28 +592,6 @@
       "publishedAt": "2019-03-14",
       "viewCount": "2021万",
       "likeCount": "10.1万",
-      "commentCount": "1.01万"
-    },
-    {
-      "rank": 976,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/WPH1BLHKOJE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=WPH1BLHKOJE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "コブクロ - 蕾",
-        "url": "https://www.youtube.com/watch?v=WPH1BLHKOJE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "コブクロ 公式チャンネル",
-        "url": "https://www.youtube.com/channel/UC73Cla79COot99ltD8wuH0w",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-11-08",
-      "viewCount": "1億941万",
-      "likeCount": "23.4万",
       "commentCount": "1.01万"
     },
     {
@@ -634,7 +634,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-01-03",
-      "viewCount": "4414万",
+      "viewCount": "4416万",
       "likeCount": "38.4万",
       "commentCount": "1.01万"
     },
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-07-09",
-      "viewCount": "2310万",
+      "viewCount": "2311万",
       "likeCount": "23.9万",
       "commentCount": "1.01万"
     },
@@ -685,28 +685,6 @@
     {
       "rank": 982,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/e9h-XgQCc-A/default.jpg",
-        "url": "https://www.youtube.com/watch?v=e9h-XgQCc-A",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SixTONES – 「ST」 from LIVE DVD/Blu-ray 「on eST」(2021.06.07 YOKOHAMA ARENA)",
-        "url": "https://www.youtube.com/watch?v=e9h-XgQCc-A",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SixTONES",
-        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-09-17",
-      "viewCount": "1070万",
-      "likeCount": "-",
-      "commentCount": "1.01万"
-    },
-    {
-      "rank": 982,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/D_v8oX5s51g/default.jpg",
         "url": "https://www.youtube.com/watch?v=D_v8oX5s51g",
         "target": "_blank"
@@ -727,6 +705,28 @@
       "commentCount": "1.01万"
     },
     {
+      "rank": 983,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/e9h-XgQCc-A/default.jpg",
+        "url": "https://www.youtube.com/watch?v=e9h-XgQCc-A",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SixTONES – 「ST」 from LIVE DVD/Blu-ray 「on eST」(2021.06.07 YOKOHAMA ARENA)",
+        "url": "https://www.youtube.com/watch?v=e9h-XgQCc-A",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SixTONES",
+        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-09-17",
+      "viewCount": "1070万",
+      "likeCount": "-",
+      "commentCount": "1.01万"
+    },
+    {
       "rank": 984,
       "thumb": {
         "img": "https://i.ytimg.com/vi/PRJoAPH0ZGo/default.jpg",
@@ -744,7 +744,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-13",
-      "viewCount": "5536万",
+      "viewCount": "5539万",
       "likeCount": "18.6万",
       "commentCount": "1.01万"
     },
@@ -788,7 +788,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-31",
-      "viewCount": "2168万",
+      "viewCount": "2170万",
       "likeCount": "15.5万",
       "commentCount": "1.01万"
     },
@@ -832,12 +832,12 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-30",
-      "viewCount": "2859万",
+      "viewCount": "2860万",
       "likeCount": "32.3万",
       "commentCount": "1万"
     },
     {
-      "rank": 989,
+      "rank": 988,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Q9cT5EAEGyk/default.jpg",
         "url": "https://www.youtube.com/watch?v=Q9cT5EAEGyk",
@@ -854,7 +854,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-02-20",
-      "viewCount": "2010万",
+      "viewCount": "2011万",
       "likeCount": "21.2万",
       "commentCount": "1万"
     },
@@ -876,9 +876,9 @@
         "target": "_blank"
       },
       "publishedAt": "2016-06-01",
-      "viewCount": "2511万",
+      "viewCount": "2512万",
       "likeCount": "-",
-      "commentCount": "9999"
+      "commentCount": "1万"
     },
     {
       "rank": 991,
@@ -898,9 +898,9 @@
         "target": "_blank"
       },
       "publishedAt": "2018-12-20",
-      "viewCount": "4844万",
+      "viewCount": "4845万",
       "likeCount": "24.1万",
-      "commentCount": "9980"
+      "commentCount": "9979"
     },
     {
       "rank": 992,
@@ -964,9 +964,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-11",
-      "viewCount": "1億482万",
+      "viewCount": "1億489万",
       "likeCount": "42.7万",
-      "commentCount": "9948"
+      "commentCount": "9949"
     },
     {
       "rank": 995,
@@ -1010,7 +1010,7 @@
       "publishedAt": "2021-06-30",
       "viewCount": "1270万",
       "likeCount": "24.2万",
-      "commentCount": "9938"
+      "commentCount": "9936"
     },
     {
       "rank": 997,
@@ -1032,7 +1032,7 @@
       "publishedAt": "2021-05-28",
       "viewCount": "3721万",
       "likeCount": "-",
-      "commentCount": "9934"
+      "commentCount": "9935"
     },
     {
       "rank": 998,
@@ -1076,7 +1076,7 @@
       "publishedAt": "2016-01-21",
       "viewCount": "6606万",
       "likeCount": "16.4万",
-      "commentCount": "9930"
+      "commentCount": "9931"
     },
     {
       "rank": 1000,
@@ -1096,8 +1096,8 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-23",
-      "viewCount": "4363万",
-      "likeCount": "22.7万",
+      "viewCount": "4364万",
+      "likeCount": "22.8万",
       "commentCount": "9928"
     }
   ]

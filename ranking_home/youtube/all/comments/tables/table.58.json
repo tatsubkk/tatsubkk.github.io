@@ -1,7 +1,7 @@
 {
   "rows": [
     {
-      "rank": 2851,
+      "rank": 2850,
       "thumb": {
         "img": "https://i.ytimg.com/vi/mORyYinMBdg/default.jpg",
         "url": "https://www.youtube.com/watch?v=mORyYinMBdg",
@@ -20,7 +20,7 @@
       "publishedAt": "2014-12-08",
       "viewCount": "1115万",
       "likeCount": "3.7万",
-      "commentCount": "1338"
+      "commentCount": "1339"
     },
     {
       "rank": 2852,
@@ -40,9 +40,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-20",
-      "viewCount": "1370万",
+      "viewCount": "1371万",
       "likeCount": "10.5万",
-      "commentCount": "1335"
+      "commentCount": "1336"
     },
     {
       "rank": 2853,
@@ -84,8 +84,8 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-14",
-      "viewCount": "3503万",
-      "likeCount": "10.7万",
+      "viewCount": "3504万",
+      "likeCount": "10.8万",
       "commentCount": "1327"
     },
     {
@@ -135,6 +135,28 @@
     {
       "rank": 2857,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/cgpUjbp9ALk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=cgpUjbp9ALk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BoA / メリクリ",
+        "url": "https://www.youtube.com/watch?v=cgpUjbp9ALk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-12-03",
+      "viewCount": "1186万",
+      "likeCount": "4.2万",
+      "commentCount": "1317"
+    },
+    {
+      "rank": 2858,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/UMlqTEVMZFE/default.jpg",
         "url": "https://www.youtube.com/watch?v=UMlqTEVMZFE",
         "target": "_blank"
@@ -152,29 +174,7 @@
       "publishedAt": "2014-06-09",
       "viewCount": "1205万",
       "likeCount": "3.8万",
-      "commentCount": "1317"
-    },
-    {
-      "rank": 2858,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/cgpUjbp9ALk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=cgpUjbp9ALk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BoA / メリクリ",
-        "url": "https://www.youtube.com/watch?v=cgpUjbp9ALk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-12-03",
-      "viewCount": "1185万",
-      "likeCount": "4.2万",
-      "commentCount": "1314"
+      "commentCount": "1316"
     },
     {
       "rank": 2859,
@@ -194,12 +194,34 @@
         "target": "_blank"
       },
       "publishedAt": "2024-03-04",
-      "viewCount": "1870万",
+      "viewCount": "1872万",
       "likeCount": "6万",
       "commentCount": "1312"
     },
     {
       "rank": 2860,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/mEQZNRT6Pqk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=mEQZNRT6Pqk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "就寝御礼 (Original Mix)",
+        "url": "https://www.youtube.com/watch?v=mEQZNRT6Pqk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "PSYQUI - Topic",
+        "url": "https://www.youtube.com/channel/UCN6g6I3POYZnacDNvOLgJfg",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-01-23",
+      "viewCount": "1830万",
+      "likeCount": "22.1万",
+      "commentCount": "1310"
+    },
+    {
+      "rank": 2861,
       "thumb": {
         "img": "https://i.ytimg.com/vi/VEODasvqlM0/default.jpg",
         "url": "https://www.youtube.com/watch?v=VEODasvqlM0",
@@ -219,28 +241,6 @@
       "viewCount": "1917万",
       "likeCount": "17万",
       "commentCount": "1309"
-    },
-    {
-      "rank": 2861,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/mEQZNRT6Pqk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=mEQZNRT6Pqk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "就寝御礼 (Original Mix)",
-        "url": "https://www.youtube.com/watch?v=mEQZNRT6Pqk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "PSYQUI - Topic",
-        "url": "https://www.youtube.com/channel/UCN6g6I3POYZnacDNvOLgJfg",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-01-23",
-      "viewCount": "1828万",
-      "likeCount": "22.1万",
-      "commentCount": "1308"
     },
     {
       "rank": 2862,
@@ -289,6 +289,28 @@
     {
       "rank": 2864,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/WfTkaKqQbGA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=WfTkaKqQbGA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "LINDBERG / 今すぐKiss Me",
+        "url": "https://www.youtube.com/watch?v=WfTkaKqQbGA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-12-02",
+      "viewCount": "1577万",
+      "likeCount": "4.2万",
+      "commentCount": "1301"
+    },
+    {
+      "rank": 2864,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/8Bbao7u6DH8/default.jpg",
         "url": "https://www.youtube.com/watch?v=8Bbao7u6DH8",
         "target": "_blank"
@@ -306,28 +328,6 @@
       "publishedAt": "2014-07-23",
       "viewCount": "1449万",
       "likeCount": "5.3万",
-      "commentCount": "1301"
-    },
-    {
-      "rank": 2864,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/WfTkaKqQbGA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=WfTkaKqQbGA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "LINDBERG / 今すぐKiss Me",
-        "url": "https://www.youtube.com/watch?v=WfTkaKqQbGA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-12-02",
-      "viewCount": "1576万",
-      "likeCount": "4.2万",
       "commentCount": "1301"
     },
     {
@@ -370,9 +370,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-21",
-      "viewCount": "1291万",
+      "viewCount": "1292万",
       "likeCount": "10.3万",
-      "commentCount": "1292"
+      "commentCount": "1293"
     },
     {
       "rank": 2868,
@@ -414,7 +414,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-03",
-      "viewCount": "1957万",
+      "viewCount": "1960万",
       "likeCount": "9.8万",
       "commentCount": "1287"
     },
@@ -458,9 +458,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-25",
-      "viewCount": "1340万",
+      "viewCount": "1342万",
       "likeCount": "8.8万",
-      "commentCount": "1274"
+      "commentCount": "1276"
     },
     {
       "rank": 2872,
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-14",
-      "viewCount": "2362万",
+      "viewCount": "2363万",
       "likeCount": "7.7万",
       "commentCount": "1259"
     },
@@ -590,7 +590,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-11-25",
-      "viewCount": "1289万",
+      "viewCount": "1290万",
       "likeCount": "-",
       "commentCount": "1254"
     },
@@ -612,7 +612,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-01",
-      "viewCount": "1335万",
+      "viewCount": "1336万",
       "likeCount": "10.9万",
       "commentCount": "1253"
     },
@@ -634,7 +634,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-03",
-      "viewCount": "1655万",
+      "viewCount": "1656万",
       "likeCount": "5.6万",
       "commentCount": "1253"
     },
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-28",
-      "viewCount": "3615万",
+      "viewCount": "3616万",
       "likeCount": "18.5万",
       "commentCount": "1251"
     },
@@ -680,7 +680,7 @@
       "publishedAt": "2023-01-16",
       "viewCount": "1098万",
       "likeCount": "5.7万",
-      "commentCount": "1249"
+      "commentCount": "1250"
     },
     {
       "rank": 2882,
@@ -700,12 +700,12 @@
         "target": "_blank"
       },
       "publishedAt": "2013-08-28",
-      "viewCount": "1297万",
+      "viewCount": "1298万",
       "likeCount": "3.2万",
-      "commentCount": "1248"
+      "commentCount": "1249"
     },
     {
-      "rank": 2882,
+      "rank": 2883,
       "thumb": {
         "img": "https://i.ytimg.com/vi/30XOQJrpMP8/default.jpg",
         "url": "https://www.youtube.com/watch?v=30XOQJrpMP8",
@@ -744,9 +744,9 @@
         "target": "_blank"
       },
       "publishedAt": "2009-04-17",
-      "viewCount": "1327万",
+      "viewCount": "1328万",
       "likeCount": "2.6万",
-      "commentCount": "1246"
+      "commentCount": "1247"
     },
     {
       "rank": 2885,
@@ -788,7 +788,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-04-11",
-      "viewCount": "1303万",
+      "viewCount": "1304万",
       "likeCount": "5万",
       "commentCount": "1243"
     },
@@ -854,9 +854,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-15",
-      "viewCount": "1995万",
+      "viewCount": "1996万",
       "likeCount": "4.1万",
-      "commentCount": "1237"
+      "commentCount": "1239"
     },
     {
       "rank": 2890,
@@ -942,7 +942,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-03",
-      "viewCount": "1341万",
+      "viewCount": "1342万",
       "likeCount": "7.1万",
       "commentCount": "1210"
     },
@@ -986,9 +986,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-09",
-      "viewCount": "1677万",
+      "viewCount": "1678万",
       "likeCount": "5.7万",
-      "commentCount": "1205"
+      "commentCount": "1206"
     },
     {
       "rank": 2896,
@@ -1037,6 +1037,28 @@
     {
       "rank": 2898,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/9svFXJhvdhg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=9svFXJhvdhg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "三代目 J SOUL BROTHERS from EXILE TRIBE / Best Friend's Girl",
+        "url": "https://www.youtube.com/watch?v=9svFXJhvdhg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-11-10",
+      "viewCount": "1496万",
+      "likeCount": "2.7万",
+      "commentCount": "1194"
+    },
+    {
+      "rank": 2899,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/lcz89e42XEM/default.jpg",
         "url": "https://www.youtube.com/watch?v=lcz89e42XEM",
         "target": "_blank"
@@ -1057,28 +1079,6 @@
       "commentCount": "1193"
     },
     {
-      "rank": 2899,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/9svFXJhvdhg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=9svFXJhvdhg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "三代目 J SOUL BROTHERS from EXILE TRIBE / Best Friend's Girl",
-        "url": "https://www.youtube.com/watch?v=9svFXJhvdhg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-11-10",
-      "viewCount": "1495万",
-      "likeCount": "2.7万",
-      "commentCount": "1192"
-    },
-    {
       "rank": 2900,
       "thumb": {
         "img": "https://i.ytimg.com/vi/CUxIykX4hfw/default.jpg",
@@ -1096,7 +1096,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-12-27",
-      "viewCount": "1157万",
+      "viewCount": "1158万",
       "likeCount": "6万",
       "commentCount": "1190"
     }

@@ -3,6 +3,28 @@
     {
       "rank": 251,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/GJI4Gv7NbmE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=GJI4Gv7NbmE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ずっと真夜中でいいのに。『秒針を噛む』MV (ZUTOMAYO – Byoushinwo Kamu)",
+        "url": "https://www.youtube.com/watch?v=GJI4Gv7NbmE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ずっと真夜中でいいのに。 ZUTOMAYO",
+        "url": "https://www.youtube.com/channel/UCv6P5nsS9rP4tDtFlqLU_QQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-06-04",
+      "viewCount": "1億4888万",
+      "likeCount": "114万",
+      "commentCount": "3.17万"
+    },
+    {
+      "rank": 252,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/YGiLQUc8x5E/default.jpg",
         "url": "https://www.youtube.com/watch?v=YGiLQUc8x5E",
         "target": "_blank"
@@ -20,28 +42,6 @@
       "publishedAt": "2018-10-05",
       "viewCount": "2142万",
       "likeCount": "38.2万",
-      "commentCount": "3.17万"
-    },
-    {
-      "rank": 252,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/GJI4Gv7NbmE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=GJI4Gv7NbmE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ずっと真夜中でいいのに。『秒針を噛む』MV (ZUTOMAYO – Byoushinwo Kamu)",
-        "url": "https://www.youtube.com/watch?v=GJI4Gv7NbmE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ずっと真夜中でいいのに。 ZUTOMAYO",
-        "url": "https://www.youtube.com/channel/UCv6P5nsS9rP4tDtFlqLU_QQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-06-04",
-      "viewCount": "1億4886万",
-      "likeCount": "114万",
       "commentCount": "3.17万"
     },
     {
@@ -84,7 +84,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-03-02",
-      "viewCount": "9244万",
+      "viewCount": "9245万",
       "likeCount": "26.2万",
       "commentCount": "3.12万"
     },
@@ -106,7 +106,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-01-23",
-      "viewCount": "1億9139万",
+      "viewCount": "1億9149万",
       "likeCount": "187万",
       "commentCount": "3.11万"
     },
@@ -172,34 +172,12 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-17",
-      "viewCount": "1億651万",
+      "viewCount": "1億652万",
       "likeCount": "87.4万",
       "commentCount": "3.06万"
     },
     {
       "rank": 259,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Mqps4anhz0Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Mqps4anhz0Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[1080P Full風] 千本桜 Senbonzakura \"One Thousand Cherry Trees\"- 初音ミク Hatsune Miku DIVA English Romaji",
-        "url": "https://www.youtube.com/watch?v=Mqps4anhz0Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "googoo888",
-        "url": "https://www.youtube.com/channel/UCdyY6sFMuQA1ZEaih0XvvCA",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-04-11",
-      "viewCount": "5707万",
-      "likeCount": "66.5万",
-      "commentCount": "3.06万"
-    },
-    {
-      "rank": 260,
       "thumb": {
         "img": "https://i.ytimg.com/vi/xfG6L9I7N8I/default.jpg",
         "url": "https://www.youtube.com/watch?v=xfG6L9I7N8I",
@@ -216,8 +194,30 @@
         "target": "_blank"
       },
       "publishedAt": "2021-04-28",
-      "viewCount": "6741万",
+      "viewCount": "6743万",
       "likeCount": "44.6万",
+      "commentCount": "3.06万"
+    },
+    {
+      "rank": 260,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Mqps4anhz0Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Mqps4anhz0Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[1080P Full風] 千本桜 Senbonzakura \"One Thousand Cherry Trees\"- 初音ミク Hatsune Miku DIVA English Romaji",
+        "url": "https://www.youtube.com/watch?v=Mqps4anhz0Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "googoo888",
+        "url": "https://www.youtube.com/channel/UCdyY6sFMuQA1ZEaih0XvvCA",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-04-11",
+      "viewCount": "5708万",
+      "likeCount": "66.5万",
       "commentCount": "3.06万"
     },
     {
@@ -238,8 +238,8 @@
         "target": "_blank"
       },
       "publishedAt": "2019-06-03",
-      "viewCount": "2億1859万",
-      "likeCount": "83.6万",
+      "viewCount": "2億1861万",
+      "likeCount": "83.7万",
       "commentCount": "3.05万"
     },
     {
@@ -260,7 +260,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-05",
-      "viewCount": "2億220万",
+      "viewCount": "2億225万",
       "likeCount": "128万",
       "commentCount": "3.04万"
     },
@@ -282,7 +282,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-02-27",
-      "viewCount": "8349万",
+      "viewCount": "8355万",
       "likeCount": "152万",
       "commentCount": "3.04万"
     },
@@ -304,34 +304,12 @@
         "target": "_blank"
       },
       "publishedAt": "2015-04-08",
-      "viewCount": "1億1037万",
+      "viewCount": "1億1038万",
       "likeCount": "42.7万",
       "commentCount": "3.03万"
     },
     {
       "rank": 265,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/teMdjJ3w9iM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=teMdjJ3w9iM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "きゃりーぱみゅぱみゅ - にんじゃりばんばん,Kyary Pamyu Pamyu - Ninja Re Bang Bang",
-        "url": "https://www.youtube.com/watch?v=teMdjJ3w9iM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Warner Music Japan",
-        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-03-11",
-      "viewCount": "8092万",
-      "likeCount": "50.5万",
-      "commentCount": "3.03万"
-    },
-    {
-      "rank": 266,
       "thumb": {
         "img": "https://i.ytimg.com/vi/pgXpM4l_MwI/default.jpg",
         "url": "https://www.youtube.com/watch?v=pgXpM4l_MwI",
@@ -348,8 +326,30 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-06",
-      "viewCount": "2億5061万",
+      "viewCount": "2億5072万",
       "likeCount": "148万",
+      "commentCount": "3.03万"
+    },
+    {
+      "rank": 266,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/teMdjJ3w9iM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=teMdjJ3w9iM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "きゃりーぱみゅぱみゅ - にんじゃりばんばん,Kyary Pamyu Pamyu - Ninja Re Bang Bang",
+        "url": "https://www.youtube.com/watch?v=teMdjJ3w9iM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Warner Music Japan",
+        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-03-11",
+      "viewCount": "8093万",
+      "likeCount": "50.5万",
       "commentCount": "3.03万"
     },
     {
@@ -370,7 +370,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-04",
-      "viewCount": "4289万",
+      "viewCount": "4290万",
       "likeCount": "37.5万",
       "commentCount": "3.02万"
     },
@@ -392,7 +392,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-02",
-      "viewCount": "8825万",
+      "viewCount": "8828万",
       "likeCount": "141万",
       "commentCount": "3.02万"
     },
@@ -414,7 +414,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-10-17",
-      "viewCount": "7411万",
+      "viewCount": "7412万",
       "likeCount": "-",
       "commentCount": "3.01万"
     },
@@ -436,7 +436,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-04",
-      "viewCount": "7834万",
+      "viewCount": "7836万",
       "likeCount": "47.3万",
       "commentCount": "3.01万"
     },
@@ -458,8 +458,8 @@
         "target": "_blank"
       },
       "publishedAt": "2019-07-01",
-      "viewCount": "5902万",
-      "likeCount": "74.9万",
+      "viewCount": "5903万",
+      "likeCount": "75万",
       "commentCount": "3.01万"
     },
     {
@@ -480,7 +480,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-04-13",
-      "viewCount": "1億3152万",
+      "viewCount": "1億3155万",
       "likeCount": "90.8万",
       "commentCount": "3万"
     },
@@ -502,7 +502,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-01",
-      "viewCount": "6810万",
+      "viewCount": "6811万",
       "likeCount": "-",
       "commentCount": "2.99万"
     },
@@ -524,7 +524,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-06-13",
-      "viewCount": "1691万",
+      "viewCount": "1692万",
       "likeCount": "38.1万",
       "commentCount": "2.98万"
     },
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-11-12",
-      "viewCount": "9952万",
+      "viewCount": "9956万",
       "likeCount": "35.1万",
       "commentCount": "2.98万"
     },
@@ -568,7 +568,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-08",
-      "viewCount": "3270万",
+      "viewCount": "3271万",
       "likeCount": "-",
       "commentCount": "2.96万"
     },
@@ -590,7 +590,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-09",
-      "viewCount": "6972万",
+      "viewCount": "6975万",
       "likeCount": "-",
       "commentCount": "2.96万"
     },
@@ -612,7 +612,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-09",
-      "viewCount": "3366万",
+      "viewCount": "3368万",
       "likeCount": "89.3万",
       "commentCount": "2.96万"
     },
@@ -634,8 +634,8 @@
         "target": "_blank"
       },
       "publishedAt": "2020-10-16",
-      "viewCount": "6904万",
-      "likeCount": "88.4万",
+      "viewCount": "6905万",
+      "likeCount": "88.5万",
       "commentCount": "2.94万"
     },
     {
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-16",
-      "viewCount": "5865万",
+      "viewCount": "5866万",
       "likeCount": "85.7万",
       "commentCount": "2.94万"
     },
@@ -678,7 +678,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-13",
-      "viewCount": "6956万",
+      "viewCount": "6957万",
       "likeCount": "86.8万",
       "commentCount": "2.93万"
     },
@@ -700,7 +700,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-26",
-      "viewCount": "3655万",
+      "viewCount": "3656万",
       "likeCount": "48万",
       "commentCount": "2.92万"
     },
@@ -744,7 +744,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-20",
-      "viewCount": "6443万",
+      "viewCount": "6444万",
       "likeCount": "148万",
       "commentCount": "2.91万"
     },
@@ -766,7 +766,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-03-14",
-      "viewCount": "5190万",
+      "viewCount": "5191万",
       "likeCount": "38万",
       "commentCount": "2.9万"
     },
@@ -788,7 +788,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-01-27",
-      "viewCount": "1億1990万",
+      "viewCount": "1億1993万",
       "likeCount": "70.7万",
       "commentCount": "2.89万"
     },
@@ -810,9 +810,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-29",
-      "viewCount": "9193万",
-      "likeCount": "88.9万",
-      "commentCount": "2.88万"
+      "viewCount": "9200万",
+      "likeCount": "89万",
+      "commentCount": "2.89万"
     },
     {
       "rank": 288,
@@ -876,7 +876,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-10-21",
-      "viewCount": "3174万",
+      "viewCount": "3175万",
       "likeCount": "17.9万",
       "commentCount": "2.85万"
     },
@@ -898,7 +898,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-16",
-      "viewCount": "1億8119万",
+      "viewCount": "1億8122万",
       "likeCount": "141万",
       "commentCount": "2.85万"
     },
@@ -920,7 +920,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-11-17",
-      "viewCount": "7570万",
+      "viewCount": "7571万",
       "likeCount": "22.1万",
       "commentCount": "2.84万"
     },
@@ -942,12 +942,34 @@
         "target": "_blank"
       },
       "publishedAt": "2025-06-02",
-      "viewCount": "1105万",
+      "viewCount": "1106万",
       "likeCount": "11.4万",
-      "commentCount": "2.82万"
+      "commentCount": "2.83万"
     },
     {
       "rank": 294,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/-wb2PAx6aEs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=-wb2PAx6aEs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "米津玄師 - さよーならまたいつか！ Kenshi Yonezu - Sayonara, Mata Itsuka !",
+        "url": "https://www.youtube.com/watch?v=-wb2PAx6aEs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-04-11",
+      "viewCount": "1億447万",
+      "likeCount": "59.3万",
+      "commentCount": "2.82万"
+    },
+    {
+      "rank": 295,
       "thumb": {
         "img": "https://i.ytimg.com/vi/f21KrWqxJqM/default.jpg",
         "url": "https://www.youtube.com/watch?v=f21KrWqxJqM",
@@ -969,28 +991,6 @@
       "commentCount": "2.82万"
     },
     {
-      "rank": 295,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/-wb2PAx6aEs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=-wb2PAx6aEs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "米津玄師 - さよーならまたいつか！ Kenshi Yonezu - Sayonara, Mata Itsuka !",
-        "url": "https://www.youtube.com/watch?v=-wb2PAx6aEs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-04-11",
-      "viewCount": "1億434万",
-      "likeCount": "59.2万",
-      "commentCount": "2.82万"
-    },
-    {
       "rank": 296,
       "thumb": {
         "img": "https://i.ytimg.com/vi/wM4laths4-Y/default.jpg",
@@ -1008,7 +1008,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-07-25",
-      "viewCount": "9353万",
+      "viewCount": "9356万",
       "likeCount": "51.9万",
       "commentCount": "2.82万"
     },
@@ -1030,8 +1030,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-19",
-      "viewCount": "1億453万",
-      "likeCount": "115万",
+      "viewCount": "1億462万",
+      "likeCount": "116万",
       "commentCount": "2.81万"
     },
     {
@@ -1096,7 +1096,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-06-28",
-      "viewCount": "1億8462万",
+      "viewCount": "1億8468万",
       "likeCount": "134万",
       "commentCount": "2.79万"
     }

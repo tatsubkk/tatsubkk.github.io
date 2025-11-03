@@ -3,6 +3,29 @@
     {
       "rank": 3051,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/DvAwGsPX-_0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=DvAwGsPX-_0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "優しい彗星",
+        "url": "https://www.youtube.com/watch?v=DvAwGsPX-_0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-11-30",
+      "viewCount": "1103万",
+      "likeCount": "2.8万",
+      "commentCount": "62",
+      "increment_d1": "1.35万"
+    },
+    {
+      "rank": 3052,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/LjzyRNX6D3s/default.jpg",
         "url": "https://www.youtube.com/watch?v=LjzyRNX6D3s",
         "target": "_blank"
@@ -21,10 +44,10 @@
       "viewCount": "1102万",
       "likeCount": "-",
       "commentCount": "1.7万",
-      "increment_d1": "538"
+      "increment_d1": "605"
     },
     {
-      "rank": 3052,
+      "rank": 3053,
       "thumb": {
         "img": "https://i.ytimg.com/vi/hLtLjhV7PR0/default.jpg",
         "url": "https://www.youtube.com/watch?v=hLtLjhV7PR0",
@@ -41,13 +64,13 @@
         "target": "_blank"
       },
       "publishedAt": "2014-04-11",
-      "viewCount": "1101万",
+      "viewCount": "1102万",
       "likeCount": "4.1万",
       "commentCount": "2303",
-      "increment_d1": "1723"
+      "increment_d1": "1560"
     },
     {
-      "rank": 3053,
+      "rank": 3054,
       "thumb": {
         "img": "https://i.ytimg.com/vi/WEyMPk4xEGU/default.jpg",
         "url": "https://www.youtube.com/watch?v=WEyMPk4xEGU",
@@ -67,30 +90,7 @@
       "viewCount": "1101万",
       "likeCount": "-",
       "commentCount": "6684",
-      "increment_d1": "848"
-    },
-    {
-      "rank": 3054,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/DvAwGsPX-_0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=DvAwGsPX-_0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "優しい彗星",
-        "url": "https://www.youtube.com/watch?v=DvAwGsPX-_0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-30",
-      "viewCount": "1101万",
-      "likeCount": "2.8万",
-      "commentCount": "62",
-      "increment_d1": "1.06万"
+      "increment_d1": "926"
     },
     {
       "rank": 3055,
@@ -113,33 +113,10 @@
       "viewCount": "1101万",
       "likeCount": "4.7万",
       "commentCount": "1240",
-      "increment_d1": "3509"
+      "increment_d1": "3433"
     },
     {
       "rank": 3056,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/3xywnD8Nru4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=3xywnD8Nru4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "DEEP / DEEP BEST君じゃない誰かなんて～Tejina～-（Long Ver.)",
-        "url": "https://www.youtube.com/watch?v=3xywnD8Nru4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-01-21",
-      "viewCount": "1100万",
-      "likeCount": "3.8万",
-      "commentCount": "670",
-      "increment_d1": "388"
-    },
-    {
-      "rank": 3057,
       "thumb": {
         "img": "https://i.ytimg.com/vi/LNSh0JHUfgg/default.jpg",
         "url": "https://www.youtube.com/watch?v=LNSh0JHUfgg",
@@ -159,10 +136,79 @@
       "viewCount": "1100万",
       "likeCount": "-",
       "commentCount": "6894",
-      "increment_d1": "1686"
+      "increment_d1": "1772"
+    },
+    {
+      "rank": 3057,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/3xywnD8Nru4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=3xywnD8Nru4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "DEEP / DEEP BEST君じゃない誰かなんて～Tejina～-（Long Ver.)",
+        "url": "https://www.youtube.com/watch?v=3xywnD8Nru4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-01-21",
+      "viewCount": "1100万",
+      "likeCount": "3.8万",
+      "commentCount": "670",
+      "increment_d1": "324"
     },
     {
       "rank": 3058,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/wQbVEC5ttEA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=wQbVEC5ttEA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Sexy Zone ｢夏のハイドレンジア｣ Lyric Video",
+        "url": "https://www.youtube.com/watch?v=wQbVEC5ttEA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "timelesz [タイムレス]",
+        "url": "https://www.youtube.com/channel/UCgXJMvOBqHk5wJFRKZfIgWQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-08-01",
+      "viewCount": "1100万",
+      "likeCount": "-",
+      "commentCount": "3991",
+      "increment_d1": "3084"
+    },
+    {
+      "rank": 3059,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/XQTM2M5iD_I/default.jpg",
+        "url": "https://www.youtube.com/watch?v=XQTM2M5iD_I",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "泣き地蔵 / Vaundy：MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=XQTM2M5iD_I",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Vaundy",
+        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-10-18",
+      "viewCount": "1100万",
+      "likeCount": "10.3万",
+      "commentCount": "1466",
+      "increment_d1": "2856"
+    },
+    {
+      "rank": 3060,
       "thumb": {
         "img": "https://i.ytimg.com/vi/WMzlv_g6FSY/default.jpg",
         "url": "https://www.youtube.com/watch?v=WMzlv_g6FSY",
@@ -182,53 +228,7 @@
       "viewCount": "1100万",
       "likeCount": "9.2万",
       "commentCount": "2685",
-      "increment_d1": "680"
-    },
-    {
-      "rank": 3059,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/wQbVEC5ttEA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=wQbVEC5ttEA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Sexy Zone ｢夏のハイドレンジア｣ Lyric Video",
-        "url": "https://www.youtube.com/watch?v=wQbVEC5ttEA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "timelesz [タイムレス]",
-        "url": "https://www.youtube.com/channel/UCgXJMvOBqHk5wJFRKZfIgWQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-08-01",
-      "viewCount": "1099万",
-      "likeCount": "-",
-      "commentCount": "3990",
-      "increment_d1": "3412"
-    },
-    {
-      "rank": 3060,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/XQTM2M5iD_I/default.jpg",
-        "url": "https://www.youtube.com/watch?v=XQTM2M5iD_I",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "泣き地蔵 / Vaundy：MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=XQTM2M5iD_I",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Vaundy",
-        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-10-18",
-      "viewCount": "1099万",
-      "likeCount": "10.3万",
-      "commentCount": "1466",
-      "increment_d1": "2317"
+      "increment_d1": "559"
     },
     {
       "rank": 3061,
@@ -250,8 +250,8 @@
       "publishedAt": "2021-12-02",
       "viewCount": "1099万",
       "likeCount": "14.6万",
-      "commentCount": "3754",
-      "increment_d1": "2257"
+      "commentCount": "3755",
+      "increment_d1": "1976"
     },
     {
       "rank": 3062,
@@ -274,7 +274,7 @@
       "viewCount": "1098万",
       "likeCount": "6.3万",
       "commentCount": "3402",
-      "increment_d1": "1041"
+      "increment_d1": "1122"
     },
     {
       "rank": 3063,
@@ -297,7 +297,7 @@
       "viewCount": "1098万",
       "likeCount": "7.4万",
       "commentCount": "1384",
-      "increment_d1": "892"
+      "increment_d1": "958"
     },
     {
       "rank": 3064,
@@ -320,7 +320,7 @@
       "viewCount": "1098万",
       "likeCount": "2.6万",
       "commentCount": "734",
-      "increment_d1": "964"
+      "increment_d1": "747"
     },
     {
       "rank": 3065,
@@ -342,11 +342,34 @@
       "publishedAt": "2023-01-16",
       "viewCount": "1098万",
       "likeCount": "5.7万",
-      "commentCount": "1249",
-      "increment_d1": "2943"
+      "commentCount": "1250",
+      "increment_d1": "2819"
     },
     {
       "rank": 3066,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/EZZx5VkZtw8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=EZZx5VkZtw8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "アイナ・ジ・エンド - アイコトバ [Official Music Video]（TVアニメ『薬屋のひとりごと』エンディングテーマ）",
+        "url": "https://www.youtube.com/watch?v=EZZx5VkZtw8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "アイナ・ジ・エンド Official",
+        "url": "https://www.youtube.com/channel/UCFPb0Vc0Cjd3MpDOlHPQoPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-11-13",
+      "viewCount": "1098万",
+      "likeCount": "7.7万",
+      "commentCount": "1184",
+      "increment_d1": "6973"
+    },
+    {
+      "rank": 3067,
       "thumb": {
         "img": "https://i.ytimg.com/vi/WbRL4tMoi5A/default.jpg",
         "url": "https://www.youtube.com/watch?v=WbRL4tMoi5A",
@@ -366,10 +389,10 @@
       "viewCount": "1097万",
       "likeCount": "2.7万",
       "commentCount": "1195",
-      "increment_d1": "291"
+      "increment_d1": "227"
     },
     {
-      "rank": 3067,
+      "rank": 3068,
       "thumb": {
         "img": "https://i.ytimg.com/vi/peG_RXliLPE/default.jpg",
         "url": "https://www.youtube.com/watch?v=peG_RXliLPE",
@@ -389,10 +412,10 @@
       "viewCount": "1097万",
       "likeCount": "4.6万",
       "commentCount": "2356",
-      "increment_d1": "199"
+      "increment_d1": "234"
     },
     {
-      "rank": 3068,
+      "rank": 3069,
       "thumb": {
         "img": "https://i.ytimg.com/vi/-Ch8P5G8MzU/default.jpg",
         "url": "https://www.youtube.com/watch?v=-Ch8P5G8MzU",
@@ -412,10 +435,10 @@
       "viewCount": "1097万",
       "likeCount": "1.9万",
       "commentCount": "1064",
-      "increment_d1": "152"
+      "increment_d1": "215"
     },
     {
-      "rank": 3069,
+      "rank": 3070,
       "thumb": {
         "img": "https://i.ytimg.com/vi/B50A9Nf5FCE/default.jpg",
         "url": "https://www.youtube.com/watch?v=B50A9Nf5FCE",
@@ -435,56 +458,10 @@
       "viewCount": "1097万",
       "likeCount": "5.8万",
       "commentCount": "1169",
-      "increment_d1": "2067"
-    },
-    {
-      "rank": 3070,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/EZZx5VkZtw8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=EZZx5VkZtw8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "アイナ・ジ・エンド - アイコトバ [Official Music Video]（TVアニメ『薬屋のひとりごと』エンディングテーマ）",
-        "url": "https://www.youtube.com/watch?v=EZZx5VkZtw8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アイナ・ジ・エンド Official",
-        "url": "https://www.youtube.com/channel/UCFPb0Vc0Cjd3MpDOlHPQoPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-11-13",
-      "viewCount": "1097万",
-      "likeCount": "7.7万",
-      "commentCount": "1184",
-      "increment_d1": "7155"
+      "increment_d1": "1978"
     },
     {
       "rank": 3071,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/lBmH1VsdD80/default.jpg",
-        "url": "https://www.youtube.com/watch?v=lBmH1VsdD80",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ばーか。/あれくん【Official Music Video】",
-        "url": "https://www.youtube.com/watch?v=lBmH1VsdD80",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "あれくん ",
-        "url": "https://www.youtube.com/channel/UCPkhvJShYNk2dJoIcne66BQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-08-04",
-      "viewCount": "1097万",
-      "likeCount": "14.8万",
-      "commentCount": "3288",
-      "increment_d1": "391"
-    },
-    {
-      "rank": 3072,
       "thumb": {
         "img": "https://i.ytimg.com/vi/CWp2ZDMWn2g/default.jpg",
         "url": "https://www.youtube.com/watch?v=CWp2ZDMWn2g",
@@ -504,7 +481,30 @@
       "viewCount": "1097万",
       "likeCount": "17.2万",
       "commentCount": "2969",
-      "increment_d1": "2234"
+      "increment_d1": "2755"
+    },
+    {
+      "rank": 3072,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/lBmH1VsdD80/default.jpg",
+        "url": "https://www.youtube.com/watch?v=lBmH1VsdD80",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ばーか。/あれくん【Official Music Video】",
+        "url": "https://www.youtube.com/watch?v=lBmH1VsdD80",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "あれくん ",
+        "url": "https://www.youtube.com/channel/UCPkhvJShYNk2dJoIcne66BQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-08-04",
+      "viewCount": "1097万",
+      "likeCount": "14.8万",
+      "commentCount": "3288",
+      "increment_d1": "419"
     },
     {
       "rank": 3073,
@@ -527,7 +527,7 @@
       "viewCount": "1096万",
       "likeCount": "23.7万",
       "commentCount": "3259",
-      "increment_d1": "3128"
+      "increment_d1": "4152"
     },
     {
       "rank": 3074,
@@ -550,7 +550,7 @@
       "viewCount": "1096万",
       "likeCount": "2.7万",
       "commentCount": "1242",
-      "increment_d1": "111"
+      "increment_d1": "103"
     },
     {
       "rank": 3075,
@@ -572,34 +572,11 @@
       "publishedAt": "2010-09-14",
       "viewCount": "1095万",
       "likeCount": "2.5万",
-      "commentCount": "1583",
-      "increment_d1": "1613"
+      "commentCount": "1586",
+      "increment_d1": "1204"
     },
     {
       "rank": 3076,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/pDvuwOEzZKo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=pDvuwOEzZKo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【LIVE】GOLDEN TOWER（feat.當山みれい） / RADIO FISH",
-        "url": "https://www.youtube.com/watch?v=pDvuwOEzZKo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "RADIO FISH",
-        "url": "https://www.youtube.com/channel/UCok3jJg7q1-PKV6XYDYTA_A",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-09-17",
-      "viewCount": "1094万",
-      "likeCount": "2.6万",
-      "commentCount": "1530",
-      "increment_d1": "734"
-    },
-    {
-      "rank": 3077,
       "thumb": {
         "img": "https://i.ytimg.com/vi/mf-RrGndfC8/default.jpg",
         "url": "https://www.youtube.com/watch?v=mf-RrGndfC8",
@@ -616,10 +593,33 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-16",
-      "viewCount": "1094万",
+      "viewCount": "1095万",
       "likeCount": "4万",
-      "commentCount": "2000",
-      "increment_d1": "4152"
+      "commentCount": "2001",
+      "increment_d1": "3740"
+    },
+    {
+      "rank": 3077,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/pDvuwOEzZKo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=pDvuwOEzZKo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【LIVE】GOLDEN TOWER（feat.當山みれい） / RADIO FISH",
+        "url": "https://www.youtube.com/watch?v=pDvuwOEzZKo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "RADIO FISH",
+        "url": "https://www.youtube.com/channel/UCok3jJg7q1-PKV6XYDYTA_A",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-09-17",
+      "viewCount": "1095万",
+      "likeCount": "2.6万",
+      "commentCount": "1530",
+      "increment_d1": "563"
     },
     {
       "rank": 3078,
@@ -642,10 +642,33 @@
       "viewCount": "1093万",
       "likeCount": "3万",
       "commentCount": "691",
-      "increment_d1": "578"
+      "increment_d1": "562"
     },
     {
       "rank": 3079,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/E_v-VC2PEtY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=E_v-VC2PEtY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "福耳 / 星のかけらを探しに行こう Again",
+        "url": "https://www.youtube.com/watch?v=E_v-VC2PEtY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "OfficeAugusta",
+        "url": "https://www.youtube.com/channel/UCkprc8Iv9GWsAXs92YeNuVQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2008-12-08",
+      "viewCount": "1093万",
+      "likeCount": "3.1万",
+      "commentCount": "1175",
+      "increment_d1": "1798"
+    },
+    {
+      "rank": 3080,
       "thumb": {
         "img": "https://i.ytimg.com/vi/2RurdeLSV_E/default.jpg",
         "url": "https://www.youtube.com/watch?v=2RurdeLSV_E",
@@ -665,30 +688,7 @@
       "viewCount": "1093万",
       "likeCount": "3.6万",
       "commentCount": "1158",
-      "increment_d1": "689"
-    },
-    {
-      "rank": 3080,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/E_v-VC2PEtY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=E_v-VC2PEtY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "福耳 / 星のかけらを探しに行こう Again",
-        "url": "https://www.youtube.com/watch?v=E_v-VC2PEtY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "OfficeAugusta",
-        "url": "https://www.youtube.com/channel/UCkprc8Iv9GWsAXs92YeNuVQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2008-12-08",
-      "viewCount": "1093万",
-      "likeCount": "3.1万",
-      "commentCount": "1174",
-      "increment_d1": "1699"
+      "increment_d1": "650"
     },
     {
       "rank": 3081,
@@ -711,7 +711,7 @@
       "viewCount": "1093万",
       "likeCount": "2.4万",
       "commentCount": "1245",
-      "increment_d1": "709"
+      "increment_d1": "1224"
     },
     {
       "rank": 3082,
@@ -733,8 +733,8 @@
       "publishedAt": "2013-05-28",
       "viewCount": "1093万",
       "likeCount": "3.6万",
-      "commentCount": "1732",
-      "increment_d1": "1988"
+      "commentCount": "1734",
+      "increment_d1": "1850"
     },
     {
       "rank": 3083,
@@ -757,7 +757,7 @@
       "viewCount": "1092万",
       "likeCount": "-",
       "commentCount": "4020",
-      "increment_d1": "1040"
+      "increment_d1": "1031"
     },
     {
       "rank": 3084,
@@ -780,7 +780,7 @@
       "viewCount": "1092万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "1097"
+      "increment_d1": "921"
     },
     {
       "rank": 3085,
@@ -802,8 +802,8 @@
       "publishedAt": "2017-03-22",
       "viewCount": "1092万",
       "likeCount": "4.6万",
-      "commentCount": "1996",
-      "increment_d1": "751"
+      "commentCount": "1997",
+      "increment_d1": "436"
     },
     {
       "rank": 3086,
@@ -823,59 +823,13 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-09",
-      "viewCount": "1091万",
+      "viewCount": "1092万",
       "likeCount": "18万",
       "commentCount": "1804",
-      "increment_d1": "3761"
+      "increment_d1": "2919"
     },
     {
       "rank": 3087,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/UQpRzyNXDBg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=UQpRzyNXDBg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MY FIRST STORY -虚言NEUROSE-【Official Video】",
-        "url": "https://www.youtube.com/watch?v=UQpRzyNXDBg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "JMS BASE",
-        "url": "https://www.youtube.com/channel/UCj8RXhnU4RR9wnRUYQoyLqw",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-10-22",
-      "viewCount": "1091万",
-      "likeCount": "7.7万",
-      "commentCount": "2303",
-      "increment_d1": "848"
-    },
-    {
-      "rank": 3088,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/MquT2X5NEY8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=MquT2X5NEY8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ツバメ (feat. ミドリーズ)",
-        "url": "https://www.youtube.com/watch?v=MquT2X5NEY8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-10-24",
-      "viewCount": "1091万",
-      "likeCount": "7.4万",
-      "commentCount": "34",
-      "increment_d1": "485"
-    },
-    {
-      "rank": 3089,
       "thumb": {
         "img": "https://i.ytimg.com/vi/CSgG6wPB0Kw/default.jpg",
         "url": "https://www.youtube.com/watch?v=CSgG6wPB0Kw",
@@ -895,7 +849,53 @@
       "viewCount": "1091万",
       "likeCount": "4.6万",
       "commentCount": "99",
-      "increment_d1": "6315"
+      "increment_d1": "5912"
+    },
+    {
+      "rank": 3088,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/UQpRzyNXDBg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=UQpRzyNXDBg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MY FIRST STORY -虚言NEUROSE-【Official Video】",
+        "url": "https://www.youtube.com/watch?v=UQpRzyNXDBg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "JMS BASE",
+        "url": "https://www.youtube.com/channel/UCj8RXhnU4RR9wnRUYQoyLqw",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-10-22",
+      "viewCount": "1091万",
+      "likeCount": "7.7万",
+      "commentCount": "2303",
+      "increment_d1": "883"
+    },
+    {
+      "rank": 3089,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/MquT2X5NEY8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=MquT2X5NEY8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ツバメ (feat. ミドリーズ)",
+        "url": "https://www.youtube.com/watch?v=MquT2X5NEY8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-10-24",
+      "viewCount": "1091万",
+      "likeCount": "7.4万",
+      "commentCount": "34",
+      "increment_d1": "546"
     },
     {
       "rank": 3090,
@@ -915,10 +915,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-29",
-      "viewCount": "1090万",
+      "viewCount": "1091万",
       "likeCount": "-",
       "commentCount": "4305",
-      "increment_d1": "2802"
+      "increment_d1": "2949"
     },
     {
       "rank": 3091,
@@ -940,8 +940,8 @@
       "publishedAt": "2011-01-28",
       "viewCount": "1090万",
       "likeCount": "1.8万",
-      "commentCount": "1815",
-      "increment_d1": "245"
+      "commentCount": "1816",
+      "increment_d1": "322"
     },
     {
       "rank": 3092,
@@ -964,30 +964,30 @@
       "viewCount": "1090万",
       "likeCount": "-",
       "commentCount": "7936",
-      "increment_d1": "1622"
+      "increment_d1": "2104"
     },
     {
       "rank": 3093,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/x0dNpGO1pCk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=x0dNpGO1pCk",
+        "img": "https://i.ytimg.com/vi/E3UDqofqcc4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=E3UDqofqcc4",
         "target": "_blank"
       },
       "title": {
-        "text": "Poppy - Moshi Moshi (Official Video)",
-        "url": "https://www.youtube.com/watch?v=x0dNpGO1pCk",
+        "text": "Mrs. GREEN APPLE – Loneliness 【LIVE “NOAH no HAKOBUNE” on WOWOWプラス】",
+        "url": "https://www.youtube.com/watch?v=E3UDqofqcc4",
         "target": "_blank"
       },
       "channel": {
-        "text": "Poppy",
-        "url": "https://www.youtube.com/channel/UC8JE00xTMBOqKs7o0grFTfQ",
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
         "target": "_blank"
       },
-      "publishedAt": "2017-11-10",
-      "viewCount": "1088万",
-      "likeCount": "23万",
-      "commentCount": "1.9万",
-      "increment_d1": "421"
+      "publishedAt": "2023-09-21",
+      "viewCount": "1089万",
+      "likeCount": "7.8万",
+      "commentCount": "2677",
+      "increment_d1": "1.02万"
     },
     {
       "rank": 3094,
@@ -1010,30 +1010,30 @@
       "viewCount": "1088万",
       "likeCount": "8万",
       "commentCount": "2833",
-      "increment_d1": "2027"
+      "increment_d1": "1996"
     },
     {
       "rank": 3095,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/E3UDqofqcc4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=E3UDqofqcc4",
+        "img": "https://i.ytimg.com/vi/x0dNpGO1pCk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=x0dNpGO1pCk",
         "target": "_blank"
       },
       "title": {
-        "text": "Mrs. GREEN APPLE – Loneliness 【LIVE “NOAH no HAKOBUNE” on WOWOWプラス】",
-        "url": "https://www.youtube.com/watch?v=E3UDqofqcc4",
+        "text": "Poppy - Moshi Moshi (Official Video)",
+        "url": "https://www.youtube.com/watch?v=x0dNpGO1pCk",
         "target": "_blank"
       },
       "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "text": "Poppy",
+        "url": "https://www.youtube.com/channel/UC8JE00xTMBOqKs7o0grFTfQ",
         "target": "_blank"
       },
-      "publishedAt": "2023-09-21",
+      "publishedAt": "2017-11-10",
       "viewCount": "1088万",
-      "likeCount": "7.8万",
-      "commentCount": "2676",
-      "increment_d1": "1.03万"
+      "likeCount": "23万",
+      "commentCount": "1.9万",
+      "increment_d1": "440"
     },
     {
       "rank": 3096,
@@ -1056,7 +1056,7 @@
       "viewCount": "1087万",
       "likeCount": "8.8万",
       "commentCount": "163",
-      "increment_d1": "3529"
+      "increment_d1": "2749"
     },
     {
       "rank": 3097,
@@ -1079,7 +1079,7 @@
       "viewCount": "1087万",
       "likeCount": "8.6万",
       "commentCount": "2215",
-      "increment_d1": "2038"
+      "increment_d1": "2096"
     },
     {
       "rank": 3098,
@@ -1099,10 +1099,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-23",
-      "viewCount": "1086万",
+      "viewCount": "1087万",
       "likeCount": "16.5万",
-      "commentCount": "7119",
-      "increment_d1": "3736"
+      "commentCount": "7118",
+      "increment_d1": "4196"
     },
     {
       "rank": 3099,
@@ -1124,8 +1124,8 @@
       "publishedAt": "2021-02-11",
       "viewCount": "1086万",
       "likeCount": "21.2万",
-      "commentCount": "6492",
-      "increment_d1": "265"
+      "commentCount": "6493",
+      "increment_d1": "197"
     },
     {
       "rank": 3100,
@@ -1148,7 +1148,7 @@
       "viewCount": "1086万",
       "likeCount": "11万",
       "commentCount": "3175",
-      "increment_d1": "906"
+      "increment_d1": "868"
     }
   ]
 }

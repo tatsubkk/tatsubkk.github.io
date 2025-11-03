@@ -18,7 +18,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-10-18",
-      "viewCount": "1040万",
+      "viewCount": "1041万",
       "likeCount": "3.22万",
       "commentCount": "1981"
     },
@@ -62,9 +62,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
-      "viewCount": "1122万",
+      "viewCount": "1124万",
       "likeCount": "3.2万",
-      "commentCount": "93"
+      "commentCount": "95"
     },
     {
       "rank": 2754,
@@ -84,9 +84,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-08-28",
-      "viewCount": "1297万",
+      "viewCount": "1298万",
       "likeCount": "3.16万",
-      "commentCount": "1248"
+      "commentCount": "1249"
     },
     {
       "rank": 2755,
@@ -108,7 +108,7 @@
       "publishedAt": "2010-09-01",
       "viewCount": "1664万",
       "likeCount": "3.15万",
-      "commentCount": "2768"
+      "commentCount": "2769"
     },
     {
       "rank": 2756,
@@ -130,7 +130,7 @@
       "publishedAt": "2008-12-08",
       "viewCount": "1093万",
       "likeCount": "3.15万",
-      "commentCount": "1174"
+      "commentCount": "1175"
     },
     {
       "rank": 2757,
@@ -172,7 +172,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-15",
-      "viewCount": "1316万",
+      "viewCount": "1317万",
       "likeCount": "3.14万",
       "commentCount": "1629"
     },
@@ -238,12 +238,34 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-28",
-      "viewCount": "1143万",
+      "viewCount": "1144万",
       "likeCount": "3.1万",
       "commentCount": "1476"
     },
     {
       "rank": 2762,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/As5jJ_qwCEI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=As5jJ_qwCEI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "「キリンさん」 ののちゃん（村方乃々佳）",
+        "url": "https://www.youtube.com/watch?v=As5jJ_qwCEI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "KING RECORDS",
+        "url": "https://www.youtube.com/channel/UC6KEU5-KSTszEOOnAl8ZwPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-01-11",
+      "viewCount": "2537万",
+      "likeCount": "3.09万",
+      "commentCount": "-"
+    },
+    {
+      "rank": 2763,
       "thumb": {
         "img": "https://i.ytimg.com/vi/YiPJkEZiIsQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=YiPJkEZiIsQ",
@@ -263,28 +285,6 @@
       "viewCount": "1119万",
       "likeCount": "3.09万",
       "commentCount": "1757"
-    },
-    {
-      "rank": 2763,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/As5jJ_qwCEI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=As5jJ_qwCEI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "「キリンさん」 ののちゃん（村方乃々佳）",
-        "url": "https://www.youtube.com/watch?v=As5jJ_qwCEI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "KING RECORDS",
-        "url": "https://www.youtube.com/channel/UC6KEU5-KSTszEOOnAl8ZwPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-01-11",
-      "viewCount": "2536万",
-      "likeCount": "3.09万",
-      "commentCount": "-"
     },
     {
       "rank": 2764,
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-29",
-      "viewCount": "2016万",
+      "viewCount": "2017万",
       "likeCount": "3万",
       "commentCount": "52"
     },
@@ -656,9 +656,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-10-24",
-      "viewCount": "1597万",
-      "likeCount": "2.94万",
-      "commentCount": "1426"
+      "viewCount": "1598万",
+      "likeCount": "2.95万",
+      "commentCount": "1427"
     },
     {
       "rank": 2781,
@@ -833,8 +833,8 @@
       },
       "publishedAt": "2009-11-02",
       "viewCount": "1502万",
-      "likeCount": "2.82万",
-      "commentCount": "1867"
+      "likeCount": "2.83万",
+      "commentCount": "1868"
     },
     {
       "rank": 2789,
@@ -898,7 +898,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
-      "viewCount": "1101万",
+      "viewCount": "1103万",
       "likeCount": "2.8万",
       "commentCount": "62"
     },
@@ -966,7 +966,7 @@
       "publishedAt": "2014-04-03",
       "viewCount": "1421万",
       "likeCount": "2.77万",
-      "commentCount": "2461"
+      "commentCount": "2463"
     },
     {
       "rank": 2795,
@@ -1098,7 +1098,7 @@
       "publishedAt": "2012-12-28",
       "viewCount": "1164万",
       "likeCount": "2.72万",
-      "commentCount": "1963"
+      "commentCount": "1962"
     }
   ]
 }

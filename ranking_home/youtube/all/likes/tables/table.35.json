@@ -42,7 +42,7 @@
       "publishedAt": "2018-08-06",
       "viewCount": "1701万",
       "likeCount": "11.87万",
-      "commentCount": "4449"
+      "commentCount": "4448"
     },
     {
       "rank": 1703,
@@ -69,6 +69,28 @@
     {
       "rank": 1704,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/FqWBQv7h_3I/default.jpg",
+        "url": "https://www.youtube.com/watch?v=FqWBQv7h_3I",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "米津玄師  Kenshi Yonezu - Azalea",
+        "url": "https://www.youtube.com/watch?v=FqWBQv7h_3I",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-11-18",
+      "viewCount": "1297万",
+      "likeCount": "11.86万",
+      "commentCount": "8762"
+    },
+    {
+      "rank": 1705,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/zd4ONUviSQY/default.jpg",
         "url": "https://www.youtube.com/watch?v=zd4ONUviSQY",
         "target": "_blank"
@@ -86,29 +108,7 @@
       "publishedAt": "2020-02-25",
       "viewCount": "1022万",
       "likeCount": "11.86万",
-      "commentCount": "3176"
-    },
-    {
-      "rank": 1705,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/FqWBQv7h_3I/default.jpg",
-        "url": "https://www.youtube.com/watch?v=FqWBQv7h_3I",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "米津玄師  Kenshi Yonezu - Azalea",
-        "url": "https://www.youtube.com/watch?v=FqWBQv7h_3I",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-11-18",
-      "viewCount": "1296万",
-      "likeCount": "11.85万",
-      "commentCount": "8755"
+      "commentCount": "3174"
     },
     {
       "rank": 1706,
@@ -150,9 +150,9 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-19",
-      "viewCount": "2126万",
+      "viewCount": "2127万",
       "likeCount": "11.83万",
-      "commentCount": "3830"
+      "commentCount": "3832"
     },
     {
       "rank": 1708,
@@ -223,28 +223,6 @@
     {
       "rank": 1711,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/6h6AQbdTkaE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=6h6AQbdTkaE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "mabataki / Vaundy：MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=6h6AQbdTkaE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Vaundy",
-        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-09-09",
-      "viewCount": "1889万",
-      "likeCount": "11.77万",
-      "commentCount": "2297"
-    },
-    {
-      "rank": 1712,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/g2GMVhVXdZs/default.jpg",
         "url": "https://www.youtube.com/watch?v=g2GMVhVXdZs",
         "target": "_blank"
@@ -260,9 +238,31 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-10",
-      "viewCount": "1156万",
-      "likeCount": "11.76万",
+      "viewCount": "1157万",
+      "likeCount": "11.77万",
       "commentCount": "1831"
+    },
+    {
+      "rank": 1712,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/6h6AQbdTkaE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=6h6AQbdTkaE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "mabataki / Vaundy：MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=6h6AQbdTkaE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Vaundy",
+        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-09-09",
+      "viewCount": "1890万",
+      "likeCount": "11.77万",
+      "commentCount": "2299"
     },
     {
       "rank": 1713,
@@ -282,9 +282,9 @@
         "target": "_blank"
       },
       "publishedAt": "2016-02-03",
-      "viewCount": "1184万",
+      "viewCount": "1185万",
       "likeCount": "11.76万",
-      "commentCount": "6866"
+      "commentCount": "6865"
     },
     {
       "rank": 1714,
@@ -304,7 +304,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-26",
-      "viewCount": "2150万",
+      "viewCount": "2151万",
       "likeCount": "11.75万",
       "commentCount": "2176"
     },
@@ -328,7 +328,7 @@
       "publishedAt": "2013-06-18",
       "viewCount": "1344万",
       "likeCount": "11.74万",
-      "commentCount": "5180"
+      "commentCount": "5181"
     },
     {
       "rank": 1716,
@@ -350,7 +350,7 @@
       "publishedAt": "2012-04-06",
       "viewCount": "1792万",
       "likeCount": "11.73万",
-      "commentCount": "6248"
+      "commentCount": "6249"
     },
     {
       "rank": 1717,
@@ -370,34 +370,12 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-08",
-      "viewCount": "1743万",
-      "likeCount": "11.72万",
+      "viewCount": "1744万",
+      "likeCount": "11.73万",
       "commentCount": "4174"
     },
     {
       "rank": 1718,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/r1AE6bmdUSk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=r1AE6bmdUSk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Awich - WHORU? feat. ANARCHY (Prod. Chaki Zulu)",
-        "url": "https://www.youtube.com/watch?v=r1AE6bmdUSk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YENTOWN",
-        "url": "https://www.youtube.com/channel/UCSVUraoC0p7x_HwMlMcvsPA",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-07-22",
-      "viewCount": "1664万",
-      "likeCount": "11.71万",
-      "commentCount": "3125"
-    },
-    {
-      "rank": 1719,
       "thumb": {
         "img": "https://i.ytimg.com/vi/17NBPoc78oM/default.jpg",
         "url": "https://www.youtube.com/watch?v=17NBPoc78oM",
@@ -414,9 +392,31 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-22",
-      "viewCount": "1875万",
-      "likeCount": "11.71万",
+      "viewCount": "1878万",
+      "likeCount": "11.72万",
       "commentCount": "1.3万"
+    },
+    {
+      "rank": 1719,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/r1AE6bmdUSk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=r1AE6bmdUSk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Awich - WHORU? feat. ANARCHY (Prod. Chaki Zulu)",
+        "url": "https://www.youtube.com/watch?v=r1AE6bmdUSk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YENTOWN",
+        "url": "https://www.youtube.com/channel/UCSVUraoC0p7x_HwMlMcvsPA",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-07-22",
+      "viewCount": "1665万",
+      "likeCount": "11.71万",
+      "commentCount": "3125"
     },
     {
       "rank": 1720,
@@ -436,8 +436,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-29",
-      "viewCount": "1805万",
-      "likeCount": "11.7万",
+      "viewCount": "1806万",
+      "likeCount": "11.71万",
       "commentCount": "2174"
     },
     {
@@ -480,9 +480,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-14",
-      "viewCount": "2418万",
-      "likeCount": "11.65万",
-      "commentCount": "3500"
+      "viewCount": "2420万",
+      "likeCount": "11.66万",
+      "commentCount": "3501"
     },
     {
       "rank": 1723,
@@ -502,9 +502,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-22",
-      "viewCount": "1944万",
-      "likeCount": "11.65万",
-      "commentCount": "3531"
+      "viewCount": "1945万",
+      "likeCount": "11.66万",
+      "commentCount": "3532"
     },
     {
       "rank": 1724,
@@ -524,7 +524,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-22",
-      "viewCount": "1213万",
+      "viewCount": "1214万",
       "likeCount": "11.65万",
       "commentCount": "3870"
     },
@@ -546,9 +546,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-10",
-      "viewCount": "4422万",
-      "likeCount": "11.64万",
-      "commentCount": "5005"
+      "viewCount": "4424万",
+      "likeCount": "11.65万",
+      "commentCount": "5008"
     },
     {
       "rank": 1726,
@@ -590,8 +590,8 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-10",
-      "viewCount": "2206万",
-      "likeCount": "11.6万",
+      "viewCount": "2208万",
+      "likeCount": "11.61万",
       "commentCount": "2695"
     },
     {
@@ -619,6 +619,28 @@
     {
       "rank": 1729,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/NhI2mp-WIck/default.jpg",
+        "url": "https://www.youtube.com/watch?v=NhI2mp-WIck",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[Official Music Video] Perfume「Magic of Love」",
+        "url": "https://www.youtube.com/watch?v=NhI2mp-WIck",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Perfume",
+        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-06-18",
+      "viewCount": "2535万",
+      "likeCount": "11.59万",
+      "commentCount": "3486"
+    },
+    {
+      "rank": 1730,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/HIRfc3ybbPg/default.jpg",
         "url": "https://www.youtube.com/watch?v=HIRfc3ybbPg",
         "target": "_blank"
@@ -639,28 +661,6 @@
       "commentCount": "4063"
     },
     {
-      "rank": 1730,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/NhI2mp-WIck/default.jpg",
-        "url": "https://www.youtube.com/watch?v=NhI2mp-WIck",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[Official Music Video] Perfume「Magic of Love」",
-        "url": "https://www.youtube.com/watch?v=NhI2mp-WIck",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Perfume",
-        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-06-18",
-      "viewCount": "2535万",
-      "likeCount": "11.59万",
-      "commentCount": "3484"
-    },
-    {
       "rank": 1731,
       "thumb": {
         "img": "https://i.ytimg.com/vi/AROi9sNCVKs/default.jpg",
@@ -678,7 +678,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-01-19",
-      "viewCount": "1664万",
+      "viewCount": "1665万",
       "likeCount": "11.58万",
       "commentCount": "1163"
     },
@@ -700,7 +700,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-02-08",
-      "viewCount": "1340万",
+      "viewCount": "1341万",
       "likeCount": "11.58万",
       "commentCount": "1万"
     },
@@ -729,6 +729,28 @@
     {
       "rank": 1734,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/e_pdE__o5D8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=e_pdE__o5D8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Official】Uru 「アンビバレント」 TVアニメ『薬屋のひとりごと』第2クールOPテーマ",
+        "url": "https://www.youtube.com/watch?v=e_pdE__o5D8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Uru Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-01-19",
+      "viewCount": "1825万",
+      "likeCount": "11.55万",
+      "commentCount": "1479"
+    },
+    {
+      "rank": 1735,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/dnJ4BQCW2ZY/default.jpg",
         "url": "https://www.youtube.com/watch?v=dnJ4BQCW2ZY",
         "target": "_blank"
@@ -746,29 +768,7 @@
       "publishedAt": "2017-04-20",
       "viewCount": "1577万",
       "likeCount": "11.55万",
-      "commentCount": "4273"
-    },
-    {
-      "rank": 1735,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/e_pdE__o5D8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=e_pdE__o5D8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Official】Uru 「アンビバレント」 TVアニメ『薬屋のひとりごと』第2クールOPテーマ",
-        "url": "https://www.youtube.com/watch?v=e_pdE__o5D8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Uru Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-01-19",
-      "viewCount": "1823万",
-      "likeCount": "11.54万",
-      "commentCount": "1479"
+      "commentCount": "4275"
     },
     {
       "rank": 1736,
@@ -810,9 +810,9 @@
         "target": "_blank"
       },
       "publishedAt": "2025-04-11",
-      "viewCount": "1044万",
+      "viewCount": "1045万",
       "likeCount": "11.52万",
-      "commentCount": "2584"
+      "commentCount": "2585"
     },
     {
       "rank": 1738,
@@ -854,12 +854,34 @@
         "target": "_blank"
       },
       "publishedAt": "2012-06-14",
-      "viewCount": "1892万",
+      "viewCount": "1893万",
       "likeCount": "11.51万",
       "commentCount": "3123"
     },
     {
       "rank": 1740,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/WWIYBv3mYio/default.jpg",
+        "url": "https://www.youtube.com/watch?v=WWIYBv3mYio",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV】ZOC『チュープリ』Music Video",
+        "url": "https://www.youtube.com/watch?v=WWIYBv3mYio",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ZOCX",
+        "url": "https://www.youtube.com/channel/UCShhCnBdAL5nYpKrbL9JOTA",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-04-30",
+      "viewCount": "1217万",
+      "likeCount": "11.51万",
+      "commentCount": "-"
+    },
+    {
+      "rank": 1741,
       "thumb": {
         "img": "https://i.ytimg.com/vi/8FDxco2VFS4/default.jpg",
         "url": "https://www.youtube.com/watch?v=8FDxco2VFS4",
@@ -881,29 +903,29 @@
       "commentCount": "2260"
     },
     {
-      "rank": 1741,
+      "rank": 1742,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/WWIYBv3mYio/default.jpg",
-        "url": "https://www.youtube.com/watch?v=WWIYBv3mYio",
+        "img": "https://i.ytimg.com/vi/lTMSvyYOVjA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=lTMSvyYOVjA",
         "target": "_blank"
       },
       "title": {
-        "text": "【MV】ZOC『チュープリ』Music Video",
-        "url": "https://www.youtube.com/watch?v=WWIYBv3mYio",
+        "text": "timelesz ｢ワンアンドオンリー｣ (YouTube Ver.)",
+        "url": "https://www.youtube.com/watch?v=lTMSvyYOVjA",
         "target": "_blank"
       },
       "channel": {
-        "text": "ZOCX",
-        "url": "https://www.youtube.com/channel/UCShhCnBdAL5nYpKrbL9JOTA",
+        "text": "timelesz [タイムレス]",
+        "url": "https://www.youtube.com/channel/UCgXJMvOBqHk5wJFRKZfIgWQ",
         "target": "_blank"
       },
-      "publishedAt": "2019-04-30",
-      "viewCount": "1216万",
-      "likeCount": "11.5万",
-      "commentCount": "-"
+      "publishedAt": "2025-05-05",
+      "viewCount": "1222万",
+      "likeCount": "11.48万",
+      "commentCount": "1.7万"
     },
     {
-      "rank": 1742,
+      "rank": 1743,
       "thumb": {
         "img": "https://i.ytimg.com/vi/YZHYDNb4rY4/default.jpg",
         "url": "https://www.youtube.com/watch?v=YZHYDNb4rY4",
@@ -925,51 +947,7 @@
       "commentCount": "1970"
     },
     {
-      "rank": 1743,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/lTMSvyYOVjA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=lTMSvyYOVjA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "timelesz ｢ワンアンドオンリー｣ (YouTube Ver.)",
-        "url": "https://www.youtube.com/watch?v=lTMSvyYOVjA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "timelesz [タイムレス]",
-        "url": "https://www.youtube.com/channel/UCgXJMvOBqHk5wJFRKZfIgWQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-05-05",
-      "viewCount": "1220万",
-      "likeCount": "11.48万",
-      "commentCount": "1.7万"
-    },
-    {
       "rank": 1744,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/zX4HvxGVb84/default.jpg",
-        "url": "https://www.youtube.com/watch?v=zX4HvxGVb84",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "GENERATIONS from EXILE TRIBE / One in a Million -奇跡の夜に- (Music Video)",
-        "url": "https://www.youtube.com/watch?v=zX4HvxGVb84",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-11-06",
-      "viewCount": "1643万",
-      "likeCount": "11.47万",
-      "commentCount": "5238"
-    },
-    {
-      "rank": 1745,
       "thumb": {
         "img": "https://i.ytimg.com/vi/EQva8xKAZ7s/default.jpg",
         "url": "https://www.youtube.com/watch?v=EQva8xKAZ7s",
@@ -991,6 +969,28 @@
       "commentCount": "4535"
     },
     {
+      "rank": 1745,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/zX4HvxGVb84/default.jpg",
+        "url": "https://www.youtube.com/watch?v=zX4HvxGVb84",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "GENERATIONS from EXILE TRIBE / One in a Million -奇跡の夜に- (Music Video)",
+        "url": "https://www.youtube.com/watch?v=zX4HvxGVb84",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-11-06",
+      "viewCount": "1643万",
+      "likeCount": "11.47万",
+      "commentCount": "5238"
+    },
+    {
       "rank": 1746,
       "thumb": {
         "img": "https://i.ytimg.com/vi/5cvXmuuC1GI/default.jpg",
@@ -1010,7 +1010,7 @@
       "publishedAt": "2019-06-18",
       "viewCount": "1352万",
       "likeCount": "11.43万",
-      "commentCount": "2246"
+      "commentCount": "2247"
     },
     {
       "rank": 1747,
@@ -1030,7 +1030,7 @@
         "target": "_blank"
       },
       "publishedAt": "2025-06-02",
-      "viewCount": "1105万",
+      "viewCount": "1106万",
       "likeCount": "11.42万",
       "commentCount": "2.8万"
     },
@@ -1076,7 +1076,7 @@
       "publishedAt": "2015-07-16",
       "viewCount": "2117万",
       "likeCount": "11.41万",
-      "commentCount": "5668"
+      "commentCount": "5669"
     },
     {
       "rank": 1750,

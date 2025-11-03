@@ -20,10 +20,32 @@
       "publishedAt": "2016-09-14",
       "viewCount": "1714万",
       "likeCount": "6.01万",
-      "commentCount": "3528"
+      "commentCount": "3529"
     },
     {
       "rank": 2402,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/KQZ75gaTktU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=KQZ75gaTktU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "西野カナ『もっと…』MV Full",
+        "url": "https://www.youtube.com/watch?v=KQZ75gaTktU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-08-27",
+      "viewCount": "1391万",
+      "likeCount": "6万",
+      "commentCount": "1072"
+    },
+    {
+      "rank": 2403,
       "thumb": {
         "img": "https://i.ytimg.com/vi/tzdhDr4t84I/default.jpg",
         "url": "https://www.youtube.com/watch?v=tzdhDr4t84I",
@@ -45,7 +67,7 @@
       "commentCount": "3448"
     },
     {
-      "rank": 2403,
+      "rank": 2404,
       "thumb": {
         "img": "https://i.ytimg.com/vi/svk_stIa8sc/default.jpg",
         "url": "https://www.youtube.com/watch?v=svk_stIa8sc",
@@ -67,7 +89,7 @@
       "commentCount": "1067"
     },
     {
-      "rank": 2404,
+      "rank": 2405,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Oj62PMMT4Bk/default.jpg",
         "url": "https://www.youtube.com/watch?v=Oj62PMMT4Bk",
@@ -84,31 +106,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-11-16",
-      "viewCount": "3608万",
+      "viewCount": "3609万",
       "likeCount": "6万",
       "commentCount": "-"
-    },
-    {
-      "rank": 2405,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/KQZ75gaTktU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=KQZ75gaTktU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "西野カナ『もっと…』MV Full",
-        "url": "https://www.youtube.com/watch?v=KQZ75gaTktU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-08-27",
-      "viewCount": "1390万",
-      "likeCount": "6万",
-      "commentCount": "1073"
     },
     {
       "rank": 2406,
@@ -128,9 +128,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-22",
-      "viewCount": "1219万",
+      "viewCount": "1220万",
       "likeCount": "6万",
-      "commentCount": "1743"
+      "commentCount": "1745"
     },
     {
       "rank": 2407,
@@ -194,7 +194,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-12-27",
-      "viewCount": "1157万",
+      "viewCount": "1158万",
       "likeCount": "5.98万",
       "commentCount": "1190"
     },
@@ -223,28 +223,6 @@
     {
       "rank": 2411,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/-Vx0Sn16ykA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=-Vx0Sn16ykA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "King & Prince 「WOW」MV",
-        "url": "https://www.youtube.com/watch?v=-Vx0Sn16ykA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "King & Prince",
-        "url": "https://www.youtube.com/channel/UCSxwcQnzA5K6DvofvBn6ATA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-11-13",
-      "viewCount": "1151万",
-      "likeCount": "5.98万",
-      "commentCount": "2.6万"
-    },
-    {
-      "rank": 2412,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/8OCvkuxnIuw/default.jpg",
         "url": "https://www.youtube.com/watch?v=8OCvkuxnIuw",
         "target": "_blank"
@@ -260,9 +238,31 @@
         "target": "_blank"
       },
       "publishedAt": "2024-03-04",
-      "viewCount": "1870万",
-      "likeCount": "5.97万",
+      "viewCount": "1872万",
+      "likeCount": "5.98万",
       "commentCount": "1312"
+    },
+    {
+      "rank": 2412,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/-Vx0Sn16ykA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=-Vx0Sn16ykA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "King & Prince 「WOW」MV",
+        "url": "https://www.youtube.com/watch?v=-Vx0Sn16ykA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "King & Prince",
+        "url": "https://www.youtube.com/channel/UCSxwcQnzA5K6DvofvBn6ATA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-11-13",
+      "viewCount": "1152万",
+      "likeCount": "5.98万",
+      "commentCount": "2.6万"
     },
     {
       "rank": 2413,
@@ -284,7 +284,7 @@
       "publishedAt": "2015-11-10",
       "viewCount": "1853万",
       "likeCount": "5.96万",
-      "commentCount": "1669"
+      "commentCount": "1670"
     },
     {
       "rank": 2414,
@@ -304,9 +304,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-02-13",
-      "viewCount": "1263万",
+      "viewCount": "1264万",
       "likeCount": "5.95万",
-      "commentCount": "1358"
+      "commentCount": "1359"
     },
     {
       "rank": 2415,
@@ -326,7 +326,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-21",
-      "viewCount": "2142万",
+      "viewCount": "2143万",
       "likeCount": "5.94万",
       "commentCount": "2089"
     },
@@ -392,7 +392,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-03-09",
-      "viewCount": "1242万",
+      "viewCount": "1243万",
       "likeCount": "5.89万",
       "commentCount": "1345"
     },
@@ -437,8 +437,8 @@
       },
       "publishedAt": "2014-05-27",
       "viewCount": "1040万",
-      "likeCount": "5.86万",
-      "commentCount": "2765"
+      "likeCount": "5.87万",
+      "commentCount": "2766"
     },
     {
       "rank": 2421,
@@ -458,9 +458,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-05",
-      "viewCount": "2574万",
+      "viewCount": "2575万",
       "likeCount": "5.84万",
-      "commentCount": "3310"
+      "commentCount": "3311"
     },
     {
       "rank": 2422,
@@ -482,7 +482,7 @@
       "publishedAt": "2020-10-28",
       "viewCount": "1546万",
       "likeCount": "5.83万",
-      "commentCount": "1761"
+      "commentCount": "1762"
     },
     {
       "rank": 2423,
@@ -502,7 +502,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-27",
-      "viewCount": "1788万",
+      "viewCount": "1789万",
       "likeCount": "5.82万",
       "commentCount": "1421"
     },
@@ -548,7 +548,7 @@
       "publishedAt": "2012-10-17",
       "viewCount": "1552万",
       "likeCount": "5.79万",
-      "commentCount": "2689"
+      "commentCount": "2690"
     },
     {
       "rank": 2426,
@@ -590,7 +590,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-04-21",
-      "viewCount": "2830万",
+      "viewCount": "2831万",
       "likeCount": "5.78万",
       "commentCount": "2502"
     },
@@ -636,7 +636,7 @@
       "publishedAt": "2019-03-17",
       "viewCount": "1396万",
       "likeCount": "5.76万",
-      "commentCount": "2768"
+      "commentCount": "2770"
     },
     {
       "rank": 2430,
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-08-12",
-      "viewCount": "1959万",
+      "viewCount": "1960万",
       "likeCount": "5.75万",
       "commentCount": "2158"
     },
@@ -679,7 +679,7 @@
       },
       "publishedAt": "2012-09-11",
       "viewCount": "1374万",
-      "likeCount": "5.74万",
+      "likeCount": "5.75万",
       "commentCount": "2237"
     },
     {
@@ -724,7 +724,7 @@
       "publishedAt": "2023-01-16",
       "viewCount": "1098万",
       "likeCount": "5.74万",
-      "commentCount": "1249"
+      "commentCount": "1250"
     },
     {
       "rank": 2434,
@@ -751,6 +751,28 @@
     {
       "rank": 2435,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/uUAnQUxitpU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=uUAnQUxitpU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "もう少しだけ",
+        "url": "https://www.youtube.com/watch?v=uUAnQUxitpU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-11-30",
+      "viewCount": "1379万",
+      "likeCount": "5.73万",
+      "commentCount": "107"
+    },
+    {
+      "rank": 2436,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/nBqXV3fAMNo/default.jpg",
         "url": "https://www.youtube.com/watch?v=nBqXV3fAMNo",
         "target": "_blank"
@@ -771,7 +793,7 @@
       "commentCount": "2595"
     },
     {
-      "rank": 2436,
+      "rank": 2437,
       "thumb": {
         "img": "https://i.ytimg.com/vi/7ct5C3jU_fY/default.jpg",
         "url": "https://www.youtube.com/watch?v=7ct5C3jU_fY",
@@ -793,28 +815,6 @@
       "commentCount": "2128"
     },
     {
-      "rank": 2437,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/uUAnQUxitpU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=uUAnQUxitpU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "もう少しだけ",
-        "url": "https://www.youtube.com/watch?v=uUAnQUxitpU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-30",
-      "viewCount": "1377万",
-      "likeCount": "5.72万",
-      "commentCount": "107"
-    },
-    {
       "rank": 2438,
       "thumb": {
         "img": "https://i.ytimg.com/vi/gixbnMuquhA/default.jpg",
@@ -832,12 +832,34 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-09",
-      "viewCount": "1677万",
+      "viewCount": "1678万",
       "likeCount": "5.68万",
-      "commentCount": "1205"
+      "commentCount": "1206"
     },
     {
       "rank": 2439,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/B7T4NNNWeHg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=B7T4NNNWeHg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "スピッツ / 渚",
+        "url": "https://www.youtube.com/watch?v=B7T4NNNWeHg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "spitzclips",
+        "url": "https://www.youtube.com/channel/UCEAOVoVVtVBhcn7vLIQIkDA",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-04-16",
+      "viewCount": "2177万",
+      "likeCount": "5.68万",
+      "commentCount": "3347"
+    },
+    {
+      "rank": 2440,
       "thumb": {
         "img": "https://i.ytimg.com/vi/MBrDKttuhQ0/default.jpg",
         "url": "https://www.youtube.com/watch?v=MBrDKttuhQ0",
@@ -857,28 +879,6 @@
       "viewCount": "1147万",
       "likeCount": "5.68万",
       "commentCount": "4101"
-    },
-    {
-      "rank": 2440,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/B7T4NNNWeHg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=B7T4NNNWeHg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "スピッツ / 渚",
-        "url": "https://www.youtube.com/watch?v=B7T4NNNWeHg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "spitzclips",
-        "url": "https://www.youtube.com/channel/UCEAOVoVVtVBhcn7vLIQIkDA",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-04-16",
-      "viewCount": "2177万",
-      "likeCount": "5.68万",
-      "commentCount": "3345"
     },
     {
       "rank": 2441,
@@ -905,6 +905,28 @@
     {
       "rank": 2442,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/LJkn2qqtijk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=LJkn2qqtijk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "LiSA『Catch the Moment』（「劇場版 ソードアート・オンライン -オーディナル・スケール-」主題歌）",
+        "url": "https://www.youtube.com/watch?v=LJkn2qqtijk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "LiSA Official YouTube",
+        "url": "https://www.youtube.com/channel/UCqEfdEvLG5oQWNYlDQrGlKw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-12-29",
+      "viewCount": "1175万",
+      "likeCount": "5.67万",
+      "commentCount": "774"
+    },
+    {
+      "rank": 2443,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/YzSTJLX8m4o/default.jpg",
         "url": "https://www.youtube.com/watch?v=YzSTJLX8m4o",
         "target": "_blank"
@@ -923,28 +945,6 @@
       "viewCount": "1516万",
       "likeCount": "5.67万",
       "commentCount": "2380"
-    },
-    {
-      "rank": 2443,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/LJkn2qqtijk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=LJkn2qqtijk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "LiSA『Catch the Moment』（「劇場版 ソードアート・オンライン -オーディナル・スケール-」主題歌）",
-        "url": "https://www.youtube.com/watch?v=LJkn2qqtijk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "LiSA Official YouTube",
-        "url": "https://www.youtube.com/channel/UCqEfdEvLG5oQWNYlDQrGlKw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-12-29",
-      "viewCount": "1174万",
-      "likeCount": "5.66万",
-      "commentCount": "774"
     },
     {
       "rank": 2444,
@@ -966,7 +966,7 @@
       "publishedAt": "2022-09-16",
       "viewCount": "1401万",
       "likeCount": "5.66万",
-      "commentCount": "1515"
+      "commentCount": "1516"
     },
     {
       "rank": 2445,
@@ -986,7 +986,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-10-14",
-      "viewCount": "1267万",
+      "viewCount": "1268万",
       "likeCount": "5.66万",
       "commentCount": "3.6万"
     },
@@ -1096,7 +1096,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-08-02",
-      "viewCount": "1644万",
+      "viewCount": "1645万",
       "likeCount": "5.62万",
       "commentCount": "5525"
     }
