@@ -21,7 +21,7 @@
       "viewCount": "1851万",
       "likeCount": "13.1万",
       "commentCount": "6195",
-      "increment_d1": "1955"
+      "increment_d1": "1847"
     },
     {
       "rank": 1852,
@@ -43,8 +43,8 @@
       "publishedAt": "2018-05-08",
       "viewCount": "1850万",
       "likeCount": "7.2万",
-      "commentCount": "5680",
-      "increment_d1": "1176"
+      "commentCount": "5683",
+      "increment_d1": "984"
     },
     {
       "rank": 1853,
@@ -67,7 +67,7 @@
       "viewCount": "1849万",
       "likeCount": "17.2万",
       "commentCount": "9740",
-      "increment_d1": "2849"
+      "increment_d1": "2690"
     },
     {
       "rank": 1854,
@@ -90,10 +90,33 @@
       "viewCount": "1849万",
       "likeCount": "20.2万",
       "commentCount": "7908",
-      "increment_d1": "846"
+      "increment_d1": "645"
     },
     {
       "rank": 1855,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/BYGo5t6rdA8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=BYGo5t6rdA8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "米津玄師 - 毎日　Kenshi Yonezu - Mainichi ( Every Day )",
+        "url": "https://www.youtube.com/watch?v=BYGo5t6rdA8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-05-28",
+      "viewCount": "1848万",
+      "likeCount": "20.1万",
+      "commentCount": "1.1万",
+      "increment_d1": "1.15万"
+    },
+    {
+      "rank": 1856,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3yoJY0IqiV0/default.jpg",
         "url": "https://www.youtube.com/watch?v=3yoJY0IqiV0",
@@ -113,56 +136,10 @@
       "viewCount": "1847万",
       "likeCount": "15.2万",
       "commentCount": "8430",
-      "increment_d1": "1001"
-    },
-    {
-      "rank": 1856,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/BYGo5t6rdA8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=BYGo5t6rdA8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "米津玄師 - 毎日　Kenshi Yonezu - Mainichi ( Every Day )",
-        "url": "https://www.youtube.com/watch?v=BYGo5t6rdA8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-05-28",
-      "viewCount": "1846万",
-      "likeCount": "20.1万",
-      "commentCount": "1.1万",
-      "increment_d1": "1.19万"
+      "increment_d1": "782"
     },
     {
       "rank": 1857,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/pKbMVYmYCN4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=pKbMVYmYCN4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "華原朋美 - I BELIEVE (from 「DREAM -Self Cover Best-」)",
-        "url": "https://www.youtube.com/watch?v=pKbMVYmYCN4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "TomomiKaharaVEVO",
-        "url": "https://www.youtube.com/channel/UCZXjtl9naRn9hU3OedL4GVw",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-06-20",
-      "viewCount": "1845万",
-      "likeCount": "4.8万",
-      "commentCount": "2425",
-      "increment_d1": "3879"
-    },
-    {
-      "rank": 1858,
       "thumb": {
         "img": "https://i.ytimg.com/vi/dSyUKb9U8Gw/default.jpg",
         "url": "https://www.youtube.com/watch?v=dSyUKb9U8Gw",
@@ -179,10 +156,33 @@
         "target": "_blank"
       },
       "publishedAt": "2024-08-11",
-      "viewCount": "1844万",
+      "viewCount": "1846万",
       "likeCount": "10.5万",
       "commentCount": "3413",
-      "increment_d1": "1.5万"
+      "increment_d1": "1.32万"
+    },
+    {
+      "rank": 1858,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/pKbMVYmYCN4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=pKbMVYmYCN4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "華原朋美 - I BELIEVE (from 「DREAM -Self Cover Best-」)",
+        "url": "https://www.youtube.com/watch?v=pKbMVYmYCN4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "TomomiKaharaVEVO",
+        "url": "https://www.youtube.com/channel/UCZXjtl9naRn9hU3OedL4GVw",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-06-20",
+      "viewCount": "1846万",
+      "likeCount": "4.8万",
+      "commentCount": "2425",
+      "increment_d1": "3754"
     },
     {
       "rank": 1859,
@@ -203,12 +203,35 @@
       },
       "publishedAt": "2009-07-02",
       "viewCount": "1843万",
-      "likeCount": "6万",
-      "commentCount": "2440",
-      "increment_d1": "2340"
+      "likeCount": "6.1万",
+      "commentCount": "2442",
+      "increment_d1": "2599"
     },
     {
       "rank": 1860,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/7xRWOylrLfI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=7xRWOylrLfI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "トドメの一撃 feat. Cory Wong  (TVアニメ『SPY×FAMILY』Season 2 エンディング主題歌) / Vaundy：MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=7xRWOylrLfI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Vaundy",
+        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-10-07",
+      "viewCount": "1843万",
+      "likeCount": "9.7万",
+      "commentCount": "3368",
+      "increment_d1": "9547"
+    },
+    {
+      "rank": 1861,
       "thumb": {
         "img": "https://i.ytimg.com/vi/xgWFK4REfgk/default.jpg",
         "url": "https://www.youtube.com/watch?v=xgWFK4REfgk",
@@ -228,30 +251,7 @@
       "viewCount": "1842万",
       "likeCount": "17.4万",
       "commentCount": "7.4万",
-      "increment_d1": "2173"
-    },
-    {
-      "rank": 1861,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/7xRWOylrLfI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=7xRWOylrLfI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "トドメの一撃 feat. Cory Wong  (TVアニメ『SPY×FAMILY』Season 2 エンディング主題歌) / Vaundy：MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=7xRWOylrLfI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Vaundy",
-        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-10-07",
-      "viewCount": "1842万",
-      "likeCount": "9.7万",
-      "commentCount": "3368",
-      "increment_d1": "8974"
+      "increment_d1": "2322"
     },
     {
       "rank": 1862,
@@ -271,10 +271,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-29",
-      "viewCount": "1841万",
+      "viewCount": "1842万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "1.11万"
+      "increment_d1": "9730"
     },
     {
       "rank": 1863,
@@ -297,7 +297,7 @@
       "viewCount": "1840万",
       "likeCount": "8.2万",
       "commentCount": "9587",
-      "increment_d1": "905"
+      "increment_d1": "749"
     },
     {
       "rank": 1864,
@@ -320,7 +320,7 @@
       "viewCount": "1840万",
       "likeCount": "12.7万",
       "commentCount": "3659",
-      "increment_d1": "797"
+      "increment_d1": "772"
     },
     {
       "rank": 1865,
@@ -340,10 +340,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-04-16",
-      "viewCount": "1839万",
+      "viewCount": "1840万",
       "likeCount": "15.3万",
       "commentCount": "6340",
-      "increment_d1": "2637"
+      "increment_d1": "2349"
     },
     {
       "rank": 1866,
@@ -366,7 +366,7 @@
       "viewCount": "1839万",
       "likeCount": "85.9万",
       "commentCount": "1.7万",
-      "increment_d1": "2225"
+      "increment_d1": "1849"
     },
     {
       "rank": 1867,
@@ -386,10 +386,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-01-07",
-      "viewCount": "1838万",
+      "viewCount": "1839万",
       "likeCount": "14万",
-      "commentCount": "7152",
-      "increment_d1": "3170"
+      "commentCount": "7153",
+      "increment_d1": "3056"
     },
     {
       "rank": 1868,
@@ -409,10 +409,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-14",
-      "viewCount": "1837万",
+      "viewCount": "1838万",
       "likeCount": "7.7万",
-      "commentCount": "1784",
-      "increment_d1": "8622"
+      "commentCount": "1786",
+      "increment_d1": "8806"
     },
     {
       "rank": 1869,
@@ -432,13 +432,36 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-22",
-      "viewCount": "1833万",
+      "viewCount": "1834万",
       "likeCount": "17.1万",
       "commentCount": "6622",
-      "increment_d1": "4493"
+      "increment_d1": "4561"
     },
     {
       "rank": 1870,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/mEQZNRT6Pqk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=mEQZNRT6Pqk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "就寝御礼 (Original Mix)",
+        "url": "https://www.youtube.com/watch?v=mEQZNRT6Pqk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "PSYQUI - Topic",
+        "url": "https://www.youtube.com/channel/UCN6g6I3POYZnacDNvOLgJfg",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-01-23",
+      "viewCount": "1831万",
+      "likeCount": "22.1万",
+      "commentCount": "1311",
+      "increment_d1": "1.56万"
+    },
+    {
+      "rank": 1871,
       "thumb": {
         "img": "https://i.ytimg.com/vi/J71ILoiePMg/default.jpg",
         "url": "https://www.youtube.com/watch?v=J71ILoiePMg",
@@ -458,53 +481,30 @@
       "viewCount": "1831万",
       "likeCount": "8.6万",
       "commentCount": "9609",
-      "increment_d1": "1508"
-    },
-    {
-      "rank": 1871,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/mEQZNRT6Pqk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=mEQZNRT6Pqk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "就寝御礼 (Original Mix)",
-        "url": "https://www.youtube.com/watch?v=mEQZNRT6Pqk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "PSYQUI - Topic",
-        "url": "https://www.youtube.com/channel/UCN6g6I3POYZnacDNvOLgJfg",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-01-23",
-      "viewCount": "1830万",
-      "likeCount": "22.1万",
-      "commentCount": "1310",
-      "increment_d1": "1.53万"
+      "increment_d1": "1227"
     },
     {
       "rank": 1872,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/XZsGfCg3Ve4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=XZsGfCg3Ve4",
+        "img": "https://i.ytimg.com/vi/fzH7RUhHAg0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=fzH7RUhHAg0",
         "target": "_blank"
       },
       "title": {
-        "text": "Superfly『黒い雫』Music Video〜フジテレビ系水10ドラマ「無痛〜診える眼〜」主題歌〜",
-        "url": "https://www.youtube.com/watch?v=XZsGfCg3Ve4",
+        "text": "Snow Man 'EMPIRE' Performance Video",
+        "url": "https://www.youtube.com/watch?v=fzH7RUhHAg0",
         "target": "_blank"
       },
       "channel": {
-        "text": "Superfly",
-        "url": "https://www.youtube.com/channel/UCW1vck-e025HMBwix6cW_qw",
+        "text": "Snow Man",
+        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
         "target": "_blank"
       },
-      "publishedAt": "2015-11-23",
-      "viewCount": "1829万",
-      "likeCount": "4.8万",
-      "commentCount": "1184",
-      "increment_d1": "665"
+      "publishedAt": "2024-10-24",
+      "viewCount": "1830万",
+      "likeCount": "17万",
+      "commentCount": "1.1万",
+      "increment_d1": "2.07万"
     },
     {
       "rank": 1873,
@@ -527,33 +527,56 @@
       "viewCount": "1829万",
       "likeCount": "-",
       "commentCount": "1.4万",
-      "increment_d1": "2810"
+      "increment_d1": "2963"
     },
     {
       "rank": 1874,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/fzH7RUhHAg0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=fzH7RUhHAg0",
+        "img": "https://i.ytimg.com/vi/XZsGfCg3Ve4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=XZsGfCg3Ve4",
         "target": "_blank"
       },
       "title": {
-        "text": "Snow Man 'EMPIRE' Performance Video",
-        "url": "https://www.youtube.com/watch?v=fzH7RUhHAg0",
+        "text": "Superfly『黒い雫』Music Video〜フジテレビ系水10ドラマ「無痛〜診える眼〜」主題歌〜",
+        "url": "https://www.youtube.com/watch?v=XZsGfCg3Ve4",
         "target": "_blank"
       },
       "channel": {
-        "text": "Snow Man",
-        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
+        "text": "Superfly",
+        "url": "https://www.youtube.com/channel/UCW1vck-e025HMBwix6cW_qw",
         "target": "_blank"
       },
-      "publishedAt": "2024-10-24",
-      "viewCount": "1828万",
-      "likeCount": "17万",
-      "commentCount": "1.1万",
-      "increment_d1": "2.11万"
+      "publishedAt": "2015-11-23",
+      "viewCount": "1829万",
+      "likeCount": "4.8万",
+      "commentCount": "1184",
+      "increment_d1": "543"
     },
     {
       "rank": 1875,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/e_pdE__o5D8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=e_pdE__o5D8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Official】Uru 「アンビバレント」 TVアニメ『薬屋のひとりごと』第2クールOPテーマ",
+        "url": "https://www.youtube.com/watch?v=e_pdE__o5D8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Uru Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-01-19",
+      "viewCount": "1827万",
+      "likeCount": "11.6万",
+      "commentCount": "1480",
+      "increment_d1": "2.21万"
+    },
+    {
+      "rank": 1876,
       "thumb": {
         "img": "https://i.ytimg.com/vi/E5ZapvJV9wc/default.jpg",
         "url": "https://www.youtube.com/watch?v=E5ZapvJV9wc",
@@ -572,11 +595,11 @@
       "publishedAt": "2009-06-19",
       "viewCount": "1826万",
       "likeCount": "5.3万",
-      "commentCount": "1356",
-      "increment_d1": "5418"
+      "commentCount": "1357",
+      "increment_d1": "5569"
     },
     {
-      "rank": 1876,
+      "rank": 1877,
       "thumb": {
         "img": "https://i.ytimg.com/vi/F_WgREJgJhw/default.jpg",
         "url": "https://www.youtube.com/watch?v=F_WgREJgJhw",
@@ -593,36 +616,36 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-08",
-      "viewCount": "1825万",
+      "viewCount": "1826万",
       "likeCount": "12.1万",
       "commentCount": "1.9万",
-      "increment_d1": "2428"
-    },
-    {
-      "rank": 1877,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/e_pdE__o5D8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=e_pdE__o5D8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Official】Uru 「アンビバレント」 TVアニメ『薬屋のひとりごと』第2クールOPテーマ",
-        "url": "https://www.youtube.com/watch?v=e_pdE__o5D8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Uru Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-01-19",
-      "viewCount": "1825万",
-      "likeCount": "11.6万",
-      "commentCount": "1479",
-      "increment_d1": "2.38万"
+      "increment_d1": "2404"
     },
     {
       "rank": 1878,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ye5v9mOkDh8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ye5v9mOkDh8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ATARASHII GAKKO! - 新しい学校のリーダーズ ｢恋ゲバ｣",
+        "url": "https://www.youtube.com/watch?v=ye5v9mOkDh8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Victor Entertainment",
+        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-03-05",
+      "viewCount": "1825万",
+      "likeCount": "64万",
+      "commentCount": "5536",
+      "increment_d1": "4456"
+    },
+    {
+      "rank": 1879,
       "thumb": {
         "img": "https://i.ytimg.com/vi/yV0j3-SGaYA/default.jpg",
         "url": "https://www.youtube.com/watch?v=yV0j3-SGaYA",
@@ -642,30 +665,7 @@
       "viewCount": "1824万",
       "likeCount": "21.1万",
       "commentCount": "1.1万",
-      "increment_d1": "2060"
-    },
-    {
-      "rank": 1879,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ye5v9mOkDh8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ye5v9mOkDh8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ATARASHII GAKKO! - 新しい学校のリーダーズ ｢恋ゲバ｣",
-        "url": "https://www.youtube.com/watch?v=ye5v9mOkDh8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Victor Entertainment",
-        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-03-05",
-      "viewCount": "1824万",
-      "likeCount": "64万",
-      "commentCount": "5535",
-      "increment_d1": "5821"
+      "increment_d1": "1742"
     },
     {
       "rank": 1880,
@@ -688,7 +688,7 @@
       "viewCount": "1824万",
       "likeCount": "3.9万",
       "commentCount": "1679",
-      "increment_d1": "313"
+      "increment_d1": "259"
     },
     {
       "rank": 1881,
@@ -708,10 +708,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-10",
-      "viewCount": "1823万",
+      "viewCount": "1824万",
       "likeCount": "27.7万",
-      "commentCount": "9064",
-      "increment_d1": "4640"
+      "commentCount": "9063",
+      "increment_d1": "4212"
     },
     {
       "rank": 1882,
@@ -731,33 +731,33 @@
         "target": "_blank"
       },
       "publishedAt": "2025-02-14",
-      "viewCount": "1822万",
+      "viewCount": "1823万",
       "likeCount": "14万",
       "commentCount": "2.2万",
-      "increment_d1": "1.1万"
+      "increment_d1": "1.24万"
     },
     {
       "rank": 1883,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/VtqnjYMdCAQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=VtqnjYMdCAQ",
+        "img": "https://i.ytimg.com/vi/hCgKjuJvDBw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=hCgKjuJvDBw",
         "target": "_blank"
       },
       "title": {
-        "text": "おいしくるメロンパン「look at the sea」Music Video",
-        "url": "https://www.youtube.com/watch?v=VtqnjYMdCAQ",
+        "text": "ののちゃん(村方乃々佳)「パンダうさぎコアラ」Music Video",
+        "url": "https://www.youtube.com/watch?v=hCgKjuJvDBw",
         "target": "_blank"
       },
       "channel": {
-        "text": "おいしくるメロンパン",
-        "url": "https://www.youtube.com/channel/UCFXpQ26vOF8OCPjAyIzyLLQ",
+        "text": "KING RECORDS",
+        "url": "https://www.youtube.com/channel/UC6KEU5-KSTszEOOnAl8ZwPQ",
         "target": "_blank"
       },
-      "publishedAt": "2017-07-26",
-      "viewCount": "1819万",
-      "likeCount": "20.6万",
-      "commentCount": "3330",
-      "increment_d1": "1.08万"
+      "publishedAt": "2023-03-29",
+      "viewCount": "1822万",
+      "likeCount": "3.8万",
+      "commentCount": "-",
+      "increment_d1": "3.95万"
     },
     {
       "rank": 1884,
@@ -777,13 +777,36 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-03",
-      "viewCount": "1819万",
+      "viewCount": "1821万",
       "likeCount": "12.8万",
-      "commentCount": "2828",
-      "increment_d1": "1.55万"
+      "commentCount": "2827",
+      "increment_d1": "1.67万"
     },
     {
       "rank": 1885,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/VtqnjYMdCAQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=VtqnjYMdCAQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "おいしくるメロンパン「look at the sea」Music Video",
+        "url": "https://www.youtube.com/watch?v=VtqnjYMdCAQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "おいしくるメロンパン",
+        "url": "https://www.youtube.com/channel/UCFXpQ26vOF8OCPjAyIzyLLQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-07-26",
+      "viewCount": "1820万",
+      "likeCount": "20.6万",
+      "commentCount": "3330",
+      "increment_d1": "1.11万"
+    },
+    {
+      "rank": 1886,
       "thumb": {
         "img": "https://i.ytimg.com/vi/W0C_VJqjtpw/default.jpg",
         "url": "https://www.youtube.com/watch?v=W0C_VJqjtpw",
@@ -802,31 +825,8 @@
       "publishedAt": "2022-03-12",
       "viewCount": "1819万",
       "likeCount": "19.9万",
-      "commentCount": "3701",
-      "increment_d1": "6824"
-    },
-    {
-      "rank": 1886,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/hCgKjuJvDBw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=hCgKjuJvDBw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ののちゃん(村方乃々佳)「パンダうさぎコアラ」Music Video",
-        "url": "https://www.youtube.com/watch?v=hCgKjuJvDBw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "KING RECORDS",
-        "url": "https://www.youtube.com/channel/UC6KEU5-KSTszEOOnAl8ZwPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-03-29",
-      "viewCount": "1818万",
-      "likeCount": "3.8万",
-      "commentCount": "-",
-      "increment_d1": "4.09万"
+      "commentCount": "3700",
+      "increment_d1": "7493"
     },
     {
       "rank": 1887,
@@ -848,8 +848,8 @@
       "publishedAt": "2011-12-21",
       "viewCount": "1816万",
       "likeCount": "7.3万",
-      "commentCount": "5272",
-      "increment_d1": "2627"
+      "commentCount": "5270",
+      "increment_d1": "2647"
     },
     {
       "rank": 1888,
@@ -872,7 +872,7 @@
       "viewCount": "1815万",
       "likeCount": "6.9万",
       "commentCount": "68",
-      "increment_d1": "75"
+      "increment_d1": "104"
     },
     {
       "rank": 1889,
@@ -892,10 +892,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-10",
-      "viewCount": "1814万",
+      "viewCount": "1815万",
       "likeCount": "22.2万",
       "commentCount": "6142",
-      "increment_d1": "4425"
+      "increment_d1": "4020"
     },
     {
       "rank": 1890,
@@ -918,10 +918,33 @@
       "viewCount": "1812万",
       "likeCount": "2.8万",
       "commentCount": "1601",
-      "increment_d1": "690"
+      "increment_d1": "539"
     },
     {
       "rank": 1891,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/B36u-tuublE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=B36u-tuublE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "コレサワ「元彼女のみなさまへ」【Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=B36u-tuublE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "コレサワ",
+        "url": "https://www.youtube.com/channel/UCY47aDuWPpH18NJlidLg04A",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-09-04",
+      "viewCount": "1811万",
+      "likeCount": "13.2万",
+      "commentCount": "2478",
+      "increment_d1": "1.08万"
+    },
+    {
+      "rank": 1892,
       "thumb": {
         "img": "https://i.ytimg.com/vi/oCRlKdMnPLI/default.jpg",
         "url": "https://www.youtube.com/watch?v=oCRlKdMnPLI",
@@ -941,10 +964,10 @@
       "viewCount": "1811万",
       "likeCount": "2.3万",
       "commentCount": "2562",
-      "increment_d1": "304"
+      "increment_d1": "318"
     },
     {
-      "rank": 1892,
+      "rank": 1893,
       "thumb": {
         "img": "https://i.ytimg.com/vi/NypVvG9fQ7o/default.jpg",
         "url": "https://www.youtube.com/watch?v=NypVvG9fQ7o",
@@ -964,30 +987,7 @@
       "viewCount": "1810万",
       "likeCount": "5.2万",
       "commentCount": "3588",
-      "increment_d1": "990"
-    },
-    {
-      "rank": 1893,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/B36u-tuublE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=B36u-tuublE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "コレサワ「元彼女のみなさまへ」【Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=B36u-tuublE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "コレサワ",
-        "url": "https://www.youtube.com/channel/UCY47aDuWPpH18NJlidLg04A",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-09-04",
-      "viewCount": "1810万",
-      "likeCount": "13.2万",
-      "commentCount": "2478",
-      "increment_d1": "1.13万"
+      "increment_d1": "830"
     },
     {
       "rank": 1894,
@@ -1007,13 +1007,36 @@
         "target": "_blank"
       },
       "publishedAt": "2015-04-08",
-      "viewCount": "1808万",
+      "viewCount": "1809万",
       "likeCount": "12.6万",
       "commentCount": "3616",
-      "increment_d1": "2511"
+      "increment_d1": "2551"
     },
     {
       "rank": 1895,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/C6SX7B1o-w4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=C6SX7B1o-w4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – インフェルノ 【LIVE from M-ON!】",
+        "url": "https://www.youtube.com/watch?v=C6SX7B1o-w4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-05-07",
+      "viewCount": "1808万",
+      "likeCount": "15.9万",
+      "commentCount": "5486",
+      "increment_d1": "8186"
+    },
+    {
+      "rank": 1896,
       "thumb": {
         "img": "https://i.ytimg.com/vi/aXAzTUbUB6Y/default.jpg",
         "url": "https://www.youtube.com/watch?v=aXAzTUbUB6Y",
@@ -1033,33 +1056,33 @@
       "viewCount": "1808万",
       "likeCount": "24.1万",
       "commentCount": "8488",
-      "increment_d1": "214"
-    },
-    {
-      "rank": 1896,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/C6SX7B1o-w4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=C6SX7B1o-w4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – インフェルノ 【LIVE from M-ON!】",
-        "url": "https://www.youtube.com/watch?v=C6SX7B1o-w4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-05-07",
-      "viewCount": "1807万",
-      "likeCount": "15.8万",
-      "commentCount": "5486",
-      "increment_d1": "9008"
+      "increment_d1": "185"
     },
     {
       "rank": 1897,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/-_PKhPMXMDY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=-_PKhPMXMDY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Tokimeki / Vaundy：MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=-_PKhPMXMDY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Vaundy",
+        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-03-29",
+      "viewCount": "1807万",
+      "likeCount": "11.7万",
+      "commentCount": "2174",
+      "increment_d1": "1.12万"
+    },
+    {
+      "rank": 1898,
       "thumb": {
         "img": "https://i.ytimg.com/vi/XOBjOWELu1o/default.jpg",
         "url": "https://www.youtube.com/watch?v=XOBjOWELu1o",
@@ -1078,11 +1101,34 @@
       "publishedAt": "2019-12-18",
       "viewCount": "1807万",
       "likeCount": "5.5万",
-      "commentCount": "2626",
-      "increment_d1": "6801"
+      "commentCount": "2625",
+      "increment_d1": "6063"
     },
     {
-      "rank": 1898,
+      "rank": 1899,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/NY1TyFUhbMA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=NY1TyFUhbMA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mega Shinnosuke - 愛とU(Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=NY1TyFUhbMA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mega Shinnosuke",
+        "url": "https://www.youtube.com/channel/UCxO9YksWfTANICZoP0RVjOA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-06-18",
+      "viewCount": "1807万",
+      "likeCount": "18.1万",
+      "commentCount": "2244",
+      "increment_d1": "2.42万"
+    },
+    {
+      "rank": 1900,
       "thumb": {
         "img": "https://i.ytimg.com/vi/4g9ZlGhN7oU/default.jpg",
         "url": "https://www.youtube.com/watch?v=4g9ZlGhN7oU",
@@ -1101,54 +1147,8 @@
       "publishedAt": "2014-08-10",
       "viewCount": "1807万",
       "likeCount": "2.7万",
-      "commentCount": "1189",
-      "increment_d1": "1981"
-    },
-    {
-      "rank": 1899,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/-_PKhPMXMDY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=-_PKhPMXMDY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Tokimeki / Vaundy：MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=-_PKhPMXMDY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Vaundy",
-        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-03-29",
-      "viewCount": "1806万",
-      "likeCount": "11.7万",
-      "commentCount": "2174",
-      "increment_d1": "1.22万"
-    },
-    {
-      "rank": 1900,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/3tna5dDdDKc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=3tna5dDdDKc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "JO1｜'Shine A Light'  MV",
-        "url": "https://www.youtube.com/watch?v=3tna5dDdDKc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "JO1",
-        "url": "https://www.youtube.com/channel/UCsmXiDP8S40uBeJYxvyulmA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-11-09",
-      "viewCount": "1805万",
-      "likeCount": "12.8万",
-      "commentCount": "10.2万",
-      "increment_d1": "1790"
+      "commentCount": "1190",
+      "increment_d1": "1481"
     }
   ]
 }

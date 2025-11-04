@@ -1,7 +1,7 @@
 {
   "rows": [
     {
-      "rank": 1901,
+      "rank": 1900,
       "thumb": {
         "img": "https://i.ytimg.com/vi/b5qDEwUMIQg/default.jpg",
         "url": "https://www.youtube.com/watch?v=b5qDEwUMIQg",
@@ -18,9 +18,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-16",
-      "viewCount": "2967万",
+      "viewCount": "2968万",
       "likeCount": "19.6万",
-      "commentCount": "4099"
+      "commentCount": "4101"
     },
     {
       "rank": 1902,
@@ -47,6 +47,28 @@
     {
       "rank": 1903,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/e3857A5uuCA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=e3857A5uuCA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "コレサワ「あたしを彼女にしたいなら」【Music Video】",
+        "url": "https://www.youtube.com/watch?v=e3857A5uuCA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "コレサワ",
+        "url": "https://www.youtube.com/channel/UCY47aDuWPpH18NJlidLg04A",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-10-02",
+      "viewCount": "2857万",
+      "likeCount": "23.9万",
+      "commentCount": "4092"
+    },
+    {
+      "rank": 1904,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/Lsb6Dq-92NA/default.jpg",
         "url": "https://www.youtube.com/watch?v=Lsb6Dq-92NA",
         "target": "_blank"
@@ -64,28 +86,6 @@
       "publishedAt": "2020-10-20",
       "viewCount": "1134万",
       "likeCount": "8.3万",
-      "commentCount": "4091"
-    },
-    {
-      "rank": 1903,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/e3857A5uuCA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=e3857A5uuCA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "コレサワ「あたしを彼女にしたいなら」【Music Video】",
-        "url": "https://www.youtube.com/watch?v=e3857A5uuCA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "コレサワ",
-        "url": "https://www.youtube.com/channel/UCY47aDuWPpH18NJlidLg04A",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-10-02",
-      "viewCount": "2856万",
-      "likeCount": "23.9万",
       "commentCount": "4091"
     },
     {
@@ -150,7 +150,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-03-29",
-      "viewCount": "2545万",
+      "viewCount": "2546万",
       "likeCount": "17万",
       "commentCount": "4075"
     },
@@ -172,7 +172,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-02",
-      "viewCount": "5968万",
+      "viewCount": "5969万",
       "likeCount": "85.7万",
       "commentCount": "4073"
     },
@@ -196,7 +196,7 @@
       "publishedAt": "2013-06-18",
       "viewCount": "2136万",
       "likeCount": "10.5万",
-      "commentCount": "4071"
+      "commentCount": "4072"
     },
     {
       "rank": 1910,
@@ -216,7 +216,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-17",
-      "viewCount": "1747万",
+      "viewCount": "1748万",
       "likeCount": "18万",
       "commentCount": "4070"
     },
@@ -238,12 +238,12 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-23",
-      "viewCount": "1280万",
+      "viewCount": "1281万",
       "likeCount": "15.2万",
-      "commentCount": "4063"
+      "commentCount": "4065"
     },
     {
-      "rank": 1911,
+      "rank": 1912,
       "thumb": {
         "img": "https://i.ytimg.com/vi/HIRfc3ybbPg/default.jpg",
         "url": "https://www.youtube.com/watch?v=HIRfc3ybbPg",
@@ -421,28 +421,6 @@
     {
       "rank": 1920,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/-fHwjofPKL0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=-fHwjofPKL0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Aqua Timez『等身大のラブソング』Music Video",
-        "url": "https://www.youtube.com/watch?v=-fHwjofPKL0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Aqua Timez Official",
-        "url": "https://www.youtube.com/channel/UCcxM-DeSQMFyqjB8Y8zan7Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-08-23",
-      "viewCount": "4137万",
-      "likeCount": "10.5万",
-      "commentCount": "4032"
-    },
-    {
-      "rank": 1921,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/p010N38zFrA/default.jpg",
         "url": "https://www.youtube.com/watch?v=p010N38zFrA",
         "target": "_blank"
@@ -458,12 +436,56 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-05",
-      "viewCount": "1411万",
+      "viewCount": "1412万",
       "likeCount": "18万",
-      "commentCount": "4031"
+      "commentCount": "4033"
+    },
+    {
+      "rank": 1920,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/-fHwjofPKL0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=-fHwjofPKL0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Aqua Timez『等身大のラブソング』Music Video",
+        "url": "https://www.youtube.com/watch?v=-fHwjofPKL0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Aqua Timez Official",
+        "url": "https://www.youtube.com/channel/UCcxM-DeSQMFyqjB8Y8zan7Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-08-23",
+      "viewCount": "4138万",
+      "likeCount": "10.5万",
+      "commentCount": "4033"
     },
     {
       "rank": 1922,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/yZt2XEjsduc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=yZt2XEjsduc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【公式】槇原敬之「冬がはじまるよ」(MV)【4thシングル】 (1991年）Noriyuki Makihara/ Fuyu Ga Hajimaruyo",
+        "url": "https://www.youtube.com/watch?v=yZt2XEjsduc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Warner Music Japan",
+        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-11-14",
+      "viewCount": "1903万",
+      "likeCount": "6.2万",
+      "commentCount": "4031"
+    },
+    {
+      "rank": 1923,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Bfurc6KcMwk/default.jpg",
         "url": "https://www.youtube.com/watch?v=Bfurc6KcMwk",
@@ -483,28 +505,6 @@
       "viewCount": "1942万",
       "likeCount": "29.4万",
       "commentCount": "4029"
-    },
-    {
-      "rank": 1923,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/yZt2XEjsduc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=yZt2XEjsduc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【公式】槇原敬之「冬がはじまるよ」(MV)【4thシングル】 (1991年）Noriyuki Makihara/ Fuyu Ga Hajimaruyo",
-        "url": "https://www.youtube.com/watch?v=yZt2XEjsduc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Warner Music Japan",
-        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-11-14",
-      "viewCount": "1902万",
-      "likeCount": "6.2万",
-      "commentCount": "4026"
     },
     {
       "rank": 1924,
@@ -548,7 +548,7 @@
       "publishedAt": "2022-10-08",
       "viewCount": "1381万",
       "likeCount": "14.2万",
-      "commentCount": "4021"
+      "commentCount": "4022"
     },
     {
       "rank": 1926,
@@ -590,12 +590,34 @@
         "target": "_blank"
       },
       "publishedAt": "2014-08-23",
-      "viewCount": "3513万",
+      "viewCount": "3514万",
       "likeCount": "9.7万",
-      "commentCount": "4014"
+      "commentCount": "4015"
     },
     {
       "rank": 1927,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/_6h1UACCeIU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=_6h1UACCeIU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Rake　『100万回の「I love you」』",
+        "url": "https://www.youtube.com/watch?v=_6h1UACCeIU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-01-27",
+      "viewCount": "4505万",
+      "likeCount": "15.4万",
+      "commentCount": "4015"
+    },
+    {
+      "rank": 1929,
       "thumb": {
         "img": "https://i.ytimg.com/vi/EyI_xZKisUw/default.jpg",
         "url": "https://www.youtube.com/watch?v=EyI_xZKisUw",
@@ -615,28 +637,6 @@
       "viewCount": "1470万",
       "likeCount": "13万",
       "commentCount": "4014"
-    },
-    {
-      "rank": 1929,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/_6h1UACCeIU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=_6h1UACCeIU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Rake　『100万回の「I love you」』",
-        "url": "https://www.youtube.com/watch?v=_6h1UACCeIU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-01-27",
-      "viewCount": "4505万",
-      "likeCount": "15.4万",
-      "commentCount": "4013"
     },
     {
       "rank": 1930,
@@ -663,6 +663,28 @@
     {
       "rank": 1931,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/u3mjz_LKJh8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=u3mjz_LKJh8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "嵐 - ワイルド アット ハート (This is 嵐 LIVE 2020.12.31) [Official Live Video]",
+        "url": "https://www.youtube.com/watch?v=u3mjz_LKJh8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Storm Labels Official",
+        "url": "https://www.youtube.com/channel/UCruUAAgi8FPOEhV_6nxD0ew",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-12-01",
+      "viewCount": "1161万",
+      "likeCount": "-",
+      "commentCount": "4006"
+    },
+    {
+      "rank": 1931,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/NbLCPs5WnqY/default.jpg",
         "url": "https://www.youtube.com/watch?v=NbLCPs5WnqY",
         "target": "_blank"
@@ -683,28 +705,6 @@
       "commentCount": "4006"
     },
     {
-      "rank": 1932,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/u3mjz_LKJh8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=u3mjz_LKJh8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "嵐 - ワイルド アット ハート (This is 嵐 LIVE 2020.12.31) [Official Live Video]",
-        "url": "https://www.youtube.com/watch?v=u3mjz_LKJh8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Storm Labels Official",
-        "url": "https://www.youtube.com/channel/UCruUAAgi8FPOEhV_6nxD0ew",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-12-01",
-      "viewCount": "1161万",
-      "likeCount": "-",
-      "commentCount": "4005"
-    },
-    {
       "rank": 1933,
       "thumb": {
         "img": "https://i.ytimg.com/vi/r93rVW--5ZU/default.jpg",
@@ -722,7 +722,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-06",
-      "viewCount": "5210万",
+      "viewCount": "5213万",
       "likeCount": "28.9万",
       "commentCount": "4004"
     },
@@ -744,12 +744,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-10",
-      "viewCount": "2689万",
+      "viewCount": "2690万",
       "likeCount": "12.6万",
-      "commentCount": "3991"
+      "commentCount": "3992"
     },
     {
-      "rank": 1934,
+      "rank": 1935,
       "thumb": {
         "img": "https://i.ytimg.com/vi/wQbVEC5ttEA/default.jpg",
         "url": "https://www.youtube.com/watch?v=wQbVEC5ttEA",
@@ -771,7 +771,7 @@
       "commentCount": "3991"
     },
     {
-      "rank": 1934,
+      "rank": 1935,
       "thumb": {
         "img": "https://i.ytimg.com/vi/gO7HMTgryd0/default.jpg",
         "url": "https://www.youtube.com/watch?v=gO7HMTgryd0",
@@ -788,7 +788,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-09",
-      "viewCount": "3650万",
+      "viewCount": "3651万",
       "likeCount": "14.8万",
       "commentCount": "3991"
     },
@@ -812,10 +812,10 @@
       "publishedAt": "2017-07-01",
       "viewCount": "1754万",
       "likeCount": "12.7万",
-      "commentCount": "3967"
+      "commentCount": "3966"
     },
     {
-      "rank": 1938,
+      "rank": 1937,
       "thumb": {
         "img": "https://i.ytimg.com/vi/k7rHDHJG1jA/default.jpg",
         "url": "https://www.youtube.com/watch?v=k7rHDHJG1jA",
@@ -854,9 +854,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-07",
-      "viewCount": "1588万",
+      "viewCount": "1589万",
       "likeCount": "6.9万",
-      "commentCount": "3963"
+      "commentCount": "3962"
     },
     {
       "rank": 1940,
@@ -920,9 +920,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-17",
-      "viewCount": "1349万",
+      "viewCount": "1350万",
       "likeCount": "17.3万",
-      "commentCount": "3952"
+      "commentCount": "3953"
     },
     {
       "rank": 1943,
@@ -988,29 +988,7 @@
       "publishedAt": "2022-04-07",
       "viewCount": "2237万",
       "likeCount": "21.5万",
-      "commentCount": "3940"
-    },
-    {
-      "rank": 1946,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/eKXz9H6-Hao/default.jpg",
-        "url": "https://www.youtube.com/watch?v=eKXz9H6-Hao",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "RADWIMPS - 泣き出しそうだよ feat.あいみょん [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=eKXz9H6-Hao",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "RADWIMPS",
-        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-12-12",
-      "viewCount": "1435万",
-      "likeCount": "13.2万",
-      "commentCount": "3939"
+      "commentCount": "3941"
     },
     {
       "rank": 1946,
@@ -1033,6 +1011,28 @@
       "viewCount": "1941万",
       "likeCount": "7万",
       "commentCount": "3939"
+    },
+    {
+      "rank": 1947,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/eKXz9H6-Hao/default.jpg",
+        "url": "https://www.youtube.com/watch?v=eKXz9H6-Hao",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "RADWIMPS - 泣き出しそうだよ feat.あいみょん [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=eKXz9H6-Hao",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "RADWIMPS",
+        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-12-12",
+      "viewCount": "1435万",
+      "likeCount": "13.2万",
+      "commentCount": "3938"
     },
     {
       "rank": 1948,

@@ -3,6 +3,29 @@
     {
       "rank": 2501,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/atJbRXERvH8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=atJbRXERvH8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – ア・プリオリ【LIVE from “Harmony”】",
+        "url": "https://www.youtube.com/watch?v=atJbRXERvH8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-02-17",
+      "viewCount": "1376万",
+      "likeCount": "14.9万",
+      "commentCount": "5740",
+      "increment_d1": "2.98万"
+    },
+    {
+      "rank": 2502,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/wVMPqFb5Iy8/default.jpg",
         "url": "https://www.youtube.com/watch?v=wVMPqFb5Iy8",
         "target": "_blank"
@@ -21,10 +44,10 @@
       "viewCount": "1375万",
       "likeCount": "11.1万",
       "commentCount": "4476",
-      "increment_d1": "598"
+      "increment_d1": "578"
     },
     {
-      "rank": 2502,
+      "rank": 2503,
       "thumb": {
         "img": "https://i.ytimg.com/vi/VZKMaFR2mtU/default.jpg",
         "url": "https://www.youtube.com/watch?v=VZKMaFR2mtU",
@@ -43,11 +66,11 @@
       "publishedAt": "2012-09-11",
       "viewCount": "1374万",
       "likeCount": "5.7万",
-      "commentCount": "2237",
-      "increment_d1": "770"
+      "commentCount": "2238",
+      "increment_d1": "724"
     },
     {
-      "rank": 2503,
+      "rank": 2504,
       "thumb": {
         "img": "https://i.ytimg.com/vi/waGxJPY93bw/default.jpg",
         "url": "https://www.youtube.com/watch?v=waGxJPY93bw",
@@ -67,30 +90,7 @@
       "viewCount": "1374万",
       "likeCount": "3.3万",
       "commentCount": "2058",
-      "increment_d1": "444"
-    },
-    {
-      "rank": 2504,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/atJbRXERvH8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=atJbRXERvH8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – ア・プリオリ【LIVE from “Harmony”】",
-        "url": "https://www.youtube.com/watch?v=atJbRXERvH8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-02-17",
-      "viewCount": "1373万",
-      "likeCount": "14.9万",
-      "commentCount": "5735",
-      "increment_d1": "3.24万"
+      "increment_d1": "374"
     },
     {
       "rank": 2505,
@@ -110,10 +110,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-08-22",
-      "viewCount": "1372万",
+      "viewCount": "1373万",
       "likeCount": "16万",
       "commentCount": "8780",
-      "increment_d1": "1.21万"
+      "increment_d1": "1.22万"
     },
     {
       "rank": 2506,
@@ -136,7 +136,7 @@
       "viewCount": "1371万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "1266"
+      "increment_d1": "1053"
     },
     {
       "rank": 2507,
@@ -159,7 +159,7 @@
       "viewCount": "1371万",
       "likeCount": "10.5万",
       "commentCount": "1336",
-      "increment_d1": "7546"
+      "increment_d1": "7556"
     },
     {
       "rank": 2508,
@@ -182,7 +182,7 @@
       "viewCount": "1371万",
       "likeCount": "12万",
       "commentCount": "2066",
-      "increment_d1": "2586"
+      "increment_d1": "2887"
     },
     {
       "rank": 2509,
@@ -202,10 +202,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-30",
-      "viewCount": "1370万",
+      "viewCount": "1371万",
       "likeCount": "7.7万",
       "commentCount": "7992",
-      "increment_d1": "7728"
+      "increment_d1": "7562"
     },
     {
       "rank": 2510,
@@ -227,8 +227,8 @@
       "publishedAt": "2019-04-30",
       "viewCount": "1369万",
       "likeCount": "11.6万",
-      "commentCount": "9355",
-      "increment_d1": "738"
+      "commentCount": "9354",
+      "increment_d1": "633"
     },
     {
       "rank": 2511,
@@ -251,7 +251,7 @@
       "viewCount": "1368万",
       "likeCount": "50.9万",
       "commentCount": "2.4万",
-      "increment_d1": "173"
+      "increment_d1": "118"
     },
     {
       "rank": 2512,
@@ -274,7 +274,7 @@
       "viewCount": "1368万",
       "likeCount": "9.7万",
       "commentCount": "1.8万",
-      "increment_d1": "1803"
+      "increment_d1": "1777"
     },
     {
       "rank": 2513,
@@ -294,13 +294,36 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-31",
-      "viewCount": "1366万",
+      "viewCount": "1367万",
       "likeCount": "10.6万",
       "commentCount": "3551",
-      "increment_d1": "1486"
+      "increment_d1": "1387"
     },
     {
       "rank": 2514,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/rzXxaJ4fOcc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=rzXxaJ4fOcc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "『劇場版「鬼滅の刃」無限城編』特報第2弾",
+        "url": "https://www.youtube.com/watch?v=rzXxaJ4fOcc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "アニプレックス チャンネル",
+        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-12-08",
+      "viewCount": "1366万",
+      "likeCount": "13.3万",
+      "commentCount": "-",
+      "increment_d1": "1.05万"
+    },
+    {
+      "rank": 2515,
       "thumb": {
         "img": "https://i.ytimg.com/vi/4Sd3iIdM4Co/default.jpg",
         "url": "https://www.youtube.com/watch?v=4Sd3iIdM4Co",
@@ -320,30 +343,7 @@
       "viewCount": "1365万",
       "likeCount": "5.4万",
       "commentCount": "2070",
-      "increment_d1": "1561"
-    },
-    {
-      "rank": 2515,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/rzXxaJ4fOcc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=rzXxaJ4fOcc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "『劇場版「鬼滅の刃」無限城編』特報第2弾",
-        "url": "https://www.youtube.com/watch?v=rzXxaJ4fOcc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アニプレックス チャンネル",
-        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-12-08",
-      "viewCount": "1365万",
-      "likeCount": "13.3万",
-      "commentCount": "-",
-      "increment_d1": "9226"
+      "increment_d1": "1620"
     },
     {
       "rank": 2516,
@@ -365,8 +365,8 @@
       "publishedAt": "2023-05-31",
       "viewCount": "1365万",
       "likeCount": "-",
-      "commentCount": "789",
-      "increment_d1": "5368"
+      "commentCount": "790",
+      "increment_d1": "5836"
     },
     {
       "rank": 2517,
@@ -389,7 +389,7 @@
       "viewCount": "1364万",
       "likeCount": "5.3万",
       "commentCount": "2062",
-      "increment_d1": "1883"
+      "increment_d1": "1767"
     },
     {
       "rank": 2518,
@@ -412,7 +412,7 @@
       "viewCount": "1364万",
       "likeCount": "9.5万",
       "commentCount": "1505",
-      "increment_d1": "2526"
+      "increment_d1": "2655"
     },
     {
       "rank": 2519,
@@ -433,9 +433,9 @@
       },
       "publishedAt": "2014-06-25",
       "viewCount": "1364万",
-      "likeCount": "9.6万",
-      "commentCount": "5226",
-      "increment_d1": "2228"
+      "likeCount": "9.7万",
+      "commentCount": "5227",
+      "increment_d1": "1979"
     },
     {
       "rank": 2520,
@@ -458,10 +458,33 @@
       "viewCount": "1363万",
       "likeCount": "15.3万",
       "commentCount": "3958",
-      "increment_d1": "2965"
+      "increment_d1": "3098"
     },
     {
       "rank": 2521,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/at3CEJvdg2I/default.jpg",
+        "url": "https://www.youtube.com/watch?v=at3CEJvdg2I",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – lovin’【LIVE from “ゼンジン未到とヴェルトラウム〜銘銘編〜”】",
+        "url": "https://www.youtube.com/watch?v=at3CEJvdg2I",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-02-25",
+      "viewCount": "1363万",
+      "likeCount": "9.9万",
+      "commentCount": "3035",
+      "increment_d1": "2.37万"
+    },
+    {
+      "rank": 2522,
       "thumb": {
         "img": "https://i.ytimg.com/vi/hXUszaFhc2Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=hXUszaFhc2Q",
@@ -478,13 +501,13 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-26",
-      "viewCount": "1362万",
+      "viewCount": "1363万",
       "likeCount": "-",
       "commentCount": "1.6万",
-      "increment_d1": "1058"
+      "increment_d1": "1042"
     },
     {
-      "rank": 2522,
+      "rank": 2523,
       "thumb": {
         "img": "https://i.ytimg.com/vi/FeKAfqxinEE/default.jpg",
         "url": "https://www.youtube.com/watch?v=FeKAfqxinEE",
@@ -503,11 +526,11 @@
       "publishedAt": "2012-06-30",
       "viewCount": "1362万",
       "likeCount": "3.1万",
-      "commentCount": "2009",
-      "increment_d1": "361"
+      "commentCount": "2010",
+      "increment_d1": "504"
     },
     {
-      "rank": 2523,
+      "rank": 2524,
       "thumb": {
         "img": "https://i.ytimg.com/vi/kTkXe60AP8M/default.jpg",
         "url": "https://www.youtube.com/watch?v=kTkXe60AP8M",
@@ -527,10 +550,10 @@
       "viewCount": "1362万",
       "likeCount": "7.7万",
       "commentCount": "2278",
-      "increment_d1": "587"
+      "increment_d1": "637"
     },
     {
-      "rank": 2524,
+      "rank": 2525,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ShmbjdP4eoI/default.jpg",
         "url": "https://www.youtube.com/watch?v=ShmbjdP4eoI",
@@ -547,13 +570,13 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-17",
-      "viewCount": "1361万",
+      "viewCount": "1362万",
       "likeCount": "11.2万",
       "commentCount": "5.4万",
-      "increment_d1": "1288"
+      "increment_d1": "1463"
     },
     {
-      "rank": 2525,
+      "rank": 2526,
       "thumb": {
         "img": "https://i.ytimg.com/vi/NEb9MTNk3y4/default.jpg",
         "url": "https://www.youtube.com/watch?v=NEb9MTNk3y4",
@@ -572,31 +595,8 @@
       "publishedAt": "2013-12-10",
       "viewCount": "1361万",
       "likeCount": "6.9万",
-      "commentCount": "2837",
-      "increment_d1": "2531"
-    },
-    {
-      "rank": 2526,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/at3CEJvdg2I/default.jpg",
-        "url": "https://www.youtube.com/watch?v=at3CEJvdg2I",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – lovin’【LIVE from “ゼンジン未到とヴェルトラウム〜銘銘編〜”】",
-        "url": "https://www.youtube.com/watch?v=at3CEJvdg2I",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-02-25",
-      "viewCount": "1361万",
-      "likeCount": "9.9万",
-      "commentCount": "3032",
-      "increment_d1": "2.55万"
+      "commentCount": "2838",
+      "increment_d1": "2565"
     },
     {
       "rank": 2527,
@@ -619,7 +619,7 @@
       "viewCount": "1360万",
       "likeCount": "6万",
       "commentCount": "2967",
-      "increment_d1": "1693"
+      "increment_d1": "1724"
     },
     {
       "rank": 2528,
@@ -642,7 +642,7 @@
       "viewCount": "1359万",
       "likeCount": "5万",
       "commentCount": "2109",
-      "increment_d1": "969"
+      "increment_d1": "775"
     },
     {
       "rank": 2529,
@@ -665,7 +665,7 @@
       "viewCount": "1358万",
       "likeCount": "36.9万",
       "commentCount": "1.9万",
-      "increment_d1": "697"
+      "increment_d1": "665"
     },
     {
       "rank": 2530,
@@ -685,10 +685,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-04-14",
-      "viewCount": "1357万",
+      "viewCount": "1358万",
       "likeCount": "9.5万",
-      "commentCount": "3351",
-      "increment_d1": "2338"
+      "commentCount": "3350",
+      "increment_d1": "2444"
     },
     {
       "rank": 2531,
@@ -711,7 +711,7 @@
       "viewCount": "1357万",
       "likeCount": "9.4万",
       "commentCount": "1570",
-      "increment_d1": "1105"
+      "increment_d1": "1241"
     },
     {
       "rank": 2532,
@@ -731,10 +731,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-01-19",
-      "viewCount": "1356万",
+      "viewCount": "1357万",
       "likeCount": "11.5万",
-      "commentCount": "1115",
-      "increment_d1": "4134"
+      "commentCount": "1117",
+      "increment_d1": "3703"
     },
     {
       "rank": 2533,
@@ -756,8 +756,8 @@
       "publishedAt": "2020-08-07",
       "viewCount": "1356万",
       "likeCount": "6.5万",
-      "commentCount": "2324",
-      "increment_d1": "4821"
+      "commentCount": "2325",
+      "increment_d1": "4468"
     },
     {
       "rank": 2534,
@@ -777,10 +777,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-16",
-      "viewCount": "1355万",
+      "viewCount": "1356万",
       "likeCount": "3.7万",
       "commentCount": "1351",
-      "increment_d1": "3013"
+      "increment_d1": "2933"
     },
     {
       "rank": 2535,
@@ -802,8 +802,8 @@
       "publishedAt": "2021-11-12",
       "viewCount": "1355万",
       "likeCount": "-",
-      "commentCount": "6767",
-      "increment_d1": "345"
+      "commentCount": "6765",
+      "increment_d1": "339"
     },
     {
       "rank": 2536,
@@ -826,33 +826,10 @@
       "viewCount": "1353万",
       "likeCount": "-",
       "commentCount": "7721",
-      "increment_d1": "686"
+      "increment_d1": "545"
     },
     {
       "rank": 2537,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/U9PVGYf_haE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=U9PVGYf_haE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "My Kind of Woman - Mac Demarco - POPPY",
-        "url": "https://www.youtube.com/watch?v=U9PVGYf_haE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Poppy",
-        "url": "https://www.youtube.com/channel/UC8JE00xTMBOqKs7o0grFTfQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-03-06",
-      "viewCount": "1352万",
-      "likeCount": "37.1万",
-      "commentCount": "1.4万",
-      "increment_d1": "3950"
-    },
-    {
-      "rank": 2538,
       "thumb": {
         "img": "https://i.ytimg.com/vi/5cvXmuuC1GI/default.jpg",
         "url": "https://www.youtube.com/watch?v=5cvXmuuC1GI",
@@ -869,10 +846,33 @@
         "target": "_blank"
       },
       "publishedAt": "2019-06-18",
-      "viewCount": "1352万",
+      "viewCount": "1353万",
       "likeCount": "11.4万",
-      "commentCount": "2247",
-      "increment_d1": "6410"
+      "commentCount": "2249",
+      "increment_d1": "6452"
+    },
+    {
+      "rank": 2538,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/U9PVGYf_haE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=U9PVGYf_haE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "My Kind of Woman - Mac Demarco - POPPY",
+        "url": "https://www.youtube.com/watch?v=U9PVGYf_haE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Poppy",
+        "url": "https://www.youtube.com/channel/UC8JE00xTMBOqKs7o0grFTfQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-03-06",
+      "viewCount": "1353万",
+      "likeCount": "37.1万",
+      "commentCount": "1.4万",
+      "increment_d1": "3545"
     },
     {
       "rank": 2539,
@@ -895,7 +895,7 @@
       "viewCount": "1350万",
       "likeCount": "13.1万",
       "commentCount": "2504",
-      "increment_d1": "700"
+      "increment_d1": "728"
     },
     {
       "rank": 2540,
@@ -918,7 +918,7 @@
       "viewCount": "1350万",
       "likeCount": "11.9万",
       "commentCount": "1656",
-      "increment_d1": "822"
+      "increment_d1": "719"
     },
     {
       "rank": 2541,
@@ -938,10 +938,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-17",
-      "viewCount": "1349万",
+      "viewCount": "1350万",
       "likeCount": "17.3万",
-      "commentCount": "3952",
-      "increment_d1": "5080"
+      "commentCount": "3953",
+      "increment_d1": "5172"
     },
     {
       "rank": 2542,
@@ -964,7 +964,7 @@
       "viewCount": "1349万",
       "likeCount": "6.2万",
       "commentCount": "1719",
-      "increment_d1": "1198"
+      "increment_d1": "1155"
     },
     {
       "rank": 2543,
@@ -987,7 +987,7 @@
       "viewCount": "1349万",
       "likeCount": "7.3万",
       "commentCount": "3176",
-      "increment_d1": "516"
+      "increment_d1": "562"
     },
     {
       "rank": 2544,
@@ -1010,7 +1010,7 @@
       "viewCount": "1348万",
       "likeCount": "11万",
       "commentCount": "5451",
-      "increment_d1": "2808"
+      "increment_d1": "2683"
     },
     {
       "rank": 2545,
@@ -1032,8 +1032,8 @@
       "publishedAt": "2010-04-16",
       "viewCount": "1348万",
       "likeCount": "3.4万",
-      "commentCount": "1607",
-      "increment_d1": "2650"
+      "commentCount": "1608",
+      "increment_d1": "2381"
     },
     {
       "rank": 2546,
@@ -1055,8 +1055,8 @@
       "publishedAt": "2014-04-01",
       "viewCount": "1346万",
       "likeCount": "4.7万",
-      "commentCount": "2563",
-      "increment_d1": "2765"
+      "commentCount": "2564",
+      "increment_d1": "3052"
     },
     {
       "rank": 2547,
@@ -1079,7 +1079,7 @@
       "viewCount": "1345万",
       "likeCount": "41.7万",
       "commentCount": "2.9万",
-      "increment_d1": "470"
+      "increment_d1": "460"
     },
     {
       "rank": 2548,
@@ -1099,10 +1099,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-06-18",
-      "viewCount": "1344万",
+      "viewCount": "1345万",
       "likeCount": "11.7万",
       "commentCount": "5181",
-      "increment_d1": "3493"
+      "increment_d1": "3287"
     },
     {
       "rank": 2549,
@@ -1124,8 +1124,8 @@
       "publishedAt": "2015-01-23",
       "viewCount": "1344万",
       "likeCount": "8.4万",
-      "commentCount": "2763",
-      "increment_d1": "3643"
+      "commentCount": "2764",
+      "increment_d1": "3375"
     },
     {
       "rank": 2550,
@@ -1145,10 +1145,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-12-03",
-      "viewCount": "1343万",
+      "viewCount": "1344万",
       "likeCount": "7.4万",
       "commentCount": "2604",
-      "increment_d1": "3509"
+      "increment_d1": "3654"
     }
   ]
 }
