@@ -1,7 +1,7 @@
 {
   "rows": [
     {
-      "rank": 1450,
+      "rank": 1451,
       "thumb": {
         "img": "https://i.ytimg.com/vi/q6Ylz-EhtDo/default.jpg",
         "url": "https://www.youtube.com/watch?v=q6Ylz-EhtDo",
@@ -20,7 +20,7 @@
       "publishedAt": "2015-12-31",
       "viewCount": "1979万",
       "likeCount": "13.1万",
-      "commentCount": "6387"
+      "commentCount": "6386"
     },
     {
       "rank": 1452,
@@ -41,7 +41,7 @@
       },
       "publishedAt": "2019-10-18",
       "viewCount": "2423万",
-      "likeCount": "21.3万",
+      "likeCount": "21.4万",
       "commentCount": "6378"
     },
     {
@@ -62,7 +62,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-18",
-      "viewCount": "5338万",
+      "viewCount": "5340万",
       "likeCount": "45.3万",
       "commentCount": "6377"
     },
@@ -106,9 +106,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-02-24",
-      "viewCount": "2175万",
+      "viewCount": "2176万",
       "likeCount": "31.1万",
-      "commentCount": "6351"
+      "commentCount": "6352"
     },
     {
       "rank": 1456,
@@ -157,6 +157,28 @@
     {
       "rank": 1458,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/392676Cbv28/default.jpg",
+        "url": "https://www.youtube.com/watch?v=392676Cbv28",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Official】Uru 「プロローグ」Premium Studio Live",
+        "url": "https://www.youtube.com/watch?v=392676Cbv28",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Uru Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-02-29",
+      "viewCount": "6158万",
+      "likeCount": "26.2万",
+      "commentCount": "6335"
+    },
+    {
+      "rank": 1459,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/m7ddbml_vkY/default.jpg",
         "url": "https://www.youtube.com/watch?v=m7ddbml_vkY",
         "target": "_blank"
@@ -174,28 +196,6 @@
       "publishedAt": "2018-03-07",
       "viewCount": "1618万",
       "likeCount": "17.2万",
-      "commentCount": "6333"
-    },
-    {
-      "rank": 1458,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/392676Cbv28/default.jpg",
-        "url": "https://www.youtube.com/watch?v=392676Cbv28",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Official】Uru 「プロローグ」Premium Studio Live",
-        "url": "https://www.youtube.com/watch?v=392676Cbv28",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Uru Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-02-29",
-      "viewCount": "6157万",
-      "likeCount": "26.2万",
       "commentCount": "6333"
     },
     {
@@ -260,9 +260,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-27",
-      "viewCount": "4563万",
+      "viewCount": "4564万",
       "likeCount": "17.1万",
-      "commentCount": "6314"
+      "commentCount": "6316"
     },
     {
       "rank": 1463,
@@ -304,7 +304,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-09",
-      "viewCount": "5269万",
+      "viewCount": "5270万",
       "likeCount": "32.5万",
       "commentCount": "6311"
     },
@@ -328,7 +328,7 @@
       "publishedAt": "2014-09-01",
       "viewCount": "2651万",
       "likeCount": "20.9万",
-      "commentCount": "6303"
+      "commentCount": "6304"
     },
     {
       "rank": 1466,
@@ -414,9 +414,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-04-23",
-      "viewCount": "3817万",
+      "viewCount": "3818万",
       "likeCount": "10.9万",
-      "commentCount": "6264"
+      "commentCount": "6263"
     },
     {
       "rank": 1470,
@@ -436,7 +436,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-07-14",
-      "viewCount": "4204万",
+      "viewCount": "4206万",
       "likeCount": "36.6万",
       "commentCount": "6256"
     },
@@ -460,7 +460,7 @@
       "publishedAt": "2012-04-06",
       "viewCount": "1792万",
       "likeCount": "11.7万",
-      "commentCount": "6249"
+      "commentCount": "6248"
     },
     {
       "rank": 1472,
@@ -480,9 +480,9 @@
         "target": "_blank"
       },
       "publishedAt": "2009-06-27",
-      "viewCount": "2966万",
+      "viewCount": "2967万",
       "likeCount": "12.8万",
-      "commentCount": "6241"
+      "commentCount": "6242"
     },
     {
       "rank": 1473,
@@ -502,7 +502,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-10-24",
-      "viewCount": "1806万",
+      "viewCount": "1807万",
       "likeCount": "17.6万",
       "commentCount": "6234"
     },
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-12-14",
-      "viewCount": "5638万",
+      "viewCount": "5640万",
       "likeCount": "36.1万",
       "commentCount": "6228"
     },
@@ -568,7 +568,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-01",
-      "viewCount": "2069万",
+      "viewCount": "2070万",
       "likeCount": "23.5万",
       "commentCount": "6225"
     },
@@ -590,7 +590,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-08",
-      "viewCount": "2627万",
+      "viewCount": "2628万",
       "likeCount": "7.8万",
       "commentCount": "6216"
     },
@@ -612,9 +612,31 @@
         "target": "_blank"
       },
       "publishedAt": "2012-08-29",
-      "viewCount": "4172万",
+      "viewCount": "4173万",
       "likeCount": "9万",
       "commentCount": "6213"
+    },
+    {
+      "rank": 1479,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/DiRXDpDL7es/default.jpg",
+        "url": "https://www.youtube.com/watch?v=DiRXDpDL7es",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MUSIC VIDEO】君に捧げる応援歌 / HIPPY",
+        "url": "https://www.youtube.com/watch?v=DiRXDpDL7es",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "[HIPPY] YouTubeチャンネル[ひぴ動]",
+        "url": "https://www.youtube.com/channel/UC3i3znps2Q62tM9tKKHh8Sg",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-07-15",
+      "viewCount": "4064万",
+      "likeCount": "16.9万",
+      "commentCount": "6206"
     },
     {
       "rank": 1479,
@@ -636,29 +658,7 @@
       "publishedAt": "2020-08-12",
       "viewCount": "1341万",
       "likeCount": "12.3万",
-      "commentCount": "6205"
-    },
-    {
-      "rank": 1480,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/DiRXDpDL7es/default.jpg",
-        "url": "https://www.youtube.com/watch?v=DiRXDpDL7es",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MUSIC VIDEO】君に捧げる応援歌 / HIPPY",
-        "url": "https://www.youtube.com/watch?v=DiRXDpDL7es",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "[HIPPY] YouTubeチャンネル[ひぴ動]",
-        "url": "https://www.youtube.com/channel/UC3i3znps2Q62tM9tKKHh8Sg",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-07-15",
-      "viewCount": "4062万",
-      "likeCount": "16.9万",
-      "commentCount": "6204"
+      "commentCount": "6206"
     },
     {
       "rank": 1481,
@@ -680,7 +680,7 @@
       "publishedAt": "2022-08-06",
       "viewCount": "1851万",
       "likeCount": "13.1万",
-      "commentCount": "6195"
+      "commentCount": "6194"
     },
     {
       "rank": 1482,
@@ -700,9 +700,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-09",
-      "viewCount": "1773万",
+      "viewCount": "1774万",
       "likeCount": "35.8万",
-      "commentCount": "6192"
+      "commentCount": "6193"
     },
     {
       "rank": 1483,
@@ -746,7 +746,7 @@
       "publishedAt": "2019-12-19",
       "viewCount": "2230万",
       "likeCount": "37.9万",
-      "commentCount": "6189"
+      "commentCount": "6188"
     },
     {
       "rank": 1485,
@@ -788,7 +788,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-23",
-      "viewCount": "3951万",
+      "viewCount": "3952万",
       "likeCount": "40.1万",
       "commentCount": "6169"
     },
@@ -810,7 +810,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-27",
-      "viewCount": "1746万",
+      "viewCount": "1747万",
       "likeCount": "44.9万",
       "commentCount": "6168"
     },
@@ -876,9 +876,9 @@
         "target": "_blank"
       },
       "publishedAt": "2014-04-01",
-      "viewCount": "3193万",
+      "viewCount": "3195万",
       "likeCount": "10.6万",
-      "commentCount": "6133"
+      "commentCount": "6134"
     },
     {
       "rank": 1491,
@@ -903,7 +903,7 @@
       "commentCount": "6132"
     },
     {
-      "rank": 1492,
+      "rank": 1491,
       "thumb": {
         "img": "https://i.ytimg.com/vi/1I0tvel0kng/default.jpg",
         "url": "https://www.youtube.com/watch?v=1I0tvel0kng",
@@ -920,9 +920,9 @@
         "target": "_blank"
       },
       "publishedAt": "2017-11-28",
-      "viewCount": "4929万",
+      "viewCount": "4930万",
       "likeCount": "32.7万",
-      "commentCount": "6131"
+      "commentCount": "6132"
     },
     {
       "rank": 1493,
@@ -966,10 +966,10 @@
       "publishedAt": "2019-06-12",
       "viewCount": "1626万",
       "likeCount": "28.8万",
-      "commentCount": "6068"
+      "commentCount": "6069"
     },
     {
-      "rank": 1494,
+      "rank": 1495,
       "thumb": {
         "img": "https://i.ytimg.com/vi/uQx7Lmb-dcg/default.jpg",
         "url": "https://www.youtube.com/watch?v=uQx7Lmb-dcg",
@@ -1008,34 +1008,12 @@
         "target": "_blank"
       },
       "publishedAt": "2025-04-08",
-      "viewCount": "1772万",
+      "viewCount": "1774万",
       "likeCount": "21.8万",
-      "commentCount": "6065"
+      "commentCount": "6062"
     },
     {
       "rank": 1497,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/WObVzphoLTY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=WObVzphoLTY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Saucy Dog「結」Music Video ＜4th Mini Album「テイクミー」2020.9.2 Release＞",
-        "url": "https://www.youtube.com/watch?v=WObVzphoLTY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Saucy Dog",
-        "url": "https://www.youtube.com/channel/UCs8nP5mUR3pwJmgixsul8Hw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-03-12",
-      "viewCount": "4152万",
-      "likeCount": "23.3万",
-      "commentCount": "6061"
-    },
-    {
-      "rank": 1498,
       "thumb": {
         "img": "https://i.ytimg.com/vi/JUbU6VLV6yI/default.jpg",
         "url": "https://www.youtube.com/watch?v=JUbU6VLV6yI",
@@ -1052,12 +1030,56 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-08",
-      "viewCount": "1938万",
+      "viewCount": "1939万",
       "likeCount": "10.2万",
+      "commentCount": "6061"
+    },
+    {
+      "rank": 1498,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/WObVzphoLTY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=WObVzphoLTY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Saucy Dog「結」Music Video ＜4th Mini Album「テイクミー」2020.9.2 Release＞",
+        "url": "https://www.youtube.com/watch?v=WObVzphoLTY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Saucy Dog",
+        "url": "https://www.youtube.com/channel/UCs8nP5mUR3pwJmgixsul8Hw",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-03-12",
+      "viewCount": "4153万",
+      "likeCount": "23.3万",
       "commentCount": "6058"
     },
     {
       "rank": 1499,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/wqmyuOlXSn0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=wqmyuOlXSn0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【和訳】Wiz Khalifa - See You Again (feat. Charlie Puth)（映画『ワイルド・スピード SKY MISSION』より）【公式】",
+        "url": "https://www.youtube.com/watch?v=wqmyuOlXSn0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Warner Music Japan",
+        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-05-01",
+      "viewCount": "2412万",
+      "likeCount": "15.4万",
+      "commentCount": "6050"
+    },
+    {
+      "rank": 1500,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vhfYis6VuXY/default.jpg",
         "url": "https://www.youtube.com/watch?v=vhfYis6VuXY",
@@ -1077,28 +1099,6 @@
       "viewCount": "2533万",
       "likeCount": "13.6万",
       "commentCount": "6049"
-    },
-    {
-      "rank": 1500,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/kZKmmCIqN2Y/default.jpg",
-        "url": "https://www.youtube.com/watch?v=kZKmmCIqN2Y",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ルーカス・グラハム 『セブン・イヤーズ －僕はまだ7歳だった－』 / Lukas Graham - 7 Years",
-        "url": "https://www.youtube.com/watch?v=kZKmmCIqN2Y",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Warner Music Japan",
-        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-05-09",
-      "viewCount": "1047万",
-      "likeCount": "22.3万",
-      "commentCount": "6047"
     }
   ]
 }
