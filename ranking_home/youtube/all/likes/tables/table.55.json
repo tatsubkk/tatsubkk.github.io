@@ -20,7 +20,7 @@
       "publishedAt": "2010-05-11",
       "viewCount": "1378万",
       "likeCount": "3.71万",
-      "commentCount": "1508"
+      "commentCount": "1509"
     },
     {
       "rank": 2702,
@@ -42,7 +42,7 @@
       "publishedAt": "2013-03-24",
       "viewCount": "1283万",
       "likeCount": "3.71万",
-      "commentCount": "1770"
+      "commentCount": "1771"
     },
     {
       "rank": 2703,
@@ -64,7 +64,7 @@
       "publishedAt": "2014-09-26",
       "viewCount": "1396万",
       "likeCount": "3.68万",
-      "commentCount": "1297"
+      "commentCount": "1299"
     },
     {
       "rank": 2704,
@@ -107,7 +107,7 @@
       },
       "publishedAt": "2020-07-16",
       "viewCount": "1356万",
-      "likeCount": "3.66万",
+      "likeCount": "3.67万",
       "commentCount": "1351"
     },
     {
@@ -128,8 +128,8 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-23",
-      "viewCount": "1281万",
-      "likeCount": "3.65万",
+      "viewCount": "1282万",
+      "likeCount": "3.66万",
       "commentCount": "-"
     },
     {
@@ -196,7 +196,7 @@
       "publishedAt": "2013-05-28",
       "viewCount": "1093万",
       "likeCount": "3.63万",
-      "commentCount": "1735"
+      "commentCount": "1738"
     },
     {
       "rank": 2710,
@@ -370,7 +370,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-09-28",
-      "viewCount": "1873万",
+      "viewCount": "1874万",
       "likeCount": "3.54万",
       "commentCount": "3464"
     },
@@ -438,7 +438,7 @@
       "publishedAt": "2015-02-26",
       "viewCount": "1334万",
       "likeCount": "3.5万",
-      "commentCount": "1159"
+      "commentCount": "1160"
     },
     {
       "rank": 2721,
@@ -460,7 +460,7 @@
       "publishedAt": "2012-11-07",
       "viewCount": "1161万",
       "likeCount": "3.47万",
-      "commentCount": "928"
+      "commentCount": "927"
     },
     {
       "rank": 2722,
@@ -482,7 +482,7 @@
       "publishedAt": "2010-04-16",
       "viewCount": "1348万",
       "likeCount": "3.44万",
-      "commentCount": "1607"
+      "commentCount": "1608"
     },
     {
       "rank": 2723,
@@ -503,8 +503,8 @@
       },
       "publishedAt": "2014-10-06",
       "viewCount": "1050万",
-      "likeCount": "3.43万",
-      "commentCount": "2237"
+      "likeCount": "3.44万",
+      "commentCount": "2240"
     },
     {
       "rank": 2724,
@@ -590,9 +590,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-05",
-      "viewCount": "1267万",
+      "viewCount": "1268万",
       "likeCount": "3.39万",
-      "commentCount": "968"
+      "commentCount": "967"
     },
     {
       "rank": 2728,
@@ -612,9 +612,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-11-08",
-      "viewCount": "1246万",
+      "viewCount": "1247万",
       "likeCount": "3.36万",
-      "commentCount": "1692"
+      "commentCount": "1694"
     },
     {
       "rank": 2729,
@@ -678,7 +678,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
-      "viewCount": "1164万",
+      "viewCount": "1165万",
       "likeCount": "3.35万",
       "commentCount": "120"
     },
@@ -702,7 +702,7 @@
       "publishedAt": "2018-08-10",
       "viewCount": "1238万",
       "likeCount": "3.34万",
-      "commentCount": "1708"
+      "commentCount": "1710"
     },
     {
       "rank": 2733,
@@ -790,7 +790,7 @@
       "publishedAt": "2010-04-24",
       "viewCount": "1084万",
       "likeCount": "3.31万",
-      "commentCount": "1966"
+      "commentCount": "1967"
     },
     {
       "rank": 2737,
@@ -810,7 +810,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-28",
-      "viewCount": "1233万",
+      "viewCount": "1234万",
       "likeCount": "3.3万",
       "commentCount": "1647"
     },
@@ -839,6 +839,28 @@
     {
       "rank": 2739,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/g87zI1OJdt8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=g87zI1OJdt8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Do As Infinity / 柊（Hiiragi）",
+        "url": "https://www.youtube.com/watch?v=g87zI1OJdt8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2008-12-27",
+      "viewCount": "1166万",
+      "likeCount": "3.29万",
+      "commentCount": "1364"
+    },
+    {
+      "rank": 2740,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/sOin4bwUQ5c/default.jpg",
         "url": "https://www.youtube.com/watch?v=sOin4bwUQ5c",
         "target": "_blank"
@@ -857,28 +879,6 @@
       "viewCount": "1152万",
       "likeCount": "3.29万",
       "commentCount": "1455"
-    },
-    {
-      "rank": 2740,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/g87zI1OJdt8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=g87zI1OJdt8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Do As Infinity / 柊（Hiiragi）",
-        "url": "https://www.youtube.com/watch?v=g87zI1OJdt8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2008-12-27",
-      "viewCount": "1166万",
-      "likeCount": "3.29万",
-      "commentCount": "1365"
     },
     {
       "rank": 2741,
@@ -942,9 +942,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-24",
-      "viewCount": "1793万",
+      "viewCount": "1794万",
       "likeCount": "3.28万",
-      "commentCount": "1981"
+      "commentCount": "1982"
     },
     {
       "rank": 2744,
@@ -987,7 +987,7 @@
       },
       "publishedAt": "2011-07-09",
       "viewCount": "1126万",
-      "likeCount": "3.27万",
+      "likeCount": "3.28万",
       "commentCount": "710"
     },
     {

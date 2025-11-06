@@ -1,7 +1,7 @@
 {
   "rows": [
     {
-      "rank": 1801,
+      "rank": 1800,
       "thumb": {
         "img": "https://i.ytimg.com/vi/NyddMMiViZc/default.jpg",
         "url": "https://www.youtube.com/watch?v=NyddMMiViZc",
@@ -18,9 +18,31 @@
         "target": "_blank"
       },
       "publishedAt": "2016-11-21",
-      "viewCount": "3152万",
+      "viewCount": "3153万",
       "likeCount": "23.9万",
-      "commentCount": "4523"
+      "commentCount": "4524"
+    },
+    {
+      "rank": 1802,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/CePgforHlTs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=CePgforHlTs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "冬のプレゼント / もさを。【Music Video】",
+        "url": "https://www.youtube.com/watch?v=CePgforHlTs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "もさを。",
+        "url": "https://www.youtube.com/channel/UCT7u_4qwBmIjr5mhhgdpB9A",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-11-29",
+      "viewCount": "1224万",
+      "likeCount": "12.4万",
+      "commentCount": "4522"
     },
     {
       "rank": 1802,
@@ -45,7 +67,7 @@
       "commentCount": "4522"
     },
     {
-      "rank": 1803,
+      "rank": 1804,
       "thumb": {
         "img": "https://i.ytimg.com/vi/K1Tz2yNmamI/default.jpg",
         "url": "https://www.youtube.com/watch?v=K1Tz2yNmamI",
@@ -62,56 +84,12 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-21",
-      "viewCount": "3141万",
+      "viewCount": "3142万",
       "likeCount": "25.1万",
       "commentCount": "4519"
     },
     {
-      "rank": 1804,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/r105CzDvoo0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=r105CzDvoo0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "milet「Anytime Anywhere」MUSIC VIDEO (TVアニメ『葬送のフリーレン』エンディングテーマ)",
-        "url": "https://www.youtube.com/watch?v=r105CzDvoo0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "milet Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCpgxgkifUGSKg9dNFE5Vo7Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-10-06",
-      "viewCount": "3001万",
-      "likeCount": "21.8万",
-      "commentCount": "4514"
-    },
-    {
       "rank": 1805,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/OFquPzLWJ5Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=OFquPzLWJ5Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "KANA-BOON 『バトンロード』Music Video",
-        "url": "https://www.youtube.com/watch?v=OFquPzLWJ5Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-07-01",
-      "viewCount": "1586万",
-      "likeCount": "15.1万",
-      "commentCount": "4511"
-    },
-    {
-      "rank": 1806,
       "thumb": {
         "img": "https://i.ytimg.com/vi/xl1Ms2VnaYM/default.jpg",
         "url": "https://www.youtube.com/watch?v=xl1Ms2VnaYM",
@@ -133,7 +111,7 @@
       "commentCount": "4510"
     },
     {
-      "rank": 1807,
+      "rank": 1806,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Xnws-1Oz4kM/default.jpg",
         "url": "https://www.youtube.com/watch?v=Xnws-1Oz4kM",
@@ -155,7 +133,7 @@
       "commentCount": "4508"
     },
     {
-      "rank": 1808,
+      "rank": 1807,
       "thumb": {
         "img": "https://i.ytimg.com/vi/r2OS97F6P_U/default.jpg",
         "url": "https://www.youtube.com/watch?v=r2OS97F6P_U",
@@ -175,6 +153,28 @@
       "viewCount": "1210万",
       "likeCount": "16.6万",
       "commentCount": "4505"
+    },
+    {
+      "rank": 1808,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/OFquPzLWJ5Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=OFquPzLWJ5Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "KANA-BOON 『バトンロード』Music Video",
+        "url": "https://www.youtube.com/watch?v=OFquPzLWJ5Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-07-01",
+      "viewCount": "1586万",
+      "likeCount": "15.1万",
+      "commentCount": "4504"
     },
     {
       "rank": 1809,
@@ -282,9 +282,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-19",
-      "viewCount": "1456万",
+      "viewCount": "1457万",
       "likeCount": "9.1万",
-      "commentCount": "4487"
+      "commentCount": "4488"
     },
     {
       "rank": 1814,
@@ -333,6 +333,28 @@
     {
       "rank": 1816,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/ygyOtMnNvCg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ygyOtMnNvCg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "B’z Live from AVACO STUDIO “ultra soul”",
+        "url": "https://www.youtube.com/watch?v=ygyOtMnNvCg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Bz",
+        "url": "https://www.youtube.com/channel/UCpEEcJhBig2GqUFxcXjqiLg",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-07-21",
+      "viewCount": "1782万",
+      "likeCount": "10.3万",
+      "commentCount": "4472"
+    },
+    {
+      "rank": 1817,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/Jjzbr_73ifc/default.jpg",
         "url": "https://www.youtube.com/watch?v=Jjzbr_73ifc",
         "target": "_blank"
@@ -353,28 +375,6 @@
       "commentCount": "4471"
     },
     {
-      "rank": 1816,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ygyOtMnNvCg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ygyOtMnNvCg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "B’z Live from AVACO STUDIO “ultra soul”",
-        "url": "https://www.youtube.com/watch?v=ygyOtMnNvCg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Bz",
-        "url": "https://www.youtube.com/channel/UCpEEcJhBig2GqUFxcXjqiLg",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-07-21",
-      "viewCount": "1781万",
-      "likeCount": "10.3万",
-      "commentCount": "4471"
-    },
-    {
       "rank": 1818,
       "thumb": {
         "img": "https://i.ytimg.com/vi/CS90aE8_dUQ/default.jpg",
@@ -392,7 +392,7 @@
         "target": "_blank"
       },
       "publishedAt": "2011-10-31",
-      "viewCount": "3503万",
+      "viewCount": "3504万",
       "likeCount": "12.9万",
       "commentCount": "4470"
     },
@@ -443,6 +443,28 @@
     {
       "rank": 1821,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/vwKo-Uj2fT4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=vwKo-Uj2fT4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "back number -「大不正解」Music Video (映画『銀魂2 掟は破るためにこそある』主題歌)",
+        "url": "https://www.youtube.com/watch?v=vwKo-Uj2fT4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "UNIVERSAL MUSIC JAPAN",
+        "url": "https://www.youtube.com/channel/UCl2aT0nRejTCQO_LHZAftBw",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-08-06",
+      "viewCount": "1701万",
+      "likeCount": "11.9万",
+      "commentCount": "4448"
+    },
+    {
+      "rank": 1821,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/6GOLuJjV2kU/default.jpg",
         "url": "https://www.youtube.com/watch?v=6GOLuJjV2kU",
         "target": "_blank"
@@ -485,28 +507,6 @@
       "commentCount": "4448"
     },
     {
-      "rank": 1821,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/vwKo-Uj2fT4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=vwKo-Uj2fT4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "back number -「大不正解」Music Video (映画『銀魂2 掟は破るためにこそある』主題歌)",
-        "url": "https://www.youtube.com/watch?v=vwKo-Uj2fT4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "UNIVERSAL MUSIC JAPAN",
-        "url": "https://www.youtube.com/channel/UCl2aT0nRejTCQO_LHZAftBw",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-08-06",
-      "viewCount": "1701万",
-      "likeCount": "11.9万",
-      "commentCount": "4448"
-    },
-    {
       "rank": 1824,
       "thumb": {
         "img": "https://i.ytimg.com/vi/9M6AtfXf6rI/default.jpg",
@@ -526,7 +526,7 @@
       "publishedAt": "2013-01-25",
       "viewCount": "1553万",
       "likeCount": "6.4万",
-      "commentCount": "4442"
+      "commentCount": "4443"
     },
     {
       "rank": 1825,
@@ -590,12 +590,12 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-29",
-      "viewCount": "2004万",
+      "viewCount": "2005万",
       "likeCount": "17万",
       "commentCount": "4417"
     },
     {
-      "rank": 1827,
+      "rank": 1828,
       "thumb": {
         "img": "https://i.ytimg.com/vi/plXjYiRcBtA/default.jpg",
         "url": "https://www.youtube.com/watch?v=plXjYiRcBtA",
@@ -614,10 +614,10 @@
       "publishedAt": "2016-12-27",
       "viewCount": "3168万",
       "likeCount": "12.8万",
-      "commentCount": "4417"
+      "commentCount": "4416"
     },
     {
-      "rank": 1829,
+      "rank": 1828,
       "thumb": {
         "img": "https://i.ytimg.com/vi/WIdWXhV33vs/default.jpg",
         "url": "https://www.youtube.com/watch?v=WIdWXhV33vs",
@@ -658,7 +658,7 @@
       "publishedAt": "2021-02-08",
       "viewCount": "1732万",
       "likeCount": "-",
-      "commentCount": "4411"
+      "commentCount": "4412"
     },
     {
       "rank": 1831,
@@ -707,6 +707,28 @@
     {
       "rank": 1833,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/4KHHWYIlHpE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=4KHHWYIlHpE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【神回】たまたま通りかかった路上ライブに本人登場してみたら衝撃の結果に！？",
+        "url": "https://www.youtube.com/watch?v=4KHHWYIlHpE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Yudai Takenaka 竹中雄大",
+        "url": "https://www.youtube.com/channel/UCBmY_77ZQUUGH34TXT36HNw",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-10-15",
+      "viewCount": "1460万",
+      "likeCount": "17.2万",
+      "commentCount": "4398"
+    },
+    {
+      "rank": 1833,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/0XqBE0pjCJM/default.jpg",
         "url": "https://www.youtube.com/watch?v=0XqBE0pjCJM",
         "target": "_blank"
@@ -724,28 +746,6 @@
       "publishedAt": "2011-01-25",
       "viewCount": "1049万",
       "likeCount": "7.4万",
-      "commentCount": "4398"
-    },
-    {
-      "rank": 1833,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/4KHHWYIlHpE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=4KHHWYIlHpE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【神回】たまたま通りかかった路上ライブに本人登場してみたら衝撃の結果に！？",
-        "url": "https://www.youtube.com/watch?v=4KHHWYIlHpE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Yudai Takenaka 竹中雄大",
-        "url": "https://www.youtube.com/channel/UCBmY_77ZQUUGH34TXT36HNw",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-10-15",
-      "viewCount": "1459万",
-      "likeCount": "17.2万",
       "commentCount": "4398"
     },
     {
@@ -790,7 +790,29 @@
       "publishedAt": "2012-01-18",
       "viewCount": "3339万",
       "likeCount": "12.7万",
-      "commentCount": "4390"
+      "commentCount": "4393"
+    },
+    {
+      "rank": 1837,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/JqmlNApoAcA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=JqmlNApoAcA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "清水翔太『Curtain Call feat.Taka』MV",
+        "url": "https://www.youtube.com/watch?v=JqmlNApoAcA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "清水翔太 / Shota Shimizu",
+        "url": "https://www.youtube.com/channel/UCv3cmuTwVzTXROJdaT7xw6w",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-07-14",
+      "viewCount": "4604万",
+      "likeCount": "-",
+      "commentCount": "4389"
     },
     {
       "rank": 1837,
@@ -813,28 +835,6 @@
       "viewCount": "1403万",
       "likeCount": "10.9万",
       "commentCount": "4389"
-    },
-    {
-      "rank": 1838,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/JqmlNApoAcA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=JqmlNApoAcA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "清水翔太『Curtain Call feat.Taka』MV",
-        "url": "https://www.youtube.com/watch?v=JqmlNApoAcA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "清水翔太 / Shota Shimizu",
-        "url": "https://www.youtube.com/channel/UCv3cmuTwVzTXROJdaT7xw6w",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-07-14",
-      "viewCount": "4603万",
-      "likeCount": "-",
-      "commentCount": "4388"
     },
     {
       "rank": 1839,
@@ -903,7 +903,7 @@
       "commentCount": "4384"
     },
     {
-      "rank": 1842,
+      "rank": 1841,
       "thumb": {
         "img": "https://i.ytimg.com/vi/TLvMXOEXi_k/default.jpg",
         "url": "https://www.youtube.com/watch?v=TLvMXOEXi_k",
@@ -920,12 +920,12 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-29",
-      "viewCount": "2356万",
+      "viewCount": "2358万",
       "likeCount": "25.7万",
-      "commentCount": "4383"
+      "commentCount": "4384"
     },
     {
-      "rank": 1842,
+      "rank": 1841,
       "thumb": {
         "img": "https://i.ytimg.com/vi/cJnO-Y_YnFg/default.jpg",
         "url": "https://www.youtube.com/watch?v=cJnO-Y_YnFg",
@@ -942,9 +942,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-23",
-      "viewCount": "4788万",
+      "viewCount": "4789万",
       "likeCount": "16.1万",
-      "commentCount": "4383"
+      "commentCount": "4384"
     },
     {
       "rank": 1844,
@@ -964,7 +964,7 @@
         "target": "_blank"
       },
       "publishedAt": "2025-02-25",
-      "viewCount": "1806万",
+      "viewCount": "1810万",
       "likeCount": "23.9万",
       "commentCount": "4381"
     },
@@ -1015,28 +1015,6 @@
     {
       "rank": 1847,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/ShhoC3nHX8E/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ShhoC3nHX8E",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mr.Children 「足音 〜Be Strong」 MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=ShhoC3nHX8E",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mr.Children Official Channel",
-        "url": "https://www.youtube.com/channel/UCXteDRy5qB0IjA8WPusCJ7w",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-11-05",
-      "viewCount": "3378万",
-      "likeCount": "12万",
-      "commentCount": "4349"
-    },
-    {
-      "rank": 1848,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/lzsB4eKPdJI/default.jpg",
         "url": "https://www.youtube.com/watch?v=lzsB4eKPdJI",
         "target": "_blank"
@@ -1052,9 +1030,31 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-03",
-      "viewCount": "3475万",
+      "viewCount": "3477万",
       "likeCount": "26.8万",
-      "commentCount": "4347"
+      "commentCount": "4350"
+    },
+    {
+      "rank": 1848,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ShhoC3nHX8E/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ShhoC3nHX8E",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mr.Children 「足音 〜Be Strong」 MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=ShhoC3nHX8E",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mr.Children Official Channel",
+        "url": "https://www.youtube.com/channel/UCXteDRy5qB0IjA8WPusCJ7w",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-11-05",
+      "viewCount": "3379万",
+      "likeCount": "12万",
+      "commentCount": "4348"
     },
     {
       "rank": 1849,
@@ -1074,9 +1074,9 @@
         "target": "_blank"
       },
       "publishedAt": "2025-01-10",
-      "viewCount": "1702万",
+      "viewCount": "1705万",
       "likeCount": "8.5万",
-      "commentCount": "4341"
+      "commentCount": "4345"
     },
     {
       "rank": 1850,
@@ -1096,9 +1096,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-30",
-      "viewCount": "6057万",
+      "viewCount": "6065万",
       "likeCount": "30.8万",
-      "commentCount": "4337"
+      "commentCount": "4338"
     }
   ]
 }
