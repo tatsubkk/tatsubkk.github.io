@@ -3,6 +3,28 @@
     {
       "rank": 2401,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/KQZ75gaTktU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=KQZ75gaTktU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "西野カナ『もっと…』MV Full",
+        "url": "https://www.youtube.com/watch?v=KQZ75gaTktU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-08-27",
+      "viewCount": "1396万",
+      "likeCount": "6.01万",
+      "commentCount": "1073"
+    },
+    {
+      "rank": 2402,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/0ls3T69eV2o/default.jpg",
         "url": "https://www.youtube.com/watch?v=0ls3T69eV2o",
         "target": "_blank"
@@ -23,28 +45,6 @@
       "commentCount": "3529"
     },
     {
-      "rank": 2402,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/KQZ75gaTktU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=KQZ75gaTktU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "西野カナ『もっと…』MV Full",
-        "url": "https://www.youtube.com/watch?v=KQZ75gaTktU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-08-27",
-      "viewCount": "1395万",
-      "likeCount": "6.01万",
-      "commentCount": "1073"
-    },
-    {
       "rank": 2403,
       "thumb": {
         "img": "https://i.ytimg.com/vi/sAerCLnlShg/default.jpg",
@@ -63,7 +63,7 @@
       },
       "publishedAt": "2020-05-22",
       "viewCount": "1221万",
-      "likeCount": "6万",
+      "likeCount": "6.01万",
       "commentCount": "1744"
     },
     {
@@ -91,28 +91,6 @@
     {
       "rank": 2405,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/tzdhDr4t84I/default.jpg",
-        "url": "https://www.youtube.com/watch?v=tzdhDr4t84I",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV full】 ラブラドール・レトリバー / AKB48[公式]",
-        "url": "https://www.youtube.com/watch?v=tzdhDr4t84I",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "AKB48",
-        "url": "https://www.youtube.com/channel/UCxjXU89x6owat9dA8Z-bzdw",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-08-27",
-      "viewCount": "1962万",
-      "likeCount": "6万",
-      "commentCount": "3447"
-    },
-    {
-      "rank": 2406,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/Oj62PMMT4Bk/default.jpg",
         "url": "https://www.youtube.com/watch?v=Oj62PMMT4Bk",
         "target": "_blank"
@@ -128,12 +106,56 @@
         "target": "_blank"
       },
       "publishedAt": "2020-11-16",
-      "viewCount": "3611万",
+      "viewCount": "3612万",
       "likeCount": "6万",
       "commentCount": "-"
     },
     {
+      "rank": 2406,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/tzdhDr4t84I/default.jpg",
+        "url": "https://www.youtube.com/watch?v=tzdhDr4t84I",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV full】 ラブラドール・レトリバー / AKB48[公式]",
+        "url": "https://www.youtube.com/watch?v=tzdhDr4t84I",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "AKB48",
+        "url": "https://www.youtube.com/channel/UCxjXU89x6owat9dA8Z-bzdw",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-08-27",
+      "viewCount": "1963万",
+      "likeCount": "6万",
+      "commentCount": "3447"
+    },
+    {
       "rank": 2407,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/8OCvkuxnIuw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=8OCvkuxnIuw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "サザンオールスターズ – 真夏の果実 [Live at 茅ヶ崎公園野球場, 2023]",
+        "url": "https://www.youtube.com/watch?v=8OCvkuxnIuw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "サザンオールスターズ",
+        "url": "https://www.youtube.com/channel/UCSXpSoWV4_R1Taf_4E2fOsQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-03-04",
+      "viewCount": "1880万",
+      "likeCount": "6万",
+      "commentCount": "1314"
+    },
+    {
+      "rank": 2408,
       "thumb": {
         "img": "https://i.ytimg.com/vi/69w7p05W8HA/default.jpg",
         "url": "https://www.youtube.com/watch?v=69w7p05W8HA",
@@ -155,28 +177,6 @@
       "commentCount": "1828"
     },
     {
-      "rank": 2408,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/8OCvkuxnIuw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=8OCvkuxnIuw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "サザンオールスターズ – 真夏の果実 [Live at 茅ヶ崎公園野球場, 2023]",
-        "url": "https://www.youtube.com/watch?v=8OCvkuxnIuw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "サザンオールスターズ",
-        "url": "https://www.youtube.com/channel/UCSXpSoWV4_R1Taf_4E2fOsQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-03-04",
-      "viewCount": "1878万",
-      "likeCount": "5.99万",
-      "commentCount": "1314"
-    },
-    {
       "rank": 2409,
       "thumb": {
         "img": "https://i.ytimg.com/vi/CUxIykX4hfw/default.jpg",
@@ -196,7 +196,7 @@
       "publishedAt": "2016-12-27",
       "viewCount": "1158万",
       "likeCount": "5.99万",
-      "commentCount": "1190"
+      "commentCount": "1191"
     },
     {
       "rank": 2410,
@@ -282,7 +282,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-02-13",
-      "viewCount": "1268万",
+      "viewCount": "1269万",
       "likeCount": "5.96万",
       "commentCount": "1358"
     },
@@ -326,9 +326,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-21",
-      "viewCount": "2147万",
+      "viewCount": "2148万",
       "likeCount": "5.95万",
-      "commentCount": "2094"
+      "commentCount": "2095"
     },
     {
       "rank": 2416,
@@ -370,8 +370,8 @@
         "target": "_blank"
       },
       "publishedAt": "2024-03-09",
-      "viewCount": "1245万",
-      "likeCount": "5.9万",
+      "viewCount": "1246万",
+      "likeCount": "5.91万",
       "commentCount": "1343"
     },
     {
@@ -394,7 +394,7 @@
       "publishedAt": "2015-04-23",
       "viewCount": "1558万",
       "likeCount": "5.9万",
-      "commentCount": "2507"
+      "commentCount": "2508"
     },
     {
       "rank": 2419,
@@ -438,7 +438,7 @@
       "publishedAt": "2014-05-27",
       "viewCount": "1042万",
       "likeCount": "5.87万",
-      "commentCount": "2769"
+      "commentCount": "2770"
     },
     {
       "rank": 2421,
@@ -458,9 +458,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-05",
-      "viewCount": "2577万",
+      "viewCount": "2578万",
       "likeCount": "5.85万",
-      "commentCount": "3318"
+      "commentCount": "3320"
     },
     {
       "rank": 2422,
@@ -481,8 +481,8 @@
       },
       "publishedAt": "2020-10-28",
       "viewCount": "1548万",
-      "likeCount": "5.83万",
-      "commentCount": "1766"
+      "likeCount": "5.84万",
+      "commentCount": "1767"
     },
     {
       "rank": 2423,
@@ -529,7 +529,7 @@
       "commentCount": "2691"
     },
     {
-      "rank": 2424,
+      "rank": 2425,
       "thumb": {
         "img": "https://i.ytimg.com/vi/xup7x7r38Q0/default.jpg",
         "url": "https://www.youtube.com/watch?v=xup7x7r38Q0",
@@ -619,6 +619,28 @@
     {
       "rank": 2429,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/uUAnQUxitpU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=uUAnQUxitpU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "もう少しだけ",
+        "url": "https://www.youtube.com/watch?v=uUAnQUxitpU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-11-30",
+      "viewCount": "1389万",
+      "likeCount": "5.76万",
+      "commentCount": "108"
+    },
+    {
+      "rank": 2430,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/5mmEgt5ZCZw/default.jpg",
         "url": "https://www.youtube.com/watch?v=5mmEgt5ZCZw",
         "target": "_blank"
@@ -637,28 +659,6 @@
       "viewCount": "1397万",
       "likeCount": "5.76万",
       "commentCount": "2770"
-    },
-    {
-      "rank": 2430,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/uUAnQUxitpU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=uUAnQUxitpU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "もう少しだけ",
-        "url": "https://www.youtube.com/watch?v=uUAnQUxitpU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-30",
-      "viewCount": "1386万",
-      "likeCount": "5.75万",
-      "commentCount": "108"
     },
     {
       "rank": 2431,
@@ -832,8 +832,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-12-29",
-      "viewCount": "1181万",
-      "likeCount": "5.69万",
+      "viewCount": "1183万",
+      "likeCount": "5.7万",
       "commentCount": "783"
     },
     {
@@ -854,9 +854,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-16",
-      "viewCount": "2178万",
+      "viewCount": "2179万",
       "likeCount": "5.69万",
-      "commentCount": "3347"
+      "commentCount": "3350"
     },
     {
       "rank": 2440,
@@ -878,7 +878,7 @@
       "publishedAt": "2022-09-09",
       "viewCount": "1679万",
       "likeCount": "5.69万",
-      "commentCount": "1206"
+      "commentCount": "1209"
     },
     {
       "rank": 2441,
@@ -966,7 +966,7 @@
       "publishedAt": "2022-09-16",
       "viewCount": "1403万",
       "likeCount": "5.66万",
-      "commentCount": "1516"
+      "commentCount": "1517"
     },
     {
       "rank": 2445,
@@ -1030,8 +1030,8 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-06",
-      "viewCount": "2814万",
-      "likeCount": "5.63万",
+      "viewCount": "2815万",
+      "likeCount": "5.64万",
       "commentCount": "3624"
     },
     {
@@ -1054,7 +1054,7 @@
       "publishedAt": "2014-12-08",
       "viewCount": "1023万",
       "likeCount": "5.63万",
-      "commentCount": "1441"
+      "commentCount": "1442"
     },
     {
       "rank": 2449,
@@ -1074,7 +1074,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-28",
-      "viewCount": "1256万",
+      "viewCount": "1257万",
       "likeCount": "5.63万",
       "commentCount": "8269"
     },

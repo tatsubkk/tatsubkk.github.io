@@ -18,9 +18,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-05",
-      "viewCount": "2516万",
+      "viewCount": "2517万",
       "likeCount": "12.5万",
-      "commentCount": "2001"
+      "commentCount": "2002"
     },
     {
       "rank": 2602,
@@ -64,7 +64,7 @@
       "publishedAt": "2018-07-18",
       "viewCount": "1112万",
       "likeCount": "7.3万",
-      "commentCount": "1995"
+      "commentCount": "1994"
     },
     {
       "rank": 2604,
@@ -84,7 +84,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-05-25",
-      "viewCount": "1390万",
+      "viewCount": "1391万",
       "likeCount": "8万",
       "commentCount": "1992"
     },
@@ -130,10 +130,32 @@
       "publishedAt": "2009-07-02",
       "viewCount": "2544万",
       "likeCount": "4.7万",
+      "commentCount": "1983"
+    },
+    {
+      "rank": 2607,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/cO2lsKENxV4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=cO2lsKENxV4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "モーニング娘。 『恋のダンスサイト』 (MV)",
+        "url": "https://www.youtube.com/watch?v=cO2lsKENxV4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "モーニング娘。",
+        "url": "https://www.youtube.com/channel/UCoKXb95K5h3sME3c9OCBaeA",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-10-18",
+      "viewCount": "1042万",
+      "likeCount": "3.2万",
       "commentCount": "1982"
     },
     {
-      "rank": 2606,
+      "rank": 2608,
       "thumb": {
         "img": "https://i.ytimg.com/vi/BqN0DbhqAYM/default.jpg",
         "url": "https://www.youtube.com/watch?v=BqN0DbhqAYM",
@@ -152,29 +174,7 @@
       "publishedAt": "2020-09-24",
       "viewCount": "1794万",
       "likeCount": "3.3万",
-      "commentCount": "1982"
-    },
-    {
-      "rank": 2606,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/cO2lsKENxV4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=cO2lsKENxV4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "モーニング娘。 『恋のダンスサイト』 (MV)",
-        "url": "https://www.youtube.com/watch?v=cO2lsKENxV4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "モーニング娘。",
-        "url": "https://www.youtube.com/channel/UCoKXb95K5h3sME3c9OCBaeA",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-10-18",
-      "viewCount": "1041万",
-      "likeCount": "3.2万",
-      "commentCount": "1982"
+      "commentCount": "1981"
     },
     {
       "rank": 2609,
@@ -194,34 +194,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-19",
-      "viewCount": "3467万",
+      "viewCount": "3469万",
       "likeCount": "14万",
       "commentCount": "1980"
     },
     {
       "rank": 2610,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ExD6ganDjE8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ExD6ganDjE8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "いきものがかり 『風が吹いている』Music Video",
-        "url": "https://www.youtube.com/watch?v=ExD6ganDjE8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "いきものがかり",
-        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-08-23",
-      "viewCount": "1233万",
-      "likeCount": "5.1万",
-      "commentCount": "1977"
-    },
-    {
-      "rank": 2611,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Z-z0-W61xLw/default.jpg",
         "url": "https://www.youtube.com/watch?v=Z-z0-W61xLw",
@@ -240,7 +218,29 @@
       "publishedAt": "2020-05-14",
       "viewCount": "1259万",
       "likeCount": "7.5万",
-      "commentCount": "1976"
+      "commentCount": "1979"
+    },
+    {
+      "rank": 2611,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ExD6ganDjE8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ExD6ganDjE8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "いきものがかり 『風が吹いている』Music Video",
+        "url": "https://www.youtube.com/watch?v=ExD6ganDjE8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "いきものがかり",
+        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-08-23",
+      "viewCount": "1234万",
+      "likeCount": "5.1万",
+      "commentCount": "1978"
     },
     {
       "rank": 2612,
@@ -265,7 +265,7 @@
       "commentCount": "1969"
     },
     {
-      "rank": 2613,
+      "rank": 2612,
       "thumb": {
         "img": "https://i.ytimg.com/vi/B1DGRJeUHwU/default.jpg",
         "url": "https://www.youtube.com/watch?v=B1DGRJeUHwU",
@@ -282,9 +282,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-12-03",
-      "viewCount": "1303万",
+      "viewCount": "1304万",
       "likeCount": "2.5万",
-      "commentCount": "1968"
+      "commentCount": "1969"
     },
     {
       "rank": 2614,
@@ -333,6 +333,28 @@
     {
       "rank": 2616,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/36NolVPEvTA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=36NolVPEvTA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BEGIN／オジー自慢のオリオンビール",
+        "url": "https://www.youtube.com/watch?v=36NolVPEvTA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BEGIN ch",
+        "url": "https://www.youtube.com/channel/UCkn4RZNbITpBEHWdS_pzGEg",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-12-27",
+      "viewCount": "1727万",
+      "likeCount": "4.1万",
+      "commentCount": "1963"
+    },
+    {
+      "rank": 2617,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/VYVROyKDjyE/default.jpg",
         "url": "https://www.youtube.com/watch?v=VYVROyKDjyE",
         "target": "_blank"
@@ -353,28 +375,6 @@
       "commentCount": "1962"
     },
     {
-      "rank": 2617,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/36NolVPEvTA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=36NolVPEvTA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BEGIN／オジー自慢のオリオンビール",
-        "url": "https://www.youtube.com/watch?v=36NolVPEvTA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BEGIN ch",
-        "url": "https://www.youtube.com/channel/UCkn4RZNbITpBEHWdS_pzGEg",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-12-27",
-      "viewCount": "1726万",
-      "likeCount": "4.1万",
-      "commentCount": "1961"
-    },
-    {
       "rank": 2618,
       "thumb": {
         "img": "https://i.ytimg.com/vi/UA33zQ-DY1w/default.jpg",
@@ -392,9 +392,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-10-17",
-      "viewCount": "1200万",
+      "viewCount": "1201万",
       "likeCount": "4.5万",
-      "commentCount": "1954"
+      "commentCount": "1955"
     },
     {
       "rank": 2619,
@@ -416,7 +416,7 @@
       "publishedAt": "2017-09-28",
       "viewCount": "1280万",
       "likeCount": "6.8万",
-      "commentCount": "1949"
+      "commentCount": "1951"
     },
     {
       "rank": 2620,
@@ -438,7 +438,7 @@
       "publishedAt": "2012-03-07",
       "viewCount": "1964万",
       "likeCount": "5.4万",
-      "commentCount": "1938"
+      "commentCount": "1939"
     },
     {
       "rank": 2621,
@@ -460,7 +460,7 @@
       "publishedAt": "2013-08-01",
       "viewCount": "1414万",
       "likeCount": "6.2万",
-      "commentCount": "1937"
+      "commentCount": "1938"
     },
     {
       "rank": 2622,
@@ -480,12 +480,12 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-20",
-      "viewCount": "1578万",
+      "viewCount": "1579万",
       "likeCount": "6.4万",
-      "commentCount": "1932"
+      "commentCount": "1934"
     },
     {
-      "rank": 2622,
+      "rank": 2623,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3YwwPX8gxZ0/default.jpg",
         "url": "https://www.youtube.com/watch?v=3YwwPX8gxZ0",
@@ -524,7 +524,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-11-08",
-      "viewCount": "2743万",
+      "viewCount": "2744万",
       "likeCount": "6.3万",
       "commentCount": "1926"
     },
@@ -546,34 +546,34 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-02",
-      "viewCount": "1296万",
+      "viewCount": "1297万",
       "likeCount": "9.8万",
       "commentCount": "1923"
     },
     {
       "rank": 2626,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/fVvjv3xpSMA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=fVvjv3xpSMA",
+        "img": "https://i.ytimg.com/vi/dkwlFZTXdzQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=dkwlFZTXdzQ",
         "target": "_blank"
       },
       "title": {
-        "text": "HY -「恋をして」(映画『366日』主題歌)  Music Video",
-        "url": "https://www.youtube.com/watch?v=fVvjv3xpSMA",
+        "text": "清水翔太『PUZZLE』MV",
+        "url": "https://www.youtube.com/watch?v=dkwlFZTXdzQ",
         "target": "_blank"
       },
       "channel": {
-        "text": "HY Official",
-        "url": "https://www.youtube.com/channel/UCjk0vxDFjZCdiZ6keN1KtgQ",
+        "text": "清水翔太 / Shota Shimizu",
+        "url": "https://www.youtube.com/channel/UCv3cmuTwVzTXROJdaT7xw6w",
         "target": "_blank"
       },
-      "publishedAt": "2025-01-07",
-      "viewCount": "1257万",
-      "likeCount": "6.9万",
-      "commentCount": "1920"
+      "publishedAt": "2024-10-09",
+      "viewCount": "1451万",
+      "likeCount": "-",
+      "commentCount": "1922"
     },
     {
-      "rank": 2626,
+      "rank": 2627,
       "thumb": {
         "img": "https://i.ytimg.com/vi/5IoHBOIWM9c/default.jpg",
         "url": "https://www.youtube.com/watch?v=5IoHBOIWM9c",
@@ -595,7 +595,29 @@
       "commentCount": "1920"
     },
     {
-      "rank": 2628,
+      "rank": 2627,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/fVvjv3xpSMA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=fVvjv3xpSMA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "HY -「恋をして」(映画『366日』主題歌)  Music Video",
+        "url": "https://www.youtube.com/watch?v=fVvjv3xpSMA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "HY Official",
+        "url": "https://www.youtube.com/channel/UCjk0vxDFjZCdiZ6keN1KtgQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-01-07",
+      "viewCount": "1259万",
+      "likeCount": "6.9万",
+      "commentCount": "1920"
+    },
+    {
+      "rank": 2629,
       "thumb": {
         "img": "https://i.ytimg.com/vi/hYUrBTYuhAQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=hYUrBTYuhAQ",
@@ -617,28 +639,6 @@
       "commentCount": "1919"
     },
     {
-      "rank": 2629,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/dkwlFZTXdzQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=dkwlFZTXdzQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "清水翔太『PUZZLE』MV",
-        "url": "https://www.youtube.com/watch?v=dkwlFZTXdzQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "清水翔太 / Shota Shimizu",
-        "url": "https://www.youtube.com/channel/UCv3cmuTwVzTXROJdaT7xw6w",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-10-09",
-      "viewCount": "1448万",
-      "likeCount": "-",
-      "commentCount": "1918"
-    },
-    {
       "rank": 2630,
       "thumb": {
         "img": "https://i.ytimg.com/vi/oPdIjsctolE/default.jpg",
@@ -658,29 +658,7 @@
       "publishedAt": "2021-07-14",
       "viewCount": "2219万",
       "likeCount": "10.3万",
-      "commentCount": "1917"
-    },
-    {
-      "rank": 2631,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ZIEQDjrAdwE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ZIEQDjrAdwE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "UVERworld　『儚くも永久のカナシ』",
-        "url": "https://www.youtube.com/watch?v=ZIEQDjrAdwE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "UVERworld Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCnziFQs4Ihms4UtxmVZP6cg",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-04-11",
-      "viewCount": "2119万",
-      "likeCount": "7.1万",
-      "commentCount": "1906"
+      "commentCount": "1918"
     },
     {
       "rank": 2631,
@@ -700,12 +678,56 @@
         "target": "_blank"
       },
       "publishedAt": "2014-12-17",
-      "viewCount": "1060万",
+      "viewCount": "1061万",
       "likeCount": "5万",
-      "commentCount": "1906"
+      "commentCount": "1908"
+    },
+    {
+      "rank": 2632,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ZIEQDjrAdwE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ZIEQDjrAdwE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "UVERworld　『儚くも永久のカナシ』",
+        "url": "https://www.youtube.com/watch?v=ZIEQDjrAdwE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "UVERworld Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCnziFQs4Ihms4UtxmVZP6cg",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-04-11",
+      "viewCount": "2120万",
+      "likeCount": "7.1万",
+      "commentCount": "1907"
     },
     {
       "rank": 2633,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/8ooptXF4IDE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=8ooptXF4IDE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "マカロニえんぴつ「ミスター・ブルースカイ」 MV",
+        "url": "https://www.youtube.com/watch?v=8ooptXF4IDE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "murffin discs",
+        "url": "https://www.youtube.com/channel/UC1-EP9cKVrNQqvG-drnDA7Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-11-21",
+      "viewCount": "2502万",
+      "likeCount": "15.1万",
+      "commentCount": "1905"
+    },
+    {
+      "rank": 2634,
       "thumb": {
         "img": "https://i.ytimg.com/vi/0rvqWa8Mnsg/default.jpg",
         "url": "https://www.youtube.com/watch?v=0rvqWa8Mnsg",
@@ -727,26 +749,26 @@
       "commentCount": "1903"
     },
     {
-      "rank": 2634,
+      "rank": 2635,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/8ooptXF4IDE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=8ooptXF4IDE",
+        "img": "https://i.ytimg.com/vi/rFlsY2F7K-M/default.jpg",
+        "url": "https://www.youtube.com/watch?v=rFlsY2F7K-M",
         "target": "_blank"
       },
       "title": {
-        "text": "マカロニえんぴつ「ミスター・ブルースカイ」 MV",
-        "url": "https://www.youtube.com/watch?v=8ooptXF4IDE",
+        "text": "ホワイトキス - 鈴木鈴木【Official Music Video】",
+        "url": "https://www.youtube.com/watch?v=rFlsY2F7K-M",
         "target": "_blank"
       },
       "channel": {
-        "text": "murffin discs",
-        "url": "https://www.youtube.com/channel/UC1-EP9cKVrNQqvG-drnDA7Q",
+        "text": "鈴木鈴木(suzukisuzuki)ch",
+        "url": "https://www.youtube.com/channel/UC4s6P1q8l1zznc4Yk6WAX-A",
         "target": "_blank"
       },
-      "publishedAt": "2017-11-21",
-      "viewCount": "2498万",
-      "likeCount": "15.1万",
-      "commentCount": "1902"
+      "publishedAt": "2021-11-18",
+      "viewCount": "1243万",
+      "likeCount": "9.8万",
+      "commentCount": "1898"
     },
     {
       "rank": 2635,
@@ -766,31 +788,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-17",
-      "viewCount": "1578万",
+      "viewCount": "1579万",
       "likeCount": "9.6万",
-      "commentCount": "1899"
-    },
-    {
-      "rank": 2636,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/rFlsY2F7K-M/default.jpg",
-        "url": "https://www.youtube.com/watch?v=rFlsY2F7K-M",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ホワイトキス - 鈴木鈴木【Official Music Video】",
-        "url": "https://www.youtube.com/watch?v=rFlsY2F7K-M",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "鈴木鈴木(suzukisuzuki)ch",
-        "url": "https://www.youtube.com/channel/UC4s6P1q8l1zznc4Yk6WAX-A",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-18",
-      "viewCount": "1242万",
-      "likeCount": "9.8万",
-      "commentCount": "1896"
+      "commentCount": "1898"
     },
     {
       "rank": 2637,
@@ -812,7 +812,7 @@
       "publishedAt": "2013-05-27",
       "viewCount": "2023万",
       "likeCount": "6.9万",
-      "commentCount": "1889"
+      "commentCount": "1890"
     },
     {
       "rank": 2638,
@@ -854,7 +854,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-23",
-      "viewCount": "1652万",
+      "viewCount": "1653万",
       "likeCount": "12.3万",
       "commentCount": "1887"
     },
@@ -920,7 +920,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-11-20",
-      "viewCount": "1505万",
+      "viewCount": "1507万",
       "likeCount": "7万",
       "commentCount": "1878"
     },
@@ -949,28 +949,6 @@
     {
       "rank": 2644,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/ia1HWtcQLwQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ia1HWtcQLwQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "荒野より / 中島みゆき [公式]",
-        "url": "https://www.youtube.com/watch?v=ia1HWtcQLwQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "中島みゆき公式チャンネル",
-        "url": "https://www.youtube.com/channel/UChmEixJeXYHpboT5ZuXzP-A",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-11-10",
-      "viewCount": "1725万",
-      "likeCount": "4.1万",
-      "commentCount": "1873"
-    },
-    {
-      "rank": 2644,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/yXq_KSBmpEI/default.jpg",
         "url": "https://www.youtube.com/watch?v=yXq_KSBmpEI",
         "target": "_blank"
@@ -988,6 +966,28 @@
       "publishedAt": "2014-08-14",
       "viewCount": "1157万",
       "likeCount": "4.4万",
+      "commentCount": "1874"
+    },
+    {
+      "rank": 2645,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ia1HWtcQLwQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ia1HWtcQLwQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "荒野より / 中島みゆき [公式]",
+        "url": "https://www.youtube.com/watch?v=ia1HWtcQLwQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "中島みゆき公式チャンネル",
+        "url": "https://www.youtube.com/channel/UChmEixJeXYHpboT5ZuXzP-A",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-11-10",
+      "viewCount": "1726万",
+      "likeCount": "4.1万",
       "commentCount": "1873"
     },
     {
@@ -1052,31 +1052,9 @@
         "target": "_blank"
       },
       "publishedAt": "2009-04-23",
-      "viewCount": "1263万",
+      "viewCount": "1264万",
       "likeCount": "4.1万",
       "commentCount": "1866"
-    },
-    {
-      "rank": 2649,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1zUFu-aUVW4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1zUFu-aUVW4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV full】 ハロウィン・ナイト / AKB48[公式]",
-        "url": "https://www.youtube.com/watch?v=1zUFu-aUVW4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "AKB48",
-        "url": "https://www.youtube.com/channel/UCxjXU89x6owat9dA8Z-bzdw",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-12-09",
-      "viewCount": "1132万",
-      "likeCount": "3.8万",
-      "commentCount": "1862"
     },
     {
       "rank": 2649,
@@ -1098,6 +1076,28 @@
       "publishedAt": "2022-07-28",
       "viewCount": "2291万",
       "likeCount": "10.7万",
+      "commentCount": "1862"
+    },
+    {
+      "rank": 2649,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1zUFu-aUVW4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1zUFu-aUVW4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV full】 ハロウィン・ナイト / AKB48[公式]",
+        "url": "https://www.youtube.com/watch?v=1zUFu-aUVW4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "AKB48",
+        "url": "https://www.youtube.com/channel/UCxjXU89x6owat9dA8Z-bzdw",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-12-09",
+      "viewCount": "1133万",
+      "likeCount": "3.8万",
       "commentCount": "1862"
     }
   ]
