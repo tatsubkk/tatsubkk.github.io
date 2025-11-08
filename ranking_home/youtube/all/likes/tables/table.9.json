@@ -3,6 +3,28 @@
     {
       "rank": 401,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/sPLqsLsooJY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=sPLqsLsooJY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "米津玄師, 宇多田ヒカル Kenshi Yonezu, Hikaru Utada -  JANE DOE",
+        "url": "https://www.youtube.com/watch?v=sPLqsLsooJY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-09-23",
+      "viewCount": "3152万",
+      "likeCount": "51.35万",
+      "commentCount": "1.7万"
+    },
+    {
+      "rank": 402,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/EYGGd2NKwtI/default.jpg",
         "url": "https://www.youtube.com/watch?v=EYGGd2NKwtI",
         "target": "_blank"
@@ -18,12 +40,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-11",
-      "viewCount": "1410万",
-      "likeCount": "51.3万",
+      "viewCount": "1411万",
+      "likeCount": "51.35万",
       "commentCount": "1.6万"
     },
     {
-      "rank": 402,
+      "rank": 403,
       "thumb": {
         "img": "https://i.ytimg.com/vi/F32hhOsJ14k/default.jpg",
         "url": "https://www.youtube.com/watch?v=F32hhOsJ14k",
@@ -43,28 +65,6 @@
       "viewCount": "1441万",
       "likeCount": "51.02万",
       "commentCount": "2.3万"
-    },
-    {
-      "rank": 403,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/sPLqsLsooJY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=sPLqsLsooJY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "米津玄師, 宇多田ヒカル Kenshi Yonezu, Hikaru Utada -  JANE DOE",
-        "url": "https://www.youtube.com/watch?v=sPLqsLsooJY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-09-23",
-      "viewCount": "3099万",
-      "likeCount": "50.91万",
-      "commentCount": "1.7万"
     },
     {
       "rank": 404,
@@ -91,6 +91,28 @@
     {
       "rank": 405,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/R7wI90H6Wuc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=R7wI90H6Wuc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "川崎鷹也-魔法の絨毯【OFFICIAL MUSIC VIDEO】",
+        "url": "https://www.youtube.com/watch?v=R7wI90H6Wuc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "川崎鷹也【公式】",
+        "url": "https://www.youtube.com/channel/UCZwXiIKBc9ok5QsOqXk5kiw",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-09-13",
+      "viewCount": "1億816万",
+      "likeCount": "50.68万",
+      "commentCount": "7281"
+    },
+    {
+      "rank": 406,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/w6G7Yfp1pVE/default.jpg",
         "url": "https://www.youtube.com/watch?v=w6G7Yfp1pVE",
         "target": "_blank"
@@ -108,29 +130,7 @@
       "publishedAt": "2022-03-18",
       "viewCount": "1702万",
       "likeCount": "50.67万",
-      "commentCount": "7496"
-    },
-    {
-      "rank": 406,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/R7wI90H6Wuc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=R7wI90H6Wuc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "川崎鷹也-魔法の絨毯【OFFICIAL MUSIC VIDEO】",
-        "url": "https://www.youtube.com/watch?v=R7wI90H6Wuc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "川崎鷹也【公式】",
-        "url": "https://www.youtube.com/channel/UCZwXiIKBc9ok5QsOqXk5kiw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-09-13",
-      "viewCount": "1億814万",
-      "likeCount": "50.67万",
-      "commentCount": "7280"
+      "commentCount": "7498"
     },
     {
       "rank": 407,
@@ -150,8 +150,8 @@
         "target": "_blank"
       },
       "publishedAt": "2013-03-11",
-      "viewCount": "8096万",
-      "likeCount": "50.6万",
+      "viewCount": "8097万",
+      "likeCount": "50.61万",
       "commentCount": "3万"
     },
     {
@@ -173,7 +173,7 @@
       },
       "publishedAt": "2021-03-25",
       "viewCount": "3924万",
-      "likeCount": "50.57万",
+      "likeCount": "50.58万",
       "commentCount": "1.3万"
     },
     {
@@ -216,8 +216,8 @@
         "target": "_blank"
       },
       "publishedAt": "2025-03-15",
-      "viewCount": "4771万",
-      "likeCount": "50.49万",
+      "viewCount": "4781万",
+      "likeCount": "50.53万",
       "commentCount": "1.5万"
     },
     {
@@ -238,8 +238,8 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-27",
-      "viewCount": "8374万",
-      "likeCount": "50.45万",
+      "viewCount": "8375万",
+      "likeCount": "50.46万",
       "commentCount": "1.3万"
     },
     {
@@ -260,8 +260,8 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-11",
-      "viewCount": "5878万",
-      "likeCount": "50.24万",
+      "viewCount": "5879万",
+      "likeCount": "50.26万",
       "commentCount": "1.9万"
     },
     {
@@ -282,8 +282,8 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-09",
-      "viewCount": "7928万",
-      "likeCount": "50.07万",
+      "viewCount": "7931万",
+      "likeCount": "50.08万",
       "commentCount": "7729"
     },
     {
@@ -304,8 +304,8 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-12",
-      "viewCount": "6043万",
-      "likeCount": "50.01万",
+      "viewCount": "6045万",
+      "likeCount": "50.03万",
       "commentCount": "1.1万"
     },
     {
@@ -326,8 +326,8 @@
         "target": "_blank"
       },
       "publishedAt": "2024-02-28",
-      "viewCount": "4781万",
-      "likeCount": "49.93万",
+      "viewCount": "4789万",
+      "likeCount": "49.99万",
       "commentCount": "1.2万"
     },
     {
@@ -370,8 +370,8 @@
         "target": "_blank"
       },
       "publishedAt": "2016-02-24",
-      "viewCount": "8922万",
-      "likeCount": "49.73万",
+      "viewCount": "8924万",
+      "likeCount": "49.74万",
       "commentCount": "1.1万"
     },
     {
@@ -392,8 +392,8 @@
         "target": "_blank"
       },
       "publishedAt": "2010-12-11",
-      "viewCount": "1億4220万",
-      "likeCount": "49.61万",
+      "viewCount": "1億4222万",
+      "likeCount": "49.62万",
       "commentCount": "2.3万"
     },
     {
@@ -414,9 +414,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-16",
-      "viewCount": "4166万",
+      "viewCount": "4167万",
       "likeCount": "49.58万",
-      "commentCount": "7606"
+      "commentCount": "7610"
     },
     {
       "rank": 420,
@@ -436,8 +436,8 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-01",
-      "viewCount": "3190万",
-      "likeCount": "49.55万",
+      "viewCount": "3191万",
+      "likeCount": "49.56万",
       "commentCount": "1.1万"
     },
     {
@@ -458,8 +458,8 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-07",
-      "viewCount": "5361万",
-      "likeCount": "49.53万",
+      "viewCount": "5364万",
+      "likeCount": "49.55万",
       "commentCount": "1.1万"
     },
     {
@@ -480,12 +480,34 @@
         "target": "_blank"
       },
       "publishedAt": "2013-09-13",
-      "viewCount": "8088万",
-      "likeCount": "49.47万",
+      "viewCount": "8091万",
+      "likeCount": "49.48万",
       "commentCount": "2.4万"
     },
     {
       "rank": 423,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/zi7-jk4LdX0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=zi7-jk4LdX0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "エゴロック(long ver.) / すりぃ feat.鏡音レン",
+        "url": "https://www.youtube.com/watch?v=zi7-jk4LdX0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "すりぃ",
+        "url": "https://www.youtube.com/channel/UCHGKS3VDKxu3N1u9naM0XYA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-09-07",
+      "viewCount": "5582万",
+      "likeCount": "49.38万",
+      "commentCount": "1.1万"
+    },
+    {
+      "rank": 424,
       "thumb": {
         "img": "https://i.ytimg.com/vi/nRYCLOTRAK4/default.jpg",
         "url": "https://www.youtube.com/watch?v=nRYCLOTRAK4",
@@ -507,28 +529,6 @@
       "commentCount": "4.9万"
     },
     {
-      "rank": 424,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/zi7-jk4LdX0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=zi7-jk4LdX0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "エゴロック(long ver.) / すりぃ feat.鏡音レン",
-        "url": "https://www.youtube.com/watch?v=zi7-jk4LdX0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "すりぃ",
-        "url": "https://www.youtube.com/channel/UCHGKS3VDKxu3N1u9naM0XYA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-09-07",
-      "viewCount": "5580万",
-      "likeCount": "49.37万",
-      "commentCount": "1.1万"
-    },
-    {
       "rank": 425,
       "thumb": {
         "img": "https://i.ytimg.com/vi/QGCkDOkpWf8/default.jpg",
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-09",
-      "viewCount": "2316万",
+      "viewCount": "2317万",
       "likeCount": "49.31万",
       "commentCount": "3.6万"
     },
@@ -568,8 +568,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-27",
-      "viewCount": "2620万",
-      "likeCount": "49.22万",
+      "viewCount": "2621万",
+      "likeCount": "49.23万",
       "commentCount": "1.6万"
     },
     {
@@ -590,8 +590,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-01-19",
-      "viewCount": "8786万",
-      "likeCount": "49.03万",
+      "viewCount": "8789万",
+      "likeCount": "49.04万",
       "commentCount": "1.6万"
     },
     {
@@ -612,8 +612,8 @@
         "target": "_blank"
       },
       "publishedAt": "2015-02-13",
-      "viewCount": "7709万",
-      "likeCount": "48.97万",
+      "viewCount": "7710万",
+      "likeCount": "48.98万",
       "commentCount": "1.6万"
     },
     {
@@ -656,8 +656,8 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-22",
-      "viewCount": "3610万",
-      "likeCount": "48.56万",
+      "viewCount": "3611万",
+      "likeCount": "48.57万",
       "commentCount": "9821"
     },
     {
@@ -678,9 +678,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-05-18",
-      "viewCount": "6919万",
+      "viewCount": "6920万",
       "likeCount": "48.55万",
-      "commentCount": "7500"
+      "commentCount": "7501"
     },
     {
       "rank": 432,
@@ -701,7 +701,7 @@
       },
       "publishedAt": "2019-04-26",
       "viewCount": "2099万",
-      "likeCount": "48.51万",
+      "likeCount": "48.52万",
       "commentCount": "2.2万"
     },
     {
@@ -722,8 +722,8 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-09",
-      "viewCount": "7533万",
-      "likeCount": "48.31万",
+      "viewCount": "7535万",
+      "likeCount": "48.32万",
       "commentCount": "2.6万"
     },
     {
@@ -744,8 +744,8 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-05",
-      "viewCount": "6652万",
-      "likeCount": "48.3万",
+      "viewCount": "6657万",
+      "likeCount": "48.31万",
       "commentCount": "1.3万"
     },
     {
@@ -766,8 +766,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-24",
-      "viewCount": "6680万",
-      "likeCount": "48.27万",
+      "viewCount": "6686万",
+      "likeCount": "48.29万",
       "commentCount": "1.9万"
     },
     {
@@ -788,7 +788,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-26",
-      "viewCount": "3658万",
+      "viewCount": "3659万",
       "likeCount": "48.06万",
       "commentCount": "2.9万"
     },
@@ -810,34 +810,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-23",
-      "viewCount": "3531万",
-      "likeCount": "47.92万",
+      "viewCount": "3534万",
+      "likeCount": "47.94万",
       "commentCount": "1.6万"
     },
     {
       "rank": 438,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/7zwCIz-Ohn4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=7zwCIz-Ohn4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "DECO*27 - 乙女解剖 feat. 初音ミク",
-        "url": "https://www.youtube.com/watch?v=7zwCIz-Ohn4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "DECO*27",
-        "url": "https://www.youtube.com/channel/UCGmO0S4S-AunjRdmxA6TQYg",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-01-18",
-      "viewCount": "5433万",
-      "likeCount": "47.85万",
-      "commentCount": "1.4万"
-    },
-    {
-      "rank": 439,
       "thumb": {
         "img": "https://i.ytimg.com/vi/v-WcMQbXbKY/default.jpg",
         "url": "https://www.youtube.com/watch?v=v-WcMQbXbKY",
@@ -854,9 +832,31 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-15",
-      "viewCount": "6581万",
-      "likeCount": "47.83万",
-      "commentCount": "5659"
+      "viewCount": "6586万",
+      "likeCount": "47.86万",
+      "commentCount": "5660"
+    },
+    {
+      "rank": 439,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/7zwCIz-Ohn4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=7zwCIz-Ohn4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "DECO*27 - 乙女解剖 feat. 初音ミク",
+        "url": "https://www.youtube.com/watch?v=7zwCIz-Ohn4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "DECO*27",
+        "url": "https://www.youtube.com/channel/UCGmO0S4S-AunjRdmxA6TQYg",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-01-18",
+      "viewCount": "5434万",
+      "likeCount": "47.85万",
+      "commentCount": "1.4万"
     },
     {
       "rank": 440,
@@ -898,8 +898,8 @@
         "target": "_blank"
       },
       "publishedAt": "2024-10-08",
-      "viewCount": "2884万",
-      "likeCount": "47.44万",
+      "viewCount": "2885万",
+      "likeCount": "47.45万",
       "commentCount": "2万"
     },
     {
@@ -920,8 +920,8 @@
         "target": "_blank"
       },
       "publishedAt": "2013-01-07",
-      "viewCount": "5738万",
-      "likeCount": "47.4万",
+      "viewCount": "5739万",
+      "likeCount": "47.41万",
       "commentCount": "2.1万"
     },
     {
@@ -942,8 +942,8 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-04",
-      "viewCount": "7845万",
-      "likeCount": "47.33万",
+      "viewCount": "7847万",
+      "likeCount": "47.34万",
       "commentCount": "3万"
     },
     {
@@ -986,8 +986,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-02-20",
-      "viewCount": "4086万",
-      "likeCount": "47.31万",
+      "viewCount": "4088万",
+      "likeCount": "47.32万",
       "commentCount": "1万"
     },
     {
@@ -1008,8 +1008,8 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-08",
-      "viewCount": "1億8752万",
-      "likeCount": "47.22万",
+      "viewCount": "1億8754万",
+      "likeCount": "47.23万",
       "commentCount": "4万"
     },
     {
@@ -1030,8 +1030,8 @@
         "target": "_blank"
       },
       "publishedAt": "2022-02-03",
-      "viewCount": "6940万",
-      "likeCount": "47.18万",
+      "viewCount": "6943万",
+      "likeCount": "47.19万",
       "commentCount": "1.6万"
     },
     {
@@ -1052,8 +1052,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-25",
-      "viewCount": "1億1490万",
-      "likeCount": "46.95万",
+      "viewCount": "1億1498万",
+      "likeCount": "46.97万",
       "commentCount": "2万"
     },
     {
@@ -1074,9 +1074,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-26",
-      "viewCount": "3451万",
-      "likeCount": "46.8万",
-      "commentCount": "9414"
+      "viewCount": "3453万",
+      "likeCount": "46.82万",
+      "commentCount": "9416"
     },
     {
       "rank": 450,

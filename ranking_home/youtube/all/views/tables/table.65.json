@@ -21,7 +21,7 @@
       "viewCount": "1033万",
       "likeCount": "1.7万",
       "commentCount": "518",
-      "increment_d1": "800"
+      "increment_d1": "1099"
     },
     {
       "rank": 3202,
@@ -43,8 +43,8 @@
       "publishedAt": "2023-05-09",
       "viewCount": "1032万",
       "likeCount": "17.5万",
-      "commentCount": "4719",
-      "increment_d1": "4491"
+      "commentCount": "4718",
+      "increment_d1": "4152"
     },
     {
       "rank": 3203,
@@ -67,7 +67,7 @@
       "viewCount": "1031万",
       "likeCount": "3.6万",
       "commentCount": "1.3万",
-      "increment_d1": "669"
+      "increment_d1": "783"
     },
     {
       "rank": 3204,
@@ -90,7 +90,7 @@
       "viewCount": "1030万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "512"
+      "increment_d1": "472"
     },
     {
       "rank": 3205,
@@ -113,7 +113,7 @@
       "viewCount": "1029万",
       "likeCount": "8.1万",
       "commentCount": "5558",
-      "increment_d1": "283"
+      "increment_d1": "303"
     },
     {
       "rank": 3206,
@@ -136,7 +136,7 @@
       "viewCount": "1029万",
       "likeCount": "1845",
       "commentCount": "55",
-      "increment_d1": "4"
+      "increment_d1": "2"
     },
     {
       "rank": 3207,
@@ -159,7 +159,7 @@
       "viewCount": "1029万",
       "likeCount": "3.9万",
       "commentCount": "1268",
-      "increment_d1": "690"
+      "increment_d1": "819"
     },
     {
       "rank": 3208,
@@ -182,33 +182,10 @@
       "viewCount": "1027万",
       "likeCount": "2.4万",
       "commentCount": "383",
-      "increment_d1": "467"
+      "increment_d1": "436"
     },
     {
       "rank": 3209,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Qj0Dmwxv-KY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Qj0Dmwxv-KY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Aqours 2ndSingle 「恋になりたいAQUARIUM」Full",
-        "url": "https://www.youtube.com/watch?v=Qj0Dmwxv-KY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Lantis Channel",
-        "url": "https://www.youtube.com/channel/UCpRh2xmGtaVhFVuyCB271pw",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-04-27",
-      "viewCount": "1026万",
-      "likeCount": "9.5万",
-      "commentCount": "5824",
-      "increment_d1": "931"
-    },
-    {
-      "rank": 3210,
       "thumb": {
         "img": "https://i.ytimg.com/vi/6gmswmbosYo/default.jpg",
         "url": "https://www.youtube.com/watch?v=6gmswmbosYo",
@@ -228,7 +205,30 @@
       "viewCount": "1026万",
       "likeCount": "25.2万",
       "commentCount": "1.4万",
-      "increment_d1": "2650"
+      "increment_d1": "2718"
+    },
+    {
+      "rank": 3210,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Qj0Dmwxv-KY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Qj0Dmwxv-KY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Aqours 2ndSingle 「恋になりたいAQUARIUM」Full",
+        "url": "https://www.youtube.com/watch?v=Qj0Dmwxv-KY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Lantis Channel",
+        "url": "https://www.youtube.com/channel/UCpRh2xmGtaVhFVuyCB271pw",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-04-27",
+      "viewCount": "1026万",
+      "likeCount": "9.5万",
+      "commentCount": "5824",
+      "increment_d1": "881"
     },
     {
       "rank": 3211,
@@ -250,8 +250,8 @@
       "publishedAt": "2021-06-01",
       "viewCount": "1026万",
       "likeCount": "18.4万",
-      "commentCount": "6932",
-      "increment_d1": "2423"
+      "commentCount": "6933",
+      "increment_d1": "2467"
     },
     {
       "rank": 3212,
@@ -274,10 +274,33 @@
       "viewCount": "1025万",
       "likeCount": "3万",
       "commentCount": "891",
-      "increment_d1": "1194"
+      "increment_d1": "1400"
     },
     {
       "rank": 3213,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ItyC0Ipi51I/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ItyC0Ipi51I",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "モーニング娘。 『シャボン玉』 (MV)",
+        "url": "https://www.youtube.com/watch?v=ItyC0Ipi51I",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "モーニング娘。",
+        "url": "https://www.youtube.com/channel/UCoKXb95K5h3sME3c9OCBaeA",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-10-18",
+      "viewCount": "1025万",
+      "likeCount": "4.2万",
+      "commentCount": "2472",
+      "increment_d1": "2567"
+    },
+    {
+      "rank": 3214,
       "thumb": {
         "img": "https://i.ytimg.com/vi/jrSg3_OpR0Y/default.jpg",
         "url": "https://www.youtube.com/watch?v=jrSg3_OpR0Y",
@@ -297,10 +320,10 @@
       "viewCount": "1025万",
       "likeCount": "4万",
       "commentCount": "1110",
-      "increment_d1": "577"
+      "increment_d1": "557"
     },
     {
-      "rank": 3214,
+      "rank": 3215,
       "thumb": {
         "img": "https://i.ytimg.com/vi/KIcwb_Wmzro/default.jpg",
         "url": "https://www.youtube.com/watch?v=KIcwb_Wmzro",
@@ -320,30 +343,7 @@
       "viewCount": "1025万",
       "likeCount": "2.7万",
       "commentCount": "1285",
-      "increment_d1": "246"
-    },
-    {
-      "rank": 3215,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ItyC0Ipi51I/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ItyC0Ipi51I",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "モーニング娘。 『シャボン玉』 (MV)",
-        "url": "https://www.youtube.com/watch?v=ItyC0Ipi51I",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "モーニング娘。",
-        "url": "https://www.youtube.com/channel/UCoKXb95K5h3sME3c9OCBaeA",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-10-18",
-      "viewCount": "1024万",
-      "likeCount": "4.2万",
-      "commentCount": "2471",
-      "increment_d1": "2631"
+      "increment_d1": "221"
     },
     {
       "rank": 3216,
@@ -366,7 +366,7 @@
       "viewCount": "1024万",
       "likeCount": "2.3万",
       "commentCount": "925",
-      "increment_d1": "591"
+      "increment_d1": "741"
     },
     {
       "rank": 3217,
@@ -389,30 +389,30 @@
       "viewCount": "1024万",
       "likeCount": "10.7万",
       "commentCount": "1652",
-      "increment_d1": "1242"
+      "increment_d1": "1149"
     },
     {
       "rank": 3218,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/R4xgeGinzUY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=R4xgeGinzUY",
+        "img": "https://i.ytimg.com/vi/GMElC5PJWIM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=GMElC5PJWIM",
         "target": "_blank"
       },
       "title": {
-        "text": "yonige -さよならアイデンティティー-【Official Video】",
-        "url": "https://www.youtube.com/watch?v=R4xgeGinzUY",
+        "text": "乃木坂46 『Out of the blue』",
+        "url": "https://www.youtube.com/watch?v=GMElC5PJWIM",
         "target": "_blank"
       },
       "channel": {
-        "text": "JMS BASE",
-        "url": "https://www.youtube.com/channel/UCj8RXhnU4RR9wnRUYQoyLqw",
+        "text": "乃木坂46 OFFICIAL YouTube CHANNEL",
+        "url": "https://www.youtube.com/channel/UCUzpZpX2wRYOk3J8QTFGxDg",
         "target": "_blank"
       },
-      "publishedAt": "2015-08-19",
+      "publishedAt": "2021-01-19",
       "viewCount": "1023万",
-      "likeCount": "5.9万",
-      "commentCount": "912",
-      "increment_d1": "526"
+      "likeCount": "7.6万",
+      "commentCount": "9445",
+      "increment_d1": "1794"
     },
     {
       "rank": 3219,
@@ -434,34 +434,11 @@
       "publishedAt": "2022-02-22",
       "viewCount": "1023万",
       "likeCount": "20.8万",
-      "commentCount": "5254",
-      "increment_d1": "1282"
+      "commentCount": "5253",
+      "increment_d1": "1420"
     },
     {
       "rank": 3220,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/GMElC5PJWIM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=GMElC5PJWIM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "乃木坂46 『Out of the blue』",
-        "url": "https://www.youtube.com/watch?v=GMElC5PJWIM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "乃木坂46 OFFICIAL YouTube CHANNEL",
-        "url": "https://www.youtube.com/channel/UCUzpZpX2wRYOk3J8QTFGxDg",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-01-19",
-      "viewCount": "1023万",
-      "likeCount": "7.6万",
-      "commentCount": "9445",
-      "increment_d1": "1604"
-    },
-    {
-      "rank": 3221,
       "thumb": {
         "img": "https://i.ytimg.com/vi/v58Gidyv55U/default.jpg",
         "url": "https://www.youtube.com/watch?v=v58Gidyv55U",
@@ -481,7 +458,30 @@
       "viewCount": "1023万",
       "likeCount": "2.3万",
       "commentCount": "1506",
-      "increment_d1": "947"
+      "increment_d1": "1087"
+    },
+    {
+      "rank": 3221,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/R4xgeGinzUY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=R4xgeGinzUY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "yonige -さよならアイデンティティー-【Official Video】",
+        "url": "https://www.youtube.com/watch?v=R4xgeGinzUY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "JMS BASE",
+        "url": "https://www.youtube.com/channel/UCj8RXhnU4RR9wnRUYQoyLqw",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-08-19",
+      "viewCount": "1023万",
+      "likeCount": "5.9万",
+      "commentCount": "912",
+      "increment_d1": "417"
     },
     {
       "rank": 3222,
@@ -504,7 +504,7 @@
       "viewCount": "1023万",
       "likeCount": "5.6万",
       "commentCount": "1442",
-      "increment_d1": "642"
+      "increment_d1": "725"
     },
     {
       "rank": 3223,
@@ -527,7 +527,7 @@
       "viewCount": "1023万",
       "likeCount": "4.4万",
       "commentCount": "2533",
-      "increment_d1": "1042"
+      "increment_d1": "1029"
     },
     {
       "rank": 3224,
@@ -550,7 +550,7 @@
       "viewCount": "1023万",
       "likeCount": "11.9万",
       "commentCount": "3175",
-      "increment_d1": "1436"
+      "increment_d1": "1341"
     },
     {
       "rank": 3225,
@@ -573,7 +573,7 @@
       "viewCount": "1021万",
       "likeCount": "6.8万",
       "commentCount": "4967",
-      "increment_d1": "466"
+      "increment_d1": "574"
     },
     {
       "rank": 3226,
@@ -596,7 +596,7 @@
       "viewCount": "1021万",
       "likeCount": "5.3万",
       "commentCount": "1324",
-      "increment_d1": "886"
+      "increment_d1": "873"
     },
     {
       "rank": 3227,
@@ -619,7 +619,7 @@
       "viewCount": "1021万",
       "likeCount": "6.6万",
       "commentCount": "1779",
-      "increment_d1": "1520"
+      "increment_d1": "1487"
     },
     {
       "rank": 3228,
@@ -641,8 +641,8 @@
       "publishedAt": "2022-11-03",
       "viewCount": "1021万",
       "likeCount": "-",
-      "commentCount": "8084",
-      "increment_d1": "1500"
+      "commentCount": "8085",
+      "increment_d1": "1554"
     },
     {
       "rank": 3229,
@@ -665,7 +665,7 @@
       "viewCount": "1020万",
       "likeCount": "6.7万",
       "commentCount": "1009",
-      "increment_d1": "1042"
+      "increment_d1": "1124"
     },
     {
       "rank": 3230,
@@ -688,7 +688,7 @@
       "viewCount": "1019万",
       "likeCount": "2.8万",
       "commentCount": "950",
-      "increment_d1": "1160"
+      "increment_d1": "1280"
     },
     {
       "rank": 3231,
@@ -711,7 +711,7 @@
       "viewCount": "1019万",
       "likeCount": "8.3万",
       "commentCount": "1.1万",
-      "increment_d1": "1057"
+      "increment_d1": "928"
     },
     {
       "rank": 3232,
@@ -734,7 +734,7 @@
       "viewCount": "1018万",
       "likeCount": "13.2万",
       "commentCount": "6317",
-      "increment_d1": "795"
+      "increment_d1": "688"
     },
     {
       "rank": 3233,
@@ -757,7 +757,7 @@
       "viewCount": "1018万",
       "likeCount": "3万",
       "commentCount": "824",
-      "increment_d1": "1112"
+      "increment_d1": "1259"
     },
     {
       "rank": 3234,
@@ -780,7 +780,7 @@
       "viewCount": "1017万",
       "likeCount": "2.1万",
       "commentCount": "2726",
-      "increment_d1": "601"
+      "increment_d1": "437"
     },
     {
       "rank": 3235,
@@ -803,33 +803,10 @@
       "viewCount": "1017万",
       "likeCount": "6.4万",
       "commentCount": "2886",
-      "increment_d1": "744"
+      "increment_d1": "737"
     },
     {
       "rank": 3236,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/rnK9FJJwG4Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=rnK9FJJwG4Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "E-girls / E.G. summer RIDER",
-        "url": "https://www.youtube.com/watch?v=rnK9FJJwG4Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-06-21",
-      "viewCount": "1016万",
-      "likeCount": "3.3万",
-      "commentCount": "2394",
-      "increment_d1": "429"
-    },
-    {
-      "rank": 3237,
       "thumb": {
         "img": "https://i.ytimg.com/vi/YBxkHMPp2jo/default.jpg",
         "url": "https://www.youtube.com/watch?v=YBxkHMPp2jo",
@@ -849,33 +826,33 @@
       "viewCount": "1016万",
       "likeCount": "-",
       "commentCount": "1.2万",
-      "increment_d1": "1600"
+      "increment_d1": "1687"
     },
     {
-      "rank": 3238,
+      "rank": 3237,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/mi1xp_xjUQo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=mi1xp_xjUQo",
+        "img": "https://i.ytimg.com/vi/rnK9FJJwG4Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=rnK9FJJwG4Q",
         "target": "_blank"
       },
       "title": {
-        "text": "whiteeeen - 「愛唄～since 2007～」",
-        "url": "https://www.youtube.com/watch?v=mi1xp_xjUQo",
+        "text": "E-girls / E.G. summer RIDER",
+        "url": "https://www.youtube.com/watch?v=rnK9FJJwG4Q",
         "target": "_blank"
       },
       "channel": {
-        "text": "UNIVERSAL MUSIC JAPAN",
-        "url": "https://www.youtube.com/channel/UCl2aT0nRejTCQO_LHZAftBw",
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
         "target": "_blank"
       },
-      "publishedAt": "2015-02-16",
+      "publishedAt": "2016-06-21",
       "viewCount": "1016万",
-      "likeCount": "3.2万",
-      "commentCount": "712",
-      "increment_d1": "223"
+      "likeCount": "3.3万",
+      "commentCount": "2394",
+      "increment_d1": "413"
     },
     {
-      "rank": 3239,
+      "rank": 3238,
       "thumb": {
         "img": "https://i.ytimg.com/vi/jNSRCvejOeY/default.jpg",
         "url": "https://www.youtube.com/watch?v=jNSRCvejOeY",
@@ -895,7 +872,30 @@
       "viewCount": "1016万",
       "likeCount": "-",
       "commentCount": "4965",
-      "increment_d1": "2016"
+      "increment_d1": "2091"
+    },
+    {
+      "rank": 3239,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/mi1xp_xjUQo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=mi1xp_xjUQo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "whiteeeen - 「愛唄～since 2007～」",
+        "url": "https://www.youtube.com/watch?v=mi1xp_xjUQo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "UNIVERSAL MUSIC JAPAN",
+        "url": "https://www.youtube.com/channel/UCl2aT0nRejTCQO_LHZAftBw",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-02-16",
+      "viewCount": "1016万",
+      "likeCount": "3.2万",
+      "commentCount": "711",
+      "increment_d1": "264"
     },
     {
       "rank": 3240,
@@ -918,7 +918,7 @@
       "viewCount": "1016万",
       "likeCount": "4.8万",
       "commentCount": "2759",
-      "increment_d1": "685"
+      "increment_d1": "642"
     },
     {
       "rank": 3241,
@@ -941,7 +941,7 @@
       "viewCount": "1016万",
       "likeCount": "3.9万",
       "commentCount": "1154",
-      "increment_d1": "1096"
+      "increment_d1": "1170"
     },
     {
       "rank": 3242,
@@ -961,13 +961,36 @@
         "target": "_blank"
       },
       "publishedAt": "2023-12-30",
-      "viewCount": "1015万",
+      "viewCount": "1016万",
       "likeCount": "10.8万",
-      "commentCount": "2007",
-      "increment_d1": "1534"
+      "commentCount": "2006",
+      "increment_d1": "1692"
     },
     {
       "rank": 3243,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/y1KqtVpmh1s/default.jpg",
+        "url": "https://www.youtube.com/watch?v=y1KqtVpmh1s",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "西野カナ『会いたくて 会いたくて(short ver.)』",
+        "url": "https://www.youtube.com/watch?v=y1KqtVpmh1s",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-07-01",
+      "viewCount": "1016万",
+      "likeCount": "4.6万",
+      "commentCount": "1613",
+      "increment_d1": "2617"
+    },
+    {
+      "rank": 3244,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3kiNgp8tv28/default.jpg",
         "url": "https://www.youtube.com/watch?v=3kiNgp8tv28",
@@ -987,30 +1010,7 @@
       "viewCount": "1015万",
       "likeCount": "2万",
       "commentCount": "887",
-      "increment_d1": "316"
-    },
-    {
-      "rank": 3244,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/y1KqtVpmh1s/default.jpg",
-        "url": "https://www.youtube.com/watch?v=y1KqtVpmh1s",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "西野カナ『会いたくて 会いたくて(short ver.)』",
-        "url": "https://www.youtube.com/watch?v=y1KqtVpmh1s",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-07-01",
-      "viewCount": "1015万",
-      "likeCount": "4.6万",
-      "commentCount": "1611",
-      "increment_d1": "2709"
+      "increment_d1": "390"
     },
     {
       "rank": 3245,
@@ -1033,7 +1033,7 @@
       "viewCount": "1012万",
       "likeCount": "3万",
       "commentCount": "878",
-      "increment_d1": "77"
+      "increment_d1": "74"
     },
     {
       "rank": 3246,
@@ -1056,7 +1056,7 @@
       "viewCount": "1011万",
       "likeCount": "3.9万",
       "commentCount": "953",
-      "increment_d1": "74"
+      "increment_d1": "64"
     },
     {
       "rank": 3247,
@@ -1079,7 +1079,7 @@
       "viewCount": "1011万",
       "likeCount": "3.3万",
       "commentCount": "819",
-      "increment_d1": "771"
+      "increment_d1": "772"
     },
     {
       "rank": 3248,
@@ -1102,7 +1102,7 @@
       "viewCount": "1011万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "722"
+      "increment_d1": "755"
     },
     {
       "rank": 3249,
@@ -1125,7 +1125,7 @@
       "viewCount": "1009万",
       "likeCount": "21.1万",
       "commentCount": "1.2万",
-      "increment_d1": "334"
+      "increment_d1": "311"
     },
     {
       "rank": 3250,
@@ -1148,7 +1148,7 @@
       "viewCount": "1008万",
       "likeCount": "2.1万",
       "commentCount": "2380",
-      "increment_d1": "339"
+      "increment_d1": "360"
     }
   ]
 }
