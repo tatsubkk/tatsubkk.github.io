@@ -18,8 +18,30 @@
         "target": "_blank"
       },
       "publishedAt": "2017-06-26",
-      "viewCount": "7890万",
+      "viewCount": "7893万",
       "likeCount": "16.7万",
+      "commentCount": "1.04万"
+    },
+    {
+      "rank": 952,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/qK9k2J-ZkGU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=qK9k2J-ZkGU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "乃木坂46『Monopoly』",
+        "url": "https://www.youtube.com/watch?v=qK9k2J-ZkGU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "乃木坂46 OFFICIAL YouTube CHANNEL",
+        "url": "https://www.youtube.com/channel/UCUzpZpX2wRYOk3J8QTFGxDg",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-11-22",
+      "viewCount": "1272万",
+      "likeCount": "6.9万",
       "commentCount": "1.04万"
     },
     {
@@ -40,30 +62,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-02-20",
-      "viewCount": "4088万",
+      "viewCount": "4089万",
       "likeCount": "47.3万",
-      "commentCount": "1.04万"
-    },
-    {
-      "rank": 953,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/qK9k2J-ZkGU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=qK9k2J-ZkGU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "乃木坂46『Monopoly』",
-        "url": "https://www.youtube.com/watch?v=qK9k2J-ZkGU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "乃木坂46 OFFICIAL YouTube CHANNEL",
-        "url": "https://www.youtube.com/channel/UCUzpZpX2wRYOk3J8QTFGxDg",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-11-22",
-      "viewCount": "1271万",
-      "likeCount": "6.9万",
       "commentCount": "1.04万"
     },
     {
@@ -128,7 +128,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-05-21",
-      "viewCount": "6957万",
+      "viewCount": "6958万",
       "likeCount": "21.1万",
       "commentCount": "1.03万"
     },
@@ -150,7 +150,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-02-08",
-      "viewCount": "1341万",
+      "viewCount": "1342万",
       "likeCount": "11.6万",
       "commentCount": "1.03万"
     },
@@ -172,7 +172,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-05-27",
-      "viewCount": "2954万",
+      "viewCount": "2955万",
       "likeCount": "36.7万",
       "commentCount": "1.03万"
     },
@@ -194,7 +194,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-28",
-      "viewCount": "1億832万",
+      "viewCount": "1億837万",
       "likeCount": "24.9万",
       "commentCount": "1.03万"
     },
@@ -216,7 +216,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-10-02",
-      "viewCount": "3933万",
+      "viewCount": "3934万",
       "likeCount": "31.3万",
       "commentCount": "1.03万"
     },
@@ -238,7 +238,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-07",
-      "viewCount": "5796万",
+      "viewCount": "5797万",
       "likeCount": "42.2万",
       "commentCount": "1.03万"
     },
@@ -326,7 +326,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-12-31",
-      "viewCount": "1734万",
+      "viewCount": "1735万",
       "likeCount": "-",
       "commentCount": "1.02万"
     },
@@ -348,12 +348,56 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-14",
-      "viewCount": "8952万",
+      "viewCount": "8957万",
       "likeCount": "41.6万",
       "commentCount": "1.02万"
     },
     {
       "rank": 967,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/J69oCCM1EcI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=J69oCCM1EcI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Hello Sleepwalkers「午夜の待ち合わせ」MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=J69oCCM1EcI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Hello Sleepwalkers Official",
+        "url": "https://www.youtube.com/channel/UCjiWGVvc7YJKxUp-YE5I0xQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-01-26",
+      "viewCount": "5017万",
+      "likeCount": "50.6万",
+      "commentCount": "1.02万"
+    },
+    {
+      "rank": 968,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/hlNWfslbSGA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=hlNWfslbSGA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "逆走少女 / ナナヲアカリ",
+        "url": "https://www.youtube.com/watch?v=hlNWfslbSGA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ナナヲアカリ OFFICIAL",
+        "url": "https://www.youtube.com/channel/UCrrNHoXQ1uTYsR6v41pDalQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-03-29",
+      "viewCount": "1165万",
+      "likeCount": "21.4万",
+      "commentCount": "1.02万"
+    },
+    {
+      "rank": 968,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vn7vfza-6fQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=vn7vfza-6fQ",
@@ -375,50 +419,6 @@
       "commentCount": "1.02万"
     },
     {
-      "rank": 968,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/hlNWfslbSGA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=hlNWfslbSGA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "逆走少女 / ナナヲアカリ",
-        "url": "https://www.youtube.com/watch?v=hlNWfslbSGA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ナナヲアカリ OFFICIAL",
-        "url": "https://www.youtube.com/channel/UCrrNHoXQ1uTYsR6v41pDalQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-03-29",
-      "viewCount": "1164万",
-      "likeCount": "21.4万",
-      "commentCount": "1.02万"
-    },
-    {
-      "rank": 969,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/J69oCCM1EcI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=J69oCCM1EcI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Hello Sleepwalkers「午夜の待ち合わせ」MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=J69oCCM1EcI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Hello Sleepwalkers Official",
-        "url": "https://www.youtube.com/channel/UCjiWGVvc7YJKxUp-YE5I0xQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-01-26",
-      "viewCount": "5016万",
-      "likeCount": "50.6万",
-      "commentCount": "1.02万"
-    },
-    {
       "rank": 970,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vkPfKnUaq5k/default.jpg",
@@ -436,7 +436,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-06-13",
-      "viewCount": "5232万",
+      "viewCount": "5237万",
       "likeCount": "39.7万",
       "commentCount": "1.02万"
     },
@@ -458,7 +458,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-27",
-      "viewCount": "5479万",
+      "viewCount": "5483万",
       "likeCount": "18.4万",
       "commentCount": "1.02万"
     },
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-08",
-      "viewCount": "1億956万",
+      "viewCount": "1億960万",
       "likeCount": "23.5万",
       "commentCount": "1.01万"
     },
@@ -612,7 +612,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-01-03",
-      "viewCount": "4423万",
+      "viewCount": "4424万",
       "likeCount": "38.5万",
       "commentCount": "1.01万"
     },
@@ -641,28 +641,6 @@
     {
       "rank": 980,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/1kUZ0LoUELI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1kUZ0LoUELI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "米津玄師 - 月を見ていた Kenshi Yonezu - Tsuki Wo Miteita / Moongazing",
-        "url": "https://www.youtube.com/watch?v=1kUZ0LoUELI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-07-09",
-      "viewCount": "2318万",
-      "likeCount": "23.9万",
-      "commentCount": "1.01万"
-    },
-    {
-      "rank": 980,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/PRJoAPH0ZGo/default.jpg",
         "url": "https://www.youtube.com/watch?v=PRJoAPH0ZGo",
         "target": "_blank"
@@ -678,30 +656,30 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-13",
-      "viewCount": "5552万",
+      "viewCount": "5555万",
       "likeCount": "18.6万",
       "commentCount": "1.01万"
     },
     {
-      "rank": 982,
+      "rank": 981,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/D_v8oX5s51g/default.jpg",
-        "url": "https://www.youtube.com/watch?v=D_v8oX5s51g",
+        "img": "https://i.ytimg.com/vi/1kUZ0LoUELI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1kUZ0LoUELI",
         "target": "_blank"
       },
       "title": {
-        "text": "バウムクーヘンエンド - Eve MV",
-        "url": "https://www.youtube.com/watch?v=D_v8oX5s51g",
+        "text": "米津玄師 - 月を見ていた Kenshi Yonezu - Tsuki Wo Miteita / Moongazing",
+        "url": "https://www.youtube.com/watch?v=1kUZ0LoUELI",
         "target": "_blank"
       },
       "channel": {
-        "text": "Eve",
-        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
         "target": "_blank"
       },
-      "publishedAt": "2019-08-29",
-      "viewCount": "1670万",
-      "likeCount": "22.8万",
+      "publishedAt": "2023-07-09",
+      "viewCount": "2319万",
+      "likeCount": "23.9万",
       "commentCount": "1.01万"
     },
     {
@@ -727,6 +705,28 @@
       "commentCount": "1.01万"
     },
     {
+      "rank": 983,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/D_v8oX5s51g/default.jpg",
+        "url": "https://www.youtube.com/watch?v=D_v8oX5s51g",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "バウムクーヘンエンド - Eve MV",
+        "url": "https://www.youtube.com/watch?v=D_v8oX5s51g",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Eve",
+        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-08-29",
+      "viewCount": "1670万",
+      "likeCount": "22.8万",
+      "commentCount": "1.01万"
+    },
+    {
       "rank": 984,
       "thumb": {
         "img": "https://i.ytimg.com/vi/pkoxFpmiCWo/default.jpg",
@@ -744,8 +744,30 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-27",
-      "viewCount": "4116万",
+      "viewCount": "4117万",
       "likeCount": "18.2万",
+      "commentCount": "1.01万"
+    },
+    {
+      "rank": 985,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/LBaeKssNPuE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=LBaeKssNPuE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow Man「BREAKOUT」Dance Practice",
+        "url": "https://www.youtube.com/watch?v=LBaeKssNPuE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Snow Man",
+        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-07-31",
+      "viewCount": "2182万",
+      "likeCount": "15.5万",
       "commentCount": "1.01万"
     },
     {
@@ -771,28 +793,6 @@
       "commentCount": "1.01万"
     },
     {
-      "rank": 986,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/LBaeKssNPuE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=LBaeKssNPuE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow Man「BREAKOUT」Dance Practice",
-        "url": "https://www.youtube.com/watch?v=LBaeKssNPuE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Snow Man",
-        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-07-31",
-      "viewCount": "2180万",
-      "likeCount": "15.5万",
-      "commentCount": "1.01万"
-    },
-    {
       "rank": 987,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Q9cT5EAEGyk/default.jpg",
@@ -810,7 +810,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-02-20",
-      "viewCount": "2012万",
+      "viewCount": "2013万",
       "likeCount": "21.2万",
       "commentCount": "1万"
     },
@@ -900,7 +900,7 @@
       "publishedAt": "2018-12-20",
       "viewCount": "4847万",
       "likeCount": "24.1万",
-      "commentCount": "9983"
+      "commentCount": "9984"
     },
     {
       "rank": 992,
@@ -922,7 +922,7 @@
       "publishedAt": "2020-03-27",
       "viewCount": "1585万",
       "likeCount": "26.3万",
-      "commentCount": "9977"
+      "commentCount": "9976"
     },
     {
       "rank": 993,
@@ -942,9 +942,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-11",
-      "viewCount": "1億531万",
+      "viewCount": "1億540万",
       "likeCount": "42.8万",
-      "commentCount": "9965"
+      "commentCount": "9968"
     },
     {
       "rank": 994,
@@ -966,7 +966,7 @@
       "publishedAt": "2021-03-05",
       "viewCount": "1420万",
       "likeCount": "14.8万",
-      "commentCount": "9955"
+      "commentCount": "9956"
     },
     {
       "rank": 995,
@@ -988,7 +988,7 @@
       "publishedAt": "2018-12-12",
       "viewCount": "2099万",
       "likeCount": "19.4万",
-      "commentCount": "9947"
+      "commentCount": "9948"
     },
     {
       "rank": 996,
@@ -1008,12 +1008,12 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-23",
-      "viewCount": "4372万",
+      "viewCount": "4373万",
       "likeCount": "22.8万",
-      "commentCount": "9938"
+      "commentCount": "9939"
     },
     {
-      "rank": 996,
+      "rank": 997,
       "thumb": {
         "img": "https://i.ytimg.com/vi/B3KHNbBDAiQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=B3KHNbBDAiQ",
@@ -1096,7 +1096,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-01-21",
-      "viewCount": "6607万",
+      "viewCount": "6608万",
       "likeCount": "16.4万",
       "commentCount": "9931"
     }

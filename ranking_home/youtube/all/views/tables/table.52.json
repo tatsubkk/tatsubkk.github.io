@@ -3,6 +3,29 @@
     {
       "rank": 2551,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/8EEKBabOWNk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=8EEKBabOWNk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "RADWIMPS - 会心の一撃 [Official Live Video from \"RADWIMPS GRAND PRIX 2014 実況生中継\"]",
+        "url": "https://www.youtube.com/watch?v=8EEKBabOWNk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "RADWIMPS",
+        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-12-03",
+      "viewCount": "1345万",
+      "likeCount": "7.4万",
+      "commentCount": "2609",
+      "increment_d1": "3913"
+    },
+    {
+      "rank": 2552,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/MHZXf5NdYf8/default.jpg",
         "url": "https://www.youtube.com/watch?v=MHZXf5NdYf8",
         "target": "_blank"
@@ -21,30 +44,7 @@
       "viewCount": "1345万",
       "likeCount": "41.7万",
       "commentCount": "2.9万",
-      "increment_d1": "521"
-    },
-    {
-      "rank": 2552,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/8EEKBabOWNk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=8EEKBabOWNk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "RADWIMPS - 会心の一撃 [Official Live Video from \"RADWIMPS GRAND PRIX 2014 実況生中継\"]",
-        "url": "https://www.youtube.com/watch?v=8EEKBabOWNk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "RADWIMPS",
-        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-12-03",
-      "viewCount": "1345万",
-      "likeCount": "7.4万",
-      "commentCount": "2608",
-      "increment_d1": "3819"
+      "increment_d1": "524"
     },
     {
       "rank": 2553,
@@ -64,10 +64,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-20",
-      "viewCount": "1344万",
+      "viewCount": "1345万",
       "likeCount": "10.3万",
       "commentCount": "1389",
-      "increment_d1": "5917"
+      "increment_d1": "6190"
     },
     {
       "rank": 2554,
@@ -90,7 +90,7 @@
       "viewCount": "1344万",
       "likeCount": "7.1万",
       "commentCount": "1210",
-      "increment_d1": "4192"
+      "increment_d1": "4644"
     },
     {
       "rank": 2555,
@@ -112,8 +112,8 @@
       "publishedAt": "2013-06-18",
       "viewCount": "1344万",
       "likeCount": "2.6万",
-      "commentCount": "1161",
-      "increment_d1": "1571"
+      "commentCount": "1162",
+      "increment_d1": "1598"
     },
     {
       "rank": 2556,
@@ -135,34 +135,11 @@
       "publishedAt": "2020-11-01",
       "viewCount": "1344万",
       "likeCount": "-",
-      "commentCount": "3007",
-      "increment_d1": "679"
+      "commentCount": "3008",
+      "increment_d1": "897"
     },
     {
       "rank": 2557,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/URo8ZdIRCmw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=URo8ZdIRCmw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "なにわ男子 - truth（なにわ男子 First Arena Tour 2021 #なにわ男子しか勝たん）",
-        "url": "https://www.youtube.com/watch?v=URo8ZdIRCmw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "なにわ男子",
-        "url": "https://www.youtube.com/channel/UCDtVdj7sm41Ysg3XSiSUH3w",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-02-03",
-      "viewCount": "1343万",
-      "likeCount": "-",
-      "commentCount": "5053",
-      "increment_d1": "1461"
-    },
-    {
-      "rank": 2558,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ZhUa0CumyxQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=ZhUa0CumyxQ",
@@ -182,7 +159,30 @@
       "viewCount": "1343万",
       "likeCount": "7.1万",
       "commentCount": "1666",
-      "increment_d1": "4537"
+      "increment_d1": "5093"
+    },
+    {
+      "rank": 2558,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/URo8ZdIRCmw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=URo8ZdIRCmw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "なにわ男子 - truth（なにわ男子 First Arena Tour 2021 #なにわ男子しか勝たん）",
+        "url": "https://www.youtube.com/watch?v=URo8ZdIRCmw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "なにわ男子",
+        "url": "https://www.youtube.com/channel/UCDtVdj7sm41Ysg3XSiSUH3w",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-02-03",
+      "viewCount": "1343万",
+      "likeCount": "-",
+      "commentCount": "5054",
+      "increment_d1": "1680"
     },
     {
       "rank": 2559,
@@ -204,34 +204,11 @@
       "publishedAt": "2020-08-12",
       "viewCount": "1342万",
       "likeCount": "12.3万",
-      "commentCount": "6210",
-      "increment_d1": "3849"
+      "commentCount": "6208",
+      "increment_d1": "4919"
     },
     {
       "rank": 2560,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/VV7LMEbd1Es/default.jpg",
-        "url": "https://www.youtube.com/watch?v=VV7LMEbd1Es",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【公式】アニメ『衛宮さんちの今日のごはん』第二話「鮭ときのこのバターホイル焼き」",
-        "url": "https://www.youtube.com/watch?v=VV7LMEbd1Es",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アニプレックス チャンネル",
-        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-02-08",
-      "viewCount": "1341万",
-      "likeCount": "11.6万",
-      "commentCount": "1万",
-      "increment_d1": "1439"
-    },
-    {
-      "rank": 2561,
       "thumb": {
         "img": "https://i.ytimg.com/vi/aIXcSB9fSyo/default.jpg",
         "url": "https://www.youtube.com/watch?v=aIXcSB9fSyo",
@@ -248,10 +225,33 @@
         "target": "_blank"
       },
       "publishedAt": "2024-04-15",
-      "viewCount": "1341万",
+      "viewCount": "1342万",
       "likeCount": "11.9万",
       "commentCount": "4.2万",
-      "increment_d1": "6104"
+      "increment_d1": "6259"
+    },
+    {
+      "rank": 2561,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/VV7LMEbd1Es/default.jpg",
+        "url": "https://www.youtube.com/watch?v=VV7LMEbd1Es",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【公式】アニメ『衛宮さんちの今日のごはん』第二話「鮭ときのこのバターホイル焼き」",
+        "url": "https://www.youtube.com/watch?v=VV7LMEbd1Es",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "アニプレックス チャンネル",
+        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-02-08",
+      "viewCount": "1342万",
+      "likeCount": "11.6万",
+      "commentCount": "1万",
+      "increment_d1": "1775"
     },
     {
       "rank": 2562,
@@ -274,7 +274,7 @@
       "viewCount": "1341万",
       "likeCount": "23万",
       "commentCount": "3068",
-      "increment_d1": "725"
+      "increment_d1": "850"
     },
     {
       "rank": 2563,
@@ -297,7 +297,7 @@
       "viewCount": "1341万",
       "likeCount": "2.6万",
       "commentCount": "5104",
-      "increment_d1": "542"
+      "increment_d1": "512"
     },
     {
       "rank": 2564,
@@ -320,7 +320,7 @@
       "viewCount": "1340万",
       "likeCount": "28.7万",
       "commentCount": "4万",
-      "increment_d1": "1000"
+      "increment_d1": "1188"
     },
     {
       "rank": 2565,
@@ -340,13 +340,36 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-04",
-      "viewCount": "1339万",
+      "viewCount": "1340万",
       "likeCount": "9.7万",
-      "commentCount": "3229",
-      "increment_d1": "5494"
+      "commentCount": "3234",
+      "increment_d1": "6253"
     },
     {
       "rank": 2566,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/WcaSSvtHFeM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=WcaSSvtHFeM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "再会 / Vaundy：MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=WcaSSvtHFeM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Vaundy",
+        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-07-18",
+      "viewCount": "1339万",
+      "likeCount": "7.4万",
+      "commentCount": "1838",
+      "increment_d1": "1.79万"
+    },
+    {
+      "rank": 2567,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Dkme-WlPElQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=Dkme-WlPElQ",
@@ -366,30 +389,7 @@
       "viewCount": "1337万",
       "likeCount": "11万",
       "commentCount": "1256",
-      "increment_d1": "2537"
-    },
-    {
-      "rank": 2567,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/WcaSSvtHFeM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=WcaSSvtHFeM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "再会 / Vaundy：MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=WcaSSvtHFeM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Vaundy",
-        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-07-18",
-      "viewCount": "1337万",
-      "likeCount": "7.4万",
-      "commentCount": "1836",
-      "increment_d1": "1.71万"
+      "increment_d1": "3416"
     },
     {
       "rank": 2568,
@@ -412,10 +412,33 @@
       "viewCount": "1337万",
       "likeCount": "7.3万",
       "commentCount": "2508",
-      "increment_d1": "2228"
+      "increment_d1": "2662"
     },
     {
       "rank": 2569,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/euBPUj8CkbA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=euBPUj8CkbA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "back number - 新しい恋人達に",
+        "url": "https://www.youtube.com/watch?v=euBPUj8CkbA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "back number",
+        "url": "https://www.youtube.com/channel/UCgipy6-EqjT-1BCDndXX1PA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-09-11",
+      "viewCount": "1335万",
+      "likeCount": "8.3万",
+      "commentCount": "1855",
+      "increment_d1": "1.27万"
+    },
+    {
+      "rank": 2570,
       "thumb": {
         "img": "https://i.ytimg.com/vi/0rvqWa8Mnsg/default.jpg",
         "url": "https://www.youtube.com/watch?v=0rvqWa8Mnsg",
@@ -435,10 +458,10 @@
       "viewCount": "1334万",
       "likeCount": "6.2万",
       "commentCount": "1903",
-      "increment_d1": "817"
+      "increment_d1": "763"
     },
     {
-      "rank": 2570,
+      "rank": 2571,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Wib2bxCiaiw/default.jpg",
         "url": "https://www.youtube.com/watch?v=Wib2bxCiaiw",
@@ -458,30 +481,7 @@
       "viewCount": "1334万",
       "likeCount": "3.5万",
       "commentCount": "1160",
-      "increment_d1": "332"
-    },
-    {
-      "rank": 2571,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/euBPUj8CkbA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=euBPUj8CkbA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "back number - 新しい恋人達に",
-        "url": "https://www.youtube.com/watch?v=euBPUj8CkbA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "back number",
-        "url": "https://www.youtube.com/channel/UCgipy6-EqjT-1BCDndXX1PA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-09-11",
-      "viewCount": "1333万",
-      "likeCount": "8.3万",
-      "commentCount": "1855",
-      "increment_d1": "1.24万"
+      "increment_d1": "374"
     },
     {
       "rank": 2572,
@@ -504,7 +504,7 @@
       "viewCount": "1332万",
       "likeCount": "8.5万",
       "commentCount": "2693",
-      "increment_d1": "2736"
+      "increment_d1": "2816"
     },
     {
       "rank": 2573,
@@ -526,8 +526,8 @@
       "publishedAt": "2009-07-02",
       "viewCount": "1332万",
       "likeCount": "4.7万",
-      "commentCount": "1844",
-      "increment_d1": "1618"
+      "commentCount": "1846",
+      "increment_d1": "2569"
     },
     {
       "rank": 2574,
@@ -550,7 +550,7 @@
       "viewCount": "1331万",
       "likeCount": "21.2万",
       "commentCount": "8201",
-      "increment_d1": "983"
+      "increment_d1": "879"
     },
     {
       "rank": 2575,
@@ -573,10 +573,33 @@
       "viewCount": "1331万",
       "likeCount": "11.3万",
       "commentCount": "2706",
-      "increment_d1": "700"
+      "increment_d1": "550"
     },
     {
       "rank": 2576,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/9HtnTPs0BOs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=9HtnTPs0BOs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "lecca / For You from BEST ALBUM 『BEST POSITIVE』",
+        "url": "https://www.youtube.com/watch?v=9HtnTPs0BOs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-04-17",
+      "viewCount": "1331万",
+      "likeCount": "2.6万",
+      "commentCount": "1247",
+      "increment_d1": "4619"
+    },
+    {
+      "rank": 2577,
       "thumb": {
         "img": "https://i.ytimg.com/vi/pWCAnLGiM2s/default.jpg",
         "url": "https://www.youtube.com/watch?v=pWCAnLGiM2s",
@@ -596,30 +619,7 @@
       "viewCount": "1331万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "621"
-    },
-    {
-      "rank": 2577,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/9HtnTPs0BOs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=9HtnTPs0BOs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "lecca / For You from BEST ALBUM 『BEST POSITIVE』",
-        "url": "https://www.youtube.com/watch?v=9HtnTPs0BOs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-04-17",
-      "viewCount": "1330万",
-      "likeCount": "2.6万",
-      "commentCount": "1247",
-      "increment_d1": "5357"
+      "increment_d1": "698"
     },
     {
       "rank": 2578,
@@ -639,10 +639,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-02-12",
-      "viewCount": "1329万",
+      "viewCount": "1330万",
       "likeCount": "17.8万",
-      "commentCount": "6470",
-      "increment_d1": "2583"
+      "commentCount": "6472",
+      "increment_d1": "2634"
     },
     {
       "rank": 2579,
@@ -664,8 +664,8 @@
       "publishedAt": "2020-02-27",
       "viewCount": "1328万",
       "likeCount": "-",
-      "commentCount": "5943",
-      "increment_d1": "678"
+      "commentCount": "5944",
+      "increment_d1": "737"
     },
     {
       "rank": 2580,
@@ -685,10 +685,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-19",
-      "viewCount": "1327万",
+      "viewCount": "1328万",
       "likeCount": "17.6万",
       "commentCount": "2436",
-      "increment_d1": "2300"
+      "increment_d1": "2290"
     },
     {
       "rank": 2581,
@@ -711,7 +711,7 @@
       "viewCount": "1327万",
       "likeCount": "4.1万",
       "commentCount": "779",
-      "increment_d1": "4268"
+      "increment_d1": "4340"
     },
     {
       "rank": 2582,
@@ -734,7 +734,7 @@
       "viewCount": "1327万",
       "likeCount": "6.4万",
       "commentCount": "2544",
-      "increment_d1": "853"
+      "increment_d1": "730"
     },
     {
       "rank": 2583,
@@ -754,10 +754,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-16",
-      "viewCount": "1326万",
+      "viewCount": "1327万",
       "likeCount": "6.9万",
       "commentCount": "1162",
-      "increment_d1": "7696"
+      "increment_d1": "7774"
     },
     {
       "rank": 2584,
@@ -779,8 +779,8 @@
       "publishedAt": "2020-08-22",
       "viewCount": "1326万",
       "likeCount": "9.2万",
-      "commentCount": "2459",
-      "increment_d1": "5305"
+      "commentCount": "2460",
+      "increment_d1": "5995"
     },
     {
       "rank": 2585,
@@ -803,7 +803,7 @@
       "viewCount": "1325万",
       "likeCount": "6.2万",
       "commentCount": "2063",
-      "increment_d1": "1671"
+      "increment_d1": "1875"
     },
     {
       "rank": 2586,
@@ -825,8 +825,8 @@
       "publishedAt": "2010-04-16",
       "viewCount": "1325万",
       "likeCount": "4.6万",
-      "commentCount": "3001",
-      "increment_d1": "1852"
+      "commentCount": "3000",
+      "increment_d1": "1863"
     },
     {
       "rank": 2587,
@@ -849,7 +849,7 @@
       "viewCount": "1325万",
       "likeCount": "4.6万",
       "commentCount": "934",
-      "increment_d1": "2171"
+      "increment_d1": "2167"
     },
     {
       "rank": 2588,
@@ -869,10 +869,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-16",
-      "viewCount": "1324万",
+      "viewCount": "1325万",
       "likeCount": "10.4万",
       "commentCount": "4763",
-      "increment_d1": "2414"
+      "increment_d1": "2456"
     },
     {
       "rank": 2589,
@@ -892,10 +892,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-22",
-      "viewCount": "1323万",
-      "likeCount": "18.2万",
-      "commentCount": "3636",
-      "increment_d1": "5819"
+      "viewCount": "1324万",
+      "likeCount": "18.3万",
+      "commentCount": "3638",
+      "increment_d1": "6984"
     },
     {
       "rank": 2590,
@@ -918,33 +918,10 @@
       "viewCount": "1323万",
       "likeCount": "13.6万",
       "commentCount": "5270",
-      "increment_d1": "2615"
+      "increment_d1": "2718"
     },
     {
       "rank": 2591,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/5QqZDJJr8Ho/default.jpg",
-        "url": "https://www.youtube.com/watch?v=5QqZDJJr8Ho",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Nissy(西島隆弘) / 「ハプニング」Music Video (short ver.)",
-        "url": "https://www.youtube.com/watch?v=5QqZDJJr8Ho",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-07-21",
-      "viewCount": "1322万",
-      "likeCount": "5.7万",
-      "commentCount": "1524",
-      "increment_d1": "407"
-    },
-    {
-      "rank": 2592,
       "thumb": {
         "img": "https://i.ytimg.com/vi/iM7BvlxBpYc/default.jpg",
         "url": "https://www.youtube.com/watch?v=iM7BvlxBpYc",
@@ -961,13 +938,59 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-15",
-      "viewCount": "1322万",
+      "viewCount": "1323万",
       "likeCount": "3.1万",
-      "commentCount": "1632",
-      "increment_d1": "1.06万"
+      "commentCount": "1633",
+      "increment_d1": "1.12万"
+    },
+    {
+      "rank": 2592,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/5QqZDJJr8Ho/default.jpg",
+        "url": "https://www.youtube.com/watch?v=5QqZDJJr8Ho",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Nissy(西島隆弘) / 「ハプニング」Music Video (short ver.)",
+        "url": "https://www.youtube.com/watch?v=5QqZDJJr8Ho",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-07-21",
+      "viewCount": "1323万",
+      "likeCount": "5.7万",
+      "commentCount": "1524",
+      "increment_d1": "441"
     },
     {
       "rank": 2593,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/7MEsNC-MdRE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=7MEsNC-MdRE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Dragon Ash｢Fantasista｣",
+        "url": "https://www.youtube.com/watch?v=7MEsNC-MdRE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Dragon Ash",
+        "url": "https://www.youtube.com/channel/UCF12AuT-beSk-61H8sxA0vw",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-02-20",
+      "viewCount": "1321万",
+      "likeCount": "4.7万",
+      "commentCount": "2255",
+      "increment_d1": "5480"
+    },
+    {
+      "rank": 2594,
       "thumb": {
         "img": "https://i.ytimg.com/vi/rJJYXzHmcyA/default.jpg",
         "url": "https://www.youtube.com/watch?v=rJJYXzHmcyA",
@@ -987,33 +1010,33 @@
       "viewCount": "1320万",
       "likeCount": "5.7万",
       "commentCount": "3540",
-      "increment_d1": "357"
-    },
-    {
-      "rank": 2594,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/7MEsNC-MdRE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=7MEsNC-MdRE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Dragon Ash｢Fantasista｣",
-        "url": "https://www.youtube.com/watch?v=7MEsNC-MdRE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Dragon Ash",
-        "url": "https://www.youtube.com/channel/UCF12AuT-beSk-61H8sxA0vw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-02-20",
-      "viewCount": "1320万",
-      "likeCount": "4.7万",
-      "commentCount": "2255",
-      "increment_d1": "5183"
+      "increment_d1": "420"
     },
     {
       "rank": 2595,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/K6dmZhdCYs0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=K6dmZhdCYs0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "松任谷由実 - Hello,my friend",
+        "url": "https://www.youtube.com/watch?v=K6dmZhdCYs0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "松任谷由実",
+        "url": "https://www.youtube.com/channel/UCDD7BcoKphATW57_46mPFLg",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-08-23",
+      "viewCount": "1320万",
+      "likeCount": "5.2万",
+      "commentCount": "2427",
+      "increment_d1": "7249"
+    },
+    {
+      "rank": 2596,
       "thumb": {
         "img": "https://i.ytimg.com/vi/w9YcY0Hg5nQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=w9YcY0Hg5nQ",
@@ -1033,30 +1056,7 @@
       "viewCount": "1319万",
       "likeCount": "-",
       "commentCount": "1.6万",
-      "increment_d1": "346"
-    },
-    {
-      "rank": 2596,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/K6dmZhdCYs0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=K6dmZhdCYs0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "松任谷由実 - Hello,my friend",
-        "url": "https://www.youtube.com/watch?v=K6dmZhdCYs0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "松任谷由実",
-        "url": "https://www.youtube.com/channel/UCDD7BcoKphATW57_46mPFLg",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-08-23",
-      "viewCount": "1319万",
-      "likeCount": "5.2万",
-      "commentCount": "2427",
-      "increment_d1": "7892"
+      "increment_d1": "387"
     },
     {
       "rank": 2597,
@@ -1078,8 +1078,8 @@
       "publishedAt": "2020-10-18",
       "viewCount": "1318万",
       "likeCount": "14.2万",
-      "commentCount": "9362",
-      "increment_d1": "661"
+      "commentCount": "9360",
+      "increment_d1": "710"
     },
     {
       "rank": 2598,
@@ -1102,7 +1102,7 @@
       "viewCount": "1318万",
       "likeCount": "41.8万",
       "commentCount": "2.3万",
-      "increment_d1": "761"
+      "increment_d1": "812"
     },
     {
       "rank": 2599,
@@ -1125,30 +1125,30 @@
       "viewCount": "1318万",
       "likeCount": "8.4万",
       "commentCount": "1.1万",
-      "increment_d1": "1264"
+      "increment_d1": "1372"
     },
     {
       "rank": 2600,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/ZfBHMucSxCA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ZfBHMucSxCA",
+        "img": "https://i.ytimg.com/vi/0vJrBbcsfac/default.jpg",
+        "url": "https://www.youtube.com/watch?v=0vJrBbcsfac",
         "target": "_blank"
       },
       "title": {
-        "text": "【MV】空腹／まふまふ",
-        "url": "https://www.youtube.com/watch?v=ZfBHMucSxCA",
+        "text": "Superfly 『フレア』(Music Video) 〜NHK連続テレビ小説「スカーレット」主題歌〜",
+        "url": "https://www.youtube.com/watch?v=0vJrBbcsfac",
         "target": "_blank"
       },
       "channel": {
-        "text": "まふまふちゃんねる",
-        "url": "https://www.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg",
+        "text": "Superfly",
+        "url": "https://www.youtube.com/channel/UCW1vck-e025HMBwix6cW_qw",
         "target": "_blank"
       },
-      "publishedAt": "2021-07-10",
+      "publishedAt": "2019-10-31",
       "viewCount": "1317万",
-      "likeCount": "16.4万",
-      "commentCount": "5527",
-      "increment_d1": "833"
+      "likeCount": "5.5万",
+      "commentCount": "2296",
+      "increment_d1": "1737"
     }
   ]
 }

@@ -21,7 +21,7 @@
       "viewCount": "1726万",
       "likeCount": "33.6万",
       "commentCount": "1.8万",
-      "increment_d1": "3032"
+      "increment_d1": "3126"
     },
     {
       "rank": 2002,
@@ -44,7 +44,7 @@
       "viewCount": "1726万",
       "likeCount": "4.1万",
       "commentCount": "1873",
-      "increment_d1": "1667"
+      "increment_d1": "1712"
     },
     {
       "rank": 2003,
@@ -64,10 +64,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-04",
-      "viewCount": "1724万",
+      "viewCount": "1725万",
       "likeCount": "19.9万",
-      "commentCount": "5338",
-      "increment_d1": "6463"
+      "commentCount": "5337",
+      "increment_d1": "6502"
     },
     {
       "rank": 2004,
@@ -90,10 +90,33 @@
       "viewCount": "1724万",
       "likeCount": "16.3万",
       "commentCount": "5728",
-      "increment_d1": "4426"
+      "increment_d1": "3976"
     },
     {
       "rank": 2005,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/GTnMIACX6TM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=GTnMIACX6TM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV】歯ラ歯ラ🦷🪥✨",
+        "url": "https://www.youtube.com/watch?v=GTnMIACX6TM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "しなこ Shinako / ASMR",
+        "url": "https://www.youtube.com/channel/UCSPkmZyeHlDNE-6YMSg5Fbg",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-10-18",
+      "viewCount": "1723万",
+      "likeCount": "5.5万",
+      "commentCount": "2906",
+      "increment_d1": "1.29万"
+    },
+    {
+      "rank": 2006,
       "thumb": {
         "img": "https://i.ytimg.com/vi/r-qhj3sJ5qs/default.jpg",
         "url": "https://www.youtube.com/watch?v=r-qhj3sJ5qs",
@@ -112,57 +135,11 @@
       "publishedAt": "2011-03-18",
       "viewCount": "1723万",
       "likeCount": "-",
-      "commentCount": "5763",
-      "increment_d1": "1081"
-    },
-    {
-      "rank": 2006,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/GTnMIACX6TM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=GTnMIACX6TM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV】歯ラ歯ラ🦷🪥✨",
-        "url": "https://www.youtube.com/watch?v=GTnMIACX6TM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "しなこ Shinako / ASMR",
-        "url": "https://www.youtube.com/channel/UCSPkmZyeHlDNE-6YMSg5Fbg",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-10-18",
-      "viewCount": "1722万",
-      "likeCount": "5.5万",
-      "commentCount": "2906",
-      "increment_d1": "8737"
+      "commentCount": "5764",
+      "increment_d1": "1100"
     },
     {
       "rank": 2007,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/AgfUewgwPOw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=AgfUewgwPOw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "広瀬香美 / ロマンスの神様",
-        "url": "https://www.youtube.com/watch?v=AgfUewgwPOw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Victor Entertainment",
-        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-06-15",
-      "viewCount": "1721万",
-      "likeCount": "7.5万",
-      "commentCount": "2731",
-      "increment_d1": "864"
-    },
-    {
-      "rank": 2008,
       "thumb": {
         "img": "https://i.ytimg.com/vi/AsJsnGNVQho/default.jpg",
         "url": "https://www.youtube.com/watch?v=AsJsnGNVQho",
@@ -182,7 +159,30 @@
       "viewCount": "1721万",
       "likeCount": "-",
       "commentCount": "1.1万",
-      "increment_d1": "1259"
+      "increment_d1": "1434"
+    },
+    {
+      "rank": 2008,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/AgfUewgwPOw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=AgfUewgwPOw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "広瀬香美 / ロマンスの神様",
+        "url": "https://www.youtube.com/watch?v=AgfUewgwPOw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Victor Entertainment",
+        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-06-15",
+      "viewCount": "1721万",
+      "likeCount": "7.5万",
+      "commentCount": "2731",
+      "increment_d1": "899"
     },
     {
       "rank": 2009,
@@ -204,11 +204,34 @@
       "publishedAt": "2017-09-01",
       "viewCount": "1719万",
       "likeCount": "13.5万",
-      "commentCount": "5221",
-      "increment_d1": "3273"
+      "commentCount": "5223",
+      "increment_d1": "3400"
     },
     {
       "rank": 2010,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ZgRPDC4xE4A/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ZgRPDC4xE4A",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "B’z / LOVE PHANTOM【B'z LIVE-GYM Pleasure 2023 -STARS-】",
+        "url": "https://www.youtube.com/watch?v=ZgRPDC4xE4A",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Bz",
+        "url": "https://www.youtube.com/channel/UCpEEcJhBig2GqUFxcXjqiLg",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-01-10",
+      "viewCount": "1717万",
+      "likeCount": "8.5万",
+      "commentCount": "4352",
+      "increment_d1": "4.37万"
+    },
+    {
+      "rank": 2011,
       "thumb": {
         "img": "https://i.ytimg.com/vi/1nOIWI4OzD0/default.jpg",
         "url": "https://www.youtube.com/watch?v=1nOIWI4OzD0",
@@ -227,31 +250,8 @@
       "publishedAt": "2013-07-12",
       "viewCount": "1716万",
       "likeCount": "5.4万",
-      "commentCount": "2222",
-      "increment_d1": "4236"
-    },
-    {
-      "rank": 2011,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/pCFBijViryA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=pCFBijViryA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "E-girls / Dance Dance Dance",
-        "url": "https://www.youtube.com/watch?v=pCFBijViryA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-08-31",
-      "viewCount": "1715万",
-      "likeCount": "4.1万",
-      "commentCount": "1718",
-      "increment_d1": "674"
+      "commentCount": "2223",
+      "increment_d1": "4416"
     },
     {
       "rank": 2012,
@@ -271,13 +271,36 @@
         "target": "_blank"
       },
       "publishedAt": "2024-02-19",
-      "viewCount": "1715万",
+      "viewCount": "1716万",
       "likeCount": "12.9万",
       "commentCount": "3228",
-      "increment_d1": "7298"
+      "increment_d1": "7635"
     },
     {
       "rank": 2013,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/pCFBijViryA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=pCFBijViryA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "E-girls / Dance Dance Dance",
+        "url": "https://www.youtube.com/watch?v=pCFBijViryA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-08-31",
+      "viewCount": "1715万",
+      "likeCount": "4.1万",
+      "commentCount": "1718",
+      "increment_d1": "661"
+    },
+    {
+      "rank": 2014,
       "thumb": {
         "img": "https://i.ytimg.com/vi/0ls3T69eV2o/default.jpg",
         "url": "https://www.youtube.com/watch?v=0ls3T69eV2o",
@@ -297,33 +320,56 @@
       "viewCount": "1714万",
       "likeCount": "6万",
       "commentCount": "3529",
-      "increment_d1": "414"
-    },
-    {
-      "rank": 2014,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ZgRPDC4xE4A/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ZgRPDC4xE4A",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "B’z / LOVE PHANTOM【B'z LIVE-GYM Pleasure 2023 -STARS-】",
-        "url": "https://www.youtube.com/watch?v=ZgRPDC4xE4A",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Bz",
-        "url": "https://www.youtube.com/channel/UCpEEcJhBig2GqUFxcXjqiLg",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-01-10",
-      "viewCount": "1713万",
-      "likeCount": "8.5万",
-      "commentCount": "4348",
-      "increment_d1": "3.93万"
+      "increment_d1": "349"
     },
     {
       "rank": 2015,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/rLKqcYWb15w/default.jpg",
+        "url": "https://www.youtube.com/watch?v=rLKqcYWb15w",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "timelesz ｢Rock this Party｣ (YouTube Ver.)",
+        "url": "https://www.youtube.com/watch?v=rLKqcYWb15w",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "timelesz [タイムレス]",
+        "url": "https://www.youtube.com/channel/UCgXJMvOBqHk5wJFRKZfIgWQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-03-21",
+      "viewCount": "1712万",
+      "likeCount": "17.9万",
+      "commentCount": "2.3万",
+      "increment_d1": "2.42万"
+    },
+    {
+      "rank": 2016,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/4X_l0bw_oEw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=4X_l0bw_oEw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Official髭男dism - ゼロのままでいられたら［Official Live Video］",
+        "url": "https://www.youtube.com/watch?v=4X_l0bw_oEw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Official髭男dism",
+        "url": "https://www.youtube.com/channel/UC3vg17IZ1IV73xx069jG44w",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-09-02",
+      "viewCount": "1711万",
+      "likeCount": "7.6万",
+      "commentCount": "2936",
+      "increment_d1": "2463"
+    },
+    {
+      "rank": 2017,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ZWhGin6T2LE/default.jpg",
         "url": "https://www.youtube.com/watch?v=ZWhGin6T2LE",
@@ -343,10 +389,10 @@
       "viewCount": "1711万",
       "likeCount": "7.4万",
       "commentCount": "2161",
-      "increment_d1": "1462"
+      "increment_d1": "1576"
     },
     {
-      "rank": 2016,
+      "rank": 2018,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Q3n6wMdqnhk/default.jpg",
         "url": "https://www.youtube.com/watch?v=Q3n6wMdqnhk",
@@ -366,53 +412,7 @@
       "viewCount": "1711万",
       "likeCount": "-",
       "commentCount": "1.1万",
-      "increment_d1": "356"
-    },
-    {
-      "rank": 2017,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/4X_l0bw_oEw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=4X_l0bw_oEw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Official髭男dism - ゼロのままでいられたら［Official Live Video］",
-        "url": "https://www.youtube.com/watch?v=4X_l0bw_oEw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Official髭男dism",
-        "url": "https://www.youtube.com/channel/UC3vg17IZ1IV73xx069jG44w",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-09-02",
-      "viewCount": "1711万",
-      "likeCount": "7.6万",
-      "commentCount": "2932",
-      "increment_d1": "2391"
-    },
-    {
-      "rank": 2018,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/rLKqcYWb15w/default.jpg",
-        "url": "https://www.youtube.com/watch?v=rLKqcYWb15w",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "timelesz ｢Rock this Party｣ (YouTube Ver.)",
-        "url": "https://www.youtube.com/watch?v=rLKqcYWb15w",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "timelesz [タイムレス]",
-        "url": "https://www.youtube.com/channel/UCgXJMvOBqHk5wJFRKZfIgWQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-03-21",
-      "viewCount": "1710万",
-      "likeCount": "17.9万",
-      "commentCount": "2.3万",
-      "increment_d1": "2.14万"
+      "increment_d1": "368"
     },
     {
       "rank": 2019,
@@ -434,8 +434,8 @@
       "publishedAt": "2023-12-06",
       "viewCount": "1710万",
       "likeCount": "-",
-      "commentCount": "7189",
-      "increment_d1": "7586"
+      "commentCount": "7194",
+      "increment_d1": "8985"
     },
     {
       "rank": 2020,
@@ -457,34 +457,11 @@
       "publishedAt": "2023-01-27",
       "viewCount": "1709万",
       "likeCount": "29.6万",
-      "commentCount": "6813",
-      "increment_d1": "2620"
+      "commentCount": "6814",
+      "increment_d1": "2887"
     },
     {
       "rank": 2021,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Ro-_cbfdrYE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Ro-_cbfdrYE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BABYMETAL - Ijime,Dame,Zettai - Live at Sonisphere 2014,UK (OFFICIAL)",
-        "url": "https://www.youtube.com/watch?v=Ro-_cbfdrYE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BABYMETAL",
-        "url": "https://www.youtube.com/channel/UC33_tIj4m1_XaqfFcomShvw",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-08-26",
-      "viewCount": "1709万",
-      "likeCount": "12.6万",
-      "commentCount": "8980",
-      "increment_d1": "1221"
-    },
-    {
-      "rank": 2022,
       "thumb": {
         "img": "https://i.ytimg.com/vi/mHlmk8P5UfM/default.jpg",
         "url": "https://www.youtube.com/watch?v=mHlmk8P5UfM",
@@ -504,7 +481,30 @@
       "viewCount": "1709万",
       "likeCount": "3.4万",
       "commentCount": "1010",
-      "increment_d1": "3081"
+      "increment_d1": "3793"
+    },
+    {
+      "rank": 2022,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Ro-_cbfdrYE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Ro-_cbfdrYE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BABYMETAL - Ijime,Dame,Zettai - Live at Sonisphere 2014,UK (OFFICIAL)",
+        "url": "https://www.youtube.com/watch?v=Ro-_cbfdrYE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BABYMETAL",
+        "url": "https://www.youtube.com/channel/UC33_tIj4m1_XaqfFcomShvw",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-08-26",
+      "viewCount": "1709万",
+      "likeCount": "12.6万",
+      "commentCount": "8981",
+      "increment_d1": "1719"
     },
     {
       "rank": 2023,
@@ -524,10 +524,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-28",
-      "viewCount": "1708万",
+      "viewCount": "1709万",
       "likeCount": "4.2万",
-      "commentCount": "1574",
-      "increment_d1": "4799"
+      "commentCount": "1575",
+      "increment_d1": "4115"
     },
     {
       "rank": 2024,
@@ -550,7 +550,7 @@
       "viewCount": "1708万",
       "likeCount": "-",
       "commentCount": "6450",
-      "increment_d1": "1082"
+      "increment_d1": "1214"
     },
     {
       "rank": 2025,
@@ -573,7 +573,7 @@
       "viewCount": "1708万",
       "likeCount": "13.5万",
       "commentCount": "2.1万",
-      "increment_d1": "747"
+      "increment_d1": "568"
     },
     {
       "rank": 2026,
@@ -593,10 +593,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-30",
-      "viewCount": "1707万",
+      "viewCount": "1708万",
       "likeCount": "14.1万",
-      "commentCount": "2943",
-      "increment_d1": "7818"
+      "commentCount": "2945",
+      "increment_d1": "7831"
     },
     {
       "rank": 2027,
@@ -617,12 +617,35 @@
       },
       "publishedAt": "2016-07-07",
       "viewCount": "1707万",
-      "likeCount": "1.4万",
+      "likeCount": "1.3万",
       "commentCount": "311",
-      "increment_d1": "175"
+      "increment_d1": "223"
     },
     {
       "rank": 2028,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ovrRdVce9Mc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ovrRdVce9Mc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ももクロ【MV】『おどるポンポコリン / Odoru Pompokolin』ANIMATION MUSIC VIDEO / ももいろクローバーZ(MOMOIRO CLOVER Z)",
+        "url": "https://www.youtube.com/watch?v=ovrRdVce9Mc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Momoiro Clover Z Channel",
+        "url": "https://www.youtube.com/channel/UC6YNWTm6zuMFsjqd0PO3G-Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-08-16",
+      "viewCount": "1706万",
+      "likeCount": "3.6万",
+      "commentCount": "1449",
+      "increment_d1": "8196"
+    },
+    {
+      "rank": 2029,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qVYZFxp9Sv0/default.jpg",
         "url": "https://www.youtube.com/watch?v=qVYZFxp9Sv0",
@@ -641,11 +664,11 @@
       "publishedAt": "2018-08-14",
       "viewCount": "1706万",
       "likeCount": "7.1万",
-      "commentCount": "2237",
-      "increment_d1": "2808"
+      "commentCount": "2239",
+      "increment_d1": "2935"
     },
     {
-      "rank": 2029,
+      "rank": 2030,
       "thumb": {
         "img": "https://i.ytimg.com/vi/TZRvO0S-TLU/default.jpg",
         "url": "https://www.youtube.com/watch?v=TZRvO0S-TLU",
@@ -665,30 +688,7 @@
       "viewCount": "1706万",
       "likeCount": "16.8万",
       "commentCount": "1.3万",
-      "increment_d1": "1311"
-    },
-    {
-      "rank": 2030,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ovrRdVce9Mc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ovrRdVce9Mc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ももクロ【MV】『おどるポンポコリン / Odoru Pompokolin』ANIMATION MUSIC VIDEO / ももいろクローバーZ(MOMOIRO CLOVER Z)",
-        "url": "https://www.youtube.com/watch?v=ovrRdVce9Mc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Momoiro Clover Z Channel",
-        "url": "https://www.youtube.com/channel/UC6YNWTm6zuMFsjqd0PO3G-Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-08-16",
-      "viewCount": "1706万",
-      "likeCount": "3.6万",
-      "commentCount": "1448",
-      "increment_d1": "6885"
+      "increment_d1": "1312"
     },
     {
       "rank": 2031,
@@ -708,13 +708,36 @@
         "target": "_blank"
       },
       "publishedAt": "2019-07-10",
-      "viewCount": "1705万",
+      "viewCount": "1706万",
       "likeCount": "11万",
       "commentCount": "5066",
-      "increment_d1": "3302"
+      "increment_d1": "3721"
     },
     {
       "rank": 2032,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/CW-Dbbuk0uE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=CW-Dbbuk0uE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SARM - BONBON GiRL (Lyric Video)",
+        "url": "https://www.youtube.com/watch?v=CW-Dbbuk0uE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SARM Official YouTube",
+        "url": "https://www.youtube.com/channel/UCFjmEqKVGqWv_WG-ctnb8zA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-10-10",
+      "viewCount": "1705万",
+      "likeCount": "12.4万",
+      "commentCount": "895",
+      "increment_d1": "1.24万"
+    },
+    {
+      "rank": 2033,
       "thumb": {
         "img": "https://i.ytimg.com/vi/YhDhxjaCA-w/default.jpg",
         "url": "https://www.youtube.com/watch?v=YhDhxjaCA-w",
@@ -731,13 +754,13 @@
         "target": "_blank"
       },
       "publishedAt": "2015-10-30",
-      "viewCount": "1704万",
+      "viewCount": "1705万",
       "likeCount": "12.3万",
       "commentCount": "3195",
-      "increment_d1": "770"
+      "increment_d1": "715"
     },
     {
-      "rank": 2033,
+      "rank": 2034,
       "thumb": {
         "img": "https://i.ytimg.com/vi/TIokp4MonxE/default.jpg",
         "url": "https://www.youtube.com/watch?v=TIokp4MonxE",
@@ -757,10 +780,10 @@
       "viewCount": "1704万",
       "likeCount": "3.6万",
       "commentCount": "3431",
-      "increment_d1": "520"
+      "increment_d1": "493"
     },
     {
-      "rank": 2034,
+      "rank": 2035,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Ho1LgF8ys-c/default.jpg",
         "url": "https://www.youtube.com/watch?v=Ho1LgF8ys-c",
@@ -780,10 +803,10 @@
       "viewCount": "1704万",
       "likeCount": "29.8万",
       "commentCount": "1.6万",
-      "increment_d1": "1762"
+      "increment_d1": "1840"
     },
     {
-      "rank": 2035,
+      "rank": 2036,
       "thumb": {
         "img": "https://i.ytimg.com/vi/GiuxvmiULhI/default.jpg",
         "url": "https://www.youtube.com/watch?v=GiuxvmiULhI",
@@ -803,30 +826,7 @@
       "viewCount": "1704万",
       "likeCount": "5.6万",
       "commentCount": "3456",
-      "increment_d1": "2540"
-    },
-    {
-      "rank": 2036,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/CW-Dbbuk0uE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=CW-Dbbuk0uE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SARM - BONBON GiRL (Lyric Video)",
-        "url": "https://www.youtube.com/watch?v=CW-Dbbuk0uE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SARM Official YouTube",
-        "url": "https://www.youtube.com/channel/UCFjmEqKVGqWv_WG-ctnb8zA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-10-10",
-      "viewCount": "1704万",
-      "likeCount": "12.4万",
-      "commentCount": "895",
-      "increment_d1": "1.05万"
+      "increment_d1": "2534"
     },
     {
       "rank": 2037,
@@ -849,7 +849,7 @@
       "viewCount": "1704万",
       "likeCount": "26.3万",
       "commentCount": "8287",
-      "increment_d1": "3217"
+      "increment_d1": "3427"
     },
     {
       "rank": 2038,
@@ -871,8 +871,8 @@
       "publishedAt": "2010-09-01",
       "viewCount": "1703万",
       "likeCount": "3.9万",
-      "commentCount": "2699",
-      "increment_d1": "3049"
+      "commentCount": "2700",
+      "increment_d1": "3228"
     },
     {
       "rank": 2039,
@@ -894,8 +894,8 @@
       "publishedAt": "2022-03-18",
       "viewCount": "1702万",
       "likeCount": "50.7万",
-      "commentCount": "7498",
-      "increment_d1": "2926"
+      "commentCount": "7497",
+      "increment_d1": "3349"
     },
     {
       "rank": 2040,
@@ -918,7 +918,7 @@
       "viewCount": "1701万",
       "likeCount": "11.9万",
       "commentCount": "4448",
-      "increment_d1": "217"
+      "increment_d1": "200"
     },
     {
       "rank": 2041,
@@ -941,7 +941,7 @@
       "viewCount": "1700万",
       "likeCount": "-",
       "commentCount": "1.1万",
-      "increment_d1": "1569"
+      "increment_d1": "1684"
     },
     {
       "rank": 2042,
@@ -961,10 +961,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-01",
-      "viewCount": "1699万",
+      "viewCount": "1700万",
       "likeCount": "23.1万",
-      "commentCount": "3613",
-      "increment_d1": "2978"
+      "commentCount": "3614",
+      "increment_d1": "3191"
     },
     {
       "rank": 2043,
@@ -987,7 +987,7 @@
       "viewCount": "1698万",
       "likeCount": "-",
       "commentCount": "8379",
-      "increment_d1": "499"
+      "increment_d1": "712"
     },
     {
       "rank": 2044,
@@ -1010,7 +1010,7 @@
       "viewCount": "1697万",
       "likeCount": "39.9万",
       "commentCount": "4.2万",
-      "increment_d1": "3244"
+      "increment_d1": "3319"
     },
     {
       "rank": 2045,
@@ -1033,7 +1033,7 @@
       "viewCount": "1697万",
       "likeCount": "11.5万",
       "commentCount": "1969",
-      "increment_d1": "676"
+      "increment_d1": "660"
     },
     {
       "rank": 2046,
@@ -1053,13 +1053,36 @@
         "target": "_blank"
       },
       "publishedAt": "2024-04-05",
-      "viewCount": "1696万",
+      "viewCount": "1697万",
       "likeCount": "12.3万",
       "commentCount": "2万",
-      "increment_d1": "3756"
+      "increment_d1": "3868"
     },
     {
       "rank": 2047,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/TS5DBE95CcU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=TS5DBE95CcU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【童謡】いぬのおまわりさん / 横山だいすけ",
+        "url": "https://www.youtube.com/watch?v=TS5DBE95CcU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "横山だいすけチャンネル",
+        "url": "https://www.youtube.com/channel/UCp62WC9ESpa8Rwqph2XO6Zw",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-07-29",
+      "viewCount": "1695万",
+      "likeCount": "1万",
+      "commentCount": "-",
+      "increment_d1": "9150"
+    },
+    {
+      "rank": 2048,
       "thumb": {
         "img": "https://i.ytimg.com/vi/FodIcZ6TLxg/default.jpg",
         "url": "https://www.youtube.com/watch?v=FodIcZ6TLxg",
@@ -1079,10 +1102,10 @@
       "viewCount": "1695万",
       "likeCount": "14.2万",
       "commentCount": "4425",
-      "increment_d1": "867"
+      "increment_d1": "818"
     },
     {
-      "rank": 2048,
+      "rank": 2049,
       "thumb": {
         "img": "https://i.ytimg.com/vi/asZ0SVwCec4/default.jpg",
         "url": "https://www.youtube.com/watch?v=asZ0SVwCec4",
@@ -1102,30 +1125,7 @@
       "viewCount": "1695万",
       "likeCount": "31万",
       "commentCount": "1.4万",
-      "increment_d1": "1874"
-    },
-    {
-      "rank": 2049,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/TS5DBE95CcU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=TS5DBE95CcU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【童謡】いぬのおまわりさん / 横山だいすけ",
-        "url": "https://www.youtube.com/watch?v=TS5DBE95CcU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "横山だいすけチャンネル",
-        "url": "https://www.youtube.com/channel/UCp62WC9ESpa8Rwqph2XO6Zw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-07-29",
-      "viewCount": "1694万",
-      "likeCount": "1万",
-      "commentCount": "-",
-      "increment_d1": "7199"
+      "increment_d1": "1967"
     },
     {
       "rank": 2050,
@@ -1148,7 +1148,7 @@
       "viewCount": "1694万",
       "likeCount": "33万",
       "commentCount": "5216",
-      "increment_d1": "8956"
+      "increment_d1": "7728"
     }
   ]
 }

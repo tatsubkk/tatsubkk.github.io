@@ -3,27 +3,49 @@
     {
       "rank": 1001,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/1wxTksLZ1Mw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1wxTksLZ1Mw",
+        "img": "https://i.ytimg.com/vi/mAGyQ5Rmz7o/default.jpg",
+        "url": "https://www.youtube.com/watch?v=mAGyQ5Rmz7o",
         "target": "_blank"
       },
       "title": {
-        "text": "レミオロメン - 粉雪",
-        "url": "https://www.youtube.com/watch?v=1wxTksLZ1Mw",
+        "text": "Kyary Pamyu Pamyu - HARAJUKU IYAHOI(きゃりーぱみゅぱみゅ - 原宿いやほい) Official Music Video",
+        "url": "https://www.youtube.com/watch?v=mAGyQ5Rmz7o",
         "target": "_blank"
       },
       "channel": {
-        "text": "レミオロメン",
-        "url": "https://www.youtube.com/channel/UCnwV0i25fH8pBrzuJ3WrHTw",
+        "text": "Kyary Pamyu Pamyu ( きゃりーぱみゅぱみゅ )",
+        "url": "https://www.youtube.com/channel/UCMMEwnArQWFNU1VrRlbIDtg",
         "target": "_blank"
       },
-      "publishedAt": "2020-12-15",
-      "viewCount": "7024万",
-      "likeCount": "21.96万",
-      "commentCount": "8772"
+      "publishedAt": "2017-01-10",
+      "viewCount": "2950万",
+      "likeCount": "21.97万",
+      "commentCount": "1.1万"
     },
     {
       "rank": 1002,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/TELFpTs29Ag/default.jpg",
+        "url": "https://www.youtube.com/watch?v=TELFpTs29Ag",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Fujii Kaze Stadium Live “Feelin' Good” [day1]",
+        "url": "https://www.youtube.com/watch?v=TELFpTs29Ag",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Fujii Kaze",
+        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-08-24",
+      "viewCount": "1178万",
+      "likeCount": "21.97万",
+      "commentCount": "1.7万"
+    },
+    {
+      "rank": 1003,
       "thumb": {
         "img": "https://i.ytimg.com/vi/aeM6VF2XOn0/default.jpg",
         "url": "https://www.youtube.com/watch?v=aeM6VF2XOn0",
@@ -43,28 +65,6 @@
       "viewCount": "4516万",
       "likeCount": "21.96万",
       "commentCount": "3.7万"
-    },
-    {
-      "rank": 1003,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/TELFpTs29Ag/default.jpg",
-        "url": "https://www.youtube.com/watch?v=TELFpTs29Ag",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Fujii Kaze Stadium Live “Feelin' Good” [day1]",
-        "url": "https://www.youtube.com/watch?v=TELFpTs29Ag",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Fujii Kaze",
-        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-08-24",
-      "viewCount": "1177万",
-      "likeCount": "21.96万",
-      "commentCount": "1.7万"
     },
     {
       "rank": 1004,
@@ -106,9 +106,9 @@
         "target": "_blank"
       },
       "publishedAt": "2025-04-08",
-      "viewCount": "1782万",
-      "likeCount": "21.85万",
-      "commentCount": "6060"
+      "viewCount": "1785万",
+      "likeCount": "21.87万",
+      "commentCount": "6062"
     },
     {
       "rank": 1006,
@@ -152,7 +152,7 @@
       "publishedAt": "2012-02-29",
       "viewCount": "1687万",
       "likeCount": "21.83万",
-      "commentCount": "6622"
+      "commentCount": "6623"
     },
     {
       "rank": 1008,
@@ -172,12 +172,56 @@
         "target": "_blank"
       },
       "publishedAt": "2025-04-11",
-      "viewCount": "1120万",
-      "likeCount": "21.8万",
+      "viewCount": "1122万",
+      "likeCount": "21.81万",
       "commentCount": "7670"
     },
     {
       "rank": 1009,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/EMYa07zHC9w/default.jpg",
+        "url": "https://www.youtube.com/watch?v=EMYa07zHC9w",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "back number - 黄色",
+        "url": "https://www.youtube.com/watch?v=EMYa07zHC9w",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "back number",
+        "url": "https://www.youtube.com/channel/UCgipy6-EqjT-1BCDndXX1PA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-09-26",
+      "viewCount": "3208万",
+      "likeCount": "21.8万",
+      "commentCount": "7158"
+    },
+    {
+      "rank": 1010,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/eW620xcBnVE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=eW620xcBnVE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【syudou】インザバックルーム",
+        "url": "https://www.youtube.com/watch?v=eW620xcBnVE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "syudou",
+        "url": "https://www.youtube.com/channel/UCraC7460yGQF4GDmSjCecpQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-11-09",
+      "viewCount": "2066万",
+      "likeCount": "21.8万",
+      "commentCount": "2836"
+    },
+    {
+      "rank": 1011,
       "thumb": {
         "img": "https://i.ytimg.com/vi/4VUKDx0wfwY/default.jpg",
         "url": "https://www.youtube.com/watch?v=4VUKDx0wfwY",
@@ -195,52 +239,8 @@
       },
       "publishedAt": "2021-09-04",
       "viewCount": "1512万",
-      "likeCount": "21.79万",
+      "likeCount": "21.8万",
       "commentCount": "1.3万"
-    },
-    {
-      "rank": 1010,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Zs1sHB6DNR4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Zs1sHB6DNR4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV】No.1／mona（CV：夏川椎菜）【HoneyWorks】",
-        "url": "https://www.youtube.com/watch?v=Zs1sHB6DNR4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "HoneyWorks OFFICIAL",
-        "url": "https://www.youtube.com/channel/UCAaGaynFpku5cAx6OOSrW-w",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-12-28",
-      "viewCount": "1523万",
-      "likeCount": "21.79万",
-      "commentCount": "5917"
-    },
-    {
-      "rank": 1011,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/eW620xcBnVE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=eW620xcBnVE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【syudou】インザバックルーム",
-        "url": "https://www.youtube.com/watch?v=eW620xcBnVE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "syudou",
-        "url": "https://www.youtube.com/channel/UCraC7460yGQF4GDmSjCecpQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-11-09",
-      "viewCount": "2065万",
-      "likeCount": "21.79万",
-      "commentCount": "2835"
     },
     {
       "rank": 1012,
@@ -260,34 +260,34 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-11",
-      "viewCount": "2973万",
-      "likeCount": "21.79万",
-      "commentCount": "8609"
+      "viewCount": "2975万",
+      "likeCount": "21.8万",
+      "commentCount": "8610"
     },
     {
       "rank": 1013,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/EMYa07zHC9w/default.jpg",
-        "url": "https://www.youtube.com/watch?v=EMYa07zHC9w",
+        "img": "https://i.ytimg.com/vi/Zs1sHB6DNR4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Zs1sHB6DNR4",
         "target": "_blank"
       },
       "title": {
-        "text": "back number - 黄色",
-        "url": "https://www.youtube.com/watch?v=EMYa07zHC9w",
+        "text": "【MV】No.1／mona（CV：夏川椎菜）【HoneyWorks】",
+        "url": "https://www.youtube.com/watch?v=Zs1sHB6DNR4",
         "target": "_blank"
       },
       "channel": {
-        "text": "back number",
-        "url": "https://www.youtube.com/channel/UCgipy6-EqjT-1BCDndXX1PA",
+        "text": "HoneyWorks OFFICIAL",
+        "url": "https://www.youtube.com/channel/UCAaGaynFpku5cAx6OOSrW-w",
         "target": "_blank"
       },
-      "publishedAt": "2021-09-26",
-      "viewCount": "3206万",
-      "likeCount": "21.79万",
-      "commentCount": "7157"
+      "publishedAt": "2019-12-28",
+      "viewCount": "1523万",
+      "likeCount": "21.8万",
+      "commentCount": "5917"
     },
     {
-      "rank": 1014,
+      "rank": 1013,
       "thumb": {
         "img": "https://i.ytimg.com/vi/r105CzDvoo0/default.jpg",
         "url": "https://www.youtube.com/watch?v=r105CzDvoo0",
@@ -304,9 +304,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-06",
-      "viewCount": "3005万",
-      "likeCount": "21.79万",
-      "commentCount": "4532"
+      "viewCount": "3006万",
+      "likeCount": "21.8万",
+      "commentCount": "4533"
     },
     {
       "rank": 1015,
@@ -328,7 +328,7 @@
       "publishedAt": "2019-06-05",
       "viewCount": "2087万",
       "likeCount": "21.75万",
-      "commentCount": "5914"
+      "commentCount": "5913"
     },
     {
       "rank": 1016,
@@ -348,8 +348,8 @@
         "target": "_blank"
       },
       "publishedAt": "2025-06-28",
-      "viewCount": "1578万",
-      "likeCount": "21.71万",
+      "viewCount": "1580万",
+      "likeCount": "21.72万",
       "commentCount": "-"
     },
     {
@@ -370,7 +370,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-09-17",
-      "viewCount": "1683万",
+      "viewCount": "1684万",
       "likeCount": "21.67万",
       "commentCount": "2215"
     },
@@ -394,7 +394,7 @@
       "publishedAt": "2018-09-19",
       "viewCount": "2520万",
       "likeCount": "21.66万",
-      "commentCount": "4882"
+      "commentCount": "4885"
     },
     {
       "rank": 1019,
@@ -414,9 +414,9 @@
         "target": "_blank"
       },
       "publishedAt": "2011-02-22",
-      "viewCount": "4390万",
+      "viewCount": "4391万",
       "likeCount": "21.64万",
-      "commentCount": "5561"
+      "commentCount": "5562"
     },
     {
       "rank": 1020,
@@ -436,9 +436,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-16",
-      "viewCount": "2248万",
-      "likeCount": "21.57万",
-      "commentCount": "3630"
+      "viewCount": "2252万",
+      "likeCount": "21.61万",
+      "commentCount": "3632"
     },
     {
       "rank": 1021,
@@ -458,9 +458,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-24",
-      "viewCount": "2394万",
+      "viewCount": "2395万",
       "likeCount": "21.57万",
-      "commentCount": "5406"
+      "commentCount": "5407"
     },
     {
       "rank": 1022,
@@ -480,8 +480,8 @@
         "target": "_blank"
       },
       "publishedAt": "2017-08-01",
-      "viewCount": "4243万",
-      "likeCount": "21.54万",
+      "viewCount": "4245万",
+      "likeCount": "21.55万",
       "commentCount": "1.1万"
     },
     {
@@ -502,12 +502,34 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-07",
-      "viewCount": "2240万",
+      "viewCount": "2241万",
       "likeCount": "21.5万",
       "commentCount": "3943"
     },
     {
       "rank": 1024,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/uP8CtPMAd5Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=uP8CtPMAd5Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "もう一度 - Tani Yuuki【MV】",
+        "url": "https://www.youtube.com/watch?v=uP8CtPMAd5Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Tani Yuuki",
+        "url": "https://www.youtube.com/channel/UCkPhQEwdob-Dc539qnJASvg",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-09-21",
+      "viewCount": "3322万",
+      "likeCount": "21.49万",
+      "commentCount": "3931"
+    },
+    {
+      "rank": 1025,
       "thumb": {
         "img": "https://i.ytimg.com/vi/A7XyqSc0VDE/default.jpg",
         "url": "https://www.youtube.com/watch?v=A7XyqSc0VDE",
@@ -529,28 +551,6 @@
       "commentCount": "8652"
     },
     {
-      "rank": 1025,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/uP8CtPMAd5Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=uP8CtPMAd5Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "もう一度 - Tani Yuuki【MV】",
-        "url": "https://www.youtube.com/watch?v=uP8CtPMAd5Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Tani Yuuki",
-        "url": "https://www.youtube.com/channel/UCkPhQEwdob-Dc539qnJASvg",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-09-21",
-      "viewCount": "3321万",
-      "likeCount": "21.49万",
-      "commentCount": "3932"
-    },
-    {
       "rank": 1026,
       "thumb": {
         "img": "https://i.ytimg.com/vi/evtoG-4dLM4/default.jpg",
@@ -568,9 +568,9 @@
         "target": "_blank"
       },
       "publishedAt": "2025-05-18",
-      "viewCount": "1480万",
-      "likeCount": "21.45万",
-      "commentCount": "5444"
+      "viewCount": "1483万",
+      "likeCount": "21.46万",
+      "commentCount": "5447"
     },
     {
       "rank": 1027,
@@ -592,7 +592,7 @@
       "publishedAt": "2024-06-20",
       "viewCount": "1222万",
       "likeCount": "21.44万",
-      "commentCount": "2264"
+      "commentCount": "2262"
     },
     {
       "rank": 1028,
@@ -612,9 +612,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-21",
-      "viewCount": "1643万",
+      "viewCount": "1644万",
       "likeCount": "21.43万",
-      "commentCount": "5342"
+      "commentCount": "5343"
     },
     {
       "rank": 1029,
@@ -634,7 +634,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-02-19",
-      "viewCount": "3740万",
+      "viewCount": "3741万",
       "likeCount": "21.4万",
       "commentCount": "3850"
     },
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2011-03-04",
-      "viewCount": "5874万",
+      "viewCount": "5875万",
       "likeCount": "21.39万",
       "commentCount": "1.1万"
     },
@@ -700,34 +700,12 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-29",
-      "viewCount": "1164万",
-      "likeCount": "21.37万",
+      "viewCount": "1165万",
+      "likeCount": "21.38万",
       "commentCount": "1万"
     },
     {
-      "rank": 1033,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/qIcIpSyHcyM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=qIcIpSyHcyM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "King Gnu - TWILIGHT!!!",
-        "url": "https://www.youtube.com/watch?v=qIcIpSyHcyM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "King Gnu official YouTube channel",
-        "url": "https://www.youtube.com/channel/UCkB8HnJSDSJ2hkLQFUc-YrQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-04-18",
-      "viewCount": "2388万",
-      "likeCount": "21.37万",
-      "commentCount": "7778"
-    },
-    {
-      "rank": 1034,
+      "rank": 1032,
       "thumb": {
         "img": "https://i.ytimg.com/vi/yMatGl4PySY/default.jpg",
         "url": "https://www.youtube.com/watch?v=yMatGl4PySY",
@@ -744,9 +722,31 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-28",
-      "viewCount": "1583万",
-      "likeCount": "21.36万",
+      "viewCount": "1585万",
+      "likeCount": "21.38万",
       "commentCount": "1846"
+    },
+    {
+      "rank": 1034,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/qIcIpSyHcyM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=qIcIpSyHcyM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "King Gnu - TWILIGHT!!!",
+        "url": "https://www.youtube.com/watch?v=qIcIpSyHcyM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "King Gnu official YouTube channel",
+        "url": "https://www.youtube.com/channel/UCkB8HnJSDSJ2hkLQFUc-YrQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-04-18",
+      "viewCount": "2392万",
+      "likeCount": "21.38万",
+      "commentCount": "7781"
     },
     {
       "rank": 1035,
@@ -766,34 +766,12 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-18",
-      "viewCount": "2424万",
+      "viewCount": "2425万",
       "likeCount": "21.36万",
       "commentCount": "6378"
     },
     {
       "rank": 1036,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/vyUMYYc8lxU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=vyUMYYc8lxU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SiM - KiLLiNG ME (OFFICIAL VIDEO)",
-        "url": "https://www.youtube.com/watch?v=vyUMYYc8lxU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "gil soundworks",
-        "url": "https://www.youtube.com/channel/UCI8OpwyikQhEDKXvwDgemJA",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-09-22",
-      "viewCount": "4006万",
-      "likeCount": "21.35万",
-      "commentCount": "8615"
-    },
-    {
-      "rank": 1037,
       "thumb": {
         "img": "https://i.ytimg.com/vi/CO0Eoj9aPcs/default.jpg",
         "url": "https://www.youtube.com/watch?v=CO0Eoj9aPcs",
@@ -810,34 +788,34 @@
         "target": "_blank"
       },
       "publishedAt": "2025-05-02",
-      "viewCount": "1940万",
-      "likeCount": "21.35万",
+      "viewCount": "1943万",
+      "likeCount": "21.36万",
       "commentCount": "1.4万"
     },
     {
-      "rank": 1038,
+      "rank": 1037,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/yWp6SXivHBQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=yWp6SXivHBQ",
+        "img": "https://i.ytimg.com/vi/vyUMYYc8lxU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=vyUMYYc8lxU",
         "target": "_blank"
       },
       "title": {
-        "text": "TVアニメ『かぐや様は告らせたい-ウルトラロマンティック-』第5話エンディング映像♪「My Nonfiction」",
-        "url": "https://www.youtube.com/watch?v=yWp6SXivHBQ",
+        "text": "SiM - KiLLiNG ME (OFFICIAL VIDEO)",
+        "url": "https://www.youtube.com/watch?v=vyUMYYc8lxU",
         "target": "_blank"
       },
       "channel": {
-        "text": "アニプレックス チャンネル",
-        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
+        "text": "gil soundworks",
+        "url": "https://www.youtube.com/channel/UCI8OpwyikQhEDKXvwDgemJA",
         "target": "_blank"
       },
-      "publishedAt": "2022-05-06",
-      "viewCount": "1247万",
-      "likeCount": "21.32万",
-      "commentCount": "6587"
+      "publishedAt": "2011-09-22",
+      "viewCount": "4007万",
+      "likeCount": "21.35万",
+      "commentCount": "8615"
     },
     {
-      "rank": 1039,
+      "rank": 1038,
       "thumb": {
         "img": "https://i.ytimg.com/vi/H0MuwWjM4ok/default.jpg",
         "url": "https://www.youtube.com/watch?v=H0MuwWjM4ok",
@@ -854,9 +832,31 @@
         "target": "_blank"
       },
       "publishedAt": "2025-06-12",
-      "viewCount": "3827万",
+      "viewCount": "3831万",
       "likeCount": "21.32万",
       "commentCount": "2.2万"
+    },
+    {
+      "rank": 1039,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/yWp6SXivHBQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=yWp6SXivHBQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "TVアニメ『かぐや様は告らせたい-ウルトラロマンティック-』第5話エンディング映像♪「My Nonfiction」",
+        "url": "https://www.youtube.com/watch?v=yWp6SXivHBQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "アニプレックス チャンネル",
+        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-05-06",
+      "viewCount": "1248万",
+      "likeCount": "21.32万",
+      "commentCount": "6589"
     },
     {
       "rank": 1040,
@@ -876,34 +876,12 @@
         "target": "_blank"
       },
       "publishedAt": "2015-05-12",
-      "viewCount": "5335万",
-      "likeCount": "21.27万",
-      "commentCount": "5915"
+      "viewCount": "5336万",
+      "likeCount": "21.28万",
+      "commentCount": "5920"
     },
     {
       "rank": 1041,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Q9cT5EAEGyk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Q9cT5EAEGyk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Home Made Kazoku - Shooting Star",
-        "url": "https://www.youtube.com/watch?v=Q9cT5EAEGyk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "homemadekazokuVEVO",
-        "url": "https://www.youtube.com/channel/UC2l3LjZQJBfDahGpnyI-Exg",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-02-20",
-      "viewCount": "2012万",
-      "likeCount": "21.24万",
-      "commentCount": "1万"
-    },
-    {
-      "rank": 1042,
       "thumb": {
         "img": "https://i.ytimg.com/vi/0HS3ZvAiiTU/default.jpg",
         "url": "https://www.youtube.com/watch?v=0HS3ZvAiiTU",
@@ -920,9 +898,31 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-30",
-      "viewCount": "3422万",
-      "likeCount": "21.23万",
-      "commentCount": "3645"
+      "viewCount": "3424万",
+      "likeCount": "21.24万",
+      "commentCount": "3644"
+    },
+    {
+      "rank": 1042,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Q9cT5EAEGyk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Q9cT5EAEGyk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Home Made Kazoku - Shooting Star",
+        "url": "https://www.youtube.com/watch?v=Q9cT5EAEGyk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "homemadekazokuVEVO",
+        "url": "https://www.youtube.com/channel/UC2l3LjZQJBfDahGpnyI-Exg",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-02-20",
+      "viewCount": "2013万",
+      "likeCount": "21.24万",
+      "commentCount": "1万"
     },
     {
       "rank": 1043,
@@ -942,34 +942,12 @@
         "target": "_blank"
       },
       "publishedAt": "2011-07-15",
-      "viewCount": "1億225万",
+      "viewCount": "1億226万",
       "likeCount": "21.22万",
       "commentCount": "1.7万"
     },
     {
       "rank": 1044,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/vNa83RXmZdg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=vNa83RXmZdg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "アンビバレント - Eve MV",
-        "url": "https://www.youtube.com/watch?v=vNa83RXmZdg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Eve",
-        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-08-24",
-      "viewCount": "1331万",
-      "likeCount": "21.2万",
-      "commentCount": "8201"
-    },
-    {
-      "rank": 1045,
       "thumb": {
         "img": "https://i.ytimg.com/vi/CJbI-5kkkqc/default.jpg",
         "url": "https://www.youtube.com/watch?v=CJbI-5kkkqc",
@@ -989,6 +967,28 @@
       "viewCount": "6193万",
       "likeCount": "21.2万",
       "commentCount": "1.4万"
+    },
+    {
+      "rank": 1045,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/vNa83RXmZdg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=vNa83RXmZdg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "アンビバレント - Eve MV",
+        "url": "https://www.youtube.com/watch?v=vNa83RXmZdg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Eve",
+        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-08-24",
+      "viewCount": "1331万",
+      "likeCount": "21.2万",
+      "commentCount": "8201"
     },
     {
       "rank": 1046,
@@ -1030,9 +1030,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-10-31",
-      "viewCount": "4661万",
-      "likeCount": "21.18万",
-      "commentCount": "3438"
+      "viewCount": "4663万",
+      "likeCount": "21.19万",
+      "commentCount": "3440"
     },
     {
       "rank": 1048,
@@ -1074,8 +1074,8 @@
         "target": "_blank"
       },
       "publishedAt": "2010-08-16",
-      "viewCount": "2885万",
-      "likeCount": "21.15万",
+      "viewCount": "2886万",
+      "likeCount": "21.16万",
       "commentCount": "3.3万"
     },
     {
@@ -1096,7 +1096,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-05-21",
-      "viewCount": "6957万",
+      "viewCount": "6958万",
       "likeCount": "21.14万",
       "commentCount": "1万"
     }

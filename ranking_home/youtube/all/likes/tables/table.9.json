@@ -3,28 +3,6 @@
     {
       "rank": 401,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/sPLqsLsooJY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=sPLqsLsooJY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "米津玄師, 宇多田ヒカル Kenshi Yonezu, Hikaru Utada -  JANE DOE",
-        "url": "https://www.youtube.com/watch?v=sPLqsLsooJY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-09-23",
-      "viewCount": "3152万",
-      "likeCount": "51.35万",
-      "commentCount": "1.7万"
-    },
-    {
-      "rank": 402,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/EYGGd2NKwtI/default.jpg",
         "url": "https://www.youtube.com/watch?v=EYGGd2NKwtI",
         "target": "_blank"
@@ -40,9 +18,31 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-11",
-      "viewCount": "1411万",
-      "likeCount": "51.35万",
+      "viewCount": "1413万",
+      "likeCount": "51.39万",
       "commentCount": "1.6万"
+    },
+    {
+      "rank": 402,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/PbISczErpKY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=PbISczErpKY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE - WanteD! WanteD!",
+        "url": "https://www.youtube.com/watch?v=PbISczErpKY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "MrsGREENAPPLEVEVO",
+        "url": "https://www.youtube.com/channel/UC5e0xdyGS7OEgyLroMxwrbw",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-09-08",
+      "viewCount": "6447万",
+      "likeCount": "51.38万",
+      "commentCount": "1.8万"
     },
     {
       "rank": 403,
@@ -106,9 +106,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-13",
-      "viewCount": "1億816万",
-      "likeCount": "50.68万",
-      "commentCount": "7281"
+      "viewCount": "1億817万",
+      "likeCount": "50.69万",
+      "commentCount": "7280"
     },
     {
       "rank": 406,
@@ -129,8 +129,8 @@
       },
       "publishedAt": "2022-03-18",
       "viewCount": "1702万",
-      "likeCount": "50.67万",
-      "commentCount": "7498"
+      "likeCount": "50.68万",
+      "commentCount": "7497"
     },
     {
       "rank": 407,
@@ -150,8 +150,8 @@
         "target": "_blank"
       },
       "publishedAt": "2013-03-11",
-      "viewCount": "8097万",
-      "likeCount": "50.61万",
+      "viewCount": "8098万",
+      "likeCount": "50.63万",
       "commentCount": "3万"
     },
     {
@@ -172,34 +172,12 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-25",
-      "viewCount": "3924万",
+      "viewCount": "3925万",
       "likeCount": "50.58万",
       "commentCount": "1.3万"
     },
     {
       "rank": 409,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/J69oCCM1EcI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=J69oCCM1EcI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Hello Sleepwalkers「午夜の待ち合わせ」MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=J69oCCM1EcI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Hello Sleepwalkers Official",
-        "url": "https://www.youtube.com/channel/UCjiWGVvc7YJKxUp-YE5I0xQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-01-26",
-      "viewCount": "5016万",
-      "likeCount": "50.55万",
-      "commentCount": "1万"
-    },
-    {
-      "rank": 410,
       "thumb": {
         "img": "https://i.ytimg.com/vi/a8dgNdJVluc/default.jpg",
         "url": "https://www.youtube.com/watch?v=a8dgNdJVluc",
@@ -216,9 +194,31 @@
         "target": "_blank"
       },
       "publishedAt": "2025-03-15",
-      "viewCount": "4781万",
-      "likeCount": "50.53万",
+      "viewCount": "4792万",
+      "likeCount": "50.58万",
       "commentCount": "1.5万"
+    },
+    {
+      "rank": 410,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/J69oCCM1EcI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=J69oCCM1EcI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Hello Sleepwalkers「午夜の待ち合わせ」MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=J69oCCM1EcI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Hello Sleepwalkers Official",
+        "url": "https://www.youtube.com/channel/UCjiWGVvc7YJKxUp-YE5I0xQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-01-26",
+      "viewCount": "5017万",
+      "likeCount": "50.56万",
+      "commentCount": "1万"
     },
     {
       "rank": 411,
@@ -238,8 +238,8 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-27",
-      "viewCount": "8375万",
-      "likeCount": "50.46万",
+      "viewCount": "8377万",
+      "likeCount": "50.47万",
       "commentCount": "1.3万"
     },
     {
@@ -260,8 +260,8 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-11",
-      "viewCount": "5879万",
-      "likeCount": "50.26万",
+      "viewCount": "5880万",
+      "likeCount": "50.27万",
       "commentCount": "1.9万"
     },
     {
@@ -282,34 +282,12 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-09",
-      "viewCount": "7931万",
-      "likeCount": "50.08万",
-      "commentCount": "7729"
+      "viewCount": "7933万",
+      "likeCount": "50.09万",
+      "commentCount": "7730"
     },
     {
       "rank": 414,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/i-DZukWFR64/default.jpg",
-        "url": "https://www.youtube.com/watch?v=i-DZukWFR64",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "テレキャスタービーボーイ(long ver.) / すりぃ feat.鏡音レン",
-        "url": "https://www.youtube.com/watch?v=i-DZukWFR64",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "すりぃ",
-        "url": "https://www.youtube.com/channel/UCHGKS3VDKxu3N1u9naM0XYA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-09-12",
-      "viewCount": "6045万",
-      "likeCount": "50.03万",
-      "commentCount": "1.1万"
-    },
-    {
-      "rank": 415,
       "thumb": {
         "img": "https://i.ytimg.com/vi/F38EuG2dAyM/default.jpg",
         "url": "https://www.youtube.com/watch?v=F38EuG2dAyM",
@@ -326,9 +304,31 @@
         "target": "_blank"
       },
       "publishedAt": "2024-02-28",
-      "viewCount": "4789万",
-      "likeCount": "49.99万",
+      "viewCount": "4798万",
+      "likeCount": "50.04万",
       "commentCount": "1.2万"
+    },
+    {
+      "rank": 415,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/i-DZukWFR64/default.jpg",
+        "url": "https://www.youtube.com/watch?v=i-DZukWFR64",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "テレキャスタービーボーイ(long ver.) / すりぃ feat.鏡音レン",
+        "url": "https://www.youtube.com/watch?v=i-DZukWFR64",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "すりぃ",
+        "url": "https://www.youtube.com/channel/UCHGKS3VDKxu3N1u9naM0XYA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-09-12",
+      "viewCount": "6047万",
+      "likeCount": "50.04万",
+      "commentCount": "1.1万"
     },
     {
       "rank": 416,
@@ -370,8 +370,8 @@
         "target": "_blank"
       },
       "publishedAt": "2016-02-24",
-      "viewCount": "8924万",
-      "likeCount": "49.74万",
+      "viewCount": "8926万",
+      "likeCount": "49.75万",
       "commentCount": "1.1万"
     },
     {
@@ -392,8 +392,8 @@
         "target": "_blank"
       },
       "publishedAt": "2010-12-11",
-      "viewCount": "1億4222万",
-      "likeCount": "49.62万",
+      "viewCount": "1億4224万",
+      "likeCount": "49.63万",
       "commentCount": "2.3万"
     },
     {
@@ -414,12 +414,34 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-16",
-      "viewCount": "4167万",
-      "likeCount": "49.58万",
-      "commentCount": "7610"
+      "viewCount": "4168万",
+      "likeCount": "49.59万",
+      "commentCount": "7611"
     },
     {
       "rank": 420,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/pUH9vCsvq08/default.jpg",
+        "url": "https://www.youtube.com/watch?v=pUH9vCsvq08",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "春嵐 / 初音ミク",
+        "url": "https://www.youtube.com/watch?v=pUH9vCsvq08",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "john / TOOBOE",
+        "url": "https://www.youtube.com/channel/UC9rPALOT-ZVc7VEXATYSNCA",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-12-07",
+      "viewCount": "5367万",
+      "likeCount": "49.57万",
+      "commentCount": "1.1万"
+    },
+    {
+      "rank": 421,
       "thumb": {
         "img": "https://i.ytimg.com/vi/zh-4M5blbiI/default.jpg",
         "url": "https://www.youtube.com/watch?v=zh-4M5blbiI",
@@ -441,28 +463,6 @@
       "commentCount": "1.1万"
     },
     {
-      "rank": 421,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/pUH9vCsvq08/default.jpg",
-        "url": "https://www.youtube.com/watch?v=pUH9vCsvq08",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "春嵐 / 初音ミク",
-        "url": "https://www.youtube.com/watch?v=pUH9vCsvq08",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "john / TOOBOE",
-        "url": "https://www.youtube.com/channel/UC9rPALOT-ZVc7VEXATYSNCA",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-12-07",
-      "viewCount": "5364万",
-      "likeCount": "49.55万",
-      "commentCount": "1.1万"
-    },
-    {
       "rank": 422,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Ey_NHZNYTeE/default.jpg",
@@ -480,8 +480,8 @@
         "target": "_blank"
       },
       "publishedAt": "2013-09-13",
-      "viewCount": "8091万",
-      "likeCount": "49.48万",
+      "viewCount": "8094万",
+      "likeCount": "49.49万",
       "commentCount": "2.4万"
     },
     {
@@ -502,7 +502,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-07",
-      "viewCount": "5582万",
+      "viewCount": "5584万",
       "likeCount": "49.38万",
       "commentCount": "1.1万"
     },
@@ -546,8 +546,8 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-09",
-      "viewCount": "2317万",
-      "likeCount": "49.31万",
+      "viewCount": "2318万",
+      "likeCount": "49.32万",
       "commentCount": "3.6万"
     },
     {
@@ -568,7 +568,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-27",
-      "viewCount": "2621万",
+      "viewCount": "2622万",
       "likeCount": "49.23万",
       "commentCount": "1.6万"
     },
@@ -590,8 +590,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-01-19",
-      "viewCount": "8789万",
-      "likeCount": "49.04万",
+      "viewCount": "8792万",
+      "likeCount": "49.06万",
       "commentCount": "1.6万"
     },
     {
@@ -634,8 +634,8 @@
         "target": "_blank"
       },
       "publishedAt": "2019-02-07",
-      "viewCount": "3693万",
-      "likeCount": "48.68万",
+      "viewCount": "3694万",
+      "likeCount": "48.69万",
       "commentCount": "1.6万"
     },
     {
@@ -656,9 +656,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-22",
-      "viewCount": "3611万",
-      "likeCount": "48.57万",
-      "commentCount": "9821"
+      "viewCount": "3612万",
+      "likeCount": "48.58万",
+      "commentCount": "9820"
     },
     {
       "rank": 431,
@@ -678,8 +678,8 @@
         "target": "_blank"
       },
       "publishedAt": "2021-05-18",
-      "viewCount": "6920万",
-      "likeCount": "48.55万",
+      "viewCount": "6921万",
+      "likeCount": "48.56万",
       "commentCount": "7501"
     },
     {
@@ -707,28 +707,6 @@
     {
       "rank": 433,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/XPUN-w543bc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=XPUN-w543bc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "King Gnu - Teenager Forever",
-        "url": "https://www.youtube.com/watch?v=XPUN-w543bc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "King Gnu official YouTube channel",
-        "url": "https://www.youtube.com/channel/UCkB8HnJSDSJ2hkLQFUc-YrQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-01-09",
-      "viewCount": "7535万",
-      "likeCount": "48.32万",
-      "commentCount": "2.6万"
-    },
-    {
-      "rank": 434,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/8tQiWHXSGN0/default.jpg",
         "url": "https://www.youtube.com/watch?v=8tQiWHXSGN0",
         "target": "_blank"
@@ -744,9 +722,31 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-05",
-      "viewCount": "6657万",
-      "likeCount": "48.31万",
+      "viewCount": "6662万",
+      "likeCount": "48.33万",
       "commentCount": "1.3万"
+    },
+    {
+      "rank": 434,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/XPUN-w543bc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=XPUN-w543bc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "King Gnu - Teenager Forever",
+        "url": "https://www.youtube.com/watch?v=XPUN-w543bc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "King Gnu official YouTube channel",
+        "url": "https://www.youtube.com/channel/UCkB8HnJSDSJ2hkLQFUc-YrQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-01-09",
+      "viewCount": "7536万",
+      "likeCount": "48.32万",
+      "commentCount": "2.6万"
     },
     {
       "rank": 435,
@@ -766,8 +766,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-24",
-      "viewCount": "6686万",
-      "likeCount": "48.29万",
+      "viewCount": "6692万",
+      "likeCount": "48.31万",
       "commentCount": "1.9万"
     },
     {
@@ -788,8 +788,8 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-26",
-      "viewCount": "3659万",
-      "likeCount": "48.06万",
+      "viewCount": "3660万",
+      "likeCount": "48.07万",
       "commentCount": "2.9万"
     },
     {
@@ -810,8 +810,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-23",
-      "viewCount": "3534万",
-      "likeCount": "47.94万",
+      "viewCount": "3536万",
+      "likeCount": "47.96万",
       "commentCount": "1.6万"
     },
     {
@@ -832,9 +832,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-15",
-      "viewCount": "6586万",
-      "likeCount": "47.86万",
-      "commentCount": "5660"
+      "viewCount": "6591万",
+      "likeCount": "47.88万",
+      "commentCount": "5663"
     },
     {
       "rank": 439,
@@ -854,8 +854,8 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-18",
-      "viewCount": "5434万",
-      "likeCount": "47.85万",
+      "viewCount": "5435万",
+      "likeCount": "47.86万",
       "commentCount": "1.4万"
     },
     {
@@ -876,7 +876,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-12-30",
-      "viewCount": "3916万",
+      "viewCount": "3917万",
       "likeCount": "47.46万",
       "commentCount": "3872"
     },
@@ -898,8 +898,8 @@
         "target": "_blank"
       },
       "publishedAt": "2024-10-08",
-      "viewCount": "2885万",
-      "likeCount": "47.45万",
+      "viewCount": "2887万",
+      "likeCount": "47.46万",
       "commentCount": "2万"
     },
     {
@@ -920,8 +920,8 @@
         "target": "_blank"
       },
       "publishedAt": "2013-01-07",
-      "viewCount": "5739万",
-      "likeCount": "47.41万",
+      "viewCount": "5741万",
+      "likeCount": "47.42万",
       "commentCount": "2.1万"
     },
     {
@@ -942,12 +942,34 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-04",
-      "viewCount": "7847万",
-      "likeCount": "47.34万",
+      "viewCount": "7849万",
+      "likeCount": "47.35万",
       "commentCount": "3万"
     },
     {
       "rank": 444,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/lZGo8jcEW2M/default.jpg",
+        "url": "https://www.youtube.com/watch?v=lZGo8jcEW2M",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Ado】アタシは問題作",
+        "url": "https://www.youtube.com/watch?v=lZGo8jcEW2M",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ado",
+        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-02-20",
+      "viewCount": "4089万",
+      "likeCount": "47.33万",
+      "commentCount": "1万"
+    },
+    {
+      "rank": 445,
       "thumb": {
         "img": "https://i.ytimg.com/vi/9eyyhtOrKPI/default.jpg",
         "url": "https://www.youtube.com/watch?v=9eyyhtOrKPI",
@@ -965,30 +987,8 @@
       },
       "publishedAt": "2014-07-19",
       "viewCount": "4418万",
-      "likeCount": "47.32万",
+      "likeCount": "47.33万",
       "commentCount": "1.3万"
-    },
-    {
-      "rank": 445,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/lZGo8jcEW2M/default.jpg",
-        "url": "https://www.youtube.com/watch?v=lZGo8jcEW2M",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Ado】アタシは問題作",
-        "url": "https://www.youtube.com/watch?v=lZGo8jcEW2M",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ado",
-        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-02-20",
-      "viewCount": "4088万",
-      "likeCount": "47.32万",
-      "commentCount": "1万"
     },
     {
       "rank": 446,
@@ -1008,8 +1008,8 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-08",
-      "viewCount": "1億8754万",
-      "likeCount": "47.23万",
+      "viewCount": "1億8755万",
+      "likeCount": "47.24万",
       "commentCount": "4万"
     },
     {
@@ -1030,8 +1030,8 @@
         "target": "_blank"
       },
       "publishedAt": "2022-02-03",
-      "viewCount": "6943万",
-      "likeCount": "47.19万",
+      "viewCount": "6946万",
+      "likeCount": "47.21万",
       "commentCount": "1.6万"
     },
     {
@@ -1052,8 +1052,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-25",
-      "viewCount": "1億1498万",
-      "likeCount": "46.97万",
+      "viewCount": "1億1508万",
+      "likeCount": "46.99万",
       "commentCount": "2万"
     },
     {
@@ -1074,9 +1074,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-26",
-      "viewCount": "3453万",
-      "likeCount": "46.82万",
-      "commentCount": "9416"
+      "viewCount": "3455万",
+      "likeCount": "46.83万",
+      "commentCount": "9415"
     },
     {
       "rank": 450,
@@ -1097,7 +1097,7 @@
       },
       "publishedAt": "2020-05-11",
       "viewCount": "1304万",
-      "likeCount": "46.72万",
+      "likeCount": "46.73万",
       "commentCount": "1.9万"
     }
   ]
