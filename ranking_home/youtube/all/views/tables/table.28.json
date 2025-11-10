@@ -3,6 +3,29 @@
     {
       "rank": 1351,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/JeYJnSuYgrs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=JeYJnSuYgrs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MISIA - つつみ込むように... （Official HD Music Video）",
+        "url": "https://www.youtube.com/watch?v=JeYJnSuYgrs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "MISIA",
+        "url": "https://www.youtube.com/channel/UCzPBIyFM_VyXgG9At-1Il4Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2008-12-16",
+      "viewCount": "2546万",
+      "likeCount": "7.1万",
+      "commentCount": "3264",
+      "increment_d1": "3600"
+    },
+    {
+      "rank": 1352,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/wsl8HS_lVHE/default.jpg",
         "url": "https://www.youtube.com/watch?v=wsl8HS_lVHE",
         "target": "_blank"
@@ -21,33 +44,56 @@
       "viewCount": "2546万",
       "likeCount": "16.3万",
       "commentCount": "5197",
-      "increment_d1": "1724"
-    },
-    {
-      "rank": 1352,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/JeYJnSuYgrs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=JeYJnSuYgrs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MISIA - つつみ込むように... （Official HD Music Video）",
-        "url": "https://www.youtube.com/watch?v=JeYJnSuYgrs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "MISIA",
-        "url": "https://www.youtube.com/channel/UCzPBIyFM_VyXgG9At-1Il4Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2008-12-16",
-      "viewCount": "2546万",
-      "likeCount": "7.1万",
-      "commentCount": "3263",
-      "increment_d1": "4667"
+      "increment_d1": "1660"
     },
     {
       "rank": 1353,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1ZXPEd3z2TY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1ZXPEd3z2TY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MEGARYU / 夜空に咲く花",
+        "url": "https://www.youtube.com/watch?v=1ZXPEd3z2TY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-07-02",
+      "viewCount": "2546万",
+      "likeCount": "4.7万",
+      "commentCount": "1983",
+      "increment_d1": "4366"
+    },
+    {
+      "rank": 1354,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/IiqfKF9BlcI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=IiqfKF9BlcI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "サカナクション / ネイティブダンサー",
+        "url": "https://www.youtube.com/watch?v=IiqfKF9BlcI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "hiplandmusic",
+        "url": "https://www.youtube.com/channel/UCqTp-NYHvYy96FDldAcPVUA",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-01-06",
+      "viewCount": "2546万",
+      "likeCount": "8.6万",
+      "commentCount": "3294",
+      "increment_d1": "1.09万"
+    },
+    {
+      "rank": 1355,
       "thumb": {
         "img": "https://i.ytimg.com/vi/HCLy5Ir48lU/default.jpg",
         "url": "https://www.youtube.com/watch?v=HCLy5Ir48lU",
@@ -67,53 +113,7 @@
       "viewCount": "2545万",
       "likeCount": "-",
       "commentCount": "1.5万",
-      "increment_d1": "1756"
-    },
-    {
-      "rank": 1354,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1ZXPEd3z2TY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1ZXPEd3z2TY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MEGARYU / 夜空に咲く花",
-        "url": "https://www.youtube.com/watch?v=1ZXPEd3z2TY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-07-02",
-      "viewCount": "2545万",
-      "likeCount": "4.7万",
-      "commentCount": "1983",
-      "increment_d1": "5040"
-    },
-    {
-      "rank": 1355,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/IiqfKF9BlcI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=IiqfKF9BlcI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "サカナクション / ネイティブダンサー",
-        "url": "https://www.youtube.com/watch?v=IiqfKF9BlcI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "hiplandmusic",
-        "url": "https://www.youtube.com/channel/UCqTp-NYHvYy96FDldAcPVUA",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-01-06",
-      "viewCount": "2545万",
-      "likeCount": "8.6万",
-      "commentCount": "3294",
-      "increment_d1": "1.18万"
+      "increment_d1": "1815"
     },
     {
       "rank": 1356,
@@ -133,10 +133,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-01-11",
-      "viewCount": "2544万",
+      "viewCount": "2545万",
       "likeCount": "3.1万",
       "commentCount": "-",
-      "increment_d1": "1.34万"
+      "increment_d1": "1.36万"
     },
     {
       "rank": 1357,
@@ -156,10 +156,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-15",
-      "viewCount": "2543万",
+      "viewCount": "2544万",
       "likeCount": "18.4万",
-      "commentCount": "9672",
-      "increment_d1": "5622"
+      "commentCount": "9674",
+      "increment_d1": "5540"
     },
     {
       "rank": 1358,
@@ -181,8 +181,8 @@
       "publishedAt": "2020-10-25",
       "viewCount": "2542万",
       "likeCount": "27.7万",
-      "commentCount": "6791",
-      "increment_d1": "4584"
+      "commentCount": "6792",
+      "increment_d1": "4555"
     },
     {
       "rank": 1359,
@@ -202,10 +202,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-23",
-      "viewCount": "2540万",
+      "viewCount": "2541万",
       "likeCount": "53.8万",
       "commentCount": "1.3万",
-      "increment_d1": "5316"
+      "increment_d1": "5001"
     },
     {
       "rank": 1360,
@@ -225,10 +225,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-01",
-      "viewCount": "2538万",
+      "viewCount": "2539万",
       "likeCount": "19.3万",
       "commentCount": "1.1万",
-      "increment_d1": "3672"
+      "increment_d1": "3575"
     },
     {
       "rank": 1361,
@@ -250,8 +250,8 @@
       "publishedAt": "2013-06-18",
       "viewCount": "2536万",
       "likeCount": "11.6万",
-      "commentCount": "3488",
-      "increment_d1": "1935"
+      "commentCount": "3487",
+      "increment_d1": "1749"
     },
     {
       "rank": 1362,
@@ -274,7 +274,7 @@
       "viewCount": "2533万",
       "likeCount": "13.6万",
       "commentCount": "6049",
-      "increment_d1": "1173"
+      "increment_d1": "1155"
     },
     {
       "rank": 1363,
@@ -297,7 +297,7 @@
       "viewCount": "2533万",
       "likeCount": "8万",
       "commentCount": "2009",
-      "increment_d1": "3600"
+      "increment_d1": "3740"
     },
     {
       "rank": 1364,
@@ -318,9 +318,9 @@
       },
       "publishedAt": "2019-07-15",
       "viewCount": "2532万",
-      "likeCount": "10.7万",
+      "likeCount": "10.8万",
       "commentCount": "1739",
-      "increment_d1": "4861"
+      "increment_d1": "4322"
     },
     {
       "rank": 1365,
@@ -343,10 +343,33 @@
       "viewCount": "2532万",
       "likeCount": "13.3万",
       "commentCount": "3340",
-      "increment_d1": "3842"
+      "increment_d1": "3416"
     },
     {
       "rank": 1366,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/bUeAjzcQn80/default.jpg",
+        "url": "https://www.youtube.com/watch?v=bUeAjzcQn80",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【童謡】おもちゃのチャチャチャ / 横山だいすけ",
+        "url": "https://www.youtube.com/watch?v=bUeAjzcQn80",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "横山だいすけチャンネル",
+        "url": "https://www.youtube.com/channel/UCp62WC9ESpa8Rwqph2XO6Zw",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-07-24",
+      "viewCount": "2530万",
+      "likeCount": "1.7万",
+      "commentCount": "-",
+      "increment_d1": "1.45万"
+    },
+    {
+      "rank": 1367,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vgLrnfRlWOA/default.jpg",
         "url": "https://www.youtube.com/watch?v=vgLrnfRlWOA",
@@ -366,30 +389,7 @@
       "viewCount": "2529万",
       "likeCount": "14万",
       "commentCount": "4289",
-      "increment_d1": "423"
-    },
-    {
-      "rank": 1367,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/bUeAjzcQn80/default.jpg",
-        "url": "https://www.youtube.com/watch?v=bUeAjzcQn80",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【童謡】おもちゃのチャチャチャ / 横山だいすけ",
-        "url": "https://www.youtube.com/watch?v=bUeAjzcQn80",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "横山だいすけチャンネル",
-        "url": "https://www.youtube.com/channel/UCp62WC9ESpa8Rwqph2XO6Zw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-07-24",
-      "viewCount": "2529万",
-      "likeCount": "1.7万",
-      "commentCount": "-",
-      "increment_d1": "1.37万"
+      "increment_d1": "383"
     },
     {
       "rank": 1368,
@@ -409,10 +409,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-10",
-      "viewCount": "2526万",
+      "viewCount": "2527万",
       "likeCount": "26.8万",
       "commentCount": "5008",
-      "increment_d1": "1.06万"
+      "increment_d1": "1.03万"
     },
     {
       "rank": 1369,
@@ -434,8 +434,8 @@
       "publishedAt": "2013-04-24",
       "viewCount": "2526万",
       "likeCount": "4.9万",
-      "commentCount": "3460",
-      "increment_d1": "5153"
+      "commentCount": "3461",
+      "increment_d1": "4396"
     },
     {
       "rank": 1370,
@@ -458,7 +458,7 @@
       "viewCount": "2525万",
       "likeCount": "17.6万",
       "commentCount": "2431",
-      "increment_d1": "3247"
+      "increment_d1": "3173"
     },
     {
       "rank": 1371,
@@ -481,7 +481,7 @@
       "viewCount": "2523万",
       "likeCount": "8.3万",
       "commentCount": "8053",
-      "increment_d1": "768"
+      "increment_d1": "619"
     },
     {
       "rank": 1372,
@@ -501,10 +501,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-03-05",
-      "viewCount": "2522万",
+      "viewCount": "2523万",
       "likeCount": "12.4万",
       "commentCount": "5345",
-      "increment_d1": "2570"
+      "increment_d1": "2532"
     },
     {
       "rank": 1373,
@@ -527,7 +527,7 @@
       "viewCount": "2521万",
       "likeCount": "9万",
       "commentCount": "1721",
-      "increment_d1": "4620"
+      "increment_d1": "3907"
     },
     {
       "rank": 1374,
@@ -547,10 +547,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-09-19",
-      "viewCount": "2520万",
+      "viewCount": "2521万",
       "likeCount": "21.7万",
-      "commentCount": "4885",
-      "increment_d1": "2162"
+      "commentCount": "4886",
+      "increment_d1": "1901"
     },
     {
       "rank": 1375,
@@ -570,36 +570,13 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-01",
-      "viewCount": "2520万",
+      "viewCount": "2521万",
       "likeCount": "13.8万",
       "commentCount": "-",
-      "increment_d1": "4548"
+      "increment_d1": "4268"
     },
     {
       "rank": 1376,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/z80Eu4z44go/default.jpg",
-        "url": "https://www.youtube.com/watch?v=z80Eu4z44go",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "wacci 『大丈夫』Music Video",
-        "url": "https://www.youtube.com/watch?v=z80Eu4z44go",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "wacci OFFICIAL YouTube CHANNEL",
-        "url": "https://www.youtube.com/channel/UCNMn4Nhl-E3iaSMab0Y_b4A",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-07-30",
-      "viewCount": "2519万",
-      "likeCount": "16.3万",
-      "commentCount": "7432",
-      "increment_d1": "4229"
-    },
-    {
-      "rank": 1377,
       "thumb": {
         "img": "https://i.ytimg.com/vi/RuSNeIcPamk/default.jpg",
         "url": "https://www.youtube.com/watch?v=RuSNeIcPamk",
@@ -619,7 +596,30 @@
       "viewCount": "2519万",
       "likeCount": "12.5万",
       "commentCount": "2004",
-      "increment_d1": "7973"
+      "increment_d1": "7193"
+    },
+    {
+      "rank": 1377,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/z80Eu4z44go/default.jpg",
+        "url": "https://www.youtube.com/watch?v=z80Eu4z44go",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "wacci 『大丈夫』Music Video",
+        "url": "https://www.youtube.com/watch?v=z80Eu4z44go",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "wacci OFFICIAL YouTube CHANNEL",
+        "url": "https://www.youtube.com/channel/UCNMn4Nhl-E3iaSMab0Y_b4A",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-07-30",
+      "viewCount": "2519万",
+      "likeCount": "16.3万",
+      "commentCount": "7432",
+      "increment_d1": "4699"
     },
     {
       "rank": 1378,
@@ -639,36 +639,13 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-25",
-      "viewCount": "2518万",
+      "viewCount": "2519万",
       "likeCount": "25.5万",
       "commentCount": "4603",
-      "increment_d1": "1.24万"
+      "increment_d1": "1.17万"
     },
     {
       "rank": 1379,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/8pXFktAbx5Y/default.jpg",
-        "url": "https://www.youtube.com/watch?v=8pXFktAbx5Y",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "WORLD ORDER \"HAVE A NICE DAY \" Shibuya Ver.",
-        "url": "https://www.youtube.com/watch?v=8pXFktAbx5Y",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "WORLD ORDER",
-        "url": "https://www.youtube.com/channel/UCI4fJYWKcGa8MvnvLw0qysQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-06-01",
-      "viewCount": "2514万",
-      "likeCount": "-",
-      "commentCount": "1万",
-      "increment_d1": "5729"
-    },
-    {
-      "rank": 1380,
       "thumb": {
         "img": "https://i.ytimg.com/vi/8ooptXF4IDE/default.jpg",
         "url": "https://www.youtube.com/watch?v=8ooptXF4IDE",
@@ -685,10 +662,33 @@
         "target": "_blank"
       },
       "publishedAt": "2017-11-21",
-      "viewCount": "2511万",
+      "viewCount": "2517万",
       "likeCount": "15.2万",
-      "commentCount": "1907",
-      "increment_d1": "5.02万"
+      "commentCount": "1908",
+      "increment_d1": "5.35万"
+    },
+    {
+      "rank": 1380,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/8pXFktAbx5Y/default.jpg",
+        "url": "https://www.youtube.com/watch?v=8pXFktAbx5Y",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "WORLD ORDER \"HAVE A NICE DAY \" Shibuya Ver.",
+        "url": "https://www.youtube.com/watch?v=8pXFktAbx5Y",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "WORLD ORDER",
+        "url": "https://www.youtube.com/channel/UCI4fJYWKcGa8MvnvLw0qysQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-06-01",
+      "viewCount": "2515万",
+      "likeCount": "-",
+      "commentCount": "1万",
+      "increment_d1": "5492"
     },
     {
       "rank": 1381,
@@ -708,10 +708,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-04",
-      "viewCount": "2510万",
+      "viewCount": "2512万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "1.17万"
+      "increment_d1": "1.22万"
     },
     {
       "rank": 1382,
@@ -731,10 +731,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-10-14",
-      "viewCount": "2507万",
+      "viewCount": "2508万",
       "likeCount": "10.2万",
-      "commentCount": "3056",
-      "increment_d1": "1984"
+      "commentCount": "3054",
+      "increment_d1": "1694"
     },
     {
       "rank": 1383,
@@ -754,13 +754,36 @@
         "target": "_blank"
       },
       "publishedAt": "2018-12-18",
-      "viewCount": "2505万",
+      "viewCount": "2506万",
       "likeCount": "33.2万",
       "commentCount": "4453",
-      "increment_d1": "6311"
+      "increment_d1": "6086"
     },
     {
       "rank": 1384,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/MPywGQPLJPo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=MPywGQPLJPo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV】可愛くてごめん／高嶺のなでしこ【HoneyWorks】",
+        "url": "https://www.youtube.com/watch?v=MPywGQPLJPo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "高嶺のなでしこ Official",
+        "url": "https://www.youtube.com/channel/UCoR4zZDvWvUIqgEWz4HS-sA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-11-18",
+      "viewCount": "2505万",
+      "likeCount": "25.4万",
+      "commentCount": "8607",
+      "increment_d1": "1.12万"
+    },
+    {
+      "rank": 1385,
       "thumb": {
         "img": "https://i.ytimg.com/vi/76-KTVPm7XA/default.jpg",
         "url": "https://www.youtube.com/watch?v=76-KTVPm7XA",
@@ -780,33 +803,33 @@
       "viewCount": "2504万",
       "likeCount": "33.9万",
       "commentCount": "8586",
-      "increment_d1": "1054"
-    },
-    {
-      "rank": 1385,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/MPywGQPLJPo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=MPywGQPLJPo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV】可愛くてごめん／高嶺のなでしこ【HoneyWorks】",
-        "url": "https://www.youtube.com/watch?v=MPywGQPLJPo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "高嶺のなでしこ Official",
-        "url": "https://www.youtube.com/channel/UCoR4zZDvWvUIqgEWz4HS-sA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-11-18",
-      "viewCount": "2504万",
-      "likeCount": "25.4万",
-      "commentCount": "8607",
-      "increment_d1": "1.19万"
+      "increment_d1": "1024"
     },
     {
       "rank": 1386,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/HmkbBdD8044/default.jpg",
+        "url": "https://www.youtube.com/watch?v=HmkbBdD8044",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【LIVE映像】愛して愛して愛して PEACOCK THEATER  Los Angeles, CA 2024.3.29【Ado】",
+        "url": "https://www.youtube.com/watch?v=HmkbBdD8044",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ado",
+        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-06-07",
+      "viewCount": "2502万",
+      "likeCount": "58.6万",
+      "commentCount": "8587",
+      "increment_d1": "3.98万"
+    },
+    {
+      "rank": 1387,
       "thumb": {
         "img": "https://i.ytimg.com/vi/rdLkxbjK9aM/default.jpg",
         "url": "https://www.youtube.com/watch?v=rdLkxbjK9aM",
@@ -826,30 +849,7 @@
       "viewCount": "2500万",
       "likeCount": "-",
       "commentCount": "1.5万",
-      "increment_d1": "552"
-    },
-    {
-      "rank": 1387,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/HmkbBdD8044/default.jpg",
-        "url": "https://www.youtube.com/watch?v=HmkbBdD8044",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【LIVE映像】愛して愛して愛して PEACOCK THEATER  Los Angeles, CA 2024.3.29【Ado】",
-        "url": "https://www.youtube.com/watch?v=HmkbBdD8044",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ado",
-        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-06-07",
-      "viewCount": "2498万",
-      "likeCount": "58.6万",
-      "commentCount": "8578",
-      "increment_d1": "3.88万"
+      "increment_d1": "495"
     },
     {
       "rank": 1388,
@@ -871,11 +871,34 @@
       "publishedAt": "2013-04-22",
       "viewCount": "2492万",
       "likeCount": "6.1万",
-      "commentCount": "3270",
-      "increment_d1": "435"
+      "commentCount": "3271",
+      "increment_d1": "382"
     },
     {
       "rank": 1389,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/q24ZWYA_xgo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=q24ZWYA_xgo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "加藤ミリヤ　『SAYONARAベイベー』",
+        "url": "https://www.youtube.com/watch?v=q24ZWYA_xgo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "加藤ミリヤ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCqT7VnHfRlvZU8mGU-HAvGw",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-06-13",
+      "viewCount": "2491万",
+      "likeCount": "7.4万",
+      "commentCount": "1595",
+      "increment_d1": "1.04万"
+    },
+    {
+      "rank": 1390,
       "thumb": {
         "img": "https://i.ytimg.com/vi/oSc_BgWzw_0/default.jpg",
         "url": "https://www.youtube.com/watch?v=oSc_BgWzw_0",
@@ -895,30 +918,7 @@
       "viewCount": "2491万",
       "likeCount": "6.3万",
       "commentCount": "1617",
-      "increment_d1": "6253"
-    },
-    {
-      "rank": 1390,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/q24ZWYA_xgo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=q24ZWYA_xgo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "加藤ミリヤ　『SAYONARAベイベー』",
-        "url": "https://www.youtube.com/watch?v=q24ZWYA_xgo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "加藤ミリヤ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCqT7VnHfRlvZU8mGU-HAvGw",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-06-13",
-      "viewCount": "2490万",
-      "likeCount": "7.4万",
-      "commentCount": "1595",
-      "increment_d1": "1.09万"
+      "increment_d1": "5359"
     },
     {
       "rank": 1391,
@@ -938,10 +938,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-24",
-      "viewCount": "2488万",
+      "viewCount": "2489万",
       "likeCount": "19.5万",
-      "commentCount": "3582",
-      "increment_d1": "7313"
+      "commentCount": "3586",
+      "increment_d1": "7736"
     },
     {
       "rank": 1392,
@@ -961,10 +961,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-06",
-      "viewCount": "2487万",
+      "viewCount": "2488万",
       "likeCount": "9.1万",
-      "commentCount": "3804",
-      "increment_d1": "1.73万"
+      "commentCount": "3803",
+      "increment_d1": "1.4万"
     },
     {
       "rank": 1393,
@@ -984,10 +984,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-01-18",
-      "viewCount": "2485万",
+      "viewCount": "2487万",
       "likeCount": "31.9万",
-      "commentCount": "2512",
-      "increment_d1": "1.98万"
+      "commentCount": "2513",
+      "increment_d1": "2.07万"
     },
     {
       "rank": 1394,
@@ -1007,10 +1007,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-27",
-      "viewCount": "2479万",
+      "viewCount": "2482万",
       "likeCount": "7.1万",
-      "commentCount": "2499",
-      "increment_d1": "3.11万"
+      "commentCount": "2502",
+      "increment_d1": "2.63万"
     },
     {
       "rank": 1395,
@@ -1033,7 +1033,7 @@
       "viewCount": "2477万",
       "likeCount": "11万",
       "commentCount": "5066",
-      "increment_d1": "1018"
+      "increment_d1": "723"
     },
     {
       "rank": 1396,
@@ -1056,7 +1056,7 @@
       "viewCount": "2476万",
       "likeCount": "16万",
       "commentCount": "-",
-      "increment_d1": "2751"
+      "increment_d1": "2696"
     },
     {
       "rank": 1397,
@@ -1079,7 +1079,7 @@
       "viewCount": "2475万",
       "likeCount": "6.3万",
       "commentCount": "2755",
-      "increment_d1": "666"
+      "increment_d1": "537"
     },
     {
       "rank": 1398,
@@ -1101,8 +1101,8 @@
       "publishedAt": "2022-03-11",
       "viewCount": "2474万",
       "likeCount": "37万",
-      "commentCount": "6345",
-      "increment_d1": "4297"
+      "commentCount": "6344",
+      "increment_d1": "4175"
     },
     {
       "rank": 1399,
@@ -1122,33 +1122,33 @@
         "target": "_blank"
       },
       "publishedAt": "2012-04-09",
-      "viewCount": "2472万",
+      "viewCount": "2473万",
       "likeCount": "16.2万",
       "commentCount": "4193",
-      "increment_d1": "2030"
+      "increment_d1": "1848"
     },
     {
       "rank": 1400,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/mSe8zHd27MU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=mSe8zHd27MU",
+        "img": "https://i.ytimg.com/vi/ACYNHhiQkwI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ACYNHhiQkwI",
         "target": "_blank"
       },
       "title": {
-        "text": "sumika / ふっかつのじゅもん【Music Video】",
-        "url": "https://www.youtube.com/watch?v=mSe8zHd27MU",
+        "text": "竹内まりや　「家（うち）に帰ろう（マイ・スイート・ホーム）」",
+        "url": "https://www.youtube.com/watch?v=ACYNHhiQkwI",
         "target": "_blank"
       },
       "channel": {
-        "text": "sumika official",
-        "url": "https://www.youtube.com/channel/UCCdibO9eRKJIre22DKDNqug",
+        "text": "Warner Music Japan",
+        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
         "target": "_blank"
       },
-      "publishedAt": "2014-06-26",
-      "viewCount": "2468万",
-      "likeCount": "15.1万",
-      "commentCount": "3422",
-      "increment_d1": "7118"
+      "publishedAt": "2022-08-30",
+      "viewCount": "2469万",
+      "likeCount": "5万",
+      "commentCount": "1646",
+      "increment_d1": "1.83万"
     }
   ]
 }

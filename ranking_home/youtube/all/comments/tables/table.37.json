@@ -1,7 +1,29 @@
 {
   "rows": [
     {
-      "rank": 1801,
+      "rank": 1800,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/0rTc0nyhE0Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=0rTc0nyhE0Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【syudou】へべれけジャンキー",
+        "url": "https://www.youtube.com/watch?v=0rTc0nyhE0Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "syudou",
+        "url": "https://www.youtube.com/channel/UCraC7460yGQF4GDmSjCecpQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-03-30",
+      "viewCount": "1225万",
+      "likeCount": "15.3万",
+      "commentCount": "4526"
+    },
+    {
+      "rank": 1802,
       "thumb": {
         "img": "https://i.ytimg.com/vi/oLcSOfPKavE/default.jpg",
         "url": "https://www.youtube.com/watch?v=oLcSOfPKavE",
@@ -18,31 +40,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-02",
-      "viewCount": "1895万",
+      "viewCount": "1896万",
       "likeCount": "26.2万",
-      "commentCount": "4524"
-    },
-    {
-      "rank": 1802,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/CePgforHlTs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=CePgforHlTs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "冬のプレゼント / もさを。【Music Video】",
-        "url": "https://www.youtube.com/watch?v=CePgforHlTs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "もさを。",
-        "url": "https://www.youtube.com/channel/UCT7u_4qwBmIjr5mhhgdpB9A",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-11-29",
-      "viewCount": "1225万",
-      "likeCount": "12.4万",
-      "commentCount": "4523"
+      "commentCount": "4525"
     },
     {
       "rank": 1803,
@@ -62,9 +62,9 @@
         "target": "_blank"
       },
       "publishedAt": "2016-11-21",
-      "viewCount": "3155万",
+      "viewCount": "3156万",
       "likeCount": "23.9万",
-      "commentCount": "4522"
+      "commentCount": "4521"
     },
     {
       "rank": 1804,
@@ -84,9 +84,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-21",
-      "viewCount": "3147万",
+      "viewCount": "3148万",
       "likeCount": "25.1万",
-      "commentCount": "4519"
+      "commentCount": "4517"
     },
     {
       "rank": 1805,
@@ -107,7 +107,7 @@
       },
       "publishedAt": "2022-03-27",
       "viewCount": "1458万",
-      "likeCount": "26.1万",
+      "likeCount": "26.2万",
       "commentCount": "4511"
     },
     {
@@ -135,6 +135,28 @@
     {
       "rank": 1807,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/OFquPzLWJ5Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=OFquPzLWJ5Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "KANA-BOON 『バトンロード』Music Video",
+        "url": "https://www.youtube.com/watch?v=OFquPzLWJ5Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-07-01",
+      "viewCount": "1587万",
+      "likeCount": "15.2万",
+      "commentCount": "4505"
+    },
+    {
+      "rank": 1807,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/r2OS97F6P_U/default.jpg",
         "url": "https://www.youtube.com/watch?v=r2OS97F6P_U",
         "target": "_blank"
@@ -153,28 +175,6 @@
       "viewCount": "1211万",
       "likeCount": "16.6万",
       "commentCount": "4505"
-    },
-    {
-      "rank": 1808,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/OFquPzLWJ5Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=OFquPzLWJ5Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "KANA-BOON 『バトンロード』Music Video",
-        "url": "https://www.youtube.com/watch?v=OFquPzLWJ5Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-07-01",
-      "viewCount": "1586万",
-      "likeCount": "15.1万",
-      "commentCount": "4504"
     },
     {
       "rank": 1809,
@@ -265,7 +265,7 @@
       "commentCount": "4492"
     },
     {
-      "rank": 1811,
+      "rank": 1813,
       "thumb": {
         "img": "https://i.ytimg.com/vi/LbtQM793jn8/default.jpg",
         "url": "https://www.youtube.com/watch?v=LbtQM793jn8",
@@ -282,9 +282,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-19",
-      "viewCount": "1460万",
+      "viewCount": "1461万",
       "likeCount": "9.1万",
-      "commentCount": "4492"
+      "commentCount": "4491"
     },
     {
       "rank": 1814,
@@ -348,12 +348,34 @@
         "target": "_blank"
       },
       "publishedAt": "2011-10-31",
-      "viewCount": "3508万",
+      "viewCount": "3509万",
       "likeCount": "12.9万",
-      "commentCount": "4472"
+      "commentCount": "4473"
     },
     {
       "rank": 1816,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Jjzbr_73ifc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Jjzbr_73ifc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ano「スマイルあげない」Music Video",
+        "url": "https://www.youtube.com/watch?v=Jjzbr_73ifc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ano official channel",
+        "url": "https://www.youtube.com/channel/UC2tN8yIRVdZ8-Ig2REhPPWg",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-06-20",
+      "viewCount": "1540万",
+      "likeCount": "17.6万",
+      "commentCount": "4473"
+    },
+    {
+      "rank": 1818,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ygyOtMnNvCg/default.jpg",
         "url": "https://www.youtube.com/watch?v=ygyOtMnNvCg",
@@ -372,28 +394,6 @@
       "publishedAt": "2021-07-21",
       "viewCount": "1783万",
       "likeCount": "10.3万",
-      "commentCount": "4472"
-    },
-    {
-      "rank": 1818,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Jjzbr_73ifc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Jjzbr_73ifc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ano「スマイルあげない」Music Video",
-        "url": "https://www.youtube.com/watch?v=Jjzbr_73ifc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ano official channel",
-        "url": "https://www.youtube.com/channel/UC2tN8yIRVdZ8-Ig2REhPPWg",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-06-20",
-      "viewCount": "1539万",
-      "likeCount": "17.6万",
       "commentCount": "4471"
     },
     {
@@ -421,28 +421,6 @@
     {
       "rank": 1820,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/YYyGq3boA4c/default.jpg",
-        "url": "https://www.youtube.com/watch?v=YYyGq3boA4c",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Premium】BLACKPINK - SEE U LATER -KR Ver.-  [LIVE](（MAKUHARI MESSE EVENT HALL[2018.08.26] ))",
-        "url": "https://www.youtube.com/watch?v=YYyGq3boA4c",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-12-18",
-      "viewCount": "2505万",
-      "likeCount": "33.2万",
-      "commentCount": "4453"
-    },
-    {
-      "rank": 1820,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/6GOLuJjV2kU/default.jpg",
         "url": "https://www.youtube.com/watch?v=6GOLuJjV2kU",
         "target": "_blank"
@@ -458,8 +436,30 @@
         "target": "_blank"
       },
       "publishedAt": "2013-02-05",
-      "viewCount": "2670万",
+      "viewCount": "2671万",
       "likeCount": "8.2万",
+      "commentCount": "4458"
+    },
+    {
+      "rank": 1821,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/YYyGq3boA4c/default.jpg",
+        "url": "https://www.youtube.com/watch?v=YYyGq3boA4c",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Premium】BLACKPINK - SEE U LATER -KR Ver.-  [LIVE](（MAKUHARI MESSE EVENT HALL[2018.08.26] ))",
+        "url": "https://www.youtube.com/watch?v=YYyGq3boA4c",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-12-18",
+      "viewCount": "2506万",
+      "likeCount": "33.2万",
       "commentCount": "4453"
     },
     {
@@ -526,7 +526,7 @@
       "publishedAt": "2013-01-25",
       "viewCount": "1555万",
       "likeCount": "6.4万",
-      "commentCount": "4445"
+      "commentCount": "4446"
     },
     {
       "rank": 1825,
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-09-05",
-      "viewCount": "3995万",
+      "viewCount": "3996万",
       "likeCount": "13.3万",
       "commentCount": "4429"
     },
@@ -590,9 +590,31 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-29",
-      "viewCount": "2008万",
-      "likeCount": "17万",
-      "commentCount": "4421"
+      "viewCount": "2009万",
+      "likeCount": "17.1万",
+      "commentCount": "4422"
+    },
+    {
+      "rank": 1828,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/i9oXrgxngYk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=i9oXrgxngYk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Kis-My-Ft2 / 「Luv Bias」Music Video",
+        "url": "https://www.youtube.com/watch?v=i9oXrgxngYk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kis-My-Ft2",
+        "url": "https://www.youtube.com/channel/UCwVX4BFoELC1lfOFMzbJlOg",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-02-08",
+      "viewCount": "1733万",
+      "likeCount": "-",
+      "commentCount": "4418"
     },
     {
       "rank": 1828,
@@ -614,28 +636,6 @@
       "publishedAt": "2012-12-05",
       "viewCount": "1881万",
       "likeCount": "6.7万",
-      "commentCount": "4418"
-    },
-    {
-      "rank": 1828,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/i9oXrgxngYk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=i9oXrgxngYk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Kis-My-Ft2 / 「Luv Bias」Music Video",
-        "url": "https://www.youtube.com/watch?v=i9oXrgxngYk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kis-My-Ft2",
-        "url": "https://www.youtube.com/channel/UCwVX4BFoELC1lfOFMzbJlOg",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-02-08",
-      "viewCount": "1732万",
-      "likeCount": "-",
       "commentCount": "4418"
     },
     {
@@ -683,7 +683,7 @@
       "commentCount": "4403"
     },
     {
-      "rank": 1832,
+      "rank": 1831,
       "thumb": {
         "img": "https://i.ytimg.com/vi/IvMFMA89Yi8/default.jpg",
         "url": "https://www.youtube.com/watch?v=IvMFMA89Yi8",
@@ -700,31 +700,9 @@
         "target": "_blank"
       },
       "publishedAt": "2025-02-25",
-      "viewCount": "1825万",
-      "likeCount": "24万",
-      "commentCount": "4402"
-    },
-    {
-      "rank": 1833,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/4KHHWYIlHpE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=4KHHWYIlHpE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【神回】たまたま通りかかった路上ライブに本人登場してみたら衝撃の結果に！？",
-        "url": "https://www.youtube.com/watch?v=4KHHWYIlHpE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Yudai Takenaka 竹中雄大",
-        "url": "https://www.youtube.com/channel/UCBmY_77ZQUUGH34TXT36HNw",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-10-15",
-      "viewCount": "1461万",
-      "likeCount": "17.2万",
-      "commentCount": "4400"
+      "viewCount": "1830万",
+      "likeCount": "24.1万",
+      "commentCount": "4403"
     },
     {
       "rank": 1833,
@@ -746,6 +724,28 @@
       "publishedAt": "2013-03-14",
       "viewCount": "1986万",
       "likeCount": "11.8万",
+      "commentCount": "4400"
+    },
+    {
+      "rank": 1833,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/4KHHWYIlHpE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=4KHHWYIlHpE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【神回】たまたま通りかかった路上ライブに本人登場してみたら衝撃の結果に！？",
+        "url": "https://www.youtube.com/watch?v=4KHHWYIlHpE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Yudai Takenaka 竹中雄大",
+        "url": "https://www.youtube.com/channel/UCBmY_77ZQUUGH34TXT36HNw",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-10-15",
+      "viewCount": "1462万",
+      "likeCount": "17.2万",
       "commentCount": "4400"
     },
     {
@@ -793,7 +793,7 @@
       "commentCount": "4396"
     },
     {
-      "rank": 1837,
+      "rank": 1836,
       "thumb": {
         "img": "https://i.ytimg.com/vi/IxVDygTDmVU/default.jpg",
         "url": "https://www.youtube.com/watch?v=IxVDygTDmVU",
@@ -810,12 +810,12 @@
         "target": "_blank"
       },
       "publishedAt": "2024-04-10",
-      "viewCount": "1190万",
+      "viewCount": "1191万",
       "likeCount": "9万",
-      "commentCount": "4394"
+      "commentCount": "4396"
     },
     {
-      "rank": 1837,
+      "rank": 1838,
       "thumb": {
         "img": "https://i.ytimg.com/vi/A0iJkPbU7yA/default.jpg",
         "url": "https://www.youtube.com/watch?v=A0iJkPbU7yA",
@@ -832,7 +832,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-03",
-      "viewCount": "1222万",
+      "viewCount": "1223万",
       "likeCount": "12.1万",
       "commentCount": "4394"
     },
@@ -876,7 +876,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-14",
-      "viewCount": "4608万",
+      "viewCount": "4609万",
       "likeCount": "-",
       "commentCount": "4389"
     },
@@ -900,29 +900,7 @@
       "publishedAt": "2023-06-27",
       "viewCount": "1564万",
       "likeCount": "20.1万",
-      "commentCount": "4387"
-    },
-    {
-      "rank": 1842,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/n9hNT5ezcnc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=n9hNT5ezcnc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV full】 桜の木になろう / AKB48 [公式]",
-        "url": "https://www.youtube.com/watch?v=n9hNT5ezcnc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "AKB48",
-        "url": "https://www.youtube.com/channel/UCxjXU89x6owat9dA8Z-bzdw",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-01-14",
-      "viewCount": "1558万",
-      "likeCount": "6.4万",
-      "commentCount": "4384"
+      "commentCount": "4388"
     },
     {
       "rank": 1842,
@@ -942,12 +920,34 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-29",
-      "viewCount": "2364万",
+      "viewCount": "2366万",
       "likeCount": "25.7万",
-      "commentCount": "4384"
+      "commentCount": "4386"
     },
     {
-      "rank": 1842,
+      "rank": 1843,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/n9hNT5ezcnc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=n9hNT5ezcnc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV full】 桜の木になろう / AKB48 [公式]",
+        "url": "https://www.youtube.com/watch?v=n9hNT5ezcnc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "AKB48",
+        "url": "https://www.youtube.com/channel/UCxjXU89x6owat9dA8Z-bzdw",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-01-14",
+      "viewCount": "1558万",
+      "likeCount": "6.4万",
+      "commentCount": "4385"
+    },
+    {
+      "rank": 1844,
       "thumb": {
         "img": "https://i.ytimg.com/vi/cJnO-Y_YnFg/default.jpg",
         "url": "https://www.youtube.com/watch?v=cJnO-Y_YnFg",
@@ -964,7 +964,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-23",
-      "viewCount": "4793万",
+      "viewCount": "4794万",
       "likeCount": "16.1万",
       "commentCount": "4384"
     },
@@ -988,7 +988,7 @@
       "publishedAt": "2013-08-21",
       "viewCount": "1967万",
       "likeCount": "6.4万",
-      "commentCount": "4372"
+      "commentCount": "4373"
     },
     {
       "rank": 1846,
@@ -1008,9 +1008,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-02-17",
-      "viewCount": "1178万",
+      "viewCount": "1179万",
       "likeCount": "13.1万",
-      "commentCount": "4361"
+      "commentCount": "4362"
     },
     {
       "rank": 1847,
@@ -1030,9 +1030,9 @@
         "target": "_blank"
       },
       "publishedAt": "2025-01-10",
-      "viewCount": "1717万",
+      "viewCount": "1721万",
       "likeCount": "8.5万",
-      "commentCount": "4352"
+      "commentCount": "4353"
     },
     {
       "rank": 1848,
@@ -1052,9 +1052,9 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-05",
-      "viewCount": "3381万",
+      "viewCount": "3382万",
       "likeCount": "12万",
-      "commentCount": "4349"
+      "commentCount": "4350"
     },
     {
       "rank": 1849,
@@ -1074,9 +1074,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-03",
-      "viewCount": "3483万",
+      "viewCount": "3485万",
       "likeCount": "26.9万",
-      "commentCount": "4346"
+      "commentCount": "4344"
     },
     {
       "rank": 1850,
@@ -1096,7 +1096,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-30",
-      "viewCount": "6086万",
+      "viewCount": "6093万",
       "likeCount": "30.9万",
       "commentCount": "4340"
     }

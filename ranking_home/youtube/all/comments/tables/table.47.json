@@ -1,70 +1,26 @@
 {
   "rows": [
     {
-      "rank": 2300,
+      "rank": 2301,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/RY0VC4A4saE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=RY0VC4A4saE",
+        "img": "https://i.ytimg.com/vi/mTx2gahMnr8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=mTx2gahMnr8",
         "target": "_blank"
       },
       "title": {
-        "text": "西野カナ 『もしも運命の人がいるのなら』MV(Short Ver.)",
-        "url": "https://www.youtube.com/watch?v=RY0VC4A4saE",
+        "text": "Mrs. GREEN APPLE – ニュー・マイ・ノーマル【LIVE “ゼンジン未到とリライアンス〜復誦編〜”】",
+        "url": "https://www.youtube.com/watch?v=mTx2gahMnr8",
         "target": "_blank"
       },
       "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
         "target": "_blank"
       },
-      "publishedAt": "2015-04-08",
-      "viewCount": "4128万",
-      "likeCount": "8.5万",
-      "commentCount": "2819"
-    },
-    {
-      "rank": 2302,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/FU5FxTP1cpw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=FU5FxTP1cpw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[Alexandros] - ムーンソング (MV)",
-        "url": "https://www.youtube.com/watch?v=FU5FxTP1cpw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ALEXANDROSchannel",
-        "url": "https://www.youtube.com/channel/UCjIHV9sLF2yrYH2ClgPAzSg",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-10-26",
-      "viewCount": "1231万",
-      "likeCount": "5.4万",
-      "commentCount": "2815"
-    },
-    {
-      "rank": 2302,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ILz87f2iX7M/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ILz87f2iX7M",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BUMP OF CHICKEN「虹を待つ人」",
-        "url": "https://www.youtube.com/watch?v=ILz87f2iX7M",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BUMP OF CHICKEN",
-        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-08-20",
-      "viewCount": "1478万",
-      "likeCount": "4.4万",
-      "commentCount": "2815"
+      "publishedAt": "2023-02-25",
+      "viewCount": "2246万",
+      "likeCount": "11.1万",
+      "commentCount": "2820"
     },
     {
       "rank": 2302,
@@ -89,6 +45,50 @@
       "commentCount": "2815"
     },
     {
+      "rank": 2302,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/FU5FxTP1cpw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=FU5FxTP1cpw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[Alexandros] - ムーンソング (MV)",
+        "url": "https://www.youtube.com/watch?v=FU5FxTP1cpw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ALEXANDROSchannel",
+        "url": "https://www.youtube.com/channel/UCjIHV9sLF2yrYH2ClgPAzSg",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-10-26",
+      "viewCount": "1231万",
+      "likeCount": "5.4万",
+      "commentCount": "2815"
+    },
+    {
+      "rank": 2304,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ILz87f2iX7M/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ILz87f2iX7M",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BUMP OF CHICKEN「虹を待つ人」",
+        "url": "https://www.youtube.com/watch?v=ILz87f2iX7M",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BUMP OF CHICKEN",
+        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-08-20",
+      "viewCount": "1479万",
+      "likeCount": "4.4万",
+      "commentCount": "2814"
+    },
+    {
       "rank": 2305,
       "thumb": {
         "img": "https://i.ytimg.com/vi/L2i0i9gWE00/default.jpg",
@@ -108,10 +108,32 @@
       "publishedAt": "2022-11-26",
       "viewCount": "1604万",
       "likeCount": "16.7万",
-      "commentCount": "2807"
+      "commentCount": "2808"
     },
     {
       "rank": 2306,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/LH3op7GECSk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=LH3op7GECSk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "酒井法子「碧いうさぎ」Music Video",
+        "url": "https://www.youtube.com/watch?v=LH3op7GECSk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Victor Entertainment",
+        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-02-04",
+      "viewCount": "1769万",
+      "likeCount": "4.9万",
+      "commentCount": "2805"
+    },
+    {
+      "rank": 2307,
       "thumb": {
         "img": "https://i.ytimg.com/vi/q7GFtKuEQik/default.jpg",
         "url": "https://www.youtube.com/watch?v=q7GFtKuEQik",
@@ -130,29 +152,7 @@
       "publishedAt": "2012-01-06",
       "viewCount": "2993万",
       "likeCount": "8.7万",
-      "commentCount": "2803"
-    },
-    {
-      "rank": 2307,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/LH3op7GECSk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=LH3op7GECSk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "酒井法子「碧いうさぎ」Music Video",
-        "url": "https://www.youtube.com/watch?v=LH3op7GECSk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Victor Entertainment",
-        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-02-04",
-      "viewCount": "1768万",
-      "likeCount": "4.9万",
-      "commentCount": "2800"
+      "commentCount": "2804"
     },
     {
       "rank": 2308,
@@ -172,7 +172,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-12-14",
-      "viewCount": "1892万",
+      "viewCount": "1895万",
       "likeCount": "12.4万",
       "commentCount": "2792"
     },
@@ -238,31 +238,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-27",
-      "viewCount": "1239万",
+      "viewCount": "1240万",
       "likeCount": "10.6万",
       "commentCount": "2788"
-    },
-    {
-      "rank": 2312,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/rh517TMtVbo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=rh517TMtVbo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MAN WITH A MISSION　『Seven Deadly Sins』",
-        "url": "https://www.youtube.com/watch?v=rh517TMtVbo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-01-11",
-      "viewCount": "2021万",
-      "likeCount": "11.6万",
-      "commentCount": "2775"
     },
     {
       "rank": 2312,
@@ -282,9 +260,31 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-01",
-      "viewCount": "1667万",
+      "viewCount": "1668万",
       "likeCount": "3.2万",
       "commentCount": "2775"
+    },
+    {
+      "rank": 2313,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/rh517TMtVbo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=rh517TMtVbo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MAN WITH A MISSION　『Seven Deadly Sins』",
+        "url": "https://www.youtube.com/watch?v=rh517TMtVbo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-01-11",
+      "viewCount": "2021万",
+      "likeCount": "11.6万",
+      "commentCount": "2774"
     },
     {
       "rank": 2314,
@@ -304,7 +304,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-05-27",
-      "viewCount": "1043万",
+      "viewCount": "1044万",
       "likeCount": "5.9万",
       "commentCount": "2773"
     },
@@ -370,7 +370,7 @@
         "target": "_blank"
       },
       "publishedAt": "2011-12-05",
-      "viewCount": "2101万",
+      "viewCount": "2102万",
       "likeCount": "5.7万",
       "commentCount": "2766"
     },
@@ -392,9 +392,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-11-22",
-      "viewCount": "1730万",
+      "viewCount": "1731万",
       "likeCount": "4.2万",
-      "commentCount": "2763"
+      "commentCount": "2764"
     },
     {
       "rank": 2319,
@@ -480,7 +480,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-11-15",
-      "viewCount": "1773万",
+      "viewCount": "1774万",
       "likeCount": "7.4万",
       "commentCount": "2746"
     },
@@ -502,7 +502,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-04",
-      "viewCount": "3925万",
+      "viewCount": "3927万",
       "likeCount": "28.2万",
       "commentCount": "2741"
     },
@@ -548,29 +548,7 @@
       "publishedAt": "2010-08-31",
       "viewCount": "3232万",
       "likeCount": "6.4万",
-      "commentCount": "2735"
-    },
-    {
-      "rank": 2326,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/AgfUewgwPOw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=AgfUewgwPOw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "広瀬香美 / ロマンスの神様",
-        "url": "https://www.youtube.com/watch?v=AgfUewgwPOw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Victor Entertainment",
-        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-06-15",
-      "viewCount": "1721万",
-      "likeCount": "7.5万",
-      "commentCount": "2731"
+      "commentCount": "2737"
     },
     {
       "rank": 2326,
@@ -590,31 +568,31 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-01",
-      "viewCount": "1905万",
+      "viewCount": "1906万",
       "likeCount": "17.9万",
-      "commentCount": "2731"
+      "commentCount": "2735"
     },
     {
-      "rank": 2328,
+      "rank": 2327,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/I55sHty3h6I/default.jpg",
-        "url": "https://www.youtube.com/watch?v=I55sHty3h6I",
+        "img": "https://i.ytimg.com/vi/AgfUewgwPOw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=AgfUewgwPOw",
         "target": "_blank"
       },
       "title": {
-        "text": "EXILE / NEW HORIZON",
-        "url": "https://www.youtube.com/watch?v=I55sHty3h6I",
+        "text": "広瀬香美 / ロマンスの神様",
+        "url": "https://www.youtube.com/watch?v=AgfUewgwPOw",
         "target": "_blank"
       },
       "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "text": "Victor Entertainment",
+        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
         "target": "_blank"
       },
-      "publishedAt": "2014-07-02",
-      "viewCount": "1679万",
-      "likeCount": "5万",
-      "commentCount": "2727"
+      "publishedAt": "2011-06-15",
+      "viewCount": "1721万",
+      "likeCount": "7.5万",
+      "commentCount": "2732"
     },
     {
       "rank": 2328,
@@ -636,29 +614,29 @@
       "publishedAt": "2013-10-08",
       "viewCount": "3465万",
       "likeCount": "5.2万",
-      "commentCount": "2727"
+      "commentCount": "2728"
     },
     {
-      "rank": 2330,
+      "rank": 2329,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/RhBSa9L9BMA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=RhBSa9L9BMA",
+        "img": "https://i.ytimg.com/vi/I55sHty3h6I/default.jpg",
+        "url": "https://www.youtube.com/watch?v=I55sHty3h6I",
         "target": "_blank"
       },
       "title": {
-        "text": "井上苑子 - 大切な君へ",
-        "url": "https://www.youtube.com/watch?v=RhBSa9L9BMA",
+        "text": "EXILE / NEW HORIZON",
+        "url": "https://www.youtube.com/watch?v=I55sHty3h6I",
         "target": "_blank"
       },
       "channel": {
-        "text": "InoueSonokoVEVO",
-        "url": "https://www.youtube.com/channel/UCinTh1gmo5ePuXjrfhb-jJw",
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
         "target": "_blank"
       },
-      "publishedAt": "2015-07-01",
-      "viewCount": "1616万",
-      "likeCount": "9.5万",
-      "commentCount": "2726"
+      "publishedAt": "2014-07-02",
+      "viewCount": "1679万",
+      "likeCount": "5万",
+      "commentCount": "2727"
     },
     {
       "rank": 2330,
@@ -680,6 +658,28 @@
       "publishedAt": "2011-08-30",
       "viewCount": "1017万",
       "likeCount": "2.1万",
+      "commentCount": "2726"
+    },
+    {
+      "rank": 2330,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/RhBSa9L9BMA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=RhBSa9L9BMA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "井上苑子 - 大切な君へ",
+        "url": "https://www.youtube.com/watch?v=RhBSa9L9BMA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "InoueSonokoVEVO",
+        "url": "https://www.youtube.com/channel/UCinTh1gmo5ePuXjrfhb-jJw",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-07-01",
+      "viewCount": "1616万",
+      "likeCount": "9.5万",
       "commentCount": "2726"
     },
     {
@@ -746,10 +746,10 @@
       "publishedAt": "2020-08-11",
       "viewCount": "2444万",
       "likeCount": "21.2万",
-      "commentCount": "2716"
+      "commentCount": "2715"
     },
     {
-      "rank": 2335,
+      "rank": 2334,
       "thumb": {
         "img": "https://i.ytimg.com/vi/T10oS02RsGA/default.jpg",
         "url": "https://www.youtube.com/watch?v=T10oS02RsGA",
@@ -768,7 +768,7 @@
       "publishedAt": "2012-10-24",
       "viewCount": "4714万",
       "likeCount": "-",
-      "commentCount": "2713"
+      "commentCount": "2715"
     },
     {
       "rank": 2336,
@@ -795,6 +795,28 @@
     {
       "rank": 2337,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/G9KznOYqyOg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=G9KznOYqyOg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "緑黄色社会『恥ずかしいか青春は』Official Video / Ryokuoushoku Shakai – Hazukashiika Seishunwa",
+        "url": "https://www.youtube.com/watch?v=G9KznOYqyOg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "緑黄色社会",
+        "url": "https://www.youtube.com/channel/UC_1GPhYlXI2ka2ji5gnqWFQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-07-12",
+      "viewCount": "1681万",
+      "likeCount": "10.4万",
+      "commentCount": "2707"
+    },
+    {
+      "rank": 2338,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/S5st_BGFpLI/default.jpg",
         "url": "https://www.youtube.com/watch?v=S5st_BGFpLI",
         "target": "_blank"
@@ -813,28 +835,6 @@
       "viewCount": "1331万",
       "likeCount": "11.3万",
       "commentCount": "2706"
-    },
-    {
-      "rank": 2338,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/G9KznOYqyOg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=G9KznOYqyOg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "緑黄色社会『恥ずかしいか青春は』Official Video / Ryokuoushoku Shakai – Hazukashiika Seishunwa",
-        "url": "https://www.youtube.com/watch?v=G9KznOYqyOg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "緑黄色社会",
-        "url": "https://www.youtube.com/channel/UC_1GPhYlXI2ka2ji5gnqWFQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-07-12",
-      "viewCount": "1679万",
-      "likeCount": "10.4万",
-      "commentCount": "2704"
     },
     {
       "rank": 2339,
@@ -856,7 +856,7 @@
       "publishedAt": "2013-12-21",
       "viewCount": "1485万",
       "likeCount": "5.4万",
-      "commentCount": "2702"
+      "commentCount": "2703"
     },
     {
       "rank": 2340,
@@ -878,7 +878,7 @@
       "publishedAt": "2010-09-01",
       "viewCount": "1703万",
       "likeCount": "3.9万",
-      "commentCount": "2700"
+      "commentCount": "2702"
     },
     {
       "rank": 2341,
@@ -898,7 +898,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-10",
-      "viewCount": "2218万",
+      "viewCount": "2220万",
       "likeCount": "11.6万",
       "commentCount": "2696"
     },
@@ -920,9 +920,9 @@
         "target": "_blank"
       },
       "publishedAt": "2018-05-11",
-      "viewCount": "1332万",
+      "viewCount": "1333万",
       "likeCount": "8.5万",
-      "commentCount": "2693"
+      "commentCount": "2694"
     },
     {
       "rank": 2343,
@@ -944,7 +944,7 @@
       "publishedAt": "2012-10-17",
       "viewCount": "1554万",
       "likeCount": "5.8万",
-      "commentCount": "2692"
+      "commentCount": "2693"
     },
     {
       "rank": 2344,
@@ -964,9 +964,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-28",
-      "viewCount": "1460万",
+      "viewCount": "1462万",
       "likeCount": "9.9万",
-      "commentCount": "2687"
+      "commentCount": "2688"
     },
     {
       "rank": 2345,
@@ -1008,12 +1008,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-21",
-      "viewCount": "1095万",
+      "viewCount": "1096万",
       "likeCount": "7.8万",
-      "commentCount": "2679"
+      "commentCount": "2681"
     },
     {
-      "rank": 2346,
+      "rank": 2347,
       "thumb": {
         "img": "https://i.ytimg.com/vi/XpF9Y7rcqBs/default.jpg",
         "url": "https://www.youtube.com/watch?v=XpF9Y7rcqBs",
@@ -1030,9 +1030,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-02",
-      "viewCount": "4063万",
+      "viewCount": "4065万",
       "likeCount": "26.9万",
-      "commentCount": "2679"
+      "commentCount": "2680"
     },
     {
       "rank": 2348,
@@ -1054,10 +1054,10 @@
       "publishedAt": "2010-04-16",
       "viewCount": "2089万",
       "likeCount": "6.4万",
-      "commentCount": "2675"
+      "commentCount": "2677"
     },
     {
-      "rank": 2348,
+      "rank": 2349,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3J_7BEHLRTE/default.jpg",
         "url": "https://www.youtube.com/watch?v=3J_7BEHLRTE",
@@ -1076,7 +1076,7 @@
       "publishedAt": "2019-10-12",
       "viewCount": "1213万",
       "likeCount": "11.1万",
-      "commentCount": "2675"
+      "commentCount": "2676"
     },
     {
       "rank": 2350,
@@ -1097,8 +1097,8 @@
       },
       "publishedAt": "2018-03-22",
       "viewCount": "2583万",
-      "likeCount": "15.2万",
-      "commentCount": "2670"
+      "likeCount": "15.3万",
+      "commentCount": "2671"
     }
   ]
 }

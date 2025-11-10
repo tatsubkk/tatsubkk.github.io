@@ -3,6 +3,50 @@
     {
       "rank": 3101,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/aAMKXh4eIU0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=aAMKXh4eIU0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "もしも命が描けたら",
+        "url": "https://www.youtube.com/watch?v=aAMKXh4eIU0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-11-30",
+      "viewCount": "1120万",
+      "likeCount": "4.3万",
+      "commentCount": "49"
+    },
+    {
+      "rank": 3102,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/qWJTH8b-KyU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=qWJTH8b-KyU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ミスター",
+        "url": "https://www.youtube.com/watch?v=qWJTH8b-KyU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-02-15",
+      "viewCount": "1156万",
+      "likeCount": "7.5万",
+      "commentCount": "42"
+    },
+    {
+      "rank": 3102,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/Wxy0fBsfh_0/default.jpg",
         "url": "https://www.youtube.com/watch?v=Wxy0fBsfh_0",
         "target": "_blank"
@@ -20,10 +64,10 @@
       "publishedAt": "2021-08-08",
       "viewCount": "1203万",
       "likeCount": "10.8万",
-      "commentCount": "41"
+      "commentCount": "42"
     },
     {
-      "rank": 3102,
+      "rank": 3104,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ip4ZNVHj_BU/default.jpg",
         "url": "https://www.youtube.com/watch?v=ip4ZNVHj_BU",
@@ -45,7 +89,7 @@
       "commentCount": "39"
     },
     {
-      "rank": 3103,
+      "rank": 3105,
       "thumb": {
         "img": "https://i.ytimg.com/vi/MquT2X5NEY8/default.jpg",
         "url": "https://www.youtube.com/watch?v=MquT2X5NEY8",
@@ -67,7 +111,7 @@
       "commentCount": "34"
     },
     {
-      "rank": 3104,
+      "rank": 3106,
       "thumb": {
         "img": "https://i.ytimg.com/vi/7pPb5fmumNo/default.jpg",
         "url": "https://www.youtube.com/watch?v=7pPb5fmumNo",
@@ -84,7 +128,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-06-02",
-      "viewCount": "2228万",
+      "viewCount": "2229万",
       "likeCount": "33.9万",
       "commentCount": "2"
     }

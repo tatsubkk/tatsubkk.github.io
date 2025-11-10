@@ -3,6 +3,29 @@
     {
       "rank": 1001,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/bRWQckbQ9tQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=bRWQckbQ9tQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BUMP OF CHICKEN「アンサー」",
+        "url": "https://www.youtube.com/watch?v=bRWQckbQ9tQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BUMP OF CHICKEN",
+        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-04-07",
+      "viewCount": "3421万",
+      "likeCount": "16.3万",
+      "commentCount": "8141",
+      "increment_d1": "3927"
+    },
+    {
+      "rank": 1002,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/a16gTN7kOWU/default.jpg",
         "url": "https://www.youtube.com/watch?v=a16gTN7kOWU",
         "target": "_blank"
@@ -21,30 +44,7 @@
       "viewCount": "3417万",
       "likeCount": "-",
       "commentCount": "2.8万",
-      "increment_d1": "821"
-    },
-    {
-      "rank": 1002,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/pdkXf2Ztunk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=pdkXf2Ztunk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ずうっといっしょ！ / キタニタツヤ - ALWAYS BE WITH YOU XD / Tatsuya Kitani",
-        "url": "https://www.youtube.com/watch?v=pdkXf2Ztunk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "キタニタツヤ / Tatsuya Kitani",
-        "url": "https://www.youtube.com/channel/UCgP3GbgbuVzAhlctGU5yuPA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-05-14",
-      "viewCount": "3416万",
-      "likeCount": "28.1万",
-      "commentCount": "5208",
-      "increment_d1": "6.28万"
+      "increment_d1": "846"
     },
     {
       "rank": 1003,
@@ -64,10 +64,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-06",
-      "viewCount": "3408万",
+      "viewCount": "3409万",
       "likeCount": "33.3万",
       "commentCount": "7781",
-      "increment_d1": "5162"
+      "increment_d1": "5244"
     },
     {
       "rank": 1004,
@@ -89,8 +89,8 @@
       "publishedAt": "2019-01-11",
       "viewCount": "3408万",
       "likeCount": "17.9万",
-      "commentCount": "6715",
-      "increment_d1": "3630"
+      "commentCount": "6716",
+      "increment_d1": "3633"
     },
     {
       "rank": 1005,
@@ -110,10 +110,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-24",
-      "viewCount": "3402万",
+      "viewCount": "3403万",
       "likeCount": "13.3万",
-      "commentCount": "8139",
-      "increment_d1": "1.13万"
+      "commentCount": "8146",
+      "increment_d1": "9736"
     },
     {
       "rank": 1006,
@@ -135,8 +135,8 @@
       "publishedAt": "2013-01-25",
       "viewCount": "3394万",
       "likeCount": "11.6万",
-      "commentCount": "4065",
-      "increment_d1": "2965"
+      "commentCount": "4066",
+      "increment_d1": "2407"
     },
     {
       "rank": 1007,
@@ -159,7 +159,7 @@
       "viewCount": "3384万",
       "likeCount": "-",
       "commentCount": "1.8万",
-      "increment_d1": "3341"
+      "increment_d1": "3417"
     },
     {
       "rank": 1008,
@@ -179,36 +179,13 @@
         "target": "_blank"
       },
       "publishedAt": "2017-07-02",
-      "viewCount": "3382万",
+      "viewCount": "3383万",
       "likeCount": "19万",
       "commentCount": "3266",
-      "increment_d1": "8039"
+      "increment_d1": "7416"
     },
     {
       "rank": 1009,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ShhoC3nHX8E/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ShhoC3nHX8E",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mr.Children 「足音 〜Be Strong」 MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=ShhoC3nHX8E",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mr.Children Official Channel",
-        "url": "https://www.youtube.com/channel/UCXteDRy5qB0IjA8WPusCJ7w",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-11-05",
-      "viewCount": "3381万",
-      "likeCount": "12万",
-      "commentCount": "4349",
-      "increment_d1": "7015"
-    },
-    {
-      "rank": 1010,
       "thumb": {
         "img": "https://i.ytimg.com/vi/hV8PSY7s7VQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=hV8PSY7s7VQ",
@@ -225,59 +202,36 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-09",
-      "viewCount": "3380万",
-      "likeCount": "89.4万",
+      "viewCount": "3382万",
+      "likeCount": "89.5万",
       "commentCount": "3万",
-      "increment_d1": "2.22万"
+      "increment_d1": "2.24万"
+    },
+    {
+      "rank": 1010,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ShhoC3nHX8E/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ShhoC3nHX8E",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mr.Children 「足音 〜Be Strong」 MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=ShhoC3nHX8E",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mr.Children Official Channel",
+        "url": "https://www.youtube.com/channel/UCXteDRy5qB0IjA8WPusCJ7w",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-11-05",
+      "viewCount": "3382万",
+      "likeCount": "12万",
+      "commentCount": "4350",
+      "increment_d1": "6218"
     },
     {
       "rank": 1011,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Dsylo684yWA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Dsylo684yWA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE「ナハトムジーク」Official Music Video",
-        "url": "https://www.youtube.com/watch?v=Dsylo684yWA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-01-16",
-      "viewCount": "3379万",
-      "likeCount": "25.1万",
-      "commentCount": "1万",
-      "increment_d1": "1.99万"
-    },
-    {
-      "rank": 1012,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/hM4f37uRyKc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=hM4f37uRyKc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "703号室 -『偽物勇者』(Music Video)",
-        "url": "https://www.youtube.com/watch?v=hM4f37uRyKc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "703号室",
-        "url": "https://www.youtube.com/channel/UCVjI6i-uvSD47iIgBQLmbbg",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-03-28",
-      "viewCount": "3378万",
-      "likeCount": "35万",
-      "commentCount": "8047",
-      "increment_d1": "1.28万"
-    },
-    {
-      "rank": 1013,
       "thumb": {
         "img": "https://i.ytimg.com/vi/fp3F6TqBsAU/default.jpg",
         "url": "https://www.youtube.com/watch?v=fp3F6TqBsAU",
@@ -294,10 +248,56 @@
         "target": "_blank"
       },
       "publishedAt": "2025-01-21",
-      "viewCount": "3378万",
+      "viewCount": "3382万",
       "likeCount": "27.3万",
       "commentCount": "1.2万",
-      "increment_d1": "4.64万"
+      "increment_d1": "4.09万"
+    },
+    {
+      "rank": 1012,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Dsylo684yWA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Dsylo684yWA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE「ナハトムジーク」Official Music Video",
+        "url": "https://www.youtube.com/watch?v=Dsylo684yWA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-01-16",
+      "viewCount": "3381万",
+      "likeCount": "25.1万",
+      "commentCount": "1万",
+      "increment_d1": "2.02万"
+    },
+    {
+      "rank": 1013,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/hM4f37uRyKc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=hM4f37uRyKc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "703号室 -『偽物勇者』(Music Video)",
+        "url": "https://www.youtube.com/watch?v=hM4f37uRyKc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "703号室",
+        "url": "https://www.youtube.com/channel/UCVjI6i-uvSD47iIgBQLmbbg",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-03-28",
+      "viewCount": "3379万",
+      "likeCount": "35万",
+      "commentCount": "8047",
+      "increment_d1": "1.29万"
     },
     {
       "rank": 1014,
@@ -317,10 +317,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-08-01",
-      "viewCount": "3376万",
+      "viewCount": "3377万",
       "likeCount": "7.4万",
-      "commentCount": "4695",
-      "increment_d1": "1.11万"
+      "commentCount": "4694",
+      "increment_d1": "8860"
     },
     {
       "rank": 1015,
@@ -340,10 +340,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-30",
-      "viewCount": "3375万",
+      "viewCount": "3376万",
       "likeCount": "6.6万",
       "commentCount": "1.7万",
-      "increment_d1": "1154"
+      "increment_d1": "1184"
     },
     {
       "rank": 1016,
@@ -363,10 +363,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-20",
-      "viewCount": "3374万",
+      "viewCount": "3375万",
       "likeCount": "29万",
-      "commentCount": "3749",
-      "increment_d1": "1.55万"
+      "commentCount": "3751",
+      "increment_d1": "1.42万"
     },
     {
       "rank": 1017,
@@ -389,7 +389,7 @@
       "viewCount": "3374万",
       "likeCount": "17.5万",
       "commentCount": "4万",
-      "increment_d1": "4438"
+      "increment_d1": "3733"
     },
     {
       "rank": 1018,
@@ -409,10 +409,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-26",
-      "viewCount": "3371万",
+      "viewCount": "3372万",
       "likeCount": "18.3万",
       "commentCount": "1.8万",
-      "increment_d1": "1.12万"
+      "increment_d1": "1.07万"
     },
     {
       "rank": 1019,
@@ -432,36 +432,13 @@
         "target": "_blank"
       },
       "publishedAt": "2014-07-01",
-      "viewCount": "3370万",
+      "viewCount": "3371万",
       "likeCount": "22.4万",
-      "commentCount": "1032",
-      "increment_d1": "7454"
+      "commentCount": "1030",
+      "increment_d1": "7351"
     },
     {
       "rank": 1020,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/tIe-kXTmj3E/default.jpg",
-        "url": "https://www.youtube.com/watch?v=tIe-kXTmj3E",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "椎名林檎と宮本浩次－獣ゆく細道",
-        "url": "https://www.youtube.com/watch?v=tIe-kXTmj3E",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "椎名林檎",
-        "url": "https://www.youtube.com/channel/UCRQX-dpFt_osBpH71ItuuvA",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-10-01",
-      "viewCount": "3369万",
-      "likeCount": "26.6万",
-      "commentCount": "9505",
-      "increment_d1": "4366"
-    },
-    {
-      "rank": 1021,
       "thumb": {
         "img": "https://i.ytimg.com/vi/0lASG1aB5lE/default.jpg",
         "url": "https://www.youtube.com/watch?v=0lASG1aB5lE",
@@ -478,10 +455,33 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-16",
-      "viewCount": "3369万",
+      "viewCount": "3371万",
       "likeCount": "22万",
       "commentCount": "4773",
-      "increment_d1": "1.62万"
+      "increment_d1": "1.82万"
+    },
+    {
+      "rank": 1021,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/tIe-kXTmj3E/default.jpg",
+        "url": "https://www.youtube.com/watch?v=tIe-kXTmj3E",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "椎名林檎と宮本浩次－獣ゆく細道",
+        "url": "https://www.youtube.com/watch?v=tIe-kXTmj3E",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "椎名林檎",
+        "url": "https://www.youtube.com/channel/UCRQX-dpFt_osBpH71ItuuvA",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-10-01",
+      "viewCount": "3370万",
+      "likeCount": "26.6万",
+      "commentCount": "9505",
+      "increment_d1": "4234"
     },
     {
       "rank": 1022,
@@ -501,10 +501,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-04-14",
-      "viewCount": "3368万",
+      "viewCount": "3369万",
       "likeCount": "13.7万",
       "commentCount": "5160",
-      "increment_d1": "4858"
+      "increment_d1": "5289"
     },
     {
       "rank": 1023,
@@ -526,8 +526,8 @@
       "publishedAt": "2018-02-25",
       "viewCount": "3364万",
       "likeCount": "35.8万",
-      "commentCount": "6552",
-      "increment_d1": "1929"
+      "commentCount": "6551",
+      "increment_d1": "2334"
     },
     {
       "rank": 1024,
@@ -547,10 +547,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-14",
-      "viewCount": "3358万",
-      "likeCount": "12.7万",
-      "commentCount": "3470",
-      "increment_d1": "1.86万"
+      "viewCount": "3360万",
+      "likeCount": "12.8万",
+      "commentCount": "3472",
+      "increment_d1": "1.59万"
     },
     {
       "rank": 1025,
@@ -570,10 +570,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-14",
-      "viewCount": "3356万",
+      "viewCount": "3358万",
       "likeCount": "9.9万",
       "commentCount": "1841",
-      "increment_d1": "2.07万"
+      "increment_d1": "1.89万"
     },
     {
       "rank": 1026,
@@ -595,8 +595,8 @@
       "publishedAt": "2016-06-23",
       "viewCount": "3354万",
       "likeCount": "24万",
-      "commentCount": "6824",
-      "increment_d1": "3200"
+      "commentCount": "6823",
+      "increment_d1": "2958"
     },
     {
       "rank": 1027,
@@ -616,13 +616,36 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-02",
-      "viewCount": "3352万",
+      "viewCount": "3353万",
       "likeCount": "-",
-      "commentCount": "533",
-      "increment_d1": "1.19万"
+      "commentCount": "534",
+      "increment_d1": "1.13万"
     },
     {
       "rank": 1028,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/3hPI3xjsNKE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=3hPI3xjsNKE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BASI / 愛のままに feat.唾奇 (Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=3hPI3xjsNKE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BASICMUSICTV",
+        "url": "https://www.youtube.com/channel/UC1xIFEp8N54S8HAG8NU68Xg",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-11-01",
+      "viewCount": "3348万",
+      "likeCount": "19.2万",
+      "commentCount": "3133",
+      "increment_d1": "1.05万"
+    },
+    {
+      "rank": 1029,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Cs85gCoCaBA/default.jpg",
         "url": "https://www.youtube.com/watch?v=Cs85gCoCaBA",
@@ -642,30 +665,7 @@
       "viewCount": "3347万",
       "likeCount": "28.3万",
       "commentCount": "1.2万",
-      "increment_d1": "4322"
-    },
-    {
-      "rank": 1029,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/3hPI3xjsNKE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=3hPI3xjsNKE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BASI / 愛のままに feat.唾奇 (Official Music Video)",
-        "url": "https://www.youtube.com/watch?v=3hPI3xjsNKE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BASICMUSICTV",
-        "url": "https://www.youtube.com/channel/UC1xIFEp8N54S8HAG8NU68Xg",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-11-01",
-      "viewCount": "3347万",
-      "likeCount": "19.2万",
-      "commentCount": "3133",
-      "increment_d1": "1.07万"
+      "increment_d1": "3732"
     },
     {
       "rank": 1030,
@@ -685,10 +685,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-16",
-      "viewCount": "3344万",
+      "viewCount": "3346万",
       "likeCount": "-",
-      "commentCount": "9770",
-      "increment_d1": "1.8万"
+      "commentCount": "9771",
+      "increment_d1": "1.68万"
     },
     {
       "rank": 1031,
@@ -708,10 +708,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-08",
-      "viewCount": "3343万",
+      "viewCount": "3344万",
       "likeCount": "25.2万",
       "commentCount": "5220",
-      "increment_d1": "8551"
+      "increment_d1": "8357"
     },
     {
       "rank": 1032,
@@ -734,7 +734,7 @@
       "viewCount": "3342万",
       "likeCount": "12.7万",
       "commentCount": "4396",
-      "increment_d1": "7881"
+      "increment_d1": "6935"
     },
     {
       "rank": 1033,
@@ -754,10 +754,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-08-01",
-      "viewCount": "3339万",
+      "viewCount": "3340万",
       "likeCount": "31万",
       "commentCount": "1万",
-      "increment_d1": "3656"
+      "increment_d1": "3879"
     },
     {
       "rank": 1034,
@@ -780,33 +780,10 @@
       "viewCount": "3338万",
       "likeCount": "10.4万",
       "commentCount": "5102",
-      "increment_d1": "1388"
+      "increment_d1": "1246"
     },
     {
       "rank": 1035,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/nDqaTXqCN-Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=nDqaTXqCN-Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BABYMETAL - イジメ、ダメ、ゼッタイ - Ijime,Dame,Zettai (OFFICIAL)",
-        "url": "https://www.youtube.com/watch?v=nDqaTXqCN-Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BABYMETAL",
-        "url": "https://www.youtube.com/channel/UC33_tIj4m1_XaqfFcomShvw",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-11-26",
-      "viewCount": "3337万",
-      "likeCount": "30.3万",
-      "commentCount": "1.7万",
-      "increment_d1": "3532"
-    },
-    {
-      "rank": 1036,
       "thumb": {
         "img": "https://i.ytimg.com/vi/A_5wTaQKK6c/default.jpg",
         "url": "https://www.youtube.com/watch?v=A_5wTaQKK6c",
@@ -823,10 +800,33 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-17",
-      "viewCount": "3336万",
+      "viewCount": "3338万",
       "likeCount": "21.1万",
-      "commentCount": "3816",
+      "commentCount": "3815",
       "increment_d1": "2.04万"
+    },
+    {
+      "rank": 1036,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/nDqaTXqCN-Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=nDqaTXqCN-Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BABYMETAL - イジメ、ダメ、ゼッタイ - Ijime,Dame,Zettai (OFFICIAL)",
+        "url": "https://www.youtube.com/watch?v=nDqaTXqCN-Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BABYMETAL",
+        "url": "https://www.youtube.com/channel/UC33_tIj4m1_XaqfFcomShvw",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-11-26",
+      "viewCount": "3338万",
+      "likeCount": "30.3万",
+      "commentCount": "1.7万",
+      "increment_d1": "3312"
     },
     {
       "rank": 1037,
@@ -846,10 +846,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-07",
-      "viewCount": "3332万",
+      "viewCount": "3334万",
       "likeCount": "33.5万",
-      "commentCount": "4993",
-      "increment_d1": "1.96万"
+      "commentCount": "4998",
+      "increment_d1": "1.9万"
     },
     {
       "rank": 1038,
@@ -871,8 +871,8 @@
       "publishedAt": "2018-04-12",
       "viewCount": "3332万",
       "likeCount": "76.3万",
-      "commentCount": "8969",
-      "increment_d1": "5122"
+      "commentCount": "8970",
+      "increment_d1": "5105"
     },
     {
       "rank": 1039,
@@ -895,7 +895,7 @@
       "viewCount": "3328万",
       "likeCount": "-",
       "commentCount": "1.1万",
-      "increment_d1": "6316"
+      "increment_d1": "5653"
     },
     {
       "rank": 1040,
@@ -915,10 +915,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-21",
-      "viewCount": "3322万",
+      "viewCount": "3323万",
       "likeCount": "21.5万",
       "commentCount": "3931",
-      "increment_d1": "8770"
+      "increment_d1": "8164"
     },
     {
       "rank": 1041,
@@ -938,36 +938,13 @@
         "target": "_blank"
       },
       "publishedAt": "2024-03-25",
-      "viewCount": "3322万",
+      "viewCount": "3323万",
       "likeCount": "27.1万",
       "commentCount": "4万",
-      "increment_d1": "4136"
+      "increment_d1": "4374"
     },
     {
       "rank": 1042,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/cirhQ8iLdbw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=cirhQ8iLdbw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BABYMETAL - ド・キ・ド・キ☆モーニング - Doki Doki☆Morning (OFFICIAL)",
-        "url": "https://www.youtube.com/watch?v=cirhQ8iLdbw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BABYMETAL",
-        "url": "https://www.youtube.com/channel/UC33_tIj4m1_XaqfFcomShvw",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-11-08",
-      "viewCount": "3315万",
-      "likeCount": "31.4万",
-      "commentCount": "1.6万",
-      "increment_d1": "4340"
-    },
-    {
-      "rank": 1043,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Ht6lcYg9Zfo/default.jpg",
         "url": "https://www.youtube.com/watch?v=Ht6lcYg9Zfo",
@@ -984,10 +961,33 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-19",
-      "viewCount": "3315万",
+      "viewCount": "3316万",
       "likeCount": "25.4万",
-      "commentCount": "7029",
-      "increment_d1": "1.28万"
+      "commentCount": "7030",
+      "increment_d1": "1.31万"
+    },
+    {
+      "rank": 1043,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/cirhQ8iLdbw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=cirhQ8iLdbw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BABYMETAL - ド・キ・ド・キ☆モーニング - Doki Doki☆Morning (OFFICIAL)",
+        "url": "https://www.youtube.com/watch?v=cirhQ8iLdbw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BABYMETAL",
+        "url": "https://www.youtube.com/channel/UC33_tIj4m1_XaqfFcomShvw",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-11-08",
+      "viewCount": "3316万",
+      "likeCount": "31.4万",
+      "commentCount": "1.6万",
+      "increment_d1": "4293"
     },
     {
       "rank": 1044,
@@ -1007,10 +1007,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-28",
-      "viewCount": "3314万",
+      "viewCount": "3315万",
       "likeCount": "-",
       "commentCount": "7732",
-      "increment_d1": "1.03万"
+      "increment_d1": "9745"
     },
     {
       "rank": 1045,
@@ -1032,8 +1032,8 @@
       "publishedAt": "2013-10-13",
       "viewCount": "3314万",
       "likeCount": "20.8万",
-      "commentCount": "5739",
-      "increment_d1": "1721"
+      "commentCount": "5740",
+      "increment_d1": "1601"
     },
     {
       "rank": 1046,
@@ -1053,13 +1053,36 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-03",
-      "viewCount": "3313万",
+      "viewCount": "3314万",
       "likeCount": "-",
       "commentCount": "2.4万",
-      "increment_d1": "3953"
+      "increment_d1": "3743"
     },
     {
       "rank": 1047,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/WdLNw17xHLc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=WdLNw17xHLc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow Man 「僕に大切にされてね。」Rec Ver.",
+        "url": "https://www.youtube.com/watch?v=WdLNw17xHLc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Snow Man",
+        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-07-13",
+      "viewCount": "3312万",
+      "likeCount": "-",
+      "commentCount": "1.1万",
+      "increment_d1": "9006"
+    },
+    {
+      "rank": 1048,
       "thumb": {
         "img": "https://i.ytimg.com/vi/53wnNn8K8sc/default.jpg",
         "url": "https://www.youtube.com/watch?v=53wnNn8K8sc",
@@ -1079,30 +1102,7 @@
       "viewCount": "3312万",
       "likeCount": "7.7万",
       "commentCount": "3802",
-      "increment_d1": "1012"
-    },
-    {
-      "rank": 1048,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/WdLNw17xHLc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=WdLNw17xHLc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow Man 「僕に大切にされてね。」Rec Ver.",
-        "url": "https://www.youtube.com/watch?v=WdLNw17xHLc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Snow Man",
-        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-07-13",
-      "viewCount": "3311万",
-      "likeCount": "-",
-      "commentCount": "1.1万",
-      "increment_d1": "9615"
+      "increment_d1": "944"
     },
     {
       "rank": 1049,
@@ -1125,7 +1125,7 @@
       "viewCount": "3309万",
       "likeCount": "-",
       "commentCount": "8939",
-      "increment_d1": "6537"
+      "increment_d1": "6212"
     },
     {
       "rank": 1050,
@@ -1145,10 +1145,10 @@
         "target": "_blank"
       },
       "publishedAt": "2011-09-22",
-      "viewCount": "3305万",
+      "viewCount": "3306万",
       "likeCount": "7.3万",
-      "commentCount": "3462",
-      "increment_d1": "2574"
+      "commentCount": "3461",
+      "increment_d1": "2320"
     }
   ]
 }

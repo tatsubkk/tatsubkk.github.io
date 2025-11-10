@@ -3,6 +3,28 @@
     {
       "rank": 1001,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/TELFpTs29Ag/default.jpg",
+        "url": "https://www.youtube.com/watch?v=TELFpTs29Ag",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Fujii Kaze Stadium Live “Feelin' Good” [day1]",
+        "url": "https://www.youtube.com/watch?v=TELFpTs29Ag",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Fujii Kaze",
+        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-08-24",
+      "viewCount": "1179万",
+      "likeCount": "21.98万",
+      "commentCount": "1.7万"
+    },
+    {
+      "rank": 1002,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/mAGyQ5Rmz7o/default.jpg",
         "url": "https://www.youtube.com/watch?v=mAGyQ5Rmz7o",
         "target": "_blank"
@@ -21,28 +43,6 @@
       "viewCount": "2950万",
       "likeCount": "21.97万",
       "commentCount": "1.1万"
-    },
-    {
-      "rank": 1002,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/TELFpTs29Ag/default.jpg",
-        "url": "https://www.youtube.com/watch?v=TELFpTs29Ag",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Fujii Kaze Stadium Live “Feelin' Good” [day1]",
-        "url": "https://www.youtube.com/watch?v=TELFpTs29Ag",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Fujii Kaze",
-        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-08-24",
-      "viewCount": "1178万",
-      "likeCount": "21.97万",
-      "commentCount": "1.7万"
     },
     {
       "rank": 1003,
@@ -106,9 +106,9 @@
         "target": "_blank"
       },
       "publishedAt": "2025-04-08",
-      "viewCount": "1785万",
-      "likeCount": "21.87万",
-      "commentCount": "6062"
+      "viewCount": "1788万",
+      "likeCount": "21.88万",
+      "commentCount": "6064"
     },
     {
       "rank": 1006,
@@ -130,7 +130,7 @@
       "publishedAt": "2020-01-16",
       "viewCount": "1414万",
       "likeCount": "21.85万",
-      "commentCount": "6107"
+      "commentCount": "6108"
     },
     {
       "rank": 1007,
@@ -152,32 +152,10 @@
       "publishedAt": "2012-02-29",
       "viewCount": "1687万",
       "likeCount": "21.83万",
-      "commentCount": "6623"
+      "commentCount": "6624"
     },
     {
       "rank": 1008,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/BydbhAzmAzg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=BydbhAzmAzg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "XG - IN THE RAIN (Official Music Video)",
-        "url": "https://www.youtube.com/watch?v=BydbhAzmAzg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "XG",
-        "url": "https://www.youtube.com/channel/UC12HMtO5MYph9dCZZ7yygng",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-04-11",
-      "viewCount": "1122万",
-      "likeCount": "21.81万",
-      "commentCount": "7670"
-    },
-    {
-      "rank": 1009,
       "thumb": {
         "img": "https://i.ytimg.com/vi/EMYa07zHC9w/default.jpg",
         "url": "https://www.youtube.com/watch?v=EMYa07zHC9w",
@@ -194,9 +172,31 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-26",
-      "viewCount": "3208万",
-      "likeCount": "21.8万",
-      "commentCount": "7158"
+      "viewCount": "3210万",
+      "likeCount": "21.81万",
+      "commentCount": "7159"
+    },
+    {
+      "rank": 1009,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/BydbhAzmAzg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=BydbhAzmAzg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "XG - IN THE RAIN (Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=BydbhAzmAzg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "XG",
+        "url": "https://www.youtube.com/channel/UC12HMtO5MYph9dCZZ7yygng",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-04-11",
+      "viewCount": "1123万",
+      "likeCount": "21.81万",
+      "commentCount": "7671"
     },
     {
       "rank": 1010,
@@ -216,12 +216,34 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-09",
-      "viewCount": "2066万",
-      "likeCount": "21.8万",
-      "commentCount": "2836"
+      "viewCount": "2067万",
+      "likeCount": "21.81万",
+      "commentCount": "2837"
     },
     {
       "rank": 1011,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/kQvT37OzkP8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=kQvT37OzkP8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Fujii Kaze - Seishun Sick (Official Video)",
+        "url": "https://www.youtube.com/watch?v=kQvT37OzkP8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Fujii Kaze",
+        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-12-11",
+      "viewCount": "2976万",
+      "likeCount": "21.8万",
+      "commentCount": "8614"
+    },
+    {
+      "rank": 1012,
       "thumb": {
         "img": "https://i.ytimg.com/vi/4VUKDx0wfwY/default.jpg",
         "url": "https://www.youtube.com/watch?v=4VUKDx0wfwY",
@@ -243,29 +265,29 @@
       "commentCount": "1.3万"
     },
     {
-      "rank": 1012,
+      "rank": 1013,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/kQvT37OzkP8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=kQvT37OzkP8",
+        "img": "https://i.ytimg.com/vi/r105CzDvoo0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=r105CzDvoo0",
         "target": "_blank"
       },
       "title": {
-        "text": "Fujii Kaze - Seishun Sick (Official Video)",
-        "url": "https://www.youtube.com/watch?v=kQvT37OzkP8",
+        "text": "milet「Anytime Anywhere」MUSIC VIDEO (TVアニメ『葬送のフリーレン』エンディングテーマ)",
+        "url": "https://www.youtube.com/watch?v=r105CzDvoo0",
         "target": "_blank"
       },
       "channel": {
-        "text": "Fujii Kaze",
-        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
+        "text": "milet Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCpgxgkifUGSKg9dNFE5Vo7Q",
         "target": "_blank"
       },
-      "publishedAt": "2020-12-11",
-      "viewCount": "2975万",
+      "publishedAt": "2023-10-06",
+      "viewCount": "3008万",
       "likeCount": "21.8万",
-      "commentCount": "8610"
+      "commentCount": "4533"
     },
     {
-      "rank": 1013,
+      "rank": 1014,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Zs1sHB6DNR4/default.jpg",
         "url": "https://www.youtube.com/watch?v=Zs1sHB6DNR4",
@@ -287,28 +309,6 @@
       "commentCount": "5917"
     },
     {
-      "rank": 1013,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/r105CzDvoo0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=r105CzDvoo0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "milet「Anytime Anywhere」MUSIC VIDEO (TVアニメ『葬送のフリーレン』エンディングテーマ)",
-        "url": "https://www.youtube.com/watch?v=r105CzDvoo0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "milet Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCpgxgkifUGSKg9dNFE5Vo7Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-10-06",
-      "viewCount": "3006万",
-      "likeCount": "21.8万",
-      "commentCount": "4533"
-    },
-    {
       "rank": 1015,
       "thumb": {
         "img": "https://i.ytimg.com/vi/tMKrECxEpq8/default.jpg",
@@ -328,7 +328,7 @@
       "publishedAt": "2019-06-05",
       "viewCount": "2087万",
       "likeCount": "21.75万",
-      "commentCount": "5913"
+      "commentCount": "5915"
     },
     {
       "rank": 1016,
@@ -348,7 +348,7 @@
         "target": "_blank"
       },
       "publishedAt": "2025-06-28",
-      "viewCount": "1580万",
+      "viewCount": "1581万",
       "likeCount": "21.72万",
       "commentCount": "-"
     },
@@ -371,7 +371,7 @@
       },
       "publishedAt": "2017-09-17",
       "viewCount": "1684万",
-      "likeCount": "21.67万",
+      "likeCount": "21.68万",
       "commentCount": "2215"
     },
     {
@@ -392,9 +392,9 @@
         "target": "_blank"
       },
       "publishedAt": "2018-09-19",
-      "viewCount": "2520万",
+      "viewCount": "2521万",
       "likeCount": "21.66万",
-      "commentCount": "4885"
+      "commentCount": "4886"
     },
     {
       "rank": 1019,
@@ -414,9 +414,9 @@
         "target": "_blank"
       },
       "publishedAt": "2011-02-22",
-      "viewCount": "4391万",
+      "viewCount": "4392万",
       "likeCount": "21.64万",
-      "commentCount": "5562"
+      "commentCount": "5564"
     },
     {
       "rank": 1020,
@@ -436,9 +436,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-16",
-      "viewCount": "2252万",
-      "likeCount": "21.61万",
-      "commentCount": "3632"
+      "viewCount": "2256万",
+      "likeCount": "21.63万",
+      "commentCount": "3634"
     },
     {
       "rank": 1021,
@@ -458,8 +458,8 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-24",
-      "viewCount": "2395万",
-      "likeCount": "21.57万",
+      "viewCount": "2396万",
+      "likeCount": "21.58万",
       "commentCount": "5407"
     },
     {
@@ -480,8 +480,8 @@
         "target": "_blank"
       },
       "publishedAt": "2017-08-01",
-      "viewCount": "4245万",
-      "likeCount": "21.55万",
+      "viewCount": "4247万",
+      "likeCount": "21.56万",
       "commentCount": "1.1万"
     },
     {
@@ -503,7 +503,7 @@
       },
       "publishedAt": "2022-04-07",
       "viewCount": "2241万",
-      "likeCount": "21.5万",
+      "likeCount": "21.51万",
       "commentCount": "3943"
     },
     {
@@ -524,8 +524,8 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-21",
-      "viewCount": "3322万",
-      "likeCount": "21.49万",
+      "viewCount": "3323万",
+      "likeCount": "21.5万",
       "commentCount": "3931"
     },
     {
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-11-09",
-      "viewCount": "1229万",
+      "viewCount": "1230万",
       "likeCount": "21.49万",
       "commentCount": "8652"
     },
@@ -568,8 +568,8 @@
         "target": "_blank"
       },
       "publishedAt": "2025-05-18",
-      "viewCount": "1483万",
-      "likeCount": "21.46万",
+      "viewCount": "1486万",
+      "likeCount": "21.47万",
       "commentCount": "5447"
     },
     {
@@ -613,8 +613,8 @@
       },
       "publishedAt": "2020-01-21",
       "viewCount": "1644万",
-      "likeCount": "21.43万",
-      "commentCount": "5343"
+      "likeCount": "21.44万",
+      "commentCount": "5345"
     },
     {
       "rank": 1029,
@@ -656,12 +656,34 @@
         "target": "_blank"
       },
       "publishedAt": "2011-03-04",
-      "viewCount": "5875万",
-      "likeCount": "21.39万",
+      "viewCount": "5876万",
+      "likeCount": "21.4万",
       "commentCount": "1.1万"
     },
     {
       "rank": 1031,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/yMatGl4PySY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=yMatGl4PySY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "なとり - Overdose(Acoustic)",
+        "url": "https://www.youtube.com/watch?v=yMatGl4PySY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "なとり / natori",
+        "url": "https://www.youtube.com/channel/UC4GXMHCwmONp6XFRB5SayAg",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-04-28",
+      "viewCount": "1588万",
+      "likeCount": "21.39万",
+      "commentCount": "1847"
+    },
+    {
+      "rank": 1032,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Qou76O_Rys0/default.jpg",
         "url": "https://www.youtube.com/watch?v=Qou76O_Rys0",
@@ -683,7 +705,29 @@
       "commentCount": "5379"
     },
     {
-      "rank": 1032,
+      "rank": 1033,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/qIcIpSyHcyM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=qIcIpSyHcyM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "King Gnu - TWILIGHT!!!",
+        "url": "https://www.youtube.com/watch?v=qIcIpSyHcyM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "King Gnu official YouTube channel",
+        "url": "https://www.youtube.com/channel/UCkB8HnJSDSJ2hkLQFUc-YrQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-04-18",
+      "viewCount": "2395万",
+      "likeCount": "21.39万",
+      "commentCount": "7780"
+    },
+    {
+      "rank": 1034,
       "thumb": {
         "img": "https://i.ytimg.com/vi/hlNWfslbSGA/default.jpg",
         "url": "https://www.youtube.com/watch?v=hlNWfslbSGA",
@@ -705,51 +749,29 @@
       "commentCount": "1万"
     },
     {
-      "rank": 1032,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/yMatGl4PySY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=yMatGl4PySY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "なとり - Overdose(Acoustic)",
-        "url": "https://www.youtube.com/watch?v=yMatGl4PySY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "なとり / natori",
-        "url": "https://www.youtube.com/channel/UC4GXMHCwmONp6XFRB5SayAg",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-04-28",
-      "viewCount": "1585万",
-      "likeCount": "21.38万",
-      "commentCount": "1846"
-    },
-    {
-      "rank": 1034,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/qIcIpSyHcyM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=qIcIpSyHcyM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "King Gnu - TWILIGHT!!!",
-        "url": "https://www.youtube.com/watch?v=qIcIpSyHcyM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "King Gnu official YouTube channel",
-        "url": "https://www.youtube.com/channel/UCkB8HnJSDSJ2hkLQFUc-YrQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-04-18",
-      "viewCount": "2392万",
-      "likeCount": "21.38万",
-      "commentCount": "7781"
-    },
-    {
       "rank": 1035,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/CO0Eoj9aPcs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=CO0Eoj9aPcs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE「天国」Official Music Video",
+        "url": "https://www.youtube.com/watch?v=CO0Eoj9aPcs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-05-02",
+      "viewCount": "1947万",
+      "likeCount": "21.37万",
+      "commentCount": "1.4万"
+    },
+    {
+      "rank": 1036,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ElnxZtiBDvs/default.jpg",
         "url": "https://www.youtube.com/watch?v=ElnxZtiBDvs",
@@ -771,28 +793,6 @@
       "commentCount": "6378"
     },
     {
-      "rank": 1036,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/CO0Eoj9aPcs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=CO0Eoj9aPcs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE「天国」Official Music Video",
-        "url": "https://www.youtube.com/watch?v=CO0Eoj9aPcs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-05-02",
-      "viewCount": "1943万",
-      "likeCount": "21.36万",
-      "commentCount": "1.4万"
-    },
-    {
       "rank": 1037,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vyUMYYc8lxU/default.jpg",
@@ -811,8 +811,8 @@
       },
       "publishedAt": "2011-09-22",
       "viewCount": "4007万",
-      "likeCount": "21.35万",
-      "commentCount": "8615"
+      "likeCount": "21.36万",
+      "commentCount": "8620"
     },
     {
       "rank": 1038,
@@ -832,8 +832,8 @@
         "target": "_blank"
       },
       "publishedAt": "2025-06-12",
-      "viewCount": "3831万",
-      "likeCount": "21.32万",
+      "viewCount": "3835万",
+      "likeCount": "21.33万",
       "commentCount": "2.2万"
     },
     {
@@ -876,9 +876,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-05-12",
-      "viewCount": "5336万",
+      "viewCount": "5337万",
       "likeCount": "21.28万",
-      "commentCount": "5920"
+      "commentCount": "5922"
     },
     {
       "rank": 1041,
@@ -898,9 +898,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-30",
-      "viewCount": "3424万",
-      "likeCount": "21.24万",
-      "commentCount": "3644"
+      "viewCount": "3425万",
+      "likeCount": "21.25万",
+      "commentCount": "3648"
     },
     {
       "rank": 1042,
@@ -942,8 +942,8 @@
         "target": "_blank"
       },
       "publishedAt": "2011-07-15",
-      "viewCount": "1億226万",
-      "likeCount": "21.22万",
+      "viewCount": "1億227万",
+      "likeCount": "21.23万",
       "commentCount": "1.7万"
     },
     {
@@ -964,7 +964,7 @@
         "target": "_blank"
       },
       "publishedAt": "2011-11-04",
-      "viewCount": "6193万",
+      "viewCount": "6194万",
       "likeCount": "21.2万",
       "commentCount": "1.4万"
     },
@@ -988,7 +988,7 @@
       "publishedAt": "2018-08-24",
       "viewCount": "1331万",
       "likeCount": "21.2万",
-      "commentCount": "8201"
+      "commentCount": "8202"
     },
     {
       "rank": 1046,
@@ -1010,7 +1010,7 @@
       "publishedAt": "2020-08-11",
       "viewCount": "2444万",
       "likeCount": "21.19万",
-      "commentCount": "2716"
+      "commentCount": "2715"
     },
     {
       "rank": 1047,
@@ -1030,9 +1030,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-10-31",
-      "viewCount": "4663万",
+      "viewCount": "4665万",
       "likeCount": "21.19万",
-      "commentCount": "3440"
+      "commentCount": "3443"
     },
     {
       "rank": 1048,
@@ -1096,8 +1096,8 @@
         "target": "_blank"
       },
       "publishedAt": "2012-05-21",
-      "viewCount": "6958万",
-      "likeCount": "21.14万",
+      "viewCount": "6959万",
+      "likeCount": "21.15万",
       "commentCount": "1万"
     }
   ]
