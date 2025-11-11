@@ -40,7 +40,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-04-25",
-      "viewCount": "8759万",
+      "viewCount": "8760万",
       "likeCount": "31.8万",
       "commentCount": "2.28万"
     },
@@ -62,7 +62,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-12-11",
-      "viewCount": "1億4226万",
+      "viewCount": "1億4227万",
       "likeCount": "49.6万",
       "commentCount": "2.27万"
     },
@@ -84,7 +84,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-18",
-      "viewCount": "1億626万",
+      "viewCount": "1億628万",
       "likeCount": "80.1万",
       "commentCount": "2.27万"
     },
@@ -194,7 +194,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-05-13",
-      "viewCount": "1億3560万",
+      "viewCount": "1億3562万",
       "likeCount": "58.8万",
       "commentCount": "2.26万"
     },
@@ -260,7 +260,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-12-13",
-      "viewCount": "6033万",
+      "viewCount": "6034万",
       "likeCount": "31.9万",
       "commentCount": "2.25万"
     },
@@ -282,12 +282,34 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-30",
-      "viewCount": "8036万",
+      "viewCount": "8039万",
       "likeCount": "90.9万",
       "commentCount": "2.25万"
     },
     {
       "rank": 414,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/H0MuwWjM4ok/default.jpg",
+        "url": "https://www.youtube.com/watch?v=H0MuwWjM4ok",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow Man 'SERIOUS' Music Video",
+        "url": "https://www.youtube.com/watch?v=H0MuwWjM4ok",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Snow Man",
+        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-06-12",
+      "viewCount": "3839万",
+      "likeCount": "21.3万",
+      "commentCount": "2.24万"
+    },
+    {
+      "rank": 415,
       "thumb": {
         "img": "https://i.ytimg.com/vi/dMSdg2_cPfM/default.jpg",
         "url": "https://www.youtube.com/watch?v=dMSdg2_cPfM",
@@ -306,28 +328,6 @@
       "publishedAt": "2020-07-15",
       "viewCount": "4753万",
       "likeCount": "52.7万",
-      "commentCount": "2.24万"
-    },
-    {
-      "rank": 415,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/H0MuwWjM4ok/default.jpg",
-        "url": "https://www.youtube.com/watch?v=H0MuwWjM4ok",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow Man 'SERIOUS' Music Video",
-        "url": "https://www.youtube.com/watch?v=H0MuwWjM4ok",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Snow Man",
-        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-06-12",
-      "viewCount": "3835万",
-      "likeCount": "21.3万",
       "commentCount": "2.24万"
     },
     {
@@ -355,28 +355,6 @@
     {
       "rank": 417,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/Y8HeOA95UzQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Y8HeOA95UzQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "King Gnu - 三文小説",
-        "url": "https://www.youtube.com/watch?v=Y8HeOA95UzQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "King Gnu official YouTube channel",
-        "url": "https://www.youtube.com/channel/UCkB8HnJSDSJ2hkLQFUc-YrQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-11-06",
-      "viewCount": "6580万",
-      "likeCount": "43.5万",
-      "commentCount": "2.24万"
-    },
-    {
-      "rank": 418,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/ufc54RdoitM/default.jpg",
         "url": "https://www.youtube.com/watch?v=ufc54RdoitM",
         "target": "_blank"
@@ -392,9 +370,31 @@
         "target": "_blank"
       },
       "publishedAt": "2025-08-24",
-      "viewCount": "5901万",
-      "likeCount": "24.9万",
-      "commentCount": "2.23万"
+      "viewCount": "5913万",
+      "likeCount": "25万",
+      "commentCount": "2.24万"
+    },
+    {
+      "rank": 418,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Y8HeOA95UzQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Y8HeOA95UzQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "King Gnu - 三文小説",
+        "url": "https://www.youtube.com/watch?v=Y8HeOA95UzQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "King Gnu official YouTube channel",
+        "url": "https://www.youtube.com/channel/UCkB8HnJSDSJ2hkLQFUc-YrQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-11-06",
+      "viewCount": "6581万",
+      "likeCount": "43.5万",
+      "commentCount": "2.24万"
     },
     {
       "rank": 419,
@@ -414,7 +414,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-20",
-      "viewCount": "1億5578万",
+      "viewCount": "1億5584万",
       "likeCount": "162万",
       "commentCount": "2.22万"
     },
@@ -436,7 +436,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-28",
-      "viewCount": "1億3162万",
+      "viewCount": "1億3172万",
       "likeCount": "53.5万",
       "commentCount": "2.22万"
     },
@@ -502,7 +502,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-02-13",
-      "viewCount": "7992万",
+      "viewCount": "7995万",
       "likeCount": "84.2万",
       "commentCount": "2.2万"
     },
@@ -524,7 +524,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-12-19",
-      "viewCount": "7296万",
+      "viewCount": "7299万",
       "likeCount": "78.6万",
       "commentCount": "2.2万"
     },
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-03-03",
-      "viewCount": "6947万",
+      "viewCount": "6948万",
       "likeCount": "55.8万",
       "commentCount": "2.19万"
     },
@@ -568,7 +568,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-06-28",
-      "viewCount": "5998万",
+      "viewCount": "5999万",
       "likeCount": "-",
       "commentCount": "2.19万"
     },
@@ -590,7 +590,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-02-22",
-      "viewCount": "4988万",
+      "viewCount": "4989万",
       "likeCount": "40.2万",
       "commentCount": "2.19万"
     },
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-10-01",
-      "viewCount": "7882万",
+      "viewCount": "7883万",
       "likeCount": "70.6万",
       "commentCount": "2.18万"
     },
@@ -700,7 +700,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-10-30",
-      "viewCount": "1億3031万",
+      "viewCount": "1億3032万",
       "likeCount": "73万",
       "commentCount": "2.18万"
     },
@@ -751,28 +751,6 @@
     {
       "rank": 435,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/ANp0qch3XVM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ANp0qch3XVM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ダダダダ天使 / ナナヲアカリ",
-        "url": "https://www.youtube.com/watch?v=ANp0qch3XVM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ナナヲアカリ OFFICIAL",
-        "url": "https://www.youtube.com/channel/UCrrNHoXQ1uTYsR6v41pDalQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-07-31",
-      "viewCount": "5736万",
-      "likeCount": "53.3万",
-      "commentCount": "2.17万"
-    },
-    {
-      "rank": 436,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/_QnW6gWUDUU/default.jpg",
         "url": "https://www.youtube.com/watch?v=_QnW6gWUDUU",
         "target": "_blank"
@@ -788,8 +766,30 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-01",
-      "viewCount": "4394万",
+      "viewCount": "4395万",
       "likeCount": "-",
+      "commentCount": "2.17万"
+    },
+    {
+      "rank": 436,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ANp0qch3XVM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ANp0qch3XVM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ダダダダ天使 / ナナヲアカリ",
+        "url": "https://www.youtube.com/watch?v=ANp0qch3XVM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ナナヲアカリ OFFICIAL",
+        "url": "https://www.youtube.com/channel/UCrrNHoXQ1uTYsR6v41pDalQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-07-31",
+      "viewCount": "5737万",
+      "likeCount": "53.4万",
       "commentCount": "2.17万"
     },
     {
@@ -810,7 +810,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-06-12",
-      "viewCount": "3263万",
+      "viewCount": "3264万",
       "likeCount": "45.8万",
       "commentCount": "2.17万"
     },
@@ -832,7 +832,7 @@
         "target": "_blank"
       },
       "publishedAt": "2025-02-14",
-      "viewCount": "1830万",
+      "viewCount": "1832万",
       "likeCount": "14.1万",
       "commentCount": "2.17万"
     },
@@ -876,7 +876,7 @@
         "target": "_blank"
       },
       "publishedAt": "2008-12-18",
-      "viewCount": "5026万",
+      "viewCount": "5028万",
       "likeCount": "29万",
       "commentCount": "2.16万"
     },
@@ -942,7 +942,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-07",
-      "viewCount": "5895万",
+      "viewCount": "5896万",
       "likeCount": "-",
       "commentCount": "2.15万"
     },
@@ -964,7 +964,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-14",
-      "viewCount": "2億8208万",
+      "viewCount": "2億8213万",
       "likeCount": "133万",
       "commentCount": "2.15万"
     },
@@ -986,7 +986,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-16",
-      "viewCount": "8668万",
+      "viewCount": "8673万",
       "likeCount": "116万",
       "commentCount": "2.14万"
     },
@@ -1015,6 +1015,28 @@
     {
       "rank": 447,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/Soy4jGPHr3g/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Soy4jGPHr3g",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "テトリス / 重音テトSV",
+        "url": "https://www.youtube.com/watch?v=Soy4jGPHr3g",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "柊マグネタイト",
+        "url": "https://www.youtube.com/channel/UCFXkDxCa_XVcNC7oOEw7U5g",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-11-08",
+      "viewCount": "9694万",
+      "likeCount": "85.6万",
+      "commentCount": "2.13万"
+    },
+    {
+      "rank": 448,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/gt-v_YCkaMY/default.jpg",
         "url": "https://www.youtube.com/watch?v=gt-v_YCkaMY",
         "target": "_blank"
@@ -1030,12 +1052,12 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-06",
-      "viewCount": "1億5647万",
+      "viewCount": "1億5652万",
       "likeCount": "129万",
       "commentCount": "2.13万"
     },
     {
-      "rank": 448,
+      "rank": 449,
       "thumb": {
         "img": "https://i.ytimg.com/vi/RkjSfZ30GM4/default.jpg",
         "url": "https://www.youtube.com/watch?v=RkjSfZ30GM4",
@@ -1052,30 +1074,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-25",
-      "viewCount": "4321万",
+      "viewCount": "4322万",
       "likeCount": "86.3万",
-      "commentCount": "2.13万"
-    },
-    {
-      "rank": 449,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Soy4jGPHr3g/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Soy4jGPHr3g",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "テトリス / 重音テトSV",
-        "url": "https://www.youtube.com/watch?v=Soy4jGPHr3g",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "柊マグネタイト",
-        "url": "https://www.youtube.com/channel/UCFXkDxCa_XVcNC7oOEw7U5g",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-11-08",
-      "viewCount": "9680万",
-      "likeCount": "85.5万",
       "commentCount": "2.13万"
     },
     {

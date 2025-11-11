@@ -3,23 +3,23 @@
     {
       "rank": 3000,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/eoLwKBJLlBg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=eoLwKBJLlBg",
+        "img": "https://i.ytimg.com/vi/7DX-XYyrZqA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=7DX-XYyrZqA",
         "target": "_blank"
       },
       "title": {
-        "text": "back number - 「僕の名前を」Music Video",
-        "url": "https://www.youtube.com/watch?v=eoLwKBJLlBg",
+        "text": "清水翔太『Fallin』MV",
+        "url": "https://www.youtube.com/watch?v=7DX-XYyrZqA",
         "target": "_blank"
       },
       "channel": {
-        "text": "UNIVERSAL MUSIC JAPAN",
-        "url": "https://www.youtube.com/channel/UCl2aT0nRejTCQO_LHZAftBw",
+        "text": "清水翔太 / Shota Shimizu",
+        "url": "https://www.youtube.com/channel/UCv3cmuTwVzTXROJdaT7xw6w",
         "target": "_blank"
       },
-      "publishedAt": "2016-05-09",
-      "viewCount": "1387万",
-      "likeCount": "3.1万",
+      "publishedAt": "2023-05-31",
+      "viewCount": "1369万",
+      "likeCount": "-",
       "commentCount": "790"
     },
     {
@@ -40,7 +40,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-12-29",
-      "viewCount": "1187万",
+      "viewCount": "1189万",
       "likeCount": "5.7万",
       "commentCount": "785"
     },
@@ -106,7 +106,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-27",
-      "viewCount": "1572万",
+      "viewCount": "1573万",
       "likeCount": "10.7万",
       "commentCount": "778"
     },
@@ -194,9 +194,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-05",
-      "viewCount": "1億2002万",
+      "viewCount": "1億2008万",
       "likeCount": "43.3万",
-      "commentCount": "723"
+      "commentCount": "724"
     },
     {
       "rank": 3010,
@@ -238,9 +238,31 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
-      "viewCount": "5137万",
+      "viewCount": "5143万",
       "likeCount": "37.3万",
-      "commentCount": "716"
+      "commentCount": "717"
+    },
+    {
+      "rank": 3012,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/QdVWtHc2_LU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=QdVWtHc2_LU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MISIA - 果てなく続くストーリー（Official HD Music Video）",
+        "url": "https://www.youtube.com/watch?v=QdVWtHc2_LU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "MISIA",
+        "url": "https://www.youtube.com/channel/UCzPBIyFM_VyXgG9At-1Il4Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2008-12-16",
+      "viewCount": "1050万",
+      "likeCount": "2.1万",
+      "commentCount": "711"
     },
     {
       "rank": 3012,
@@ -265,51 +287,7 @@
       "commentCount": "711"
     },
     {
-      "rank": 3013,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/QdVWtHc2_LU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=QdVWtHc2_LU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MISIA - 果てなく続くストーリー（Official HD Music Video）",
-        "url": "https://www.youtube.com/watch?v=QdVWtHc2_LU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "MISIA",
-        "url": "https://www.youtube.com/channel/UCzPBIyFM_VyXgG9At-1Il4Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2008-12-16",
-      "viewCount": "1050万",
-      "likeCount": "2.1万",
-      "commentCount": "710"
-    },
-    {
-      "rank": 3013,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/5h_Ks9IkptQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=5h_Ks9IkptQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "B'z / C'mon",
-        "url": "https://www.youtube.com/watch?v=5h_Ks9IkptQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Bz",
-        "url": "https://www.youtube.com/channel/UCpEEcJhBig2GqUFxcXjqiLg",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-07-09",
-      "viewCount": "1126万",
-      "likeCount": "3.3万",
-      "commentCount": "710"
-    },
-    {
-      "rank": 3015,
+      "rank": 3014,
       "thumb": {
         "img": "https://i.ytimg.com/vi/z2TNnnQbGJs/default.jpg",
         "url": "https://www.youtube.com/watch?v=z2TNnnQbGJs",
@@ -326,9 +304,31 @@
         "target": "_blank"
       },
       "publishedAt": "2015-09-26",
-      "viewCount": "1265万",
+      "viewCount": "1266万",
       "likeCount": "6.6万",
-      "commentCount": "709"
+      "commentCount": "710"
+    },
+    {
+      "rank": 3014,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/5h_Ks9IkptQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=5h_Ks9IkptQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "B'z / C'mon",
+        "url": "https://www.youtube.com/watch?v=5h_Ks9IkptQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Bz",
+        "url": "https://www.youtube.com/channel/UCpEEcJhBig2GqUFxcXjqiLg",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-07-09",
+      "viewCount": "1127万",
+      "likeCount": "3.3万",
+      "commentCount": "710"
     },
     {
       "rank": 3016,
@@ -370,7 +370,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-05",
-      "viewCount": "1415万",
+      "viewCount": "1417万",
       "likeCount": "3.8万",
       "commentCount": "695"
     },
@@ -443,28 +443,6 @@
     {
       "rank": 3021,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/3sbvSSrKNi4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=3sbvSSrKNi4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "クリス・ハート - 糸",
-        "url": "https://www.youtube.com/watch?v=3sbvSSrKNi4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "UNIVERSAL MUSIC JAPAN",
-        "url": "https://www.youtube.com/channel/UCl2aT0nRejTCQO_LHZAftBw",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-06-25",
-      "viewCount": "1155万",
-      "likeCount": "2万",
-      "commentCount": "670"
-    },
-    {
-      "rank": 3021,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/3xywnD8Nru4/default.jpg",
         "url": "https://www.youtube.com/watch?v=3xywnD8Nru4",
         "target": "_blank"
@@ -482,6 +460,28 @@
       "publishedAt": "2013-01-21",
       "viewCount": "1101万",
       "likeCount": "3.8万",
+      "commentCount": "670"
+    },
+    {
+      "rank": 3021,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/3sbvSSrKNi4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=3sbvSSrKNi4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "クリス・ハート - 糸",
+        "url": "https://www.youtube.com/watch?v=3sbvSSrKNi4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "UNIVERSAL MUSIC JAPAN",
+        "url": "https://www.youtube.com/channel/UCl2aT0nRejTCQO_LHZAftBw",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-06-25",
+      "viewCount": "1155万",
+      "likeCount": "2万",
       "commentCount": "670"
     },
     {
@@ -612,7 +612,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-09-26",
-      "viewCount": "1385万",
+      "viewCount": "1386万",
       "likeCount": "8.4万",
       "commentCount": "617"
     },
@@ -656,9 +656,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-05",
-      "viewCount": "6676万",
+      "viewCount": "6681万",
       "likeCount": "37.6万",
-      "commentCount": "612"
+      "commentCount": "614"
     },
     {
       "rank": 3031,
@@ -678,9 +678,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-17",
-      "viewCount": "1730万",
+      "viewCount": "1731万",
       "likeCount": "8.4万",
-      "commentCount": "607"
+      "commentCount": "608"
     },
     {
       "rank": 3032,
@@ -700,7 +700,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-10-28",
-      "viewCount": "3654万",
+      "viewCount": "3655万",
       "likeCount": "15.7万",
       "commentCount": "604"
     },
@@ -722,9 +722,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-03",
-      "viewCount": "4901万",
+      "viewCount": "4907万",
       "likeCount": "20.8万",
-      "commentCount": "601"
+      "commentCount": "602"
     },
     {
       "rank": 3034,
@@ -832,7 +832,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-09-24",
-      "viewCount": "1589万",
+      "viewCount": "1590万",
       "likeCount": "1.4万",
       "commentCount": "584"
     },
@@ -964,7 +964,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-07-23",
-      "viewCount": "1377万",
+      "viewCount": "1378万",
       "likeCount": "1.6万",
       "commentCount": "548"
     },
@@ -986,9 +986,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-09-26",
-      "viewCount": "1292万",
+      "viewCount": "1293万",
       "likeCount": "6.6万",
-      "commentCount": "536"
+      "commentCount": "537"
     },
     {
       "rank": 3046,
@@ -1008,9 +1008,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-02",
-      "viewCount": "3353万",
+      "viewCount": "3354万",
       "likeCount": "-",
-      "commentCount": "534"
+      "commentCount": "536"
     },
     {
       "rank": 3047,
@@ -1030,12 +1030,12 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-17",
-      "viewCount": "1119万",
+      "viewCount": "1120万",
       "likeCount": "6.4万",
-      "commentCount": "524"
+      "commentCount": "525"
     },
     {
-      "rank": 3047,
+      "rank": 3048,
       "thumb": {
         "img": "https://i.ytimg.com/vi/TXajznNY8UU/default.jpg",
         "url": "https://www.youtube.com/watch?v=TXajznNY8UU",

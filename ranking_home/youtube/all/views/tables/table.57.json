@@ -18,10 +18,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-28",
-      "viewCount": "1210万",
+      "viewCount": "1211万",
       "likeCount": "23.6万",
       "commentCount": "7956",
-      "increment_d1": "1268"
+      "increment_d1": "1066"
     },
     {
       "rank": 2802,
@@ -41,10 +41,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-17",
-      "viewCount": "1209万",
+      "viewCount": "1210万",
       "likeCount": "7万",
-      "commentCount": "3329",
-      "increment_d1": "7552"
+      "commentCount": "3332",
+      "increment_d1": "6817"
     },
     {
       "rank": 2803,
@@ -66,8 +66,8 @@
       "publishedAt": "2022-09-05",
       "viewCount": "1208万",
       "likeCount": "-",
-      "commentCount": "7702",
-      "increment_d1": "640"
+      "commentCount": "7708",
+      "increment_d1": "616"
     },
     {
       "rank": 2804,
@@ -90,7 +90,7 @@
       "viewCount": "1208万",
       "likeCount": "16.4万",
       "commentCount": "6769",
-      "increment_d1": "775"
+      "increment_d1": "688"
     },
     {
       "rank": 2805,
@@ -112,8 +112,8 @@
       "publishedAt": "2021-10-09",
       "viewCount": "1208万",
       "likeCount": "-",
-      "commentCount": "5910",
-      "increment_d1": "2500"
+      "commentCount": "5911",
+      "increment_d1": "2195"
     },
     {
       "rank": 2806,
@@ -133,10 +133,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-04-22",
-      "viewCount": "1207万",
+      "viewCount": "1208万",
       "likeCount": "8.6万",
       "commentCount": "3669",
-      "increment_d1": "964"
+      "increment_d1": "805"
     },
     {
       "rank": 2807,
@@ -158,8 +158,8 @@
       "publishedAt": "2015-10-20",
       "viewCount": "1207万",
       "likeCount": "7.1万",
-      "commentCount": "3039",
-      "increment_d1": "1581"
+      "commentCount": "3041",
+      "increment_d1": "1508"
     },
     {
       "rank": 2808,
@@ -182,33 +182,10 @@
       "viewCount": "1207万",
       "likeCount": "17.1万",
       "commentCount": "7696",
-      "increment_d1": "674"
+      "increment_d1": "682"
     },
     {
       "rank": 2809,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/VEOKSpViv3s/default.jpg",
-        "url": "https://www.youtube.com/watch?v=VEOKSpViv3s",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SHINee - 「LUCIFER」Music Video",
-        "url": "https://www.youtube.com/watch?v=VEOKSpViv3s",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "EMI Records Japan",
-        "url": "https://www.youtube.com/channel/UCCRNhOhQgdcPngRz54djGgA",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-09-15",
-      "viewCount": "1206万",
-      "likeCount": "-",
-      "commentCount": "-",
-      "increment_d1": "377"
-    },
-    {
-      "rank": 2810,
       "thumb": {
         "img": "https://i.ytimg.com/vi/AvJuhgj09ng/default.jpg",
         "url": "https://www.youtube.com/watch?v=AvJuhgj09ng",
@@ -228,10 +205,10 @@
       "viewCount": "1206万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "5122"
+      "increment_d1": "6235"
     },
     {
-      "rank": 2811,
+      "rank": 2810,
       "thumb": {
         "img": "https://i.ytimg.com/vi/PlYXXoMPWjs/default.jpg",
         "url": "https://www.youtube.com/watch?v=PlYXXoMPWjs",
@@ -248,13 +225,59 @@
         "target": "_blank"
       },
       "publishedAt": "2025-04-11",
-      "viewCount": "1205万",
+      "viewCount": "1206万",
       "likeCount": "4.2万",
-      "commentCount": "7189",
-      "increment_d1": "7170"
+      "commentCount": "7191",
+      "increment_d1": "7161"
+    },
+    {
+      "rank": 2811,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/VEOKSpViv3s/default.jpg",
+        "url": "https://www.youtube.com/watch?v=VEOKSpViv3s",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SHINee - 「LUCIFER」Music Video",
+        "url": "https://www.youtube.com/watch?v=VEOKSpViv3s",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "EMI Records Japan",
+        "url": "https://www.youtube.com/channel/UCCRNhOhQgdcPngRz54djGgA",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-09-15",
+      "viewCount": "1206万",
+      "likeCount": "-",
+      "commentCount": "-",
+      "increment_d1": "341"
     },
     {
       "rank": 2812,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/JiWEZbm6lhI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=JiWEZbm6lhI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "倖田來未-KODA KUMI-『愛のうた（album version）』～ 20th Year Special Full Ver. ～",
+        "url": "https://www.youtube.com/watch?v=JiWEZbm6lhI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "倖田來未",
+        "url": "https://www.youtube.com/channel/UCCI_DJ1Q-WYGS8bVXsW_V5w",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-01-29",
+      "viewCount": "1206万",
+      "likeCount": "4.3万",
+      "commentCount": "1119",
+      "increment_d1": "7882"
+    },
+    {
+      "rank": 2813,
       "thumb": {
         "img": "https://i.ytimg.com/vi/UMlqTEVMZFE/default.jpg",
         "url": "https://www.youtube.com/watch?v=UMlqTEVMZFE",
@@ -274,30 +297,7 @@
       "viewCount": "1205万",
       "likeCount": "3.8万",
       "commentCount": "1316",
-      "increment_d1": "91"
-    },
-    {
-      "rank": 2813,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/JiWEZbm6lhI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=JiWEZbm6lhI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "倖田來未-KODA KUMI-『愛のうた（album version）』～ 20th Year Special Full Ver. ～",
-        "url": "https://www.youtube.com/watch?v=JiWEZbm6lhI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "倖田來未",
-        "url": "https://www.youtube.com/channel/UCCI_DJ1Q-WYGS8bVXsW_V5w",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-01-29",
-      "viewCount": "1205万",
-      "likeCount": "4.3万",
-      "commentCount": "1118",
-      "increment_d1": "7171"
+      "increment_d1": "117"
     },
     {
       "rank": 2814,
@@ -320,7 +320,7 @@
       "viewCount": "1205万",
       "likeCount": "8.8万",
       "commentCount": "2645",
-      "increment_d1": "277"
+      "increment_d1": "205"
     },
     {
       "rank": 2815,
@@ -343,7 +343,7 @@
       "viewCount": "1204万",
       "likeCount": "13.8万",
       "commentCount": "1.8万",
-      "increment_d1": "801"
+      "increment_d1": "910"
     },
     {
       "rank": 2816,
@@ -365,8 +365,8 @@
       "publishedAt": "2020-05-11",
       "viewCount": "1203万",
       "likeCount": "9.2万",
-      "commentCount": "8316",
-      "increment_d1": "2265"
+      "commentCount": "8324",
+      "increment_d1": "2061"
     },
     {
       "rank": 2817,
@@ -389,7 +389,7 @@
       "viewCount": "1203万",
       "likeCount": "10.8万",
       "commentCount": "42",
-      "increment_d1": "572"
+      "increment_d1": "726"
     },
     {
       "rank": 2818,
@@ -412,10 +412,33 @@
       "viewCount": "1203万",
       "likeCount": "2万",
       "commentCount": "586",
-      "increment_d1": "115"
+      "increment_d1": "91"
     },
     {
       "rank": 2819,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/UA33zQ-DY1w/default.jpg",
+        "url": "https://www.youtube.com/watch?v=UA33zQ-DY1w",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ユニコーン　『すばらしい日々』",
+        "url": "https://www.youtube.com/watch?v=UA33zQ-DY1w",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ユニコーン Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UClryZHKxKYcpRSCNnSnTERg",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-10-17",
+      "viewCount": "1202万",
+      "likeCount": "4.5万",
+      "commentCount": "1961",
+      "increment_d1": "2579"
+    },
+    {
+      "rank": 2820,
       "thumb": {
         "img": "https://i.ytimg.com/vi/8FDxco2VFS4/default.jpg",
         "url": "https://www.youtube.com/watch?v=8FDxco2VFS4",
@@ -435,30 +458,7 @@
       "viewCount": "1202万",
       "likeCount": "11.5万",
       "commentCount": "2262",
-      "increment_d1": "1113"
-    },
-    {
-      "rank": 2820,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/UA33zQ-DY1w/default.jpg",
-        "url": "https://www.youtube.com/watch?v=UA33zQ-DY1w",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ユニコーン　『すばらしい日々』",
-        "url": "https://www.youtube.com/watch?v=UA33zQ-DY1w",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ユニコーン Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UClryZHKxKYcpRSCNnSnTERg",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-10-17",
-      "viewCount": "1202万",
-      "likeCount": "4.5万",
-      "commentCount": "1957",
-      "increment_d1": "3214"
+      "increment_d1": "1064"
     },
     {
       "rank": 2821,
@@ -481,7 +481,7 @@
       "viewCount": "1201万",
       "likeCount": "-",
       "commentCount": "6001",
-      "increment_d1": "1288"
+      "increment_d1": "1158"
     },
     {
       "rank": 2822,
@@ -504,7 +504,7 @@
       "viewCount": "1200万",
       "likeCount": "6.9万",
       "commentCount": "5824",
-      "increment_d1": "506"
+      "increment_d1": "541"
     },
     {
       "rank": 2823,
@@ -527,7 +527,7 @@
       "viewCount": "1200万",
       "likeCount": "14万",
       "commentCount": "4481",
-      "increment_d1": "1054"
+      "increment_d1": "1143"
     },
     {
       "rank": 2824,
@@ -547,13 +547,36 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-26",
-      "viewCount": "1199万",
+      "viewCount": "1200万",
       "likeCount": "10.1万",
-      "commentCount": "5495",
-      "increment_d1": "5929"
+      "commentCount": "5496",
+      "increment_d1": "5102"
     },
     {
       "rank": 2825,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1q_B-yWMJA4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1q_B-yWMJA4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – アポロドロス【LIVE from ゼンジン未到とヴェルトラウム〜銘銘編〜】",
+        "url": "https://www.youtube.com/watch?v=1q_B-yWMJA4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-07-14",
+      "viewCount": "1199万",
+      "likeCount": "9万",
+      "commentCount": "3214",
+      "increment_d1": "1.13万"
+    },
+    {
+      "rank": 2826,
       "thumb": {
         "img": "https://i.ytimg.com/vi/olWPDel6ti4/default.jpg",
         "url": "https://www.youtube.com/watch?v=olWPDel6ti4",
@@ -572,11 +595,11 @@
       "publishedAt": "2017-01-15",
       "viewCount": "1199万",
       "likeCount": "9.1万",
-      "commentCount": "9838",
-      "increment_d1": "708"
+      "commentCount": "9839",
+      "increment_d1": "583"
     },
     {
-      "rank": 2826,
+      "rank": 2827,
       "thumb": {
         "img": "https://i.ytimg.com/vi/C7OrKDHPCF8/default.jpg",
         "url": "https://www.youtube.com/watch?v=C7OrKDHPCF8",
@@ -593,33 +616,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-05-25",
-      "viewCount": "1198万",
+      "viewCount": "1199万",
       "likeCount": "2.5万",
       "commentCount": "1498",
-      "increment_d1": "1648"
-    },
-    {
-      "rank": 2827,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1q_B-yWMJA4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1q_B-yWMJA4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – アポロドロス【LIVE from ゼンジン未到とヴェルトラウム〜銘銘編〜】",
-        "url": "https://www.youtube.com/watch?v=1q_B-yWMJA4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-07-14",
-      "viewCount": "1198万",
-      "likeCount": "9万",
-      "commentCount": "3216",
-      "increment_d1": "1.33万"
+      "increment_d1": "1515"
     },
     {
       "rank": 2828,
@@ -641,8 +641,8 @@
       "publishedAt": "2014-01-03",
       "viewCount": "1198万",
       "likeCount": "4.8万",
-      "commentCount": "2300",
-      "increment_d1": "1228"
+      "commentCount": "2299",
+      "increment_d1": "1237"
     },
     {
       "rank": 2829,
@@ -662,10 +662,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-07-23",
-      "viewCount": "1197万",
+      "viewCount": "1198万",
       "likeCount": "6.4万",
       "commentCount": "2401",
-      "increment_d1": "1235"
+      "increment_d1": "1007"
     },
     {
       "rank": 2830,
@@ -711,33 +711,10 @@
       "viewCount": "1196万",
       "likeCount": "-",
       "commentCount": "1.2万",
-      "increment_d1": "1132"
+      "increment_d1": "923"
     },
     {
       "rank": 2832,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/zK1bo3kBqTg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=zK1bo3kBqTg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "てくてくあるこう《東京ハイジ》",
-        "url": "https://www.youtube.com/watch?v=zK1bo3kBqTg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "東京ハイジ TOKIOHEIDI",
-        "url": "https://www.youtube.com/channel/UCnrXT1MVcEoaVe33JZ_IkMA",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-04-07",
-      "viewCount": "1194万",
-      "likeCount": "-",
-      "commentCount": "-",
-      "increment_d1": "807"
-    },
-    {
-      "rank": 2833,
       "thumb": {
         "img": "https://i.ytimg.com/vi/0nzgi6dz8VY/default.jpg",
         "url": "https://www.youtube.com/watch?v=0nzgi6dz8VY",
@@ -757,7 +734,30 @@
       "viewCount": "1194万",
       "likeCount": "6.2万",
       "commentCount": "2305",
-      "increment_d1": "1916"
+      "increment_d1": "1818"
+    },
+    {
+      "rank": 2833,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/zK1bo3kBqTg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=zK1bo3kBqTg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "てくてくあるこう《東京ハイジ》",
+        "url": "https://www.youtube.com/watch?v=zK1bo3kBqTg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "東京ハイジ TOKIOHEIDI",
+        "url": "https://www.youtube.com/channel/UCnrXT1MVcEoaVe33JZ_IkMA",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-04-07",
+      "viewCount": "1194万",
+      "likeCount": "-",
+      "commentCount": "-",
+      "increment_d1": "556"
     },
     {
       "rank": 2834,
@@ -780,7 +780,7 @@
       "viewCount": "1193万",
       "likeCount": "15.8万",
       "commentCount": "5237",
-      "increment_d1": "906"
+      "increment_d1": "871"
     },
     {
       "rank": 2835,
@@ -803,7 +803,7 @@
       "viewCount": "1192万",
       "likeCount": "12.6万",
       "commentCount": "1万",
-      "increment_d1": "671"
+      "increment_d1": "630"
     },
     {
       "rank": 2836,
@@ -823,10 +823,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-08-01",
-      "viewCount": "1191万",
+      "viewCount": "1192万",
       "likeCount": "16.6万",
       "commentCount": "3504",
-      "increment_d1": "1482"
+      "increment_d1": "1647"
     },
     {
       "rank": 2837,
@@ -848,8 +848,8 @@
       "publishedAt": "2024-04-10",
       "viewCount": "1191万",
       "likeCount": "9万",
-      "commentCount": "4396",
-      "increment_d1": "6093"
+      "commentCount": "4400",
+      "increment_d1": "6173"
     },
     {
       "rank": 2838,
@@ -869,10 +869,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-06-03",
-      "viewCount": "1190万",
+      "viewCount": "1191万",
       "likeCount": "12.1万",
       "commentCount": "1069",
-      "increment_d1": "3222"
+      "increment_d1": "3730"
     },
     {
       "rank": 2839,
@@ -895,7 +895,7 @@
       "viewCount": "1190万",
       "likeCount": "17万",
       "commentCount": "2465",
-      "increment_d1": "6998"
+      "increment_d1": "7381"
     },
     {
       "rank": 2840,
@@ -918,10 +918,33 @@
       "viewCount": "1189万",
       "likeCount": "13.4万",
       "commentCount": "3824",
-      "increment_d1": "2984"
+      "increment_d1": "2783"
     },
     {
       "rank": 2841,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/LJkn2qqtijk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=LJkn2qqtijk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "LiSA『Catch the Moment』（「劇場版 ソードアート・オンライン -オーディナル・スケール-」主題歌）",
+        "url": "https://www.youtube.com/watch?v=LJkn2qqtijk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "LiSA Official YouTube",
+        "url": "https://www.youtube.com/channel/UCqEfdEvLG5oQWNYlDQrGlKw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-12-29",
+      "viewCount": "1189万",
+      "likeCount": "5.7万",
+      "commentCount": "785",
+      "increment_d1": "1.66万"
+    },
+    {
+      "rank": 2842,
       "thumb": {
         "img": "https://i.ytimg.com/vi/cgpUjbp9ALk/default.jpg",
         "url": "https://www.youtube.com/watch?v=cgpUjbp9ALk",
@@ -940,11 +963,11 @@
       "publishedAt": "2010-12-03",
       "viewCount": "1188万",
       "likeCount": "4.2万",
-      "commentCount": "1322",
-      "increment_d1": "3447"
+      "commentCount": "1324",
+      "increment_d1": "3435"
     },
     {
-      "rank": 2842,
+      "rank": 2843,
       "thumb": {
         "img": "https://i.ytimg.com/vi/CIx8ts2TbZA/default.jpg",
         "url": "https://www.youtube.com/watch?v=CIx8ts2TbZA",
@@ -964,56 +987,56 @@
       "viewCount": "1188万",
       "likeCount": "3.1万",
       "commentCount": "994",
-      "increment_d1": "700"
-    },
-    {
-      "rank": 2843,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/LJkn2qqtijk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=LJkn2qqtijk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "LiSA『Catch the Moment』（「劇場版 ソードアート・オンライン -オーディナル・スケール-」主題歌）",
-        "url": "https://www.youtube.com/watch?v=LJkn2qqtijk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "LiSA Official YouTube",
-        "url": "https://www.youtube.com/channel/UCqEfdEvLG5oQWNYlDQrGlKw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-12-29",
-      "viewCount": "1187万",
-      "likeCount": "5.7万",
-      "commentCount": "785",
-      "increment_d1": "1.38万"
+      "increment_d1": "484"
     },
     {
       "rank": 2844,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/epfPe2U_2Xk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=epfPe2U_2Xk",
+        "img": "https://i.ytimg.com/vi/3SR57oeegws/default.jpg",
+        "url": "https://www.youtube.com/watch?v=3SR57oeegws",
         "target": "_blank"
       },
       "title": {
-        "text": "ORANGE RANGE - SUSHI食べたい feat.ソイソース | Trailer",
-        "url": "https://www.youtube.com/watch?v=epfPe2U_2Xk",
+        "text": "Vaundy LIVE \"しわあわせ\" \"怪獣の花唄\" |  one man live tour “HINODE”@ Zepp Tokyo (JAPAN/TOKYO)",
+        "url": "https://www.youtube.com/watch?v=3SR57oeegws",
         "target": "_blank"
       },
       "channel": {
-        "text": "Victor Entertainment",
-        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
+        "text": "Vaundy",
+        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
         "target": "_blank"
       },
-      "publishedAt": "2015-09-18",
-      "viewCount": "1187万",
-      "likeCount": "9.6万",
-      "commentCount": "6722",
-      "increment_d1": "316"
+      "publishedAt": "2021-12-23",
+      "viewCount": "1188万",
+      "likeCount": "7.5万",
+      "commentCount": "1363",
+      "increment_d1": "8621"
     },
     {
       "rank": 2845,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/GWDzKel_vuQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=GWDzKel_vuQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "YOASOBI「舞台に立って」Official Music Video",
+        "url": "https://www.youtube.com/watch?v=GWDzKel_vuQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ayase / YOASOBI",
+        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-08-06",
+      "viewCount": "1187万",
+      "likeCount": "12.5万",
+      "commentCount": "3640",
+      "increment_d1": "1.28万"
+    },
+    {
+      "rank": 2846,
       "thumb": {
         "img": "https://i.ytimg.com/vi/r0UnFPcdr2c/default.jpg",
         "url": "https://www.youtube.com/watch?v=r0UnFPcdr2c",
@@ -1033,53 +1056,30 @@
       "viewCount": "1187万",
       "likeCount": "11.8万",
       "commentCount": "6883",
-      "increment_d1": "2775"
-    },
-    {
-      "rank": 2846,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/3SR57oeegws/default.jpg",
-        "url": "https://www.youtube.com/watch?v=3SR57oeegws",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Vaundy LIVE \"しわあわせ\" \"怪獣の花唄\" |  one man live tour “HINODE”@ Zepp Tokyo (JAPAN/TOKYO)",
-        "url": "https://www.youtube.com/watch?v=3SR57oeegws",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Vaundy",
-        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-12-23",
-      "viewCount": "1187万",
-      "likeCount": "7.5万",
-      "commentCount": "1363",
-      "increment_d1": "8741"
+      "increment_d1": "2681"
     },
     {
       "rank": 2847,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/GWDzKel_vuQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=GWDzKel_vuQ",
+        "img": "https://i.ytimg.com/vi/epfPe2U_2Xk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=epfPe2U_2Xk",
         "target": "_blank"
       },
       "title": {
-        "text": "YOASOBI「舞台に立って」Official Music Video",
-        "url": "https://www.youtube.com/watch?v=GWDzKel_vuQ",
+        "text": "ORANGE RANGE - SUSHI食べたい feat.ソイソース | Trailer",
+        "url": "https://www.youtube.com/watch?v=epfPe2U_2Xk",
         "target": "_blank"
       },
       "channel": {
-        "text": "Ayase / YOASOBI",
-        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
+        "text": "Victor Entertainment",
+        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
         "target": "_blank"
       },
-      "publishedAt": "2024-08-06",
-      "viewCount": "1186万",
-      "likeCount": "12.5万",
-      "commentCount": "3636",
-      "increment_d1": "1.36万"
+      "publishedAt": "2015-09-18",
+      "viewCount": "1187万",
+      "likeCount": "9.6万",
+      "commentCount": "6721",
+      "increment_d1": "198"
     },
     {
       "rank": 2848,
@@ -1102,7 +1102,7 @@
       "viewCount": "1186万",
       "likeCount": "5万",
       "commentCount": "1772",
-      "increment_d1": "1998"
+      "increment_d1": "1821"
     },
     {
       "rank": 2849,
@@ -1125,7 +1125,7 @@
       "viewCount": "1185万",
       "likeCount": "24.1万",
       "commentCount": "3931",
-      "increment_d1": "812"
+      "increment_d1": "784"
     },
     {
       "rank": 2850,
@@ -1148,7 +1148,7 @@
       "viewCount": "1185万",
       "likeCount": "10.9万",
       "commentCount": "3806",
-      "increment_d1": "1169"
+      "increment_d1": "1137"
     }
   ]
 }

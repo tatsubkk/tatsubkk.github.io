@@ -21,7 +21,7 @@
       "viewCount": "2205万",
       "likeCount": "7.7万",
       "commentCount": "5782",
-      "increment_d1": "2798"
+      "increment_d1": "2527"
     },
     {
       "rank": 1552,
@@ -44,7 +44,7 @@
       "viewCount": "2204万",
       "likeCount": "18.6万",
       "commentCount": "7005",
-      "increment_d1": "1274"
+      "increment_d1": "1112"
     },
     {
       "rank": 1553,
@@ -67,7 +67,7 @@
       "viewCount": "2203万",
       "likeCount": "14万",
       "commentCount": "6430",
-      "increment_d1": "1133"
+      "increment_d1": "1035"
     },
     {
       "rank": 1554,
@@ -90,7 +90,7 @@
       "viewCount": "2202万",
       "likeCount": "10万",
       "commentCount": "4161",
-      "increment_d1": "2442"
+      "increment_d1": "2548"
     },
     {
       "rank": 1555,
@@ -113,7 +113,7 @@
       "viewCount": "2198万",
       "likeCount": "-",
       "commentCount": "1.5万",
-      "increment_d1": "734"
+      "increment_d1": "595"
     },
     {
       "rank": 1556,
@@ -136,7 +136,7 @@
       "viewCount": "2197万",
       "likeCount": "5.4万",
       "commentCount": "1485",
-      "increment_d1": "944"
+      "increment_d1": "888"
     },
     {
       "rank": 1557,
@@ -159,7 +159,7 @@
       "viewCount": "2197万",
       "likeCount": "20.3万",
       "commentCount": "5793",
-      "increment_d1": "2462"
+      "increment_d1": "2344"
     },
     {
       "rank": 1558,
@@ -182,7 +182,7 @@
       "viewCount": "2195万",
       "likeCount": "17.8万",
       "commentCount": "3948",
-      "increment_d1": "6783"
+      "increment_d1": "7906"
     },
     {
       "rank": 1559,
@@ -205,56 +205,10 @@
       "viewCount": "2194万",
       "likeCount": "-",
       "commentCount": "6.4万",
-      "increment_d1": "1438"
+      "increment_d1": "1280"
     },
     {
       "rank": 1560,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/_fcAEkH09_M/default.jpg",
-        "url": "https://www.youtube.com/watch?v=_fcAEkH09_M",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV full】 マジジョテッペンブルース / AKB48 [公式]",
-        "url": "https://www.youtube.com/watch?v=_fcAEkH09_M",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "AKB48",
-        "url": "https://www.youtube.com/channel/UCxjXU89x6owat9dA8Z-bzdw",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-09-08",
-      "viewCount": "2194万",
-      "likeCount": "12.5万",
-      "commentCount": "7297",
-      "increment_d1": "1092"
-    },
-    {
-      "rank": 1561,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Ry_bpaKDcAo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Ry_bpaKDcAo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "時代 -ライヴ2010～11- (東京国際フォーラムAより)",
-        "url": "https://www.youtube.com/watch?v=Ry_bpaKDcAo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "中島みゆき公式チャンネル",
-        "url": "https://www.youtube.com/channel/UChmEixJeXYHpboT5ZuXzP-A",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-10-21",
-      "viewCount": "2194万",
-      "likeCount": "5.3万",
-      "commentCount": "1885",
-      "increment_d1": "1621"
-    },
-    {
-      "rank": 1562,
       "thumb": {
         "img": "https://i.ytimg.com/vi/bjwv4m-Aji4/default.jpg",
         "url": "https://www.youtube.com/watch?v=bjwv4m-Aji4",
@@ -274,7 +228,53 @@
       "viewCount": "2194万",
       "likeCount": "11.2万",
       "commentCount": "5355",
-      "increment_d1": "2511"
+      "increment_d1": "2388"
+    },
+    {
+      "rank": 1561,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/_fcAEkH09_M/default.jpg",
+        "url": "https://www.youtube.com/watch?v=_fcAEkH09_M",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV full】 マジジョテッペンブルース / AKB48 [公式]",
+        "url": "https://www.youtube.com/watch?v=_fcAEkH09_M",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "AKB48",
+        "url": "https://www.youtube.com/channel/UCxjXU89x6owat9dA8Z-bzdw",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-09-08",
+      "viewCount": "2194万",
+      "likeCount": "12.5万",
+      "commentCount": "7297",
+      "increment_d1": "924"
+    },
+    {
+      "rank": 1562,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Ry_bpaKDcAo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Ry_bpaKDcAo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "時代 -ライヴ2010～11- (東京国際フォーラムAより)",
+        "url": "https://www.youtube.com/watch?v=Ry_bpaKDcAo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "中島みゆき公式チャンネル",
+        "url": "https://www.youtube.com/channel/UChmEixJeXYHpboT5ZuXzP-A",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-10-21",
+      "viewCount": "2194万",
+      "likeCount": "5.3万",
+      "commentCount": "1885",
+      "increment_d1": "1464"
     },
     {
       "rank": 1563,
@@ -294,10 +294,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-11",
-      "viewCount": "2191万",
+      "viewCount": "2192万",
       "likeCount": "14.2万",
-      "commentCount": "5241",
-      "increment_d1": "4313"
+      "commentCount": "5240",
+      "increment_d1": "4060"
     },
     {
       "rank": 1564,
@@ -320,7 +320,7 @@
       "viewCount": "2189万",
       "likeCount": "10.4万",
       "commentCount": "2430",
-      "increment_d1": "4104"
+      "increment_d1": "3486"
     },
     {
       "rank": 1565,
@@ -340,10 +340,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-01-10",
-      "viewCount": "2188万",
+      "viewCount": "2189万",
       "likeCount": "7.8万",
       "commentCount": "1425",
-      "increment_d1": "6552"
+      "increment_d1": "6361"
     },
     {
       "rank": 1566,
@@ -363,10 +363,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-31",
-      "viewCount": "2184万",
+      "viewCount": "2186万",
       "likeCount": "15.5万",
       "commentCount": "1万",
-      "increment_d1": "2.08万"
+      "increment_d1": "2.1万"
     },
     {
       "rank": 1567,
@@ -386,36 +386,13 @@
         "target": "_blank"
       },
       "publishedAt": "2013-06-18",
-      "viewCount": "2182万",
+      "viewCount": "2183万",
       "likeCount": "12.2万",
       "commentCount": "3924",
-      "increment_d1": "1968"
+      "increment_d1": "1714"
     },
     {
       "rank": 1568,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/tHcrAUllIxU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=tHcrAUllIxU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Official】Uru『心得』 フジテレビ系月9ドラマ『風間公親－教場０－』主題歌",
-        "url": "https://www.youtube.com/watch?v=tHcrAUllIxU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Uru Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-05-29",
-      "viewCount": "2181万",
-      "likeCount": "7.5万",
-      "commentCount": "2009",
-      "increment_d1": "8929"
-    },
-    {
-      "rank": 1569,
       "thumb": {
         "img": "https://i.ytimg.com/vi/exOi_zsOHwM/default.jpg",
         "url": "https://www.youtube.com/watch?v=exOi_zsOHwM",
@@ -432,10 +409,33 @@
         "target": "_blank"
       },
       "publishedAt": "2023-02-24",
-      "viewCount": "2181万",
-      "likeCount": "31.1万",
-      "commentCount": "6359",
-      "increment_d1": "9823"
+      "viewCount": "2182万",
+      "likeCount": "31.2万",
+      "commentCount": "6362",
+      "increment_d1": "9406"
+    },
+    {
+      "rank": 1569,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/tHcrAUllIxU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=tHcrAUllIxU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Official】Uru『心得』 フジテレビ系月9ドラマ『風間公親－教場０－』主題歌",
+        "url": "https://www.youtube.com/watch?v=tHcrAUllIxU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Uru Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-05-29",
+      "viewCount": "2182万",
+      "likeCount": "7.5万",
+      "commentCount": "2012",
+      "increment_d1": "8155"
     },
     {
       "rank": 1570,
@@ -455,10 +455,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-26",
-      "viewCount": "2180万",
+      "viewCount": "2181万",
       "likeCount": "17.6万",
-      "commentCount": "4534",
-      "increment_d1": "1.17万"
+      "commentCount": "4539",
+      "increment_d1": "1.01万"
     },
     {
       "rank": 1571,
@@ -480,11 +480,34 @@
       "publishedAt": "2010-04-16",
       "viewCount": "2180万",
       "likeCount": "5.7万",
-      "commentCount": "3350",
-      "increment_d1": "4005"
+      "commentCount": "3351",
+      "increment_d1": "3262"
     },
     {
       "rank": 1572,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/rGqEuk8Om-4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=rGqEuk8Om-4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "XG - HOWLING (Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=rGqEuk8Om-4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "XG",
+        "url": "https://www.youtube.com/channel/UC12HMtO5MYph9dCZZ7yygng",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-11-08",
+      "viewCount": "2179万",
+      "likeCount": "55.4万",
+      "commentCount": "1.9万",
+      "increment_d1": "1.75万"
+    },
+    {
+      "rank": 1573,
       "thumb": {
         "img": "https://i.ytimg.com/vi/6AozElbRnTM/default.jpg",
         "url": "https://www.youtube.com/watch?v=6AozElbRnTM",
@@ -504,30 +527,7 @@
       "viewCount": "2179万",
       "likeCount": "8.7万",
       "commentCount": "4658",
-      "increment_d1": "1490"
-    },
-    {
-      "rank": 1573,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/rGqEuk8Om-4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=rGqEuk8Om-4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "XG - HOWLING (Official Music Video)",
-        "url": "https://www.youtube.com/watch?v=rGqEuk8Om-4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "XG",
-        "url": "https://www.youtube.com/channel/UC12HMtO5MYph9dCZZ7yygng",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-11-08",
-      "viewCount": "2178万",
-      "likeCount": "55.4万",
-      "commentCount": "1.9万",
-      "increment_d1": "1.85万"
+      "increment_d1": "1553"
     },
     {
       "rank": 1574,
@@ -550,7 +550,7 @@
       "viewCount": "2177万",
       "likeCount": "8.7万",
       "commentCount": "6726",
-      "increment_d1": "1763"
+      "increment_d1": "1555"
     },
     {
       "rank": 1575,
@@ -573,7 +573,7 @@
       "viewCount": "2174万",
       "likeCount": "8.8万",
       "commentCount": "9.2万",
-      "increment_d1": "2251"
+      "increment_d1": "1928"
     },
     {
       "rank": 1576,
@@ -596,33 +596,10 @@
       "viewCount": "2172万",
       "likeCount": "-",
       "commentCount": "8742",
-      "increment_d1": "4970"
+      "increment_d1": "5081"
     },
     {
       "rank": 1577,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/XCs7FacjHQY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=XCs7FacjHQY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "fhána - 愛のシュプリーム！(TVアニメ『小林さんちのメイドラゴンS』OP主題歌) - Official Music Video",
-        "url": "https://www.youtube.com/watch?v=XCs7FacjHQY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "fhána Official Channel",
-        "url": "https://www.youtube.com/channel/UC1aOxPe_LKL6GvK-nwaTO6Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-07-07",
-      "viewCount": "2167万",
-      "likeCount": "23.3万",
-      "commentCount": "8850",
-      "increment_d1": "3211"
-    },
-    {
-      "rank": 1578,
       "thumb": {
         "img": "https://i.ytimg.com/vi/_9_rUFrgLI8/default.jpg",
         "url": "https://www.youtube.com/watch?v=_9_rUFrgLI8",
@@ -639,10 +616,33 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-17",
-      "viewCount": "2167万",
-      "likeCount": "17.2万",
-      "commentCount": "2957",
-      "increment_d1": "2.74万"
+      "viewCount": "2170万",
+      "likeCount": "17.3万",
+      "commentCount": "2959",
+      "increment_d1": "2.84万"
+    },
+    {
+      "rank": 1578,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/XCs7FacjHQY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=XCs7FacjHQY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "fhána - 愛のシュプリーム！(TVアニメ『小林さんちのメイドラゴンS』OP主題歌) - Official Music Video",
+        "url": "https://www.youtube.com/watch?v=XCs7FacjHQY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "fhána Official Channel",
+        "url": "https://www.youtube.com/channel/UC1aOxPe_LKL6GvK-nwaTO6Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-07-07",
+      "viewCount": "2168万",
+      "likeCount": "23.3万",
+      "commentCount": "8850",
+      "increment_d1": "3285"
     },
     {
       "rank": 1579,
@@ -665,7 +665,7 @@
       "viewCount": "2166万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "6093"
+      "increment_d1": "5512"
     },
     {
       "rank": 1580,
@@ -685,10 +685,10 @@
         "target": "_blank"
       },
       "publishedAt": "2010-12-07",
-      "viewCount": "2162万",
+      "viewCount": "2163万",
       "likeCount": "7.9万",
       "commentCount": "2838",
-      "increment_d1": "2545"
+      "increment_d1": "2602"
     },
     {
       "rank": 1581,
@@ -708,10 +708,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-11-02",
-      "viewCount": "2161万",
+      "viewCount": "2162万",
       "likeCount": "5.4万",
-      "commentCount": "3042",
-      "increment_d1": "7719"
+      "commentCount": "3045",
+      "increment_d1": "7164"
     },
     {
       "rank": 1582,
@@ -731,10 +731,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-13",
-      "viewCount": "2158万",
+      "viewCount": "2160万",
       "likeCount": "11.4万",
       "commentCount": "6462",
-      "increment_d1": "1.6万"
+      "increment_d1": "1.49万"
     },
     {
       "rank": 1583,
@@ -754,10 +754,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-26",
-      "viewCount": "2157万",
+      "viewCount": "2158万",
       "likeCount": "11.8万",
       "commentCount": "2178",
-      "increment_d1": "8604"
+      "increment_d1": "8601"
     },
     {
       "rank": 1584,
@@ -780,7 +780,7 @@
       "viewCount": "2156万",
       "likeCount": "-",
       "commentCount": "1.2万",
-      "increment_d1": "4332"
+      "increment_d1": "4158"
     },
     {
       "rank": 1585,
@@ -803,7 +803,7 @@
       "viewCount": "2156万",
       "likeCount": "-",
       "commentCount": "2.4万",
-      "increment_d1": "1749"
+      "increment_d1": "1529"
     },
     {
       "rank": 1586,
@@ -823,13 +823,36 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-21",
-      "viewCount": "2152万",
+      "viewCount": "2154万",
       "likeCount": "6万",
-      "commentCount": "2101",
-      "increment_d1": "1.2万"
+      "commentCount": "2103",
+      "increment_d1": "1.24万"
     },
     {
       "rank": 1587,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/jz8O2t2r8Gs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=jz8O2t2r8Gs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "King Gnu - ねっこ",
+        "url": "https://www.youtube.com/watch?v=jz8O2t2r8Gs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "King Gnu official YouTube channel",
+        "url": "https://www.youtube.com/channel/UCkB8HnJSDSJ2hkLQFUc-YrQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-12-01",
+      "viewCount": "2150万",
+      "likeCount": "14.7万",
+      "commentCount": "8099",
+      "increment_d1": "2.1万"
+    },
+    {
+      "rank": 1588,
       "thumb": {
         "img": "https://i.ytimg.com/vi/eWnLRboP6LI/default.jpg",
         "url": "https://www.youtube.com/watch?v=eWnLRboP6LI",
@@ -849,33 +872,33 @@
       "viewCount": "2149万",
       "likeCount": "12.1万",
       "commentCount": "6032",
-      "increment_d1": "1886"
-    },
-    {
-      "rank": 1588,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/jz8O2t2r8Gs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=jz8O2t2r8Gs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "King Gnu - ねっこ",
-        "url": "https://www.youtube.com/watch?v=jz8O2t2r8Gs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "King Gnu official YouTube channel",
-        "url": "https://www.youtube.com/channel/UCkB8HnJSDSJ2hkLQFUc-YrQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-12-01",
-      "viewCount": "2148万",
-      "likeCount": "14.7万",
-      "commentCount": "8112",
-      "increment_d1": "2.4万"
+      "increment_d1": "1638"
     },
     {
       "rank": 1589,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/XLouH_6hrcY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=XLouH_6hrcY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ジェニーハイ「華奢なリップ」feat.ちゃんみな",
+        "url": "https://www.youtube.com/watch?v=XLouH_6hrcY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ジェニーハイ",
+        "url": "https://www.youtube.com/channel/UCZUm9b2e5w54cQM7MVVR_9A",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-06-10",
+      "viewCount": "2148万",
+      "likeCount": "20.8万",
+      "commentCount": "3080",
+      "increment_d1": "1.92万"
+    },
+    {
+      "rank": 1590,
       "thumb": {
         "img": "https://i.ytimg.com/vi/algaC2jhu8s/default.jpg",
         "url": "https://www.youtube.com/watch?v=algaC2jhu8s",
@@ -894,31 +917,8 @@
       "publishedAt": "2010-04-16",
       "viewCount": "2148万",
       "likeCount": "4.7万",
-      "commentCount": "3177",
-      "increment_d1": "2687"
-    },
-    {
-      "rank": 1590,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/XLouH_6hrcY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=XLouH_6hrcY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ジェニーハイ「華奢なリップ」feat.ちゃんみな",
-        "url": "https://www.youtube.com/watch?v=XLouH_6hrcY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ジェニーハイ",
-        "url": "https://www.youtube.com/channel/UCZUm9b2e5w54cQM7MVVR_9A",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-06-10",
-      "viewCount": "2146万",
-      "likeCount": "20.8万",
-      "commentCount": "3080",
-      "increment_d1": "2.09万"
+      "commentCount": "3176",
+      "increment_d1": "2508"
     },
     {
       "rank": 1591,
@@ -941,10 +941,33 @@
       "viewCount": "2145万",
       "likeCount": "3.4万",
       "commentCount": "1289",
-      "increment_d1": "277"
+      "increment_d1": "218"
     },
     {
       "rank": 1592,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ZGXOWPZ64DA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ZGXOWPZ64DA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SawanoHiroyuki[nZk]:XAI 『DARK ARIA ＜LV2＞』 Music Video",
+        "url": "https://www.youtube.com/watch?v=ZGXOWPZ64DA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "澤野弘之 / SawanoHiroyuki[nZk]",
+        "url": "https://www.youtube.com/channel/UCbJM_Y06iuUOl3hVPqYcvng",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-02-10",
+      "viewCount": "2144万",
+      "likeCount": "33.3万",
+      "commentCount": "6620",
+      "increment_d1": "2.33万"
+    },
+    {
+      "rank": 1593,
       "thumb": {
         "img": "https://i.ytimg.com/vi/n5CwXuyNfoc/default.jpg",
         "url": "https://www.youtube.com/watch?v=n5CwXuyNfoc",
@@ -964,10 +987,10 @@
       "viewCount": "2144万",
       "likeCount": "22.5万",
       "commentCount": "1.1万",
-      "increment_d1": "1026"
+      "increment_d1": "1021"
     },
     {
-      "rank": 1593,
+      "rank": 1594,
       "thumb": {
         "img": "https://i.ytimg.com/vi/YGiLQUc8x5E/default.jpg",
         "url": "https://www.youtube.com/watch?v=YGiLQUc8x5E",
@@ -987,10 +1010,10 @@
       "viewCount": "2143万",
       "likeCount": "38.2万",
       "commentCount": "3.2万",
-      "increment_d1": "839"
+      "increment_d1": "689"
     },
     {
-      "rank": 1594,
+      "rank": 1595,
       "thumb": {
         "img": "https://i.ytimg.com/vi/N39glrfql0I/default.jpg",
         "url": "https://www.youtube.com/watch?v=N39glrfql0I",
@@ -1010,10 +1033,10 @@
       "viewCount": "2142万",
       "likeCount": "11万",
       "commentCount": "3494",
-      "increment_d1": "1445"
+      "increment_d1": "1342"
     },
     {
-      "rank": 1595,
+      "rank": 1596,
       "thumb": {
         "img": "https://i.ytimg.com/vi/sW3RT0tF020/default.jpg",
         "url": "https://www.youtube.com/watch?v=sW3RT0tF020",
@@ -1033,30 +1056,7 @@
       "viewCount": "2142万",
       "likeCount": "9.3万",
       "commentCount": "2356",
-      "increment_d1": "692"
-    },
-    {
-      "rank": 1596,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ZGXOWPZ64DA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ZGXOWPZ64DA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SawanoHiroyuki[nZk]:XAI 『DARK ARIA ＜LV2＞』 Music Video",
-        "url": "https://www.youtube.com/watch?v=ZGXOWPZ64DA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "澤野弘之 / SawanoHiroyuki[nZk]",
-        "url": "https://www.youtube.com/channel/UCbJM_Y06iuUOl3hVPqYcvng",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-02-10",
-      "viewCount": "2142万",
-      "likeCount": "33.3万",
-      "commentCount": "6619",
-      "increment_d1": "2.25万"
+      "increment_d1": "825"
     },
     {
       "rank": 1597,
@@ -1076,10 +1076,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-17",
-      "viewCount": "2141万",
+      "viewCount": "2142万",
       "likeCount": "8.7万",
       "commentCount": "-",
-      "increment_d1": "1.43万"
+      "increment_d1": "1.2万"
     },
     {
       "rank": 1598,
@@ -1102,7 +1102,7 @@
       "viewCount": "2141万",
       "likeCount": "14.3万",
       "commentCount": "2960",
-      "increment_d1": "2327"
+      "increment_d1": "2255"
     },
     {
       "rank": 1599,
@@ -1122,10 +1122,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-03-26",
-      "viewCount": "2140万",
+      "viewCount": "2141万",
       "likeCount": "18.6万",
       "commentCount": "1.2万",
-      "increment_d1": "1253"
+      "increment_d1": "1021"
     },
     {
       "rank": 1600,
@@ -1148,7 +1148,7 @@
       "viewCount": "2140万",
       "likeCount": "-",
       "commentCount": "8181",
-      "increment_d1": "2047"
+      "increment_d1": "1739"
     }
   ]
 }

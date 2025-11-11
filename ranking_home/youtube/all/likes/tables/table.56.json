@@ -3,6 +3,28 @@
     {
       "rank": 2751,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/Y3T04hhdHA4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Y3T04hhdHA4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ラブレター",
+        "url": "https://www.youtube.com/watch?v=Y3T04hhdHA4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-11-30",
+      "viewCount": "1132万",
+      "likeCount": "3.23万",
+      "commentCount": "95"
+    },
+    {
+      "rank": 2752,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/_6o3KZNhDBI/default.jpg",
         "url": "https://www.youtube.com/watch?v=_6o3KZNhDBI",
         "target": "_blank"
@@ -21,28 +43,6 @@
       "viewCount": "1164万",
       "likeCount": "3.23万",
       "commentCount": "367"
-    },
-    {
-      "rank": 2752,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Y3T04hhdHA4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Y3T04hhdHA4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ラブレター",
-        "url": "https://www.youtube.com/watch?v=Y3T04hhdHA4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-30",
-      "viewCount": "1131万",
-      "likeCount": "3.23万",
-      "commentCount": "95"
     },
     {
       "rank": 2753,
@@ -150,9 +150,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-15",
-      "viewCount": "1323万",
+      "viewCount": "1324万",
       "likeCount": "3.15万",
-      "commentCount": "1634"
+      "commentCount": "1635"
     },
     {
       "rank": 2758,
@@ -240,7 +240,7 @@
       "publishedAt": "2013-05-28",
       "viewCount": "1146万",
       "likeCount": "3.11万",
-      "commentCount": "1479"
+      "commentCount": "1480"
     },
     {
       "rank": 2762,
@@ -260,7 +260,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-01-11",
-      "viewCount": "2545万",
+      "viewCount": "2546万",
       "likeCount": "3.1万",
       "commentCount": "-"
     },
@@ -399,28 +399,6 @@
     {
       "rank": 2769,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/_P4cYFb7Zro/default.jpg",
-        "url": "https://www.youtube.com/watch?v=_P4cYFb7Zro",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【恋愛ソング】ロイヤルコンフォート / 君に好きと伝えよう【実話】",
-        "url": "https://www.youtube.com/watch?v=_P4cYFb7Zro",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "TAKAMICHI",
-        "url": "https://www.youtube.com/channel/UCxSp5zCrtbrkECpXHenR6gA",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-10-17",
-      "viewCount": "1183万",
-      "likeCount": "3.05万",
-      "commentCount": "1445"
-    },
-    {
-      "rank": 2770,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/c-0NdHV_1r4/default.jpg",
         "url": "https://www.youtube.com/watch?v=c-0NdHV_1r4",
         "target": "_blank"
@@ -439,6 +417,28 @@
       "viewCount": "1140万",
       "likeCount": "3.05万",
       "commentCount": "2595"
+    },
+    {
+      "rank": 2770,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/_P4cYFb7Zro/default.jpg",
+        "url": "https://www.youtube.com/watch?v=_P4cYFb7Zro",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【恋愛ソング】ロイヤルコンフォート / 君に好きと伝えよう【実話】",
+        "url": "https://www.youtube.com/watch?v=_P4cYFb7Zro",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "TAKAMICHI",
+        "url": "https://www.youtube.com/channel/UCxSp5zCrtbrkECpXHenR6gA",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-10-17",
+      "viewCount": "1183万",
+      "likeCount": "3.05万",
+      "commentCount": "1445"
     },
     {
       "rank": 2771,
@@ -502,7 +502,7 @@
         "target": "_blank"
       },
       "publishedAt": "2009-06-18",
-      "viewCount": "1018万",
+      "viewCount": "1019万",
       "likeCount": "3.03万",
       "commentCount": "824"
     },
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-29",
-      "viewCount": "2019万",
+      "viewCount": "2020万",
       "likeCount": "3.01万",
       "commentCount": "54"
     },
@@ -568,7 +568,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-17",
-      "viewCount": "1503万",
+      "viewCount": "1504万",
       "likeCount": "3万",
       "commentCount": "1707"
     },
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-10-24",
-      "viewCount": "1600万",
+      "viewCount": "1601万",
       "likeCount": "2.95万",
       "commentCount": "1437"
     },
@@ -700,7 +700,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-05-09",
-      "viewCount": "1258万",
+      "viewCount": "1259万",
       "likeCount": "2.9万",
       "commentCount": "1587"
     },
@@ -773,6 +773,28 @@
     {
       "rank": 2786,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/DvAwGsPX-_0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=DvAwGsPX-_0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "優しい彗星",
+        "url": "https://www.youtube.com/watch?v=DvAwGsPX-_0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-11-30",
+      "viewCount": "1115万",
+      "likeCount": "2.84万",
+      "commentCount": "64"
+    },
+    {
+      "rank": 2787,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/Q1q-_KD_ZT4/default.jpg",
         "url": "https://www.youtube.com/watch?v=Q1q-_KD_ZT4",
         "target": "_blank"
@@ -791,28 +813,6 @@
       "viewCount": "1005万",
       "likeCount": "2.84万",
       "commentCount": "1118"
-    },
-    {
-      "rank": 2787,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/DvAwGsPX-_0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=DvAwGsPX-_0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "優しい彗星",
-        "url": "https://www.youtube.com/watch?v=DvAwGsPX-_0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-30",
-      "viewCount": "1113万",
-      "likeCount": "2.83万",
-      "commentCount": "63"
     },
     {
       "rank": 2788,
@@ -1030,7 +1030,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-12-03",
-      "viewCount": "1035万",
+      "viewCount": "1036万",
       "likeCount": "2.76万",
       "commentCount": "1017"
     },
