@@ -21,7 +21,7 @@
       "viewCount": "2301万",
       "likeCount": "4.9万",
       "commentCount": "1.3万",
-      "increment_d1": "1512"
+      "increment_d1": "1789"
     },
     {
       "rank": 1502,
@@ -41,13 +41,36 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-19",
-      "viewCount": "2298万",
+      "viewCount": "2299万",
       "likeCount": "26.9万",
       "commentCount": "5835",
-      "increment_d1": "1.01万"
+      "increment_d1": "1.1万"
     },
     {
       "rank": 1503,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/x1FV6IrjZCY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=x1FV6IrjZCY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "LiSA『紅蓮華』-MUSiC CLiP-（アニメ「鬼滅の刃」竈門炭治郎 立志編 オープニングテーマ）",
+        "url": "https://www.youtube.com/watch?v=x1FV6IrjZCY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "LiSA Official YouTube",
+        "url": "https://www.youtube.com/channel/UCqEfdEvLG5oQWNYlDQrGlKw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-12-30",
+      "viewCount": "2298万",
+      "likeCount": "11.5万",
+      "commentCount": "2628",
+      "increment_d1": "3.85万"
+    },
+    {
+      "rank": 1504,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Mzkf1OGgSz8/default.jpg",
         "url": "https://www.youtube.com/watch?v=Mzkf1OGgSz8",
@@ -67,10 +90,10 @@
       "viewCount": "2297万",
       "likeCount": "7.8万",
       "commentCount": "2350",
-      "increment_d1": "1939"
+      "increment_d1": "2004"
     },
     {
-      "rank": 1504,
+      "rank": 1505,
       "thumb": {
         "img": "https://i.ytimg.com/vi/tsZ90Obzv90/default.jpg",
         "url": "https://www.youtube.com/watch?v=tsZ90Obzv90",
@@ -87,33 +110,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-21",
-      "viewCount": "2294万",
+      "viewCount": "2295万",
       "likeCount": "31.7万",
-      "commentCount": "3218",
-      "increment_d1": "6534"
-    },
-    {
-      "rank": 1505,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/x1FV6IrjZCY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=x1FV6IrjZCY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "LiSA『紅蓮華』-MUSiC CLiP-（アニメ「鬼滅の刃」竈門炭治郎 立志編 オープニングテーマ）",
-        "url": "https://www.youtube.com/watch?v=x1FV6IrjZCY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "LiSA Official YouTube",
-        "url": "https://www.youtube.com/channel/UCqEfdEvLG5oQWNYlDQrGlKw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-12-30",
-      "viewCount": "2294万",
-      "likeCount": "11.5万",
-      "commentCount": "2627",
-      "increment_d1": "3.36万"
+      "commentCount": "3217",
+      "increment_d1": "6662"
     },
     {
       "rank": 1506,
@@ -136,7 +136,7 @@
       "viewCount": "2294万",
       "likeCount": "10.7万",
       "commentCount": "1863",
-      "increment_d1": "4978"
+      "increment_d1": "5110"
     },
     {
       "rank": 1507,
@@ -159,7 +159,7 @@
       "viewCount": "2292万",
       "likeCount": "28.5万",
       "commentCount": "5527",
-      "increment_d1": "6436"
+      "increment_d1": "6683"
     },
     {
       "rank": 1508,
@@ -180,9 +180,9 @@
       },
       "publishedAt": "2015-12-05",
       "viewCount": "2285万",
-      "likeCount": "14.8万",
-      "commentCount": "6447",
-      "increment_d1": "870"
+      "likeCount": "-",
+      "commentCount": "-",
+      "increment_d1": "935"
     },
     {
       "rank": 1509,
@@ -205,7 +205,7 @@
       "viewCount": "2284万",
       "likeCount": "33.8万",
       "commentCount": "1.4万",
-      "increment_d1": "528"
+      "increment_d1": "578"
     },
     {
       "rank": 1510,
@@ -228,7 +228,7 @@
       "viewCount": "2279万",
       "likeCount": "21.1万",
       "commentCount": "6.6万",
-      "increment_d1": "1027"
+      "increment_d1": "1077"
     },
     {
       "rank": 1511,
@@ -248,10 +248,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-20",
-      "viewCount": "2278万",
+      "viewCount": "2279万",
       "likeCount": "25.5万",
       "commentCount": "1.5万",
-      "increment_d1": "2763"
+      "increment_d1": "2967"
     },
     {
       "rank": 1512,
@@ -271,10 +271,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-12-01",
-      "viewCount": "2277万",
+      "viewCount": "2278万",
       "likeCount": "19.5万",
-      "commentCount": "3848",
-      "increment_d1": "4667"
+      "commentCount": "3849",
+      "increment_d1": "4516"
     },
     {
       "rank": 1513,
@@ -297,7 +297,7 @@
       "viewCount": "2276万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "1110"
+      "increment_d1": "986"
     },
     {
       "rank": 1514,
@@ -317,10 +317,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-04-28",
-      "viewCount": "2275万",
+      "viewCount": "2276万",
       "likeCount": "20.2万",
       "commentCount": "6397",
-      "increment_d1": "8851"
+      "increment_d1": "9670"
     },
     {
       "rank": 1515,
@@ -342,8 +342,8 @@
       "publishedAt": "2018-04-03",
       "viewCount": "2272万",
       "likeCount": "23.2万",
-      "commentCount": "8495",
-      "increment_d1": "2664"
+      "commentCount": "8496",
+      "increment_d1": "2870"
     },
     {
       "rank": 1516,
@@ -365,8 +365,8 @@
       "publishedAt": "2013-10-31",
       "viewCount": "2271万",
       "likeCount": "7.8万",
-      "commentCount": "3036",
-      "increment_d1": "1397"
+      "commentCount": "3035",
+      "increment_d1": "1408"
     },
     {
       "rank": 1517,
@@ -389,7 +389,7 @@
       "viewCount": "2270万",
       "likeCount": "5.7万",
       "commentCount": "2126",
-      "increment_d1": "427"
+      "increment_d1": "359"
     },
     {
       "rank": 1518,
@@ -412,7 +412,7 @@
       "viewCount": "2264万",
       "likeCount": "12.2万",
       "commentCount": "2949",
-      "increment_d1": "1267"
+      "increment_d1": "1356"
     },
     {
       "rank": 1519,
@@ -434,8 +434,8 @@
       "publishedAt": "2021-10-06",
       "viewCount": "2263万",
       "likeCount": "-",
-      "commentCount": "7279",
-      "increment_d1": "2697"
+      "commentCount": "7280",
+      "increment_d1": "2702"
     },
     {
       "rank": 1520,
@@ -455,13 +455,36 @@
         "target": "_blank"
       },
       "publishedAt": "2016-04-30",
-      "viewCount": "2262万",
+      "viewCount": "2263万",
       "likeCount": "9.2万",
       "commentCount": "2839",
-      "increment_d1": "868"
+      "increment_d1": "974"
     },
     {
       "rank": 1521,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/IWC2sfwdK40/default.jpg",
+        "url": "https://www.youtube.com/watch?v=IWC2sfwdK40",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "AJR 「World's Smallest Violin」【日本語字幕Ver】",
+        "url": "https://www.youtube.com/watch?v=IWC2sfwdK40",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-07-16",
+      "viewCount": "2261万",
+      "likeCount": "21.7万",
+      "commentCount": "3639",
+      "increment_d1": "1.88万"
+    },
+    {
+      "rank": 1522,
       "thumb": {
         "img": "https://i.ytimg.com/vi/bqjb332ufk8/default.jpg",
         "url": "https://www.youtube.com/watch?v=bqjb332ufk8",
@@ -480,31 +503,8 @@
       "publishedAt": "2022-06-25",
       "viewCount": "2260万",
       "likeCount": "11.4万",
-      "commentCount": "1453",
-      "increment_d1": "5423"
-    },
-    {
-      "rank": 1522,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/IWC2sfwdK40/default.jpg",
-        "url": "https://www.youtube.com/watch?v=IWC2sfwdK40",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "AJR 「World's Smallest Violin」【日本語字幕Ver】",
-        "url": "https://www.youtube.com/watch?v=IWC2sfwdK40",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-07-16",
-      "viewCount": "2259万",
-      "likeCount": "21.7万",
-      "commentCount": "3636",
-      "increment_d1": "2.78万"
+      "commentCount": "1454",
+      "increment_d1": "6360"
     },
     {
       "rank": 1523,
@@ -527,7 +527,7 @@
       "viewCount": "2258万",
       "likeCount": "5.4万",
       "commentCount": "2426",
-      "increment_d1": "693"
+      "increment_d1": "769"
     },
     {
       "rank": 1524,
@@ -550,7 +550,7 @@
       "viewCount": "2256万",
       "likeCount": "6万",
       "commentCount": "1068",
-      "increment_d1": "3190"
+      "increment_d1": "3502"
     },
     {
       "rank": 1525,
@@ -570,10 +570,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-10-14",
-      "viewCount": "2252万",
+      "viewCount": "2253万",
       "likeCount": "14.7万",
       "commentCount": "1.1万",
-      "increment_d1": "6135"
+      "increment_d1": "6274"
     },
     {
       "rank": 1526,
@@ -593,13 +593,36 @@
         "target": "_blank"
       },
       "publishedAt": "2024-10-11",
-      "viewCount": "2251万",
+      "viewCount": "2253万",
       "likeCount": "44.4万",
       "commentCount": "1.5万",
-      "increment_d1": "1.48万"
+      "increment_d1": "1.46万"
     },
     {
       "rank": 1527,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/mTx2gahMnr8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=mTx2gahMnr8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – ニュー・マイ・ノーマル【LIVE “ゼンジン未到とリライアンス〜復誦編〜”】",
+        "url": "https://www.youtube.com/watch?v=mTx2gahMnr8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-02-25",
+      "viewCount": "2250万",
+      "likeCount": "11.1万",
+      "commentCount": "2822",
+      "increment_d1": "1.78万"
+    },
+    {
+      "rank": 1528,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ha6Fy_LeWtI/default.jpg",
         "url": "https://www.youtube.com/watch?v=ha6Fy_LeWtI",
@@ -619,56 +642,10 @@
       "viewCount": "2249万",
       "likeCount": "19.7万",
       "commentCount": "9617",
-      "increment_d1": "1468"
-    },
-    {
-      "rank": 1528,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/mTx2gahMnr8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=mTx2gahMnr8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – ニュー・マイ・ノーマル【LIVE “ゼンジン未到とリライアンス〜復誦編〜”】",
-        "url": "https://www.youtube.com/watch?v=mTx2gahMnr8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-02-25",
-      "viewCount": "2248万",
-      "likeCount": "11.1万",
-      "commentCount": "2820",
-      "increment_d1": "1.88万"
+      "increment_d1": "1542"
     },
     {
       "rank": 1529,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/vZIMc5v-pjE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=vZIMc5v-pjE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "GENERATIONS from EXILE TRIBE / 「BIG CITY RODEO」Music Video ～歌詞有り～",
-        "url": "https://www.youtube.com/watch?v=vZIMc5v-pjE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-09-28",
-      "viewCount": "2243万",
-      "likeCount": "8.8万",
-      "commentCount": "5218",
-      "increment_d1": "386"
-    },
-    {
-      "rank": 1530,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ePBjUMEeqBw/default.jpg",
         "url": "https://www.youtube.com/watch?v=ePBjUMEeqBw",
@@ -688,7 +665,30 @@
       "viewCount": "2243万",
       "likeCount": "44.2万",
       "commentCount": "4591",
-      "increment_d1": "1911"
+      "increment_d1": "2104"
+    },
+    {
+      "rank": 1530,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/vZIMc5v-pjE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=vZIMc5v-pjE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "GENERATIONS from EXILE TRIBE / 「BIG CITY RODEO」Music Video ～歌詞有り～",
+        "url": "https://www.youtube.com/watch?v=vZIMc5v-pjE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-09-28",
+      "viewCount": "2243万",
+      "likeCount": "8.8万",
+      "commentCount": "5218",
+      "increment_d1": "417"
     },
     {
       "rank": 1531,
@@ -708,10 +708,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-07",
-      "viewCount": "2242万",
+      "viewCount": "2243万",
       "likeCount": "21.5万",
       "commentCount": "3945",
-      "increment_d1": "6280"
+      "increment_d1": "6863"
     },
     {
       "rank": 1532,
@@ -731,10 +731,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-03-28",
-      "viewCount": "2241万",
+      "viewCount": "2242万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "5401"
+      "increment_d1": "6157"
     },
     {
       "rank": 1533,
@@ -757,33 +757,10 @@
       "viewCount": "2239万",
       "likeCount": "17.8万",
       "commentCount": "3406",
-      "increment_d1": "3929"
+      "increment_d1": "4220"
     },
     {
       "rank": 1534,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/sJL6WA-aGkQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=sJL6WA-aGkQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "西野カナ 『Dear Bride』MV(Short Ver.)",
-        "url": "https://www.youtube.com/watch?v=sJL6WA-aGkQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-10-05",
-      "viewCount": "2237万",
-      "likeCount": "4.9万",
-      "commentCount": "1725",
-      "increment_d1": "1426"
-    },
-    {
-      "rank": 1535,
       "thumb": {
         "img": "https://i.ytimg.com/vi/tToiJveylxA/default.jpg",
         "url": "https://www.youtube.com/watch?v=tToiJveylxA",
@@ -803,7 +780,30 @@
       "viewCount": "2237万",
       "likeCount": "18.5万",
       "commentCount": "3138",
-      "increment_d1": "7547"
+      "increment_d1": "7613"
+    },
+    {
+      "rank": 1535,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/sJL6WA-aGkQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=sJL6WA-aGkQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "西野カナ 『Dear Bride』MV(Short Ver.)",
+        "url": "https://www.youtube.com/watch?v=sJL6WA-aGkQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-10-05",
+      "viewCount": "2237万",
+      "likeCount": "4.9万",
+      "commentCount": "1725",
+      "increment_d1": "1458"
     },
     {
       "rank": 1536,
@@ -823,10 +823,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-01",
-      "viewCount": "2234万",
+      "viewCount": "2236万",
       "likeCount": "10.5万",
-      "commentCount": "2412",
-      "increment_d1": "1.38万"
+      "commentCount": "2414",
+      "increment_d1": "1.58万"
     },
     {
       "rank": 1537,
@@ -849,7 +849,7 @@
       "viewCount": "2232万",
       "likeCount": "38万",
       "commentCount": "6190",
-      "increment_d1": "2731"
+      "increment_d1": "2775"
     },
     {
       "rank": 1538,
@@ -869,10 +869,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-06-02",
-      "viewCount": "2230万",
+      "viewCount": "2232万",
       "likeCount": "33.9万",
       "commentCount": "2",
-      "increment_d1": "1.4万"
+      "increment_d1": "1.35万"
     },
     {
       "rank": 1539,
@@ -894,8 +894,8 @@
       "publishedAt": "2017-08-02",
       "viewCount": "2230万",
       "likeCount": "24.2万",
-      "commentCount": "7814",
-      "increment_d1": "1511"
+      "commentCount": "7813",
+      "increment_d1": "1597"
     },
     {
       "rank": 1540,
@@ -918,10 +918,33 @@
       "viewCount": "2226万",
       "likeCount": "-",
       "commentCount": "2.3万",
-      "increment_d1": "2640"
+      "increment_d1": "2746"
     },
     {
       "rank": 1541,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/DS2sP8CDLas/default.jpg",
+        "url": "https://www.youtube.com/watch?v=DS2sP8CDLas",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "あたしが隣にいるうちに／藤川千愛　アニメ『盾の勇者の成り上がり』エンディングテーマ   (''The Rising of the Shield Hero'' Ending Theme )",
+        "url": "https://www.youtube.com/watch?v=DS2sP8CDLas",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "藤川千愛",
+        "url": "https://www.youtube.com/channel/UCPn4XA6Gb2u8y_FXXtrHW7w",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-04-10",
+      "viewCount": "2223万",
+      "likeCount": "11.6万",
+      "commentCount": "2696",
+      "increment_d1": "1.78万"
+    },
+    {
+      "rank": 1542,
       "thumb": {
         "img": "https://i.ytimg.com/vi/IEEJA1ZeQaI/default.jpg",
         "url": "https://www.youtube.com/watch?v=IEEJA1ZeQaI",
@@ -941,30 +964,7 @@
       "viewCount": "2222万",
       "likeCount": "14.7万",
       "commentCount": "1769",
-      "increment_d1": "4233"
-    },
-    {
-      "rank": 1542,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/DS2sP8CDLas/default.jpg",
-        "url": "https://www.youtube.com/watch?v=DS2sP8CDLas",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "あたしが隣にいるうちに／藤川千愛　アニメ『盾の勇者の成り上がり』エンディングテーマ   (''The Rising of the Shield Hero'' Ending Theme )",
-        "url": "https://www.youtube.com/watch?v=DS2sP8CDLas",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "藤川千愛",
-        "url": "https://www.youtube.com/channel/UCPn4XA6Gb2u8y_FXXtrHW7w",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-04-10",
-      "viewCount": "2222万",
-      "likeCount": "11.6万",
-      "commentCount": "2696",
-      "increment_d1": "1.71万"
+      "increment_d1": "4239"
     },
     {
       "rank": 1543,
@@ -987,7 +987,7 @@
       "viewCount": "2220万",
       "likeCount": "10.3万",
       "commentCount": "1918",
-      "increment_d1": "2234"
+      "increment_d1": "2239"
     },
     {
       "rank": 1544,
@@ -1033,7 +1033,7 @@
       "viewCount": "2218万",
       "likeCount": "16万",
       "commentCount": "3696",
-      "increment_d1": "2205"
+      "increment_d1": "2201"
     },
     {
       "rank": 1546,
@@ -1053,10 +1053,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-25",
-      "viewCount": "2214万",
-      "likeCount": "30.5万",
-      "commentCount": "3419",
-      "increment_d1": "1.73万"
+      "viewCount": "2215万",
+      "likeCount": "30.6万",
+      "commentCount": "3420",
+      "increment_d1": "1.61万"
     },
     {
       "rank": 1547,
@@ -1076,10 +1076,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-06-24",
-      "viewCount": "2213万",
+      "viewCount": "2214万",
       "likeCount": "34.2万",
       "commentCount": "1.4万",
-      "increment_d1": "2313"
+      "increment_d1": "2385"
     },
     {
       "rank": 1548,
@@ -1102,7 +1102,7 @@
       "viewCount": "2210万",
       "likeCount": "6.8万",
       "commentCount": "4649",
-      "increment_d1": "1286"
+      "increment_d1": "1424"
     },
     {
       "rank": 1549,
@@ -1124,8 +1124,8 @@
       "publishedAt": "2016-08-05",
       "viewCount": "2210万",
       "likeCount": "20.8万",
-      "commentCount": "7108",
-      "increment_d1": "1884"
+      "commentCount": "7107",
+      "increment_d1": "1862"
     },
     {
       "rank": 1550,
@@ -1145,10 +1145,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-22",
-      "viewCount": "2208万",
+      "viewCount": "2209万",
       "likeCount": "-",
       "commentCount": "2.1万",
-      "increment_d1": "1.04万"
+      "increment_d1": "9427"
     }
   ]
 }
