@@ -18,8 +18,8 @@
         "target": "_blank"
       },
       "publishedAt": "2013-01-07",
-      "viewCount": "5743万",
-      "likeCount": "47.4万",
+      "viewCount": "5744万",
+      "likeCount": "47.5万",
       "commentCount": "2.12万"
     },
     {
@@ -40,7 +40,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-07",
-      "viewCount": "2億3597万",
+      "viewCount": "2億3610万",
       "likeCount": "183万",
       "commentCount": "2.12万"
     },
@@ -128,7 +128,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-08-04",
-      "viewCount": "7964万",
+      "viewCount": "7966万",
       "likeCount": "59万",
       "commentCount": "2.1万"
     },
@@ -150,7 +150,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-02-08",
-      "viewCount": "5301万",
+      "viewCount": "5302万",
       "likeCount": "18.9万",
       "commentCount": "2.1万"
     },
@@ -172,7 +172,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-02-12",
-      "viewCount": "6806万",
+      "viewCount": "6808万",
       "likeCount": "56.9万",
       "commentCount": "2.1万"
     },
@@ -216,56 +216,12 @@
         "target": "_blank"
       },
       "publishedAt": "2024-05-03",
-      "viewCount": "1973万",
+      "viewCount": "1974万",
       "likeCount": "-",
       "commentCount": "2.08万"
     },
     {
       "rank": 461,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Qa9PkDZkyHg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Qa9PkDZkyHg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "米津玄師 - メトロノーム , Kenshi Yonezu - Metronome",
-        "url": "https://www.youtube.com/watch?v=Qa9PkDZkyHg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-10-08",
-      "viewCount": "8082万",
-      "likeCount": "34.8万",
-      "commentCount": "2.08万"
-    },
-    {
-      "rank": 462,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/qJf1i24iQv8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=qJf1i24iQv8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow Man「HELLO HELLO」Dance Practice",
-        "url": "https://www.youtube.com/watch?v=qJf1i24iQv8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Snow Man",
-        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-06-16",
-      "viewCount": "4071万",
-      "likeCount": "-",
-      "commentCount": "2.08万"
-    },
-    {
-      "rank": 463,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ZFoJYI7Q4iA/default.jpg",
         "url": "https://www.youtube.com/watch?v=ZFoJYI7Q4iA",
@@ -282,9 +238,53 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-05",
-      "viewCount": "1億1379万",
-      "likeCount": "53.7万",
-      "commentCount": "2.07万"
+      "viewCount": "1億1389万",
+      "likeCount": "53.8万",
+      "commentCount": "2.08万"
+    },
+    {
+      "rank": 462,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Qa9PkDZkyHg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Qa9PkDZkyHg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "米津玄師 - メトロノーム , Kenshi Yonezu - Metronome",
+        "url": "https://www.youtube.com/watch?v=Qa9PkDZkyHg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-10-08",
+      "viewCount": "8083万",
+      "likeCount": "34.9万",
+      "commentCount": "2.08万"
+    },
+    {
+      "rank": 463,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/qJf1i24iQv8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=qJf1i24iQv8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow Man「HELLO HELLO」Dance Practice",
+        "url": "https://www.youtube.com/watch?v=qJf1i24iQv8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Snow Man",
+        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-06-16",
+      "viewCount": "4072万",
+      "likeCount": "-",
+      "commentCount": "2.08万"
     },
     {
       "rank": 464,
@@ -304,7 +304,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-24",
-      "viewCount": "1億2144万",
+      "viewCount": "1億2149万",
       "likeCount": "100万",
       "commentCount": "2.07万"
     },
@@ -326,7 +326,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-18",
-      "viewCount": "1億4268万",
+      "viewCount": "1億4273万",
       "likeCount": "112万",
       "commentCount": "2.07万"
     },
@@ -348,7 +348,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-22",
-      "viewCount": "2797万",
+      "viewCount": "2798万",
       "likeCount": "20万",
       "commentCount": "2.05万"
     },
@@ -458,7 +458,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-10-08",
-      "viewCount": "2891万",
+      "viewCount": "2892万",
       "likeCount": "47.5万",
       "commentCount": "2.03万"
     },
@@ -502,7 +502,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-02-03",
-      "viewCount": "6206万",
+      "viewCount": "6208万",
       "likeCount": "37.5万",
       "commentCount": "2.03万"
     },
@@ -568,7 +568,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-07-07",
-      "viewCount": "8893万",
+      "viewCount": "8896万",
       "likeCount": "55.1万",
       "commentCount": "2.01万"
     },
@@ -595,7 +595,7 @@
       "commentCount": "2.01万"
     },
     {
-      "rank": 477,
+      "rank": 478,
       "thumb": {
         "img": "https://i.ytimg.com/vi/oEkGC2HV7rc/default.jpg",
         "url": "https://www.youtube.com/watch?v=oEkGC2HV7rc",
@@ -612,8 +612,8 @@
         "target": "_blank"
       },
       "publishedAt": "2018-07-13",
-      "viewCount": "6638万",
-      "likeCount": "85.9万",
+      "viewCount": "6639万",
+      "likeCount": "86万",
       "commentCount": "2.01万"
     },
     {
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-06-16",
-      "viewCount": "6666万",
+      "viewCount": "6667万",
       "likeCount": "36.4万",
       "commentCount": "1.99万"
     },
@@ -678,7 +678,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-25",
-      "viewCount": "1億1539万",
+      "viewCount": "1億1548万",
       "likeCount": "47.1万",
       "commentCount": "1.99万"
     },
@@ -744,7 +744,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-02-01",
-      "viewCount": "6104万",
+      "viewCount": "6105万",
       "likeCount": "52万",
       "commentCount": "1.98万"
     },
@@ -766,7 +766,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-23",
-      "viewCount": "1億2770万",
+      "viewCount": "1億2773万",
       "likeCount": "44.2万",
       "commentCount": "1.98万"
     },
@@ -810,7 +810,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-03-18",
-      "viewCount": "8842万",
+      "viewCount": "8843万",
       "likeCount": "39.2万",
       "commentCount": "1.98万"
     },
@@ -832,8 +832,8 @@
         "target": "_blank"
       },
       "publishedAt": "2018-03-07",
-      "viewCount": "4112万",
-      "likeCount": "79.2万",
+      "viewCount": "4113万",
+      "likeCount": "79.3万",
       "commentCount": "1.97万"
     },
     {
@@ -854,7 +854,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-03-21",
-      "viewCount": "8672万",
+      "viewCount": "8676万",
       "likeCount": "79.9万",
       "commentCount": "1.97万"
     },
@@ -876,7 +876,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-17",
-      "viewCount": "3162万",
+      "viewCount": "3163万",
       "likeCount": "-",
       "commentCount": "1.97万"
     },
@@ -898,9 +898,9 @@
         "target": "_blank"
       },
       "publishedAt": "2011-05-21",
-      "viewCount": "4691万",
+      "viewCount": "4692万",
       "likeCount": "25.9万",
-      "commentCount": "1.96万"
+      "commentCount": "1.97万"
     },
     {
       "rank": 492,
@@ -920,7 +920,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-21",
-      "viewCount": "8328万",
+      "viewCount": "8332万",
       "likeCount": "102万",
       "commentCount": "1.96万"
     },
@@ -942,7 +942,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-02-13",
-      "viewCount": "9704万",
+      "viewCount": "9708万",
       "likeCount": "78.5万",
       "commentCount": "1.96万"
     },
@@ -1008,8 +1008,8 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-28",
-      "viewCount": "1億4926万",
-      "likeCount": "57.2万",
+      "viewCount": "1億4934万",
+      "likeCount": "57.3万",
       "commentCount": "1.94万"
     },
     {
@@ -1030,7 +1030,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-16",
-      "viewCount": "1億3514万",
+      "viewCount": "1億3525万",
       "likeCount": "119万",
       "commentCount": "1.94万"
     },
@@ -1096,8 +1096,8 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-23",
-      "viewCount": "8759万",
-      "likeCount": "94.5万",
+      "viewCount": "8766万",
+      "likeCount": "94.6万",
       "commentCount": "1.93万"
     }
   ]

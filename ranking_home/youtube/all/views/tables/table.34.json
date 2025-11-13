@@ -21,7 +21,7 @@
       "viewCount": "2069万",
       "likeCount": "21.8万",
       "commentCount": "2837",
-      "increment_d1": "8722"
+      "increment_d1": "8876"
     },
     {
       "rank": 1652,
@@ -44,7 +44,7 @@
       "viewCount": "2066万",
       "likeCount": "29.6万",
       "commentCount": "3875",
-      "increment_d1": "4164"
+      "increment_d1": "4526"
     },
     {
       "rank": 1653,
@@ -67,7 +67,7 @@
       "viewCount": "2065万",
       "likeCount": "15万",
       "commentCount": "2.4万",
-      "increment_d1": "1573"
+      "increment_d1": "1696"
     },
     {
       "rank": 1654,
@@ -87,10 +87,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-07",
-      "viewCount": "2063万",
+      "viewCount": "2064万",
       "likeCount": "19万",
       "commentCount": "4811",
-      "increment_d1": "4055"
+      "increment_d1": "3978"
     },
     {
       "rank": 1655,
@@ -113,7 +113,7 @@
       "viewCount": "2063万",
       "likeCount": "-",
       "commentCount": "1.9万",
-      "increment_d1": "2935"
+      "increment_d1": "2892"
     },
     {
       "rank": 1656,
@@ -133,10 +133,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-09",
-      "viewCount": "2060万",
+      "viewCount": "2061万",
       "likeCount": "7.5万",
       "commentCount": "202",
-      "increment_d1": "1.56万"
+      "increment_d1": "1.57万"
     },
     {
       "rank": 1657,
@@ -159,7 +159,7 @@
       "viewCount": "2059万",
       "likeCount": "3万",
       "commentCount": "3858",
-      "increment_d1": "366"
+      "increment_d1": "378"
     },
     {
       "rank": 1658,
@@ -182,7 +182,7 @@
       "viewCount": "2056万",
       "likeCount": "-",
       "commentCount": "2.5万",
-      "increment_d1": "4452"
+      "increment_d1": "4499"
     },
     {
       "rank": 1659,
@@ -202,13 +202,36 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-28",
-      "viewCount": "2053万",
+      "viewCount": "2055万",
       "likeCount": "14.9万",
       "commentCount": "2.5万",
-      "increment_d1": "1.05万"
+      "increment_d1": "1.04万"
     },
     {
       "rank": 1660,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/m6CFrfKw60w/default.jpg",
+        "url": "https://www.youtube.com/watch?v=m6CFrfKw60w",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "アヴァン(Avant) - Eve MV",
+        "url": "https://www.youtube.com/watch?v=m6CFrfKw60w",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Eve",
+        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-11-23",
+      "viewCount": "2051万",
+      "likeCount": "24.2万",
+      "commentCount": "6028",
+      "increment_d1": "1.55万"
+    },
+    {
+      "rank": 1661,
       "thumb": {
         "img": "https://i.ytimg.com/vi/dVvFTKa62Ts/default.jpg",
         "url": "https://www.youtube.com/watch?v=dVvFTKa62Ts",
@@ -225,13 +248,13 @@
         "target": "_blank"
       },
       "publishedAt": "2013-10-03",
-      "viewCount": "2050万",
+      "viewCount": "2051万",
       "likeCount": "5.2万",
       "commentCount": "2264",
-      "increment_d1": "1214"
+      "increment_d1": "1446"
     },
     {
-      "rank": 1661,
+      "rank": 1662,
       "thumb": {
         "img": "https://i.ytimg.com/vi/EZBeo_k1k-A/default.jpg",
         "url": "https://www.youtube.com/watch?v=EZBeo_k1k-A",
@@ -251,30 +274,7 @@
       "viewCount": "2050万",
       "likeCount": "10.2万",
       "commentCount": "1.3万",
-      "increment_d1": "1334"
-    },
-    {
-      "rank": 1662,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/m6CFrfKw60w/default.jpg",
-        "url": "https://www.youtube.com/watch?v=m6CFrfKw60w",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "アヴァン(Avant) - Eve MV",
-        "url": "https://www.youtube.com/watch?v=m6CFrfKw60w",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Eve",
-        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-11-23",
-      "viewCount": "2050万",
-      "likeCount": "24.1万",
-      "commentCount": "6030",
-      "increment_d1": "1.74万"
+      "increment_d1": "1362"
     },
     {
       "rank": 1663,
@@ -294,10 +294,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-27",
-      "viewCount": "2049万",
+      "viewCount": "2050万",
       "likeCount": "17.1万",
       "commentCount": "6291",
-      "increment_d1": "3033"
+      "increment_d1": "3066"
     },
     {
       "rank": 1664,
@@ -320,7 +320,7 @@
       "viewCount": "2047万",
       "likeCount": "6.3万",
       "commentCount": "1704",
-      "increment_d1": "437"
+      "increment_d1": "434"
     },
     {
       "rank": 1665,
@@ -343,7 +343,7 @@
       "viewCount": "2045万",
       "likeCount": "6.5万",
       "commentCount": "1467",
-      "increment_d1": "1481"
+      "increment_d1": "1444"
     },
     {
       "rank": 1666,
@@ -363,10 +363,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-08-05",
-      "viewCount": "2044万",
+      "viewCount": "2045万",
       "likeCount": "4.8万",
       "commentCount": "2435",
-      "increment_d1": "609"
+      "increment_d1": "758"
     },
     {
       "rank": 1667,
@@ -389,7 +389,7 @@
       "viewCount": "2044万",
       "likeCount": "17.4万",
       "commentCount": "4112",
-      "increment_d1": "2192"
+      "increment_d1": "2481"
     },
     {
       "rank": 1668,
@@ -412,7 +412,7 @@
       "viewCount": "2043万",
       "likeCount": "6.4万",
       "commentCount": "1179",
-      "increment_d1": "4393"
+      "increment_d1": "4726"
     },
     {
       "rank": 1669,
@@ -435,7 +435,7 @@
       "viewCount": "2042万",
       "likeCount": "5.1万",
       "commentCount": "2184",
-      "increment_d1": "225"
+      "increment_d1": "195"
     },
     {
       "rank": 1670,
@@ -455,10 +455,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-29",
-      "viewCount": "2041万",
+      "viewCount": "2042万",
       "likeCount": "24.9万",
       "commentCount": "2984",
-      "increment_d1": "8083"
+      "increment_d1": "8638"
     },
     {
       "rank": 1671,
@@ -481,7 +481,7 @@
       "viewCount": "2041万",
       "likeCount": "4.6万",
       "commentCount": "984",
-      "increment_d1": "127"
+      "increment_d1": "92"
     },
     {
       "rank": 1672,
@@ -501,10 +501,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-10",
-      "viewCount": "2040万",
+      "viewCount": "2041万",
       "likeCount": "15.1万",
       "commentCount": "8075",
-      "increment_d1": "1556"
+      "increment_d1": "1635"
     },
     {
       "rank": 1673,
@@ -527,7 +527,7 @@
       "viewCount": "2038万",
       "likeCount": "10万",
       "commentCount": "6681",
-      "increment_d1": "1581"
+      "increment_d1": "1444"
     },
     {
       "rank": 1674,
@@ -550,7 +550,7 @@
       "viewCount": "2037万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "1767"
+      "increment_d1": "1976"
     },
     {
       "rank": 1675,
@@ -570,10 +570,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-11-30",
-      "viewCount": "2036万",
+      "viewCount": "2037万",
       "likeCount": "6.5万",
       "commentCount": "3480",
-      "increment_d1": "2202"
+      "increment_d1": "2414"
     },
     {
       "rank": 1676,
@@ -596,7 +596,7 @@
       "viewCount": "2036万",
       "likeCount": "19.8万",
       "commentCount": "1.3万",
-      "increment_d1": "2170"
+      "increment_d1": "2320"
     },
     {
       "rank": 1677,
@@ -617,9 +617,9 @@
       },
       "publishedAt": "2009-04-22",
       "viewCount": "2034万",
-      "likeCount": "5544",
+      "likeCount": "5545",
       "commentCount": "171",
-      "increment_d1": "77"
+      "increment_d1": "100"
     },
     {
       "rank": 1678,
@@ -642,7 +642,7 @@
       "viewCount": "2032万",
       "likeCount": "15.9万",
       "commentCount": "1721",
-      "increment_d1": "5234"
+      "increment_d1": "4976"
     },
     {
       "rank": 1679,
@@ -662,10 +662,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-07-22",
-      "viewCount": "2030万",
+      "viewCount": "2031万",
       "likeCount": "16.8万",
       "commentCount": "3043",
-      "increment_d1": "2111"
+      "increment_d1": "1972"
     },
     {
       "rank": 1680,
@@ -688,7 +688,7 @@
       "viewCount": "2030万",
       "likeCount": "20.9万",
       "commentCount": "7908",
-      "increment_d1": "2210"
+      "increment_d1": "2110"
     },
     {
       "rank": 1681,
@@ -711,7 +711,7 @@
       "viewCount": "2029万",
       "likeCount": "35.7万",
       "commentCount": "1.3万",
-      "increment_d1": "500"
+      "increment_d1": "521"
     },
     {
       "rank": 1682,
@@ -731,10 +731,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-25",
-      "viewCount": "2025万",
+      "viewCount": "2026万",
       "likeCount": "-",
       "commentCount": "5212",
-      "increment_d1": "8889"
+      "increment_d1": "9554"
     },
     {
       "rank": 1683,
@@ -757,33 +757,56 @@
       "viewCount": "2025万",
       "likeCount": "6.9万",
       "commentCount": "1894",
-      "increment_d1": "3501"
+      "increment_d1": "3834"
     },
     {
       "rank": 1684,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/m28FSsyWXBw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=m28FSsyWXBw",
+        "img": "https://i.ytimg.com/vi/XicdpSmxuT0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=XicdpSmxuT0",
         "target": "_blank"
       },
       "title": {
-        "text": "JO1｜'SuperCali' PERFORMANCE VIDEO",
-        "url": "https://www.youtube.com/watch?v=m28FSsyWXBw",
+        "text": "TVアニメ「パリピ孔明」OPテーマ「チキチキバンバン」ノンテロップ映像",
+        "url": "https://www.youtube.com/watch?v=XicdpSmxuT0",
         "target": "_blank"
       },
       "channel": {
-        "text": "JO1",
-        "url": "https://www.youtube.com/channel/UCsmXiDP8S40uBeJYxvyulmA",
+        "text": "avex pictures",
+        "url": "https://www.youtube.com/channel/UCKlXiCjg_VI0eZ9kKBeNJgw",
         "target": "_blank"
       },
-      "publishedAt": "2022-09-22",
+      "publishedAt": "2022-04-12",
       "viewCount": "2024万",
-      "likeCount": "7.3万",
-      "commentCount": "2.5万",
-      "increment_d1": "167"
+      "likeCount": "26.3万",
+      "commentCount": "8070",
+      "increment_d1": "3398"
     },
     {
       "rank": 1685,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/iAOTwdlEdVg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=iAOTwdlEdVg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "あの夢をなぞって",
+        "url": "https://www.youtube.com/watch?v=iAOTwdlEdVg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-01-17",
+      "viewCount": "2024万",
+      "likeCount": "9.5万",
+      "commentCount": "394",
+      "increment_d1": "1.54万"
+    },
+    {
+      "rank": 1686,
       "thumb": {
         "img": "https://i.ytimg.com/vi/fUIIwkzj5rc/default.jpg",
         "url": "https://www.youtube.com/watch?v=fUIIwkzj5rc",
@@ -803,53 +826,30 @@
       "viewCount": "2024万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "1180"
-    },
-    {
-      "rank": 1686,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/XicdpSmxuT0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=XicdpSmxuT0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "TVアニメ「パリピ孔明」OPテーマ「チキチキバンバン」ノンテロップ映像",
-        "url": "https://www.youtube.com/watch?v=XicdpSmxuT0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex pictures",
-        "url": "https://www.youtube.com/channel/UCKlXiCjg_VI0eZ9kKBeNJgw",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-04-12",
-      "viewCount": "2024万",
-      "likeCount": "26.3万",
-      "commentCount": "8069",
-      "increment_d1": "3503"
+      "increment_d1": "1257"
     },
     {
       "rank": 1687,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/iAOTwdlEdVg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=iAOTwdlEdVg",
+        "img": "https://i.ytimg.com/vi/m28FSsyWXBw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=m28FSsyWXBw",
         "target": "_blank"
       },
       "title": {
-        "text": "あの夢をなぞって",
-        "url": "https://www.youtube.com/watch?v=iAOTwdlEdVg",
+        "text": "JO1｜'SuperCali' PERFORMANCE VIDEO",
+        "url": "https://www.youtube.com/watch?v=m28FSsyWXBw",
         "target": "_blank"
       },
       "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "text": "JO1",
+        "url": "https://www.youtube.com/channel/UCsmXiDP8S40uBeJYxvyulmA",
         "target": "_blank"
       },
-      "publishedAt": "2020-01-17",
-      "viewCount": "2023万",
-      "likeCount": "9.5万",
-      "commentCount": "394",
-      "increment_d1": "1.47万"
+      "publishedAt": "2022-09-22",
+      "viewCount": "2024万",
+      "likeCount": "7.3万",
+      "commentCount": "2.5万",
+      "increment_d1": "237"
     },
     {
       "rank": 1688,
@@ -872,7 +872,7 @@
       "viewCount": "2022万",
       "likeCount": "10.1万",
       "commentCount": "1万",
-      "increment_d1": "1333"
+      "increment_d1": "1319"
     },
     {
       "rank": 1689,
@@ -895,33 +895,10 @@
       "viewCount": "2021万",
       "likeCount": "11.6万",
       "commentCount": "2774",
-      "increment_d1": "977"
+      "increment_d1": "1001"
     },
     {
       "rank": 1690,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/fMoaAlLlSc8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=fMoaAlLlSc8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Make you happy",
-        "url": "https://www.youtube.com/watch?v=fMoaAlLlSc8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "NiziU - Topic",
-        "url": "https://www.youtube.com/channel/UCzrllDdhrz1PemEWjgajRCQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-06-29",
-      "viewCount": "2020万",
-      "likeCount": "3万",
-      "commentCount": "54",
-      "increment_d1": "3641"
-    },
-    {
-      "rank": 1691,
       "thumb": {
         "img": "https://i.ytimg.com/vi/aqoeNOw4_uQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=aqoeNOw4_uQ",
@@ -938,10 +915,33 @@
         "target": "_blank"
       },
       "publishedAt": "2023-01-27",
-      "viewCount": "2020万",
+      "viewCount": "2021万",
       "likeCount": "20万",
       "commentCount": "2572",
-      "increment_d1": "1.23万"
+      "increment_d1": "1.04万"
+    },
+    {
+      "rank": 1691,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/fMoaAlLlSc8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=fMoaAlLlSc8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Make you happy",
+        "url": "https://www.youtube.com/watch?v=fMoaAlLlSc8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "NiziU - Topic",
+        "url": "https://www.youtube.com/channel/UCzrllDdhrz1PemEWjgajRCQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-06-29",
+      "viewCount": "2021万",
+      "likeCount": "3万",
+      "commentCount": "54",
+      "increment_d1": "3646"
     },
     {
       "rank": 1692,
@@ -961,36 +961,13 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-16",
-      "viewCount": "2018万",
+      "viewCount": "2020万",
       "likeCount": "7万",
       "commentCount": "1074",
-      "increment_d1": "1.33万"
+      "increment_d1": "1.49万"
     },
     {
       "rank": 1693,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/AUeRiPyjFH4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=AUeRiPyjFH4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "マキシマム ザ ホルモン 『恋のスペルマ』 Music Video 野外フェス映像ver.",
-        "url": "https://www.youtube.com/watch?v=AUeRiPyjFH4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "マキシマム ザ ホルモン公式",
-        "url": "https://www.youtube.com/channel/UCbb9FsCRA83-6vdgXn2KSyA",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-06-26",
-      "viewCount": "2014万",
-      "likeCount": "8.9万",
-      "commentCount": "3555",
-      "increment_d1": "7067"
-    },
-    {
-      "rank": 1694,
       "thumb": {
         "img": "https://i.ytimg.com/vi/IxN5s8YipbI/default.jpg",
         "url": "https://www.youtube.com/watch?v=IxN5s8YipbI",
@@ -1007,10 +984,33 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-10",
-      "viewCount": "2014万",
+      "viewCount": "2016万",
       "likeCount": "8.3万",
-      "commentCount": "3380",
-      "increment_d1": "1.96万"
+      "commentCount": "3381",
+      "increment_d1": "1.73万"
+    },
+    {
+      "rank": 1694,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/AUeRiPyjFH4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=AUeRiPyjFH4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "マキシマム ザ ホルモン 『恋のスペルマ』 Music Video 野外フェス映像ver.",
+        "url": "https://www.youtube.com/watch?v=AUeRiPyjFH4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "マキシマム ザ ホルモン公式",
+        "url": "https://www.youtube.com/channel/UCbb9FsCRA83-6vdgXn2KSyA",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-06-26",
+      "viewCount": "2015万",
+      "likeCount": "8.9万",
+      "commentCount": "3556",
+      "increment_d1": "7445"
     },
     {
       "rank": 1695,
@@ -1033,7 +1033,7 @@
       "viewCount": "2014万",
       "likeCount": "84.7万",
       "commentCount": "6.3万",
-      "increment_d1": "2877"
+      "increment_d1": "2671"
     },
     {
       "rank": 1696,
@@ -1053,10 +1053,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-02-20",
-      "viewCount": "2013万",
+      "viewCount": "2014万",
       "likeCount": "21.3万",
       "commentCount": "1万",
-      "increment_d1": "2995"
+      "increment_d1": "3238"
     },
     {
       "rank": 1697,
@@ -1078,11 +1078,34 @@
       "publishedAt": "2015-10-09",
       "viewCount": "2012万",
       "likeCount": "9.3万",
-      "commentCount": "7529",
-      "increment_d1": "999"
+      "commentCount": "7528",
+      "increment_d1": "1052"
     },
     {
       "rank": 1698,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/uA832zpafis/default.jpg",
+        "url": "https://www.youtube.com/watch?v=uA832zpafis",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ONE OK ROCK - Let Me Let You Go [Live Documentary Video]",
+        "url": "https://www.youtube.com/watch?v=uA832zpafis",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ONE OK ROCK",
+        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-08-29",
+      "viewCount": "2012万",
+      "likeCount": "17.1万",
+      "commentCount": "4422",
+      "increment_d1": "1.05万"
+    },
+    {
+      "rank": 1699,
       "thumb": {
         "img": "https://i.ytimg.com/vi/MiCoGolDDOQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=MiCoGolDDOQ",
@@ -1099,13 +1122,13 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-10",
-      "viewCount": "2011万",
+      "viewCount": "2012万",
       "likeCount": "-",
       "commentCount": "1.7万",
-      "increment_d1": "1796"
+      "increment_d1": "1960"
     },
     {
-      "rank": 1699,
+      "rank": 1700,
       "thumb": {
         "img": "https://i.ytimg.com/vi/iRcbfSZKxSs/default.jpg",
         "url": "https://www.youtube.com/watch?v=iRcbfSZKxSs",
@@ -1124,31 +1147,8 @@
       "publishedAt": "2016-10-27",
       "viewCount": "2011万",
       "likeCount": "17.5万",
-      "commentCount": "9888",
-      "increment_d1": "2486"
-    },
-    {
-      "rank": 1700,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/uA832zpafis/default.jpg",
-        "url": "https://www.youtube.com/watch?v=uA832zpafis",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ONE OK ROCK - Let Me Let You Go [Live Documentary Video]",
-        "url": "https://www.youtube.com/watch?v=uA832zpafis",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ONE OK ROCK",
-        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-08-29",
-      "viewCount": "2011万",
-      "likeCount": "17.1万",
-      "commentCount": "4422",
-      "increment_d1": "1万"
+      "commentCount": "9889",
+      "increment_d1": "2565"
     }
   ]
 }
