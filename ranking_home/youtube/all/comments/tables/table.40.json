@@ -1,7 +1,29 @@
 {
   "rows": [
     {
-      "rank": 1950,
+      "rank": 1951,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/w73Ks2WX_XQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=w73Ks2WX_XQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "チルドレン - BIN(Official Video)",
+        "url": "https://www.youtube.com/watch?v=w73Ks2WX_XQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BIN official",
+        "url": "https://www.youtube.com/channel/UC2AjuUIySECwm7G7tJGUwJQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-03-16",
+      "viewCount": "1185万",
+      "likeCount": "24.1万",
+      "commentCount": "3932"
+    },
+    {
+      "rank": 1951,
       "thumb": {
         "img": "https://i.ytimg.com/vi/uP8CtPMAd5Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=uP8CtPMAd5Q",
@@ -18,30 +40,8 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-21",
-      "viewCount": "3325万",
+      "viewCount": "3326万",
       "likeCount": "21.5万",
-      "commentCount": "3932"
-    },
-    {
-      "rank": 1950,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/iqGHxcTPRfI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=iqGHxcTPRfI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "aiko- 『花火』music video",
-        "url": "https://www.youtube.com/watch?v=iqGHxcTPRfI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "aikoOfficial",
-        "url": "https://www.youtube.com/channel/UCtLQyS4toPOarqufGUxTtIQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-02-25",
-      "viewCount": "4296万",
-      "likeCount": "-",
       "commentCount": "3932"
     },
     {
@@ -69,28 +69,6 @@
     {
       "rank": 1954,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/pnbeGTeZCpg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=pnbeGTeZCpg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ハジ→『指輪と合鍵。feat. Ai from RSP』【歌詞付きフル】",
-        "url": "https://www.youtube.com/watch?v=pnbeGTeZCpg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "HAZZIE Channel。 / ハジーちゃんねる。",
-        "url": "https://www.youtube.com/channel/UCneQXG-9KV73JjTzcqW3bvw",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-02-03",
-      "viewCount": "3772万",
-      "likeCount": "7.6万",
-      "commentCount": "3927"
-    },
-    {
-      "rank": 1955,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/fMHj3U3-RA4/default.jpg",
         "url": "https://www.youtube.com/watch?v=fMHj3U3-RA4",
         "target": "_blank"
@@ -108,6 +86,28 @@
       "publishedAt": "2013-05-01",
       "viewCount": "2003万",
       "likeCount": "6.4万",
+      "commentCount": "3926"
+    },
+    {
+      "rank": 1954,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/pnbeGTeZCpg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=pnbeGTeZCpg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ハジ→『指輪と合鍵。feat. Ai from RSP』【歌詞付きフル】",
+        "url": "https://www.youtube.com/watch?v=pnbeGTeZCpg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "HAZZIE Channel。 / ハジーちゃんねる。",
+        "url": "https://www.youtube.com/channel/UCneQXG-9KV73JjTzcqW3bvw",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-02-03",
+      "viewCount": "3772万",
+      "likeCount": "7.6万",
       "commentCount": "3926"
     },
     {
@@ -130,7 +130,7 @@
       "publishedAt": "2013-06-18",
       "viewCount": "2183万",
       "likeCount": "12.2万",
-      "commentCount": "3924"
+      "commentCount": "3925"
     },
     {
       "rank": 1957,
@@ -282,7 +282,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-06",
-      "viewCount": "1886万",
+      "viewCount": "1887万",
       "likeCount": "10.8万",
       "commentCount": "3883"
     },
@@ -348,9 +348,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-01-07",
-      "viewCount": "2066万",
+      "viewCount": "2067万",
       "likeCount": "29.6万",
-      "commentCount": "3875"
+      "commentCount": "3874"
     },
     {
       "rank": 1967,
@@ -392,7 +392,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-12-30",
-      "viewCount": "3918万",
+      "viewCount": "3919万",
       "likeCount": "47.5万",
       "commentCount": "3872"
     },
@@ -458,7 +458,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-02-19",
-      "viewCount": "3743万",
+      "viewCount": "3744万",
       "likeCount": "21.4万",
       "commentCount": "3853"
     },
@@ -502,9 +502,9 @@
         "target": "_blank"
       },
       "publishedAt": "2017-12-01",
-      "viewCount": "2278万",
+      "viewCount": "2279万",
       "likeCount": "19.5万",
-      "commentCount": "3849"
+      "commentCount": "3850"
     },
     {
       "rank": 1974,
@@ -524,7 +524,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-25",
-      "viewCount": "1438万",
+      "viewCount": "1439万",
       "likeCount": "17.5万",
       "commentCount": "3847"
     },
@@ -546,9 +546,9 @@
         "target": "_blank"
       },
       "publishedAt": "2016-04-28",
-      "viewCount": "2308万",
+      "viewCount": "2309万",
       "likeCount": "11.9万",
-      "commentCount": "3843"
+      "commentCount": "3844"
     },
     {
       "rank": 1976,
@@ -568,9 +568,9 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-19",
-      "viewCount": "2135万",
+      "viewCount": "2136万",
       "likeCount": "11.9万",
-      "commentCount": "3840"
+      "commentCount": "3841"
     },
     {
       "rank": 1977,
@@ -678,7 +678,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-04",
-      "viewCount": "4173万",
+      "viewCount": "4179万",
       "likeCount": "16.9万",
       "commentCount": "3818"
     },
@@ -700,8 +700,8 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-17",
-      "viewCount": "3344万",
-      "likeCount": "21.1万",
+      "viewCount": "3346万",
+      "likeCount": "21.2万",
       "commentCount": "3817"
     },
     {
@@ -722,34 +722,12 @@
         "target": "_blank"
       },
       "publishedAt": "2016-10-14",
-      "viewCount": "1076万",
+      "viewCount": "1077万",
       "likeCount": "8.6万",
-      "commentCount": "3810"
+      "commentCount": "3812"
     },
     {
       "rank": 1984,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/5iAQF_q6FSk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=5iAQF_q6FSk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Ado】Value",
-        "url": "https://www.youtube.com/watch?v=5iAQF_q6FSk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ado",
-        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-02-23",
-      "viewCount": "1116万",
-      "likeCount": "19.3万",
-      "commentCount": "3807"
-    },
-    {
-      "rank": 1985,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Pw_cYJoSsKQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=Pw_cYJoSsKQ",
@@ -766,12 +744,34 @@
         "target": "_blank"
       },
       "publishedAt": "2019-09-25",
-      "viewCount": "1804万",
+      "viewCount": "1805万",
       "likeCount": "8.3万",
-      "commentCount": "3806"
+      "commentCount": "3810"
     },
     {
       "rank": 1985,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/5iAQF_q6FSk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=5iAQF_q6FSk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Ado】Value",
+        "url": "https://www.youtube.com/watch?v=5iAQF_q6FSk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ado",
+        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-02-23",
+      "viewCount": "1117万",
+      "likeCount": "19.3万",
+      "commentCount": "3807"
+    },
+    {
+      "rank": 1986,
       "thumb": {
         "img": "https://i.ytimg.com/vi/pVZ5cXvGDWM/default.jpg",
         "url": "https://www.youtube.com/watch?v=pVZ5cXvGDWM",
@@ -815,7 +815,7 @@
       "commentCount": "3804"
     },
     {
-      "rank": 1988,
+      "rank": 1987,
       "thumb": {
         "img": "https://i.ytimg.com/vi/eJ-FOKIFGKw/default.jpg",
         "url": "https://www.youtube.com/watch?v=eJ-FOKIFGKw",
@@ -832,9 +832,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-06",
-      "viewCount": "2493万",
+      "viewCount": "2495万",
       "likeCount": "9.1万",
-      "commentCount": "3803"
+      "commentCount": "3804"
     },
     {
       "rank": 1989,
@@ -854,9 +854,9 @@
         "target": "_blank"
       },
       "publishedAt": "2009-04-08",
-      "viewCount": "4096万",
+      "viewCount": "4097万",
       "likeCount": "9.3万",
-      "commentCount": "3795"
+      "commentCount": "3797"
     },
     {
       "rank": 1990,
@@ -878,7 +878,7 @@
       "publishedAt": "2023-05-26",
       "viewCount": "1170万",
       "likeCount": "11.2万",
-      "commentCount": "3783"
+      "commentCount": "3784"
     },
     {
       "rank": 1991,
@@ -898,7 +898,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-03-14",
-      "viewCount": "3033万",
+      "viewCount": "3034万",
       "likeCount": "12.3万",
       "commentCount": "3781"
     },
@@ -964,7 +964,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-10-28",
-      "viewCount": "1603万",
+      "viewCount": "1604万",
       "likeCount": "7.9万",
       "commentCount": "3772"
     },
@@ -1010,7 +1010,7 @@
       "publishedAt": "2018-06-01",
       "viewCount": "1603万",
       "likeCount": "6.9万",
-      "commentCount": "3766"
+      "commentCount": "3767"
     },
     {
       "rank": 1997,
@@ -1032,7 +1032,7 @@
       "publishedAt": "2012-03-14",
       "viewCount": "1986万",
       "likeCount": "9.1万",
-      "commentCount": "3763"
+      "commentCount": "3764"
     },
     {
       "rank": 1998,
@@ -1081,13 +1081,13 @@
     {
       "rank": 2000,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/Sfz5TpCRSiI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Sfz5TpCRSiI",
+        "img": "https://i.ytimg.com/vi/6OC92oxs4gA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=6OC92oxs4gA",
         "target": "_blank"
       },
       "title": {
-        "text": "ずっと真夜中でいいのに。『猫リセット』MV (ZUTOMAYO – Neko Reset)",
-        "url": "https://www.youtube.com/watch?v=Sfz5TpCRSiI",
+        "text": "ずっと真夜中でいいのに。『残機』MV (ZUTOMAYO - Time Left)",
+        "url": "https://www.youtube.com/watch?v=6OC92oxs4gA",
         "target": "_blank"
       },
       "channel": {
@@ -1095,9 +1095,9 @@
         "url": "https://www.youtube.com/channel/UCv6P5nsS9rP4tDtFlqLU_QQ",
         "target": "_blank"
       },
-      "publishedAt": "2021-12-02",
-      "viewCount": "1102万",
-      "likeCount": "14.6万",
+      "publishedAt": "2022-10-20",
+      "viewCount": "3382万",
+      "likeCount": "29万",
       "commentCount": "3754"
     }
   ]

@@ -3,6 +3,29 @@
     {
       "rank": 1001,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/0HS3ZvAiiTU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=0HS3ZvAiiTU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE - ブルーアンビエンス（feat. asmi）【LIVE “Utopia” on WOWOW】",
+        "url": "https://www.youtube.com/watch?v=0HS3ZvAiiTU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-07-30",
+      "viewCount": "3432万",
+      "likeCount": "21.3万",
+      "commentCount": "3648",
+      "increment_d1": "1.58万"
+    },
+    {
+      "rank": 1002,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/bRWQckbQ9tQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=bRWQckbQ9tQ",
         "target": "_blank"
@@ -20,31 +43,8 @@
       "publishedAt": "2017-04-07",
       "viewCount": "3423万",
       "likeCount": "16.3万",
-      "commentCount": "8143",
-      "increment_d1": "4183"
-    },
-    {
-      "rank": 1002,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/sPLqsLsooJY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=sPLqsLsooJY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "米津玄師, 宇多田ヒカル Kenshi Yonezu, Hikaru Utada -  JANE DOE",
-        "url": "https://www.youtube.com/watch?v=sPLqsLsooJY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-09-23",
-      "viewCount": "3419万",
-      "likeCount": "53.5万",
-      "commentCount": "1.7万",
-      "increment_d1": "53.33万"
+      "commentCount": "8144",
+      "increment_d1": "4454"
     },
     {
       "rank": 1003,
@@ -67,7 +67,7 @@
       "viewCount": "3418万",
       "likeCount": "-",
       "commentCount": "2.8万",
-      "increment_d1": "1031"
+      "increment_d1": "1033"
     },
     {
       "rank": 1004,
@@ -90,7 +90,7 @@
       "viewCount": "3410万",
       "likeCount": "33.3万",
       "commentCount": "7783",
-      "increment_d1": "4276"
+      "increment_d1": "3503"
     },
     {
       "rank": 1005,
@@ -112,8 +112,8 @@
       "publishedAt": "2019-01-11",
       "viewCount": "3409万",
       "likeCount": "17.9万",
-      "commentCount": "6717",
-      "increment_d1": "3785"
+      "commentCount": "6718",
+      "increment_d1": "3950"
     },
     {
       "rank": 1006,
@@ -133,13 +133,36 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-24",
-      "viewCount": "3405万",
+      "viewCount": "3406万",
       "likeCount": "13.3万",
-      "commentCount": "8148",
-      "increment_d1": "7299"
+      "commentCount": "8149",
+      "increment_d1": "6628"
     },
     {
       "rank": 1007,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/fp3F6TqBsAU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=fp3F6TqBsAU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "米津玄師  Kenshi Yonezu - Plazma",
+        "url": "https://www.youtube.com/watch?v=fp3F6TqBsAU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-01-21",
+      "viewCount": "3398万",
+      "likeCount": "27.4万",
+      "commentCount": "1.2万",
+      "increment_d1": "4.12万"
+    },
+    {
+      "rank": 1008,
       "thumb": {
         "img": "https://i.ytimg.com/vi/HIRfc3ybbPg/default.jpg",
         "url": "https://www.youtube.com/watch?v=HIRfc3ybbPg",
@@ -158,31 +181,8 @@
       "publishedAt": "2013-01-25",
       "viewCount": "3395万",
       "likeCount": "11.6万",
-      "commentCount": "4066",
-      "increment_d1": "2529"
-    },
-    {
-      "rank": 1008,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/fp3F6TqBsAU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=fp3F6TqBsAU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "米津玄師  Kenshi Yonezu - Plazma",
-        "url": "https://www.youtube.com/watch?v=fp3F6TqBsAU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-01-21",
-      "viewCount": "3394万",
-      "likeCount": "27.4万",
-      "commentCount": "1.2万",
-      "increment_d1": "4.06万"
+      "commentCount": "4067",
+      "increment_d1": "2756"
     },
     {
       "rank": 1009,
@@ -202,10 +202,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-09",
-      "viewCount": "3388万",
+      "viewCount": "3390万",
       "likeCount": "89.5万",
       "commentCount": "3万",
-      "increment_d1": "2.08万"
+      "increment_d1": "2.03万"
     },
     {
       "rank": 1010,
@@ -225,10 +225,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-16",
-      "viewCount": "3387万",
-      "likeCount": "25.1万",
+      "viewCount": "3389万",
+      "likeCount": "25.2万",
       "commentCount": "1万",
-      "increment_d1": "2.16万"
+      "increment_d1": "1.99万"
     },
     {
       "rank": 1011,
@@ -248,10 +248,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-07-02",
-      "viewCount": "3386万",
+      "viewCount": "3387万",
       "likeCount": "19.1万",
-      "commentCount": "3267",
-      "increment_d1": "8480"
+      "commentCount": "3268",
+      "increment_d1": "8378"
     },
     {
       "rank": 1012,
@@ -274,7 +274,7 @@
       "viewCount": "3385万",
       "likeCount": "-",
       "commentCount": "1.8万",
-      "increment_d1": "3035"
+      "increment_d1": "3449"
     },
     {
       "rank": 1013,
@@ -294,10 +294,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-05",
-      "viewCount": "3384万",
+      "viewCount": "3385万",
       "likeCount": "12万",
-      "commentCount": "4356",
-      "increment_d1": "6760"
+      "commentCount": "4357",
+      "increment_d1": "6428"
     },
     {
       "rank": 1014,
@@ -317,10 +317,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-28",
-      "viewCount": "3382万",
+      "viewCount": "3383万",
       "likeCount": "35.1万",
       "commentCount": "8049",
-      "increment_d1": "9850"
+      "increment_d1": "9472"
     },
     {
       "rank": 1015,
@@ -340,10 +340,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-20",
-      "viewCount": "3380万",
+      "viewCount": "3382万",
       "likeCount": "29万",
-      "commentCount": "3753",
-      "increment_d1": "1.67万"
+      "commentCount": "3754",
+      "increment_d1": "1.53万"
     },
     {
       "rank": 1016,
@@ -363,13 +363,59 @@
         "target": "_blank"
       },
       "publishedAt": "2014-08-01",
-      "viewCount": "3379万",
+      "viewCount": "3381万",
       "likeCount": "7.4万",
-      "commentCount": "4707",
-      "increment_d1": "1.01万"
+      "commentCount": "4711",
+      "increment_d1": "1.24万"
     },
     {
       "rank": 1017,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/0lASG1aB5lE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=0lASG1aB5lE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Saucy Dog「あぁ、もう。」Music Video",
+        "url": "https://www.youtube.com/watch?v=0lASG1aB5lE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Saucy Dog",
+        "url": "https://www.youtube.com/channel/UCs8nP5mUR3pwJmgixsul8Hw",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-12-16",
+      "viewCount": "3377万",
+      "likeCount": "22.1万",
+      "commentCount": "4771",
+      "increment_d1": "1.3万"
+    },
+    {
+      "rank": 1018,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/5P9WQMWm6kQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=5P9WQMWm6kQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow Man「君は僕のもの」Music Video YouTube Ver.",
+        "url": "https://www.youtube.com/watch?v=5P9WQMWm6kQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Snow Man",
+        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-06-26",
+      "viewCount": "3376万",
+      "likeCount": "18.3万",
+      "commentCount": "1.8万",
+      "increment_d1": "1.06万"
+    },
+    {
+      "rank": 1019,
       "thumb": {
         "img": "https://i.ytimg.com/vi/aMOa320erOQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=aMOa320erOQ",
@@ -389,53 +435,7 @@
       "viewCount": "3376万",
       "likeCount": "6.6万",
       "commentCount": "1.7万",
-      "increment_d1": "1650"
-    },
-    {
-      "rank": 1018,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/0lASG1aB5lE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=0lASG1aB5lE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Saucy Dog「あぁ、もう。」Music Video",
-        "url": "https://www.youtube.com/watch?v=0lASG1aB5lE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Saucy Dog",
-        "url": "https://www.youtube.com/channel/UCs8nP5mUR3pwJmgixsul8Hw",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-12-16",
-      "viewCount": "3375万",
-      "likeCount": "22.1万",
-      "commentCount": "4774",
-      "increment_d1": "1.25万"
-    },
-    {
-      "rank": 1019,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/5P9WQMWm6kQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=5P9WQMWm6kQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow Man「君は僕のもの」Music Video YouTube Ver.",
-        "url": "https://www.youtube.com/watch?v=5P9WQMWm6kQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Snow Man",
-        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-06-26",
-      "viewCount": "3375万",
-      "likeCount": "18.3万",
-      "commentCount": "1.8万",
-      "increment_d1": "1.05万"
+      "increment_d1": "1037"
     },
     {
       "rank": 1020,
@@ -458,7 +458,7 @@
       "viewCount": "3375万",
       "likeCount": "17.5万",
       "commentCount": "4万",
-      "increment_d1": "3866"
+      "increment_d1": "3846"
     },
     {
       "rank": 1021,
@@ -481,7 +481,7 @@
       "viewCount": "3373万",
       "likeCount": "22.4万",
       "commentCount": "1030",
-      "increment_d1": "5418"
+      "increment_d1": "4558"
     },
     {
       "rank": 1022,
@@ -503,8 +503,8 @@
       "publishedAt": "2018-10-01",
       "viewCount": "3371万",
       "likeCount": "26.7万",
-      "commentCount": "9504",
-      "increment_d1": "4078"
+      "commentCount": "9502",
+      "increment_d1": "4107"
     },
     {
       "rank": 1023,
@@ -526,11 +526,34 @@
       "publishedAt": "2015-04-14",
       "viewCount": "3370万",
       "likeCount": "13.7万",
-      "commentCount": "5160",
-      "increment_d1": "4363"
+      "commentCount": "5161",
+      "increment_d1": "4304"
     },
     {
       "rank": 1024,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/9G82-cb5zUk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=9G82-cb5zUk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "斉藤和義 – 歌うたいのバラッド（2008 Ver.）[Music Video]",
+        "url": "https://www.youtube.com/watch?v=9G82-cb5zUk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "斉藤和義",
+        "url": "https://www.youtube.com/channel/UCw61Gu5Wa_r16dscWoAzUhA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-05-14",
+      "viewCount": "3366万",
+      "likeCount": "12.8万",
+      "commentCount": "3479",
+      "increment_d1": "1.72万"
+    },
+    {
+      "rank": 1025,
       "thumb": {
         "img": "https://i.ytimg.com/vi/IrrF_bUE8yc/default.jpg",
         "url": "https://www.youtube.com/watch?v=IrrF_bUE8yc",
@@ -550,30 +573,7 @@
       "viewCount": "3365万",
       "likeCount": "35.8万",
       "commentCount": "6552",
-      "increment_d1": "2711"
-    },
-    {
-      "rank": 1025,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/9G82-cb5zUk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=9G82-cb5zUk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "斉藤和義 – 歌うたいのバラッド（2008 Ver.）[Music Video]",
-        "url": "https://www.youtube.com/watch?v=9G82-cb5zUk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "斉藤和義",
-        "url": "https://www.youtube.com/channel/UCw61Gu5Wa_r16dscWoAzUhA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-05-14",
-      "viewCount": "3364万",
-      "likeCount": "12.8万",
-      "commentCount": "3474",
-      "increment_d1": "1.56万"
+      "increment_d1": "2347"
     },
     {
       "rank": 1026,
@@ -593,10 +593,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-14",
-      "viewCount": "3363万",
+      "viewCount": "3365万",
       "likeCount": "9.9万",
       "commentCount": "1840",
-      "increment_d1": "1.64万"
+      "increment_d1": "1.82万"
     },
     {
       "rank": 1027,
@@ -616,10 +616,10 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-02",
-      "viewCount": "3357万",
+      "viewCount": "3358万",
       "likeCount": "-",
-      "commentCount": "536",
-      "increment_d1": "1.13万"
+      "commentCount": "535",
+      "increment_d1": "1.08万"
     },
     {
       "rank": 1028,
@@ -642,7 +642,7 @@
       "viewCount": "3355万",
       "likeCount": "24万",
       "commentCount": "6823",
-      "increment_d1": "4045"
+      "increment_d1": "3880"
     },
     {
       "rank": 1029,
@@ -662,10 +662,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-16",
-      "viewCount": "3351万",
+      "viewCount": "3353万",
       "likeCount": "-",
-      "commentCount": "9783",
-      "increment_d1": "1.73万"
+      "commentCount": "9784",
+      "increment_d1": "1.93万"
     },
     {
       "rank": 1030,
@@ -687,8 +687,8 @@
       "publishedAt": "2018-11-01",
       "viewCount": "3351万",
       "likeCount": "19.2万",
-      "commentCount": "3133",
-      "increment_d1": "8685"
+      "commentCount": "3131",
+      "increment_d1": "9258"
     },
     {
       "rank": 1031,
@@ -711,7 +711,7 @@
       "viewCount": "3349万",
       "likeCount": "28.3万",
       "commentCount": "1.2万",
-      "increment_d1": "4454"
+      "increment_d1": "4718"
     },
     {
       "rank": 1032,
@@ -731,36 +731,13 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-08",
-      "viewCount": "3346万",
+      "viewCount": "3347万",
       "likeCount": "25.2万",
-      "commentCount": "5222",
-      "increment_d1": "6880"
+      "commentCount": "5223",
+      "increment_d1": "6956"
     },
     {
       "rank": 1033,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/cr8magEp0Ho/default.jpg",
-        "url": "https://www.youtube.com/watch?v=cr8magEp0Ho",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ASIAN KUNG-FU GENERATION 『リライト』（M-1グランプリ2024 プロモーションビデオ テーマソング）",
-        "url": "https://www.youtube.com/watch?v=cr8magEp0Ho",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ASIAN KUNG-FU GENERATION Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UC3J-txytRWiRtNXrLS95eEw",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-01-18",
-      "viewCount": "3344万",
-      "likeCount": "12.7万",
-      "commentCount": "4394",
-      "increment_d1": "6224"
-    },
-    {
-      "rank": 1034,
       "thumb": {
         "img": "https://i.ytimg.com/vi/A_5wTaQKK6c/default.jpg",
         "url": "https://www.youtube.com/watch?v=A_5wTaQKK6c",
@@ -777,13 +754,59 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-17",
-      "viewCount": "3344万",
-      "likeCount": "21.1万",
+      "viewCount": "3346万",
+      "likeCount": "21.2万",
       "commentCount": "3817",
-      "increment_d1": "1.98万"
+      "increment_d1": "2.21万"
+    },
+    {
+      "rank": 1034,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/cr8magEp0Ho/default.jpg",
+        "url": "https://www.youtube.com/watch?v=cr8magEp0Ho",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ASIAN KUNG-FU GENERATION 『リライト』（M-1グランプリ2024 プロモーションビデオ テーマソング）",
+        "url": "https://www.youtube.com/watch?v=cr8magEp0Ho",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ASIAN KUNG-FU GENERATION Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UC3J-txytRWiRtNXrLS95eEw",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-01-18",
+      "viewCount": "3345万",
+      "likeCount": "12.7万",
+      "commentCount": "4396",
+      "increment_d1": "6262"
     },
     {
       "rank": 1035,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/W_fHWaoQwkw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=W_fHWaoQwkw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Ado】クラクラ",
+        "url": "https://www.youtube.com/watch?v=W_fHWaoQwkw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ado",
+        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-10-07",
+      "viewCount": "3342万",
+      "likeCount": "33.5万",
+      "commentCount": "5001",
+      "increment_d1": "1.73万"
+    },
+    {
+      "rank": 1036,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vn7vfza-6fQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=vn7vfza-6fQ",
@@ -803,30 +826,7 @@
       "viewCount": "3341万",
       "likeCount": "31万",
       "commentCount": "1万",
-      "increment_d1": "3438"
-    },
-    {
-      "rank": 1036,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/W_fHWaoQwkw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=W_fHWaoQwkw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Ado】クラクラ",
-        "url": "https://www.youtube.com/watch?v=W_fHWaoQwkw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ado",
-        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-10-07",
-      "viewCount": "3340万",
-      "likeCount": "33.5万",
-      "commentCount": "5001",
-      "increment_d1": "1.88万"
+      "increment_d1": "3456"
     },
     {
       "rank": 1037,
@@ -849,7 +849,7 @@
       "viewCount": "3339万",
       "likeCount": "30.3万",
       "commentCount": "1.7万",
-      "increment_d1": "3701"
+      "increment_d1": "3768"
     },
     {
       "rank": 1038,
@@ -872,7 +872,7 @@
       "viewCount": "3338万",
       "likeCount": "10.4万",
       "commentCount": "5102",
-      "increment_d1": "1144"
+      "increment_d1": "2039"
     },
     {
       "rank": 1039,
@@ -895,7 +895,7 @@
       "viewCount": "3334万",
       "likeCount": "76.3万",
       "commentCount": "8969",
-      "increment_d1": "3954"
+      "increment_d1": "3980"
     },
     {
       "rank": 1040,
@@ -915,10 +915,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-05-28",
-      "viewCount": "3330万",
+      "viewCount": "3331万",
       "likeCount": "-",
       "commentCount": "1.1万",
-      "increment_d1": "5372"
+      "increment_d1": "6531"
     },
     {
       "rank": 1041,
@@ -938,10 +938,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-21",
-      "viewCount": "3325万",
+      "viewCount": "3326万",
       "likeCount": "21.5万",
       "commentCount": "3932",
-      "increment_d1": "7939"
+      "increment_d1": "8414"
     },
     {
       "rank": 1042,
@@ -964,7 +964,7 @@
       "viewCount": "3324万",
       "likeCount": "27.1万",
       "commentCount": "4万",
-      "increment_d1": "3751"
+      "increment_d1": "3967"
     },
     {
       "rank": 1043,
@@ -984,10 +984,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-19",
-      "viewCount": "3320万",
+      "viewCount": "3321万",
       "likeCount": "25.4万",
       "commentCount": "7029",
-      "increment_d1": "1.23万"
+      "increment_d1": "1.27万"
     },
     {
       "rank": 1044,
@@ -1007,10 +1007,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-28",
-      "viewCount": "3318万",
+      "viewCount": "3319万",
       "likeCount": "-",
-      "commentCount": "7742",
-      "increment_d1": "9742"
+      "commentCount": "7743",
+      "increment_d1": "9505"
     },
     {
       "rank": 1045,
@@ -1033,7 +1033,7 @@
       "viewCount": "3317万",
       "likeCount": "31.4万",
       "commentCount": "1.6万",
-      "increment_d1": "3936"
+      "increment_d1": "3945"
     },
     {
       "rank": 1046,
@@ -1053,10 +1053,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-13",
-      "viewCount": "3315万",
+      "viewCount": "3316万",
       "likeCount": "-",
       "commentCount": "1.1万",
-      "increment_d1": "9084"
+      "increment_d1": "8453"
     },
     {
       "rank": 1047,
@@ -1079,7 +1079,7 @@
       "viewCount": "3315万",
       "likeCount": "-",
       "commentCount": "2.4万",
-      "increment_d1": "4029"
+      "increment_d1": "4219"
     },
     {
       "rank": 1048,
@@ -1099,10 +1099,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-10-13",
-      "viewCount": "3314万",
+      "viewCount": "3315万",
       "likeCount": "20.8万",
       "commentCount": "5741",
-      "increment_d1": "1613"
+      "increment_d1": "1580"
     },
     {
       "rank": 1049,
@@ -1125,7 +1125,7 @@
       "viewCount": "3312万",
       "likeCount": "7.7万",
       "commentCount": "3804",
-      "increment_d1": "1077"
+      "increment_d1": "970"
     },
     {
       "rank": 1050,
@@ -1145,10 +1145,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-16",
-      "viewCount": "3311万",
+      "viewCount": "3312万",
       "likeCount": "-",
       "commentCount": "8945",
-      "increment_d1": "7876"
+      "increment_d1": "7459"
     }
   ]
 }

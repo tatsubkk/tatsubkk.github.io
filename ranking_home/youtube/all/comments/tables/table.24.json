@@ -1,29 +1,7 @@
 {
   "rows": [
     {
-      "rank": 1151,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/H51Xj5aEgkA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=H51Xj5aEgkA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "世界の終わり／幻の命",
-        "url": "https://www.youtube.com/watch?v=H51Xj5aEgkA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "LastrumMusic",
-        "url": "https://www.youtube.com/channel/UCpjk4srT6-kS3xHysmQGZWQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-03-23",
-      "viewCount": "2859万",
-      "likeCount": "9.8万",
-      "commentCount": "8433"
-    },
-    {
-      "rank": 1152,
+      "rank": 1150,
       "thumb": {
         "img": "https://i.ytimg.com/vi/VEe_yIbW64w/default.jpg",
         "url": "https://www.youtube.com/watch?v=VEe_yIbW64w",
@@ -40,9 +18,31 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-15",
-      "viewCount": "1億5470万",
+      "viewCount": "1億5473万",
       "likeCount": "225万",
-      "commentCount": "8431"
+      "commentCount": "8435"
+    },
+    {
+      "rank": 1152,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/H51Xj5aEgkA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=H51Xj5aEgkA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "世界の終わり／幻の命",
+        "url": "https://www.youtube.com/watch?v=H51Xj5aEgkA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "LastrumMusic",
+        "url": "https://www.youtube.com/channel/UCpjk4srT6-kS3xHysmQGZWQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-03-23",
+      "viewCount": "2860万",
+      "likeCount": "9.8万",
+      "commentCount": "8434"
     },
     {
       "rank": 1153,
@@ -62,31 +62,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-24",
-      "viewCount": "2731万",
+      "viewCount": "2733万",
       "likeCount": "29.8万",
-      "commentCount": "8425"
-    },
-    {
-      "rank": 1154,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/3yoJY0IqiV0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=3yoJY0IqiV0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "岡崎体育 『感情のピクセル』Music Video",
-        "url": "https://www.youtube.com/watch?v=3yoJY0IqiV0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-05-11",
-      "viewCount": "1847万",
-      "likeCount": "15.2万",
-      "commentCount": "8421"
+      "commentCount": "8424"
     },
     {
       "rank": 1154,
@@ -106,8 +84,30 @@
         "target": "_blank"
       },
       "publishedAt": "2012-03-15",
-      "viewCount": "6274万",
-      "likeCount": "27.8万",
+      "viewCount": "6275万",
+      "likeCount": "27.9万",
+      "commentCount": "8423"
+    },
+    {
+      "rank": 1155,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/3yoJY0IqiV0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=3yoJY0IqiV0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "岡崎体育 『感情のピクセル』Music Video",
+        "url": "https://www.youtube.com/watch?v=3yoJY0IqiV0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-05-11",
+      "viewCount": "1848万",
+      "likeCount": "15.2万",
       "commentCount": "8421"
     },
     {
@@ -150,7 +150,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-07",
-      "viewCount": "4047万",
+      "viewCount": "4048万",
       "likeCount": "33.1万",
       "commentCount": "8409"
     },
@@ -196,7 +196,7 @@
       "publishedAt": "2011-04-19",
       "viewCount": "2379万",
       "likeCount": "13.8万",
-      "commentCount": "8371"
+      "commentCount": "8373"
     },
     {
       "rank": 1160,
@@ -260,7 +260,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-06",
-      "viewCount": "2087万",
+      "viewCount": "2088万",
       "likeCount": "14.5万",
       "commentCount": "8362"
     },
@@ -289,6 +289,28 @@
     {
       "rank": 1164,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/wSTbdqo-j74/default.jpg",
+        "url": "https://www.youtube.com/watch?v=wSTbdqo-j74",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Lyric Video】結束バンド「星座になれたら」／ TVアニメ「ぼっち・ざ・ろっく！」第12話劇中曲",
+        "url": "https://www.youtube.com/watch?v=wSTbdqo-j74",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "アニプレックス チャンネル",
+        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-12-24",
+      "viewCount": "5123万",
+      "likeCount": "33.9万",
+      "commentCount": "8350"
+    },
+    {
+      "rank": 1164,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/kCk8x__pXvE/default.jpg",
         "url": "https://www.youtube.com/watch?v=kCk8x__pXvE",
         "target": "_blank"
@@ -306,29 +328,7 @@
       "publishedAt": "2020-02-28",
       "viewCount": "1587万",
       "likeCount": "30.2万",
-      "commentCount": "8351"
-    },
-    {
-      "rank": 1165,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/wSTbdqo-j74/default.jpg",
-        "url": "https://www.youtube.com/watch?v=wSTbdqo-j74",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Lyric Video】結束バンド「星座になれたら」／ TVアニメ「ぼっち・ざ・ろっく！」第12話劇中曲",
-        "url": "https://www.youtube.com/watch?v=wSTbdqo-j74",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アニプレックス チャンネル",
-        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-12-24",
-      "viewCount": "5120万",
-      "likeCount": "33.9万",
-      "commentCount": "8346"
+      "commentCount": "8350"
     },
     {
       "rank": 1166,
@@ -348,7 +348,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-02-16",
-      "viewCount": "4143万",
+      "viewCount": "4144万",
       "likeCount": "45.8万",
       "commentCount": "8337"
     },
@@ -372,7 +372,7 @@
       "publishedAt": "2020-05-11",
       "viewCount": "1204万",
       "likeCount": "9.2万",
-      "commentCount": "8305"
+      "commentCount": "8306"
     },
     {
       "rank": 1168,
@@ -416,7 +416,7 @@
       "publishedAt": "2022-03-04",
       "viewCount": "1422万",
       "likeCount": "-",
-      "commentCount": "8291"
+      "commentCount": "8292"
     },
     {
       "rank": 1170,
@@ -438,7 +438,7 @@
       "publishedAt": "2020-12-01",
       "viewCount": "2376万",
       "likeCount": "33.2万",
-      "commentCount": "8287"
+      "commentCount": "8286"
     },
     {
       "rank": 1170,
@@ -458,34 +458,12 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-12",
-      "viewCount": "1705万",
+      "viewCount": "1706万",
       "likeCount": "26.3万",
-      "commentCount": "8287"
+      "commentCount": "8286"
     },
     {
       "rank": 1172,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/CM4iVSsD524/default.jpg",
-        "url": "https://www.youtube.com/watch?v=CM4iVSsD524",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ONE OK ROCK × Monster Hunter Now - \"Make It Out Alive\" Music Video",
-        "url": "https://www.youtube.com/watch?v=CM4iVSsD524",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ONE OK ROCK",
-        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-08-29",
-      "viewCount": "1940万",
-      "likeCount": "27.2万",
-      "commentCount": "8280"
-    },
-    {
-      "rank": 1173,
       "thumb": {
         "img": "https://i.ytimg.com/vi/p1qM75a9FeE/default.jpg",
         "url": "https://www.youtube.com/watch?v=p1qM75a9FeE",
@@ -504,29 +482,29 @@
       "publishedAt": "2020-08-05",
       "viewCount": "2613万",
       "likeCount": "15.4万",
-      "commentCount": "8279"
+      "commentCount": "8281"
     },
     {
-      "rank": 1174,
+      "rank": 1173,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/lQvyKRBCDi8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=lQvyKRBCDi8",
+        "img": "https://i.ytimg.com/vi/CM4iVSsD524/default.jpg",
+        "url": "https://www.youtube.com/watch?v=CM4iVSsD524",
         "target": "_blank"
       },
       "title": {
-        "text": "JO1｜'Phobia' PERFORMANCE VIDEO",
-        "url": "https://www.youtube.com/watch?v=lQvyKRBCDi8",
+        "text": "ONE OK ROCK × Monster Hunter Now - \"Make It Out Alive\" Music Video",
+        "url": "https://www.youtube.com/watch?v=CM4iVSsD524",
         "target": "_blank"
       },
       "channel": {
-        "text": "JO1",
-        "url": "https://www.youtube.com/channel/UCsmXiDP8S40uBeJYxvyulmA",
+        "text": "ONE OK ROCK",
+        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
         "target": "_blank"
       },
-      "publishedAt": "2022-10-28",
-      "viewCount": "1257万",
-      "likeCount": "5.6万",
-      "commentCount": "8270"
+      "publishedAt": "2023-08-29",
+      "viewCount": "1941万",
+      "likeCount": "27.2万",
+      "commentCount": "8275"
     },
     {
       "rank": 1174,
@@ -546,8 +524,30 @@
         "target": "_blank"
       },
       "publishedAt": "2019-05-28",
-      "viewCount": "4583万",
+      "viewCount": "4585万",
       "likeCount": "38.9万",
+      "commentCount": "8272"
+    },
+    {
+      "rank": 1175,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/lQvyKRBCDi8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=lQvyKRBCDi8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "JO1｜'Phobia' PERFORMANCE VIDEO",
+        "url": "https://www.youtube.com/watch?v=lQvyKRBCDi8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "JO1",
+        "url": "https://www.youtube.com/channel/UCsmXiDP8S40uBeJYxvyulmA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-10-28",
+      "viewCount": "1257万",
+      "likeCount": "5.6万",
       "commentCount": "8270"
     },
     {
@@ -575,28 +575,6 @@
     {
       "rank": 1177,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/vk0iPWFxQ9w/default.jpg",
-        "url": "https://www.youtube.com/watch?v=vk0iPWFxQ9w",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "KANA-BOON 『スターマーカー』Music Video【アニメ『僕のヒーローアカデミア』第4期「文化祭編」OPテーマ】",
-        "url": "https://www.youtube.com/watch?v=vk0iPWFxQ9w",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "KANA-BOON Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCGZcFTKIVXJLt1uo1dHfjAQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-03-02",
-      "viewCount": "2922万",
-      "likeCount": "30.8万",
-      "commentCount": "8261"
-    },
-    {
-      "rank": 1177,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/zK_e8mCa5H0/default.jpg",
         "url": "https://www.youtube.com/watch?v=zK_e8mCa5H0",
         "target": "_blank"
@@ -617,6 +595,28 @@
       "commentCount": "8261"
     },
     {
+      "rank": 1178,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/vk0iPWFxQ9w/default.jpg",
+        "url": "https://www.youtube.com/watch?v=vk0iPWFxQ9w",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "KANA-BOON 『スターマーカー』Music Video【アニメ『僕のヒーローアカデミア』第4期「文化祭編」OPテーマ】",
+        "url": "https://www.youtube.com/watch?v=vk0iPWFxQ9w",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "KANA-BOON Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCGZcFTKIVXJLt1uo1dHfjAQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-03-02",
+      "viewCount": "2922万",
+      "likeCount": "30.8万",
+      "commentCount": "8260"
+    },
+    {
       "rank": 1179,
       "thumb": {
         "img": "https://i.ytimg.com/vi/M80XXxMKFWw/default.jpg",
@@ -634,9 +634,9 @@
         "target": "_blank"
       },
       "publishedAt": "2008-06-06",
-      "viewCount": "5998万",
+      "viewCount": "5999万",
       "likeCount": "19.5万",
-      "commentCount": "8242"
+      "commentCount": "8244"
     },
     {
       "rank": 1180,
@@ -656,9 +656,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-03-26",
-      "viewCount": "3262万",
+      "viewCount": "3263万",
       "likeCount": "20.1万",
-      "commentCount": "8240"
+      "commentCount": "8241"
     },
     {
       "rank": 1180,
@@ -680,7 +680,29 @@
       "publishedAt": "2016-09-30",
       "viewCount": "3179万",
       "likeCount": "15.5万",
-      "commentCount": "8240"
+      "commentCount": "8241"
+    },
+    {
+      "rank": 1182,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/khplMpm4ctc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=khplMpm4ctc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【LIVE映像】unravel  日本武道館 2023.8.30【Ado】",
+        "url": "https://www.youtube.com/watch?v=khplMpm4ctc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ado",
+        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-11-21",
+      "viewCount": "1787万",
+      "likeCount": "35万",
+      "commentCount": "8232"
     },
     {
       "rank": 1182,
@@ -700,12 +722,12 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-18",
-      "viewCount": "2675万",
+      "viewCount": "2676万",
       "likeCount": "17.4万",
-      "commentCount": "8234"
+      "commentCount": "8232"
     },
     {
-      "rank": 1183,
+      "rank": 1184,
       "thumb": {
         "img": "https://i.ytimg.com/vi/1Xc9VpB4jaE/default.jpg",
         "url": "https://www.youtube.com/watch?v=1Xc9VpB4jaE",
@@ -727,7 +749,7 @@
       "commentCount": "8228"
     },
     {
-      "rank": 1184,
+      "rank": 1185,
       "thumb": {
         "img": "https://i.ytimg.com/vi/C-xF2MAFw5s/default.jpg",
         "url": "https://www.youtube.com/watch?v=C-xF2MAFw5s",
@@ -746,29 +768,7 @@
       "publishedAt": "2012-04-09",
       "viewCount": "5909万",
       "likeCount": "27.1万",
-      "commentCount": "8226"
-    },
-    {
-      "rank": 1185,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/khplMpm4ctc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=khplMpm4ctc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【LIVE映像】unravel  日本武道館 2023.8.30【Ado】",
-        "url": "https://www.youtube.com/watch?v=khplMpm4ctc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ado",
-        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-11-21",
-      "viewCount": "1785万",
-      "likeCount": "35万",
-      "commentCount": "8224"
+      "commentCount": "8227"
     },
     {
       "rank": 1186,
@@ -790,32 +790,10 @@
       "publishedAt": "2015-06-30",
       "viewCount": "2388万",
       "likeCount": "35.8万",
-      "commentCount": "8221"
+      "commentCount": "8222"
     },
     {
       "rank": 1187,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/uwS__WiOYTI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=uwS__WiOYTI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Cody・Lee(李) - 我愛你(MusicVideo)",
-        "url": "https://www.youtube.com/watch?v=uwS__WiOYTI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Cody・Lee(李) official",
-        "url": "https://www.youtube.com/channel/UCRwlGbdH79F2LgnhbDyN5gg",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-11-12",
-      "viewCount": "1296万",
-      "likeCount": "53.2万",
-      "commentCount": "8218"
-    },
-    {
-      "rank": 1188,
       "thumb": {
         "img": "https://i.ytimg.com/vi/MYo5alIaUOk/default.jpg",
         "url": "https://www.youtube.com/watch?v=MYo5alIaUOk",
@@ -832,9 +810,31 @@
         "target": "_blank"
       },
       "publishedAt": "2009-11-13",
-      "viewCount": "9511万",
+      "viewCount": "9513万",
       "likeCount": "25.9万",
-      "commentCount": "8215"
+      "commentCount": "8219"
+    },
+    {
+      "rank": 1188,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/uwS__WiOYTI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=uwS__WiOYTI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Cody・Lee(李) - 我愛你(MusicVideo)",
+        "url": "https://www.youtube.com/watch?v=uwS__WiOYTI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Cody・Lee(李) official",
+        "url": "https://www.youtube.com/channel/UCRwlGbdH79F2LgnhbDyN5gg",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-11-12",
+      "viewCount": "1297万",
+      "likeCount": "53.2万",
+      "commentCount": "8218"
     },
     {
       "rank": 1189,
@@ -854,9 +854,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-11-15",
-      "viewCount": "4170万",
+      "viewCount": "4171万",
       "likeCount": "24.7万",
-      "commentCount": "8211"
+      "commentCount": "8214"
     },
     {
       "rank": 1190,
@@ -898,7 +898,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-12-27",
-      "viewCount": "3514万",
+      "viewCount": "3515万",
       "likeCount": "15.5万",
       "commentCount": "8198"
     },
@@ -920,9 +920,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-06",
-      "viewCount": "2665万",
+      "viewCount": "2666万",
       "likeCount": "12.5万",
-      "commentCount": "8189"
+      "commentCount": "8188"
     },
     {
       "rank": 1193,
@@ -944,7 +944,7 @@
       "publishedAt": "2021-08-11",
       "viewCount": "2141万",
       "likeCount": "-",
-      "commentCount": "8181"
+      "commentCount": "8182"
     },
     {
       "rank": 1194,
@@ -964,9 +964,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-10-15",
-      "viewCount": "3187万",
+      "viewCount": "3188万",
       "likeCount": "14.9万",
-      "commentCount": "8179"
+      "commentCount": "8180"
     },
     {
       "rank": 1195,
@@ -986,9 +986,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-10",
-      "viewCount": "3244万",
+      "viewCount": "3245万",
       "likeCount": "38.7万",
-      "commentCount": "8175"
+      "commentCount": "8176"
     },
     {
       "rank": 1196,
@@ -1008,9 +1008,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-09-11",
-      "viewCount": "7052万",
+      "viewCount": "7053万",
       "likeCount": "19.9万",
-      "commentCount": "8161"
+      "commentCount": "8160"
     },
     {
       "rank": 1197,
@@ -1030,9 +1030,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-24",
-      "viewCount": "3405万",
+      "viewCount": "3406万",
       "likeCount": "13.3万",
-      "commentCount": "8148"
+      "commentCount": "8149"
     },
     {
       "rank": 1198,
@@ -1054,7 +1054,7 @@
       "publishedAt": "2017-04-07",
       "viewCount": "3423万",
       "likeCount": "16.3万",
-      "commentCount": "8143"
+      "commentCount": "8144"
     },
     {
       "rank": 1199,
@@ -1074,7 +1074,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-05-24",
-      "viewCount": "1981万",
+      "viewCount": "1982万",
       "likeCount": "-",
       "commentCount": "8125"
     },

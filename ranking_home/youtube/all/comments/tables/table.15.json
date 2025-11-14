@@ -3,6 +3,28 @@
     {
       "rank": 701,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/b13Nh9aCFYE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=b13Nh9aCFYE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[Dance Practice] Snow Man「Black Gold」(YouTube Ver.)",
+        "url": "https://www.youtube.com/watch?v=b13Nh9aCFYE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Snow Man",
+        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-12-09",
+      "viewCount": "1215万",
+      "likeCount": "-",
+      "commentCount": "1.43万"
+    },
+    {
+      "rank": 702,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/XCyKJD6uQyg/default.jpg",
         "url": "https://www.youtube.com/watch?v=XCyKJD6uQyg",
         "target": "_blank"
@@ -18,30 +40,8 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-04",
-      "viewCount": "5238万",
-      "likeCount": "72.6万",
-      "commentCount": "1.43万"
-    },
-    {
-      "rank": 702,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/-zsYJTSw_V0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=-zsYJTSw_V0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE「breakfast」Official Music Video",
-        "url": "https://www.youtube.com/watch?v=-zsYJTSw_V0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-06-04",
-      "viewCount": "3177万",
-      "likeCount": "25万",
+      "viewCount": "5240万",
+      "likeCount": "72.7万",
       "commentCount": "1.43万"
     },
     {
@@ -62,7 +62,7 @@
         "target": "_blank"
       },
       "publishedAt": "2008-12-26",
-      "viewCount": "4160万",
+      "viewCount": "4162万",
       "likeCount": "29.1万",
       "commentCount": "1.43万"
     },
@@ -128,7 +128,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-05-20",
-      "viewCount": "8085万",
+      "viewCount": "8086万",
       "likeCount": "69.7万",
       "commentCount": "1.42万"
     },
@@ -194,7 +194,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-06",
-      "viewCount": "1億2089万",
+      "viewCount": "1億2092万",
       "likeCount": "91.2万",
       "commentCount": "1.41万"
     },
@@ -238,7 +238,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-11-08",
-      "viewCount": "3453万",
+      "viewCount": "3454万",
       "likeCount": "46万",
       "commentCount": "1.41万"
     },
@@ -282,34 +282,12 @@
         "target": "_blank"
       },
       "publishedAt": "2012-02-19",
-      "viewCount": "7796万",
+      "viewCount": "7797万",
       "likeCount": "35.7万",
       "commentCount": "1.4万"
     },
     {
       "rank": 714,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ocqCmfw145A/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ocqCmfw145A",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BTS (防弾少年団) 'BOY IN LUV -Japanese Ver.-' Official MV",
-        "url": "https://www.youtube.com/watch?v=ocqCmfw145A",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BTS JAPAN OFFICIAL",
-        "url": "https://www.youtube.com/channel/UCiPNSjTu0sFVUUFfhPCdEsA",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-07-04",
-      "viewCount": "2792万",
-      "likeCount": "-",
-      "commentCount": "1.4万"
-    },
-    {
-      "rank": 715,
       "thumb": {
         "img": "https://i.ytimg.com/vi/G8oY6pC0kgA/default.jpg",
         "url": "https://www.youtube.com/watch?v=G8oY6pC0kgA",
@@ -331,6 +309,28 @@
       "commentCount": "1.4万"
     },
     {
+      "rank": 715,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ocqCmfw145A/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ocqCmfw145A",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BTS (防弾少年団) 'BOY IN LUV -Japanese Ver.-' Official MV",
+        "url": "https://www.youtube.com/watch?v=ocqCmfw145A",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BTS JAPAN OFFICIAL",
+        "url": "https://www.youtube.com/channel/UCiPNSjTu0sFVUUFfhPCdEsA",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-07-04",
+      "viewCount": "2792万",
+      "likeCount": "-",
+      "commentCount": "1.4万"
+    },
+    {
       "rank": 716,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qnX2CdOBcDI/default.jpg",
@@ -348,7 +348,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-10-28",
-      "viewCount": "6701万",
+      "viewCount": "6702万",
       "likeCount": "43.3万",
       "commentCount": "1.4万"
     },
@@ -392,7 +392,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-21",
-      "viewCount": "1億966万",
+      "viewCount": "1億967万",
       "likeCount": "28.9万",
       "commentCount": "1.39万"
     },
@@ -414,30 +414,8 @@
         "target": "_blank"
       },
       "publishedAt": "2016-07-08",
-      "viewCount": "4281万",
+      "viewCount": "4282万",
       "likeCount": "13.5万",
-      "commentCount": "1.39万"
-    },
-    {
-      "rank": 720,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ZNFKZI7L9xE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ZNFKZI7L9xE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "YOASOBI「三原色」ahamo Special Movie",
-        "url": "https://www.youtube.com/watch?v=ZNFKZI7L9xE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ayase / YOASOBI",
-        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-03-30",
-      "viewCount": "2284万",
-      "likeCount": "33.8万",
       "commentCount": "1.39万"
     },
     {
@@ -458,8 +436,30 @@
         "target": "_blank"
       },
       "publishedAt": "2015-07-31",
-      "viewCount": "7670万",
+      "viewCount": "7671万",
       "likeCount": "41.5万",
+      "commentCount": "1.39万"
+    },
+    {
+      "rank": 721,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ZNFKZI7L9xE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ZNFKZI7L9xE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "YOASOBI「三原色」ahamo Special Movie",
+        "url": "https://www.youtube.com/watch?v=ZNFKZI7L9xE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ayase / YOASOBI",
+        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-03-30",
+      "viewCount": "2284万",
+      "likeCount": "33.8万",
       "commentCount": "1.39万"
     },
     {
@@ -524,7 +524,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-24",
-      "viewCount": "7663万",
+      "viewCount": "7665万",
       "likeCount": "51.8万",
       "commentCount": "1.38万"
     },
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-07-19",
-      "viewCount": "6887万",
+      "viewCount": "6889万",
       "likeCount": "69.7万",
       "commentCount": "1.38万"
     },
@@ -568,34 +568,12 @@
         "target": "_blank"
       },
       "publishedAt": "2018-06-12",
-      "viewCount": "7920万",
+      "viewCount": "7921万",
       "likeCount": "66.1万",
       "commentCount": "1.38万"
     },
     {
       "rank": 727,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/t5IR4wHShXQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=t5IR4wHShXQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SixTONES – フィギュア [PLAYLIST - SixTONES YouTube Limited Performance - Day.2]",
-        "url": "https://www.youtube.com/watch?v=t5IR4wHShXQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SixTONES",
-        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-08-11",
-      "viewCount": "2696万",
-      "likeCount": "-",
-      "commentCount": "1.38万"
-    },
-    {
-      "rank": 728,
       "thumb": {
         "img": "https://i.ytimg.com/vi/oZpYEEcvu5I/default.jpg",
         "url": "https://www.youtube.com/watch?v=oZpYEEcvu5I",
@@ -612,8 +590,30 @@
         "target": "_blank"
       },
       "publishedAt": "2023-12-24",
-      "viewCount": "1億4492万",
+      "viewCount": "1億4507万",
       "likeCount": "76.4万",
+      "commentCount": "1.38万"
+    },
+    {
+      "rank": 728,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/t5IR4wHShXQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=t5IR4wHShXQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SixTONES – フィギュア [PLAYLIST - SixTONES YouTube Limited Performance - Day.2]",
+        "url": "https://www.youtube.com/watch?v=t5IR4wHShXQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SixTONES",
+        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-08-11",
+      "viewCount": "2697万",
+      "likeCount": "-",
       "commentCount": "1.38万"
     },
     {
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-01-12",
-      "viewCount": "7101万",
+      "viewCount": "7102万",
       "likeCount": "33.1万",
       "commentCount": "1.38万"
     },
@@ -678,7 +678,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-07",
-      "viewCount": "4932万",
+      "viewCount": "4933万",
       "likeCount": "56.8万",
       "commentCount": "1.38万"
     },
@@ -700,7 +700,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-18",
-      "viewCount": "8929万",
+      "viewCount": "8931万",
       "likeCount": "63.5万",
       "commentCount": "1.37万"
     },
@@ -766,7 +766,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-06-30",
-      "viewCount": "4397万",
+      "viewCount": "4398万",
       "likeCount": "38.1万",
       "commentCount": "1.37万"
     },
@@ -810,8 +810,8 @@
         "target": "_blank"
       },
       "publishedAt": "2015-01-26",
-      "viewCount": "7150万",
-      "likeCount": "43.6万",
+      "viewCount": "7151万",
+      "likeCount": "43.7万",
       "commentCount": "1.37万"
     },
     {
@@ -832,7 +832,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-02",
-      "viewCount": "5514万",
+      "viewCount": "5516万",
       "likeCount": "55.5万",
       "commentCount": "1.37万"
     },
@@ -854,8 +854,8 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-05",
-      "viewCount": "7136万",
-      "likeCount": "67.9万",
+      "viewCount": "7138万",
+      "likeCount": "68万",
       "commentCount": "1.37万"
     },
     {
@@ -1008,34 +1008,12 @@
         "target": "_blank"
       },
       "publishedAt": "2015-08-05",
-      "viewCount": "9352万",
+      "viewCount": "9354万",
       "likeCount": "53.1万",
       "commentCount": "1.35万"
     },
     {
       "rank": 747,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/uyaKoj7wABY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=uyaKoj7wABY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ONE OK ROCK - We are [Official Video from AMBITIONS JAPAN DOME TOUR]",
-        "url": "https://www.youtube.com/watch?v=uyaKoj7wABY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ONE OK ROCK",
-        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-07-30",
-      "viewCount": "5258万",
-      "likeCount": "56万",
-      "commentCount": "1.34万"
-    },
-    {
-      "rank": 748,
       "thumb": {
         "img": "https://i.ytimg.com/vi/17NBPoc78oM/default.jpg",
         "url": "https://www.youtube.com/watch?v=17NBPoc78oM",
@@ -1052,9 +1030,31 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-22",
-      "viewCount": "1902万",
+      "viewCount": "1904万",
       "likeCount": "11.8万",
-      "commentCount": "1.34万"
+      "commentCount": "1.35万"
+    },
+    {
+      "rank": 748,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/uyaKoj7wABY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=uyaKoj7wABY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ONE OK ROCK - We are [Official Video from AMBITIONS JAPAN DOME TOUR]",
+        "url": "https://www.youtube.com/watch?v=uyaKoj7wABY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ONE OK ROCK",
+        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-07-30",
+      "viewCount": "5260万",
+      "likeCount": "56万",
+      "commentCount": "1.35万"
     },
     {
       "rank": 749,
@@ -1074,7 +1074,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-07-28",
-      "viewCount": "8186万",
+      "viewCount": "8188万",
       "likeCount": "-",
       "commentCount": "1.34万"
     },

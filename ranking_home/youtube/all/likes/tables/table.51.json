@@ -84,12 +84,34 @@
         "target": "_blank"
       },
       "publishedAt": "2013-01-25",
-      "viewCount": "1753万",
+      "viewCount": "1754万",
       "likeCount": "5.15万",
       "commentCount": "1435"
     },
     {
       "rank": 2505,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/VmUZooM4ZtE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=VmUZooM4ZtE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "アドベンチャー",
+        "url": "https://www.youtube.com/watch?v=VmUZooM4ZtE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-10-03",
+      "viewCount": "1606万",
+      "likeCount": "5.12万",
+      "commentCount": "178"
+    },
+    {
+      "rank": 2506,
       "thumb": {
         "img": "https://i.ytimg.com/vi/S_jNtbF7dHg/default.jpg",
         "url": "https://www.youtube.com/watch?v=S_jNtbF7dHg",
@@ -108,29 +130,7 @@
       "publishedAt": "2016-09-27",
       "viewCount": "1004万",
       "likeCount": "5.12万",
-      "commentCount": "3587"
-    },
-    {
-      "rank": 2506,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/VmUZooM4ZtE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=VmUZooM4ZtE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "アドベンチャー",
-        "url": "https://www.youtube.com/watch?v=VmUZooM4ZtE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-10-03",
-      "viewCount": "1604万",
-      "likeCount": "5.12万",
-      "commentCount": "178"
+      "commentCount": "3588"
     },
     {
       "rank": 2507,
@@ -238,7 +238,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-19",
-      "viewCount": "1265万",
+      "viewCount": "1266万",
       "likeCount": "5.08万",
       "commentCount": "6012"
     },
@@ -260,7 +260,7 @@
         "target": "_blank"
       },
       "publishedAt": "2025-02-07",
-      "viewCount": "1395万",
+      "viewCount": "1396万",
       "likeCount": "5.08万",
       "commentCount": "1756"
     },
@@ -289,28 +289,6 @@
     {
       "rank": 2514,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/wpDK-gN_85c/default.jpg",
-        "url": "https://www.youtube.com/watch?v=wpDK-gN_85c",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Do As Infinity / 陽のあたる坂道",
-        "url": "https://www.youtube.com/watch?v=wpDK-gN_85c",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2008-12-26",
-      "viewCount": "1982万",
-      "likeCount": "5.05万",
-      "commentCount": "2463"
-    },
-    {
-      "rank": 2515,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/k1S0i8FoV4c/default.jpg",
         "url": "https://www.youtube.com/watch?v=k1S0i8FoV4c",
         "target": "_blank"
@@ -326,9 +304,31 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-10",
-      "viewCount": "1521万",
+      "viewCount": "1522万",
       "likeCount": "5.05万",
-      "commentCount": "2842"
+      "commentCount": "2847"
+    },
+    {
+      "rank": 2514,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/wpDK-gN_85c/default.jpg",
+        "url": "https://www.youtube.com/watch?v=wpDK-gN_85c",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Do As Infinity / 陽のあたる坂道",
+        "url": "https://www.youtube.com/watch?v=wpDK-gN_85c",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2008-12-26",
+      "viewCount": "1983万",
+      "likeCount": "5.05万",
+      "commentCount": "2463"
     },
     {
       "rank": 2516,
@@ -350,7 +350,7 @@
       "publishedAt": "2013-05-20",
       "viewCount": "1186万",
       "likeCount": "5.04万",
-      "commentCount": "1774"
+      "commentCount": "1776"
     },
     {
       "rank": 2517,
@@ -436,9 +436,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-30",
-      "viewCount": "2474万",
+      "viewCount": "2477万",
       "likeCount": "5.01万",
-      "commentCount": "1647"
+      "commentCount": "1646"
     },
     {
       "rank": 2521,
@@ -458,7 +458,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-07-02",
-      "viewCount": "1679万",
+      "viewCount": "1680万",
       "likeCount": "5.01万",
       "commentCount": "2727"
     },
@@ -482,7 +482,7 @@
       "publishedAt": "2014-12-17",
       "viewCount": "1061万",
       "likeCount": "5.01万",
-      "commentCount": "1909"
+      "commentCount": "1910"
     },
     {
       "rank": 2523,
@@ -524,7 +524,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-14",
-      "viewCount": "1607万",
+      "viewCount": "1608万",
       "likeCount": "5万",
       "commentCount": "1209"
     },
@@ -568,9 +568,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-02-04",
-      "viewCount": "1773万",
-      "likeCount": "4.94万",
-      "commentCount": "2807"
+      "viewCount": "1774万",
+      "likeCount": "4.95万",
+      "commentCount": "2809"
     },
     {
       "rank": 2527,
@@ -592,7 +592,7 @@
       "publishedAt": "2014-01-22",
       "viewCount": "1628万",
       "likeCount": "4.94万",
-      "commentCount": "2066"
+      "commentCount": "2067"
     },
     {
       "rank": 2528,
@@ -613,8 +613,8 @@
       },
       "publishedAt": "2019-08-23",
       "viewCount": "1608万",
-      "likeCount": "4.92万",
-      "commentCount": "3604"
+      "likeCount": "4.93万",
+      "commentCount": "3607"
     },
     {
       "rank": 2529,
@@ -724,7 +724,7 @@
       "publishedAt": "2013-04-24",
       "viewCount": "2528万",
       "likeCount": "4.88万",
-      "commentCount": "3464"
+      "commentCount": "3465"
     },
     {
       "rank": 2534,
@@ -810,8 +810,8 @@
         "target": "_blank"
       },
       "publishedAt": "2013-06-20",
-      "viewCount": "1849万",
-      "likeCount": "4.85万",
+      "viewCount": "1850万",
+      "likeCount": "4.86万",
       "commentCount": "2430"
     },
     {
@@ -833,7 +833,7 @@
       },
       "publishedAt": "2020-02-21",
       "viewCount": "1239万",
-      "likeCount": "4.84万",
+      "likeCount": "4.85万",
       "commentCount": "2825"
     },
     {
@@ -854,12 +854,34 @@
         "target": "_blank"
       },
       "publishedAt": "2017-05-09",
-      "viewCount": "2867万",
+      "viewCount": "2868万",
       "likeCount": "4.83万",
       "commentCount": "1699"
     },
     {
       "rank": 2540,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/MTaYGTO_ELs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=MTaYGTO_ELs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "「Dear My Friend 」MUSIC VIDEO / Every Little Thing",
+        "url": "https://www.youtube.com/watch?v=MTaYGTO_ELs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ELTV",
+        "url": "https://www.youtube.com/channel/UCjjqnLtqDDAY02a_dsgdoog",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-12-10",
+      "viewCount": "1922万",
+      "likeCount": "4.83万",
+      "commentCount": "3521"
+    },
+    {
+      "rank": 2541,
       "thumb": {
         "img": "https://i.ytimg.com/vi/TSlpJaWLcC8/default.jpg",
         "url": "https://www.youtube.com/watch?v=TSlpJaWLcC8",
@@ -881,28 +903,6 @@
       "commentCount": "3142"
     },
     {
-      "rank": 2541,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/MTaYGTO_ELs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=MTaYGTO_ELs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "「Dear My Friend 」MUSIC VIDEO / Every Little Thing",
-        "url": "https://www.youtube.com/watch?v=MTaYGTO_ELs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ELTV",
-        "url": "https://www.youtube.com/channel/UCjjqnLtqDDAY02a_dsgdoog",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-12-10",
-      "viewCount": "1921万",
-      "likeCount": "4.83万",
-      "commentCount": "3518"
-    },
-    {
       "rank": 2542,
       "thumb": {
         "img": "https://i.ytimg.com/vi/e7GvXNOxhng/default.jpg",
@@ -922,7 +922,7 @@
       "publishedAt": "2017-01-17",
       "viewCount": "1045万",
       "likeCount": "4.82万",
-      "commentCount": "3617"
+      "commentCount": "3618"
     },
     {
       "rank": 2543,
@@ -1008,9 +1008,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-01-18",
-      "viewCount": "1142万",
+      "viewCount": "1143万",
       "likeCount": "4.79万",
-      "commentCount": "1536"
+      "commentCount": "1538"
     },
     {
       "rank": 2547,
@@ -1098,7 +1098,7 @@
       "publishedAt": "2011-03-19",
       "viewCount": "1937万",
       "likeCount": "4.76万",
-      "commentCount": "3022"
+      "commentCount": "3021"
     }
   ]
 }

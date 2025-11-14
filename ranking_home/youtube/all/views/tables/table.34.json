@@ -18,10 +18,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-09",
-      "viewCount": "2069万",
+      "viewCount": "2070万",
       "likeCount": "21.8万",
-      "commentCount": "2837",
-      "increment_d1": "8876"
+      "commentCount": "2839",
+      "increment_d1": "9181"
     },
     {
       "rank": 1652,
@@ -41,10 +41,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-01-07",
-      "viewCount": "2066万",
+      "viewCount": "2067万",
       "likeCount": "29.6万",
-      "commentCount": "3875",
-      "increment_d1": "4526"
+      "commentCount": "3874",
+      "increment_d1": "4891"
     },
     {
       "rank": 1653,
@@ -67,7 +67,7 @@
       "viewCount": "2065万",
       "likeCount": "15万",
       "commentCount": "2.4万",
-      "increment_d1": "1696"
+      "increment_d1": "1762"
     },
     {
       "rank": 1654,
@@ -90,7 +90,7 @@
       "viewCount": "2064万",
       "likeCount": "19万",
       "commentCount": "4811",
-      "increment_d1": "3978"
+      "increment_d1": "4530"
     },
     {
       "rank": 1655,
@@ -113,7 +113,7 @@
       "viewCount": "2063万",
       "likeCount": "-",
       "commentCount": "1.9万",
-      "increment_d1": "2892"
+      "increment_d1": "2878"
     },
     {
       "rank": 1656,
@@ -133,10 +133,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-09",
-      "viewCount": "2061万",
+      "viewCount": "2063万",
       "likeCount": "7.5万",
       "commentCount": "202",
-      "increment_d1": "1.57万"
+      "increment_d1": "1.78万"
     },
     {
       "rank": 1657,
@@ -159,7 +159,7 @@
       "viewCount": "2059万",
       "likeCount": "3万",
       "commentCount": "3858",
-      "increment_d1": "378"
+      "increment_d1": "357"
     },
     {
       "rank": 1658,
@@ -182,7 +182,7 @@
       "viewCount": "2056万",
       "likeCount": "-",
       "commentCount": "2.5万",
-      "increment_d1": "4499"
+      "increment_d1": "4368"
     },
     {
       "rank": 1659,
@@ -202,10 +202,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-28",
-      "viewCount": "2055万",
+      "viewCount": "2056万",
       "likeCount": "14.9万",
       "commentCount": "2.5万",
-      "increment_d1": "1.04万"
+      "increment_d1": "1.07万"
     },
     {
       "rank": 1660,
@@ -225,10 +225,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-23",
-      "viewCount": "2051万",
+      "viewCount": "2053万",
       "likeCount": "24.2万",
-      "commentCount": "6028",
-      "increment_d1": "1.55万"
+      "commentCount": "6029",
+      "increment_d1": "1.61万"
     },
     {
       "rank": 1661,
@@ -250,34 +250,11 @@
       "publishedAt": "2013-10-03",
       "viewCount": "2051万",
       "likeCount": "5.2万",
-      "commentCount": "2264",
-      "increment_d1": "1446"
+      "commentCount": "2265",
+      "increment_d1": "1359"
     },
     {
       "rank": 1662,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/EZBeo_k1k-A/default.jpg",
-        "url": "https://www.youtube.com/watch?v=EZBeo_k1k-A",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "日向坂46 『こんなに好きになっちゃっていいの？』",
-        "url": "https://www.youtube.com/watch?v=EZBeo_k1k-A",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "日向坂46 OFFICIAL YouTube CHANNEL",
-        "url": "https://www.youtube.com/channel/UCR0V48DJyWbwEAdxLL5FjxA",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-09-04",
-      "viewCount": "2050万",
-      "likeCount": "10.2万",
-      "commentCount": "1.3万",
-      "increment_d1": "1362"
-    },
-    {
-      "rank": 1663,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ekP7VLeXnqY/default.jpg",
         "url": "https://www.youtube.com/watch?v=ekP7VLeXnqY",
@@ -297,7 +274,30 @@
       "viewCount": "2050万",
       "likeCount": "17.1万",
       "commentCount": "6291",
-      "increment_d1": "3066"
+      "increment_d1": "3142"
+    },
+    {
+      "rank": 1663,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/EZBeo_k1k-A/default.jpg",
+        "url": "https://www.youtube.com/watch?v=EZBeo_k1k-A",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "日向坂46 『こんなに好きになっちゃっていいの？』",
+        "url": "https://www.youtube.com/watch?v=EZBeo_k1k-A",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "日向坂46 OFFICIAL YouTube CHANNEL",
+        "url": "https://www.youtube.com/channel/UCR0V48DJyWbwEAdxLL5FjxA",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-09-04",
+      "viewCount": "2050万",
+      "likeCount": "10.2万",
+      "commentCount": "1.3万",
+      "increment_d1": "1357"
     },
     {
       "rank": 1664,
@@ -320,7 +320,7 @@
       "viewCount": "2047万",
       "likeCount": "6.3万",
       "commentCount": "1704",
-      "increment_d1": "434"
+      "increment_d1": "560"
     },
     {
       "rank": 1665,
@@ -340,13 +340,36 @@
         "target": "_blank"
       },
       "publishedAt": "2017-06-01",
-      "viewCount": "2045万",
+      "viewCount": "2046万",
       "likeCount": "6.5万",
       "commentCount": "1467",
-      "increment_d1": "1444"
+      "increment_d1": "1340"
     },
     {
       "rank": 1666,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/H_nCw1WMFs4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=H_nCw1WMFs4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "椎名林檎 - 熱愛発覚中from百鬼夜行",
+        "url": "https://www.youtube.com/watch?v=H_nCw1WMFs4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "椎名林檎",
+        "url": "https://www.youtube.com/channel/UCRQX-dpFt_osBpH71ItuuvA",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-04-28",
+      "viewCount": "2045万",
+      "likeCount": "17.4万",
+      "commentCount": "4112",
+      "increment_d1": "2394"
+    },
+    {
+      "rank": 1667,
       "thumb": {
         "img": "https://i.ytimg.com/vi/tWsPC2-nkAY/default.jpg",
         "url": "https://www.youtube.com/watch?v=tWsPC2-nkAY",
@@ -366,30 +389,7 @@
       "viewCount": "2045万",
       "likeCount": "4.8万",
       "commentCount": "2435",
-      "increment_d1": "758"
-    },
-    {
-      "rank": 1667,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/H_nCw1WMFs4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=H_nCw1WMFs4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "椎名林檎 - 熱愛発覚中from百鬼夜行",
-        "url": "https://www.youtube.com/watch?v=H_nCw1WMFs4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "椎名林檎",
-        "url": "https://www.youtube.com/channel/UCRQX-dpFt_osBpH71ItuuvA",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-04-28",
-      "viewCount": "2044万",
-      "likeCount": "17.4万",
-      "commentCount": "4112",
-      "increment_d1": "2481"
+      "increment_d1": "639"
     },
     {
       "rank": 1668,
@@ -409,13 +409,36 @@
         "target": "_blank"
       },
       "publishedAt": "2012-02-21",
-      "viewCount": "2043万",
+      "viewCount": "2044万",
       "likeCount": "6.4万",
       "commentCount": "1179",
-      "increment_d1": "4726"
+      "increment_d1": "5350"
     },
     {
       "rank": 1669,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/BHfL4ns7-CM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=BHfL4ns7-CM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "あのね。/あれくん &『ユイカ』【MV】",
+        "url": "https://www.youtube.com/watch?v=BHfL4ns7-CM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "あれくん ",
+        "url": "https://www.youtube.com/channel/UCPkhvJShYNk2dJoIcne66BQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-04-29",
+      "viewCount": "2043万",
+      "likeCount": "24.9万",
+      "commentCount": "2982",
+      "increment_d1": "8805"
+    },
+    {
+      "rank": 1670,
       "thumb": {
         "img": "https://i.ytimg.com/vi/hf4kyTBbbH4/default.jpg",
         "url": "https://www.youtube.com/watch?v=hf4kyTBbbH4",
@@ -435,30 +458,7 @@
       "viewCount": "2042万",
       "likeCount": "5.1万",
       "commentCount": "2184",
-      "increment_d1": "195"
-    },
-    {
-      "rank": 1670,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/BHfL4ns7-CM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=BHfL4ns7-CM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "あのね。/あれくん &『ユイカ』【MV】",
-        "url": "https://www.youtube.com/watch?v=BHfL4ns7-CM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "あれくん ",
-        "url": "https://www.youtube.com/channel/UCPkhvJShYNk2dJoIcne66BQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-04-29",
-      "viewCount": "2042万",
-      "likeCount": "24.9万",
-      "commentCount": "2984",
-      "increment_d1": "8638"
+      "increment_d1": "260"
     },
     {
       "rank": 1671,
@@ -481,7 +481,7 @@
       "viewCount": "2041万",
       "likeCount": "4.6万",
       "commentCount": "984",
-      "increment_d1": "92"
+      "increment_d1": "123"
     },
     {
       "rank": 1672,
@@ -503,8 +503,8 @@
       "publishedAt": "2014-11-10",
       "viewCount": "2041万",
       "likeCount": "15.1万",
-      "commentCount": "8075",
-      "increment_d1": "1635"
+      "commentCount": "8076",
+      "increment_d1": "1738"
     },
     {
       "rank": 1673,
@@ -524,10 +524,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-07-07",
-      "viewCount": "2038万",
+      "viewCount": "2039万",
       "likeCount": "10万",
       "commentCount": "6681",
-      "increment_d1": "1444"
+      "increment_d1": "1615"
     },
     {
       "rank": 1674,
@@ -550,7 +550,7 @@
       "viewCount": "2037万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "1976"
+      "increment_d1": "2117"
     },
     {
       "rank": 1675,
@@ -572,8 +572,8 @@
       "publishedAt": "2015-11-30",
       "viewCount": "2037万",
       "likeCount": "6.5万",
-      "commentCount": "3480",
-      "increment_d1": "2414"
+      "commentCount": "3481",
+      "increment_d1": "2503"
     },
     {
       "rank": 1676,
@@ -593,10 +593,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-11-08",
-      "viewCount": "2036万",
-      "likeCount": "19.8万",
+      "viewCount": "2037万",
+      "likeCount": "19.9万",
       "commentCount": "1.3万",
-      "increment_d1": "2320"
+      "increment_d1": "2375"
     },
     {
       "rank": 1677,
@@ -617,9 +617,9 @@
       },
       "publishedAt": "2009-04-22",
       "viewCount": "2034万",
-      "likeCount": "5545",
+      "likeCount": "5546",
       "commentCount": "171",
-      "increment_d1": "100"
+      "increment_d1": "92"
     },
     {
       "rank": 1678,
@@ -639,10 +639,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-27",
-      "viewCount": "2032万",
+      "viewCount": "2033万",
       "likeCount": "15.9万",
       "commentCount": "1721",
-      "increment_d1": "4976"
+      "increment_d1": "4785"
     },
     {
       "rank": 1679,
@@ -665,7 +665,7 @@
       "viewCount": "2031万",
       "likeCount": "16.8万",
       "commentCount": "3043",
-      "increment_d1": "1972"
+      "increment_d1": "1702"
     },
     {
       "rank": 1680,
@@ -685,10 +685,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-02-04",
-      "viewCount": "2030万",
+      "viewCount": "2031万",
       "likeCount": "20.9万",
       "commentCount": "7908",
-      "increment_d1": "2110"
+      "increment_d1": "2092"
     },
     {
       "rank": 1681,
@@ -711,7 +711,7 @@
       "viewCount": "2029万",
       "likeCount": "35.7万",
       "commentCount": "1.3万",
-      "increment_d1": "521"
+      "increment_d1": "520"
     },
     {
       "rank": 1682,
@@ -731,13 +731,36 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-25",
-      "viewCount": "2026万",
+      "viewCount": "2027万",
       "likeCount": "-",
-      "commentCount": "5212",
-      "increment_d1": "9554"
+      "commentCount": "5213",
+      "increment_d1": "1.05万"
     },
     {
       "rank": 1683,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/iAOTwdlEdVg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=iAOTwdlEdVg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "あの夢をなぞって",
+        "url": "https://www.youtube.com/watch?v=iAOTwdlEdVg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-01-17",
+      "viewCount": "2026万",
+      "likeCount": "9.5万",
+      "commentCount": "394",
+      "increment_d1": "1.15万"
+    },
+    {
+      "rank": 1684,
       "thumb": {
         "img": "https://i.ytimg.com/vi/5jsdarfpsLk/default.jpg",
         "url": "https://www.youtube.com/watch?v=5jsdarfpsLk",
@@ -756,11 +779,11 @@
       "publishedAt": "2013-05-27",
       "viewCount": "2025万",
       "likeCount": "6.9万",
-      "commentCount": "1894",
-      "increment_d1": "3834"
+      "commentCount": "1893",
+      "increment_d1": "3798"
     },
     {
-      "rank": 1684,
+      "rank": 1685,
       "thumb": {
         "img": "https://i.ytimg.com/vi/XicdpSmxuT0/default.jpg",
         "url": "https://www.youtube.com/watch?v=XicdpSmxuT0",
@@ -777,33 +800,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-12",
-      "viewCount": "2024万",
+      "viewCount": "2025万",
       "likeCount": "26.3万",
       "commentCount": "8070",
-      "increment_d1": "3398"
-    },
-    {
-      "rank": 1685,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/iAOTwdlEdVg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=iAOTwdlEdVg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "あの夢をなぞって",
-        "url": "https://www.youtube.com/watch?v=iAOTwdlEdVg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-01-17",
-      "viewCount": "2024万",
-      "likeCount": "9.5万",
-      "commentCount": "394",
-      "increment_d1": "1.54万"
+      "increment_d1": "3841"
     },
     {
       "rank": 1686,
@@ -826,7 +826,7 @@
       "viewCount": "2024万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "1257"
+      "increment_d1": "1311"
     },
     {
       "rank": 1687,
@@ -849,7 +849,7 @@
       "viewCount": "2024万",
       "likeCount": "7.3万",
       "commentCount": "2.5万",
-      "increment_d1": "237"
+      "increment_d1": "193"
     },
     {
       "rank": 1688,
@@ -872,10 +872,33 @@
       "viewCount": "2022万",
       "likeCount": "10.1万",
       "commentCount": "1万",
-      "increment_d1": "1319"
+      "increment_d1": "1399"
     },
     {
       "rank": 1689,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/aqoeNOw4_uQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=aqoeNOw4_uQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "indigo la End「名前は片想い」",
+        "url": "https://www.youtube.com/watch?v=aqoeNOw4_uQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "indigo la End Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXKSbzihU5cu0U4qbbjB3GA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-01-27",
+      "viewCount": "2022万",
+      "likeCount": "20万",
+      "commentCount": "2572",
+      "increment_d1": "8580"
+    },
+    {
+      "rank": 1690,
       "thumb": {
         "img": "https://i.ytimg.com/vi/rh517TMtVbo/default.jpg",
         "url": "https://www.youtube.com/watch?v=rh517TMtVbo",
@@ -895,33 +918,33 @@
       "viewCount": "2021万",
       "likeCount": "11.6万",
       "commentCount": "2774",
-      "increment_d1": "1001"
-    },
-    {
-      "rank": 1690,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/aqoeNOw4_uQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=aqoeNOw4_uQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "indigo la End「名前は片想い」",
-        "url": "https://www.youtube.com/watch?v=aqoeNOw4_uQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "indigo la End Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXKSbzihU5cu0U4qbbjB3GA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-01-27",
-      "viewCount": "2021万",
-      "likeCount": "20万",
-      "commentCount": "2572",
-      "increment_d1": "1.04万"
+      "increment_d1": "1102"
     },
     {
       "rank": 1691,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/RhN3PZCgjiY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=RhN3PZCgjiY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Vaundy LIVE \"怪獣の花唄\" | 2023.03.26 Vaundy one man live tour \"replica\" (JAPAN/TOKYO)",
+        "url": "https://www.youtube.com/watch?v=RhN3PZCgjiY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Vaundy",
+        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-05-16",
+      "viewCount": "2021万",
+      "likeCount": "7万",
+      "commentCount": "1076",
+      "increment_d1": "1.63万"
+    },
+    {
+      "rank": 1692,
       "thumb": {
         "img": "https://i.ytimg.com/vi/fMoaAlLlSc8/default.jpg",
         "url": "https://www.youtube.com/watch?v=fMoaAlLlSc8",
@@ -941,30 +964,7 @@
       "viewCount": "2021万",
       "likeCount": "3万",
       "commentCount": "54",
-      "increment_d1": "3646"
-    },
-    {
-      "rank": 1692,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/RhN3PZCgjiY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=RhN3PZCgjiY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Vaundy LIVE \"怪獣の花唄\" | 2023.03.26 Vaundy one man live tour \"replica\" (JAPAN/TOKYO)",
-        "url": "https://www.youtube.com/watch?v=RhN3PZCgjiY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Vaundy",
-        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-05-16",
-      "viewCount": "2020万",
-      "likeCount": "7万",
-      "commentCount": "1074",
-      "increment_d1": "1.49万"
+      "increment_d1": "3357"
     },
     {
       "rank": 1693,
@@ -984,10 +984,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-10",
-      "viewCount": "2016万",
+      "viewCount": "2017万",
       "likeCount": "8.3万",
-      "commentCount": "3381",
-      "increment_d1": "1.73万"
+      "commentCount": "3380",
+      "increment_d1": "1.4万"
     },
     {
       "rank": 1694,
@@ -1007,10 +1007,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-06-26",
-      "viewCount": "2015万",
+      "viewCount": "2016万",
       "likeCount": "8.9万",
-      "commentCount": "3556",
-      "increment_d1": "7445"
+      "commentCount": "3555",
+      "increment_d1": "7528"
     },
     {
       "rank": 1695,
@@ -1030,10 +1030,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-10-06",
-      "viewCount": "2014万",
+      "viewCount": "2015万",
       "likeCount": "84.7万",
       "commentCount": "6.3万",
-      "increment_d1": "2671"
+      "increment_d1": "2705"
     },
     {
       "rank": 1696,
@@ -1056,33 +1056,10 @@
       "viewCount": "2014万",
       "likeCount": "21.3万",
       "commentCount": "1万",
-      "increment_d1": "3238"
+      "increment_d1": "3236"
     },
     {
       "rank": 1697,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/JztwSKtoSLY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=JztwSKtoSLY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "恋のコード／CHiCO with HoneyWorks",
-        "url": "https://www.youtube.com/watch?v=JztwSKtoSLY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-10-09",
-      "viewCount": "2012万",
-      "likeCount": "9.3万",
-      "commentCount": "7528",
-      "increment_d1": "1052"
-    },
-    {
-      "rank": 1698,
       "thumb": {
         "img": "https://i.ytimg.com/vi/uA832zpafis/default.jpg",
         "url": "https://www.youtube.com/watch?v=uA832zpafis",
@@ -1099,10 +1076,33 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-29",
-      "viewCount": "2012万",
+      "viewCount": "2013万",
       "likeCount": "17.1万",
-      "commentCount": "4422",
-      "increment_d1": "1.05万"
+      "commentCount": "4424",
+      "increment_d1": "1.15万"
+    },
+    {
+      "rank": 1698,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/JztwSKtoSLY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=JztwSKtoSLY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "恋のコード／CHiCO with HoneyWorks",
+        "url": "https://www.youtube.com/watch?v=JztwSKtoSLY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-10-09",
+      "viewCount": "2013万",
+      "likeCount": "9.3万",
+      "commentCount": "7528",
+      "increment_d1": "1087"
     },
     {
       "rank": 1699,
@@ -1125,7 +1125,7 @@
       "viewCount": "2012万",
       "likeCount": "-",
       "commentCount": "1.7万",
-      "increment_d1": "1960"
+      "increment_d1": "1834"
     },
     {
       "rank": 1700,
@@ -1147,8 +1147,8 @@
       "publishedAt": "2016-10-27",
       "viewCount": "2011万",
       "likeCount": "17.5万",
-      "commentCount": "9889",
-      "increment_d1": "2565"
+      "commentCount": "9890",
+      "increment_d1": "2678"
     }
   ]
 }

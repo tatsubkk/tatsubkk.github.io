@@ -3,6 +3,28 @@
     {
       "rank": 1451,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/jz8O2t2r8Gs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=jz8O2t2r8Gs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "King Gnu - ねっこ",
+        "url": "https://www.youtube.com/watch?v=jz8O2t2r8Gs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "King Gnu official YouTube channel",
+        "url": "https://www.youtube.com/channel/UCkB8HnJSDSJ2hkLQFUc-YrQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-12-01",
+      "viewCount": "2157万",
+      "likeCount": "14.73万",
+      "commentCount": "8104"
+    },
+    {
+      "rank": 1452,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/cBa2PhtY198/default.jpg",
         "url": "https://www.youtube.com/watch?v=cBa2PhtY198",
         "target": "_blank"
@@ -23,28 +45,6 @@
       "commentCount": "6192"
     },
     {
-      "rank": 1452,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/jz8O2t2r8Gs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=jz8O2t2r8Gs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "King Gnu - ねっこ",
-        "url": "https://www.youtube.com/watch?v=jz8O2t2r8Gs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "King Gnu official YouTube channel",
-        "url": "https://www.youtube.com/channel/UCkB8HnJSDSJ2hkLQFUc-YrQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-12-01",
-      "viewCount": "2155万",
-      "likeCount": "14.72万",
-      "commentCount": "8101"
-    },
-    {
       "rank": 1453,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qrtKLNTB71c/default.jpg",
@@ -63,8 +63,8 @@
       },
       "publishedAt": "2015-12-30",
       "viewCount": "3247万",
-      "likeCount": "14.69万",
-      "commentCount": "5198"
+      "likeCount": "14.7万",
+      "commentCount": "5199"
     },
     {
       "rank": 1454,
@@ -107,7 +107,7 @@
       },
       "publishedAt": "2024-10-14",
       "viewCount": "2254万",
-      "likeCount": "14.68万",
+      "likeCount": "14.69万",
       "commentCount": "1.1万"
     },
     {
@@ -152,7 +152,7 @@
       "publishedAt": "2010-04-16",
       "viewCount": "4452万",
       "likeCount": "14.68万",
-      "commentCount": "6485"
+      "commentCount": "6487"
     },
     {
       "rank": 1458,
@@ -172,7 +172,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-28",
-      "viewCount": "1260万",
+      "viewCount": "1261万",
       "likeCount": "14.66万",
       "commentCount": "7241"
     },
@@ -196,7 +196,7 @@
       "publishedAt": "2009-03-27",
       "viewCount": "5017万",
       "likeCount": "14.66万",
-      "commentCount": "8542"
+      "commentCount": "8543"
     },
     {
       "rank": 1460,
@@ -245,28 +245,6 @@
     {
       "rank": 1462,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/03BzZld9lvE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=03BzZld9lvE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SPYAIR 『轍～Wadachi～』Music Video（1/8公開映画『銀魂 THE FINAL』主題歌）",
-        "url": "https://www.youtube.com/watch?v=03BzZld9lvE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SPYAIR Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCvkOJJ9uFi9hto95bD3XO7Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-01-05",
-      "viewCount": "1296万",
-      "likeCount": "14.63万",
-      "commentCount": "7188"
-    },
-    {
-      "rank": 1463,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/jIl8_jMMULs/default.jpg",
         "url": "https://www.youtube.com/watch?v=jIl8_jMMULs",
         "target": "_blank"
@@ -283,8 +261,30 @@
       },
       "publishedAt": "2012-11-07",
       "viewCount": "5707万",
-      "likeCount": "14.63万",
+      "likeCount": "14.64万",
       "commentCount": "3282"
+    },
+    {
+      "rank": 1463,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/03BzZld9lvE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=03BzZld9lvE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SPYAIR 『轍～Wadachi～』Music Video（1/8公開映画『銀魂 THE FINAL』主題歌）",
+        "url": "https://www.youtube.com/watch?v=03BzZld9lvE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SPYAIR Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCvkOJJ9uFi9hto95bD3XO7Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-01-05",
+      "viewCount": "1296万",
+      "likeCount": "14.64万",
+      "commentCount": "7188"
     },
     {
       "rank": 1464,
@@ -349,8 +349,8 @@
       },
       "publishedAt": "2024-01-23",
       "viewCount": "1174万",
-      "likeCount": "14.61万",
-      "commentCount": "2559"
+      "likeCount": "14.62万",
+      "commentCount": "2560"
     },
     {
       "rank": 1467,
@@ -392,9 +392,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-03",
-      "viewCount": "2700万",
-      "likeCount": "14.58万",
-      "commentCount": "4879"
+      "viewCount": "2701万",
+      "likeCount": "14.59万",
+      "commentCount": "4880"
     },
     {
       "rank": 1469,
@@ -414,9 +414,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-27",
-      "viewCount": "1734万",
+      "viewCount": "1735万",
       "likeCount": "14.57万",
-      "commentCount": "2646"
+      "commentCount": "2645"
     },
     {
       "rank": 1470,
@@ -436,9 +436,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-29",
-      "viewCount": "1560万",
+      "viewCount": "1561万",
       "likeCount": "14.56万",
-      "commentCount": "7416"
+      "commentCount": "7419"
     },
     {
       "rank": 1471,
@@ -458,12 +458,34 @@
         "target": "_blank"
       },
       "publishedAt": "2024-05-04",
-      "viewCount": "1492万",
+      "viewCount": "1493万",
       "likeCount": "14.55万",
       "commentCount": "4892"
     },
     {
       "rank": 1472,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/8L5cQlXMpeY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=8L5cQlXMpeY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "あたらよ-「僕は...」(Music Video)/TVアニメ「僕の心のヤバイやつ」第2期OPテーマ",
+        "url": "https://www.youtube.com/watch?v=8L5cQlXMpeY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "あたらよ - Atarayo",
+        "url": "https://www.youtube.com/channel/UCgrtbLQsox2EYtF0iVclZjA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-01-13",
+      "viewCount": "1699万",
+      "likeCount": "14.55万",
+      "commentCount": "1634"
+    },
+    {
+      "rank": 1473,
       "thumb": {
         "img": "https://i.ytimg.com/vi/tYP-i_tShDY/default.jpg",
         "url": "https://www.youtube.com/watch?v=tYP-i_tShDY",
@@ -485,28 +507,6 @@
       "commentCount": "1388"
     },
     {
-      "rank": 1473,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/8L5cQlXMpeY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=8L5cQlXMpeY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "あたらよ-「僕は...」(Music Video)/TVアニメ「僕の心のヤバイやつ」第2期OPテーマ",
-        "url": "https://www.youtube.com/watch?v=8L5cQlXMpeY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "あたらよ - Atarayo",
-        "url": "https://www.youtube.com/channel/UCgrtbLQsox2EYtF0iVclZjA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-01-13",
-      "viewCount": "1697万",
-      "likeCount": "14.54万",
-      "commentCount": "1633"
-    },
-    {
       "rank": 1474,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ZXhDTCKH3qM/default.jpg",
@@ -524,7 +524,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-04-24",
-      "viewCount": "8699万",
+      "viewCount": "8701万",
       "likeCount": "14.54万",
       "commentCount": "7216"
     },
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-06",
-      "viewCount": "2087万",
+      "viewCount": "2088万",
       "likeCount": "14.49万",
       "commentCount": "8362"
     },
@@ -590,7 +590,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-05-15",
-      "viewCount": "1905万",
+      "viewCount": "1906万",
       "likeCount": "14.49万",
       "commentCount": "2450"
     },
@@ -613,11 +613,33 @@
       },
       "publishedAt": "2016-03-30",
       "viewCount": "7686万",
-      "likeCount": "14.47万",
-      "commentCount": "5225"
+      "likeCount": "14.48万",
+      "commentCount": "5227"
     },
     {
       "rank": 1479,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/GpADSdd68UI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=GpADSdd68UI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "クリープハイプ「おやすみ泣き声、さよなら歌姫」",
+        "url": "https://www.youtube.com/watch?v=GpADSdd68UI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Victor Entertainment",
+        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-12-07",
+      "viewCount": "1475万",
+      "likeCount": "14.46万",
+      "commentCount": "1450"
+    },
+    {
+      "rank": 1480,
       "thumb": {
         "img": "https://i.ytimg.com/vi/EFUSUcbLHK0/default.jpg",
         "url": "https://www.youtube.com/watch?v=EFUSUcbLHK0",
@@ -637,28 +659,6 @@
       "viewCount": "1472万",
       "likeCount": "14.45万",
       "commentCount": "-"
-    },
-    {
-      "rank": 1480,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/GpADSdd68UI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=GpADSdd68UI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "クリープハイプ「おやすみ泣き声、さよなら歌姫」",
-        "url": "https://www.youtube.com/watch?v=GpADSdd68UI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Victor Entertainment",
-        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-12-07",
-      "viewCount": "1474万",
-      "likeCount": "14.45万",
-      "commentCount": "1450"
     },
     {
       "rank": 1481,
@@ -722,9 +722,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-06-04",
-      "viewCount": "8606万",
+      "viewCount": "8607万",
       "likeCount": "14.36万",
-      "commentCount": "5965"
+      "commentCount": "5964"
     },
     {
       "rank": 1484,
@@ -744,9 +744,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-13",
-      "viewCount": "1409万",
-      "likeCount": "14.35万",
-      "commentCount": "2641"
+      "viewCount": "1410万",
+      "likeCount": "14.36万",
+      "commentCount": "2642"
     },
     {
       "rank": 1485,
@@ -766,9 +766,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-10-08",
-      "viewCount": "1559万",
-      "likeCount": "14.34万",
-      "commentCount": "3084"
+      "viewCount": "1561万",
+      "likeCount": "14.35万",
+      "commentCount": "3087"
     },
     {
       "rank": 1486,
@@ -788,7 +788,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-23",
-      "viewCount": "1687万",
+      "viewCount": "1688万",
       "likeCount": "14.33万",
       "commentCount": "2510"
     },
@@ -810,7 +810,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-19",
-      "viewCount": "1130万",
+      "viewCount": "1131万",
       "likeCount": "14.32万",
       "commentCount": "2436"
     },
@@ -833,7 +833,7 @@
       },
       "publishedAt": "2021-01-29",
       "viewCount": "2142万",
-      "likeCount": "14.31万",
+      "likeCount": "14.32万",
       "commentCount": "2960"
     },
     {
@@ -876,9 +876,9 @@
         "target": "_blank"
       },
       "publishedAt": "2008-06-18",
-      "viewCount": "5752万",
+      "viewCount": "5754万",
       "likeCount": "14.28万",
-      "commentCount": "9270"
+      "commentCount": "9271"
     },
     {
       "rank": 1491,
@@ -898,7 +898,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-02-01",
-      "viewCount": "1993万",
+      "viewCount": "1994万",
       "likeCount": "14.28万",
       "commentCount": "7478"
     },
@@ -965,7 +965,7 @@
       },
       "publishedAt": "2015-08-21",
       "viewCount": "4608万",
-      "likeCount": "14.24万",
+      "likeCount": "14.25万",
       "commentCount": "7707"
     },
     {
@@ -1010,7 +1010,7 @@
       "publishedAt": "2020-04-11",
       "viewCount": "2193万",
       "likeCount": "14.24万",
-      "commentCount": "5241"
+      "commentCount": "5239"
     },
     {
       "rank": 1497,
@@ -1031,7 +1031,7 @@
       },
       "publishedAt": "2022-10-08",
       "viewCount": "1385万",
-      "likeCount": "14.22万",
+      "likeCount": "14.23万",
       "commentCount": "4023"
     },
     {
@@ -1054,7 +1054,7 @@
       "publishedAt": "2016-12-11",
       "viewCount": "1638万",
       "likeCount": "14.21万",
-      "commentCount": "4972"
+      "commentCount": "4973"
     },
     {
       "rank": 1499,
@@ -1075,7 +1075,7 @@
       },
       "publishedAt": "2015-06-14",
       "viewCount": "7320万",
-      "likeCount": "14.2万",
+      "likeCount": "14.21万",
       "commentCount": "8420"
     },
     {
@@ -1096,7 +1096,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-10-18",
-      "viewCount": "1318万",
+      "viewCount": "1319万",
       "likeCount": "14.2万",
       "commentCount": "9358"
     }

@@ -84,7 +84,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-10-02",
-      "viewCount": "2860万",
+      "viewCount": "2861万",
       "likeCount": "23.9万",
       "commentCount": "4094"
     },
@@ -113,6 +113,28 @@
     {
       "rank": 1906,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/nbeGeXgjh9Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=nbeGeXgjh9Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[Official Music Video] Perfume「ねぇ」",
+        "url": "https://www.youtube.com/watch?v=nbeGeXgjh9Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Perfume",
+        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-06-18",
+      "viewCount": "2138万",
+      "likeCount": "10.5万",
+      "commentCount": "4084"
+    },
+    {
+      "rank": 1907,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/WGot2jAViWY/default.jpg",
         "url": "https://www.youtube.com/watch?v=WGot2jAViWY",
         "target": "_blank"
@@ -133,28 +155,6 @@
       "commentCount": "4082"
     },
     {
-      "rank": 1906,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/nbeGeXgjh9Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=nbeGeXgjh9Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[Official Music Video] Perfume「ねぇ」",
-        "url": "https://www.youtube.com/watch?v=nbeGeXgjh9Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Perfume",
-        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-06-18",
-      "viewCount": "2138万",
-      "likeCount": "10.5万",
-      "commentCount": "4082"
-    },
-    {
       "rank": 1908,
       "thumb": {
         "img": "https://i.ytimg.com/vi/k8AJfmyurWo/default.jpg",
@@ -172,12 +172,12 @@
         "target": "_blank"
       },
       "publishedAt": "2024-03-29",
-      "viewCount": "2558万",
+      "viewCount": "2559万",
       "likeCount": "17.1万",
-      "commentCount": "4081"
+      "commentCount": "4080"
     },
     {
-      "rank": 1909,
+      "rank": 1908,
       "thumb": {
         "img": "https://i.ytimg.com/vi/9xUdZd1ZEp0/default.jpg",
         "url": "https://www.youtube.com/watch?v=9xUdZd1ZEp0",
@@ -216,9 +216,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-17",
-      "viewCount": "1751万",
+      "viewCount": "1752万",
       "likeCount": "18万",
-      "commentCount": "4074"
+      "commentCount": "4075"
     },
     {
       "rank": 1911,
@@ -262,32 +262,10 @@
       "publishedAt": "2013-01-25",
       "viewCount": "3395万",
       "likeCount": "11.6万",
-      "commentCount": "4066"
+      "commentCount": "4067"
     },
     {
       "rank": 1913,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/bNagYg_YGbU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=bNagYg_YGbU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV】携帯恋話／まふまふ",
-        "url": "https://www.youtube.com/watch?v=bNagYg_YGbU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "まふまふちゃんねる",
-        "url": "https://www.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-05-23",
-      "viewCount": "1283万",
-      "likeCount": "15.2万",
-      "commentCount": "4064"
-    },
-    {
-      "rank": 1914,
       "thumb": {
         "img": "https://i.ytimg.com/vi/yZt2XEjsduc/default.jpg",
         "url": "https://www.youtube.com/watch?v=yZt2XEjsduc",
@@ -304,9 +282,31 @@
         "target": "_blank"
       },
       "publishedAt": "2012-11-14",
-      "viewCount": "1911万",
+      "viewCount": "1912万",
       "likeCount": "6.2万",
-      "commentCount": "4062"
+      "commentCount": "4065"
+    },
+    {
+      "rank": 1914,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/bNagYg_YGbU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=bNagYg_YGbU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV】携帯恋話／まふまふ",
+        "url": "https://www.youtube.com/watch?v=bNagYg_YGbU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "まふまふちゃんねる",
+        "url": "https://www.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-05-23",
+      "viewCount": "1284万",
+      "likeCount": "15.2万",
+      "commentCount": "4064"
     },
     {
       "rank": 1915,
@@ -350,7 +350,7 @@
       "publishedAt": "2019-03-04",
       "viewCount": "1478万",
       "likeCount": "16.8万",
-      "commentCount": "4054"
+      "commentCount": "4055"
     },
     {
       "rank": 1917,
@@ -392,7 +392,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-08-23",
-      "viewCount": "4145万",
+      "viewCount": "4146万",
       "likeCount": "10.5万",
       "commentCount": "4049"
     },
@@ -414,7 +414,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-08-02",
-      "viewCount": "1047万",
+      "viewCount": "1048万",
       "likeCount": "6.4万",
       "commentCount": "4046"
     },
@@ -436,7 +436,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-05-15",
-      "viewCount": "1439万",
+      "viewCount": "1440万",
       "likeCount": "14.8万",
       "commentCount": "4045"
     },
@@ -502,9 +502,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-05",
-      "viewCount": "1416万",
+      "viewCount": "1417万",
       "likeCount": "18万",
-      "commentCount": "4037"
+      "commentCount": "4038"
     },
     {
       "rank": 1924,
@@ -546,9 +546,9 @@
         "target": "_blank"
       },
       "publishedAt": "2014-08-23",
-      "viewCount": "3521万",
+      "viewCount": "3523万",
       "likeCount": "9.7万",
-      "commentCount": "4024"
+      "commentCount": "4028"
     },
     {
       "rank": 1926,
@@ -656,34 +656,12 @@
         "target": "_blank"
       },
       "publishedAt": "2012-01-27",
-      "viewCount": "4511万",
+      "viewCount": "4512万",
       "likeCount": "15.4万",
-      "commentCount": "4013"
+      "commentCount": "4014"
     },
     {
       "rank": 1931,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/6ok1kdB1fUc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=6ok1kdB1fUc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "なにわ男子 - ハッピーサプライズ [Music Video Dance ver.]",
-        "url": "https://www.youtube.com/watch?v=6ok1kdB1fUc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "なにわ男子",
-        "url": "https://www.youtube.com/channel/UCDtVdj7sm41Ysg3XSiSUH3w",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-11-23",
-      "viewCount": "1755万",
-      "likeCount": "-",
-      "commentCount": "4011"
-    },
-    {
-      "rank": 1932,
       "thumb": {
         "img": "https://i.ytimg.com/vi/u3mjz_LKJh8/default.jpg",
         "url": "https://www.youtube.com/watch?v=u3mjz_LKJh8",
@@ -702,32 +680,32 @@
       "publishedAt": "2021-12-01",
       "viewCount": "1164万",
       "likeCount": "-",
+      "commentCount": "4011"
+    },
+    {
+      "rank": 1932,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/6ok1kdB1fUc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=6ok1kdB1fUc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "なにわ男子 - ハッピーサプライズ [Music Video Dance ver.]",
+        "url": "https://www.youtube.com/watch?v=6ok1kdB1fUc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "なにわ男子",
+        "url": "https://www.youtube.com/channel/UCDtVdj7sm41Ysg3XSiSUH3w",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-11-23",
+      "viewCount": "1755万",
+      "likeCount": "-",
       "commentCount": "4010"
     },
     {
       "rank": 1933,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/r93rVW--5ZU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=r93rVW--5ZU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "『晩餐歌』 acoustic ver. tuki.×優里",
-        "url": "https://www.youtube.com/watch?v=r93rVW--5ZU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "優里ちゃんねる【公式】",
-        "url": "https://www.youtube.com/channel/UC7MvTslTWkE1HKNYkXiGv1Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-11-06",
-      "viewCount": "5238万",
-      "likeCount": "29万",
-      "commentCount": "4007"
-    },
-    {
-      "rank": 1934,
       "thumb": {
         "img": "https://i.ytimg.com/vi/JuyQQUqD64c/default.jpg",
         "url": "https://www.youtube.com/watch?v=JuyQQUqD64c",
@@ -744,9 +722,31 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-10",
-      "viewCount": "2702万",
+      "viewCount": "2704万",
       "likeCount": "12.6万",
-      "commentCount": "4006"
+      "commentCount": "4008"
+    },
+    {
+      "rank": 1934,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/r93rVW--5ZU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=r93rVW--5ZU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "『晩餐歌』 acoustic ver. tuki.×優里",
+        "url": "https://www.youtube.com/watch?v=r93rVW--5ZU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "優里ちゃんねる【公式】",
+        "url": "https://www.youtube.com/channel/UC7MvTslTWkE1HKNYkXiGv1Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-11-06",
+      "viewCount": "5241万",
+      "likeCount": "29万",
+      "commentCount": "4007"
     },
     {
       "rank": 1935,
@@ -768,7 +768,7 @@
       "publishedAt": "2022-02-14",
       "viewCount": "1595万",
       "likeCount": "-",
-      "commentCount": "4003"
+      "commentCount": "4004"
     },
     {
       "rank": 1936,
@@ -788,9 +788,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-09",
-      "viewCount": "3662万",
+      "viewCount": "3663万",
       "likeCount": "14.9万",
-      "commentCount": "3999"
+      "commentCount": "4000"
     },
     {
       "rank": 1937,
@@ -832,31 +832,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-07",
-      "viewCount": "1594万",
+      "viewCount": "1595万",
       "likeCount": "7万",
-      "commentCount": "3983"
-    },
-    {
-      "rank": 1939,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/PBlOi5OVcKs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=PBlOi5OVcKs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SEKAI NO OWARI 「RAIN」 Short Version PV  主題歌映画「メアリと魔女の花」",
-        "url": "https://www.youtube.com/watch?v=PBlOi5OVcKs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "sekainoowarijp",
-        "url": "https://www.youtube.com/channel/UCOYmRdtvvcQPspSmW8QsJhQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-07-01",
-      "viewCount": "1756万",
-      "likeCount": "12.8万",
-      "commentCount": "3969"
+      "commentCount": "3984"
     },
     {
       "rank": 1939,
@@ -876,8 +854,30 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-23",
-      "viewCount": "1664万",
+      "viewCount": "1665万",
       "likeCount": "10.6万",
+      "commentCount": "3970"
+    },
+    {
+      "rank": 1940,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/PBlOi5OVcKs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=PBlOi5OVcKs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SEKAI NO OWARI 「RAIN」 Short Version PV  主題歌映画「メアリと魔女の花」",
+        "url": "https://www.youtube.com/watch?v=PBlOi5OVcKs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "sekainoowarijp",
+        "url": "https://www.youtube.com/channel/UCOYmRdtvvcQPspSmW8QsJhQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-07-01",
+      "viewCount": "1756万",
+      "likeCount": "12.8万",
       "commentCount": "3969"
     },
     {
@@ -922,7 +922,7 @@
       "publishedAt": "2021-10-06",
       "viewCount": "1366万",
       "likeCount": "15.3万",
-      "commentCount": "3960"
+      "commentCount": "3961"
     },
     {
       "rank": 1943,
@@ -964,7 +964,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-30",
-      "viewCount": "2197万",
+      "viewCount": "2198万",
       "likeCount": "17.8万",
       "commentCount": "3948"
     },
@@ -986,7 +986,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-07",
-      "viewCount": "2243万",
+      "viewCount": "2244万",
       "likeCount": "21.5万",
       "commentCount": "3946"
     },
@@ -1032,10 +1032,10 @@
       "publishedAt": "2014-12-02",
       "viewCount": "1942万",
       "likeCount": "7万",
-      "commentCount": "3939"
+      "commentCount": "3940"
     },
     {
-      "rank": 1947,
+      "rank": 1948,
       "thumb": {
         "img": "https://i.ytimg.com/vi/eKXz9H6-Hao/default.jpg",
         "url": "https://www.youtube.com/watch?v=eKXz9H6-Hao",
@@ -1081,24 +1081,24 @@
     {
       "rank": 1950,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/w73Ks2WX_XQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=w73Ks2WX_XQ",
+        "img": "https://i.ytimg.com/vi/iqGHxcTPRfI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=iqGHxcTPRfI",
         "target": "_blank"
       },
       "title": {
-        "text": "チルドレン - BIN(Official Video)",
-        "url": "https://www.youtube.com/watch?v=w73Ks2WX_XQ",
+        "text": "aiko- 『花火』music video",
+        "url": "https://www.youtube.com/watch?v=iqGHxcTPRfI",
         "target": "_blank"
       },
       "channel": {
-        "text": "BIN official",
-        "url": "https://www.youtube.com/channel/UC2AjuUIySECwm7G7tJGUwJQ",
+        "text": "aikoOfficial",
+        "url": "https://www.youtube.com/channel/UCtLQyS4toPOarqufGUxTtIQ",
         "target": "_blank"
       },
-      "publishedAt": "2019-03-16",
-      "viewCount": "1185万",
-      "likeCount": "24.1万",
-      "commentCount": "3932"
+      "publishedAt": "2020-02-25",
+      "viewCount": "4297万",
+      "likeCount": "-",
+      "commentCount": "3934"
     }
   ]
 }
