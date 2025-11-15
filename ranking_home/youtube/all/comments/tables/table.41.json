@@ -1,7 +1,7 @@
 {
   "rows": [
     {
-      "rank": 2000,
+      "rank": 2001,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Sfz5TpCRSiI/default.jpg",
         "url": "https://www.youtube.com/watch?v=Sfz5TpCRSiI",
@@ -23,7 +23,29 @@
       "commentCount": "3754"
     },
     {
-      "rank": 2002,
+      "rank": 2001,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/LAoHMWwwHs4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=LAoHMWwwHs4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "KinKi Kids「愛のかたまり」【from KinKi Kids Concert 2023-2024 ～Promise Place～】",
+        "url": "https://www.youtube.com/watch?v=LAoHMWwwHs4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "KinKi Kids",
+        "url": "https://www.youtube.com/channel/UCexu4C8IfBuC5CH7R4PLHFQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-07-21",
+      "viewCount": "2676万",
+      "likeCount": "11万",
+      "commentCount": "3754"
+    },
+    {
+      "rank": 2003,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Jtw5S12-ZeI/default.jpg",
         "url": "https://www.youtube.com/watch?v=Jtw5S12-ZeI",
@@ -43,28 +65,6 @@
       "viewCount": "1497万",
       "likeCount": "6.7万",
       "commentCount": "3751"
-    },
-    {
-      "rank": 2003,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/LAoHMWwwHs4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=LAoHMWwwHs4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "KinKi Kids「愛のかたまり」【from KinKi Kids Concert 2023-2024 ～Promise Place～】",
-        "url": "https://www.youtube.com/watch?v=LAoHMWwwHs4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "KinKi Kids",
-        "url": "https://www.youtube.com/channel/UCexu4C8IfBuC5CH7R4PLHFQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-07-21",
-      "viewCount": "2671万",
-      "likeCount": "11万",
-      "commentCount": "3749"
     },
     {
       "rank": 2004,
@@ -106,7 +106,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-12-29",
-      "viewCount": "1926万",
+      "viewCount": "1927万",
       "likeCount": "13.5万",
       "commentCount": "3746"
     },
@@ -201,6 +201,28 @@
     {
       "rank": 2010,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/kmPgjr0EL64/default.jpg",
+        "url": "https://www.youtube.com/watch?v=kmPgjr0EL64",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV】春に揺られど君想う feat. こぴ / コバソロ",
+        "url": "https://www.youtube.com/watch?v=kmPgjr0EL64",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "kobasolo",
+        "url": "https://www.youtube.com/channel/UCDbQblY1XASbgqOXmy6FOFQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-05-01",
+      "viewCount": "1940万",
+      "likeCount": "22.1万",
+      "commentCount": "3721"
+    },
+    {
+      "rank": 2010,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/cat8ItnQxbA/default.jpg",
         "url": "https://www.youtube.com/watch?v=cat8ItnQxbA",
         "target": "_blank"
@@ -218,28 +240,6 @@
       "publishedAt": "2018-02-05",
       "viewCount": "1687万",
       "likeCount": "13.7万",
-      "commentCount": "3721"
-    },
-    {
-      "rank": 2010,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/kmPgjr0EL64/default.jpg",
-        "url": "https://www.youtube.com/watch?v=kmPgjr0EL64",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV】春に揺られど君想う feat. こぴ / コバソロ",
-        "url": "https://www.youtube.com/watch?v=kmPgjr0EL64",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "kobasolo",
-        "url": "https://www.youtube.com/channel/UCDbQblY1XASbgqOXmy6FOFQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-05-01",
-      "viewCount": "1939万",
-      "likeCount": "22.1万",
       "commentCount": "3721"
     },
     {
@@ -262,7 +262,7 @@
       "publishedAt": "2020-04-07",
       "viewCount": "4631万",
       "likeCount": "16.8万",
-      "commentCount": "3716"
+      "commentCount": "3717"
     },
     {
       "rank": 2013,
@@ -282,7 +282,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-14",
-      "viewCount": "3613万",
+      "viewCount": "3614万",
       "likeCount": "17.4万",
       "commentCount": "3714"
     },
@@ -348,34 +348,12 @@
         "target": "_blank"
       },
       "publishedAt": "2012-08-24",
-      "viewCount": "4024万",
+      "viewCount": "4025万",
       "likeCount": "7.5万",
       "commentCount": "3707"
     },
     {
-      "rank": 2017,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/zGnBtnUAj_I/default.jpg",
-        "url": "https://www.youtube.com/watch?v=zGnBtnUAj_I",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE - Folktale【LIVE from 『EDEN no SONO』】",
-        "url": "https://www.youtube.com/watch?v=zGnBtnUAj_I",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-07-13",
-      "viewCount": "1117万",
-      "likeCount": "8.8万",
-      "commentCount": "3706"
-    },
-    {
-      "rank": 2017,
+      "rank": 2016,
       "thumb": {
         "img": "https://i.ytimg.com/vi/X_uefh0Etao/default.jpg",
         "url": "https://www.youtube.com/watch?v=X_uefh0Etao",
@@ -392,31 +370,31 @@
         "target": "_blank"
       },
       "publishedAt": "2017-02-04",
-      "viewCount": "4894万",
+      "viewCount": "4895万",
       "likeCount": "36万",
-      "commentCount": "3706"
+      "commentCount": "3707"
     },
     {
-      "rank": 2019,
+      "rank": 2016,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/pFmEZoinEAQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=pFmEZoinEAQ",
+        "img": "https://i.ytimg.com/vi/zGnBtnUAj_I/default.jpg",
+        "url": "https://www.youtube.com/watch?v=zGnBtnUAj_I",
         "target": "_blank"
       },
       "title": {
-        "text": "Hey! Say! JUMP - DEAR MY LOVER [Dance Practice]",
-        "url": "https://www.youtube.com/watch?v=pFmEZoinEAQ",
+        "text": "Mrs. GREEN APPLE - Folktale【LIVE from 『EDEN no SONO』】",
+        "url": "https://www.youtube.com/watch?v=zGnBtnUAj_I",
         "target": "_blank"
       },
       "channel": {
-        "text": "Hey! Say! JUMP",
-        "url": "https://www.youtube.com/channel/UCFzXU6-djdXlDvXI3-2Appw",
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
         "target": "_blank"
       },
-      "publishedAt": "2023-05-17",
-      "viewCount": "1045万",
-      "likeCount": "-",
-      "commentCount": "3705"
+      "publishedAt": "2020-07-13",
+      "viewCount": "1118万",
+      "likeCount": "8.8万",
+      "commentCount": "3707"
     },
     {
       "rank": 2019,
@@ -438,6 +416,28 @@
       "publishedAt": "2019-04-13",
       "viewCount": "1282万",
       "likeCount": "8.8万",
+      "commentCount": "3706"
+    },
+    {
+      "rank": 2020,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/pFmEZoinEAQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=pFmEZoinEAQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Hey! Say! JUMP - DEAR MY LOVER [Dance Practice]",
+        "url": "https://www.youtube.com/watch?v=pFmEZoinEAQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Hey! Say! JUMP",
+        "url": "https://www.youtube.com/channel/UCFzXU6-djdXlDvXI3-2Appw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-05-17",
+      "viewCount": "1045万",
+      "likeCount": "-",
       "commentCount": "3705"
     },
     {
@@ -458,7 +458,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-12",
-      "viewCount": "1826万",
+      "viewCount": "1827万",
       "likeCount": "20万",
       "commentCount": "3699"
     },
@@ -487,6 +487,28 @@
     {
       "rank": 2023,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/Z22loO5hY4A/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Z22loO5hY4A",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "いきものがかり 『笑顔』Music Video",
+        "url": "https://www.youtube.com/watch?v=Z22loO5hY4A",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "いきものがかり",
+        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-03-26",
+      "viewCount": "1258万",
+      "likeCount": "10.1万",
+      "commentCount": "3696"
+    },
+    {
+      "rank": 2023,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/1RnBDQJyQdI/default.jpg",
         "url": "https://www.youtube.com/watch?v=1RnBDQJyQdI",
         "target": "_blank"
@@ -505,28 +527,6 @@
       "viewCount": "1144万",
       "likeCount": "11.9万",
       "commentCount": "3696"
-    },
-    {
-      "rank": 2024,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Z22loO5hY4A/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Z22loO5hY4A",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "いきものがかり 『笑顔』Music Video",
-        "url": "https://www.youtube.com/watch?v=Z22loO5hY4A",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "いきものがかり",
-        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-03-26",
-      "viewCount": "1258万",
-      "likeCount": "10.1万",
-      "commentCount": "3692"
     },
     {
       "rank": 2025,
@@ -590,7 +590,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-01-10",
-      "viewCount": "5951万",
+      "viewCount": "5952万",
       "likeCount": "42.8万",
       "commentCount": "3686"
     },
@@ -612,7 +612,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-01-06",
-      "viewCount": "1751万",
+      "viewCount": "1752万",
       "likeCount": "8.9万",
       "commentCount": "3686"
     },
@@ -656,31 +656,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-18",
-      "viewCount": "2822万",
+      "viewCount": "2823万",
       "likeCount": "20.5万",
       "commentCount": "3671"
-    },
-    {
-      "rank": 2031,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ChfQ7iqyOnA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ChfQ7iqyOnA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "KEYTALK - 「桜花爛漫」MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=ChfQ7iqyOnA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Victor Entertainment",
-        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-04-22",
-      "viewCount": "1208万",
-      "likeCount": "8.6万",
-      "commentCount": "3669"
     },
     {
       "rank": 2031,
@@ -702,7 +680,7 @@
       "publishedAt": "2018-12-18",
       "viewCount": "1297万",
       "likeCount": "25.1万",
-      "commentCount": "3669"
+      "commentCount": "3670"
     },
     {
       "rank": 2031,
@@ -722,8 +700,30 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-31",
-      "viewCount": "3775万",
+      "viewCount": "3777万",
       "likeCount": "33.4万",
+      "commentCount": "3670"
+    },
+    {
+      "rank": 2033,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ChfQ7iqyOnA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ChfQ7iqyOnA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "KEYTALK - 「桜花爛漫」MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=ChfQ7iqyOnA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Victor Entertainment",
+        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-04-22",
+      "viewCount": "1208万",
+      "likeCount": "8.6万",
       "commentCount": "3669"
     },
     {
@@ -744,9 +744,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-06-13",
-      "viewCount": "1624万",
+      "viewCount": "1625万",
       "likeCount": "25.4万",
-      "commentCount": "3664"
+      "commentCount": "3665"
     },
     {
       "rank": 2035,
@@ -768,7 +768,29 @@
       "publishedAt": "2014-07-02",
       "viewCount": "3117万",
       "likeCount": "9.9万",
-      "commentCount": "3662"
+      "commentCount": "3663"
+    },
+    {
+      "rank": 2036,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/vSOLtBy-xas/default.jpg",
+        "url": "https://www.youtube.com/watch?v=vSOLtBy-xas",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MOON CHILD / ESCAPE",
+        "url": "https://www.youtube.com/watch?v=vSOLtBy-xas",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-08-29",
+      "viewCount": "1424万",
+      "likeCount": "7.1万",
+      "commentCount": "3659"
     },
     {
       "rank": 2036,
@@ -791,28 +813,6 @@
       "viewCount": "1841万",
       "likeCount": "12.7万",
       "commentCount": "3659"
-    },
-    {
-      "rank": 2037,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/vSOLtBy-xas/default.jpg",
-        "url": "https://www.youtube.com/watch?v=vSOLtBy-xas",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MOON CHILD / ESCAPE",
-        "url": "https://www.youtube.com/watch?v=vSOLtBy-xas",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-08-29",
-      "viewCount": "1422万",
-      "likeCount": "7.1万",
-      "commentCount": "3655"
     },
     {
       "rank": 2038,
@@ -859,7 +859,7 @@
       "commentCount": "3649"
     },
     {
-      "rank": 2040,
+      "rank": 2039,
       "thumb": {
         "img": "https://i.ytimg.com/vi/CetVGsV6g44/default.jpg",
         "url": "https://www.youtube.com/watch?v=CetVGsV6g44",
@@ -878,10 +878,10 @@
       "publishedAt": "2009-07-02",
       "viewCount": "1906万",
       "likeCount": "9.3万",
-      "commentCount": "3648"
+      "commentCount": "3649"
     },
     {
-      "rank": 2040,
+      "rank": 2039,
       "thumb": {
         "img": "https://i.ytimg.com/vi/0HS3ZvAiiTU/default.jpg",
         "url": "https://www.youtube.com/watch?v=0HS3ZvAiiTU",
@@ -898,31 +898,31 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-30",
-      "viewCount": "3432万",
+      "viewCount": "3433万",
       "likeCount": "21.3万",
-      "commentCount": "3648"
+      "commentCount": "3649"
     },
     {
       "rank": 2042,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/-W0IEVetBaQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=-W0IEVetBaQ",
+        "img": "https://i.ytimg.com/vi/IWC2sfwdK40/default.jpg",
+        "url": "https://www.youtube.com/watch?v=IWC2sfwdK40",
         "target": "_blank"
       },
       "title": {
-        "text": "Mr.Children「himawari」from TOUR 2017 Thanksgiving 25",
-        "url": "https://www.youtube.com/watch?v=-W0IEVetBaQ",
+        "text": "AJR 「World's Smallest Violin」【日本語字幕Ver】",
+        "url": "https://www.youtube.com/watch?v=IWC2sfwdK40",
         "target": "_blank"
       },
       "channel": {
-        "text": "Mr.Children Official Channel",
-        "url": "https://www.youtube.com/channel/UCXteDRy5qB0IjA8WPusCJ7w",
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
         "target": "_blank"
       },
-      "publishedAt": "2018-03-20",
-      "viewCount": "1592万",
-      "likeCount": "4.6万",
-      "commentCount": "3642"
+      "publishedAt": "2022-07-16",
+      "viewCount": "2267万",
+      "likeCount": "21.7万",
+      "commentCount": "3643"
     },
     {
       "rank": 2043,
@@ -942,12 +942,12 @@
         "target": "_blank"
       },
       "publishedAt": "2024-08-06",
-      "viewCount": "1191万",
-      "likeCount": "12.5万",
-      "commentCount": "3641"
+      "viewCount": "1192万",
+      "likeCount": "12.6万",
+      "commentCount": "3642"
     },
     {
-      "rank": 2043,
+      "rank": 2044,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qhPLK1Tn1GQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=qhPLK1Tn1GQ",
@@ -971,6 +971,28 @@
     {
       "rank": 2045,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/-W0IEVetBaQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=-W0IEVetBaQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mr.Children「himawari」from TOUR 2017 Thanksgiving 25",
+        "url": "https://www.youtube.com/watch?v=-W0IEVetBaQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mr.Children Official Channel",
+        "url": "https://www.youtube.com/channel/UCXteDRy5qB0IjA8WPusCJ7w",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-03-20",
+      "viewCount": "1593万",
+      "likeCount": "4.6万",
+      "commentCount": "3639"
+    },
+    {
+      "rank": 2046,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/kgByR1_MmrM/default.jpg",
         "url": "https://www.youtube.com/watch?v=kgByR1_MmrM",
         "target": "_blank"
@@ -988,7 +1010,7 @@
       "publishedAt": "2022-05-22",
       "viewCount": "1327万",
       "likeCount": "18.3万",
-      "commentCount": "3638"
+      "commentCount": "3637"
     },
     {
       "rank": 2046,
@@ -1013,28 +1035,6 @@
       "commentCount": "3637"
     },
     {
-      "rank": 2047,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/IWC2sfwdK40/default.jpg",
-        "url": "https://www.youtube.com/watch?v=IWC2sfwdK40",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "AJR 「World's Smallest Violin」【日本語字幕Ver】",
-        "url": "https://www.youtube.com/watch?v=IWC2sfwdK40",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-07-16",
-      "viewCount": "2265万",
-      "likeCount": "21.7万",
-      "commentCount": "3636"
-    },
-    {
       "rank": 2048,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vy7sXRCidX4/default.jpg",
@@ -1054,7 +1054,7 @@
       "publishedAt": "2010-04-06",
       "viewCount": "2818万",
       "likeCount": "5.6万",
-      "commentCount": "3629"
+      "commentCount": "3630"
     },
     {
       "rank": 2049,
@@ -1074,9 +1074,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-07",
-      "viewCount": "2464万",
+      "viewCount": "2466万",
       "likeCount": "11.3万",
-      "commentCount": "3626"
+      "commentCount": "3628"
     },
     {
       "rank": 2050,

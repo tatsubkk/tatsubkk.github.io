@@ -18,31 +18,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
-      "viewCount": "1121万",
+      "viewCount": "1122万",
       "likeCount": "4.3万",
       "commentCount": "49"
-    },
-    {
-      "rank": 3102,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/qWJTH8b-KyU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=qWJTH8b-KyU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ミスター",
-        "url": "https://www.youtube.com/watch?v=qWJTH8b-KyU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-02-15",
-      "viewCount": "1157万",
-      "likeCount": "7.5万",
-      "commentCount": "42"
     },
     {
       "rank": 3102,
@@ -64,6 +42,28 @@
       "publishedAt": "2021-08-08",
       "viewCount": "1203万",
       "likeCount": "10.8万",
+      "commentCount": "42"
+    },
+    {
+      "rank": 3102,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/qWJTH8b-KyU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=qWJTH8b-KyU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ミスター",
+        "url": "https://www.youtube.com/watch?v=qWJTH8b-KyU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-02-15",
+      "viewCount": "1157万",
+      "likeCount": "7.5万",
       "commentCount": "42"
     },
     {
@@ -128,8 +128,8 @@
         "target": "_blank"
       },
       "publishedAt": "2015-06-02",
-      "viewCount": "2235万",
-      "likeCount": "33.9万",
+      "viewCount": "2237万",
+      "likeCount": "34万",
       "commentCount": "2"
     }
   ]

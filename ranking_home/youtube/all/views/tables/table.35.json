@@ -20,8 +20,8 @@
       "publishedAt": "2010-09-01",
       "viewCount": "2010万",
       "likeCount": "3.9万",
-      "commentCount": "3305",
-      "increment_d1": "3831"
+      "commentCount": "3307",
+      "increment_d1": "3691"
     },
     {
       "rank": 1702,
@@ -41,13 +41,36 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-15",
-      "viewCount": "2009万",
+      "viewCount": "2010万",
       "likeCount": "-",
-      "commentCount": "8062",
-      "increment_d1": "8540"
+      "commentCount": "8063",
+      "increment_d1": "8673"
     },
     {
       "rank": 1703,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/hT1DXCqGpn4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=hT1DXCqGpn4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Premium】AAA - さよならの前に(AAA ARENA TOUR 2014 -Gold Symphony-)",
+        "url": "https://www.youtube.com/watch?v=hT1DXCqGpn4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-01-15",
+      "viewCount": "2009万",
+      "likeCount": "4.1万",
+      "commentCount": "1249",
+      "increment_d1": "1.29万"
+    },
+    {
+      "rank": 1704,
       "thumb": {
         "img": "https://i.ytimg.com/vi/zkrtHBM2xyA/default.jpg",
         "url": "https://www.youtube.com/watch?v=zkrtHBM2xyA",
@@ -67,30 +90,7 @@
       "viewCount": "2009万",
       "likeCount": "5.8万",
       "commentCount": "2457",
-      "increment_d1": "377"
-    },
-    {
-      "rank": 1704,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/hT1DXCqGpn4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=hT1DXCqGpn4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Premium】AAA - さよならの前に(AAA ARENA TOUR 2014 -Gold Symphony-)",
-        "url": "https://www.youtube.com/watch?v=hT1DXCqGpn4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-01-15",
-      "viewCount": "2008万",
-      "likeCount": "4.1万",
-      "commentCount": "1249",
-      "increment_d1": "1.21万"
+      "increment_d1": "465"
     },
     {
       "rank": 1705,
@@ -113,7 +113,7 @@
       "viewCount": "2007万",
       "likeCount": "73.7万",
       "commentCount": "4.3万",
-      "increment_d1": "2568"
+      "increment_d1": "2226"
     },
     {
       "rank": 1706,
@@ -135,8 +135,8 @@
       "publishedAt": "2018-03-06",
       "viewCount": "2006万",
       "likeCount": "6.4万",
-      "commentCount": "2298",
-      "increment_d1": "3673"
+      "commentCount": "2297",
+      "increment_d1": "3734"
     },
     {
       "rank": 1707,
@@ -159,33 +159,10 @@
       "viewCount": "2005万",
       "likeCount": "10万",
       "commentCount": "2339",
-      "increment_d1": "2207"
+      "increment_d1": "2224"
     },
     {
       "rank": 1708,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Np7xXN5Fxvc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Np7xXN5Fxvc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "KG / いとしすぎて duet with Tiara",
-        "url": "https://www.youtube.com/watch?v=Np7xXN5Fxvc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "UNIVERSAL MUSIC JAPAN",
-        "url": "https://www.youtube.com/channel/UCl2aT0nRejTCQO_LHZAftBw",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-02-16",
-      "viewCount": "2004万",
-      "likeCount": "-",
-      "commentCount": "-",
-      "increment_d1": "2539"
-    },
-    {
-      "rank": 1709,
       "thumb": {
         "img": "https://i.ytimg.com/vi/QCiERL2m3Ss/default.jpg",
         "url": "https://www.youtube.com/watch?v=QCiERL2m3Ss",
@@ -202,10 +179,33 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-07",
-      "viewCount": "2004万",
+      "viewCount": "2005万",
       "likeCount": "8.3万",
-      "commentCount": "5103",
-      "increment_d1": "8175"
+      "commentCount": "5105",
+      "increment_d1": "8137"
+    },
+    {
+      "rank": 1709,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Np7xXN5Fxvc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Np7xXN5Fxvc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "KG / いとしすぎて duet with Tiara",
+        "url": "https://www.youtube.com/watch?v=Np7xXN5Fxvc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "UNIVERSAL MUSIC JAPAN",
+        "url": "https://www.youtube.com/channel/UCl2aT0nRejTCQO_LHZAftBw",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-02-16",
+      "viewCount": "2005万",
+      "likeCount": "-",
+      "commentCount": "-",
+      "increment_d1": "2463"
     },
     {
       "rank": 1710,
@@ -227,8 +227,8 @@
       "publishedAt": "2023-06-06",
       "viewCount": "2004万",
       "likeCount": "-",
-      "commentCount": "7706",
-      "increment_d1": "2821"
+      "commentCount": "7707",
+      "increment_d1": "3024"
     },
     {
       "rank": 1711,
@@ -251,7 +251,7 @@
       "viewCount": "2003万",
       "likeCount": "7.8万",
       "commentCount": "2217",
-      "increment_d1": "779"
+      "increment_d1": "741"
     },
     {
       "rank": 1712,
@@ -274,7 +274,7 @@
       "viewCount": "2003万",
       "likeCount": "6.4万",
       "commentCount": "3926",
-      "increment_d1": "732"
+      "increment_d1": "942"
     },
     {
       "rank": 1713,
@@ -297,7 +297,7 @@
       "viewCount": "2003万",
       "likeCount": "34万",
       "commentCount": "1.5万",
-      "increment_d1": "1434"
+      "increment_d1": "1641"
     },
     {
       "rank": 1714,
@@ -320,7 +320,7 @@
       "viewCount": "2002万",
       "likeCount": "49.4万",
       "commentCount": "4.9万",
-      "increment_d1": "530"
+      "increment_d1": "573"
     },
     {
       "rank": 1715,
@@ -340,10 +340,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-08",
-      "viewCount": "2000万",
+      "viewCount": "2001万",
       "likeCount": "9.3万",
       "commentCount": "2078",
-      "increment_d1": "2940"
+      "increment_d1": "3090"
     },
     {
       "rank": 1716,
@@ -366,7 +366,7 @@
       "viewCount": "2000万",
       "likeCount": "4.3万",
       "commentCount": "440",
-      "increment_d1": "512"
+      "increment_d1": "507"
     },
     {
       "rank": 1717,
@@ -386,10 +386,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-02",
-      "viewCount": "1998万",
+      "viewCount": "1999万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "8518"
+      "increment_d1": "9502"
     },
     {
       "rank": 1718,
@@ -412,7 +412,7 @@
       "viewCount": "1998万",
       "likeCount": "23.3万",
       "commentCount": "6520",
-      "increment_d1": "1061"
+      "increment_d1": "1064"
     },
     {
       "rank": 1719,
@@ -432,10 +432,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-04-23",
-      "viewCount": "1996万",
+      "viewCount": "1997万",
       "likeCount": "8.6万",
-      "commentCount": "3588",
-      "increment_d1": "1550"
+      "commentCount": "3589",
+      "increment_d1": "1585"
     },
     {
       "rank": 1720,
@@ -458,7 +458,7 @@
       "viewCount": "1994万",
       "likeCount": "14.3万",
       "commentCount": "7478",
-      "increment_d1": "1827"
+      "increment_d1": "1670"
     },
     {
       "rank": 1721,
@@ -481,33 +481,10 @@
       "viewCount": "1993万",
       "likeCount": "8.5万",
       "commentCount": "1742",
-      "increment_d1": "640"
+      "increment_d1": "699"
     },
     {
       "rank": 1722,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/QzLvXenuZ8k/default.jpg",
-        "url": "https://www.youtube.com/watch?v=QzLvXenuZ8k",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "KinKi Kids「愛のかたまり -YouTube Original Live-」",
-        "url": "https://www.youtube.com/watch?v=QzLvXenuZ8k",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "KinKi Kids",
-        "url": "https://www.youtube.com/channel/UCexu4C8IfBuC5CH7R4PLHFQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-11-03",
-      "viewCount": "1992万",
-      "likeCount": "-",
-      "commentCount": "9630",
-      "increment_d1": "3266"
-    },
-    {
-      "rank": 1723,
       "thumb": {
         "img": "https://i.ytimg.com/vi/VGMsTaGAQ3g/default.jpg",
         "url": "https://www.youtube.com/watch?v=VGMsTaGAQ3g",
@@ -527,7 +504,30 @@
       "viewCount": "1992万",
       "likeCount": "9.9万",
       "commentCount": "1099",
-      "increment_d1": "6590"
+      "increment_d1": "6243"
+    },
+    {
+      "rank": 1723,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/QzLvXenuZ8k/default.jpg",
+        "url": "https://www.youtube.com/watch?v=QzLvXenuZ8k",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "KinKi Kids「愛のかたまり -YouTube Original Live-」",
+        "url": "https://www.youtube.com/watch?v=QzLvXenuZ8k",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "KinKi Kids",
+        "url": "https://www.youtube.com/channel/UCexu4C8IfBuC5CH7R4PLHFQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-11-03",
+      "viewCount": "1992万",
+      "likeCount": "-",
+      "commentCount": "9630",
+      "increment_d1": "3256"
     },
     {
       "rank": 1724,
@@ -547,10 +547,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-14",
-      "viewCount": "1990万",
+      "viewCount": "1991万",
       "likeCount": "-",
-      "commentCount": "6281",
-      "increment_d1": "6661"
+      "commentCount": "6284",
+      "increment_d1": "6635"
     },
     {
       "rank": 1725,
@@ -570,10 +570,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-03",
-      "viewCount": "1988万",
+      "viewCount": "1989万",
       "likeCount": "9.9万",
-      "commentCount": "1297",
-      "increment_d1": "1.91万"
+      "commentCount": "1298",
+      "increment_d1": "1.97万"
     },
     {
       "rank": 1726,
@@ -593,10 +593,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-03-14",
-      "viewCount": "1987万",
+      "viewCount": "1988万",
       "likeCount": "11.8万",
-      "commentCount": "4402",
-      "increment_d1": "3103"
+      "commentCount": "4400",
+      "increment_d1": "3003"
     },
     {
       "rank": 1727,
@@ -616,10 +616,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-03-14",
-      "viewCount": "1986万",
+      "viewCount": "1987万",
       "likeCount": "9.1万",
-      "commentCount": "3764",
-      "increment_d1": "5122"
+      "commentCount": "3767",
+      "increment_d1": "5017"
     },
     {
       "rank": 1728,
@@ -642,7 +642,7 @@
       "viewCount": "1986万",
       "likeCount": "15.7万",
       "commentCount": "5669",
-      "increment_d1": "2368"
+      "increment_d1": "2652"
     },
     {
       "rank": 1729,
@@ -664,8 +664,8 @@
       "publishedAt": "2008-12-26",
       "viewCount": "1983万",
       "likeCount": "5.1万",
-      "commentCount": "2463",
-      "increment_d1": "3422"
+      "commentCount": "2467",
+      "increment_d1": "3326"
     },
     {
       "rank": 1730,
@@ -688,7 +688,7 @@
       "viewCount": "1983万",
       "likeCount": "54.9万",
       "commentCount": "1.5万",
-      "increment_d1": "1840"
+      "increment_d1": "1742"
     },
     {
       "rank": 1731,
@@ -708,10 +708,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-06-07",
-      "viewCount": "1982万",
+      "viewCount": "1983万",
       "likeCount": "8.6万",
       "commentCount": "2917",
-      "increment_d1": "1608"
+      "increment_d1": "1924"
     },
     {
       "rank": 1732,
@@ -734,7 +734,7 @@
       "viewCount": "1982万",
       "likeCount": "19.9万",
       "commentCount": "7135",
-      "increment_d1": "2259"
+      "increment_d1": "2292"
     },
     {
       "rank": 1733,
@@ -757,7 +757,7 @@
       "viewCount": "1982万",
       "likeCount": "13.1万",
       "commentCount": "6376",
-      "increment_d1": "2812"
+      "increment_d1": "2541"
     },
     {
       "rank": 1734,
@@ -780,7 +780,7 @@
       "viewCount": "1982万",
       "likeCount": "-",
       "commentCount": "8125",
-      "increment_d1": "1887"
+      "increment_d1": "2020"
     },
     {
       "rank": 1735,
@@ -800,10 +800,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-19",
-      "viewCount": "1980万",
+      "viewCount": "1981万",
       "likeCount": "27万",
-      "commentCount": "5263",
-      "increment_d1": "1.16万"
+      "commentCount": "5264",
+      "increment_d1": "1.12万"
     },
     {
       "rank": 1736,
@@ -826,7 +826,7 @@
       "viewCount": "1979万",
       "likeCount": "20.9万",
       "commentCount": "4186",
-      "increment_d1": "3336"
+      "increment_d1": "3389"
     },
     {
       "rank": 1737,
@@ -849,7 +849,7 @@
       "viewCount": "1978万",
       "likeCount": "5.6万",
       "commentCount": "2214",
-      "increment_d1": "584"
+      "increment_d1": "711"
     },
     {
       "rank": 1738,
@@ -872,7 +872,7 @@
       "viewCount": "1975万",
       "likeCount": "16.2万",
       "commentCount": "4752",
-      "increment_d1": "2491"
+      "increment_d1": "2438"
     },
     {
       "rank": 1739,
@@ -892,36 +892,13 @@
         "target": "_blank"
       },
       "publishedAt": "2024-05-03",
-      "viewCount": "1974万",
+      "viewCount": "1975万",
       "likeCount": "-",
       "commentCount": "2.1万",
-      "increment_d1": "4822"
+      "increment_d1": "5055"
     },
     {
       "rank": 1740,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/6vRxlXHH4H8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=6vRxlXHH4H8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "TVアニメ『かぐや様は告らせたい～天才たちの恋愛頭脳戦～』オープニング映像 ♪鈴木雅之「ラブ・ドラマティック feat. 伊原六花」",
-        "url": "https://www.youtube.com/watch?v=6vRxlXHH4H8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アニプレックス チャンネル",
-        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-01-12",
-      "viewCount": "1971万",
-      "likeCount": "22.3万",
-      "commentCount": "7218",
-      "increment_d1": "3887"
-    },
-    {
-      "rank": 1741,
       "thumb": {
         "img": "https://i.ytimg.com/vi/VSucxMB_Z6k/default.jpg",
         "url": "https://www.youtube.com/watch?v=VSucxMB_Z6k",
@@ -938,10 +915,33 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-21",
-      "viewCount": "1971万",
+      "viewCount": "1972万",
       "likeCount": "13万",
       "commentCount": "1586",
-      "increment_d1": "1.11万"
+      "increment_d1": "1.06万"
+    },
+    {
+      "rank": 1741,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/6vRxlXHH4H8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=6vRxlXHH4H8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "TVアニメ『かぐや様は告らせたい～天才たちの恋愛頭脳戦～』オープニング映像 ♪鈴木雅之「ラブ・ドラマティック feat. 伊原六花」",
+        "url": "https://www.youtube.com/watch?v=6vRxlXHH4H8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "アニプレックス チャンネル",
+        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-01-12",
+      "viewCount": "1972万",
+      "likeCount": "22.4万",
+      "commentCount": "7218",
+      "increment_d1": "3813"
     },
     {
       "rank": 1742,
@@ -962,9 +962,9 @@
       },
       "publishedAt": "2022-09-06",
       "viewCount": "1971万",
-      "likeCount": "32.7万",
-      "commentCount": "3593",
-      "increment_d1": "5672"
+      "likeCount": "32.8万",
+      "commentCount": "3595",
+      "increment_d1": "6140"
     },
     {
       "rank": 1743,
@@ -987,33 +987,10 @@
       "viewCount": "1967万",
       "likeCount": "6.4万",
       "commentCount": "4373",
-      "increment_d1": "741"
+      "increment_d1": "952"
     },
     {
       "rank": 1744,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/BDGUaK0SpqA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=BDGUaK0SpqA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "OKAXILE / Choo Choo 岡村 TRAIN 2011(from EXILE LIVE TOUR 2011 TOWER OF WISH ～願いの塔～)",
-        "url": "https://www.youtube.com/watch?v=BDGUaK0SpqA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-03-07",
-      "viewCount": "1966万",
-      "likeCount": "5.5万",
-      "commentCount": "1942",
-      "increment_d1": "3351"
-    },
-    {
-      "rank": 1745,
       "thumb": {
         "img": "https://i.ytimg.com/vi/q8zIc4fxHTM/default.jpg",
         "url": "https://www.youtube.com/watch?v=q8zIc4fxHTM",
@@ -1030,10 +1007,33 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-14",
-      "viewCount": "1966万",
+      "viewCount": "1967万",
       "likeCount": "9.7万",
-      "commentCount": "2205",
-      "increment_d1": "7766"
+      "commentCount": "2206",
+      "increment_d1": "7850"
+    },
+    {
+      "rank": 1745,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/BDGUaK0SpqA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=BDGUaK0SpqA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "OKAXILE / Choo Choo 岡村 TRAIN 2011(from EXILE LIVE TOUR 2011 TOWER OF WISH ～願いの塔～)",
+        "url": "https://www.youtube.com/watch?v=BDGUaK0SpqA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-03-07",
+      "viewCount": "1967万",
+      "likeCount": "5.5万",
+      "commentCount": "1942",
+      "increment_d1": "3269"
     },
     {
       "rank": 1746,
@@ -1056,7 +1056,7 @@
       "viewCount": "1966万",
       "likeCount": "8.2万",
       "commentCount": "39",
-      "increment_d1": "780"
+      "increment_d1": "841"
     },
     {
       "rank": 1747,
@@ -1076,10 +1076,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-21",
-      "viewCount": "1965万",
+      "viewCount": "1966万",
       "likeCount": "-",
       "commentCount": "922",
-      "increment_d1": "7226"
+      "increment_d1": "7404"
     },
     {
       "rank": 1748,
@@ -1102,7 +1102,7 @@
       "viewCount": "1965万",
       "likeCount": "-",
       "commentCount": "2.6万",
-      "increment_d1": "2006"
+      "increment_d1": "1849"
     },
     {
       "rank": 1749,
@@ -1125,7 +1125,7 @@
       "viewCount": "1964万",
       "likeCount": "-",
       "commentCount": "1.5万",
-      "increment_d1": "1987"
+      "increment_d1": "1971"
     },
     {
       "rank": 1750,
@@ -1148,7 +1148,7 @@
       "viewCount": "1963万",
       "likeCount": "6万",
       "commentCount": "3447",
-      "increment_d1": "1067"
+      "increment_d1": "1013"
     }
   ]
 }

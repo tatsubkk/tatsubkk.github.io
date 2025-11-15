@@ -3,6 +3,29 @@
     {
       "rank": 1101,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/bCt-jPWd4QE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=bCt-jPWd4QE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MAN WITH A MISSION 『Remember Me』",
+        "url": "https://www.youtube.com/watch?v=bCt-jPWd4QE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-05-27",
+      "viewCount": "3157万",
+      "likeCount": "16.2万",
+      "commentCount": "4779",
+      "increment_d1": "3806"
+    },
+    {
+      "rank": 1102,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/K1Tz2yNmamI/default.jpg",
         "url": "https://www.youtube.com/watch?v=K1Tz2yNmamI",
         "target": "_blank"
@@ -18,13 +41,13 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-21",
-      "viewCount": "3153万",
+      "viewCount": "3155万",
       "likeCount": "25.1万",
       "commentCount": "4518",
-      "increment_d1": "1.41万"
+      "increment_d1": "1.33万"
     },
     {
-      "rank": 1102,
+      "rank": 1103,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Y_tUf_-Xz44/default.jpg",
         "url": "https://www.youtube.com/watch?v=Y_tUf_-Xz44",
@@ -44,30 +67,7 @@
       "viewCount": "3151万",
       "likeCount": "10.5万",
       "commentCount": "4192",
-      "increment_d1": "2169"
-    },
-    {
-      "rank": 1103,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/NLIGDjKBLY0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=NLIGDjKBLY0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "アイナ・ジ・エンド / 革命道中 - On The Way [Official Music Video]（TVアニメ『ダンダダン』第2期オープニングテーマ）",
-        "url": "https://www.youtube.com/watch?v=NLIGDjKBLY0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アイナ・ジ・エンド Official",
-        "url": "https://www.youtube.com/channel/UCFPb0Vc0Cjd3MpDOlHPQoPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-07-03",
-      "viewCount": "3151万",
-      "likeCount": "39万",
-      "commentCount": "5789",
-      "increment_d1": "18.13万"
+      "increment_d1": "2096"
     },
     {
       "rank": 1104,
@@ -90,7 +90,7 @@
       "viewCount": "3150万",
       "likeCount": "25.5万",
       "commentCount": "1.4万",
-      "increment_d1": "1725"
+      "increment_d1": "1624"
     },
     {
       "rank": 1105,
@@ -110,10 +110,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-05-01",
-      "viewCount": "3148万",
+      "viewCount": "3149万",
       "likeCount": "12.6万",
       "commentCount": "8625",
-      "increment_d1": "1.38万"
+      "increment_d1": "1.54万"
     },
     {
       "rank": 1106,
@@ -133,10 +133,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-01-25",
-      "viewCount": "3146万",
+      "viewCount": "3147万",
       "likeCount": "12.1万",
       "commentCount": "6390",
-      "increment_d1": "2555"
+      "increment_d1": "2726"
     },
     {
       "rank": 1107,
@@ -156,13 +156,36 @@
         "target": "_blank"
       },
       "publishedAt": "2011-08-18",
-      "viewCount": "3143万",
+      "viewCount": "3144万",
       "likeCount": "22.9万",
       "commentCount": "1.3万",
-      "increment_d1": "8021"
+      "increment_d1": "8095"
     },
     {
       "rank": 1108,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/yFvrbelLW5w/default.jpg",
+        "url": "https://www.youtube.com/watch?v=yFvrbelLW5w",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "DEEN「このまま君だけを奪い去りたい (DEEN The Best DX)」Music Video",
+        "url": "https://www.youtube.com/watch?v=yFvrbelLW5w",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "DEEN Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCVxiN0fbJT1PqWGIqQFZSXg",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-02-15",
+      "viewCount": "3139万",
+      "likeCount": "7万",
+      "commentCount": "3104",
+      "increment_d1": "3.34万"
+    },
+    {
+      "rank": 1109,
       "thumb": {
         "img": "https://i.ytimg.com/vi/pRG7FJobkv4/default.jpg",
         "url": "https://www.youtube.com/watch?v=pRG7FJobkv4",
@@ -182,10 +205,10 @@
       "viewCount": "3139万",
       "likeCount": "22.8万",
       "commentCount": "6756",
-      "increment_d1": "2054"
+      "increment_d1": "2047"
     },
     {
-      "rank": 1109,
+      "rank": 1110,
       "thumb": {
         "img": "https://i.ytimg.com/vi/OVaANCGC70c/default.jpg",
         "url": "https://www.youtube.com/watch?v=OVaANCGC70c",
@@ -205,30 +228,7 @@
       "viewCount": "3137万",
       "likeCount": "-",
       "commentCount": "1.2万",
-      "increment_d1": "5812"
-    },
-    {
-      "rank": 1110,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/yFvrbelLW5w/default.jpg",
-        "url": "https://www.youtube.com/watch?v=yFvrbelLW5w",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "DEEN「このまま君だけを奪い去りたい (DEEN The Best DX)」Music Video",
-        "url": "https://www.youtube.com/watch?v=yFvrbelLW5w",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "DEEN Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCVxiN0fbJT1PqWGIqQFZSXg",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-02-15",
-      "viewCount": "3136万",
-      "likeCount": "7万",
-      "commentCount": "3104",
-      "increment_d1": "3.31万"
+      "increment_d1": "5238"
     },
     {
       "rank": 1111,
@@ -251,7 +251,7 @@
       "viewCount": "3136万",
       "likeCount": "17.3万",
       "commentCount": "5351",
-      "increment_d1": "6029"
+      "increment_d1": "5386"
     },
     {
       "rank": 1112,
@@ -271,10 +271,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-04-11",
-      "viewCount": "3135万",
+      "viewCount": "3136万",
       "likeCount": "8.6万",
-      "commentCount": "3228",
-      "increment_d1": "4927"
+      "commentCount": "3230",
+      "increment_d1": "5290"
     },
     {
       "rank": 1113,
@@ -296,8 +296,8 @@
       "publishedAt": "2023-06-01",
       "viewCount": "3132万",
       "likeCount": "-",
-      "commentCount": "5.9万",
-      "increment_d1": "5643"
+      "commentCount": "6万",
+      "increment_d1": "5292"
     },
     {
       "rank": 1114,
@@ -319,8 +319,8 @@
       "publishedAt": "2015-10-05",
       "viewCount": "3131万",
       "likeCount": "19.7万",
-      "commentCount": "6632",
-      "increment_d1": "3148"
+      "commentCount": "6636",
+      "increment_d1": "3143"
     },
     {
       "rank": 1115,
@@ -343,7 +343,7 @@
       "viewCount": "3128万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "636"
+      "increment_d1": "719"
     },
     {
       "rank": 1116,
@@ -366,7 +366,7 @@
       "viewCount": "3127万",
       "likeCount": "-",
       "commentCount": "2万",
-      "increment_d1": "2973"
+      "increment_d1": "2969"
     },
     {
       "rank": 1117,
@@ -386,10 +386,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-12",
-      "viewCount": "3123万",
+      "viewCount": "3124万",
       "likeCount": "17.2万",
       "commentCount": "2633",
-      "increment_d1": "4842"
+      "increment_d1": "4638"
     },
     {
       "rank": 1118,
@@ -409,10 +409,10 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-16",
-      "viewCount": "3120万",
+      "viewCount": "3121万",
       "likeCount": "7.9万",
       "commentCount": "3294",
-      "increment_d1": "5950"
+      "increment_d1": "6670"
     },
     {
       "rank": 1119,
@@ -435,7 +435,7 @@
       "viewCount": "3120万",
       "likeCount": "12.3万",
       "commentCount": "5742",
-      "increment_d1": "768"
+      "increment_d1": "822"
     },
     {
       "rank": 1120,
@@ -458,10 +458,33 @@
       "viewCount": "3119万",
       "likeCount": "7.8万",
       "commentCount": "773",
-      "increment_d1": "5249"
+      "increment_d1": "5407"
     },
     {
       "rank": 1121,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/e19-eR6_0Lo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=e19-eR6_0Lo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow Man｢キッタキッテナイ｣Rec Ver.",
+        "url": "https://www.youtube.com/watch?v=e19-eR6_0Lo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Snow Man",
+        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-08-31",
+      "viewCount": "3118万",
+      "likeCount": "-",
+      "commentCount": "1.1万",
+      "increment_d1": "5521"
+    },
+    {
+      "rank": 1122,
       "thumb": {
         "img": "https://i.ytimg.com/vi/BPrslgZKkRI/default.jpg",
         "url": "https://www.youtube.com/watch?v=BPrslgZKkRI",
@@ -480,31 +503,8 @@
       "publishedAt": "2014-07-02",
       "viewCount": "3117万",
       "likeCount": "9.9万",
-      "commentCount": "3662",
-      "increment_d1": "1980"
-    },
-    {
-      "rank": 1122,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/e19-eR6_0Lo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=e19-eR6_0Lo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow Man｢キッタキッテナイ｣Rec Ver.",
-        "url": "https://www.youtube.com/watch?v=e19-eR6_0Lo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Snow Man",
-        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-08-31",
-      "viewCount": "3117万",
-      "likeCount": "-",
-      "commentCount": "1.1万",
-      "increment_d1": "6153"
+      "commentCount": "3663",
+      "increment_d1": "1824"
     },
     {
       "rank": 1123,
@@ -524,10 +524,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-07-26",
-      "viewCount": "3113万",
+      "viewCount": "3114万",
       "likeCount": "18.5万",
       "commentCount": "-",
-      "increment_d1": "4319"
+      "increment_d1": "4323"
     },
     {
       "rank": 1124,
@@ -550,7 +550,7 @@
       "viewCount": "3112万",
       "likeCount": "20.9万",
       "commentCount": "1.1万",
-      "increment_d1": "4411"
+      "increment_d1": "4511"
     },
     {
       "rank": 1125,
@@ -573,7 +573,7 @@
       "viewCount": "3111万",
       "likeCount": "13.6万",
       "commentCount": "1.9万",
-      "increment_d1": "1327"
+      "increment_d1": "1334"
     },
     {
       "rank": 1126,
@@ -596,7 +596,7 @@
       "viewCount": "3111万",
       "likeCount": "9.3万",
       "commentCount": "3452",
-      "increment_d1": "1350"
+      "increment_d1": "1189"
     },
     {
       "rank": 1127,
@@ -616,10 +616,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-10-29",
-      "viewCount": "3110万",
+      "viewCount": "3111万",
       "likeCount": "-",
-      "commentCount": "7893",
-      "increment_d1": "2130"
+      "commentCount": "7892",
+      "increment_d1": "2240"
     },
     {
       "rank": 1128,
@@ -639,10 +639,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-02-26",
-      "viewCount": "3108万",
+      "viewCount": "3109万",
       "likeCount": "18万",
       "commentCount": "3.5万",
-      "increment_d1": "2217"
+      "increment_d1": "2073"
     },
     {
       "rank": 1129,
@@ -662,10 +662,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-09",
-      "viewCount": "3092万",
+      "viewCount": "3093万",
       "likeCount": "9.2万",
-      "commentCount": "3087",
-      "increment_d1": "8818"
+      "commentCount": "3088",
+      "increment_d1": "8590"
     },
     {
       "rank": 1130,
@@ -685,13 +685,36 @@
         "target": "_blank"
       },
       "publishedAt": "2009-07-01",
-      "viewCount": "3092万",
+      "viewCount": "3093万",
       "likeCount": "12.8万",
       "commentCount": "5260",
-      "increment_d1": "6220"
+      "increment_d1": "6132"
     },
     {
       "rank": 1131,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/VZBU8LvZ91Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=VZBU8LvZ91Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "いきものがかり 『ありがとう』Music Video",
+        "url": "https://www.youtube.com/watch?v=VZBU8LvZ91Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "いきものがかり",
+        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-03-26",
+      "viewCount": "3091万",
+      "likeCount": "13.3万",
+      "commentCount": "8598",
+      "increment_d1": "1.61万"
+    },
+    {
+      "rank": 1132,
       "thumb": {
         "img": "https://i.ytimg.com/vi/QBmTGlUmgpg/default.jpg",
         "url": "https://www.youtube.com/watch?v=QBmTGlUmgpg",
@@ -711,10 +734,10 @@
       "viewCount": "3090万",
       "likeCount": "22.3万",
       "commentCount": "5602",
-      "increment_d1": "1644"
+      "increment_d1": "1634"
     },
     {
-      "rank": 1132,
+      "rank": 1133,
       "thumb": {
         "img": "https://i.ytimg.com/vi/7Q28SCQyqtM/default.jpg",
         "url": "https://www.youtube.com/watch?v=7Q28SCQyqtM",
@@ -734,30 +757,7 @@
       "viewCount": "3090万",
       "likeCount": "22.5万",
       "commentCount": "5255",
-      "increment_d1": "4454"
-    },
-    {
-      "rank": 1133,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/VZBU8LvZ91Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=VZBU8LvZ91Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "いきものがかり 『ありがとう』Music Video",
-        "url": "https://www.youtube.com/watch?v=VZBU8LvZ91Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "いきものがかり",
-        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-03-26",
-      "viewCount": "3089万",
-      "likeCount": "13.3万",
-      "commentCount": "8593",
-      "increment_d1": "1.57万"
+      "increment_d1": "4212"
     },
     {
       "rank": 1134,
@@ -780,7 +780,7 @@
       "viewCount": "3080万",
       "likeCount": "4.1万",
       "commentCount": "1439",
-      "increment_d1": "2244"
+      "increment_d1": "2312"
     },
     {
       "rank": 1135,
@@ -800,10 +800,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-04-30",
-      "viewCount": "3074万",
+      "viewCount": "3075万",
       "likeCount": "56.7万",
       "commentCount": "1.7万",
-      "increment_d1": "4095"
+      "increment_d1": "3947"
     },
     {
       "rank": 1136,
@@ -826,7 +826,7 @@
       "viewCount": "3062万",
       "likeCount": "-",
       "commentCount": "7739",
-      "increment_d1": "2401"
+      "increment_d1": "2521"
     },
     {
       "rank": 1137,
@@ -849,7 +849,7 @@
       "viewCount": "3060万",
       "likeCount": "-",
       "commentCount": "1.5万",
-      "increment_d1": "7941"
+      "increment_d1": "7535"
     },
     {
       "rank": 1138,
@@ -872,7 +872,7 @@
       "viewCount": "3047万",
       "likeCount": "8.9万",
       "commentCount": "4820",
-      "increment_d1": "4528"
+      "increment_d1": "4587"
     },
     {
       "rank": 1139,
@@ -892,9 +892,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-02-09",
-      "viewCount": "3040万",
+      "viewCount": "3041万",
       "likeCount": "18.2万",
-      "commentCount": "6750",
+      "commentCount": "6752",
       "increment_d1": "1.79万"
     },
     {
@@ -918,7 +918,7 @@
       "viewCount": "3036万",
       "likeCount": "20.1万",
       "commentCount": "1.2万",
-      "increment_d1": "2116"
+      "increment_d1": "2141"
     },
     {
       "rank": 1141,
@@ -940,8 +940,8 @@
       "publishedAt": "2012-08-08",
       "viewCount": "3036万",
       "likeCount": "6.4万",
-      "commentCount": "2285",
-      "increment_d1": "2979"
+      "commentCount": "2286",
+      "increment_d1": "2908"
     },
     {
       "rank": 1142,
@@ -964,7 +964,7 @@
       "viewCount": "3034万",
       "likeCount": "12.3万",
       "commentCount": "3781",
-      "increment_d1": "2853"
+      "increment_d1": "2782"
     },
     {
       "rank": 1143,
@@ -984,10 +984,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-03-31",
-      "viewCount": "3032万",
+      "viewCount": "3033万",
       "likeCount": "8.9万",
       "commentCount": "3611",
-      "increment_d1": "3855"
+      "increment_d1": "3945"
     },
     {
       "rank": 1144,
@@ -1007,10 +1007,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-23",
-      "viewCount": "3031万",
+      "viewCount": "3033万",
       "likeCount": "8.9万",
       "commentCount": "4235",
-      "increment_d1": "1.52万"
+      "increment_d1": "1.46万"
     },
     {
       "rank": 1145,
@@ -1030,10 +1030,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-24",
-      "viewCount": "3018万",
+      "viewCount": "3024万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "5.59万"
+      "increment_d1": "6.1万"
     },
     {
       "rank": 1146,
@@ -1053,10 +1053,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-08-23",
-      "viewCount": "3014万",
+      "viewCount": "3015万",
       "likeCount": "10.7万",
-      "commentCount": "4842",
-      "increment_d1": "1.15万"
+      "commentCount": "4851",
+      "increment_d1": "1.45万"
     },
     {
       "rank": 1147,
@@ -1076,13 +1076,36 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-06",
-      "viewCount": "3013万",
+      "viewCount": "3014万",
       "likeCount": "21.8万",
       "commentCount": "4536",
-      "increment_d1": "1.48万"
+      "increment_d1": "1.49万"
     },
     {
       "rank": 1148,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/M-Eyhjkepy0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=M-Eyhjkepy0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "米津玄師 Kenshi Yonezu - BOW AND ARROW",
+        "url": "https://www.youtube.com/watch?v=M-Eyhjkepy0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-03-05",
+      "viewCount": "3012万",
+      "likeCount": "46.3万",
+      "commentCount": "2.6万",
+      "increment_d1": "4.37万"
+    },
+    {
+      "rank": 1149,
       "thumb": {
         "img": "https://i.ytimg.com/vi/RST6ctNtoDw/default.jpg",
         "url": "https://www.youtube.com/watch?v=RST6ctNtoDw",
@@ -1102,10 +1125,10 @@
       "viewCount": "3010万",
       "likeCount": "18.7万",
       "commentCount": "7328",
-      "increment_d1": "2502"
+      "increment_d1": "2523"
     },
     {
-      "rank": 1149,
+      "rank": 1150,
       "thumb": {
         "img": "https://i.ytimg.com/vi/1Xc9VpB4jaE/default.jpg",
         "url": "https://www.youtube.com/watch?v=1Xc9VpB4jaE",
@@ -1125,30 +1148,7 @@
       "viewCount": "3009万",
       "likeCount": "13.3万",
       "commentCount": "8228",
-      "increment_d1": "1210"
-    },
-    {
-      "rank": 1150,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/MVcDG8JcDtY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=MVcDG8JcDtY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow Man「タペストリー」Dance Practice",
-        "url": "https://www.youtube.com/watch?v=MVcDG8JcDtY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Snow Man",
-        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-02-22",
-      "viewCount": "3008万",
-      "likeCount": "-",
-      "commentCount": "1万",
-      "increment_d1": "8994"
+      "increment_d1": "1217"
     }
   ]
 }
