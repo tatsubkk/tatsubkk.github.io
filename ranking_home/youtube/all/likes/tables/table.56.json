@@ -19,7 +19,7 @@
       },
       "publishedAt": "2010-10-18",
       "viewCount": "1044万",
-      "likeCount": "3.23万",
+      "likeCount": "3.24万",
       "commentCount": "1988"
     },
     {
@@ -84,9 +84,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-01",
-      "viewCount": "1670万",
+      "viewCount": "1671万",
       "likeCount": "3.17万",
-      "commentCount": "2775"
+      "commentCount": "2777"
     },
     {
       "rank": 2755,
@@ -128,9 +128,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-15",
-      "viewCount": "1329万",
+      "viewCount": "1331万",
       "likeCount": "3.16万",
-      "commentCount": "1638"
+      "commentCount": "1639"
     },
     {
       "rank": 2757,
@@ -194,7 +194,7 @@
         "target": "_blank"
       },
       "publishedAt": "2008-05-26",
-      "viewCount": "1921万",
+      "viewCount": "1922万",
       "likeCount": "3.14万",
       "commentCount": "1253"
     },
@@ -238,7 +238,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-28",
-      "viewCount": "1147万",
+      "viewCount": "1148万",
       "likeCount": "3.11万",
       "commentCount": "1482"
     },
@@ -260,7 +260,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-01-11",
-      "viewCount": "2549万",
+      "viewCount": "2550万",
       "likeCount": "3.1万",
       "commentCount": "-"
     },
@@ -399,6 +399,28 @@
     {
       "rank": 2769,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/QLJxdkl5wJI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=QLJxdkl5wJI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "スピッツ / 遥か",
+        "url": "https://www.youtube.com/watch?v=QLJxdkl5wJI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "spitzclips",
+        "url": "https://www.youtube.com/channel/UCEAOVoVVtVBhcn7vLIQIkDA",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-04-16",
+      "viewCount": "1534万",
+      "likeCount": "3.05万",
+      "commentCount": "1343"
+    },
+    {
+      "rank": 2770,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/c-0NdHV_1r4/default.jpg",
         "url": "https://www.youtube.com/watch?v=c-0NdHV_1r4",
         "target": "_blank"
@@ -417,28 +439,6 @@
       "viewCount": "1140万",
       "likeCount": "3.05万",
       "commentCount": "2595"
-    },
-    {
-      "rank": 2770,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/QLJxdkl5wJI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=QLJxdkl5wJI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "スピッツ / 遥か",
-        "url": "https://www.youtube.com/watch?v=QLJxdkl5wJI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "spitzclips",
-        "url": "https://www.youtube.com/channel/UCEAOVoVVtVBhcn7vLIQIkDA",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-04-16",
-      "viewCount": "1534万",
-      "likeCount": "3.05万",
-      "commentCount": "1342"
     },
     {
       "rank": 2771,
@@ -480,9 +480,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-03-24",
-      "viewCount": "1213万",
-      "likeCount": "3.03万",
-      "commentCount": "925"
+      "viewCount": "1214万",
+      "likeCount": "3.04万",
+      "commentCount": "926"
     },
     {
       "rank": 2773,
@@ -504,32 +504,10 @@
       "publishedAt": "2009-06-18",
       "viewCount": "1019万",
       "likeCount": "3.03万",
-      "commentCount": "825"
-    },
-    {
-      "rank": 2774,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/fnS0IH9nIBU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=fnS0IH9nIBU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Tiara「さよならをキミに... feat. Spontania」 MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=fnS0IH9nIBU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "crownrecord",
-        "url": "https://www.youtube.com/channel/UCkbTHtZb_16UZBSXVdFpT0Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-05-19",
-      "viewCount": "1280万",
-      "likeCount": "3.02万",
       "commentCount": "826"
     },
     {
-      "rank": 2775,
+      "rank": 2774,
       "thumb": {
         "img": "https://i.ytimg.com/vi/fMoaAlLlSc8/default.jpg",
         "url": "https://www.youtube.com/watch?v=fMoaAlLlSc8",
@@ -546,9 +524,31 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-29",
-      "viewCount": "2021万",
+      "viewCount": "2022万",
       "likeCount": "3.02万",
       "commentCount": "54"
+    },
+    {
+      "rank": 2775,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/fnS0IH9nIBU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=fnS0IH9nIBU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Tiara「さよならをキミに... feat. Spontania」 MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=fnS0IH9nIBU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "crownrecord",
+        "url": "https://www.youtube.com/channel/UCkbTHtZb_16UZBSXVdFpT0Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-05-19",
+      "viewCount": "1281万",
+      "likeCount": "3.02万",
+      "commentCount": "827"
     },
     {
       "rank": 2776,
@@ -614,7 +614,7 @@
       "publishedAt": "2016-10-26",
       "viewCount": "1026万",
       "likeCount": "2.99万",
-      "commentCount": "891"
+      "commentCount": "890"
     },
     {
       "rank": 2779,
@@ -700,7 +700,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-05-09",
-      "viewCount": "1259万",
+      "viewCount": "1260万",
       "likeCount": "2.9万",
       "commentCount": "1588"
     },
@@ -744,9 +744,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
-      "viewCount": "1120万",
-      "likeCount": "2.85万",
-      "commentCount": "64"
+      "viewCount": "1121万",
+      "likeCount": "2.86万",
+      "commentCount": "66"
     },
     {
       "rank": 2785,
@@ -942,7 +942,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-11-07",
-      "viewCount": "1214万",
+      "viewCount": "1215万",
       "likeCount": "2.8万",
       "commentCount": "556"
     },
@@ -988,7 +988,7 @@
       "publishedAt": "2020-08-18",
       "viewCount": "1061万",
       "likeCount": "2.77万",
-      "commentCount": "1547"
+      "commentCount": "1546"
     },
     {
       "rank": 2796,

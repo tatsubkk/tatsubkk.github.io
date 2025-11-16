@@ -40,7 +40,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-04",
-      "viewCount": "5242万",
+      "viewCount": "5245万",
       "likeCount": "72.7万",
       "commentCount": "1.43万"
     },
@@ -62,7 +62,7 @@
         "target": "_blank"
       },
       "publishedAt": "2008-12-26",
-      "viewCount": "4163万",
+      "viewCount": "4164万",
       "likeCount": "29.1万",
       "commentCount": "1.43万"
     },
@@ -84,7 +84,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-26",
-      "viewCount": "1111万",
+      "viewCount": "1112万",
       "likeCount": "-",
       "commentCount": "1.43万"
     },
@@ -128,7 +128,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-05-20",
-      "viewCount": "8087万",
+      "viewCount": "8088万",
       "likeCount": "69.7万",
       "commentCount": "1.42万"
     },
@@ -150,7 +150,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-01-30",
-      "viewCount": "6601万",
+      "viewCount": "6602万",
       "likeCount": "33.7万",
       "commentCount": "1.42万"
     },
@@ -194,8 +194,8 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-06",
-      "viewCount": "1億2095万",
-      "likeCount": "91.2万",
+      "viewCount": "1億2098万",
+      "likeCount": "91.3万",
       "commentCount": "1.41万"
     },
     {
@@ -238,7 +238,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-11-08",
-      "viewCount": "3455万",
+      "viewCount": "3456万",
       "likeCount": "46.1万",
       "commentCount": "1.41万"
     },
@@ -282,78 +282,12 @@
         "target": "_blank"
       },
       "publishedAt": "2012-02-19",
-      "viewCount": "7799万",
+      "viewCount": "7801万",
       "likeCount": "35.7万",
       "commentCount": "1.4万"
     },
     {
       "rank": 714,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/G8oY6pC0kgA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=G8oY6pC0kgA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SixTONES – ここに帰ってきて [YouTube ver.]",
-        "url": "https://www.youtube.com/watch?v=G8oY6pC0kgA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SixTONES",
-        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-05-10",
-      "viewCount": "1465万",
-      "likeCount": "10.2万",
-      "commentCount": "1.4万"
-    },
-    {
-      "rank": 715,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ocqCmfw145A/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ocqCmfw145A",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BTS (防弾少年団) 'BOY IN LUV -Japanese Ver.-' Official MV",
-        "url": "https://www.youtube.com/watch?v=ocqCmfw145A",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BTS JAPAN OFFICIAL",
-        "url": "https://www.youtube.com/channel/UCiPNSjTu0sFVUUFfhPCdEsA",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-07-04",
-      "viewCount": "2793万",
-      "likeCount": "-",
-      "commentCount": "1.4万"
-    },
-    {
-      "rank": 716,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/qnX2CdOBcDI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=qnX2CdOBcDI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ハチ - ドーナツホール , HACHI - DONUT HOLE",
-        "url": "https://www.youtube.com/watch?v=qnX2CdOBcDI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-10-28",
-      "viewCount": "6703万",
-      "likeCount": "43.3万",
-      "commentCount": "1.4万"
-    },
-    {
-      "rank": 717,
       "thumb": {
         "img": "https://i.ytimg.com/vi/OzbYcxx4LwY/default.jpg",
         "url": "https://www.youtube.com/watch?v=OzbYcxx4LwY",
@@ -375,6 +309,72 @@
       "commentCount": "1.4万"
     },
     {
+      "rank": 715,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/G8oY6pC0kgA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=G8oY6pC0kgA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SixTONES – ここに帰ってきて [YouTube ver.]",
+        "url": "https://www.youtube.com/watch?v=G8oY6pC0kgA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SixTONES",
+        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-05-10",
+      "viewCount": "1465万",
+      "likeCount": "10.2万",
+      "commentCount": "1.4万"
+    },
+    {
+      "rank": 716,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ocqCmfw145A/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ocqCmfw145A",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BTS (防弾少年団) 'BOY IN LUV -Japanese Ver.-' Official MV",
+        "url": "https://www.youtube.com/watch?v=ocqCmfw145A",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BTS JAPAN OFFICIAL",
+        "url": "https://www.youtube.com/channel/UCiPNSjTu0sFVUUFfhPCdEsA",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-07-04",
+      "viewCount": "2793万",
+      "likeCount": "-",
+      "commentCount": "1.4万"
+    },
+    {
+      "rank": 717,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/qnX2CdOBcDI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=qnX2CdOBcDI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ハチ - ドーナツホール , HACHI - DONUT HOLE",
+        "url": "https://www.youtube.com/watch?v=qnX2CdOBcDI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-10-28",
+      "viewCount": "6703万",
+      "likeCount": "43.3万",
+      "commentCount": "1.4万"
+    },
+    {
       "rank": 718,
       "thumb": {
         "img": "https://i.ytimg.com/vi/v2SlpjCz7uE/default.jpg",
@@ -392,9 +392,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-21",
-      "viewCount": "1億969万",
+      "viewCount": "1億971万",
       "likeCount": "28.9万",
-      "commentCount": "1.39万"
+      "commentCount": "1.4万"
     },
     {
       "rank": 719,
@@ -436,7 +436,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-07-31",
-      "viewCount": "7672万",
+      "viewCount": "7673万",
       "likeCount": "41.5万",
       "commentCount": "1.39万"
     },
@@ -524,7 +524,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-24",
-      "viewCount": "7666万",
+      "viewCount": "7668万",
       "likeCount": "51.8万",
       "commentCount": "1.38万"
     },
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-07-19",
-      "viewCount": "6891万",
+      "viewCount": "6893万",
       "likeCount": "69.7万",
       "commentCount": "1.38万"
     },
@@ -568,7 +568,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-06-12",
-      "viewCount": "7921万",
+      "viewCount": "7922万",
       "likeCount": "66.1万",
       "commentCount": "1.38万"
     },
@@ -590,8 +590,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-12-24",
-      "viewCount": "1億4522万",
-      "likeCount": "76.4万",
+      "viewCount": "1億4537万",
+      "likeCount": "76.5万",
       "commentCount": "1.38万"
     },
     {
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-01-12",
-      "viewCount": "7102万",
+      "viewCount": "7103万",
       "likeCount": "33.1万",
       "commentCount": "1.38万"
     },
@@ -678,7 +678,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-07",
-      "viewCount": "4935万",
+      "viewCount": "4937万",
       "likeCount": "56.8万",
       "commentCount": "1.38万"
     },
@@ -700,7 +700,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-18",
-      "viewCount": "8933万",
+      "viewCount": "8936万",
       "likeCount": "63.5万",
       "commentCount": "1.37万"
     },
@@ -766,7 +766,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-06-30",
-      "viewCount": "4398万",
+      "viewCount": "4399万",
       "likeCount": "38.1万",
       "commentCount": "1.37万"
     },
@@ -810,7 +810,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-01-26",
-      "viewCount": "7152万",
+      "viewCount": "7153万",
       "likeCount": "43.7万",
       "commentCount": "1.37万"
     },
@@ -832,7 +832,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-02",
-      "viewCount": "5519万",
+      "viewCount": "5522万",
       "likeCount": "55.5万",
       "commentCount": "1.37万"
     },
@@ -854,7 +854,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-05",
-      "viewCount": "7140万",
+      "viewCount": "7142万",
       "likeCount": "68万",
       "commentCount": "1.37万"
     },
@@ -920,8 +920,8 @@
         "target": "_blank"
       },
       "publishedAt": "2015-03-06",
-      "viewCount": "1356万",
-      "likeCount": "37.1万",
+      "viewCount": "1357万",
+      "likeCount": "37.2万",
       "commentCount": "1.36万"
     },
     {
@@ -964,7 +964,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-12-20",
-      "viewCount": "1524万",
+      "viewCount": "1525万",
       "likeCount": "23.6万",
       "commentCount": "1.35万"
     },
@@ -986,7 +986,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-01",
-      "viewCount": "2753万",
+      "viewCount": "2754万",
       "likeCount": "-",
       "commentCount": "1.35万"
     },
@@ -1008,8 +1008,8 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-22",
-      "viewCount": "1907万",
-      "likeCount": "11.8万",
+      "viewCount": "1910万",
+      "likeCount": "11.9万",
       "commentCount": "1.35万"
     },
     {
@@ -1030,8 +1030,8 @@
         "target": "_blank"
       },
       "publishedAt": "2015-08-05",
-      "viewCount": "9355万",
-      "likeCount": "53.1万",
+      "viewCount": "9357万",
+      "likeCount": "53.2万",
       "commentCount": "1.35万"
     },
     {
@@ -1052,8 +1052,8 @@
         "target": "_blank"
       },
       "publishedAt": "2019-07-30",
-      "viewCount": "5262万",
-      "likeCount": "56万",
+      "viewCount": "5264万",
+      "likeCount": "56.1万",
       "commentCount": "1.35万"
     },
     {
@@ -1074,7 +1074,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-07-28",
-      "viewCount": "8190万",
+      "viewCount": "8193万",
       "likeCount": "-",
       "commentCount": "1.34万"
     },

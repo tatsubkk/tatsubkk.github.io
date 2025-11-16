@@ -1,7 +1,7 @@
 {
   "rows": [
     {
-      "rank": 1100,
+      "rank": 1101,
       "thumb": {
         "img": "https://i.ytimg.com/vi/VdKyMg-FhU4/default.jpg",
         "url": "https://www.youtube.com/watch?v=VdKyMg-FhU4",
@@ -18,7 +18,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-10-22",
-      "viewCount": "4746万",
+      "viewCount": "4747万",
       "likeCount": "24.7万",
       "commentCount": "8920"
     },
@@ -40,9 +40,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-08-19",
-      "viewCount": "4375万",
+      "viewCount": "4378万",
       "likeCount": "23.1万",
-      "commentCount": "8917"
+      "commentCount": "8916"
     },
     {
       "rank": 1103,
@@ -62,9 +62,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-05-20",
-      "viewCount": "2821万",
+      "viewCount": "2823万",
       "likeCount": "19.6万",
-      "commentCount": "8900"
+      "commentCount": "8901"
     },
     {
       "rank": 1104,
@@ -86,7 +86,7 @@
       "publishedAt": "2013-02-20",
       "viewCount": "2365万",
       "likeCount": "26.9万",
-      "commentCount": "8888"
+      "commentCount": "8889"
     },
     {
       "rank": 1105,
@@ -106,7 +106,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-20",
-      "viewCount": "2738万",
+      "viewCount": "2739万",
       "likeCount": "52万",
       "commentCount": "8874"
     },
@@ -128,9 +128,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-07-18",
-      "viewCount": "2733万",
+      "viewCount": "2734万",
       "likeCount": "31.1万",
-      "commentCount": "8854"
+      "commentCount": "8855"
     },
     {
       "rank": 1107,
@@ -152,7 +152,7 @@
       "publishedAt": "2021-07-07",
       "viewCount": "2169万",
       "likeCount": "23.3万",
-      "commentCount": "8849"
+      "commentCount": "8850"
     },
     {
       "rank": 1108,
@@ -177,7 +177,7 @@
       "commentCount": "8837"
     },
     {
-      "rank": 1109,
+      "rank": 1108,
       "thumb": {
         "img": "https://i.ytimg.com/vi/FqWBQv7h_3I/default.jpg",
         "url": "https://www.youtube.com/watch?v=FqWBQv7h_3I",
@@ -194,9 +194,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-11-18",
-      "viewCount": "1314万",
+      "viewCount": "1316万",
       "likeCount": "11.9万",
-      "commentCount": "8833"
+      "commentCount": "8837"
     },
     {
       "rank": 1110,
@@ -216,9 +216,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-05",
-      "viewCount": "4408万",
+      "viewCount": "4409万",
       "likeCount": "38万",
-      "commentCount": "8831"
+      "commentCount": "8832"
     },
     {
       "rank": 1111,
@@ -240,7 +240,7 @@
       "publishedAt": "2025-02-16",
       "viewCount": "1066万",
       "likeCount": "9.3万",
-      "commentCount": "8810"
+      "commentCount": "8814"
     },
     {
       "rank": 1112,
@@ -260,12 +260,34 @@
         "target": "_blank"
       },
       "publishedAt": "2024-08-22",
-      "viewCount": "1385万",
+      "viewCount": "1387万",
       "likeCount": "16.1万",
-      "commentCount": "8806"
+      "commentCount": "8808"
     },
     {
       "rank": 1113,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1wxTksLZ1Mw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1wxTksLZ1Mw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "レミオロメン - 粉雪",
+        "url": "https://www.youtube.com/watch?v=1wxTksLZ1Mw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "レミオロメン",
+        "url": "https://www.youtube.com/channel/UCnwV0i25fH8pBrzuJ3WrHTw",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-12-15",
+      "viewCount": "7062万",
+      "likeCount": "22万",
+      "commentCount": "8800"
+    },
+    {
+      "rank": 1114,
       "thumb": {
         "img": "https://i.ytimg.com/vi/bQqLKCg-UgA/default.jpg",
         "url": "https://www.youtube.com/watch?v=bQqLKCg-UgA",
@@ -285,28 +307,6 @@
       "viewCount": "3793万",
       "likeCount": "14.2万",
       "commentCount": "8794"
-    },
-    {
-      "rank": 1114,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1wxTksLZ1Mw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1wxTksLZ1Mw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "レミオロメン - 粉雪",
-        "url": "https://www.youtube.com/watch?v=1wxTksLZ1Mw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "レミオロメン",
-        "url": "https://www.youtube.com/channel/UCnwV0i25fH8pBrzuJ3WrHTw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-12-15",
-      "viewCount": "7057万",
-      "likeCount": "22万",
-      "commentCount": "8792"
     },
     {
       "rank": 1115,
@@ -348,9 +348,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-12",
-      "viewCount": "1656万",
+      "viewCount": "1657万",
       "likeCount": "22.8万",
-      "commentCount": "8756"
+      "commentCount": "8758"
     },
     {
       "rank": 1117,
@@ -370,9 +370,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-11-09",
-      "viewCount": "6539万",
+      "viewCount": "6540万",
       "likeCount": "39.5万",
-      "commentCount": "8747"
+      "commentCount": "8751"
     },
     {
       "rank": 1118,
@@ -392,9 +392,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-23",
-      "viewCount": "2174万",
+      "viewCount": "2175万",
       "likeCount": "-",
-      "commentCount": "8743"
+      "commentCount": "8744"
     },
     {
       "rank": 1119,
@@ -414,9 +414,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-05-30",
-      "viewCount": "4562万",
+      "viewCount": "4564万",
       "likeCount": "25.9万",
-      "commentCount": "8720"
+      "commentCount": "8723"
     },
     {
       "rank": 1120,
@@ -436,9 +436,9 @@
         "target": "_blank"
       },
       "publishedAt": "2018-02-02",
-      "viewCount": "4148万",
-      "likeCount": "34.8万",
-      "commentCount": "8667"
+      "viewCount": "4150万",
+      "likeCount": "34.9万",
+      "commentCount": "8678"
     },
     {
       "rank": 1121,
@@ -458,9 +458,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-06-02",
-      "viewCount": "6070万",
-      "likeCount": "60万",
-      "commentCount": "8664"
+      "viewCount": "6074万",
+      "likeCount": "60.1万",
+      "commentCount": "8663"
     },
     {
       "rank": 1122,
@@ -480,9 +480,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-06-07",
-      "viewCount": "4118万",
+      "viewCount": "4119万",
       "likeCount": "25.7万",
-      "commentCount": "8659"
+      "commentCount": "8662"
     },
     {
       "rank": 1123,
@@ -568,12 +568,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-20",
-      "viewCount": "4048万",
-      "likeCount": "19.1万",
-      "commentCount": "8639"
+      "viewCount": "4050万",
+      "likeCount": "19.2万",
+      "commentCount": "8643"
     },
     {
-      "rank": 1126,
+      "rank": 1127,
       "thumb": {
         "img": "https://i.ytimg.com/vi/omk3tMOIJZo/default.jpg",
         "url": "https://www.youtube.com/watch?v=omk3tMOIJZo",
@@ -590,7 +590,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-05-21",
-      "viewCount": "1321万",
+      "viewCount": "1322万",
       "likeCount": "10.9万",
       "commentCount": "8639"
     },
@@ -612,56 +612,12 @@
         "target": "_blank"
       },
       "publishedAt": "2015-05-01",
-      "viewCount": "3149万",
+      "viewCount": "3151万",
       "likeCount": "12.6万",
-      "commentCount": "8625"
+      "commentCount": "8627"
     },
     {
       "rank": 1129,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/vyUMYYc8lxU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=vyUMYYc8lxU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SiM - KiLLiNG ME (OFFICIAL VIDEO)",
-        "url": "https://www.youtube.com/watch?v=vyUMYYc8lxU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "gil soundworks",
-        "url": "https://www.youtube.com/channel/UCI8OpwyikQhEDKXvwDgemJA",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-09-22",
-      "viewCount": "4010万",
-      "likeCount": "21.4万",
-      "commentCount": "8622"
-    },
-    {
-      "rank": 1129,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/hPRibiiPJHs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=hPRibiiPJHs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Smile Up ! Project  [Johnny's Festival ～Thank you 2021 Hello 2022～]Digest",
-        "url": "https://www.youtube.com/watch?v=hPRibiiPJHs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "FAMILY CLUB",
-        "url": "https://www.youtube.com/channel/UCfwnhCPBIlbe7XMRV5WKbrQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-11-05",
-      "viewCount": "1072万",
-      "likeCount": "-",
-      "commentCount": "8622"
-    },
-    {
-      "rank": 1131,
       "thumb": {
         "img": "https://i.ytimg.com/vi/kQvT37OzkP8/default.jpg",
         "url": "https://www.youtube.com/watch?v=kQvT37OzkP8",
@@ -678,34 +634,12 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-11",
-      "viewCount": "2980万",
+      "viewCount": "2981万",
       "likeCount": "21.8万",
-      "commentCount": "8620"
+      "commentCount": "8624"
     },
     {
-      "rank": 1132,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/MPywGQPLJPo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=MPywGQPLJPo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV】可愛くてごめん／高嶺のなでしこ【HoneyWorks】",
-        "url": "https://www.youtube.com/watch?v=MPywGQPLJPo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "高嶺のなでしこ Official",
-        "url": "https://www.youtube.com/channel/UCoR4zZDvWvUIqgEWz4HS-sA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-11-18",
-      "viewCount": "2511万",
-      "likeCount": "25.4万",
-      "commentCount": "8614"
-    },
-    {
-      "rank": 1133,
+      "rank": 1130,
       "thumb": {
         "img": "https://i.ytimg.com/vi/HmkbBdD8044/default.jpg",
         "url": "https://www.youtube.com/watch?v=HmkbBdD8044",
@@ -722,12 +656,100 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-07",
-      "viewCount": "2520万",
-      "likeCount": "58.9万",
-      "commentCount": "8613"
+      "viewCount": "2524万",
+      "likeCount": "59万",
+      "commentCount": "8623"
+    },
+    {
+      "rank": 1131,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/hPRibiiPJHs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=hPRibiiPJHs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Smile Up ! Project  [Johnny's Festival ～Thank you 2021 Hello 2022～]Digest",
+        "url": "https://www.youtube.com/watch?v=hPRibiiPJHs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "FAMILY CLUB",
+        "url": "https://www.youtube.com/channel/UCfwnhCPBIlbe7XMRV5WKbrQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-11-05",
+      "viewCount": "1073万",
+      "likeCount": "-",
+      "commentCount": "8622"
+    },
+    {
+      "rank": 1131,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/vyUMYYc8lxU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=vyUMYYc8lxU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SiM - KiLLiNG ME (OFFICIAL VIDEO)",
+        "url": "https://www.youtube.com/watch?v=vyUMYYc8lxU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "gil soundworks",
+        "url": "https://www.youtube.com/channel/UCI8OpwyikQhEDKXvwDgemJA",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-09-22",
+      "viewCount": "4011万",
+      "likeCount": "21.4万",
+      "commentCount": "8622"
+    },
+    {
+      "rank": 1133,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/MPywGQPLJPo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=MPywGQPLJPo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV】可愛くてごめん／高嶺のなでしこ【HoneyWorks】",
+        "url": "https://www.youtube.com/watch?v=MPywGQPLJPo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "高嶺のなでしこ Official",
+        "url": "https://www.youtube.com/channel/UCoR4zZDvWvUIqgEWz4HS-sA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-11-18",
+      "viewCount": "2512万",
+      "likeCount": "25.4万",
+      "commentCount": "8616"
     },
     {
       "rank": 1134,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/VZBU8LvZ91Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=VZBU8LvZ91Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "いきものがかり 『ありがとう』Music Video",
+        "url": "https://www.youtube.com/watch?v=VZBU8LvZ91Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "いきものがかり",
+        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-03-26",
+      "viewCount": "3092万",
+      "likeCount": "13.3万",
+      "commentCount": "8600"
+    },
+    {
+      "rank": 1135,
       "thumb": {
         "img": "https://i.ytimg.com/vi/pCC6qbAnX00/default.jpg",
         "url": "https://www.youtube.com/watch?v=pCC6qbAnX00",
@@ -749,28 +771,6 @@
       "commentCount": "8599"
     },
     {
-      "rank": 1135,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/VZBU8LvZ91Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=VZBU8LvZ91Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "いきものがかり 『ありがとう』Music Video",
-        "url": "https://www.youtube.com/watch?v=VZBU8LvZ91Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "いきものがかり",
-        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-03-26",
-      "viewCount": "3091万",
-      "likeCount": "13.3万",
-      "commentCount": "8598"
-    },
-    {
       "rank": 1136,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vAXds0PD1mc/default.jpg",
@@ -790,7 +790,7 @@
       "publishedAt": "2017-12-01",
       "viewCount": "1893万",
       "likeCount": "16.3万",
-      "commentCount": "8592"
+      "commentCount": "8593"
     },
     {
       "rank": 1137,
@@ -832,7 +832,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-05-17",
-      "viewCount": "3469万",
+      "viewCount": "3470万",
       "likeCount": "18.7万",
       "commentCount": "8584"
     },
@@ -854,7 +854,7 @@
         "target": "_blank"
       },
       "publishedAt": "2009-04-22",
-      "viewCount": "5420万",
+      "viewCount": "5422万",
       "likeCount": "19.8万",
       "commentCount": "8573"
     },
@@ -898,7 +898,7 @@
         "target": "_blank"
       },
       "publishedAt": "2009-03-27",
-      "viewCount": "5018万",
+      "viewCount": "5019万",
       "likeCount": "14.7万",
       "commentCount": "8543"
     },
@@ -920,12 +920,34 @@
         "target": "_blank"
       },
       "publishedAt": "2019-07-30",
-      "viewCount": "3920万",
+      "viewCount": "3921万",
       "likeCount": "29.5万",
-      "commentCount": "8525"
+      "commentCount": "8524"
     },
     {
       "rank": 1143,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ksAJIsl047w/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ksAJIsl047w",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Cö shu Nie – asphyxia (Official Video) / “東京喰種トーキョーグール:re” OP",
+        "url": "https://www.youtube.com/watch?v=ksAJIsl047w",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-04-03",
+      "viewCount": "2273万",
+      "likeCount": "23.2万",
+      "commentCount": "8500"
+    },
+    {
+      "rank": 1144,
       "thumb": {
         "img": "https://i.ytimg.com/vi/fWe0jcsd41Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=fWe0jcsd41Q",
@@ -947,28 +969,6 @@
       "commentCount": "8499"
     },
     {
-      "rank": 1144,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ksAJIsl047w/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ksAJIsl047w",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Cö shu Nie – asphyxia (Official Video) / “東京喰種トーキョーグール:re” OP",
-        "url": "https://www.youtube.com/watch?v=ksAJIsl047w",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-04-03",
-      "viewCount": "2273万",
-      "likeCount": "23.2万",
-      "commentCount": "8498"
-    },
-    {
       "rank": 1145,
       "thumb": {
         "img": "https://i.ytimg.com/vi/g8ENtHe2hMU/default.jpg",
@@ -986,9 +986,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-10-24",
-      "viewCount": "5440万",
+      "viewCount": "5442万",
       "likeCount": "59.9万",
-      "commentCount": "8483"
+      "commentCount": "8484"
     },
     {
       "rank": 1146,
@@ -1052,9 +1052,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-14",
-      "viewCount": "4293万",
+      "viewCount": "4295万",
       "likeCount": "43.8万",
-      "commentCount": "8451"
+      "commentCount": "8452"
     },
     {
       "rank": 1149,
@@ -1074,9 +1074,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-15",
-      "viewCount": "1億5475万",
+      "viewCount": "1億5478万",
       "likeCount": "225万",
-      "commentCount": "8440"
+      "commentCount": "8443"
     },
     {
       "rank": 1150,
@@ -1096,9 +1096,9 @@
         "target": "_blank"
       },
       "publishedAt": "2016-09-15",
-      "viewCount": "6571万",
+      "viewCount": "6572万",
       "likeCount": "51.8万",
-      "commentCount": "8438"
+      "commentCount": "8439"
     }
   ]
 }
