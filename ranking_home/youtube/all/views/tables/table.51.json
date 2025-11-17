@@ -18,10 +18,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-20",
-      "viewCount": "1380万",
+      "viewCount": "1381万",
       "likeCount": "10.5万",
       "commentCount": "1346",
-      "increment_d1": "6986"
+      "increment_d1": "6526"
     },
     {
       "rank": 2502,
@@ -41,36 +41,13 @@
         "target": "_blank"
       },
       "publishedAt": "2010-05-11",
-      "viewCount": "1379万",
+      "viewCount": "1380万",
       "likeCount": "3.7万",
       "commentCount": "1509",
-      "increment_d1": "1014"
+      "increment_d1": "1178"
     },
     {
       "rank": 2503,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/yIWtQsH1P8Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=yIWtQsH1P8Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ケツメイシ『お二人Summer』",
-        "url": "https://www.youtube.com/watch?v=yIWtQsH1P8Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ケツメイシ",
-        "url": "https://www.youtube.com/channel/UChlz62qIkNouRTXbwJhYyRg",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-07-23",
-      "viewCount": "1378万",
-      "likeCount": "1.6万",
-      "commentCount": "548",
-      "increment_d1": "705"
-    },
-    {
-      "rank": 2504,
       "thumb": {
         "img": "https://i.ytimg.com/vi/rzXxaJ4fOcc/default.jpg",
         "url": "https://www.youtube.com/watch?v=rzXxaJ4fOcc",
@@ -90,7 +67,30 @@
       "viewCount": "1378万",
       "likeCount": "13.4万",
       "commentCount": "-",
-      "increment_d1": "1.07万"
+      "increment_d1": "7922"
+    },
+    {
+      "rank": 2504,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/yIWtQsH1P8Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=yIWtQsH1P8Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ケツメイシ『お二人Summer』",
+        "url": "https://www.youtube.com/watch?v=yIWtQsH1P8Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ケツメイシ",
+        "url": "https://www.youtube.com/channel/UChlz62qIkNouRTXbwJhYyRg",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-07-23",
+      "viewCount": "1378万",
+      "likeCount": "1.6万",
+      "commentCount": "548",
+      "increment_d1": "564"
     },
     {
       "rank": 2505,
@@ -113,7 +113,7 @@
       "viewCount": "1377万",
       "likeCount": "-",
       "commentCount": "2.3万",
-      "increment_d1": "705"
+      "increment_d1": "724"
     },
     {
       "rank": 2506,
@@ -135,8 +135,8 @@
       "publishedAt": "2015-11-12",
       "viewCount": "1377万",
       "likeCount": "6.2万",
-      "commentCount": "3070",
-      "increment_d1": "361"
+      "commentCount": "3071",
+      "increment_d1": "275"
     },
     {
       "rank": 2507,
@@ -159,33 +159,10 @@
       "viewCount": "1376万",
       "likeCount": "11.1万",
       "commentCount": "4479",
-      "increment_d1": "567"
+      "increment_d1": "695"
     },
     {
       "rank": 2508,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/VZKMaFR2mtU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=VZKMaFR2mtU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[Official Music Video] Perfume 「FAKE IT」",
-        "url": "https://www.youtube.com/watch?v=VZKMaFR2mtU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Perfume",
-        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-09-11",
-      "viewCount": "1375万",
-      "likeCount": "5.8万",
-      "commentCount": "2240",
-      "increment_d1": "898"
-    },
-    {
-      "rank": 2509,
       "thumb": {
         "img": "https://i.ytimg.com/vi/UI2Ybr9e7KY/default.jpg",
         "url": "https://www.youtube.com/watch?v=UI2Ybr9e7KY",
@@ -205,7 +182,30 @@
       "viewCount": "1375万",
       "likeCount": "12.1万",
       "commentCount": "2065",
-      "increment_d1": "3544"
+      "increment_d1": "3303"
+    },
+    {
+      "rank": 2509,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/VZKMaFR2mtU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=VZKMaFR2mtU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[Official Music Video] Perfume 「FAKE IT」",
+        "url": "https://www.youtube.com/watch?v=VZKMaFR2mtU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Perfume",
+        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-09-11",
+      "viewCount": "1375万",
+      "likeCount": "5.8万",
+      "commentCount": "2241",
+      "increment_d1": "839"
     },
     {
       "rank": 2510,
@@ -228,7 +228,7 @@
       "viewCount": "1374万",
       "likeCount": "3.3万",
       "commentCount": "2061",
-      "increment_d1": "382"
+      "increment_d1": "462"
     },
     {
       "rank": 2511,
@@ -251,7 +251,7 @@
       "viewCount": "1373万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "1343"
+      "increment_d1": "1271"
     },
     {
       "rank": 2512,
@@ -271,10 +271,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-31",
-      "viewCount": "1372万",
+      "viewCount": "1373万",
       "likeCount": "-",
       "commentCount": "790",
-      "increment_d1": "6245"
+      "increment_d1": "5969"
     },
     {
       "rank": 2513,
@@ -297,7 +297,7 @@
       "viewCount": "1370万",
       "likeCount": "11.6万",
       "commentCount": "9352",
-      "increment_d1": "607"
+      "increment_d1": "580"
     },
     {
       "rank": 2514,
@@ -320,7 +320,7 @@
       "viewCount": "1370万",
       "likeCount": "9.7万",
       "commentCount": "1.8万",
-      "increment_d1": "1647"
+      "increment_d1": "1566"
     },
     {
       "rank": 2515,
@@ -343,7 +343,7 @@
       "viewCount": "1369万",
       "likeCount": "10.6万",
       "commentCount": "3551",
-      "increment_d1": "2539"
+      "increment_d1": "2405"
     },
     {
       "rank": 2516,
@@ -366,7 +366,7 @@
       "viewCount": "1368万",
       "likeCount": "50.9万",
       "commentCount": "2.4万",
-      "increment_d1": "146"
+      "increment_d1": "198"
     },
     {
       "rank": 2517,
@@ -386,10 +386,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-06-16",
-      "viewCount": "1367万",
+      "viewCount": "1368万",
       "likeCount": "5.4万",
       "commentCount": "2065",
-      "increment_d1": "1782"
+      "increment_d1": "1653"
     },
     {
       "rank": 2518,
@@ -412,7 +412,7 @@
       "viewCount": "1367万",
       "likeCount": "9.5万",
       "commentCount": "1507",
-      "increment_d1": "2434"
+      "increment_d1": "2228"
     },
     {
       "rank": 2519,
@@ -435,10 +435,33 @@
       "viewCount": "1367万",
       "likeCount": "5.4万",
       "commentCount": "2065",
-      "increment_d1": "1994"
+      "increment_d1": "1868"
     },
     {
       "rank": 2520,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/X97TUJ13-YM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=X97TUJ13-YM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "夜明けと蛍/n-buna(strings arrange ver covered byあれくん）",
+        "url": "https://www.youtube.com/watch?v=X97TUJ13-YM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "あれくん ",
+        "url": "https://www.youtube.com/channel/UCPkhvJShYNk2dJoIcne66BQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-12-25",
+      "viewCount": "1367万",
+      "likeCount": "8.9万",
+      "commentCount": "1279",
+      "increment_d1": "1.83万"
+    },
+    {
+      "rank": 2521,
       "thumb": {
         "img": "https://i.ytimg.com/vi/wCN9WliV-ew/default.jpg",
         "url": "https://www.youtube.com/watch?v=wCN9WliV-ew",
@@ -455,13 +478,13 @@
         "target": "_blank"
       },
       "publishedAt": "2021-10-06",
-      "viewCount": "1366万",
+      "viewCount": "1367万",
       "likeCount": "15.3万",
-      "commentCount": "3961",
-      "increment_d1": "2697"
+      "commentCount": "3962",
+      "increment_d1": "2627"
     },
     {
-      "rank": 2521,
+      "rank": 2522,
       "thumb": {
         "img": "https://i.ytimg.com/vi/35FbwCIxT0g/default.jpg",
         "url": "https://www.youtube.com/watch?v=35FbwCIxT0g",
@@ -480,34 +503,34 @@
       "publishedAt": "2014-06-25",
       "viewCount": "1366万",
       "likeCount": "9.7万",
-      "commentCount": "5234",
-      "increment_d1": "1373"
-    },
-    {
-      "rank": 2522,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/X97TUJ13-YM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=X97TUJ13-YM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "夜明けと蛍/n-buna(strings arrange ver covered byあれくん）",
-        "url": "https://www.youtube.com/watch?v=X97TUJ13-YM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "あれくん ",
-        "url": "https://www.youtube.com/channel/UCPkhvJShYNk2dJoIcne66BQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-12-25",
-      "viewCount": "1365万",
-      "likeCount": "8.9万",
-      "commentCount": "1278",
-      "increment_d1": "1.86万"
+      "commentCount": "5236",
+      "increment_d1": "1307"
     },
     {
       "rank": 2523,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/6Ul-wFnquno/default.jpg",
+        "url": "https://www.youtube.com/watch?v=6Ul-wFnquno",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – umbrella【LIVE from “Atlantis”】",
+        "url": "https://www.youtube.com/watch?v=6Ul-wFnquno",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-01-12",
+      "viewCount": "1365万",
+      "likeCount": "8.6万",
+      "commentCount": "2581",
+      "increment_d1": "2.01万"
+    },
+    {
+      "rank": 2524,
       "thumb": {
         "img": "https://i.ytimg.com/vi/NEb9MTNk3y4/default.jpg",
         "url": "https://www.youtube.com/watch?v=NEb9MTNk3y4",
@@ -526,11 +549,11 @@
       "publishedAt": "2013-12-10",
       "viewCount": "1364万",
       "likeCount": "6.9万",
-      "commentCount": "2843",
-      "increment_d1": "2689"
+      "commentCount": "2844",
+      "increment_d1": "2409"
     },
     {
-      "rank": 2524,
+      "rank": 2525,
       "thumb": {
         "img": "https://i.ytimg.com/vi/hXUszaFhc2Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=hXUszaFhc2Q",
@@ -550,10 +573,10 @@
       "viewCount": "1364万",
       "likeCount": "-",
       "commentCount": "1.6万",
-      "increment_d1": "1144"
+      "increment_d1": "1286"
     },
     {
-      "rank": 2525,
+      "rank": 2526,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ShmbjdP4eoI/default.jpg",
         "url": "https://www.youtube.com/watch?v=ShmbjdP4eoI",
@@ -573,10 +596,10 @@
       "viewCount": "1363万",
       "likeCount": "11.2万",
       "commentCount": "5.4万",
-      "increment_d1": "1337"
+      "increment_d1": "1299"
     },
     {
-      "rank": 2526,
+      "rank": 2527,
       "thumb": {
         "img": "https://i.ytimg.com/vi/kTkXe60AP8M/default.jpg",
         "url": "https://www.youtube.com/watch?v=kTkXe60AP8M",
@@ -596,10 +619,10 @@
       "viewCount": "1363万",
       "likeCount": "7.7万",
       "commentCount": "2279",
-      "increment_d1": "536"
+      "increment_d1": "462"
     },
     {
-      "rank": 2527,
+      "rank": 2528,
       "thumb": {
         "img": "https://i.ytimg.com/vi/FeKAfqxinEE/default.jpg",
         "url": "https://www.youtube.com/watch?v=FeKAfqxinEE",
@@ -619,30 +642,7 @@
       "viewCount": "1363万",
       "likeCount": "3.1万",
       "commentCount": "2012",
-      "increment_d1": "278"
-    },
-    {
-      "rank": 2528,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/6Ul-wFnquno/default.jpg",
-        "url": "https://www.youtube.com/watch?v=6Ul-wFnquno",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – umbrella【LIVE from “Atlantis”】",
-        "url": "https://www.youtube.com/watch?v=6Ul-wFnquno",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-01-12",
-      "viewCount": "1363万",
-      "likeCount": "8.6万",
-      "commentCount": "2579",
-      "increment_d1": "2.06万"
+      "increment_d1": "244"
     },
     {
       "rank": 2529,
@@ -664,8 +664,8 @@
       "publishedAt": "2017-01-26",
       "viewCount": "1363万",
       "likeCount": "6万",
-      "commentCount": "2973",
-      "increment_d1": "2389"
+      "commentCount": "2975",
+      "increment_d1": "2292"
     },
     {
       "rank": 2530,
@@ -688,7 +688,7 @@
       "viewCount": "1362万",
       "likeCount": "6.6万",
       "commentCount": "2335",
-      "increment_d1": "5966"
+      "increment_d1": "5179"
     },
     {
       "rank": 2531,
@@ -708,10 +708,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-06-18",
-      "viewCount": "1361万",
+      "viewCount": "1362万",
       "likeCount": "11.5万",
-      "commentCount": "2253",
-      "increment_d1": "8461"
+      "commentCount": "2255",
+      "increment_d1": "7744"
     },
     {
       "rank": 2532,
@@ -731,10 +731,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-01-19",
-      "viewCount": "1361万",
+      "viewCount": "1362万",
       "likeCount": "11.6万",
       "commentCount": "1120",
-      "increment_d1": "4596"
+      "increment_d1": "4455"
     },
     {
       "rank": 2533,
@@ -756,8 +756,8 @@
       "publishedAt": "2021-04-14",
       "viewCount": "1361万",
       "likeCount": "9.5万",
-      "commentCount": "3352",
-      "increment_d1": "3426"
+      "commentCount": "3353",
+      "increment_d1": "2790"
     },
     {
       "rank": 2534,
@@ -780,7 +780,7 @@
       "viewCount": "1361万",
       "likeCount": "3.7万",
       "commentCount": "1355",
-      "increment_d1": "4598"
+      "increment_d1": "3988"
     },
     {
       "rank": 2535,
@@ -803,7 +803,7 @@
       "viewCount": "1360万",
       "likeCount": "5万",
       "commentCount": "2110",
-      "increment_d1": "722"
+      "increment_d1": "658"
     },
     {
       "rank": 2536,
@@ -826,7 +826,7 @@
       "viewCount": "1359万",
       "likeCount": "36.9万",
       "commentCount": "1.9万",
-      "increment_d1": "607"
+      "increment_d1": "589"
     },
     {
       "rank": 2537,
@@ -846,13 +846,36 @@
         "target": "_blank"
       },
       "publishedAt": "2015-04-02",
-      "viewCount": "1358万",
+      "viewCount": "1359万",
       "likeCount": "9.4万",
       "commentCount": "1569",
-      "increment_d1": "1208"
+      "increment_d1": "1255"
     },
     {
       "rank": 2538,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/fnyzHd2PoS0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=fnyzHd2PoS0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Sonic Frontiers & ONE OK ROCK - \"Vandalize\" Music Video",
+        "url": "https://www.youtube.com/watch?v=fnyzHd2PoS0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ONE OK ROCK",
+        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-11-17",
+      "viewCount": "1357万",
+      "likeCount": "17.4万",
+      "commentCount": "3968",
+      "increment_d1": "5433"
+    },
+    {
+      "rank": 2539,
       "thumb": {
         "img": "https://i.ytimg.com/vi/U9PVGYf_haE/default.jpg",
         "url": "https://www.youtube.com/watch?v=U9PVGYf_haE",
@@ -872,30 +895,7 @@
       "viewCount": "1357万",
       "likeCount": "37.2万",
       "commentCount": "1.4万",
-      "increment_d1": "3037"
-    },
-    {
-      "rank": 2539,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/fnyzHd2PoS0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=fnyzHd2PoS0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Sonic Frontiers & ONE OK ROCK - \"Vandalize\" Music Video",
-        "url": "https://www.youtube.com/watch?v=fnyzHd2PoS0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ONE OK ROCK",
-        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-11-17",
-      "viewCount": "1357万",
-      "likeCount": "17.4万",
-      "commentCount": "3967",
-      "increment_d1": "5614"
+      "increment_d1": "2699"
     },
     {
       "rank": 2540,
@@ -917,8 +917,8 @@
       "publishedAt": "2021-11-12",
       "viewCount": "1355万",
       "likeCount": "-",
-      "commentCount": "6770",
-      "increment_d1": "360"
+      "commentCount": "6769",
+      "increment_d1": "314"
     },
     {
       "rank": 2541,
@@ -941,10 +941,33 @@
       "viewCount": "1354万",
       "likeCount": "-",
       "commentCount": "7719",
-      "increment_d1": "660"
+      "increment_d1": "715"
     },
     {
       "rank": 2542,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/WcaSSvtHFeM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=WcaSSvtHFeM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "再会 / Vaundy：MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=WcaSSvtHFeM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Vaundy",
+        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-07-18",
+      "viewCount": "1352万",
+      "likeCount": "7.5万",
+      "commentCount": "1841",
+      "increment_d1": "1.71万"
+    },
+    {
+      "rank": 2543,
       "thumb": {
         "img": "https://i.ytimg.com/vi/EEWVJ4RZ4Xg/default.jpg",
         "url": "https://www.youtube.com/watch?v=EEWVJ4RZ4Xg",
@@ -963,11 +986,11 @@
       "publishedAt": "2022-12-03",
       "viewCount": "1352万",
       "likeCount": "11万",
-      "commentCount": "5453",
-      "increment_d1": "3112"
+      "commentCount": "5445",
+      "increment_d1": "2711"
     },
     {
-      "rank": 2543,
+      "rank": 2544,
       "thumb": {
         "img": "https://i.ytimg.com/vi/VVaNq9uSJgY/default.jpg",
         "url": "https://www.youtube.com/watch?v=VVaNq9uSJgY",
@@ -987,30 +1010,7 @@
       "viewCount": "1351万",
       "likeCount": "13.1万",
       "commentCount": "2505",
-      "increment_d1": "631"
-    },
-    {
-      "rank": 2544,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/WcaSSvtHFeM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=WcaSSvtHFeM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "再会 / Vaundy：MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=WcaSSvtHFeM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Vaundy",
-        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-07-18",
-      "viewCount": "1351万",
-      "likeCount": "7.4万",
-      "commentCount": "1840",
-      "increment_d1": "1.7万"
+      "increment_d1": "583"
     },
     {
       "rank": 2545,
@@ -1033,7 +1033,7 @@
       "viewCount": "1351万",
       "likeCount": "6.2万",
       "commentCount": "1719",
-      "increment_d1": "1058"
+      "increment_d1": "981"
     },
     {
       "rank": 2546,
@@ -1056,7 +1056,7 @@
       "viewCount": "1351万",
       "likeCount": "11.9万",
       "commentCount": "1657",
-      "increment_d1": "685"
+      "increment_d1": "730"
     },
     {
       "rank": 2547,
@@ -1076,10 +1076,10 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-16",
-      "viewCount": "1350万",
+      "viewCount": "1351万",
       "likeCount": "3.4万",
       "commentCount": "1609",
-      "increment_d1": "2013"
+      "increment_d1": "2168"
     },
     {
       "rank": 2548,
@@ -1101,11 +1101,34 @@
       "publishedAt": "2014-04-01",
       "viewCount": "1350万",
       "likeCount": "4.7万",
-      "commentCount": "2571",
-      "increment_d1": "3920"
+      "commentCount": "2573",
+      "increment_d1": "3395"
     },
     {
       "rank": 2549,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/boq4EJv5YvM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=boq4EJv5YvM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "『01(ZERO ICHI)』Official MV",
+        "url": "https://www.youtube.com/watch?v=boq4EJv5YvM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "女王蜂 / QUEEN BEE official YouTube channel",
+        "url": "https://www.youtube.com/channel/UCWYODUHcJbtt1NK0px4grYg",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-10-20",
+      "viewCount": "1350万",
+      "likeCount": "10.4万",
+      "commentCount": "1392",
+      "increment_d1": "6394"
+    },
+    {
+      "rank": 2550,
       "thumb": {
         "img": "https://i.ytimg.com/vi/WSUGASFlypY/default.jpg",
         "url": "https://www.youtube.com/watch?v=WSUGASFlypY",
@@ -1125,30 +1148,7 @@
       "viewCount": "1350万",
       "likeCount": "7.3万",
       "commentCount": "3177",
-      "increment_d1": "543"
-    },
-    {
-      "rank": 2550,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/boq4EJv5YvM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=boq4EJv5YvM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "『01(ZERO ICHI)』Official MV",
-        "url": "https://www.youtube.com/watch?v=boq4EJv5YvM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "女王蜂 / QUEEN BEE official YouTube channel",
-        "url": "https://www.youtube.com/channel/UCWYODUHcJbtt1NK0px4grYg",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-10-20",
-      "viewCount": "1349万",
-      "likeCount": "10.4万",
-      "commentCount": "1389",
-      "increment_d1": "6677"
+      "increment_d1": "576"
     }
   ]
 }

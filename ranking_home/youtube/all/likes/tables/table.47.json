@@ -3,6 +3,28 @@
     {
       "rank": 2301,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/vrBXu-VbB-Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=vrBXu-VbB-Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【OFFICIAL】Shuta Sueyoshi feat. ISSA / Over “Quartzer”",
+        "url": "https://www.youtube.com/watch?v=vrBXu-VbB-Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-09-01",
+      "viewCount": "1160万",
+      "likeCount": "6.77万",
+      "commentCount": "3736"
+    },
+    {
+      "rank": 2302,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/lBFI99Y14mc/default.jpg",
         "url": "https://www.youtube.com/watch?v=lBFI99Y14mc",
         "target": "_blank"
@@ -23,28 +45,6 @@
       "commentCount": "1537"
     },
     {
-      "rank": 2302,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/f-3ManAlBS0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=f-3ManAlBS0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "山下達郎「RECIPE (レシピ )」　Edit Version",
-        "url": "https://www.youtube.com/watch?v=f-3ManAlBS0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Warner Music Japan",
-        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-11-26",
-      "viewCount": "1113万",
-      "likeCount": "6.77万",
-      "commentCount": "1852"
-    },
-    {
       "rank": 2303,
       "thumb": {
         "img": "https://i.ytimg.com/vi/BUG9r-s56II/default.jpg",
@@ -62,8 +62,8 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-25",
-      "viewCount": "1141万",
-      "likeCount": "6.75万",
+      "viewCount": "1142万",
+      "likeCount": "6.76万",
       "commentCount": "1075"
     },
     {
@@ -108,7 +108,7 @@
       "publishedAt": "2022-12-01",
       "viewCount": "1158万",
       "likeCount": "6.73万",
-      "commentCount": "9549"
+      "commentCount": "9547"
     },
     {
       "rank": 2306,
@@ -218,7 +218,7 @@
       "publishedAt": "2018-07-06",
       "viewCount": "1497万",
       "likeCount": "6.71万",
-      "commentCount": "3751"
+      "commentCount": "3750"
     },
     {
       "rank": 2311,
@@ -240,7 +240,7 @@
       "publishedAt": "2017-07-02",
       "viewCount": "1021万",
       "likeCount": "6.71万",
-      "commentCount": "1011"
+      "commentCount": "1012"
     },
     {
       "rank": 2312,
@@ -304,9 +304,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-09-26",
-      "viewCount": "1296万",
-      "likeCount": "6.66万",
-      "commentCount": "541"
+      "viewCount": "1297万",
+      "likeCount": "6.67万",
+      "commentCount": "542"
     },
     {
       "rank": 2315,
@@ -326,9 +326,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-09-26",
-      "viewCount": "1270万",
-      "likeCount": "6.65万",
-      "commentCount": "722"
+      "viewCount": "1271万",
+      "likeCount": "6.66万",
+      "commentCount": "725"
     },
     {
       "rank": 2316,
@@ -348,7 +348,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-06-29",
-      "viewCount": "1246万",
+      "viewCount": "1247万",
       "likeCount": "6.63万",
       "commentCount": "1573"
     },
@@ -414,12 +414,34 @@
         "target": "_blank"
       },
       "publishedAt": "2013-01-25",
-      "viewCount": "1435万",
-      "likeCount": "6.59万",
-      "commentCount": "4210"
+      "viewCount": "1436万",
+      "likeCount": "6.6万",
+      "commentCount": "4211"
     },
     {
       "rank": 2320,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/smH_qPRe3XM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=smH_qPRe3XM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "RADWIMPS - マニフェスト [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=smH_qPRe3XM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "RADWIMPS",
+        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-06-15",
+      "viewCount": "1758万",
+      "likeCount": "6.58万",
+      "commentCount": "4468"
+    },
+    {
+      "rank": 2321,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Q1Xzw12qMgk/default.jpg",
         "url": "https://www.youtube.com/watch?v=Q1Xzw12qMgk",
@@ -439,28 +461,6 @@
       "viewCount": "1022万",
       "likeCount": "6.58万",
       "commentCount": "1778"
-    },
-    {
-      "rank": 2321,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/smH_qPRe3XM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=smH_qPRe3XM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "RADWIMPS - マニフェスト [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=smH_qPRe3XM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "RADWIMPS",
-        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-06-15",
-      "viewCount": "1758万",
-      "likeCount": "6.57万",
-      "commentCount": "4459"
     },
     {
       "rank": 2322,
@@ -524,7 +524,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-06-20",
-      "viewCount": "6880万",
+      "viewCount": "6882万",
       "likeCount": "6.55万",
       "commentCount": "-"
     },
@@ -548,7 +548,7 @@
       "publishedAt": "2012-11-07",
       "viewCount": "1791万",
       "likeCount": "6.54万",
-      "commentCount": "2575"
+      "commentCount": "2574"
     },
     {
       "rank": 2326,
@@ -591,8 +591,8 @@
       },
       "publishedAt": "2013-03-24",
       "viewCount": "1775万",
-      "likeCount": "6.52万",
-      "commentCount": "3311"
+      "likeCount": "6.53万",
+      "commentCount": "3312"
     },
     {
       "rank": 2328,
@@ -634,9 +634,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-11-30",
-      "viewCount": "2037万",
+      "viewCount": "2038万",
       "likeCount": "6.49万",
-      "commentCount": "3482"
+      "commentCount": "3483"
     },
     {
       "rank": 2330,
@@ -680,7 +680,7 @@
       "publishedAt": "2018-12-25",
       "viewCount": "1915万",
       "likeCount": "6.45万",
-      "commentCount": "4784"
+      "commentCount": "4783"
     },
     {
       "rank": 2332,
@@ -702,7 +702,7 @@
       "publishedAt": "2010-08-31",
       "viewCount": "3235万",
       "likeCount": "6.45万",
-      "commentCount": "2739"
+      "commentCount": "2740"
     },
     {
       "rank": 2333,
@@ -722,7 +722,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-09",
-      "viewCount": "1017万",
+      "viewCount": "1018万",
       "likeCount": "6.44万",
       "commentCount": "2886"
     },
@@ -744,9 +744,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-26",
-      "viewCount": "1262万",
+      "viewCount": "1263万",
       "likeCount": "6.44万",
-      "commentCount": "1934"
+      "commentCount": "1935"
     },
     {
       "rank": 2335,
@@ -773,6 +773,28 @@
     {
       "rank": 2336,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/OzGVz1ClxIc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=OzGVz1ClxIc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow halation",
+        "url": "https://www.youtube.com/watch?v=OzGVz1ClxIc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "μ's - Topic",
+        "url": "https://www.youtube.com/channel/UCLLrOsGIMTOVN8pbXvMGz4g",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-09-17",
+      "viewCount": "1126万",
+      "likeCount": "6.43万",
+      "commentCount": "534"
+    },
+    {
+      "rank": 2337,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/-jQtbbeWro8/default.jpg",
         "url": "https://www.youtube.com/watch?v=-jQtbbeWro8",
         "target": "_blank"
@@ -793,28 +815,6 @@
       "commentCount": "4373"
     },
     {
-      "rank": 2337,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/OzGVz1ClxIc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=OzGVz1ClxIc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow halation",
-        "url": "https://www.youtube.com/watch?v=OzGVz1ClxIc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "μ's - Topic",
-        "url": "https://www.youtube.com/channel/UCLLrOsGIMTOVN8pbXvMGz4g",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-09-17",
-      "viewCount": "1125万",
-      "likeCount": "6.42万",
-      "commentCount": "532"
-    },
-    {
       "rank": 2338,
       "thumb": {
         "img": "https://i.ytimg.com/vi/H8a2k0cGmew/default.jpg",
@@ -832,9 +832,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-08-01",
-      "viewCount": "1592万",
+      "viewCount": "1593万",
       "likeCount": "6.42万",
-      "commentCount": "4275"
+      "commentCount": "4276"
     },
     {
       "rank": 2339,
@@ -878,7 +878,7 @@
       "publishedAt": "2011-01-14",
       "viewCount": "1558万",
       "likeCount": "6.41万",
-      "commentCount": "4386"
+      "commentCount": "4387"
     },
     {
       "rank": 2341,
@@ -898,7 +898,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-16",
-      "viewCount": "2091万",
+      "viewCount": "2092万",
       "likeCount": "6.4万",
       "commentCount": "2688"
     },
@@ -922,7 +922,7 @@
       "publishedAt": "2016-08-02",
       "viewCount": "1048万",
       "likeCount": "6.4万",
-      "commentCount": "4047"
+      "commentCount": "4049"
     },
     {
       "rank": 2343,
@@ -942,9 +942,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-01-25",
-      "viewCount": "1557万",
+      "viewCount": "1558万",
       "likeCount": "6.4万",
-      "commentCount": "4446"
+      "commentCount": "4445"
     },
     {
       "rank": 2344,
@@ -1008,9 +1008,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-04-24",
-      "viewCount": "2314万",
+      "viewCount": "2315万",
       "likeCount": "6.39万",
-      "commentCount": "2533"
+      "commentCount": "2534"
     },
     {
       "rank": 2347,
@@ -1032,10 +1032,10 @@
       "publishedAt": "2022-08-04",
       "viewCount": "1548万",
       "likeCount": "6.38万",
-      "commentCount": "1504"
+      "commentCount": "1506"
     },
     {
-      "rank": 2348,
+      "rank": 2347,
       "thumb": {
         "img": "https://i.ytimg.com/vi/I_Na3ZUUooM/default.jpg",
         "url": "https://www.youtube.com/watch?v=I_Na3ZUUooM",
@@ -1076,7 +1076,7 @@
       "publishedAt": "2023-01-10",
       "viewCount": "1236万",
       "likeCount": "6.38万",
-      "commentCount": "1215"
+      "commentCount": "1216"
     },
     {
       "rank": 2350,

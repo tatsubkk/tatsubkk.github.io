@@ -62,7 +62,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-01-25",
-      "viewCount": "1524万",
+      "viewCount": "1525万",
       "likeCount": "10.89万",
       "commentCount": "2037"
     },
@@ -91,6 +91,28 @@
     {
       "rank": 1805,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/znX2lhAiuxM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=znX2lhAiuxM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV】アイドルライフスターターパック / iLiFE! 【コール動画】",
+        "url": "https://www.youtube.com/watch?v=znX2lhAiuxM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "iLiFE!【あいらいふ】",
+        "url": "https://www.youtube.com/channel/UChVflUz2J_jaaqYjXqvpmQA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-06-01",
+      "viewCount": "1255万",
+      "likeCount": "10.86万",
+      "commentCount": "2008"
+    },
+    {
+      "rank": 1806,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/c9kyYxSfS-A/default.jpg",
         "url": "https://www.youtube.com/watch?v=c9kyYxSfS-A",
         "target": "_blank"
@@ -107,29 +129,7 @@
       },
       "publishedAt": "2023-12-30",
       "viewCount": "1017万",
-      "likeCount": "10.85万",
-      "commentCount": "2006"
-    },
-    {
-      "rank": 1806,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/znX2lhAiuxM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=znX2lhAiuxM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV】アイドルライフスターターパック / iLiFE! 【コール動画】",
-        "url": "https://www.youtube.com/watch?v=znX2lhAiuxM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "iLiFE!【あいらいふ】",
-        "url": "https://www.youtube.com/channel/UChVflUz2J_jaaqYjXqvpmQA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-06-01",
-      "viewCount": "1254万",
-      "likeCount": "10.85万",
+      "likeCount": "10.86万",
       "commentCount": "2006"
     },
     {
@@ -172,9 +172,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-02-20",
-      "viewCount": "3211万",
+      "viewCount": "3212万",
       "likeCount": "10.82万",
-      "commentCount": "4310"
+      "commentCount": "4311"
     },
     {
       "rank": 1809,
@@ -195,8 +195,8 @@
       },
       "publishedAt": "2017-06-30",
       "viewCount": "1268万",
-      "likeCount": "10.81万",
-      "commentCount": "2610"
+      "likeCount": "10.82万",
+      "commentCount": "2611"
     },
     {
       "rank": 1810,
@@ -245,28 +245,6 @@
     {
       "rank": 1812,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/PE91nvpM5_U/default.jpg",
-        "url": "https://www.youtube.com/watch?v=PE91nvpM5_U",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "恋色に咲け／CHiCO with HoneyWorks",
-        "url": "https://www.youtube.com/watch?v=PE91nvpM5_U",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-03-25",
-      "viewCount": "1792万",
-      "likeCount": "10.79万",
-      "commentCount": "5679"
-    },
-    {
-      "rank": 1813,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/_A2th9RSL4U/default.jpg",
         "url": "https://www.youtube.com/watch?v=_A2th9RSL4U",
         "target": "_blank"
@@ -282,9 +260,31 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-14",
-      "viewCount": "3525万",
-      "likeCount": "10.79万",
+      "viewCount": "3526万",
+      "likeCount": "10.8万",
       "commentCount": "1327"
+    },
+    {
+      "rank": 1813,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/PE91nvpM5_U/default.jpg",
+        "url": "https://www.youtube.com/watch?v=PE91nvpM5_U",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "恋色に咲け／CHiCO with HoneyWorks",
+        "url": "https://www.youtube.com/watch?v=PE91nvpM5_U",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-03-25",
+      "viewCount": "1793万",
+      "likeCount": "10.8万",
+      "commentCount": "5679"
     },
     {
       "rank": 1814,
@@ -326,9 +326,9 @@
         "target": "_blank"
       },
       "publishedAt": "2017-09-09",
-      "viewCount": "2759万",
+      "viewCount": "2760万",
       "likeCount": "10.79万",
-      "commentCount": "6045"
+      "commentCount": "6046"
     },
     {
       "rank": 1816,
@@ -393,11 +393,33 @@
       },
       "publishedAt": "2018-04-01",
       "viewCount": "3951万",
-      "likeCount": "10.77万",
-      "commentCount": "7104"
+      "likeCount": "10.78万",
+      "commentCount": "7103"
     },
     {
       "rank": 1819,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/iJo5MTPt8_k/default.jpg",
+        "url": "https://www.youtube.com/watch?v=iJo5MTPt8_k",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "King Gnu - 三文小説 (King Gnu Live Tour 2020 AW “CEREMONY” Tour Final at Makuhari Messe)",
+        "url": "https://www.youtube.com/watch?v=iJo5MTPt8_k",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "King Gnu official YouTube channel",
+        "url": "https://www.youtube.com/channel/UCkB8HnJSDSJ2hkLQFUc-YrQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-01-06",
+      "viewCount": "1888万",
+      "likeCount": "10.77万",
+      "commentCount": "3884"
+    },
+    {
+      "rank": 1820,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Ujvz6NIWExw/default.jpg",
         "url": "https://www.youtube.com/watch?v=Ujvz6NIWExw",
@@ -416,54 +438,10 @@
       "publishedAt": "2016-11-04",
       "viewCount": "2763万",
       "likeCount": "10.76万",
-      "commentCount": "6304"
-    },
-    {
-      "rank": 1820,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/iJo5MTPt8_k/default.jpg",
-        "url": "https://www.youtube.com/watch?v=iJo5MTPt8_k",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "King Gnu - 三文小説 (King Gnu Live Tour 2020 AW “CEREMONY” Tour Final at Makuhari Messe)",
-        "url": "https://www.youtube.com/watch?v=iJo5MTPt8_k",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "King Gnu official YouTube channel",
-        "url": "https://www.youtube.com/channel/UCkB8HnJSDSJ2hkLQFUc-YrQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-01-06",
-      "viewCount": "1888万",
-      "likeCount": "10.76万",
-      "commentCount": "3883"
+      "commentCount": "6305"
     },
     {
       "rank": 1821,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/BIxxw06YhlE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=BIxxw06YhlE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "きらきらぼし (Kira Kira Boshi) | Twinkle Twinkle Little Star in Japanese | @supersimplejapanese",
-        "url": "https://www.youtube.com/watch?v=BIxxw06YhlE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Super Simple Songs - Kids Songs",
-        "url": "https://www.youtube.com/channel/UCLsooMJoIpl_7ux2jvdPB-Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-01-06",
-      "viewCount": "5433万",
-      "likeCount": "10.76万",
-      "commentCount": "-"
-    },
-    {
-      "rank": 1822,
       "thumb": {
         "img": "https://i.ytimg.com/vi/cFGHv4fifhA/default.jpg",
         "url": "https://www.youtube.com/watch?v=cFGHv4fifhA",
@@ -485,6 +463,28 @@
       "commentCount": "1740"
     },
     {
+      "rank": 1822,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/BIxxw06YhlE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=BIxxw06YhlE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "きらきらぼし (Kira Kira Boshi) | Twinkle Twinkle Little Star in Japanese | @supersimplejapanese",
+        "url": "https://www.youtube.com/watch?v=BIxxw06YhlE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Super Simple Songs - Kids Songs",
+        "url": "https://www.youtube.com/channel/UCLsooMJoIpl_7ux2jvdPB-Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-01-06",
+      "viewCount": "5433万",
+      "likeCount": "10.76万",
+      "commentCount": "-"
+    },
+    {
       "rank": 1823,
       "thumb": {
         "img": "https://i.ytimg.com/vi/PYgHThU84yU/default.jpg",
@@ -502,7 +502,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-27",
-      "viewCount": "1576万",
+      "viewCount": "1577万",
       "likeCount": "10.74万",
       "commentCount": "780"
     },
@@ -524,31 +524,31 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-29",
-      "viewCount": "1637万",
+      "viewCount": "1638万",
       "likeCount": "10.72万",
       "commentCount": "3285"
     },
     {
       "rank": 1825,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/8BeGx1hiEWo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=8BeGx1hiEWo",
+        "img": "https://i.ytimg.com/vi/mLMluQow_TA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=mLMluQow_TA",
         "target": "_blank"
       },
       "title": {
-        "text": "Mr.Children「抱きしめたい」Mr.Children［(an imitation) blood orange］Tour",
-        "url": "https://www.youtube.com/watch?v=8BeGx1hiEWo",
+        "text": "Aqua Timez『決意の朝に』Music Video（映画「ブレイブ ストーリー」主題歌）",
+        "url": "https://www.youtube.com/watch?v=mLMluQow_TA",
         "target": "_blank"
       },
       "channel": {
-        "text": "Mr.Children Official Channel",
-        "url": "https://www.youtube.com/channel/UCXteDRy5qB0IjA8WPusCJ7w",
+        "text": "Aqua Timez Official",
+        "url": "https://www.youtube.com/channel/UCcxM-DeSQMFyqjB8Y8zan7Q",
         "target": "_blank"
       },
-      "publishedAt": "2013-12-17",
-      "viewCount": "6823万",
+      "publishedAt": "2014-08-23",
+      "viewCount": "3018万",
       "likeCount": "10.72万",
-      "commentCount": "4944"
+      "commentCount": "4854"
     },
     {
       "rank": 1826,
@@ -568,31 +568,31 @@
         "target": "_blank"
       },
       "publishedAt": "2012-08-22",
-      "viewCount": "4965万",
+      "viewCount": "4966万",
       "likeCount": "10.72万",
-      "commentCount": "4851"
+      "commentCount": "4849"
     },
     {
       "rank": 1827,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/mLMluQow_TA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=mLMluQow_TA",
+        "img": "https://i.ytimg.com/vi/8BeGx1hiEWo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=8BeGx1hiEWo",
         "target": "_blank"
       },
       "title": {
-        "text": "Aqua Timez『決意の朝に』Music Video（映画「ブレイブ ストーリー」主題歌）",
-        "url": "https://www.youtube.com/watch?v=mLMluQow_TA",
+        "text": "Mr.Children「抱きしめたい」Mr.Children［(an imitation) blood orange］Tour",
+        "url": "https://www.youtube.com/watch?v=8BeGx1hiEWo",
         "target": "_blank"
       },
       "channel": {
-        "text": "Aqua Timez Official",
-        "url": "https://www.youtube.com/channel/UCcxM-DeSQMFyqjB8Y8zan7Q",
+        "text": "Mr.Children Official Channel",
+        "url": "https://www.youtube.com/channel/UCXteDRy5qB0IjA8WPusCJ7w",
         "target": "_blank"
       },
-      "publishedAt": "2014-08-23",
-      "viewCount": "3017万",
-      "likeCount": "10.71万",
-      "commentCount": "4855"
+      "publishedAt": "2013-12-17",
+      "viewCount": "6824万",
+      "likeCount": "10.72万",
+      "commentCount": "4947"
     },
     {
       "rank": 1828,
@@ -634,7 +634,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-30",
-      "viewCount": "1386万",
+      "viewCount": "1387万",
       "likeCount": "10.69万",
       "commentCount": "6.5万"
     },
@@ -656,12 +656,12 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-28",
-      "viewCount": "2296万",
+      "viewCount": "2297万",
       "likeCount": "10.68万",
-      "commentCount": "1864"
+      "commentCount": "1865"
     },
     {
-      "rank": 1830,
+      "rank": 1831,
       "thumb": {
         "img": "https://i.ytimg.com/vi/6np6Qt42WfU/default.jpg",
         "url": "https://www.youtube.com/watch?v=6np6Qt42WfU",
@@ -678,7 +678,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-07-23",
-      "viewCount": "4028万",
+      "viewCount": "4029万",
       "likeCount": "10.68万",
       "commentCount": "5297"
     },
@@ -722,12 +722,34 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-17",
-      "viewCount": "1794万",
+      "viewCount": "1795万",
       "likeCount": "10.67万",
       "commentCount": "2186"
     },
     {
-      "rank": 1834,
+      "rank": 1833,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/P2GhoO-u0kI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=P2GhoO-u0kI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE「ツキマシテハ」Official Lyric Video",
+        "url": "https://www.youtube.com/watch?v=P2GhoO-u0kI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-07-05",
+      "viewCount": "1149万",
+      "likeCount": "10.67万",
+      "commentCount": "3205"
+    },
+    {
+      "rank": 1835,
       "thumb": {
         "img": "https://i.ytimg.com/vi/oqxvaDbAHkI/default.jpg",
         "url": "https://www.youtube.com/watch?v=oqxvaDbAHkI",
@@ -749,28 +771,6 @@
       "commentCount": "5235"
     },
     {
-      "rank": 1835,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/P2GhoO-u0kI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=P2GhoO-u0kI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE「ツキマシテハ」Official Lyric Video",
-        "url": "https://www.youtube.com/watch?v=P2GhoO-u0kI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-07-05",
-      "viewCount": "1148万",
-      "likeCount": "10.67万",
-      "commentCount": "3203"
-    },
-    {
       "rank": 1836,
       "thumb": {
         "img": "https://i.ytimg.com/vi/_wvAzWIjKIg/default.jpg",
@@ -788,7 +788,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-04-01",
-      "viewCount": "3214万",
+      "viewCount": "3216万",
       "likeCount": "10.65万",
       "commentCount": "6179"
     },
@@ -810,7 +810,7 @@
         "target": "_blank"
       },
       "publishedAt": "2025-08-10",
-      "viewCount": "2803万",
+      "viewCount": "2807万",
       "likeCount": "10.64万",
       "commentCount": "4.4万"
     },
@@ -833,7 +833,7 @@
       },
       "publishedAt": "2021-12-31",
       "viewCount": "1369万",
-      "likeCount": "10.63万",
+      "likeCount": "10.64万",
       "commentCount": "3551"
     },
     {
@@ -854,8 +854,8 @@
         "target": "_blank"
       },
       "publishedAt": "2024-03-11",
-      "viewCount": "4087万",
-      "likeCount": "10.63万",
+      "viewCount": "4091万",
+      "likeCount": "10.64万",
       "commentCount": "4933"
     },
     {
@@ -898,7 +898,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-03-27",
-      "viewCount": "5071万",
+      "viewCount": "5072万",
       "likeCount": "10.62万",
       "commentCount": "-"
     },
@@ -922,7 +922,7 @@
       "publishedAt": "2015-08-27",
       "viewCount": "2893万",
       "likeCount": "10.61万",
-      "commentCount": "5924"
+      "commentCount": "5925"
     },
     {
       "rank": 1843,
@@ -942,9 +942,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-07",
-      "viewCount": "2940万",
+      "viewCount": "2941万",
       "likeCount": "10.6万",
-      "commentCount": "2464"
+      "commentCount": "2463"
     },
     {
       "rank": 1844,
@@ -964,9 +964,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-12-09",
-      "viewCount": "1622万",
+      "viewCount": "1623万",
       "likeCount": "10.59万",
-      "commentCount": "3099"
+      "commentCount": "3100"
     },
     {
       "rank": 1845,
@@ -987,8 +987,8 @@
       },
       "publishedAt": "2022-11-23",
       "viewCount": "1666万",
-      "likeCount": "10.58万",
-      "commentCount": "3973"
+      "likeCount": "10.59万",
+      "commentCount": "3974"
     },
     {
       "rank": 1846,
@@ -1030,7 +1030,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-12-04",
-      "viewCount": "1558万",
+      "viewCount": "1559万",
       "likeCount": "10.57万",
       "commentCount": "3343"
     },
@@ -1052,9 +1052,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-21",
-      "viewCount": "3701万",
+      "viewCount": "3703万",
       "likeCount": "10.57万",
-      "commentCount": "3552"
+      "commentCount": "3555"
     },
     {
       "rank": 1849,
@@ -1074,9 +1074,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-07",
-      "viewCount": "3778万",
-      "likeCount": "10.56万",
-      "commentCount": "4315"
+      "viewCount": "3779万",
+      "likeCount": "10.57万",
+      "commentCount": "4319"
     },
     {
       "rank": 1850,

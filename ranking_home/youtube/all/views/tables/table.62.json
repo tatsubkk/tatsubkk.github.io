@@ -20,8 +20,8 @@
       "publishedAt": "2017-08-31",
       "viewCount": "1106万",
       "likeCount": "5.4万",
-      "commentCount": "2872",
-      "increment_d1": "91"
+      "commentCount": "2871",
+      "increment_d1": "107"
     },
     {
       "rank": 3052,
@@ -44,7 +44,7 @@
       "viewCount": "1106万",
       "likeCount": "1.7万",
       "commentCount": "2129",
-      "increment_d1": "278"
+      "increment_d1": "221"
     },
     {
       "rank": 3053,
@@ -67,10 +67,33 @@
       "viewCount": "1105万",
       "likeCount": "4.7万",
       "commentCount": "1247",
-      "increment_d1": "2552"
+      "increment_d1": "2412"
     },
     {
       "rank": 3054,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/E3UDqofqcc4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=E3UDqofqcc4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – Loneliness 【LIVE “NOAH no HAKOBUNE” on WOWOWプラス】",
+        "url": "https://www.youtube.com/watch?v=E3UDqofqcc4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-09-21",
+      "viewCount": "1105万",
+      "likeCount": "7.9万",
+      "commentCount": "2698",
+      "increment_d1": "1.25万"
+    },
+    {
+      "rank": 3055,
       "thumb": {
         "img": "https://i.ytimg.com/vi/H3RBn3MG8ms/default.jpg",
         "url": "https://www.youtube.com/watch?v=H3RBn3MG8ms",
@@ -90,10 +113,10 @@
       "viewCount": "1104万",
       "likeCount": "3.9万",
       "commentCount": "1757",
-      "increment_d1": "846"
+      "increment_d1": "788"
     },
     {
-      "rank": 3055,
+      "rank": 3056,
       "thumb": {
         "img": "https://i.ytimg.com/vi/hLtLjhV7PR0/default.jpg",
         "url": "https://www.youtube.com/watch?v=hLtLjhV7PR0",
@@ -113,10 +136,10 @@
       "viewCount": "1104万",
       "likeCount": "4.2万",
       "commentCount": "2304",
-      "increment_d1": "1860"
+      "increment_d1": "1757"
     },
     {
-      "rank": 3056,
+      "rank": 3057,
       "thumb": {
         "img": "https://i.ytimg.com/vi/wQbVEC5ttEA/default.jpg",
         "url": "https://www.youtube.com/watch?v=wQbVEC5ttEA",
@@ -133,33 +156,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-01",
-      "viewCount": "1103万",
+      "viewCount": "1104万",
       "likeCount": "-",
       "commentCount": "3994",
-      "increment_d1": "2984"
-    },
-    {
-      "rank": 3057,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/E3UDqofqcc4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=E3UDqofqcc4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – Loneliness 【LIVE “NOAH no HAKOBUNE” on WOWOWプラス】",
-        "url": "https://www.youtube.com/watch?v=E3UDqofqcc4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-09-21",
-      "viewCount": "1103万",
-      "likeCount": "7.9万",
-      "commentCount": "2695",
-      "increment_d1": "1.31万"
+      "increment_d1": "2603"
     },
     {
       "rank": 3058,
@@ -182,33 +182,10 @@
       "viewCount": "1103万",
       "likeCount": "10.4万",
       "commentCount": "1470",
-      "increment_d1": "3089"
+      "increment_d1": "2630"
     },
     {
       "rank": 3059,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/WEyMPk4xEGU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=WEyMPk4xEGU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Kis-My-Ft2 /「Two as One」Music Video",
-        "url": "https://www.youtube.com/watch?v=WEyMPk4xEGU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kis-My-Ft2",
-        "url": "https://www.youtube.com/channel/UCwVX4BFoELC1lfOFMzbJlOg",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-07-13",
-      "viewCount": "1103万",
-      "likeCount": "-",
-      "commentCount": "6688",
-      "increment_d1": "1123"
-    },
-    {
-      "rank": 3060,
       "thumb": {
         "img": "https://i.ytimg.com/vi/LNSh0JHUfgg/default.jpg",
         "url": "https://www.youtube.com/watch?v=LNSh0JHUfgg",
@@ -227,11 +204,57 @@
       "publishedAt": "2021-02-03",
       "viewCount": "1103万",
       "likeCount": "-",
-      "commentCount": "6896",
-      "increment_d1": "3300"
+      "commentCount": "6895",
+      "increment_d1": "2460"
+    },
+    {
+      "rank": 3060,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/WEyMPk4xEGU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=WEyMPk4xEGU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Kis-My-Ft2 /「Two as One」Music Video",
+        "url": "https://www.youtube.com/watch?v=WEyMPk4xEGU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kis-My-Ft2",
+        "url": "https://www.youtube.com/channel/UCwVX4BFoELC1lfOFMzbJlOg",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-07-13",
+      "viewCount": "1103万",
+      "likeCount": "-",
+      "commentCount": "6689",
+      "increment_d1": "1084"
     },
     {
       "rank": 3061,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Sfz5TpCRSiI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Sfz5TpCRSiI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ずっと真夜中でいいのに。『猫リセット』MV (ZUTOMAYO – Neko Reset)",
+        "url": "https://www.youtube.com/watch?v=Sfz5TpCRSiI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ずっと真夜中でいいのに。 ZUTOMAYO",
+        "url": "https://www.youtube.com/channel/UCv6P5nsS9rP4tDtFlqLU_QQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-12-02",
+      "viewCount": "1103万",
+      "likeCount": "14.6万",
+      "commentCount": "3754",
+      "increment_d1": "2449"
+    },
+    {
+      "rank": 3062,
       "thumb": {
         "img": "https://i.ytimg.com/vi/LjzyRNX6D3s/default.jpg",
         "url": "https://www.youtube.com/watch?v=LjzyRNX6D3s",
@@ -251,53 +274,30 @@
       "viewCount": "1103万",
       "likeCount": "-",
       "commentCount": "1.7万",
-      "increment_d1": "656"
-    },
-    {
-      "rank": 3062,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Sfz5TpCRSiI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Sfz5TpCRSiI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ずっと真夜中でいいのに。『猫リセット』MV (ZUTOMAYO – Neko Reset)",
-        "url": "https://www.youtube.com/watch?v=Sfz5TpCRSiI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ずっと真夜中でいいのに。 ZUTOMAYO",
-        "url": "https://www.youtube.com/channel/UCv6P5nsS9rP4tDtFlqLU_QQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-12-02",
-      "viewCount": "1102万",
-      "likeCount": "14.6万",
-      "commentCount": "3754",
-      "increment_d1": "2547"
+      "increment_d1": "686"
     },
     {
       "rank": 3063,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/3xywnD8Nru4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=3xywnD8Nru4",
+        "img": "https://i.ytimg.com/vi/CSgG6wPB0Kw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=CSgG6wPB0Kw",
         "target": "_blank"
       },
       "title": {
-        "text": "DEEP / DEEP BEST君じゃない誰かなんて～Tejina～-（Long Ver.)",
-        "url": "https://www.youtube.com/watch?v=3xywnD8Nru4",
+        "text": "ラブレター",
+        "url": "https://www.youtube.com/watch?v=CSgG6wPB0Kw",
         "target": "_blank"
       },
       "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
         "target": "_blank"
       },
-      "publishedAt": "2013-01-21",
+      "publishedAt": "2021-11-30",
       "viewCount": "1101万",
-      "likeCount": "3.8万",
-      "commentCount": "671",
-      "increment_d1": "452"
+      "likeCount": "4.6万",
+      "commentCount": "100",
+      "increment_d1": "6046"
     },
     {
       "rank": 3064,
@@ -320,10 +320,33 @@
       "viewCount": "1101万",
       "likeCount": "5.7万",
       "commentCount": "1249",
-      "increment_d1": "2190"
+      "increment_d1": "1998"
     },
     {
       "rank": 3065,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/3xywnD8Nru4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=3xywnD8Nru4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "DEEP / DEEP BEST君じゃない誰かなんて～Tejina～-（Long Ver.)",
+        "url": "https://www.youtube.com/watch?v=3xywnD8Nru4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-01-21",
+      "viewCount": "1101万",
+      "likeCount": "3.8万",
+      "commentCount": "671",
+      "increment_d1": "400"
+    },
+    {
+      "rank": 3066,
       "thumb": {
         "img": "https://i.ytimg.com/vi/CzRqaoq_4Nw/default.jpg",
         "url": "https://www.youtube.com/watch?v=CzRqaoq_4Nw",
@@ -340,33 +363,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-01",
-      "viewCount": "1100万",
+      "viewCount": "1101万",
       "likeCount": "23.7万",
       "commentCount": "3263",
-      "increment_d1": "2833"
-    },
-    {
-      "rank": 3066,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/CSgG6wPB0Kw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=CSgG6wPB0Kw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ラブレター",
-        "url": "https://www.youtube.com/watch?v=CSgG6wPB0Kw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-30",
-      "viewCount": "1100万",
-      "likeCount": "4.6万",
-      "commentCount": "100",
-      "increment_d1": "6724"
+      "increment_d1": "2537"
     },
     {
       "rank": 3067,
@@ -389,33 +389,10 @@
       "viewCount": "1100万",
       "likeCount": "9.2万",
       "commentCount": "2684",
-      "increment_d1": "464"
+      "increment_d1": "410"
     },
     {
       "rank": 3068,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/CWp2ZDMWn2g/default.jpg",
-        "url": "https://www.youtube.com/watch?v=CWp2ZDMWn2g",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV】水曜日の約束-another story- feat. 成海聖奈（CV：雨宮天）／HoneyWorks",
-        "url": "https://www.youtube.com/watch?v=CWp2ZDMWn2g",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "HoneyWorks OFFICIAL",
-        "url": "https://www.youtube.com/channel/UCAaGaynFpku5cAx6OOSrW-w",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-10-23",
-      "viewCount": "1100万",
-      "likeCount": "17.2万",
-      "commentCount": "2969",
-      "increment_d1": "1717"
-    },
-    {
-      "rank": 3069,
       "thumb": {
         "img": "https://i.ytimg.com/vi/B50A9Nf5FCE/default.jpg",
         "url": "https://www.youtube.com/watch?v=B50A9Nf5FCE",
@@ -435,7 +412,30 @@
       "viewCount": "1100万",
       "likeCount": "5.8万",
       "commentCount": "1170",
-      "increment_d1": "2322"
+      "increment_d1": "2270"
+    },
+    {
+      "rank": 3069,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/CWp2ZDMWn2g/default.jpg",
+        "url": "https://www.youtube.com/watch?v=CWp2ZDMWn2g",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV】水曜日の約束-another story- feat. 成海聖奈（CV：雨宮天）／HoneyWorks",
+        "url": "https://www.youtube.com/watch?v=CWp2ZDMWn2g",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "HoneyWorks OFFICIAL",
+        "url": "https://www.youtube.com/channel/UCAaGaynFpku5cAx6OOSrW-w",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-10-23",
+      "viewCount": "1100万",
+      "likeCount": "17.2万",
+      "commentCount": "2969",
+      "increment_d1": "1725"
     },
     {
       "rank": 3070,
@@ -458,7 +458,7 @@
       "viewCount": "1099万",
       "likeCount": "7.4万",
       "commentCount": "1384",
-      "increment_d1": "827"
+      "increment_d1": "738"
     },
     {
       "rank": 3071,
@@ -481,7 +481,7 @@
       "viewCount": "1099万",
       "likeCount": "2.6万",
       "commentCount": "735",
-      "increment_d1": "812"
+      "increment_d1": "738"
     },
     {
       "rank": 3072,
@@ -504,7 +504,7 @@
       "viewCount": "1098万",
       "likeCount": "2.7万",
       "commentCount": "1197",
-      "increment_d1": "347"
+      "increment_d1": "239"
     },
     {
       "rank": 3073,
@@ -527,33 +527,10 @@
       "viewCount": "1098万",
       "likeCount": "4.6万",
       "commentCount": "2356",
-      "increment_d1": "192"
+      "increment_d1": "178"
     },
     {
       "rank": 3074,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/-Ch8P5G8MzU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=-Ch8P5G8MzU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "西野カナ　『たとえ どんなに...(short ver.)』",
-        "url": "https://www.youtube.com/watch?v=-Ch8P5G8MzU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-07-01",
-      "viewCount": "1098万",
-      "likeCount": "1.9万",
-      "commentCount": "1063",
-      "increment_d1": "293"
-    },
-    {
-      "rank": 3075,
       "thumb": {
         "img": "https://i.ytimg.com/vi/mf-RrGndfC8/default.jpg",
         "url": "https://www.youtube.com/watch?v=mf-RrGndfC8",
@@ -573,7 +550,30 @@
       "viewCount": "1098万",
       "likeCount": "4万",
       "commentCount": "2007",
-      "increment_d1": "2244"
+      "increment_d1": "2160"
+    },
+    {
+      "rank": 3075,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/-Ch8P5G8MzU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=-Ch8P5G8MzU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "西野カナ　『たとえ どんなに...(short ver.)』",
+        "url": "https://www.youtube.com/watch?v=-Ch8P5G8MzU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-07-01",
+      "viewCount": "1098万",
+      "likeCount": "1.9万",
+      "commentCount": "1063",
+      "increment_d1": "176"
     },
     {
       "rank": 3076,
@@ -596,7 +596,7 @@
       "viewCount": "1097万",
       "likeCount": "14.8万",
       "commentCount": "3288",
-      "increment_d1": "251"
+      "increment_d1": "247"
     },
     {
       "rank": 3077,
@@ -618,8 +618,8 @@
       "publishedAt": "2010-09-14",
       "viewCount": "1096万",
       "likeCount": "2.5万",
-      "commentCount": "1588",
-      "increment_d1": "799"
+      "commentCount": "1589",
+      "increment_d1": "990"
     },
     {
       "rank": 3078,
@@ -641,8 +641,8 @@
       "publishedAt": "2012-04-19",
       "viewCount": "1096万",
       "likeCount": "2.7万",
-      "commentCount": "1242",
-      "increment_d1": "140"
+      "commentCount": "1241",
+      "increment_d1": "92"
     },
     {
       "rank": 3079,
@@ -665,7 +665,7 @@
       "viewCount": "1096万",
       "likeCount": "3.6万",
       "commentCount": "1737",
-      "increment_d1": "2155"
+      "increment_d1": "1796"
     },
     {
       "rank": 3080,
@@ -688,7 +688,7 @@
       "viewCount": "1095万",
       "likeCount": "2.6万",
       "commentCount": "1532",
-      "increment_d1": "641"
+      "increment_d1": "548"
     },
     {
       "rank": 3081,
@@ -711,7 +711,7 @@
       "viewCount": "1095万",
       "likeCount": "3.2万",
       "commentCount": "1177",
-      "increment_d1": "1899"
+      "increment_d1": "1651"
     },
     {
       "rank": 3082,
@@ -731,10 +731,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-29",
-      "viewCount": "1094万",
+      "viewCount": "1095万",
       "likeCount": "-",
       "commentCount": "4308",
-      "increment_d1": "3755"
+      "increment_d1": "3911"
     },
     {
       "rank": 3083,
@@ -757,7 +757,7 @@
       "viewCount": "1094万",
       "likeCount": "18万",
       "commentCount": "1804",
-      "increment_d1": "1441"
+      "increment_d1": "1544"
     },
     {
       "rank": 3084,
@@ -780,7 +780,7 @@
       "viewCount": "1094万",
       "likeCount": "3万",
       "commentCount": "692",
-      "increment_d1": "559"
+      "increment_d1": "488"
     },
     {
       "rank": 3085,
@@ -803,30 +803,30 @@
       "viewCount": "1094万",
       "likeCount": "3.6万",
       "commentCount": "1158",
-      "increment_d1": "789"
+      "increment_d1": "725"
     },
     {
       "rank": 3086,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/IdN4D9FUMH8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=IdN4D9FUMH8",
+        "img": "https://i.ytimg.com/vi/xe99GcLbV_0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=xe99GcLbV_0",
         "target": "_blank"
       },
       "title": {
-        "text": "MINMI - シャナナ☆ -Trinidad&Tobago ver.-",
-        "url": "https://www.youtube.com/watch?v=IdN4D9FUMH8",
+        "text": "Snow Man「ブラザービート」Lip & Image Ver.",
+        "url": "https://www.youtube.com/watch?v=xe99GcLbV_0",
         "target": "_blank"
       },
       "channel": {
-        "text": "Victor Entertainment",
-        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
+        "text": "Snow Man",
+        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
         "target": "_blank"
       },
-      "publishedAt": "2009-08-10",
+      "publishedAt": "2022-04-06",
       "viewCount": "1094万",
-      "likeCount": "2.4万",
-      "commentCount": "1246",
-      "increment_d1": "328"
+      "likeCount": "-",
+      "commentCount": "4021",
+      "increment_d1": "1224"
     },
     {
       "rank": 3087,
@@ -849,33 +849,56 @@
       "viewCount": "1094万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "957"
+      "increment_d1": "854"
     },
     {
       "rank": 3088,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/xe99GcLbV_0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=xe99GcLbV_0",
+        "img": "https://i.ytimg.com/vi/IdN4D9FUMH8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=IdN4D9FUMH8",
         "target": "_blank"
       },
       "title": {
-        "text": "Snow Man「ブラザービート」Lip & Image Ver.",
-        "url": "https://www.youtube.com/watch?v=xe99GcLbV_0",
+        "text": "MINMI - シャナナ☆ -Trinidad&Tobago ver.-",
+        "url": "https://www.youtube.com/watch?v=IdN4D9FUMH8",
         "target": "_blank"
       },
       "channel": {
-        "text": "Snow Man",
-        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
+        "text": "Victor Entertainment",
+        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
         "target": "_blank"
       },
-      "publishedAt": "2022-04-06",
+      "publishedAt": "2009-08-10",
       "viewCount": "1094万",
-      "likeCount": "-",
-      "commentCount": "4021",
-      "increment_d1": "1204"
+      "likeCount": "2.4万",
+      "commentCount": "1246",
+      "increment_d1": "306"
     },
     {
       "rank": 3089,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/0UfJLVmrChw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=0UfJLVmrChw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "なにわ男子 - Make Up Day [Official Music Video] YouTube ver.",
+        "url": "https://www.youtube.com/watch?v=0UfJLVmrChw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "なにわ男子",
+        "url": "https://www.youtube.com/channel/UCDtVdj7sm41Ysg3XSiSUH3w",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-08-08",
+      "viewCount": "1093万",
+      "likeCount": "-",
+      "commentCount": "7941",
+      "increment_d1": "2011"
+    },
+    {
+      "rank": 3090,
       "thumb": {
         "img": "https://i.ytimg.com/vi/kWERjRiJh1s/default.jpg",
         "url": "https://www.youtube.com/watch?v=kWERjRiJh1s",
@@ -895,33 +918,33 @@
       "viewCount": "1093万",
       "likeCount": "4.6万",
       "commentCount": "1998",
-      "increment_d1": "478"
-    },
-    {
-      "rank": 3090,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/0UfJLVmrChw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=0UfJLVmrChw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "なにわ男子 - Make Up Day [Official Music Video] YouTube ver.",
-        "url": "https://www.youtube.com/watch?v=0UfJLVmrChw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "なにわ男子",
-        "url": "https://www.youtube.com/channel/UCDtVdj7sm41Ysg3XSiSUH3w",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-08-08",
-      "viewCount": "1092万",
-      "likeCount": "-",
-      "commentCount": "7940",
-      "increment_d1": "1979"
+      "increment_d1": "450"
     },
     {
       "rank": 3091,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Ueibw7AdCmI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Ueibw7AdCmI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "モモタロス ウラタロス キンタロス リュウタロス(CV.関 俊彦･遊佐浩二･てらそままさき･鈴村健一) / Climax Jump DEN-LINER form",
+        "url": "https://www.youtube.com/watch?v=Ueibw7AdCmI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-04-23",
+      "viewCount": "1092万",
+      "likeCount": "16.5万",
+      "commentCount": "7137",
+      "increment_d1": "4184"
+    },
+    {
+      "rank": 3092,
       "thumb": {
         "img": "https://i.ytimg.com/vi/UQpRzyNXDBg/default.jpg",
         "url": "https://www.youtube.com/watch?v=UQpRzyNXDBg",
@@ -941,10 +964,10 @@
       "viewCount": "1092万",
       "likeCount": "7.7万",
       "commentCount": "2304",
-      "increment_d1": "524"
+      "increment_d1": "493"
     },
     {
-      "rank": 3092,
+      "rank": 3093,
       "thumb": {
         "img": "https://i.ytimg.com/vi/MquT2X5NEY8/default.jpg",
         "url": "https://www.youtube.com/watch?v=MquT2X5NEY8",
@@ -964,30 +987,7 @@
       "viewCount": "1092万",
       "likeCount": "7.4万",
       "commentCount": "34",
-      "increment_d1": "504"
-    },
-    {
-      "rank": 3093,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Ueibw7AdCmI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Ueibw7AdCmI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "モモタロス ウラタロス キンタロス リュウタロス(CV.関 俊彦･遊佐浩二･てらそままさき･鈴村健一) / Climax Jump DEN-LINER form",
-        "url": "https://www.youtube.com/watch?v=Ueibw7AdCmI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-04-23",
-      "viewCount": "1092万",
-      "likeCount": "16.5万",
-      "commentCount": "7132",
-      "increment_d1": "4080"
+      "increment_d1": "478"
     },
     {
       "rank": 3094,
@@ -1007,10 +1007,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-03-11",
-      "viewCount": "1091万",
+      "viewCount": "1092万",
       "likeCount": "8.1万",
       "commentCount": "2843",
-      "increment_d1": "2209"
+      "increment_d1": "2442"
     },
     {
       "rank": 3095,
@@ -1032,11 +1032,34 @@
       "publishedAt": "2011-01-28",
       "viewCount": "1090万",
       "likeCount": "1.8万",
-      "commentCount": "1816",
-      "increment_d1": "250"
+      "commentCount": "1817",
+      "increment_d1": "268"
     },
     {
       "rank": 3096,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/IqKqNcW2-b4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=IqKqNcW2-b4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "いきものがかり 『ホタルノヒカリ』Music Video",
+        "url": "https://www.youtube.com/watch?v=IqKqNcW2-b4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "いきものがかり",
+        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-08-22",
+      "viewCount": "1090万",
+      "likeCount": "13.6万",
+      "commentCount": "2471",
+      "increment_d1": "6091"
+    },
+    {
+      "rank": 3097,
       "thumb": {
         "img": "https://i.ytimg.com/vi/lOGwN-W1fpM/default.jpg",
         "url": "https://www.youtube.com/watch?v=lOGwN-W1fpM",
@@ -1056,10 +1079,10 @@
       "viewCount": "1090万",
       "likeCount": "8.8万",
       "commentCount": "167",
-      "increment_d1": "921"
+      "increment_d1": "834"
     },
     {
-      "rank": 3097,
+      "rank": 3098,
       "thumb": {
         "img": "https://i.ytimg.com/vi/M3J1KRD1H1Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=M3J1KRD1H1Q",
@@ -1079,30 +1102,7 @@
       "viewCount": "1089万",
       "likeCount": "8.6万",
       "commentCount": "2216",
-      "increment_d1": "2109"
-    },
-    {
-      "rank": 3098,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/IqKqNcW2-b4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=IqKqNcW2-b4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "いきものがかり 『ホタルノヒカリ』Music Video",
-        "url": "https://www.youtube.com/watch?v=IqKqNcW2-b4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "いきものがかり",
-        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-08-22",
-      "viewCount": "1089万",
-      "likeCount": "13.6万",
-      "commentCount": "2470",
-      "increment_d1": "6343"
+      "increment_d1": "1782"
     },
     {
       "rank": 3099,
@@ -1125,7 +1125,7 @@
       "viewCount": "1089万",
       "likeCount": "23.1万",
       "commentCount": "1.9万",
-      "increment_d1": "424"
+      "increment_d1": "342"
     },
     {
       "rank": 3100,
@@ -1148,7 +1148,7 @@
       "viewCount": "1088万",
       "likeCount": "14.1万",
       "commentCount": "1749",
-      "increment_d1": "3052"
+      "increment_d1": "3250"
     }
   ]
 }

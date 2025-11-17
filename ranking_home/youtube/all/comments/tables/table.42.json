@@ -1,7 +1,29 @@
 {
   "rows": [
     {
-      "rank": 2051,
+      "rank": 2050,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/-ZpQmBhxOT0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=-ZpQmBhxOT0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "松任谷由実 - リフレインが叫んでる",
+        "url": "https://www.youtube.com/watch?v=-ZpQmBhxOT0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "松任谷由実",
+        "url": "https://www.youtube.com/channel/UCDD7BcoKphATW57_46mPFLg",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-08-23",
+      "viewCount": "1611万",
+      "likeCount": "4.9万",
+      "commentCount": "3621"
+    },
+    {
+      "rank": 2052,
       "thumb": {
         "img": "https://i.ytimg.com/vi/e7GvXNOxhng/default.jpg",
         "url": "https://www.youtube.com/watch?v=e7GvXNOxhng",
@@ -21,28 +43,6 @@
       "viewCount": "1046万",
       "likeCount": "4.8万",
       "commentCount": "3620"
-    },
-    {
-      "rank": 2052,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/-ZpQmBhxOT0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=-ZpQmBhxOT0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "松任谷由実 - リフレインが叫んでる",
-        "url": "https://www.youtube.com/watch?v=-ZpQmBhxOT0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "松任谷由実",
-        "url": "https://www.youtube.com/channel/UCDD7BcoKphATW57_46mPFLg",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-08-23",
-      "viewCount": "1610万",
-      "likeCount": "4.9万",
-      "commentCount": "3619"
     },
     {
       "rank": 2053,
@@ -150,9 +150,9 @@
         "target": "_blank"
       },
       "publishedAt": "2016-03-31",
-      "viewCount": "3033万",
+      "viewCount": "3034万",
       "likeCount": "8.9万",
-      "commentCount": "3612"
+      "commentCount": "3614"
     },
     {
       "rank": 2058,
@@ -172,7 +172,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-01-25",
-      "viewCount": "3848万",
+      "viewCount": "3851万",
       "likeCount": "37万",
       "commentCount": "3602"
     },
@@ -196,10 +196,10 @@
       "publishedAt": "2012-09-06",
       "viewCount": "1921万",
       "likeCount": "9.1万",
-      "commentCount": "3596"
+      "commentCount": "3597"
     },
     {
-      "rank": 2060,
+      "rank": 2059,
       "thumb": {
         "img": "https://i.ytimg.com/vi/pLBX9vdrtn4/default.jpg",
         "url": "https://www.youtube.com/watch?v=pLBX9vdrtn4",
@@ -218,7 +218,7 @@
       "publishedAt": "2022-09-06",
       "viewCount": "1972万",
       "likeCount": "32.8万",
-      "commentCount": "3595"
+      "commentCount": "3597"
     },
     {
       "rank": 2061,
@@ -240,32 +240,10 @@
       "publishedAt": "2014-02-28",
       "viewCount": "1811万",
       "likeCount": "5.2万",
-      "commentCount": "3592"
-    },
-    {
-      "rank": 2062,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/S_jNtbF7dHg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=S_jNtbF7dHg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Happiness / Ordinary Girls",
-        "url": "https://www.youtube.com/watch?v=S_jNtbF7dHg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-09-27",
-      "viewCount": "1004万",
-      "likeCount": "5.1万",
       "commentCount": "3590"
     },
     {
-      "rank": 2063,
+      "rank": 2062,
       "thumb": {
         "img": "https://i.ytimg.com/vi/QA_p90T6oy4/default.jpg",
         "url": "https://www.youtube.com/watch?v=QA_p90T6oy4",
@@ -285,6 +263,28 @@
       "viewCount": "1997万",
       "likeCount": "8.6万",
       "commentCount": "3589"
+    },
+    {
+      "rank": 2063,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/S_jNtbF7dHg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=S_jNtbF7dHg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Happiness / Ordinary Girls",
+        "url": "https://www.youtube.com/watch?v=S_jNtbF7dHg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-09-27",
+      "viewCount": "1004万",
+      "likeCount": "5.1万",
+      "commentCount": "3588"
     },
     {
       "rank": 2064,
@@ -348,9 +348,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-24",
-      "viewCount": "2493万",
+      "viewCount": "2494万",
       "likeCount": "19.6万",
-      "commentCount": "3585"
+      "commentCount": "3584"
     },
     {
       "rank": 2067,
@@ -372,7 +372,7 @@
       "publishedAt": "2011-02-16",
       "viewCount": "1511万",
       "likeCount": "3.5万",
-      "commentCount": "3581"
+      "commentCount": "3582"
     },
     {
       "rank": 2068,
@@ -392,7 +392,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-02-17",
-      "viewCount": "1491万",
+      "viewCount": "1492万",
       "likeCount": "-",
       "commentCount": "3573"
     },
@@ -420,6 +420,28 @@
     },
     {
       "rank": 2070,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/By2_SOQH9PA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=By2_SOQH9PA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE「フロリジナル」Official Music Video",
+        "url": "https://www.youtube.com/watch?v=By2_SOQH9PA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-11-07",
+      "viewCount": "1808万",
+      "likeCount": "12.5万",
+      "commentCount": "3564"
+    },
+    {
+      "rank": 2071,
       "thumb": {
         "img": "https://i.ytimg.com/vi/FNn6E_fkxFg/default.jpg",
         "url": "https://www.youtube.com/watch?v=FNn6E_fkxFg",
@@ -460,29 +482,7 @@
       "publishedAt": "2017-04-21",
       "viewCount": "4899万",
       "likeCount": "23.4万",
-      "commentCount": "3562"
-    },
-    {
-      "rank": 2072,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/By2_SOQH9PA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=By2_SOQH9PA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE「フロリジナル」Official Music Video",
-        "url": "https://www.youtube.com/watch?v=By2_SOQH9PA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-11-07",
-      "viewCount": "1806万",
-      "likeCount": "12.5万",
-      "commentCount": "3561"
+      "commentCount": "3563"
     },
     {
       "rank": 2073,
@@ -504,7 +504,7 @@
       "publishedAt": "2014-12-09",
       "viewCount": "1112万",
       "likeCount": "15.6万",
-      "commentCount": "3560"
+      "commentCount": "3561"
     },
     {
       "rank": 2074,
@@ -524,12 +524,34 @@
         "target": "_blank"
       },
       "publishedAt": "2019-06-26",
-      "viewCount": "2017万",
+      "viewCount": "2018万",
       "likeCount": "8.9万",
-      "commentCount": "3556"
+      "commentCount": "3558"
     },
     {
       "rank": 2075,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Dsdxxrnz1AQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Dsdxxrnz1AQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "コブクロ「桜」",
+        "url": "https://www.youtube.com/watch?v=Dsdxxrnz1AQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "コブクロ 公式チャンネル",
+        "url": "https://www.youtube.com/channel/UC73Cla79COot99ltD8wuH0w",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-03-21",
+      "viewCount": "3703万",
+      "likeCount": "10.6万",
+      "commentCount": "3555"
+    },
+    {
+      "rank": 2076,
       "thumb": {
         "img": "https://i.ytimg.com/vi/76-U4b5MKHg/default.jpg",
         "url": "https://www.youtube.com/watch?v=76-U4b5MKHg",
@@ -548,10 +570,10 @@
       "publishedAt": "2012-12-25",
       "viewCount": "2952万",
       "likeCount": "8.1万",
-      "commentCount": "3553"
+      "commentCount": "3554"
     },
     {
-      "rank": 2076,
+      "rank": 2077,
       "thumb": {
         "img": "https://i.ytimg.com/vi/4wuWJ7GAc2s/default.jpg",
         "url": "https://www.youtube.com/watch?v=4wuWJ7GAc2s",
@@ -568,31 +590,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-28",
-      "viewCount": "5257万",
+      "viewCount": "5259万",
       "likeCount": "10.3万",
-      "commentCount": "3552"
-    },
-    {
-      "rank": 2076,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Dsdxxrnz1AQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Dsdxxrnz1AQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "コブクロ「桜」",
-        "url": "https://www.youtube.com/watch?v=Dsdxxrnz1AQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "コブクロ 公式チャンネル",
-        "url": "https://www.youtube.com/channel/UC73Cla79COot99ltD8wuH0w",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-03-21",
-      "viewCount": "3701万",
-      "likeCount": "10.6万",
-      "commentCount": "3552"
+      "commentCount": "3553"
     },
     {
       "rank": 2078,
@@ -612,12 +612,12 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-22",
-      "viewCount": "1965万",
+      "viewCount": "1966万",
       "likeCount": "11.7万",
-      "commentCount": "3551"
+      "commentCount": "3552"
     },
     {
-      "rank": 2078,
+      "rank": 2079,
       "thumb": {
         "img": "https://i.ytimg.com/vi/1xSC5WdpHqg/default.jpg",
         "url": "https://www.youtube.com/watch?v=1xSC5WdpHqg",
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-12-12",
-      "viewCount": "1320万",
+      "viewCount": "1321万",
       "likeCount": "5.7万",
       "commentCount": "3541"
     },
@@ -746,7 +746,7 @@
       "publishedAt": "2018-06-01",
       "viewCount": "1159万",
       "likeCount": "5.9万",
-      "commentCount": "3530"
+      "commentCount": "3531"
     },
     {
       "rank": 2085,
@@ -788,9 +788,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-10-09",
-      "viewCount": "4138万",
+      "viewCount": "4139万",
       "likeCount": "16万",
-      "commentCount": "3526"
+      "commentCount": "3527"
     },
     {
       "rank": 2087,
@@ -810,7 +810,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-10",
-      "viewCount": "1925万",
+      "viewCount": "1926万",
       "likeCount": "4.8万",
       "commentCount": "3524"
     },
@@ -832,7 +832,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-24",
-      "viewCount": "4692万",
+      "viewCount": "4694万",
       "likeCount": "16.9万",
       "commentCount": "3522"
     },
@@ -854,9 +854,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-04",
-      "viewCount": "2881万",
+      "viewCount": "2882万",
       "likeCount": "11.4万",
-      "commentCount": "3514"
+      "commentCount": "3513"
     },
     {
       "rank": 2090,
@@ -876,7 +876,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-04-06",
-      "viewCount": "2674万",
+      "viewCount": "2675万",
       "likeCount": "11.4万",
       "commentCount": "3509"
     },
@@ -942,31 +942,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-10",
-      "viewCount": "2325万",
+      "viewCount": "2327万",
       "likeCount": "19.1万",
-      "commentCount": "3502"
-    },
-    {
-      "rank": 2094,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/cBGzxjmRhTU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=cBGzxjmRhTU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – Magic 【LIVE “Atlantis” on WOWOW】",
-        "url": "https://www.youtube.com/watch?v=cBGzxjmRhTU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-09-14",
-      "viewCount": "2441万",
-      "likeCount": "11.7万",
-      "commentCount": "3497"
+      "commentCount": "3500"
     },
     {
       "rank": 2094,
@@ -988,7 +966,29 @@
       "publishedAt": "2022-09-27",
       "viewCount": "1065万",
       "likeCount": "6.2万",
-      "commentCount": "3497"
+      "commentCount": "3498"
+    },
+    {
+      "rank": 2095,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/cBGzxjmRhTU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=cBGzxjmRhTU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – Magic 【LIVE “Atlantis” on WOWOW】",
+        "url": "https://www.youtube.com/watch?v=cBGzxjmRhTU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-09-14",
+      "viewCount": "2443万",
+      "likeCount": "11.7万",
+      "commentCount": "3496"
     },
     {
       "rank": 2096,
@@ -1010,7 +1010,7 @@
       "publishedAt": "2014-10-16",
       "viewCount": "2143万",
       "likeCount": "11万",
-      "commentCount": "3493"
+      "commentCount": "3492"
     },
     {
       "rank": 2097,
@@ -1035,7 +1035,7 @@
       "commentCount": "3488"
     },
     {
-      "rank": 2098,
+      "rank": 2097,
       "thumb": {
         "img": "https://i.ytimg.com/vi/9G82-cb5zUk/default.jpg",
         "url": "https://www.youtube.com/watch?v=9G82-cb5zUk",
@@ -1052,9 +1052,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-14",
-      "viewCount": "3369万",
+      "viewCount": "3371万",
       "likeCount": "12.8万",
-      "commentCount": "3486"
+      "commentCount": "3488"
     },
     {
       "rank": 2099,
@@ -1076,7 +1076,7 @@
       "publishedAt": "2012-09-28",
       "viewCount": "1877万",
       "likeCount": "3.5万",
-      "commentCount": "3485"
+      "commentCount": "3486"
     },
     {
       "rank": 2100,
@@ -1096,9 +1096,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-11-30",
-      "viewCount": "2037万",
+      "viewCount": "2038万",
       "likeCount": "6.5万",
-      "commentCount": "3482"
+      "commentCount": "3483"
     }
   ]
 }
