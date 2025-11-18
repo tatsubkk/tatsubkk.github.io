@@ -3,6 +3,28 @@
     {
       "rank": 1951,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/EeRwJsjyoZs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=EeRwJsjyoZs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "RADWIMPS／なんでもないや（映画『君の名は。』主題歌）cover by 宇野悠人",
+        "url": "https://www.youtube.com/watch?v=EeRwJsjyoZs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "UNISH",
+        "url": "https://www.youtube.com/channel/UC9jcRWfhy4MH8qk8AscjDqw",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-09-06",
+      "viewCount": "4156万",
+      "likeCount": "9.5万",
+      "commentCount": "3935"
+    },
+    {
+      "rank": 1952,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/w73Ks2WX_XQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=w73Ks2WX_XQ",
         "target": "_blank"
@@ -20,28 +42,6 @@
       "publishedAt": "2019-03-16",
       "viewCount": "1186万",
       "likeCount": "24.1万",
-      "commentCount": "3932"
-    },
-    {
-      "rank": 1951,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/uP8CtPMAd5Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=uP8CtPMAd5Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "もう一度 - Tani Yuuki【MV】",
-        "url": "https://www.youtube.com/watch?v=uP8CtPMAd5Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Tani Yuuki",
-        "url": "https://www.youtube.com/channel/UCkPhQEwdob-Dc539qnJASvg",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-09-21",
-      "viewCount": "3329万",
-      "likeCount": "21.5万",
       "commentCount": "3932"
     },
     {
@@ -84,9 +84,9 @@
         "target": "_blank"
       },
       "publishedAt": "2011-02-03",
-      "viewCount": "3773万",
+      "viewCount": "3774万",
       "likeCount": "7.6万",
-      "commentCount": "3928"
+      "commentCount": "3929"
     },
     {
       "rank": 1955,
@@ -243,7 +243,7 @@
       "commentCount": "3897"
     },
     {
-      "rank": 1962,
+      "rank": 1961,
       "thumb": {
         "img": "https://i.ytimg.com/vi/1viIey_6F0o/default.jpg",
         "url": "https://www.youtube.com/watch?v=1viIey_6F0o",
@@ -260,9 +260,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-07-03",
-      "viewCount": "2881万",
+      "viewCount": "2882万",
       "likeCount": "15万",
-      "commentCount": "3896"
+      "commentCount": "3897"
     },
     {
       "rank": 1963,
@@ -348,34 +348,12 @@
         "target": "_blank"
       },
       "publishedAt": "2022-01-07",
-      "viewCount": "2068万",
+      "viewCount": "2069万",
       "likeCount": "29.6万",
       "commentCount": "3874"
     },
     {
       "rank": 1967,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/vhYsFIDAt2I/default.jpg",
-        "url": "https://www.youtube.com/watch?v=vhYsFIDAt2I",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "有機酸/ewe「カトラリー」(self cover) MV",
-        "url": "https://www.youtube.com/watch?v=vhYsFIDAt2I",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Yoh Kamiyama",
-        "url": "https://www.youtube.com/channel/UCw1U9K3S8WVWp7REGaHIW0A",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-12-30",
-      "viewCount": "3920万",
-      "likeCount": "47.5万",
-      "commentCount": "3872"
-    },
-    {
-      "rank": 1968,
       "thumb": {
         "img": "https://i.ytimg.com/vi/1Omyzc0ihyo/default.jpg",
         "url": "https://www.youtube.com/watch?v=1Omyzc0ihyo",
@@ -394,6 +372,28 @@
       "publishedAt": "2019-04-22",
       "viewCount": "1217万",
       "likeCount": "11.7万",
+      "commentCount": "3872"
+    },
+    {
+      "rank": 1968,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/vhYsFIDAt2I/default.jpg",
+        "url": "https://www.youtube.com/watch?v=vhYsFIDAt2I",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "有機酸/ewe「カトラリー」(self cover) MV",
+        "url": "https://www.youtube.com/watch?v=vhYsFIDAt2I",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Yoh Kamiyama",
+        "url": "https://www.youtube.com/channel/UCw1U9K3S8WVWp7REGaHIW0A",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-12-30",
+      "viewCount": "3921万",
+      "likeCount": "47.5万",
       "commentCount": "3871"
     },
     {
@@ -414,31 +414,9 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-10",
-      "viewCount": "1317万",
+      "viewCount": "1318万",
       "likeCount": "8万",
       "commentCount": "3859"
-    },
-    {
-      "rank": 1970,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/-72Lje6nwg0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=-72Lje6nwg0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【ももクロMV】Z女戦争 / ももいろクローバーZ（MOMOIRO CLOVER Z／OTOME SENSOU）",
-        "url": "https://www.youtube.com/watch?v=-72Lje6nwg0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "stardustdigital",
-        "url": "https://www.youtube.com/channel/UCvy4XUrowYvliS5rpLSAMuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-06-12",
-      "viewCount": "2059万",
-      "likeCount": "3万",
-      "commentCount": "3858"
     },
     {
       "rank": 1970,
@@ -460,7 +438,29 @@
       "publishedAt": "2018-02-19",
       "viewCount": "3745万",
       "likeCount": "21.4万",
-      "commentCount": "3858"
+      "commentCount": "3857"
+    },
+    {
+      "rank": 1971,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/-72Lje6nwg0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=-72Lje6nwg0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【ももクロMV】Z女戦争 / ももいろクローバーZ（MOMOIRO CLOVER Z／OTOME SENSOU）",
+        "url": "https://www.youtube.com/watch?v=-72Lje6nwg0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "stardustdigital",
+        "url": "https://www.youtube.com/channel/UCvy4XUrowYvliS5rpLSAMuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-06-12",
+      "viewCount": "2059万",
+      "likeCount": "3万",
+      "commentCount": "3855"
     },
     {
       "rank": 1972,
@@ -485,7 +485,7 @@
       "commentCount": "3851"
     },
     {
-      "rank": 1973,
+      "rank": 1972,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Vho5jBUfR28/default.jpg",
         "url": "https://www.youtube.com/watch?v=Vho5jBUfR28",
@@ -504,10 +504,10 @@
       "publishedAt": "2016-04-28",
       "viewCount": "2310万",
       "likeCount": "11.9万",
-      "commentCount": "3850"
+      "commentCount": "3851"
     },
     {
-      "rank": 1973,
+      "rank": 1974,
       "thumb": {
         "img": "https://i.ytimg.com/vi/GDnLHd2Ei3Y/default.jpg",
         "url": "https://www.youtube.com/watch?v=GDnLHd2Ei3Y",
@@ -524,8 +524,8 @@
         "target": "_blank"
       },
       "publishedAt": "2017-12-01",
-      "viewCount": "2280万",
-      "likeCount": "19.5万",
+      "viewCount": "2281万",
+      "likeCount": "19.6万",
       "commentCount": "3850"
     },
     {
@@ -570,7 +570,7 @@
       "publishedAt": "2014-11-19",
       "viewCount": "2138万",
       "likeCount": "11.9万",
-      "commentCount": "3841"
+      "commentCount": "3842"
     },
     {
       "rank": 1977,
@@ -592,7 +592,7 @@
       "publishedAt": "2013-03-24",
       "viewCount": "1764万",
       "likeCount": "8.2万",
-      "commentCount": "3829"
+      "commentCount": "3831"
     },
     {
       "rank": 1978,
@@ -619,6 +619,28 @@
     {
       "rank": 1979,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/u2YSzzXb2I4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=u2YSzzXb2I4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "cinema staff 「great escape」MV（TVアニメ「進撃の巨人」後期EDテーマ）",
+        "url": "https://www.youtube.com/watch?v=u2YSzzXb2I4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "cinemastaffchannel",
+        "url": "https://www.youtube.com/channel/UCRgqv_MJKfFfNVYdtGuO20g",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-09-04",
+      "viewCount": "1191万",
+      "likeCount": "13.4万",
+      "commentCount": "3826"
+    },
+    {
+      "rank": 1980,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/dMGFcDByan4/default.jpg",
         "url": "https://www.youtube.com/watch?v=dMGFcDByan4",
         "target": "_blank"
@@ -639,28 +661,6 @@
       "commentCount": "3825"
     },
     {
-      "rank": 1979,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/u2YSzzXb2I4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=u2YSzzXb2I4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "cinema staff 「great escape」MV（TVアニメ「進撃の巨人」後期EDテーマ）",
-        "url": "https://www.youtube.com/watch?v=u2YSzzXb2I4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "cinemastaffchannel",
-        "url": "https://www.youtube.com/channel/UCRgqv_MJKfFfNVYdtGuO20g",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-09-04",
-      "viewCount": "1191万",
-      "likeCount": "13.4万",
-      "commentCount": "3825"
-    },
-    {
       "rank": 1981,
       "thumb": {
         "img": "https://i.ytimg.com/vi/-NFhRWhkp7I/default.jpg",
@@ -678,9 +678,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-04",
-      "viewCount": "4200万",
+      "viewCount": "4205万",
       "likeCount": "16.9万",
-      "commentCount": "3820"
+      "commentCount": "3824"
     },
     {
       "rank": 1982,
@@ -700,31 +700,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-17",
-      "viewCount": "3353万",
+      "viewCount": "3355万",
       "likeCount": "21.2万",
       "commentCount": "3819"
-    },
-    {
-      "rank": 1983,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/UBmBGKjFuRQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=UBmBGKjFuRQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "℃-ute『夢幻クライマックス』(℃-ute[Dreamlike Climax])(Promotion Edit)",
-        "url": "https://www.youtube.com/watch?v=UBmBGKjFuRQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "℃-ute",
-        "url": "https://www.youtube.com/channel/UCcS2E_TVMSwbN4Q5eH7F_oA",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-10-14",
-      "viewCount": "1077万",
-      "likeCount": "8.6万",
-      "commentCount": "3812"
     },
     {
       "rank": 1983,
@@ -749,6 +727,28 @@
       "commentCount": "3812"
     },
     {
+      "rank": 1983,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/UBmBGKjFuRQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=UBmBGKjFuRQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "℃-ute『夢幻クライマックス』(℃-ute[Dreamlike Climax])(Promotion Edit)",
+        "url": "https://www.youtube.com/watch?v=UBmBGKjFuRQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "℃-ute",
+        "url": "https://www.youtube.com/channel/UCcS2E_TVMSwbN4Q5eH7F_oA",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-10-14",
+      "viewCount": "1077万",
+      "likeCount": "8.6万",
+      "commentCount": "3812"
+    },
+    {
       "rank": 1985,
       "thumb": {
         "img": "https://i.ytimg.com/vi/eJ-FOKIFGKw/default.jpg",
@@ -766,7 +766,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-06",
-      "viewCount": "2500万",
+      "viewCount": "2502万",
       "likeCount": "9.1万",
       "commentCount": "3807"
     },
@@ -810,9 +810,9 @@
         "target": "_blank"
       },
       "publishedAt": "2009-04-08",
-      "viewCount": "4099万",
+      "viewCount": "4100万",
       "likeCount": "9.3万",
-      "commentCount": "3804"
+      "commentCount": "3805"
     },
     {
       "rank": 1987,
@@ -834,10 +834,10 @@
       "publishedAt": "2015-05-06",
       "viewCount": "3313万",
       "likeCount": "7.7万",
-      "commentCount": "3804"
+      "commentCount": "3805"
     },
     {
-      "rank": 1987,
+      "rank": 1989,
       "thumb": {
         "img": "https://i.ytimg.com/vi/5iAQF_q6FSk/default.jpg",
         "url": "https://www.youtube.com/watch?v=5iAQF_q6FSk",
@@ -856,7 +856,7 @@
       "publishedAt": "2024-02-23",
       "viewCount": "1120万",
       "likeCount": "19.4万",
-      "commentCount": "3804"
+      "commentCount": "3803"
     },
     {
       "rank": 1990,
@@ -878,7 +878,7 @@
       "publishedAt": "2023-05-26",
       "viewCount": "1171万",
       "likeCount": "11.2万",
-      "commentCount": "3784"
+      "commentCount": "3785"
     },
     {
       "rank": 1991,
@@ -898,7 +898,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-03-14",
-      "viewCount": "3034万",
+      "viewCount": "3035万",
       "likeCount": "12.3万",
       "commentCount": "3781"
     },
@@ -971,6 +971,28 @@
     {
       "rank": 1995,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/ks8WPvlQpbg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ks8WPvlQpbg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Kalafina　『Magia』",
+        "url": "https://www.youtube.com/watch?v=ks8WPvlQpbg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kalafina Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCnRbD__LEKBj_ZR_dC8KmzQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-03-14",
+      "viewCount": "1988万",
+      "likeCount": "9.1万",
+      "commentCount": "3771"
+    },
+    {
+      "rank": 1996,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/bXJUq9tTAbc/default.jpg",
         "url": "https://www.youtube.com/watch?v=bXJUq9tTAbc",
         "target": "_blank"
@@ -989,28 +1011,6 @@
       "viewCount": "1413万",
       "likeCount": "6万",
       "commentCount": "3770"
-    },
-    {
-      "rank": 1996,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ks8WPvlQpbg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ks8WPvlQpbg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Kalafina　『Magia』",
-        "url": "https://www.youtube.com/watch?v=ks8WPvlQpbg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kalafina Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCnRbD__LEKBj_ZR_dC8KmzQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-03-14",
-      "viewCount": "1988万",
-      "likeCount": "9.1万",
-      "commentCount": "3769"
     },
     {
       "rank": 1997,
@@ -1037,6 +1037,28 @@
     {
       "rank": 1998,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/LAoHMWwwHs4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=LAoHMWwwHs4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "KinKi Kids「愛のかたまり」【from KinKi Kids Concert 2023-2024 ～Promise Place～】",
+        "url": "https://www.youtube.com/watch?v=LAoHMWwwHs4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "KinKi Kids",
+        "url": "https://www.youtube.com/channel/UCexu4C8IfBuC5CH7R4PLHFQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-07-21",
+      "viewCount": "2691万",
+      "likeCount": "11万",
+      "commentCount": "3761"
+    },
+    {
+      "rank": 1999,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/f712UmUYHyA/default.jpg",
         "url": "https://www.youtube.com/watch?v=f712UmUYHyA",
         "target": "_blank"
@@ -1057,28 +1079,6 @@
       "commentCount": "3759"
     },
     {
-      "rank": 1999,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/LAoHMWwwHs4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=LAoHMWwwHs4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "KinKi Kids「愛のかたまり」【from KinKi Kids Concert 2023-2024 ～Promise Place～】",
-        "url": "https://www.youtube.com/watch?v=LAoHMWwwHs4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "KinKi Kids",
-        "url": "https://www.youtube.com/channel/UCexu4C8IfBuC5CH7R4PLHFQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-07-21",
-      "viewCount": "2686万",
-      "likeCount": "11万",
-      "commentCount": "3758"
-    },
-    {
       "rank": 2000,
       "thumb": {
         "img": "https://i.ytimg.com/vi/wJ6FMjZkbMI/default.jpg",
@@ -1096,7 +1096,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-13",
-      "viewCount": "1119万",
+      "viewCount": "1120万",
       "likeCount": "17万",
       "commentCount": "3757"
     }

@@ -3,25 +3,25 @@
     {
       "rank": 3001,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/DvAwGsPX-_0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=DvAwGsPX-_0",
+        "img": "https://i.ytimg.com/vi/wFKvOPQyVL0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=wFKvOPQyVL0",
         "target": "_blank"
       },
       "title": {
-        "text": "優しい彗星",
-        "url": "https://www.youtube.com/watch?v=DvAwGsPX-_0",
+        "text": "KICK THE CAN CREW「千％」MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=wFKvOPQyVL0",
         "target": "_blank"
       },
       "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "text": "Victor Entertainment",
+        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
         "target": "_blank"
       },
-      "publishedAt": "2021-11-30",
+      "publishedAt": "2017-06-18",
       "viewCount": "1123万",
-      "likeCount": "2.9万",
-      "commentCount": "66",
-      "increment_d1": "1.44万"
+      "likeCount": "6万",
+      "commentCount": "3103",
+      "increment_d1": "657"
     },
     {
       "rank": 3002,
@@ -41,10 +41,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
-      "viewCount": "1122万",
+      "viewCount": "1123万",
       "likeCount": "4.3万",
       "commentCount": "49",
-      "increment_d1": "3273"
+      "increment_d1": "3231"
     },
     {
       "rank": 3003,
@@ -67,7 +67,7 @@
       "viewCount": "1122万",
       "likeCount": "6.8万",
       "commentCount": "2634",
-      "increment_d1": "329"
+      "increment_d1": "344"
     },
     {
       "rank": 3004,
@@ -90,7 +90,7 @@
       "viewCount": "1122万",
       "likeCount": "1.1万",
       "commentCount": "-",
-      "increment_d1": "1185"
+      "increment_d1": "847"
     },
     {
       "rank": 3005,
@@ -111,9 +111,9 @@
       },
       "publishedAt": "2021-09-12",
       "viewCount": "1122万",
-      "likeCount": "9.1万",
+      "likeCount": "9.2万",
       "commentCount": "2.2万",
-      "increment_d1": "1412"
+      "increment_d1": "1287"
     },
     {
       "rank": 3006,
@@ -136,10 +136,56 @@
       "viewCount": "1121万",
       "likeCount": "3.9万",
       "commentCount": "1107",
-      "increment_d1": "573"
+      "increment_d1": "568"
     },
     {
       "rank": 3007,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/zGnBtnUAj_I/default.jpg",
+        "url": "https://www.youtube.com/watch?v=zGnBtnUAj_I",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE - Folktale【LIVE from 『EDEN no SONO』】",
+        "url": "https://www.youtube.com/watch?v=zGnBtnUAj_I",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-07-13",
+      "viewCount": "1121万",
+      "likeCount": "8.8万",
+      "commentCount": "3706",
+      "increment_d1": "8189"
+    },
+    {
+      "rank": 3008,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/5iAQF_q6FSk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=5iAQF_q6FSk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Ado】Value",
+        "url": "https://www.youtube.com/watch?v=5iAQF_q6FSk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ado",
+        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-02-23",
+      "viewCount": "1120万",
+      "likeCount": "19.4万",
+      "commentCount": "3803",
+      "increment_d1": "7850"
+    },
+    {
+      "rank": 3009,
       "thumb": {
         "img": "https://i.ytimg.com/vi/SAHvDE9FFAE/default.jpg",
         "url": "https://www.youtube.com/watch?v=SAHvDE9FFAE",
@@ -159,56 +205,33 @@
       "viewCount": "1120万",
       "likeCount": "9.4万",
       "commentCount": "2177",
-      "increment_d1": "957"
-    },
-    {
-      "rank": 3008,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/zGnBtnUAj_I/default.jpg",
-        "url": "https://www.youtube.com/watch?v=zGnBtnUAj_I",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE - Folktale【LIVE from 『EDEN no SONO』】",
-        "url": "https://www.youtube.com/watch?v=zGnBtnUAj_I",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-07-13",
-      "viewCount": "1120万",
-      "likeCount": "8.8万",
-      "commentCount": "3708",
-      "increment_d1": "9068"
-    },
-    {
-      "rank": 3009,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/5iAQF_q6FSk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=5iAQF_q6FSk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Ado】Value",
-        "url": "https://www.youtube.com/watch?v=5iAQF_q6FSk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ado",
-        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-02-23",
-      "viewCount": "1120万",
-      "likeCount": "19.4万",
-      "commentCount": "3804",
-      "increment_d1": "7496"
+      "increment_d1": "955"
     },
     {
       "rank": 3010,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/wJ6FMjZkbMI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=wJ6FMjZkbMI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ONE OK ROCK - Broken Heart of Gold Japanese Version [OFFICIAL MUSIC VIDEO]",
+        "url": "https://www.youtube.com/watch?v=wJ6FMjZkbMI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ONE OK ROCK",
+        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-08-13",
+      "viewCount": "1120万",
+      "likeCount": "17万",
+      "commentCount": "3757",
+      "increment_d1": "3487"
+    },
+    {
+      "rank": 3011,
       "thumb": {
         "img": "https://i.ytimg.com/vi/YiPJkEZiIsQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=YiPJkEZiIsQ",
@@ -228,30 +251,7 @@
       "viewCount": "1119万",
       "likeCount": "3.1万",
       "commentCount": "1757",
-      "increment_d1": "168"
-    },
-    {
-      "rank": 3011,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/wJ6FMjZkbMI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=wJ6FMjZkbMI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ONE OK ROCK - Broken Heart of Gold Japanese Version [OFFICIAL MUSIC VIDEO]",
-        "url": "https://www.youtube.com/watch?v=wJ6FMjZkbMI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ONE OK ROCK",
-        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-08-13",
-      "viewCount": "1119万",
-      "likeCount": "17万",
-      "commentCount": "3757",
-      "increment_d1": "3192"
+      "increment_d1": "139"
     },
     {
       "rank": 3012,
@@ -274,7 +274,7 @@
       "viewCount": "1118万",
       "likeCount": "12.7万",
       "commentCount": "2090",
-      "increment_d1": "1544"
+      "increment_d1": "1680"
     },
     {
       "rank": 3013,
@@ -297,7 +297,7 @@
       "viewCount": "1118万",
       "likeCount": "3.7万",
       "commentCount": "844",
-      "increment_d1": "2287"
+      "increment_d1": "2305"
     },
     {
       "rank": 3014,
@@ -317,10 +317,10 @@
         "target": "_blank"
       },
       "publishedAt": "2009-09-28",
-      "viewCount": "1117万",
+      "viewCount": "1118万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "2647"
+      "increment_d1": "2683"
     },
     {
       "rank": 3015,
@@ -343,7 +343,7 @@
       "viewCount": "1117万",
       "likeCount": "9.5万",
       "commentCount": "3881",
-      "increment_d1": "720"
+      "increment_d1": "747"
     },
     {
       "rank": 3016,
@@ -366,7 +366,7 @@
       "viewCount": "1117万",
       "likeCount": "2.7万",
       "commentCount": "1165",
-      "increment_d1": "888"
+      "increment_d1": "832"
     },
     {
       "rank": 3017,
@@ -389,10 +389,33 @@
       "viewCount": "1117万",
       "likeCount": "9.1万",
       "commentCount": "2912",
-      "increment_d1": "1645"
+      "increment_d1": "1676"
     },
     {
       "rank": 3018,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/l1HeItO98FI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=l1HeItO98FI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "DISH// - プランA [Official Video]｜TVアニメ「逃げ上手の若君」 オープニングテーマ",
+        "url": "https://www.youtube.com/watch?v=l1HeItO98FI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "DISH// official YouTube channel",
+        "url": "https://www.youtube.com/channel/UCU6KkThusZwJccr_FQV9kvg",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-07-15",
+      "viewCount": "1117万",
+      "likeCount": "7.4万",
+      "commentCount": "2165",
+      "increment_d1": "4821"
+    },
+    {
+      "rank": 3019,
       "thumb": {
         "img": "https://i.ytimg.com/vi/mORyYinMBdg/default.jpg",
         "url": "https://www.youtube.com/watch?v=mORyYinMBdg",
@@ -412,10 +435,10 @@
       "viewCount": "1117万",
       "likeCount": "3.7万",
       "commentCount": "1339",
-      "increment_d1": "783"
+      "increment_d1": "937"
     },
     {
-      "rank": 3019,
+      "rank": 3020,
       "thumb": {
         "img": "https://i.ytimg.com/vi/cHcD1LcmxfA/default.jpg",
         "url": "https://www.youtube.com/watch?v=cHcD1LcmxfA",
@@ -435,56 +458,10 @@
       "viewCount": "1117万",
       "likeCount": "18万",
       "commentCount": "1056",
-      "increment_d1": "545"
-    },
-    {
-      "rank": 3020,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/l1HeItO98FI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=l1HeItO98FI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "DISH// - プランA [Official Video]｜TVアニメ「逃げ上手の若君」 オープニングテーマ",
-        "url": "https://www.youtube.com/watch?v=l1HeItO98FI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "DISH// official YouTube channel",
-        "url": "https://www.youtube.com/channel/UCU6KkThusZwJccr_FQV9kvg",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-07-15",
-      "viewCount": "1117万",
-      "likeCount": "7.4万",
-      "commentCount": "2164",
-      "increment_d1": "5732"
+      "increment_d1": "528"
     },
     {
       "rank": 3021,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/0l-qw9yRFOA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=0l-qw9yRFOA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ネクライトーキーMV「北上のススメ」",
-        "url": "https://www.youtube.com/watch?v=0l-qw9yRFOA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "NecryTalkie Official",
-        "url": "https://www.youtube.com/channel/UCOvn_LNao_hjdY-A5d7RUKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-01-29",
-      "viewCount": "1115万",
-      "likeCount": "31.2万",
-      "commentCount": "1.1万",
-      "increment_d1": "1711"
-    },
-    {
-      "rank": 3022,
       "thumb": {
         "img": "https://i.ytimg.com/vi/gdHO7yobgUk/default.jpg",
         "url": "https://www.youtube.com/watch?v=gdHO7yobgUk",
@@ -504,7 +481,30 @@
       "viewCount": "1115万",
       "likeCount": "13.2万",
       "commentCount": "3113",
-      "increment_d1": "2733"
+      "increment_d1": "2710"
+    },
+    {
+      "rank": 3022,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/0l-qw9yRFOA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=0l-qw9yRFOA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ネクライトーキーMV「北上のススメ」",
+        "url": "https://www.youtube.com/watch?v=0l-qw9yRFOA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "NecryTalkie Official",
+        "url": "https://www.youtube.com/channel/UCOvn_LNao_hjdY-A5d7RUKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-01-29",
+      "viewCount": "1115万",
+      "likeCount": "31.2万",
+      "commentCount": "1.1万",
+      "increment_d1": "1699"
     },
     {
       "rank": 3023,
@@ -527,7 +527,7 @@
       "viewCount": "1115万",
       "likeCount": "10.1万",
       "commentCount": "2709",
-      "increment_d1": "1183"
+      "increment_d1": "1064"
     },
     {
       "rank": 3024,
@@ -550,7 +550,7 @@
       "viewCount": "1115万",
       "likeCount": "5.5万",
       "commentCount": "3110",
-      "increment_d1": "1573"
+      "increment_d1": "1603"
     },
     {
       "rank": 3025,
@@ -573,7 +573,7 @@
       "viewCount": "1114万",
       "likeCount": "1.7万",
       "commentCount": "1421",
-      "increment_d1": "48"
+      "increment_d1": "64"
     },
     {
       "rank": 3026,
@@ -595,8 +595,8 @@
       "publishedAt": "2018-03-24",
       "viewCount": "1114万",
       "likeCount": "10.7万",
-      "commentCount": "3413",
-      "increment_d1": "451"
+      "commentCount": "3412",
+      "increment_d1": "375"
     },
     {
       "rank": 3027,
@@ -618,34 +618,11 @@
       "publishedAt": "2019-11-26",
       "viewCount": "1114万",
       "likeCount": "6.8万",
-      "commentCount": "1852",
-      "increment_d1": "5365"
+      "commentCount": "1854",
+      "increment_d1": "5219"
     },
     {
       "rank": 3028,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/juXD8vr5_r8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=juXD8vr5_r8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SixTONES - NEW WORLD -自撮りワンカットMV",
-        "url": "https://www.youtube.com/watch?v=juXD8vr5_r8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SixTONES",
-        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-03-20",
-      "viewCount": "1114万",
-      "likeCount": "-",
-      "commentCount": "8044",
-      "increment_d1": "554"
-    },
-    {
-      "rank": 3029,
       "thumb": {
         "img": "https://i.ytimg.com/vi/WVCJ91RHwe8/default.jpg",
         "url": "https://www.youtube.com/watch?v=WVCJ91RHwe8",
@@ -665,7 +642,30 @@
       "viewCount": "1114万",
       "likeCount": "12.1万",
       "commentCount": "3079",
-      "increment_d1": "1081"
+      "increment_d1": "942"
+    },
+    {
+      "rank": 3029,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/juXD8vr5_r8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=juXD8vr5_r8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SixTONES - NEW WORLD -自撮りワンカットMV",
+        "url": "https://www.youtube.com/watch?v=juXD8vr5_r8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SixTONES",
+        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-03-20",
+      "viewCount": "1114万",
+      "likeCount": "-",
+      "commentCount": "8042",
+      "increment_d1": "612"
     },
     {
       "rank": 3030,
@@ -688,7 +688,7 @@
       "viewCount": "1113万",
       "likeCount": "4.2万",
       "commentCount": "2283",
-      "increment_d1": "306"
+      "increment_d1": "262"
     },
     {
       "rank": 3031,
@@ -711,7 +711,7 @@
       "viewCount": "1113万",
       "likeCount": "7.3万",
       "commentCount": "1994",
-      "increment_d1": "1217"
+      "increment_d1": "1038"
     },
     {
       "rank": 3032,
@@ -734,7 +734,7 @@
       "viewCount": "1113万",
       "likeCount": "30.3万",
       "commentCount": "1.4万",
-      "increment_d1": "233"
+      "increment_d1": "241"
     },
     {
       "rank": 3033,
@@ -757,7 +757,7 @@
       "viewCount": "1112万",
       "likeCount": "15.6万",
       "commentCount": "3561",
-      "increment_d1": "890"
+      "increment_d1": "903"
     },
     {
       "rank": 3034,
@@ -780,7 +780,7 @@
       "viewCount": "1112万",
       "likeCount": "-",
       "commentCount": "1.4万",
-      "increment_d1": "621"
+      "increment_d1": "526"
     },
     {
       "rank": 3035,
@@ -803,7 +803,7 @@
       "viewCount": "1111万",
       "likeCount": "-",
       "commentCount": "1.2万",
-      "increment_d1": "1299"
+      "increment_d1": "1305"
     },
     {
       "rank": 3036,
@@ -825,8 +825,8 @@
       "publishedAt": "2018-10-17",
       "viewCount": "1111万",
       "likeCount": "10.3万",
-      "commentCount": "4640",
-      "increment_d1": "3318"
+      "commentCount": "4641",
+      "increment_d1": "2240"
     },
     {
       "rank": 3037,
@@ -849,7 +849,7 @@
       "viewCount": "1111万",
       "likeCount": "14.6万",
       "commentCount": "6511",
-      "increment_d1": "1017"
+      "increment_d1": "897"
     },
     {
       "rank": 3038,
@@ -869,10 +869,10 @@
         "target": "_blank"
       },
       "publishedAt": "2025-06-02",
-      "viewCount": "1110万",
+      "viewCount": "1111万",
       "likeCount": "11.4万",
       "commentCount": "2.8万",
-      "increment_d1": "3580"
+      "increment_d1": "3123"
     },
     {
       "rank": 3039,
@@ -895,7 +895,7 @@
       "viewCount": "1110万",
       "likeCount": "2万",
       "commentCount": "615",
-      "increment_d1": "64"
+      "increment_d1": "62"
     },
     {
       "rank": 3040,
@@ -917,8 +917,8 @@
       "publishedAt": "2021-07-21",
       "viewCount": "1110万",
       "likeCount": "-",
-      "commentCount": "6948",
-      "increment_d1": "960"
+      "commentCount": "6949",
+      "increment_d1": "871"
     },
     {
       "rank": 3041,
@@ -941,7 +941,7 @@
       "viewCount": "1109万",
       "likeCount": "4.8万",
       "commentCount": "1.3万",
-      "increment_d1": "2061"
+      "increment_d1": "1924"
     },
     {
       "rank": 3042,
@@ -963,8 +963,8 @@
       "publishedAt": "2024-12-30",
       "viewCount": "1109万",
       "likeCount": "10.8万",
-      "commentCount": "2840",
-      "increment_d1": "774"
+      "commentCount": "2837",
+      "increment_d1": "665"
     },
     {
       "rank": 3043,
@@ -987,7 +987,7 @@
       "viewCount": "1109万",
       "likeCount": "3.1万",
       "commentCount": "655",
-      "increment_d1": "198"
+      "increment_d1": "224"
     },
     {
       "rank": 3044,
@@ -1009,8 +1009,8 @@
       "publishedAt": "2023-11-13",
       "viewCount": "1108万",
       "likeCount": "7.8万",
-      "commentCount": "1193",
-      "increment_d1": "7663"
+      "commentCount": "1194",
+      "increment_d1": "6845"
     },
     {
       "rank": 3045,
@@ -1033,7 +1033,7 @@
       "viewCount": "1107万",
       "likeCount": "-",
       "commentCount": "336",
-      "increment_d1": "565"
+      "increment_d1": "514"
     },
     {
       "rank": 3046,
@@ -1056,7 +1056,7 @@
       "viewCount": "1107万",
       "likeCount": "-",
       "commentCount": "2247",
-      "increment_d1": "944"
+      "increment_d1": "853"
     },
     {
       "rank": 3047,
@@ -1079,10 +1079,33 @@
       "viewCount": "1107万",
       "likeCount": "2万",
       "commentCount": "669",
-      "increment_d1": "1211"
+      "increment_d1": "710"
     },
     {
       "rank": 3048,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/u9s4XKAmf9I/default.jpg",
+        "url": "https://www.youtube.com/watch?v=u9s4XKAmf9I",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MUSIC VIDEO】Mr.サマータイム 2018/サーカス",
+        "url": "https://www.youtube.com/watch?v=u9s4XKAmf9I",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "サウンド・サーカス",
+        "url": "https://www.youtube.com/channel/UC9Qf1MLLrBxicUgVaK2hL7Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-03-24",
+      "viewCount": "1107万",
+      "likeCount": "4.3万",
+      "commentCount": "2649",
+      "increment_d1": "1415"
+    },
+    {
+      "rank": 3049,
       "thumb": {
         "img": "https://i.ytimg.com/vi/iRcRbxeWt3Y/default.jpg",
         "url": "https://www.youtube.com/watch?v=iRcRbxeWt3Y",
@@ -1100,32 +1123,9 @@
       },
       "publishedAt": "2010-12-21",
       "viewCount": "1107万",
-      "likeCount": "9708",
+      "likeCount": "9709",
       "commentCount": "303",
-      "increment_d1": "486"
-    },
-    {
-      "rank": 3049,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/u9s4XKAmf9I/default.jpg",
-        "url": "https://www.youtube.com/watch?v=u9s4XKAmf9I",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MUSIC VIDEO】Mr.サマータイム 2018/サーカス",
-        "url": "https://www.youtube.com/watch?v=u9s4XKAmf9I",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "サウンド・サーカス",
-        "url": "https://www.youtube.com/channel/UC9Qf1MLLrBxicUgVaK2hL7Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-03-24",
-      "viewCount": "1106万",
-      "likeCount": "4.3万",
-      "commentCount": "2647",
-      "increment_d1": "1489"
+      "increment_d1": "341"
     },
     {
       "rank": 3050,
@@ -1148,7 +1148,7 @@
       "viewCount": "1106万",
       "likeCount": "6.2万",
       "commentCount": "2522",
-      "increment_d1": "1114"
+      "increment_d1": "1301"
     }
   ]
 }

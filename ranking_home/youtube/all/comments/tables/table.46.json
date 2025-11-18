@@ -1,7 +1,29 @@
 {
   "rows": [
     {
-      "rank": 2250,
+      "rank": 2251,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/CWp2ZDMWn2g/default.jpg",
+        "url": "https://www.youtube.com/watch?v=CWp2ZDMWn2g",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV】水曜日の約束-another story- feat. 成海聖奈（CV：雨宮天）／HoneyWorks",
+        "url": "https://www.youtube.com/watch?v=CWp2ZDMWn2g",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "HoneyWorks OFFICIAL",
+        "url": "https://www.youtube.com/channel/UCAaGaynFpku5cAx6OOSrW-w",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-10-23",
+      "viewCount": "1100万",
+      "likeCount": "17.2万",
+      "commentCount": "2969"
+    },
+    {
+      "rank": 2251,
       "thumb": {
         "img": "https://i.ytimg.com/vi/WkQE64jInOw/default.jpg",
         "url": "https://www.youtube.com/watch?v=WkQE64jInOw",
@@ -23,28 +45,6 @@
       "commentCount": "2969"
     },
     {
-      "rank": 2250,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ia0lAgfhbAo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ia0lAgfhbAo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "絢香 / にじいろ",
-        "url": "https://www.youtube.com/watch?v=ia0lAgfhbAo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-01-25",
-      "viewCount": "3000万",
-      "likeCount": "11.3万",
-      "commentCount": "2969"
-    },
-    {
       "rank": 2253,
       "thumb": {
         "img": "https://i.ytimg.com/vi/_9_rUFrgLI8/default.jpg",
@@ -62,9 +62,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-17",
-      "viewCount": "2187万",
+      "viewCount": "2189万",
       "likeCount": "17.3万",
-      "commentCount": "2962"
+      "commentCount": "2963"
     },
     {
       "rank": 2254,
@@ -150,7 +150,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-04-06",
-      "viewCount": "2264万",
+      "viewCount": "2265万",
       "likeCount": "12.2万",
       "commentCount": "2948"
     },
@@ -172,7 +172,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-30",
-      "viewCount": "1713万",
+      "viewCount": "1714万",
       "likeCount": "14.1万",
       "commentCount": "2947"
     },
@@ -201,6 +201,28 @@
     {
       "rank": 2260,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/JZSn-od-Hu0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=JZSn-od-Hu0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Premium】BLACKPINK - FOREVER YOUNG -KR Ver.-  [LIVE](（MAKUHARI MESSE EVENT HALL[2018.08.26] ))",
+        "url": "https://www.youtube.com/watch?v=JZSn-od-Hu0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-12-18",
+      "viewCount": "1391万",
+      "likeCount": "23.1万",
+      "commentCount": "2941"
+    },
+    {
+      "rank": 2260,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/VxR_BYPG7v4/default.jpg",
         "url": "https://www.youtube.com/watch?v=VxR_BYPG7v4",
         "target": "_blank"
@@ -221,28 +243,6 @@
       "commentCount": "2941"
     },
     {
-      "rank": 2261,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/JZSn-od-Hu0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=JZSn-od-Hu0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Premium】BLACKPINK - FOREVER YOUNG -KR Ver.-  [LIVE](（MAKUHARI MESSE EVENT HALL[2018.08.26] ))",
-        "url": "https://www.youtube.com/watch?v=JZSn-od-Hu0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-12-18",
-      "viewCount": "1390万",
-      "likeCount": "23.1万",
-      "commentCount": "2940"
-    },
-    {
       "rank": 2262,
       "thumb": {
         "img": "https://i.ytimg.com/vi/4X_l0bw_oEw/default.jpg",
@@ -260,9 +260,31 @@
         "target": "_blank"
       },
       "publishedAt": "2016-09-02",
-      "viewCount": "1713万",
+      "viewCount": "1714万",
       "likeCount": "7.6万",
-      "commentCount": "2938"
+      "commentCount": "2937"
+    },
+    {
+      "rank": 2263,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/cxM_FmezzFA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=cxM_FmezzFA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ヤングスキニー - 本当はね、【Official Music Video】",
+        "url": "https://www.youtube.com/watch?v=cxM_FmezzFA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ヤングスキニー",
+        "url": "https://www.youtube.com/channel/UCcg_rvE-fU2tATMwBAxW9bA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-10-05",
+      "viewCount": "3896万",
+      "likeCount": "23.5万",
+      "commentCount": "2931"
     },
     {
       "rank": 2263,
@@ -285,28 +307,6 @@
       "viewCount": "1631万",
       "likeCount": "7.8万",
       "commentCount": "2931"
-    },
-    {
-      "rank": 2264,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/cxM_FmezzFA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=cxM_FmezzFA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ヤングスキニー - 本当はね、【Official Music Video】",
-        "url": "https://www.youtube.com/watch?v=cxM_FmezzFA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ヤングスキニー",
-        "url": "https://www.youtube.com/channel/UCcg_rvE-fU2tATMwBAxW9bA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-10-05",
-      "viewCount": "3894万",
-      "likeCount": "23.5万",
-      "commentCount": "2930"
     },
     {
       "rank": 2265,
@@ -350,7 +350,29 @@
       "publishedAt": "2016-06-07",
       "viewCount": "1983万",
       "likeCount": "8.6万",
-      "commentCount": "2919"
+      "commentCount": "2920"
+    },
+    {
+      "rank": 2267,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/zhCtzmDWsN0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=zhCtzmDWsN0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SHISHAMO「明日も」",
+        "url": "https://www.youtube.com/watch?v=zhCtzmDWsN0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "shishamoofficial",
+        "url": "https://www.youtube.com/channel/UCqLwLsPsfuy_vSNK09sLomw",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-02-12",
+      "viewCount": "8528万",
+      "likeCount": "38.4万",
+      "commentCount": "2917"
     },
     {
       "rank": 2267,
@@ -370,12 +392,12 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-07",
-      "viewCount": "1471万",
+      "viewCount": "1473万",
       "likeCount": "10.3万",
-      "commentCount": "2916"
+      "commentCount": "2917"
     },
     {
-      "rank": 2268,
+      "rank": 2269,
       "thumb": {
         "img": "https://i.ytimg.com/vi/TSYtV4xa8Pw/default.jpg",
         "url": "https://www.youtube.com/watch?v=TSYtV4xa8Pw",
@@ -394,29 +416,7 @@
       "publishedAt": "2023-04-26",
       "viewCount": "2139万",
       "likeCount": "19.5万",
-      "commentCount": "2915"
-    },
-    {
-      "rank": 2269,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/zhCtzmDWsN0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=zhCtzmDWsN0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SHISHAMO「明日も」",
-        "url": "https://www.youtube.com/watch?v=zhCtzmDWsN0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "shishamoofficial",
-        "url": "https://www.youtube.com/channel/UCqLwLsPsfuy_vSNK09sLomw",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-02-12",
-      "viewCount": "8526万",
-      "likeCount": "38.4万",
-      "commentCount": "2913"
+      "commentCount": "2916"
     },
     {
       "rank": 2270,
@@ -480,7 +480,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-10-18",
-      "viewCount": "1732万",
+      "viewCount": "1733万",
       "likeCount": "5.6万",
       "commentCount": "2908"
     },
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-11-10",
-      "viewCount": "1478万",
+      "viewCount": "1479万",
       "likeCount": "12.8万",
       "commentCount": "2879"
     },
@@ -592,7 +592,29 @@
       "publishedAt": "2017-07-11",
       "viewCount": "1166万",
       "likeCount": "8万",
-      "commentCount": "2874"
+      "commentCount": "2872"
+    },
+    {
+      "rank": 2278,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/tKOk5YPlP7g/default.jpg",
+        "url": "https://www.youtube.com/watch?v=tKOk5YPlP7g",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "加藤ミリヤ　『Aitai』",
+        "url": "https://www.youtube.com/watch?v=tKOk5YPlP7g",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "加藤ミリヤ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCqT7VnHfRlvZU8mGU-HAvGw",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-06-13",
+      "viewCount": "3836万",
+      "likeCount": "8.2万",
+      "commentCount": "2871"
     },
     {
       "rank": 2278,
@@ -617,28 +639,6 @@
       "commentCount": "2871"
     },
     {
-      "rank": 2279,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/tKOk5YPlP7g/default.jpg",
-        "url": "https://www.youtube.com/watch?v=tKOk5YPlP7g",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "加藤ミリヤ　『Aitai』",
-        "url": "https://www.youtube.com/watch?v=tKOk5YPlP7g",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "加藤ミリヤ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCqT7VnHfRlvZU8mGU-HAvGw",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-06-13",
-      "viewCount": "3835万",
-      "likeCount": "8.2万",
-      "commentCount": "2870"
-    },
-    {
       "rank": 2280,
       "thumb": {
         "img": "https://i.ytimg.com/vi/xFGHzTG3Cek/default.jpg",
@@ -658,7 +658,7 @@
       "publishedAt": "2022-06-14",
       "viewCount": "1556万",
       "likeCount": "19万",
-      "commentCount": "2868"
+      "commentCount": "2869"
     },
     {
       "rank": 2281,
@@ -678,9 +678,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-08",
-      "viewCount": "1778万",
+      "viewCount": "1779万",
       "likeCount": "5.6万",
-      "commentCount": "2864"
+      "commentCount": "2865"
     },
     {
       "rank": 2282,
@@ -707,28 +707,6 @@
     {
       "rank": 2283,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/NcMfwZ8AgRI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=NcMfwZ8AgRI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BAD HOP - Last Party Never End feat. Tiji Jojo, YZERR, Yellow Pato & Vingo(Official Video)",
-        "url": "https://www.youtube.com/watch?v=NcMfwZ8AgRI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BAD HOP",
-        "url": "https://www.youtube.com/channel/UCcb0Ixexedx7eXLzgYZh6bg",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-02-09",
-      "viewCount": "2616万",
-      "likeCount": "9.5万",
-      "commentCount": "2850"
-    },
-    {
-      "rank": 2283,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/k1S0i8FoV4c/default.jpg",
         "url": "https://www.youtube.com/watch?v=k1S0i8FoV4c",
         "target": "_blank"
@@ -744,31 +722,31 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-10",
-      "viewCount": "1524万",
+      "viewCount": "1525万",
       "likeCount": "5.1万",
-      "commentCount": "2850"
+      "commentCount": "2852"
     },
     {
-      "rank": 2285,
+      "rank": 2284,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/abKcYyQ1V7Y/default.jpg",
-        "url": "https://www.youtube.com/watch?v=abKcYyQ1V7Y",
+        "img": "https://i.ytimg.com/vi/NcMfwZ8AgRI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=NcMfwZ8AgRI",
         "target": "_blank"
       },
       "title": {
-        "text": "米津玄師「地球儀」× 宮﨑駿「君たちはどう生きるか」Kenshi Yonezu - Spinning Globe (Hayao Miyazaki, The Boy and The Heron)",
-        "url": "https://www.youtube.com/watch?v=abKcYyQ1V7Y",
+        "text": "BAD HOP - Last Party Never End feat. Tiji Jojo, YZERR, Yellow Pato & Vingo(Official Video)",
+        "url": "https://www.youtube.com/watch?v=NcMfwZ8AgRI",
         "target": "_blank"
       },
       "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "text": "BAD HOP",
+        "url": "https://www.youtube.com/channel/UCcb0Ixexedx7eXLzgYZh6bg",
         "target": "_blank"
       },
-      "publishedAt": "2023-12-03",
-      "viewCount": "1909万",
-      "likeCount": "13.3万",
-      "commentCount": "2844"
+      "publishedAt": "2024-02-09",
+      "viewCount": "2618万",
+      "likeCount": "9.5万",
+      "commentCount": "2847"
     },
     {
       "rank": 2285,
@@ -790,6 +768,28 @@
       "publishedAt": "2013-12-10",
       "viewCount": "1364万",
       "likeCount": "6.9万",
+      "commentCount": "2845"
+    },
+    {
+      "rank": 2286,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/abKcYyQ1V7Y/default.jpg",
+        "url": "https://www.youtube.com/watch?v=abKcYyQ1V7Y",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "米津玄師「地球儀」× 宮﨑駿「君たちはどう生きるか」Kenshi Yonezu - Spinning Globe (Hayao Miyazaki, The Boy and The Heron)",
+        "url": "https://www.youtube.com/watch?v=abKcYyQ1V7Y",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-12-03",
+      "viewCount": "1910万",
+      "likeCount": "13.3万",
       "commentCount": "2844"
     },
     {
@@ -815,7 +815,29 @@
       "commentCount": "2843"
     },
     {
-      "rank": 2288,
+      "rank": 2287,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/vMk81-Y_cYU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=vMk81-Y_cYU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "JUJU　『この夜を止めてよ』",
+        "url": "https://www.youtube.com/watch?v=vMk81-Y_cYU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "JUJU Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UC6XufPOPYUXtBKJCFgkPkVA",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-11-07",
+      "viewCount": "3621万",
+      "likeCount": "7.6万",
+      "commentCount": "2843"
+    },
+    {
+      "rank": 2289,
       "thumb": {
         "img": "https://i.ytimg.com/vi/NP60Qqjfdhs/default.jpg",
         "url": "https://www.youtube.com/watch?v=NP60Qqjfdhs",
@@ -837,73 +859,7 @@
       "commentCount": "2842"
     },
     {
-      "rank": 2288,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/vMk81-Y_cYU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=vMk81-Y_cYU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "JUJU　『この夜を止めてよ』",
-        "url": "https://www.youtube.com/watch?v=vMk81-Y_cYU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "JUJU Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UC6XufPOPYUXtBKJCFgkPkVA",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-11-07",
-      "viewCount": "3621万",
-      "likeCount": "7.6万",
-      "commentCount": "2842"
-    },
-    {
       "rank": 2290,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/-Vma8NU8cds/default.jpg",
-        "url": "https://www.youtube.com/watch?v=-Vma8NU8cds",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[Official M/V] cosmosy \"zigy=zigy\"",
-        "url": "https://www.youtube.com/watch?v=-Vma8NU8cds",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "cosmosy_yt",
-        "url": "https://www.youtube.com/channel/UCFpb1KZtdQgjdbJJL4bvc7Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-12-30",
-      "viewCount": "1109万",
-      "likeCount": "10.8万",
-      "commentCount": "2840"
-    },
-    {
-      "rank": 2291,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/eW620xcBnVE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=eW620xcBnVE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【syudou】インザバックルーム",
-        "url": "https://www.youtube.com/watch?v=eW620xcBnVE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "syudou",
-        "url": "https://www.youtube.com/channel/UCraC7460yGQF4GDmSjCecpQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-11-09",
-      "viewCount": "2073万",
-      "likeCount": "21.8万",
-      "commentCount": "2839"
-    },
-    {
-      "rank": 2292,
       "thumb": {
         "img": "https://i.ytimg.com/vi/5mzsD2rfR94/default.jpg",
         "url": "https://www.youtube.com/watch?v=5mzsD2rfR94",
@@ -922,32 +878,54 @@
       "publishedAt": "2016-04-30",
       "viewCount": "2263万",
       "likeCount": "9.3万",
-      "commentCount": "2838"
+      "commentCount": "2839"
     },
     {
-      "rank": 2293,
+      "rank": 2290,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/EZ5RGA2UULE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=EZ5RGA2UULE",
+        "img": "https://i.ytimg.com/vi/eW620xcBnVE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=eW620xcBnVE",
         "target": "_blank"
       },
       "title": {
-        "text": "優里『シャッター』Official Music Video",
-        "url": "https://www.youtube.com/watch?v=EZ5RGA2UULE",
+        "text": "【syudou】インザバックルーム",
+        "url": "https://www.youtube.com/watch?v=eW620xcBnVE",
         "target": "_blank"
       },
       "channel": {
-        "text": "優里 Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCBNVZPlWoR7oArfzJNrK9yw",
+        "text": "syudou",
+        "url": "https://www.youtube.com/channel/UCraC7460yGQF4GDmSjCecpQ",
         "target": "_blank"
       },
-      "publishedAt": "2022-03-30",
-      "viewCount": "4937万",
-      "likeCount": "16.4万",
-      "commentCount": "2833"
+      "publishedAt": "2022-11-09",
+      "viewCount": "2074万",
+      "likeCount": "21.8万",
+      "commentCount": "2839"
     },
     {
-      "rank": 2294,
+      "rank": 2292,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/-Vma8NU8cds/default.jpg",
+        "url": "https://www.youtube.com/watch?v=-Vma8NU8cds",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[Official M/V] cosmosy \"zigy=zigy\"",
+        "url": "https://www.youtube.com/watch?v=-Vma8NU8cds",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "cosmosy_yt",
+        "url": "https://www.youtube.com/channel/UCFpb1KZtdQgjdbJJL4bvc7Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-12-30",
+      "viewCount": "1109万",
+      "likeCount": "10.8万",
+      "commentCount": "2837"
+    },
+    {
+      "rank": 2293,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3Yq58d2rsRk/default.jpg",
         "url": "https://www.youtube.com/watch?v=3Yq58d2rsRk",
@@ -964,12 +942,34 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-03",
-      "viewCount": "1841万",
-      "likeCount": "12.8万",
-      "commentCount": "2832"
+      "viewCount": "1843万",
+      "likeCount": "12.9万",
+      "commentCount": "2835"
     },
     {
       "rank": 2294,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/EZ5RGA2UULE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=EZ5RGA2UULE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "優里『シャッター』Official Music Video",
+        "url": "https://www.youtube.com/watch?v=EZ5RGA2UULE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "優里 Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCBNVZPlWoR7oArfzJNrK9yw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-03-30",
+      "viewCount": "4939万",
+      "likeCount": "16.4万",
+      "commentCount": "2833"
+    },
+    {
+      "rank": 2295,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qyQvbemmlN8/default.jpg",
         "url": "https://www.youtube.com/watch?v=qyQvbemmlN8",
@@ -1052,12 +1052,12 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-21",
-      "viewCount": "1241万",
-      "likeCount": "4.8万",
+      "viewCount": "1242万",
+      "likeCount": "4.9万",
       "commentCount": "2825"
     },
     {
-      "rank": 2299,
+      "rank": 2298,
       "thumb": {
         "img": "https://i.ytimg.com/vi/mTx2gahMnr8/default.jpg",
         "url": "https://www.youtube.com/watch?v=mTx2gahMnr8",
@@ -1074,9 +1074,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-02-25",
-      "viewCount": "2259万",
-      "likeCount": "11.1万",
-      "commentCount": "2824"
+      "viewCount": "2261万",
+      "likeCount": "11.2万",
+      "commentCount": "2825"
     },
     {
       "rank": 2300,
