@@ -21,7 +21,7 @@
       "viewCount": "1858万",
       "likeCount": "4.4万",
       "commentCount": "6390",
-      "increment_d1": "1032"
+      "increment_d1": "1104"
     },
     {
       "rank": 1852,
@@ -41,13 +41,36 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-07",
-      "viewCount": "1857万",
+      "viewCount": "1858万",
       "likeCount": "9.8万",
-      "commentCount": "3384",
-      "increment_d1": "7179"
+      "commentCount": "3385",
+      "increment_d1": "7466"
     },
     {
       "rank": 1853,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/e_pdE__o5D8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=e_pdE__o5D8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Official】Uru 「アンビバレント」 TVアニメ『薬屋のひとりごと』第2クールOPテーマ",
+        "url": "https://www.youtube.com/watch?v=e_pdE__o5D8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Uru Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-01-19",
+      "viewCount": "1856万",
+      "likeCount": "11.7万",
+      "commentCount": "1490",
+      "increment_d1": "1.28万"
+    },
+    {
+      "rank": 1854,
       "thumb": {
         "img": "https://i.ytimg.com/vi/_uGr_txlbRE/default.jpg",
         "url": "https://www.youtube.com/watch?v=_uGr_txlbRE",
@@ -67,30 +90,7 @@
       "viewCount": "1855万",
       "likeCount": "2.1万",
       "commentCount": "464",
-      "increment_d1": "841"
-    },
-    {
-      "rank": 1854,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/e_pdE__o5D8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=e_pdE__o5D8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Official】Uru 「アンビバレント」 TVアニメ『薬屋のひとりごと』第2クールOPテーマ",
-        "url": "https://www.youtube.com/watch?v=e_pdE__o5D8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Uru Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-01-19",
-      "viewCount": "1855万",
-      "likeCount": "11.7万",
-      "commentCount": "1490",
-      "increment_d1": "1.38万"
+      "increment_d1": "847"
     },
     {
       "rank": 1855,
@@ -112,8 +112,8 @@
       "publishedAt": "2015-11-10",
       "viewCount": "1854万",
       "likeCount": "6万",
-      "commentCount": "1675",
-      "increment_d1": "961"
+      "commentCount": "1676",
+      "increment_d1": "912"
     },
     {
       "rank": 1856,
@@ -136,7 +136,7 @@
       "viewCount": "1854万",
       "likeCount": "13万",
       "commentCount": "7333",
-      "increment_d1": "623"
+      "increment_d1": "635"
     },
     {
       "rank": 1857,
@@ -158,34 +158,11 @@
       "publishedAt": "2009-12-24",
       "viewCount": "1854万",
       "likeCount": "8.6万",
-      "commentCount": "3424",
-      "increment_d1": "1369"
+      "commentCount": "3425",
+      "increment_d1": "1457"
     },
     {
       "rank": 1858,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/SC8cLCziXOs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=SC8cLCziXOs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "THE SUPER FRUIT - チグハグ［Official Music Video］",
-        "url": "https://www.youtube.com/watch?v=SC8cLCziXOs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "THE SUPER FRUIT",
-        "url": "https://www.youtube.com/channel/UCj3aEusqsYZydfwvHWsXs9A",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-08-06",
-      "viewCount": "1853万",
-      "likeCount": "13.1万",
-      "commentCount": "6195",
-      "increment_d1": "1538"
-    },
-    {
-      "rank": 1859,
       "thumb": {
         "img": "https://i.ytimg.com/vi/XPT91f5vU-k/default.jpg",
         "url": "https://www.youtube.com/watch?v=XPT91f5vU-k",
@@ -202,10 +179,33 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-02",
-      "viewCount": "1853万",
+      "viewCount": "1854万",
       "likeCount": "17.3万",
-      "commentCount": "9749",
-      "increment_d1": "2640"
+      "commentCount": "9748",
+      "increment_d1": "2675"
+    },
+    {
+      "rank": 1859,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/SC8cLCziXOs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=SC8cLCziXOs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "THE SUPER FRUIT - チグハグ［Official Music Video］",
+        "url": "https://www.youtube.com/watch?v=SC8cLCziXOs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "THE SUPER FRUIT",
+        "url": "https://www.youtube.com/channel/UCj3aEusqsYZydfwvHWsXs9A",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-08-06",
+      "viewCount": "1854万",
+      "likeCount": "13.1万",
+      "commentCount": "6195",
+      "increment_d1": "1634"
     },
     {
       "rank": 1860,
@@ -228,7 +228,7 @@
       "viewCount": "1853万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "6855"
+      "increment_d1": "7486"
     },
     {
       "rank": 1861,
@@ -248,10 +248,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-06-20",
-      "viewCount": "1851万",
+      "viewCount": "1852万",
       "likeCount": "4.9万",
-      "commentCount": "2431",
-      "increment_d1": "4105"
+      "commentCount": "2433",
+      "increment_d1": "4378"
     },
     {
       "rank": 1862,
@@ -274,30 +274,30 @@
       "viewCount": "1851万",
       "likeCount": "7.2万",
       "commentCount": "5682",
-      "increment_d1": "1118"
+      "increment_d1": "1180"
     },
     {
       "rank": 1863,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/_LwwObssPno/default.jpg",
-        "url": "https://www.youtube.com/watch?v=_LwwObssPno",
+        "img": "https://i.ytimg.com/vi/mEQZNRT6Pqk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=mEQZNRT6Pqk",
         "target": "_blank"
       },
       "title": {
-        "text": "RADWIMPS - いいんですか? 2017 ver. [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=_LwwObssPno",
+        "text": "就寝御礼 (Original Mix)",
+        "url": "https://www.youtube.com/watch?v=mEQZNRT6Pqk",
         "target": "_blank"
       },
       "channel": {
-        "text": "RADWIMPS",
-        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
+        "text": "PSYQUI - Topic",
+        "url": "https://www.youtube.com/channel/UCN6g6I3POYZnacDNvOLgJfg",
         "target": "_blank"
       },
-      "publishedAt": "2017-01-25",
-      "viewCount": "1850万",
-      "likeCount": "20.2万",
-      "commentCount": "7903",
-      "increment_d1": "1016"
+      "publishedAt": "2020-01-23",
+      "viewCount": "1851万",
+      "likeCount": "22.3万",
+      "commentCount": "1328",
+      "increment_d1": "1.23万"
     },
     {
       "rank": 1864,
@@ -317,33 +317,33 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-14",
-      "viewCount": "1850万",
+      "viewCount": "1851万",
       "likeCount": "7.7万",
-      "commentCount": "1793",
-      "increment_d1": "7987"
+      "commentCount": "1795",
+      "increment_d1": "8309"
     },
     {
       "rank": 1865,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/mEQZNRT6Pqk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=mEQZNRT6Pqk",
+        "img": "https://i.ytimg.com/vi/_LwwObssPno/default.jpg",
+        "url": "https://www.youtube.com/watch?v=_LwwObssPno",
         "target": "_blank"
       },
       "title": {
-        "text": "就寝御礼 (Original Mix)",
-        "url": "https://www.youtube.com/watch?v=mEQZNRT6Pqk",
+        "text": "RADWIMPS - いいんですか? 2017 ver. [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=_LwwObssPno",
         "target": "_blank"
       },
       "channel": {
-        "text": "PSYQUI - Topic",
-        "url": "https://www.youtube.com/channel/UCN6g6I3POYZnacDNvOLgJfg",
+        "text": "RADWIMPS",
+        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
         "target": "_blank"
       },
-      "publishedAt": "2020-01-23",
-      "viewCount": "1850万",
-      "likeCount": "22.3万",
-      "commentCount": "1328",
-      "increment_d1": "1.38万"
+      "publishedAt": "2017-01-25",
+      "viewCount": "1851万",
+      "likeCount": "20.2万",
+      "commentCount": "7903",
+      "increment_d1": "1022"
     },
     {
       "rank": 1866,
@@ -363,10 +363,10 @@
         "target": "_blank"
       },
       "publishedAt": "2009-07-02",
-      "viewCount": "1849万",
+      "viewCount": "1850万",
       "likeCount": "6.1万",
-      "commentCount": "2451",
-      "increment_d1": "4843"
+      "commentCount": "2452",
+      "increment_d1": "5575"
     },
     {
       "rank": 1867,
@@ -389,7 +389,7 @@
       "viewCount": "1848万",
       "likeCount": "15.2万",
       "commentCount": "8419",
-      "increment_d1": "831"
+      "increment_d1": "800"
     },
     {
       "rank": 1868,
@@ -412,10 +412,33 @@
       "viewCount": "1845万",
       "likeCount": "17.4万",
       "commentCount": "7.4万",
-      "increment_d1": "1545"
+      "increment_d1": "1632"
     },
     {
       "rank": 1869,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/3Yq58d2rsRk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=3Yq58d2rsRk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Saucy Dog「紫苑」Music Video",
+        "url": "https://www.youtube.com/watch?v=3Yq58d2rsRk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Saucy Dog",
+        "url": "https://www.youtube.com/channel/UCs8nP5mUR3pwJmgixsul8Hw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-10-03",
+      "viewCount": "1845万",
+      "likeCount": "12.9万",
+      "commentCount": "2835",
+      "increment_d1": "1.64万"
+    },
+    {
+      "rank": 1870,
       "thumb": {
         "img": "https://i.ytimg.com/vi/BuU2bocSfDo/default.jpg",
         "url": "https://www.youtube.com/watch?v=BuU2bocSfDo",
@@ -434,31 +457,8 @@
       "publishedAt": "2015-04-16",
       "viewCount": "1843万",
       "likeCount": "15.3万",
-      "commentCount": "6371",
-      "increment_d1": "2428"
-    },
-    {
-      "rank": 1870,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/3Yq58d2rsRk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=3Yq58d2rsRk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Saucy Dog「紫苑」Music Video",
-        "url": "https://www.youtube.com/watch?v=3Yq58d2rsRk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Saucy Dog",
-        "url": "https://www.youtube.com/channel/UCs8nP5mUR3pwJmgixsul8Hw",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-10-03",
-      "viewCount": "1843万",
-      "likeCount": "12.9万",
-      "commentCount": "2835",
-      "increment_d1": "1.8万"
+      "commentCount": "6374",
+      "increment_d1": "2472"
     },
     {
       "rank": 1871,
@@ -481,10 +481,33 @@
       "viewCount": "1843万",
       "likeCount": "14万",
       "commentCount": "7166",
-      "increment_d1": "2802"
+      "increment_d1": "2929"
     },
     {
       "rank": 1872,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/5g6E_UY5G88/default.jpg",
+        "url": "https://www.youtube.com/watch?v=5g6E_UY5G88",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SixTONES – バリア [YouTube ver.]",
+        "url": "https://www.youtube.com/watch?v=5g6E_UY5G88",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SixTONES",
+        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-02-14",
+      "viewCount": "1843万",
+      "likeCount": "14.1万",
+      "commentCount": "2.2万",
+      "increment_d1": "1.47万"
+    },
+    {
+      "rank": 1873,
       "thumb": {
         "img": "https://i.ytimg.com/vi/kt3jPiUs5MM/default.jpg",
         "url": "https://www.youtube.com/watch?v=kt3jPiUs5MM",
@@ -504,30 +527,7 @@
       "viewCount": "1842万",
       "likeCount": "85.9万",
       "commentCount": "1.7万",
-      "increment_d1": "1443"
-    },
-    {
-      "rank": 1873,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/5g6E_UY5G88/default.jpg",
-        "url": "https://www.youtube.com/watch?v=5g6E_UY5G88",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SixTONES – バリア [YouTube ver.]",
-        "url": "https://www.youtube.com/watch?v=5g6E_UY5G88",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SixTONES",
-        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-02-14",
-      "viewCount": "1842万",
-      "likeCount": "14.1万",
-      "commentCount": "2.2万",
-      "increment_d1": "1.48万"
+      "increment_d1": "1185"
     },
     {
       "rank": 1874,
@@ -547,36 +547,13 @@
         "target": "_blank"
       },
       "publishedAt": "2015-12-22",
-      "viewCount": "1841万",
+      "viewCount": "1842万",
       "likeCount": "8.2万",
       "commentCount": "9589",
-      "increment_d1": "895"
+      "increment_d1": "809"
     },
     {
       "rank": 1875,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/TPMQmLakizM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=TPMQmLakizM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Official髭男dism - Subtitle [Official Audio]",
-        "url": "https://www.youtube.com/watch?v=TPMQmLakizM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Official髭男dism",
-        "url": "https://www.youtube.com/channel/UC9M4B-fqveLyWPGNdSkam7g",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-10-11",
-      "viewCount": "1841万",
-      "likeCount": "12.7万",
-      "commentCount": "3659",
-      "increment_d1": "740"
-    },
-    {
-      "rank": 1876,
       "thumb": {
         "img": "https://i.ytimg.com/vi/QObudA5CwOo/default.jpg",
         "url": "https://www.youtube.com/watch?v=QObudA5CwOo",
@@ -596,7 +573,30 @@
       "viewCount": "1841万",
       "likeCount": "17.1万",
       "commentCount": "6641",
-      "increment_d1": "4769"
+      "increment_d1": "5461"
+    },
+    {
+      "rank": 1876,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/TPMQmLakizM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=TPMQmLakizM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Official髭男dism - Subtitle [Official Audio]",
+        "url": "https://www.youtube.com/watch?v=TPMQmLakizM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Official髭男dism",
+        "url": "https://www.youtube.com/channel/UC9M4B-fqveLyWPGNdSkam7g",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-10-11",
+      "viewCount": "1841万",
+      "likeCount": "12.7万",
+      "commentCount": "3659",
+      "increment_d1": "780"
     },
     {
       "rank": 1877,
@@ -616,10 +616,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-18",
-      "viewCount": "1838万",
-      "likeCount": "18.3万",
+      "viewCount": "1840万",
+      "likeCount": "18.4万",
       "commentCount": "2286",
-      "increment_d1": "1.77万"
+      "increment_d1": "1.61万"
     },
     {
       "rank": 1878,
@@ -639,10 +639,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-07-26",
-      "viewCount": "1835万",
+      "viewCount": "1836万",
       "likeCount": "20.7万",
-      "commentCount": "3333",
-      "increment_d1": "1.12万"
+      "commentCount": "3334",
+      "increment_d1": "1.09万"
     },
     {
       "rank": 1879,
@@ -662,10 +662,10 @@
         "target": "_blank"
       },
       "publishedAt": "2009-06-19",
-      "viewCount": "1835万",
+      "viewCount": "1836万",
       "likeCount": "5.4万",
-      "commentCount": "1362",
-      "increment_d1": "6749"
+      "commentCount": "1363",
+      "increment_d1": "7352"
     },
     {
       "rank": 1880,
@@ -685,10 +685,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-12-01",
-      "viewCount": "1834万",
+      "viewCount": "1835万",
       "likeCount": "-",
       "commentCount": "1.4万",
-      "increment_d1": "3782"
+      "increment_d1": "3706"
     },
     {
       "rank": 1881,
@@ -710,34 +710,11 @@
       "publishedAt": "2018-02-20",
       "viewCount": "1833万",
       "likeCount": "8.6万",
-      "commentCount": "9614",
-      "increment_d1": "1037"
+      "commentCount": "9612",
+      "increment_d1": "979"
     },
     {
       "rank": 1882,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/XZsGfCg3Ve4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=XZsGfCg3Ve4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Superfly『黒い雫』Music Video〜フジテレビ系水10ドラマ「無痛〜診える眼〜」主題歌〜",
-        "url": "https://www.youtube.com/watch?v=XZsGfCg3Ve4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Superfly",
-        "url": "https://www.youtube.com/channel/UCW1vck-e025HMBwix6cW_qw",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-11-23",
-      "viewCount": "1830万",
-      "likeCount": "4.8万",
-      "commentCount": "1184",
-      "increment_d1": "570"
-    },
-    {
-      "rank": 1883,
       "thumb": {
         "img": "https://i.ytimg.com/vi/W0C_VJqjtpw/default.jpg",
         "url": "https://www.youtube.com/watch?v=W0C_VJqjtpw",
@@ -754,10 +731,33 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-12",
-      "viewCount": "1830万",
+      "viewCount": "1831万",
       "likeCount": "20万",
-      "commentCount": "3699",
-      "increment_d1": "8844"
+      "commentCount": "3700",
+      "increment_d1": "9601"
+    },
+    {
+      "rank": 1883,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/XZsGfCg3Ve4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=XZsGfCg3Ve4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Superfly『黒い雫』Music Video〜フジテレビ系水10ドラマ「無痛〜診える眼〜」主題歌〜",
+        "url": "https://www.youtube.com/watch?v=XZsGfCg3Ve4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Superfly",
+        "url": "https://www.youtube.com/channel/UCW1vck-e025HMBwix6cW_qw",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-11-23",
+      "viewCount": "1831万",
+      "likeCount": "4.8万",
+      "commentCount": "1184",
+      "increment_d1": "620"
     },
     {
       "rank": 1884,
@@ -779,8 +779,8 @@
       "publishedAt": "2019-03-05",
       "viewCount": "1830万",
       "likeCount": "64.1万",
-      "commentCount": "5537",
-      "increment_d1": "3245"
+      "commentCount": "5538",
+      "increment_d1": "3763"
     },
     {
       "rank": 1885,
@@ -802,8 +802,8 @@
       "publishedAt": "2019-01-10",
       "viewCount": "1830万",
       "likeCount": "27.8万",
-      "commentCount": "9074",
-      "increment_d1": "4196"
+      "commentCount": "9070",
+      "increment_d1": "4130"
     },
     {
       "rank": 1886,
@@ -823,13 +823,36 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-08",
-      "viewCount": "1829万",
+      "viewCount": "1830万",
       "likeCount": "12.1万",
       "commentCount": "1.9万",
-      "increment_d1": "2683"
+      "increment_d1": "2900"
     },
     {
       "rank": 1887,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/B36u-tuublE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=B36u-tuublE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "コレサワ「元彼女のみなさまへ」【Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=B36u-tuublE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "コレサワ",
+        "url": "https://www.youtube.com/channel/UCY47aDuWPpH18NJlidLg04A",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-09-04",
+      "viewCount": "1826万",
+      "likeCount": "13.3万",
+      "commentCount": "2479",
+      "increment_d1": "1.09万"
+    },
+    {
+      "rank": 1888,
       "thumb": {
         "img": "https://i.ytimg.com/vi/yV0j3-SGaYA/default.jpg",
         "url": "https://www.youtube.com/watch?v=yV0j3-SGaYA",
@@ -849,30 +872,7 @@
       "viewCount": "1826万",
       "likeCount": "21.1万",
       "commentCount": "1.1万",
-      "increment_d1": "1040"
-    },
-    {
-      "rank": 1888,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/B36u-tuublE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=B36u-tuublE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "コレサワ「元彼女のみなさまへ」【Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=B36u-tuublE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "コレサワ",
-        "url": "https://www.youtube.com/channel/UCY47aDuWPpH18NJlidLg04A",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-09-04",
-      "viewCount": "1825万",
-      "likeCount": "13.3万",
-      "commentCount": "2478",
-      "increment_d1": "1.06万"
+      "increment_d1": "898"
     },
     {
       "rank": 1889,
@@ -895,10 +895,33 @@
       "viewCount": "1824万",
       "likeCount": "3.9万",
       "commentCount": "1674",
-      "increment_d1": "198"
+      "increment_d1": "205"
     },
     {
       "rank": 1890,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/C6SX7B1o-w4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=C6SX7B1o-w4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – インフェルノ 【LIVE from M-ON!】",
+        "url": "https://www.youtube.com/watch?v=C6SX7B1o-w4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-05-07",
+      "viewCount": "1822万",
+      "likeCount": "15.9万",
+      "commentCount": "5492",
+      "increment_d1": "9472"
+    },
+    {
+      "rank": 1891,
       "thumb": {
         "img": "https://i.ytimg.com/vi/v79I6c7fWtA/default.jpg",
         "url": "https://www.youtube.com/watch?v=v79I6c7fWtA",
@@ -918,30 +941,7 @@
       "viewCount": "1821万",
       "likeCount": "22.2万",
       "commentCount": "6146",
-      "increment_d1": "4229"
-    },
-    {
-      "rank": 1891,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/C6SX7B1o-w4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=C6SX7B1o-w4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – インフェルノ 【LIVE from M-ON!】",
-        "url": "https://www.youtube.com/watch?v=C6SX7B1o-w4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-05-07",
-      "viewCount": "1821万",
-      "likeCount": "15.9万",
-      "commentCount": "5491",
-      "increment_d1": "9938"
+      "increment_d1": "4371"
     },
     {
       "rank": 1892,
@@ -964,7 +964,7 @@
       "viewCount": "1820万",
       "likeCount": "7.3万",
       "commentCount": "5286",
-      "increment_d1": "2594"
+      "increment_d1": "2758"
     },
     {
       "rank": 1893,
@@ -984,10 +984,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-29",
-      "viewCount": "1819万",
+      "viewCount": "1820万",
       "likeCount": "11.8万",
-      "commentCount": "2177",
-      "increment_d1": "7352"
+      "commentCount": "2178",
+      "increment_d1": "7056"
     },
     {
       "rank": 1894,
@@ -1007,13 +1007,36 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-18",
-      "viewCount": "1818万",
+      "viewCount": "1819万",
       "likeCount": "5.5万",
       "commentCount": "2634",
-      "increment_d1": "8404"
+      "increment_d1": "8433"
     },
     {
       "rank": 1895,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/rZxR9bpsYLU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=rZxR9bpsYLU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Fujii Kaze - MO-EH-YO (Official Video)",
+        "url": "https://www.youtube.com/watch?v=rZxR9bpsYLU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Fujii Kaze",
+        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-10-24",
+      "viewCount": "1816万",
+      "likeCount": "17.7万",
+      "commentCount": "6246",
+      "increment_d1": "5792"
+    },
+    {
+      "rank": 1896,
       "thumb": {
         "img": "https://i.ytimg.com/vi/pGfHpnZgP38/default.jpg",
         "url": "https://www.youtube.com/watch?v=pGfHpnZgP38",
@@ -1033,30 +1056,7 @@
       "viewCount": "1816万",
       "likeCount": "6.9万",
       "commentCount": "68",
-      "increment_d1": "85"
-    },
-    {
-      "rank": 1896,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/rZxR9bpsYLU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=rZxR9bpsYLU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Fujii Kaze - MO-EH-YO (Official Video)",
-        "url": "https://www.youtube.com/watch?v=rZxR9bpsYLU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Fujii Kaze",
-        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-10-24",
-      "viewCount": "1815万",
-      "likeCount": "17.7万",
-      "commentCount": "6246",
-      "increment_d1": "5492"
+      "increment_d1": "100"
     },
     {
       "rank": 1897,
@@ -1079,10 +1079,56 @@
       "viewCount": "1813万",
       "likeCount": "2.8万",
       "commentCount": "1602",
-      "increment_d1": "549"
+      "increment_d1": "588"
     },
     {
       "rank": 1898,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Ug0N4qGRp_w/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Ug0N4qGRp_w",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "けっかおーらい / こっちのけんと MV",
+        "url": "https://www.youtube.com/watch?v=Ug0N4qGRp_w",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "こっちのけんと",
+        "url": "https://www.youtube.com/channel/UC1laSZHo_6VBXU9FmfGNwFA",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-04-08",
+      "viewCount": "1813万",
+      "likeCount": "22万",
+      "commentCount": "6076",
+      "increment_d1": "2.65万"
+    },
+    {
+      "rank": 1899,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/By2_SOQH9PA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=By2_SOQH9PA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE「フロリジナル」Official Music Video",
+        "url": "https://www.youtube.com/watch?v=By2_SOQH9PA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-11-07",
+      "viewCount": "1813万",
+      "likeCount": "12.6万",
+      "commentCount": "3565",
+      "increment_d1": "2.09万"
+    },
+    {
+      "rank": 1900,
       "thumb": {
         "img": "https://i.ytimg.com/vi/i7seozLvbHw/default.jpg",
         "url": "https://www.youtube.com/watch?v=i7seozLvbHw",
@@ -1102,53 +1148,7 @@
       "viewCount": "1812万",
       "likeCount": "12.7万",
       "commentCount": "3619",
-      "increment_d1": "2523"
-    },
-    {
-      "rank": 1899,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/NypVvG9fQ7o/default.jpg",
-        "url": "https://www.youtube.com/watch?v=NypVvG9fQ7o",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "でんぱ組.inc「サクラあっぱれーしょん」MV",
-        "url": "https://www.youtube.com/watch?v=NypVvG9fQ7o",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "でんぱ組.inc",
-        "url": "https://www.youtube.com/channel/UClrYrddWLPz-18PyGK_ADPg",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-02-28",
-      "viewCount": "1811万",
-      "likeCount": "5.2万",
-      "commentCount": "3590",
-      "increment_d1": "754"
-    },
-    {
-      "rank": 1900,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/oCRlKdMnPLI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=oCRlKdMnPLI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【ももクロMV】Z伝説～終わりなき革命～ / ももいろクローバーZ（MOMOIRO CLOVER Z／Z DENSETSU -OWARINAKI KAKUMEI-）",
-        "url": "https://www.youtube.com/watch?v=oCRlKdMnPLI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "stardustdigital",
-        "url": "https://www.youtube.com/channel/UCvy4XUrowYvliS5rpLSAMuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-06-20",
-      "viewCount": "1811万",
-      "likeCount": "2.3万",
-      "commentCount": "2565",
-      "increment_d1": "364"
+      "increment_d1": "2314"
     }
   ]
 }

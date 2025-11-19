@@ -1,7 +1,7 @@
 {
   "rows": [
     {
-      "rank": 2449,
+      "rank": 2450,
       "thumb": {
         "img": "https://i.ytimg.com/vi/tWsPC2-nkAY/default.jpg",
         "url": "https://www.youtube.com/watch?v=tWsPC2-nkAY",
@@ -25,28 +25,6 @@
     {
       "rank": 2452,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/Oezmni8SklA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Oezmni8SklA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "緑黄色社会 『Mela!』Live Video（SINGALONG tour 2020 -last piece-）",
-        "url": "https://www.youtube.com/watch?v=Oezmni8SklA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "緑黄色社会",
-        "url": "https://www.youtube.com/channel/UC_1GPhYlXI2ka2ji5gnqWFQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-12-25",
-      "viewCount": "2192万",
-      "likeCount": "10.5万",
-      "commentCount": "2432"
-    },
-    {
-      "rank": 2453,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/pKbMVYmYCN4/default.jpg",
         "url": "https://www.youtube.com/watch?v=pKbMVYmYCN4",
         "target": "_blank"
@@ -62,12 +40,34 @@
         "target": "_blank"
       },
       "publishedAt": "2013-06-20",
-      "viewCount": "1851万",
+      "viewCount": "1852万",
       "likeCount": "4.9万",
-      "commentCount": "2431"
+      "commentCount": "2433"
     },
     {
-      "rank": 2453,
+      "rank": 2452,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Oezmni8SklA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Oezmni8SklA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "緑黄色社会 『Mela!』Live Video（SINGALONG tour 2020 -last piece-）",
+        "url": "https://www.youtube.com/watch?v=Oezmni8SklA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "緑黄色社会",
+        "url": "https://www.youtube.com/channel/UC_1GPhYlXI2ka2ji5gnqWFQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-12-25",
+      "viewCount": "2193万",
+      "likeCount": "10.5万",
+      "commentCount": "2433"
+    },
+    {
+      "rank": 2454,
       "thumb": {
         "img": "https://i.ytimg.com/vi/9ypEFXTakV8/default.jpg",
         "url": "https://www.youtube.com/watch?v=9ypEFXTakV8",
@@ -130,7 +130,29 @@
       "publishedAt": "2018-10-31",
       "viewCount": "1605万",
       "likeCount": "8万",
-      "commentCount": "2421"
+      "commentCount": "2424"
+    },
+    {
+      "rank": 2457,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ysqGvafOcaQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ysqGvafOcaQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "優里『恋人じゃなくなった日』Official Music Video",
+        "url": "https://www.youtube.com/watch?v=ysqGvafOcaQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "優里 Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCBNVZPlWoR7oArfzJNrK9yw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-03-01",
+      "viewCount": "2246万",
+      "likeCount": "10.5万",
+      "commentCount": "2417"
     },
     {
       "rank": 2457,
@@ -152,29 +174,7 @@
       "publishedAt": "2022-03-04",
       "viewCount": "1153万",
       "likeCount": "16.3万",
-      "commentCount": "2416"
-    },
-    {
-      "rank": 2457,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ysqGvafOcaQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ysqGvafOcaQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "優里『恋人じゃなくなった日』Official Music Video",
-        "url": "https://www.youtube.com/watch?v=ysqGvafOcaQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "優里 Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCBNVZPlWoR7oArfzJNrK9yw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-03-01",
-      "viewCount": "2245万",
-      "likeCount": "10.5万",
-      "commentCount": "2416"
+      "commentCount": "2417"
     },
     {
       "rank": 2459,
@@ -194,7 +194,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-23",
-      "viewCount": "1754万",
+      "viewCount": "1756万",
       "likeCount": "10万",
       "commentCount": "2415"
     },
@@ -216,7 +216,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-12-21",
-      "viewCount": "1636万",
+      "viewCount": "1637万",
       "likeCount": "7.6万",
       "commentCount": "2412"
     },
@@ -238,7 +238,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-05",
-      "viewCount": "1582万",
+      "viewCount": "1583万",
       "likeCount": "8.5万",
       "commentCount": "2407"
     },
@@ -260,7 +260,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-07-23",
-      "viewCount": "1198万",
+      "viewCount": "1199万",
       "likeCount": "6.4万",
       "commentCount": "2404"
     },
@@ -284,7 +284,29 @@
       "publishedAt": "2018-09-29",
       "viewCount": "1775万",
       "likeCount": "13万",
-      "commentCount": "2398"
+      "commentCount": "2399"
+    },
+    {
+      "rank": 2464,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/qknDI1k39Ic/default.jpg",
+        "url": "https://www.youtube.com/watch?v=qknDI1k39Ic",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "羊文学 - 光るとき (Official Music Video) 【テレビアニメ「平家物語」OPテーマ】",
+        "url": "https://www.youtube.com/watch?v=qknDI1k39Ic",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "羊文学",
+        "url": "https://www.youtube.com/channel/UCm0qsuAG6RN2FYKZ_r1nPyg",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-01-11",
+      "viewCount": "1517万",
+      "likeCount": "12.1万",
+      "commentCount": "2394"
     },
     {
       "rank": 2464,
@@ -306,28 +328,6 @@
       "publishedAt": "2016-06-21",
       "viewCount": "1017万",
       "likeCount": "3.3万",
-      "commentCount": "2394"
-    },
-    {
-      "rank": 2464,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/qknDI1k39Ic/default.jpg",
-        "url": "https://www.youtube.com/watch?v=qknDI1k39Ic",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "羊文学 - 光るとき (Official Music Video) 【テレビアニメ「平家物語」OPテーマ】",
-        "url": "https://www.youtube.com/watch?v=qknDI1k39Ic",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "羊文学",
-        "url": "https://www.youtube.com/channel/UCm0qsuAG6RN2FYKZ_r1nPyg",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-01-11",
-      "viewCount": "1516万",
-      "likeCount": "12.1万",
       "commentCount": "2394"
     },
     {
@@ -392,7 +392,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-04",
-      "viewCount": "5499万",
+      "viewCount": "5502万",
       "likeCount": "17万",
       "commentCount": "2388"
     },
@@ -414,9 +414,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-15",
-      "viewCount": "5766万",
-      "likeCount": "80.4万",
-      "commentCount": "2382"
+      "viewCount": "5771万",
+      "likeCount": "80.5万",
+      "commentCount": "2383"
     },
     {
       "rank": 2470,
@@ -438,10 +438,10 @@
       "publishedAt": "2011-04-27",
       "viewCount": "1009万",
       "likeCount": "2.1万",
-      "commentCount": "2381"
+      "commentCount": "2380"
     },
     {
-      "rank": 2471,
+      "rank": 2470,
       "thumb": {
         "img": "https://i.ytimg.com/vi/YzSTJLX8m4o/default.jpg",
         "url": "https://www.youtube.com/watch?v=YzSTJLX8m4o",
@@ -502,7 +502,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-28",
-      "viewCount": "2097万",
+      "viewCount": "2098万",
       "likeCount": "5.2万",
       "commentCount": "2374"
     },
@@ -524,9 +524,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-27",
-      "viewCount": "1904万",
+      "viewCount": "1906万",
       "likeCount": "13.2万",
-      "commentCount": "2371"
+      "commentCount": "2372"
     },
     {
       "rank": 2475,
@@ -568,7 +568,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-10-16",
-      "viewCount": "2142万",
+      "viewCount": "2143万",
       "likeCount": "9.3万",
       "commentCount": "2355"
     },
@@ -636,32 +636,10 @@
       "publishedAt": "2010-04-06",
       "viewCount": "2104万",
       "likeCount": "4万",
-      "commentCount": "2349"
+      "commentCount": "2350"
     },
     {
       "rank": 2480,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/hWiki8UOImY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=hWiki8UOImY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[Alexandros] - Run Away (MV) @ALEXANDROSchannel",
-        "url": "https://www.youtube.com/watch?v=hWiki8UOImY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "UK.PROJECT official",
-        "url": "https://www.youtube.com/channel/UCtujx899kMGXfznLufWhfJQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-12-05",
-      "viewCount": "2464万",
-      "likeCount": "7.3万",
-      "commentCount": "2347"
-    },
-    {
-      "rank": 2481,
       "thumb": {
         "img": "https://i.ytimg.com/vi/cZFPVAOrdXQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=cZFPVAOrdXQ",
@@ -681,6 +659,28 @@
       "viewCount": "1737万",
       "likeCount": "7万",
       "commentCount": "2345"
+    },
+    {
+      "rank": 2481,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/hWiki8UOImY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=hWiki8UOImY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[Alexandros] - Run Away (MV) @ALEXANDROSchannel",
+        "url": "https://www.youtube.com/watch?v=hWiki8UOImY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "UK.PROJECT official",
+        "url": "https://www.youtube.com/channel/UCtujx899kMGXfznLufWhfJQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-12-05",
+      "viewCount": "2464万",
+      "likeCount": "7.3万",
+      "commentCount": "2344"
     },
     {
       "rank": 2482,
@@ -729,28 +729,6 @@
     {
       "rank": 2484,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/DCwynUEaHuw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=DCwynUEaHuw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "星野源 - くだらないの中に（Live at Osaka Jo Hall 2016）",
-        "url": "https://www.youtube.com/watch?v=DCwynUEaHuw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "星野源 Gen Hoshino",
-        "url": "https://www.youtube.com/channel/UCPKlrgZXnnb89nSeITvTdGA",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-05-24",
-      "viewCount": "1437万",
-      "likeCount": "7.5万",
-      "commentCount": "2329"
-    },
-    {
-      "rank": 2485,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/AMWDAuPx26Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=AMWDAuPx26Q",
         "target": "_blank"
@@ -771,6 +749,28 @@
       "commentCount": "2328"
     },
     {
+      "rank": 2485,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/DCwynUEaHuw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=DCwynUEaHuw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "星野源 - くだらないの中に（Live at Osaka Jo Hall 2016）",
+        "url": "https://www.youtube.com/watch?v=DCwynUEaHuw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "星野源 Gen Hoshino",
+        "url": "https://www.youtube.com/channel/UCPKlrgZXnnb89nSeITvTdGA",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-05-24",
+      "viewCount": "1437万",
+      "likeCount": "7.5万",
+      "commentCount": "2327"
+    },
+    {
       "rank": 2486,
       "thumb": {
         "img": "https://i.ytimg.com/vi/pvqvBAA-0AE/default.jpg",
@@ -788,7 +788,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-03",
-      "viewCount": "6111万",
+      "viewCount": "6116万",
       "likeCount": "20.4万",
       "commentCount": "2326"
     },
@@ -861,6 +861,28 @@
     {
       "rank": 2490,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/UQpRzyNXDBg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=UQpRzyNXDBg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MY FIRST STORY -虚言NEUROSE-【Official Video】",
+        "url": "https://www.youtube.com/watch?v=UQpRzyNXDBg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "JMS BASE",
+        "url": "https://www.youtube.com/channel/UCj8RXhnU4RR9wnRUYQoyLqw",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-10-22",
+      "viewCount": "1092万",
+      "likeCount": "7.7万",
+      "commentCount": "2306"
+    },
+    {
+      "rank": 2491,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/hLtLjhV7PR0/default.jpg",
         "url": "https://www.youtube.com/watch?v=hLtLjhV7PR0",
         "target": "_blank"
@@ -879,28 +901,6 @@
       "viewCount": "1104万",
       "likeCount": "4.2万",
       "commentCount": "2305"
-    },
-    {
-      "rank": 2491,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/UQpRzyNXDBg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=UQpRzyNXDBg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MY FIRST STORY -虚言NEUROSE-【Official Video】",
-        "url": "https://www.youtube.com/watch?v=UQpRzyNXDBg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "JMS BASE",
-        "url": "https://www.youtube.com/channel/UCj8RXhnU4RR9wnRUYQoyLqw",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-10-22",
-      "viewCount": "1092万",
-      "likeCount": "7.7万",
-      "commentCount": "2304"
     },
     {
       "rank": 2492,
@@ -927,28 +927,6 @@
     {
       "rank": 2493,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/6h6AQbdTkaE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=6h6AQbdTkaE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "mabataki / Vaundy：MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=6h6AQbdTkaE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Vaundy",
-        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-09-09",
-      "viewCount": "1896万",
-      "likeCount": "11.8万",
-      "commentCount": "2302"
-    },
-    {
-      "rank": 2493,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/0vJrBbcsfac/default.jpg",
         "url": "https://www.youtube.com/watch?v=0vJrBbcsfac",
         "target": "_blank"
@@ -966,6 +944,28 @@
       "publishedAt": "2019-10-31",
       "viewCount": "1318万",
       "likeCount": "5.5万",
+      "commentCount": "2302"
+    },
+    {
+      "rank": 2493,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/RKYgWHSN7fM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=RKYgWHSN7fM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "モーニング娘。'14 『What is LOVE?』 (MV)",
+        "url": "https://www.youtube.com/watch?v=RKYgWHSN7fM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "モーニング娘。",
+        "url": "https://www.youtube.com/channel/UCoKXb95K5h3sME3c9OCBaeA",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-01-03",
+      "viewCount": "1199万",
+      "likeCount": "4.8万",
       "commentCount": "2302"
     },
     {
@@ -991,26 +991,26 @@
       "commentCount": "2302"
     },
     {
-      "rank": 2496,
+      "rank": 2493,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/RKYgWHSN7fM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=RKYgWHSN7fM",
+        "img": "https://i.ytimg.com/vi/6h6AQbdTkaE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=6h6AQbdTkaE",
         "target": "_blank"
       },
       "title": {
-        "text": "モーニング娘。'14 『What is LOVE?』 (MV)",
-        "url": "https://www.youtube.com/watch?v=RKYgWHSN7fM",
+        "text": "mabataki / Vaundy：MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=6h6AQbdTkaE",
         "target": "_blank"
       },
       "channel": {
-        "text": "モーニング娘。",
-        "url": "https://www.youtube.com/channel/UCoKXb95K5h3sME3c9OCBaeA",
+        "text": "Vaundy",
+        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
         "target": "_blank"
       },
-      "publishedAt": "2014-01-03",
-      "viewCount": "1199万",
-      "likeCount": "4.8万",
-      "commentCount": "2300"
+      "publishedAt": "2022-09-09",
+      "viewCount": "1896万",
+      "likeCount": "11.8万",
+      "commentCount": "2302"
     },
     {
       "rank": 2497,
@@ -1030,9 +1030,31 @@
         "target": "_blank"
       },
       "publishedAt": "2018-03-06",
-      "viewCount": "2007万",
+      "viewCount": "2008万",
       "likeCount": "6.4万",
       "commentCount": "2297"
+    },
+    {
+      "rank": 2498,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/tBlKD8TciBI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=tBlKD8TciBI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "安田レイ『Mirror』「魔法科高校の劣等生」EDテーマ",
+        "url": "https://www.youtube.com/watch?v=tBlKD8TciBI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "安田レイ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCNixIyfycKqFCsScXnzK2Hg",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-08-27",
+      "viewCount": "1737万",
+      "likeCount": "8.7万",
+      "commentCount": "2296"
     },
     {
       "rank": 2498,
@@ -1057,28 +1079,6 @@
       "commentCount": "2296"
     },
     {
-      "rank": 2499,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/tBlKD8TciBI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=tBlKD8TciBI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "安田レイ『Mirror』「魔法科高校の劣等生」EDテーマ",
-        "url": "https://www.youtube.com/watch?v=tBlKD8TciBI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "安田レイ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCNixIyfycKqFCsScXnzK2Hg",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-08-27",
-      "viewCount": "1737万",
-      "likeCount": "8.7万",
-      "commentCount": "2295"
-    },
-    {
       "rank": 2500,
       "thumb": {
         "img": "https://i.ytimg.com/vi/gG7evVU0OdA/default.jpg",
@@ -1098,7 +1098,7 @@
       "publishedAt": "2012-08-08",
       "viewCount": "3037万",
       "likeCount": "6.4万",
-      "commentCount": "2287"
+      "commentCount": "2289"
     }
   ]
 }

@@ -25,6 +25,28 @@
     {
       "rank": 2752,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/eYh7prKmMio/default.jpg",
+        "url": "https://www.youtube.com/watch?v=eYh7prKmMio",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "I Don't Like Mondays.  / PAINT (TVアニメ「ONE PIECE」主題歌)",
+        "url": "https://www.youtube.com/watch?v=eYh7prKmMio",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "I Don't Like Mondays.",
+        "url": "https://www.youtube.com/channel/UCPFQ7ao1TbzJUuITXsG0oww",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-01-09",
+      "viewCount": "1668万",
+      "likeCount": "5.6万",
+      "commentCount": "1600"
+    },
+    {
+      "rank": 2752,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/Quv9IhgPswc/default.jpg",
         "url": "https://www.youtube.com/watch?v=Quv9IhgPswc",
         "target": "_blank"
@@ -42,28 +64,6 @@
       "publishedAt": "2009-04-08",
       "viewCount": "1052万",
       "likeCount": "2.4万",
-      "commentCount": "1600"
-    },
-    {
-      "rank": 2752,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/eYh7prKmMio/default.jpg",
-        "url": "https://www.youtube.com/watch?v=eYh7prKmMio",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "I Don't Like Mondays.  / PAINT (TVアニメ「ONE PIECE」主題歌)",
-        "url": "https://www.youtube.com/watch?v=eYh7prKmMio",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "I Don't Like Mondays.",
-        "url": "https://www.youtube.com/channel/UCPFQ7ao1TbzJUuITXsG0oww",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-01-09",
-      "viewCount": "1667万",
-      "likeCount": "5.6万",
       "commentCount": "1600"
     },
     {
@@ -86,10 +86,10 @@
       "publishedAt": "2012-06-13",
       "viewCount": "2500万",
       "likeCount": "7.4万",
-      "commentCount": "1598"
+      "commentCount": "1599"
     },
     {
-      "rank": 2754,
+      "rank": 2755,
       "thumb": {
         "img": "https://i.ytimg.com/vi/y2nWIwmM8Y0/default.jpg",
         "url": "https://www.youtube.com/watch?v=y2nWIwmM8Y0",
@@ -108,7 +108,7 @@
       "publishedAt": "2012-06-10",
       "viewCount": "2353万",
       "likeCount": "5.3万",
-      "commentCount": "1598"
+      "commentCount": "1597"
     },
     {
       "rank": 2756,
@@ -150,7 +150,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-10-16",
-      "viewCount": "1584万",
+      "viewCount": "1585万",
       "likeCount": "7.3万",
       "commentCount": "1594"
     },
@@ -179,28 +179,6 @@
     {
       "rank": 2759,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/s8eLpnWweTU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=s8eLpnWweTU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mr.Children「エソラ」 Tour2015 REFLECTION Live",
-        "url": "https://www.youtube.com/watch?v=s8eLpnWweTU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mr.Children Official Channel",
-        "url": "https://www.youtube.com/channel/UCXteDRy5qB0IjA8WPusCJ7w",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-05-09",
-      "viewCount": "1260万",
-      "likeCount": "2.9万",
-      "commentCount": "1589"
-    },
-    {
-      "rank": 2759,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/x6pzZ_IGQAg/default.jpg",
         "url": "https://www.youtube.com/watch?v=x6pzZ_IGQAg",
         "target": "_blank"
@@ -221,7 +199,7 @@
       "commentCount": "1589"
     },
     {
-      "rank": 2761,
+      "rank": 2760,
       "thumb": {
         "img": "https://i.ytimg.com/vi/VSucxMB_Z6k/default.jpg",
         "url": "https://www.youtube.com/watch?v=VSucxMB_Z6k",
@@ -238,9 +216,31 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-21",
-      "viewCount": "1975万",
+      "viewCount": "1976万",
       "likeCount": "13万",
-      "commentCount": "1586"
+      "commentCount": "1588"
+    },
+    {
+      "rank": 2760,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/s8eLpnWweTU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=s8eLpnWweTU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mr.Children「エソラ」 Tour2015 REFLECTION Live",
+        "url": "https://www.youtube.com/watch?v=s8eLpnWweTU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mr.Children Official Channel",
+        "url": "https://www.youtube.com/channel/UCXteDRy5qB0IjA8WPusCJ7w",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-05-09",
+      "viewCount": "1260万",
+      "likeCount": "2.9万",
+      "commentCount": "1588"
     },
     {
       "rank": 2762,
@@ -282,7 +282,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-02-05",
-      "viewCount": "1178万",
+      "viewCount": "1179万",
       "likeCount": "13.5万",
       "commentCount": "1581"
     },
@@ -392,7 +392,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-15",
-      "viewCount": "1231万",
+      "viewCount": "1232万",
       "likeCount": "6.1万",
       "commentCount": "1558"
     },
@@ -504,7 +504,7 @@
       "publishedAt": "2022-10-29",
       "viewCount": "1217万",
       "likeCount": "7.5万",
-      "commentCount": "1545"
+      "commentCount": "1544"
     },
     {
       "rank": 2774,
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-10-06",
-      "viewCount": "2968万",
+      "viewCount": "2969万",
       "likeCount": "6.8万",
       "commentCount": "1537"
     },
@@ -678,9 +678,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-03",
-      "viewCount": "1435万",
+      "viewCount": "1436万",
       "likeCount": "5.6万",
-      "commentCount": "1519"
+      "commentCount": "1520"
     },
     {
       "rank": 2782,
@@ -832,7 +832,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-04",
-      "viewCount": "1548万",
+      "viewCount": "1549万",
       "likeCount": "6.4万",
       "commentCount": "1506"
     },
@@ -922,7 +922,7 @@
       "publishedAt": "2015-04-25",
       "viewCount": "1056万",
       "likeCount": "4.1万",
-      "commentCount": "1496"
+      "commentCount": "1497"
     },
     {
       "rank": 2793,
@@ -949,6 +949,28 @@
     {
       "rank": 2794,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/e_pdE__o5D8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=e_pdE__o5D8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Official】Uru 「アンビバレント」 TVアニメ『薬屋のひとりごと』第2クールOPテーマ",
+        "url": "https://www.youtube.com/watch?v=e_pdE__o5D8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Uru Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-01-19",
+      "viewCount": "1856万",
+      "likeCount": "11.7万",
+      "commentCount": "1490"
+    },
+    {
+      "rank": 2794,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/PmlELBZeEzQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=PmlELBZeEzQ",
         "target": "_blank"
@@ -966,28 +988,6 @@
       "publishedAt": "2014-10-03",
       "viewCount": "2139万",
       "likeCount": "4.6万",
-      "commentCount": "1490"
-    },
-    {
-      "rank": 2794,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/e_pdE__o5D8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=e_pdE__o5D8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Official】Uru 「アンビバレント」 TVアニメ『薬屋のひとりごと』第2クールOPテーマ",
-        "url": "https://www.youtube.com/watch?v=e_pdE__o5D8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Uru Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-01-19",
-      "viewCount": "1855万",
-      "likeCount": "11.7万",
       "commentCount": "1490"
     },
     {
@@ -1052,12 +1052,12 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-28",
-      "viewCount": "1148万",
+      "viewCount": "1149万",
       "likeCount": "3.1万",
       "commentCount": "1483"
     },
     {
-      "rank": 2799,
+      "rank": 2798,
       "thumb": {
         "img": "https://i.ytimg.com/vi/KsWTbuB4xH4/default.jpg",
         "url": "https://www.youtube.com/watch?v=KsWTbuB4xH4",
@@ -1076,7 +1076,7 @@
       "publishedAt": "2008-11-06",
       "viewCount": "1662万",
       "likeCount": "3.8万",
-      "commentCount": "1481"
+      "commentCount": "1483"
     },
     {
       "rank": 2800,

@@ -1,7 +1,29 @@
 {
   "rows": [
     {
-      "rank": 2300,
+      "rank": 2301,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/8ZN40f8R7eg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=8ZN40f8R7eg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "YOASOBI「UNDEAD」 from 『YOASOBI 5th ANNIVERSARY DOME LIVE 2024 \"超現実\"』2024.11.10@東京ドーム",
+        "url": "https://www.youtube.com/watch?v=8ZN40f8R7eg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ayase / YOASOBI",
+        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-12-14",
+      "viewCount": "1924万",
+      "likeCount": "12.5万",
+      "commentCount": "2821"
+    },
+    {
+      "rank": 2302,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qaQP0efeAQQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=qaQP0efeAQQ",
@@ -18,9 +40,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-11-23",
-      "viewCount": "1664万",
+      "viewCount": "1665万",
       "likeCount": "7万",
-      "commentCount": "2821"
+      "commentCount": "2820"
     },
     {
       "rank": 2302,
@@ -40,34 +62,34 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-20",
-      "viewCount": "1734万",
+      "viewCount": "1735万",
       "likeCount": "11.3万",
       "commentCount": "2820"
     },
     {
-      "rank": 2303,
+      "rank": 2304,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/8ZN40f8R7eg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=8ZN40f8R7eg",
+        "img": "https://i.ytimg.com/vi/LH3op7GECSk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=LH3op7GECSk",
         "target": "_blank"
       },
       "title": {
-        "text": "YOASOBI「UNDEAD」 from 『YOASOBI 5th ANNIVERSARY DOME LIVE 2024 \"超現実\"』2024.11.10@東京ドーム",
-        "url": "https://www.youtube.com/watch?v=8ZN40f8R7eg",
+        "text": "酒井法子「碧いうさぎ」Music Video",
+        "url": "https://www.youtube.com/watch?v=LH3op7GECSk",
         "target": "_blank"
       },
       "channel": {
-        "text": "Ayase / YOASOBI",
-        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
+        "text": "Victor Entertainment",
+        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
         "target": "_blank"
       },
-      "publishedAt": "2024-12-14",
-      "viewCount": "1921万",
-      "likeCount": "12.5万",
+      "publishedAt": "2022-02-04",
+      "viewCount": "1780万",
+      "likeCount": "5万",
       "commentCount": "2818"
     },
     {
-      "rank": 2304,
+      "rank": 2305,
       "thumb": {
         "img": "https://i.ytimg.com/vi/FU5FxTP1cpw/default.jpg",
         "url": "https://www.youtube.com/watch?v=FU5FxTP1cpw",
@@ -87,28 +109,6 @@
       "viewCount": "1232万",
       "likeCount": "5.4万",
       "commentCount": "2816"
-    },
-    {
-      "rank": 2305,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/LH3op7GECSk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=LH3op7GECSk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "酒井法子「碧いうさぎ」Music Video",
-        "url": "https://www.youtube.com/watch?v=LH3op7GECSk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Victor Entertainment",
-        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-02-04",
-      "viewCount": "1779万",
-      "likeCount": "5万",
-      "commentCount": "2815"
     },
     {
       "rank": 2306,
@@ -150,7 +150,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-26",
-      "viewCount": "1607万",
+      "viewCount": "1608万",
       "likeCount": "16.7万",
       "commentCount": "2810"
     },
@@ -172,9 +172,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-01-06",
-      "viewCount": "2997万",
+      "viewCount": "2998万",
       "likeCount": "8.7万",
-      "commentCount": "2806"
+      "commentCount": "2808"
     },
     {
       "rank": 2309,
@@ -194,12 +194,12 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-27",
-      "viewCount": "1242万",
+      "viewCount": "1243万",
       "likeCount": "10.6万",
-      "commentCount": "2791"
+      "commentCount": "2790"
     },
     {
-      "rank": 2310,
+      "rank": 2309,
       "thumb": {
         "img": "https://i.ytimg.com/vi/B383PElQMHo/default.jpg",
         "url": "https://www.youtube.com/watch?v=B383PElQMHo",
@@ -245,93 +245,27 @@
     {
       "rank": 2312,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/Daw2Ol3nrnM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Daw2Ol3nrnM",
+        "img": "https://i.ytimg.com/vi/T10oS02RsGA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=T10oS02RsGA",
         "target": "_blank"
       },
       "title": {
-        "text": "Mao Abe / 阿部真央 - Believe in yourself(Official Music Video)",
-        "url": "https://www.youtube.com/watch?v=Daw2Ol3nrnM",
+        "text": "back number - 青い春 (full)",
+        "url": "https://www.youtube.com/watch?v=T10oS02RsGA",
         "target": "_blank"
       },
       "channel": {
-        "text": "阿部真央(Mao Abe)",
-        "url": "https://www.youtube.com/channel/UCgyqn1x2hefGq8WiW3B2T7A",
+        "text": "BackNumberVEVO",
+        "url": "https://www.youtube.com/channel/UCb4nKpOlWpZ-bbe-QANF51Q",
         "target": "_blank"
       },
-      "publishedAt": "2014-05-27",
-      "viewCount": "1046万",
-      "likeCount": "5.9万",
-      "commentCount": "2779"
+      "publishedAt": "2012-10-24",
+      "viewCount": "4721万",
+      "likeCount": "-",
+      "commentCount": "2784"
     },
     {
       "rank": 2313,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/HoV3sF1xhmo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=HoV3sF1xhmo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "globe / Perfume of love",
-        "url": "https://www.youtube.com/watch?v=HoV3sF1xhmo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "globe",
-        "url": "https://www.youtube.com/channel/UCKcuHCV3VN8mJ3qQj7Xr42Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-09-01",
-      "viewCount": "1671万",
-      "likeCount": "3.2万",
-      "commentCount": "2777"
-    },
-    {
-      "rank": 2314,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/5mmEgt5ZCZw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=5mmEgt5ZCZw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "YZERR / Back Stage feat. Tiji Jojo (Official Video)",
-        "url": "https://www.youtube.com/watch?v=5mmEgt5ZCZw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BAD HOP",
-        "url": "https://www.youtube.com/channel/UCcb0Ixexedx7eXLzgYZh6bg",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-03-17",
-      "viewCount": "1399万",
-      "likeCount": "5.8万",
-      "commentCount": "2774"
-    },
-    {
-      "rank": 2314,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/whdFuBF1EA8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=whdFuBF1EA8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BUMP OF CHICKEN feat. HATSUNE MIKU「ray」LIVE MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=whdFuBF1EA8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BUMP OF CHICKEN",
-        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-01-23",
-      "viewCount": "1349万",
-      "likeCount": "8.5万",
-      "commentCount": "2774"
-    },
-    {
-      "rank": 2314,
       "thumb": {
         "img": "https://i.ytimg.com/vi/lH1nkEBtyTc/default.jpg",
         "url": "https://www.youtube.com/watch?v=lH1nkEBtyTc",
@@ -350,10 +284,98 @@
       "publishedAt": "2012-11-22",
       "viewCount": "1736万",
       "likeCount": "4.2万",
-      "commentCount": "2774"
+      "commentCount": "2781"
     },
     {
       "rank": 2314,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Daw2Ol3nrnM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Daw2Ol3nrnM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mao Abe / 阿部真央 - Believe in yourself(Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=Daw2Ol3nrnM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "阿部真央(Mao Abe)",
+        "url": "https://www.youtube.com/channel/UCgyqn1x2hefGq8WiW3B2T7A",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-05-27",
+      "viewCount": "1046万",
+      "likeCount": "5.9万",
+      "commentCount": "2780"
+    },
+    {
+      "rank": 2315,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/HoV3sF1xhmo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=HoV3sF1xhmo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "globe / Perfume of love",
+        "url": "https://www.youtube.com/watch?v=HoV3sF1xhmo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "globe",
+        "url": "https://www.youtube.com/channel/UCKcuHCV3VN8mJ3qQj7Xr42Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-09-01",
+      "viewCount": "1672万",
+      "likeCount": "3.2万",
+      "commentCount": "2777"
+    },
+    {
+      "rank": 2316,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/whdFuBF1EA8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=whdFuBF1EA8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BUMP OF CHICKEN feat. HATSUNE MIKU「ray」LIVE MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=whdFuBF1EA8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BUMP OF CHICKEN",
+        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-01-23",
+      "viewCount": "1350万",
+      "likeCount": "8.5万",
+      "commentCount": "2775"
+    },
+    {
+      "rank": 2317,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/5mmEgt5ZCZw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=5mmEgt5ZCZw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "YZERR / Back Stage feat. Tiji Jojo (Official Video)",
+        "url": "https://www.youtube.com/watch?v=5mmEgt5ZCZw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BAD HOP",
+        "url": "https://www.youtube.com/channel/UCcb0Ixexedx7eXLzgYZh6bg",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-03-17",
+      "viewCount": "1400万",
+      "likeCount": "5.8万",
+      "commentCount": "2774"
+    },
+    {
+      "rank": 2317,
       "thumb": {
         "img": "https://i.ytimg.com/vi/rh517TMtVbo/default.jpg",
         "url": "https://www.youtube.com/watch?v=rh517TMtVbo",
@@ -375,7 +397,7 @@
       "commentCount": "2774"
     },
     {
-      "rank": 2318,
+      "rank": 2319,
       "thumb": {
         "img": "https://i.ytimg.com/vi/fgESmgZ4ld8/default.jpg",
         "url": "https://www.youtube.com/watch?v=fgESmgZ4ld8",
@@ -395,28 +417,6 @@
       "viewCount": "2103万",
       "likeCount": "5.7万",
       "commentCount": "2771"
-    },
-    {
-      "rank": 2319,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/T10oS02RsGA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=T10oS02RsGA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "back number - 青い春 (full)",
-        "url": "https://www.youtube.com/watch?v=T10oS02RsGA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BackNumberVEVO",
-        "url": "https://www.youtube.com/channel/UCb4nKpOlWpZ-bbe-QANF51Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-10-24",
-      "viewCount": "4720万",
-      "likeCount": "-",
-      "commentCount": "2762"
     },
     {
       "rank": 2320,
@@ -460,7 +460,7 @@
       "publishedAt": "2012-06-21",
       "viewCount": "2475万",
       "likeCount": "6.3万",
-      "commentCount": "2755"
+      "commentCount": "2753"
     },
     {
       "rank": 2322,
@@ -507,7 +507,7 @@
       "commentCount": "2746"
     },
     {
-      "rank": 2324,
+      "rank": 2323,
       "thumb": {
         "img": "https://i.ytimg.com/vi/zPR-LcqWZJU/default.jpg",
         "url": "https://www.youtube.com/watch?v=zPR-LcqWZJU",
@@ -524,12 +524,12 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-01",
-      "viewCount": "1915万",
+      "viewCount": "1917万",
       "likeCount": "18万",
-      "commentCount": "2745"
+      "commentCount": "2746"
     },
     {
-      "rank": 2325,
+      "rank": 2323,
       "thumb": {
         "img": "https://i.ytimg.com/vi/HRL5Cp_mPeo/default.jpg",
         "url": "https://www.youtube.com/watch?v=HRL5Cp_mPeo",
@@ -546,31 +546,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-04",
-      "viewCount": "3938万",
+      "viewCount": "3939万",
       "likeCount": "28.2万",
-      "commentCount": "2744"
-    },
-    {
-      "rank": 2326,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/J0TSrlig76c/default.jpg",
-        "url": "https://www.youtube.com/watch?v=J0TSrlig76c",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "EXILE / もっと強く （full ver. / オフィシャル動画）",
-        "url": "https://www.youtube.com/watch?v=J0TSrlig76c",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-08-31",
-      "viewCount": "3236万",
-      "likeCount": "6.5万",
-      "commentCount": "2740"
+      "commentCount": "2746"
     },
     {
       "rank": 2326,
@@ -592,6 +570,28 @@
       "publishedAt": "2012-04-09",
       "viewCount": "1538万",
       "likeCount": "11.6万",
+      "commentCount": "2740"
+    },
+    {
+      "rank": 2326,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/J0TSrlig76c/default.jpg",
+        "url": "https://www.youtube.com/watch?v=J0TSrlig76c",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "EXILE / もっと強く （full ver. / オフィシャル動画）",
+        "url": "https://www.youtube.com/watch?v=J0TSrlig76c",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-08-31",
+      "viewCount": "3236万",
+      "likeCount": "6.5万",
       "commentCount": "2740"
     },
     {
@@ -619,6 +619,28 @@
     {
       "rank": 2329,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/bASSi2OJYbI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=bASSi2OJYbI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Fairies / More Kiss (Full Ver.)",
+        "url": "https://www.youtube.com/watch?v=bASSi2OJYbI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-08-30",
+      "viewCount": "1018万",
+      "likeCount": "2.1万",
+      "commentCount": "2731"
+    },
+    {
+      "rank": 2329,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/xunAthzRPgo/default.jpg",
         "url": "https://www.youtube.com/watch?v=xunAthzRPgo",
         "target": "_blank"
@@ -636,10 +658,10 @@
       "publishedAt": "2013-10-08",
       "viewCount": "3467万",
       "likeCount": "5.2万",
-      "commentCount": "2730"
+      "commentCount": "2731"
     },
     {
-      "rank": 2330,
+      "rank": 2331,
       "thumb": {
         "img": "https://i.ytimg.com/vi/I55sHty3h6I/default.jpg",
         "url": "https://www.youtube.com/watch?v=I55sHty3h6I",
@@ -659,28 +681,6 @@
       "viewCount": "1680万",
       "likeCount": "5万",
       "commentCount": "2729"
-    },
-    {
-      "rank": 2331,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/bASSi2OJYbI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=bASSi2OJYbI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Fairies / More Kiss (Full Ver.)",
-        "url": "https://www.youtube.com/watch?v=bASSi2OJYbI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-08-30",
-      "viewCount": "1018万",
-      "likeCount": "2.1万",
-      "commentCount": "2728"
     },
     {
       "rank": 2332,
@@ -724,7 +724,7 @@
       "publishedAt": "2021-04-21",
       "viewCount": "1649万",
       "likeCount": "15.2万",
-      "commentCount": "2723"
+      "commentCount": "2722"
     },
     {
       "rank": 2334,
@@ -768,7 +768,29 @@
       "publishedAt": "2020-08-11",
       "viewCount": "2448万",
       "likeCount": "21.2万",
-      "commentCount": "2715"
+      "commentCount": "2714"
+    },
+    {
+      "rank": 2336,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ViqPBSUt59g/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ViqPBSUt59g",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "椎名林檎 - 罪と罰 from百鬼夜行",
+        "url": "https://www.youtube.com/watch?v=ViqPBSUt59g",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "椎名林檎",
+        "url": "https://www.youtube.com/channel/UCRQX-dpFt_osBpH71ItuuvA",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-04-28",
+      "viewCount": "1115万",
+      "likeCount": "10.1万",
+      "commentCount": "2709"
     },
     {
       "rank": 2336,
@@ -788,30 +810,8 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-12",
-      "viewCount": "1693万",
+      "viewCount": "1694万",
       "likeCount": "10.5万",
-      "commentCount": "2710"
-    },
-    {
-      "rank": 2337,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ViqPBSUt59g/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ViqPBSUt59g",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "椎名林檎 - 罪と罰 from百鬼夜行",
-        "url": "https://www.youtube.com/watch?v=ViqPBSUt59g",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "椎名林檎",
-        "url": "https://www.youtube.com/channel/UCRQX-dpFt_osBpH71ItuuvA",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-04-28",
-      "viewCount": "1115万",
-      "likeCount": "10.1万",
       "commentCount": "2709"
     },
     {
@@ -834,10 +834,10 @@
       "publishedAt": "2010-09-01",
       "viewCount": "1706万",
       "likeCount": "3.9万",
-      "commentCount": "2707"
+      "commentCount": "2706"
     },
     {
-      "rank": 2339,
+      "rank": 2338,
       "thumb": {
         "img": "https://i.ytimg.com/vi/S5st_BGFpLI/default.jpg",
         "url": "https://www.youtube.com/watch?v=S5st_BGFpLI",
@@ -876,9 +876,31 @@
         "target": "_blank"
       },
       "publishedAt": "2012-10-17",
-      "viewCount": "1556万",
+      "viewCount": "1557万",
       "likeCount": "5.8万",
       "commentCount": "2704"
+    },
+    {
+      "rank": 2341,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/E3UDqofqcc4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=E3UDqofqcc4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – Loneliness 【LIVE “NOAH no HAKOBUNE” on WOWOWプラス】",
+        "url": "https://www.youtube.com/watch?v=E3UDqofqcc4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-09-21",
+      "viewCount": "1107万",
+      "likeCount": "7.9万",
+      "commentCount": "2703"
     },
     {
       "rank": 2341,
@@ -903,28 +925,6 @@
       "commentCount": "2703"
     },
     {
-      "rank": 2342,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/E3UDqofqcc4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=E3UDqofqcc4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – Loneliness 【LIVE “NOAH no HAKOBUNE” on WOWOWプラス】",
-        "url": "https://www.youtube.com/watch?v=E3UDqofqcc4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-09-21",
-      "viewCount": "1106万",
-      "likeCount": "7.9万",
-      "commentCount": "2702"
-    },
-    {
       "rank": 2343,
       "thumb": {
         "img": "https://i.ytimg.com/vi/DS2sP8CDLas/default.jpg",
@@ -942,9 +942,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-10",
-      "viewCount": "2233万",
+      "viewCount": "2235万",
       "likeCount": "11.7万",
-      "commentCount": "2699"
+      "commentCount": "2700"
     },
     {
       "rank": 2344,
@@ -986,7 +986,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-28",
-      "viewCount": "1478万",
+      "viewCount": "1480万",
       "likeCount": "10万",
       "commentCount": "2694"
     },
@@ -1008,7 +1008,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-16",
-      "viewCount": "2092万",
+      "viewCount": "2093万",
       "likeCount": "6.4万",
       "commentCount": "2688"
     },
@@ -1030,12 +1030,12 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-02",
-      "viewCount": "4085万",
+      "viewCount": "4088万",
       "likeCount": "26.9万",
-      "commentCount": "2684"
+      "commentCount": "2685"
     },
     {
-      "rank": 2347,
+      "rank": 2348,
       "thumb": {
         "img": "https://i.ytimg.com/vi/WMzlv_g6FSY/default.jpg",
         "url": "https://www.youtube.com/watch?v=WMzlv_g6FSY",
@@ -1074,7 +1074,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-12",
-      "viewCount": "1215万",
+      "viewCount": "1216万",
       "likeCount": "11.2万",
       "commentCount": "2676"
     },
@@ -1096,7 +1096,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-03-22",
-      "viewCount": "2589万",
+      "viewCount": "2590万",
       "likeCount": "15.3万",
       "commentCount": "2675"
     }

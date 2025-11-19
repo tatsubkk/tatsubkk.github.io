@@ -3,6 +3,29 @@
     {
       "rank": 51,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/dawrQnvwMTY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=dawrQnvwMTY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Fujii Kaze - Shinunoga E-Wa (Not a MV)",
+        "url": "https://www.youtube.com/watch?v=dawrQnvwMTY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Fujii Kaze",
+        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-10-26",
+      "viewCount": "1億2885万",
+      "likeCount": "195万",
+      "commentCount": "4万",
+      "increment_d1": "8.8万"
+    },
+    {
+      "rank": 52,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/UM9XNpgrqVk/default.jpg",
         "url": "https://www.youtube.com/watch?v=UM9XNpgrqVk",
         "target": "_blank"
@@ -18,32 +41,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-02",
-      "viewCount": "1億7649万",
+      "viewCount": "1億7658万",
       "likeCount": "77.1万",
       "commentCount": "1.2万",
-      "increment_d1": "8.8万"
-    },
-    {
-      "rank": 52,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/jzi6RNVEOtA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=jzi6RNVEOtA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "はいよろこんで / こっちのけんと MV",
-        "url": "https://www.youtube.com/watch?v=jzi6RNVEOtA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "こっちのけんと",
-        "url": "https://www.youtube.com/channel/UC1laSZHo_6VBXU9FmfGNwFA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-05-27",
-      "viewCount": "1億9511万",
-      "likeCount": "185万",
-      "commentCount": "5.9万",
       "increment_d1": "8.8万"
     },
     {
@@ -64,36 +64,13 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-07",
-      "viewCount": "6795万",
+      "viewCount": "6804万",
       "likeCount": "33.3万",
-      "commentCount": "5022",
-      "increment_d1": "8.7万"
+      "commentCount": "5023",
+      "increment_d1": "8.6万"
     },
     {
       "rank": 54,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/3eytpBOkOFA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=3eytpBOkOFA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "YOASOBI「祝福」Official Music Video (『機動戦士ガンダム 水星の魔女』オープニングテーマ)",
-        "url": "https://www.youtube.com/watch?v=3eytpBOkOFA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ayase / YOASOBI",
-        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-10-02",
-      "viewCount": "1億6614万",
-      "likeCount": "73.7万",
-      "commentCount": "1.7万",
-      "increment_d1": "8.5万"
-    },
-    {
-      "rank": 55,
       "thumb": {
         "img": "https://i.ytimg.com/vi/iuJDhFRDx9M/default.jpg",
         "url": "https://www.youtube.com/watch?v=iuJDhFRDx9M",
@@ -110,36 +87,36 @@
         "target": "_blank"
       },
       "publishedAt": "2012-03-24",
-      "viewCount": "5億860万",
+      "viewCount": "5億868万",
       "likeCount": "490万",
       "commentCount": "14.3万",
-      "increment_d1": "8.4万"
+      "increment_d1": "8.2万"
     },
     {
-      "rank": 56,
+      "rank": 55,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/SII-S-zCg-c/default.jpg",
-        "url": "https://www.youtube.com/watch?v=SII-S-zCg-c",
+        "img": "https://i.ytimg.com/vi/3eytpBOkOFA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=3eytpBOkOFA",
         "target": "_blank"
       },
       "title": {
-        "text": "back number - 高嶺の花子さん (full)",
-        "url": "https://www.youtube.com/watch?v=SII-S-zCg-c",
+        "text": "YOASOBI「祝福」Official Music Video (『機動戦士ガンダム 水星の魔女』オープニングテーマ)",
+        "url": "https://www.youtube.com/watch?v=3eytpBOkOFA",
         "target": "_blank"
       },
       "channel": {
-        "text": "BackNumberVEVO",
-        "url": "https://www.youtube.com/channel/UCb4nKpOlWpZ-bbe-QANF51Q",
+        "text": "Ayase / YOASOBI",
+        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
         "target": "_blank"
       },
-      "publishedAt": "2020-07-28",
-      "viewCount": "1億4978万",
-      "likeCount": "57.4万",
-      "commentCount": "1.9万",
-      "increment_d1": "8.3万"
+      "publishedAt": "2022-10-02",
+      "viewCount": "1億6622万",
+      "likeCount": "73.8万",
+      "commentCount": "1.7万",
+      "increment_d1": "8.2万"
     },
     {
-      "rank": 57,
+      "rank": 56,
       "thumb": {
         "img": "https://i.ytimg.com/vi/2eNEQ0cQtkI/default.jpg",
         "url": "https://www.youtube.com/watch?v=2eNEQ0cQtkI",
@@ -156,36 +133,13 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-30",
-      "viewCount": "1億817万",
+      "viewCount": "1億826万",
       "likeCount": "39.3万",
-      "commentCount": "795",
+      "commentCount": "796",
       "increment_d1": "8.2万"
     },
     {
-      "rank": 58,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/PCp2iXA1uLE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=PCp2iXA1uLE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "フレデリック「オドループ」Music Video | Frederic \"oddloop\"",
-        "url": "https://www.youtube.com/watch?v=PCp2iXA1uLE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "フレデリック FREDERIC official",
-        "url": "https://www.youtube.com/channel/UCeoCO4_u1DdJBwyil66IsNw",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-08-27",
-      "viewCount": "1億8547万",
-      "likeCount": "149万",
-      "commentCount": "4.6万",
-      "increment_d1": "8.2万"
-    },
-    {
-      "rank": 59,
+      "rank": 57,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Jb6Zlg30rgk/default.jpg",
         "url": "https://www.youtube.com/watch?v=Jb6Zlg30rgk",
@@ -202,243 +156,36 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-16",
-      "viewCount": "1億3365万",
-      "likeCount": "79.2万",
+      "viewCount": "1億3373万",
+      "likeCount": "79.3万",
+      "commentCount": "1.9万",
+      "increment_d1": "8.2万"
+    },
+    {
+      "rank": 58,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/SII-S-zCg-c/default.jpg",
+        "url": "https://www.youtube.com/watch?v=SII-S-zCg-c",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "back number - 高嶺の花子さん (full)",
+        "url": "https://www.youtube.com/watch?v=SII-S-zCg-c",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BackNumberVEVO",
+        "url": "https://www.youtube.com/channel/UCb4nKpOlWpZ-bbe-QANF51Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-07-28",
+      "viewCount": "1億4986万",
+      "likeCount": "57.4万",
       "commentCount": "1.9万",
       "increment_d1": "8.1万"
     },
     {
-      "rank": 60,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/BryspbM6s3E/default.jpg",
-        "url": "https://www.youtube.com/watch?v=BryspbM6s3E",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "UNDEAD",
-        "url": "https://www.youtube.com/watch?v=BryspbM6s3E",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-06-30",
-      "viewCount": "6156万",
-      "likeCount": "31.1万",
-      "commentCount": "4345",
-      "increment_d1": "8万"
-    },
-    {
-      "rank": 61,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/wZlv3qDPfjk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=wZlv3qDPfjk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "モエチャッカファイア / 弌誠：MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=wZlv3qDPfjk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "弌誠",
-        "url": "https://www.youtube.com/channel/UC25MbIGo_hLcyFCI8UbVbsA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-07-23",
-      "viewCount": "8809万",
-      "likeCount": "94.7万",
-      "commentCount": "1.9万",
-      "increment_d1": "8万"
-    },
-    {
-      "rank": 62,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/L262NKlSl4s/default.jpg",
-        "url": "https://www.youtube.com/watch?v=L262NKlSl4s",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE「ダーリン」Official Music Video",
-        "url": "https://www.youtube.com/watch?v=L262NKlSl4s",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-01-20",
-      "viewCount": "5721万",
-      "likeCount": "36.6万",
-      "commentCount": "1.7万",
-      "increment_d1": "7.9万"
-    },
-    {
-      "rank": 63,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Xs0Lxif1u9E/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Xs0Lxif1u9E",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "RADWIMPS - すずめ feat.十明 [Official Lyric Video]",
-        "url": "https://www.youtube.com/watch?v=Xs0Lxif1u9E",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "RADWIMPS",
-        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-10-05",
-      "viewCount": "1億651万",
-      "likeCount": "119万",
-      "commentCount": "1.8万",
-      "increment_d1": "7.8万"
-    },
-    {
-      "rank": 64,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/kzZ6KXDM1RI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=kzZ6KXDM1RI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "優里『ドライフラワー』Official Music Video -ディレクターズカットver.-",
-        "url": "https://www.youtube.com/watch?v=kzZ6KXDM1RI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "優里 Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCBNVZPlWoR7oArfzJNrK9yw",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-03-18",
-      "viewCount": "2億996万",
-      "likeCount": "55.2万",
-      "commentCount": "1.2万",
-      "increment_d1": "7.7万"
-    },
-    {
-      "rank": 65,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/d6i4AtCxrDo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=d6i4AtCxrDo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Hump Back - 「拝啓、少年よ」Music Video",
-        "url": "https://www.youtube.com/watch?v=d6i4AtCxrDo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Hump Back Official",
-        "url": "https://www.youtube.com/channel/UC9G6cVN89XFM5DCZGU8yn-Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-05-27",
-      "viewCount": "1億448万",
-      "likeCount": "71万",
-      "commentCount": "1.7万",
-      "increment_d1": "7.7万"
-    },
-    {
-      "rank": 66,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Y4nEEZwckuU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Y4nEEZwckuU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "YOASOBI「群青」Official Music Video",
-        "url": "https://www.youtube.com/watch?v=Y4nEEZwckuU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ayase / YOASOBI",
-        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-12-01",
-      "viewCount": "2億1905万",
-      "likeCount": "131万",
-      "commentCount": "2.4万",
-      "increment_d1": "7.6万"
-    },
-    {
-      "rank": 67,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/LIlZCmETvsY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=LIlZCmETvsY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "サカナクション / 新宝島　-Music Video-",
-        "url": "https://www.youtube.com/watch?v=LIlZCmETvsY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "サカナクション sakanaction",
-        "url": "https://www.youtube.com/channel/UCli_j3KPGhsF1Mv1AK17UPA",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-09-26",
-      "viewCount": "2億4871万",
-      "likeCount": "105万",
-      "commentCount": "5781",
-      "increment_d1": "7.5万"
-    },
-    {
-      "rank": 68,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/M4-XU0a2hf0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=M4-XU0a2hf0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "勇者",
-        "url": "https://www.youtube.com/watch?v=M4-XU0a2hf0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-10-03",
-      "viewCount": "4957万",
-      "likeCount": "21万",
-      "commentCount": "609",
-      "increment_d1": "7.4万"
-    },
-    {
-      "rank": 69,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/oe4XJ851oOk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=oe4XJ851oOk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "LiSA『ReawakeR (feat. Felix of Stray Kids)』MUSiC CLiP",
-        "url": "https://www.youtube.com/watch?v=oe4XJ851oOk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "LiSA Official YouTube",
-        "url": "https://www.youtube.com/channel/UCqEfdEvLG5oQWNYlDQrGlKw",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-02-20",
-      "viewCount": "3683万",
-      "likeCount": "80.8万",
-      "commentCount": "2.5万",
-      "increment_d1": "7.3万"
-    },
-    {
-      "rank": 70,
+      "rank": 59,
       "thumb": {
         "img": "https://i.ytimg.com/vi/mp2-w15SXms/default.jpg",
         "url": "https://www.youtube.com/watch?v=mp2-w15SXms",
@@ -455,197 +202,128 @@
         "target": "_blank"
       },
       "publishedAt": "2021-05-26",
-      "viewCount": "1億9445万",
-      "likeCount": "66.9万",
+      "viewCount": "1億9453万",
+      "likeCount": "67万",
       "commentCount": "1.1万",
-      "increment_d1": "7.3万"
+      "increment_d1": "7.9万"
     },
     {
-      "rank": 71,
+      "rank": 60,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/3yaab2_EEHM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=3yaab2_EEHM",
+        "img": "https://i.ytimg.com/vi/kzZ6KXDM1RI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=kzZ6KXDM1RI",
         "target": "_blank"
       },
       "title": {
-        "text": "愛♡スクリ～ム！",
-        "url": "https://www.youtube.com/watch?v=3yaab2_EEHM",
+        "text": "優里『ドライフラワー』Official Music Video -ディレクターズカットver.-",
+        "url": "https://www.youtube.com/watch?v=kzZ6KXDM1RI",
         "target": "_blank"
       },
       "channel": {
-        "text": "AiScReam - Topic",
-        "url": "https://www.youtube.com/channel/UCXhi5UpQJcqwpxQra2hZmng",
+        "text": "優里 Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCBNVZPlWoR7oArfzJNrK9yw",
         "target": "_blank"
       },
-      "publishedAt": "2025-01-21",
-      "viewCount": "7139万",
-      "likeCount": "102万",
-      "commentCount": "2.6万",
-      "increment_d1": "7.2万"
-    },
-    {
-      "rank": 72,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/eYAd4uDotF0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=eYAd4uDotF0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "好きだから。/ 『ユイカ』【MV】",
-        "url": "https://www.youtube.com/watch?v=eYAd4uDotF0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "『ユイカ』",
-        "url": "https://www.youtube.com/channel/UC2iRI4qf-H_BdpsS8mMEjZQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-06-27",
-      "viewCount": "1億1546万",
-      "likeCount": "143万",
-      "commentCount": "2.7万",
-      "increment_d1": "7.2万"
-    },
-    {
-      "rank": 73,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/-VKIqrvVOpo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=-VKIqrvVOpo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ヨルシカ - ただ君に晴れ (MUSIC VIDEO)",
-        "url": "https://www.youtube.com/watch?v=-VKIqrvVOpo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ヨルシカ / n-buna Official",
-        "url": "https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-05-04",
-      "viewCount": "2億5947万",
-      "likeCount": "148万",
-      "commentCount": "4.4万",
-      "increment_d1": "7.1万"
-    },
-    {
-      "rank": 74,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/zuoVd2QNxJo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=zuoVd2QNxJo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "青のすみか / キタニタツヤ - Where Our Blue Is / Tatsuya Kitani",
-        "url": "https://www.youtube.com/watch?v=zuoVd2QNxJo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "キタニタツヤ / Tatsuya Kitani",
-        "url": "https://www.youtube.com/channel/UCgP3GbgbuVzAhlctGU5yuPA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-07-13",
-      "viewCount": "1億1440万",
-      "likeCount": "74.6万",
+      "publishedAt": "2021-03-18",
+      "viewCount": "2億1004万",
+      "likeCount": "55.3万",
       "commentCount": "1.2万",
-      "increment_d1": "7.1万"
+      "increment_d1": "7.9万"
     },
     {
-      "rank": 75,
+      "rank": 61,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/CkvWJNt77mU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=CkvWJNt77mU",
+        "img": "https://i.ytimg.com/vi/BryspbM6s3E/default.jpg",
+        "url": "https://www.youtube.com/watch?v=BryspbM6s3E",
         "target": "_blank"
       },
       "title": {
-        "text": "ヨルシカ - 晴る（OFFICIAL VIDEO）",
-        "url": "https://www.youtube.com/watch?v=CkvWJNt77mU",
+        "text": "UNDEAD",
+        "url": "https://www.youtube.com/watch?v=BryspbM6s3E",
         "target": "_blank"
       },
       "channel": {
-        "text": "ヨルシカ / n-buna Official",
-        "url": "https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA",
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
         "target": "_blank"
       },
-      "publishedAt": "2024-03-05",
-      "viewCount": "7185万",
-      "likeCount": "45.4万",
-      "commentCount": "6868",
-      "increment_d1": "7.1万"
+      "publishedAt": "2024-06-30",
+      "viewCount": "6163万",
+      "likeCount": "31.1万",
+      "commentCount": "4346",
+      "increment_d1": "7.9万"
     },
     {
-      "rank": 76,
+      "rank": 62,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/F4qFzuCA9Po/default.jpg",
-        "url": "https://www.youtube.com/watch?v=F4qFzuCA9Po",
+        "img": "https://i.ytimg.com/vi/Xs0Lxif1u9E/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Xs0Lxif1u9E",
         "target": "_blank"
       },
       "title": {
-        "text": "Stray Kids 『Hollow』 Music Video",
-        "url": "https://www.youtube.com/watch?v=F4qFzuCA9Po",
+        "text": "RADWIMPS - すずめ feat.十明 [Official Lyric Video]",
+        "url": "https://www.youtube.com/watch?v=Xs0Lxif1u9E",
         "target": "_blank"
       },
       "channel": {
-        "text": "Stray Kids Japan Official YouTube",
-        "url": "https://www.youtube.com/channel/UCXhj2pPWvONXmvgHX5wllCA",
+        "text": "RADWIMPS",
+        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
         "target": "_blank"
       },
-      "publishedAt": "2025-06-10",
-      "viewCount": "2747万",
-      "likeCount": "90.5万",
-      "commentCount": "5.8万",
-      "increment_d1": "7万"
-    },
-    {
-      "rank": 77,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Ct6BUPvE2sM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Ct6BUPvE2sM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "PIKOTARO - PPAP (Pen Pineapple Apple Pen) (Long Version) (Official Video) [Ultra Records]",
-        "url": "https://www.youtube.com/watch?v=Ct6BUPvE2sM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ultra Records",
-        "url": "https://www.youtube.com/channel/UC4rasfm9J-X4jNl9SvXp8xA",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-11-02",
-      "viewCount": "4億9510万",
-      "likeCount": "475万",
-      "commentCount": "32.4万",
-      "increment_d1": "7万"
-    },
-    {
-      "rank": 78,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/M6gcoDN9jBc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=M6gcoDN9jBc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "King Gnu - 逆夢",
-        "url": "https://www.youtube.com/watch?v=M6gcoDN9jBc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "King Gnu official YouTube channel",
-        "url": "https://www.youtube.com/channel/UCkB8HnJSDSJ2hkLQFUc-YrQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-01-05",
-      "viewCount": "1億5512万",
-      "likeCount": "81.6万",
+      "publishedAt": "2022-10-05",
+      "viewCount": "1億659万",
+      "likeCount": "119万",
       "commentCount": "1.8万",
-      "increment_d1": "6.9万"
+      "increment_d1": "7.8万"
     },
     {
-      "rank": 79,
+      "rank": 63,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/PCp2iXA1uLE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=PCp2iXA1uLE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "フレデリック「オドループ」Music Video | Frederic \"oddloop\"",
+        "url": "https://www.youtube.com/watch?v=PCp2iXA1uLE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "フレデリック FREDERIC official",
+        "url": "https://www.youtube.com/channel/UCeoCO4_u1DdJBwyil66IsNw",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-08-27",
+      "viewCount": "1億8555万",
+      "likeCount": "149万",
+      "commentCount": "4.6万",
+      "increment_d1": "7.8万"
+    },
+    {
+      "rank": 64,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/L262NKlSl4s/default.jpg",
+        "url": "https://www.youtube.com/watch?v=L262NKlSl4s",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE「ダーリン」Official Music Video",
+        "url": "https://www.youtube.com/watch?v=L262NKlSl4s",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-01-20",
+      "viewCount": "5729万",
+      "likeCount": "36.6万",
+      "commentCount": "1.7万",
+      "increment_d1": "7.8万"
+    },
+    {
+      "rank": 65,
       "thumb": {
         "img": "https://i.ytimg.com/vi/dlFA0Zq1k2A/default.jpg",
         "url": "https://www.youtube.com/watch?v=dlFA0Zq1k2A",
@@ -662,10 +340,332 @@
         "target": "_blank"
       },
       "publishedAt": "2016-07-04",
-      "viewCount": "3億3871万",
+      "viewCount": "3億3878万",
       "likeCount": "340万",
       "commentCount": "13.7万",
+      "increment_d1": "7.7万"
+    },
+    {
+      "rank": 66,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/d6i4AtCxrDo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=d6i4AtCxrDo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Hump Back - 「拝啓、少年よ」Music Video",
+        "url": "https://www.youtube.com/watch?v=d6i4AtCxrDo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Hump Back Official",
+        "url": "https://www.youtube.com/channel/UC9G6cVN89XFM5DCZGU8yn-Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-05-27",
+      "viewCount": "1億456万",
+      "likeCount": "71万",
+      "commentCount": "1.7万",
+      "increment_d1": "7.6万"
+    },
+    {
+      "rank": 67,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/oe4XJ851oOk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=oe4XJ851oOk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "LiSA『ReawakeR (feat. Felix of Stray Kids)』MUSiC CLiP",
+        "url": "https://www.youtube.com/watch?v=oe4XJ851oOk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "LiSA Official YouTube",
+        "url": "https://www.youtube.com/channel/UCqEfdEvLG5oQWNYlDQrGlKw",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-02-20",
+      "viewCount": "3691万",
+      "likeCount": "80.9万",
+      "commentCount": "2.5万",
+      "increment_d1": "7.6万"
+    },
+    {
+      "rank": 68,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Y4nEEZwckuU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Y4nEEZwckuU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "YOASOBI「群青」Official Music Video",
+        "url": "https://www.youtube.com/watch?v=Y4nEEZwckuU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ayase / YOASOBI",
+        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-12-01",
+      "viewCount": "2億1913万",
+      "likeCount": "131万",
+      "commentCount": "2.4万",
+      "increment_d1": "7.5万"
+    },
+    {
+      "rank": 69,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/wZlv3qDPfjk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=wZlv3qDPfjk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "モエチャッカファイア / 弌誠：MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=wZlv3qDPfjk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "弌誠",
+        "url": "https://www.youtube.com/channel/UC25MbIGo_hLcyFCI8UbVbsA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-07-23",
+      "viewCount": "8817万",
+      "likeCount": "94.8万",
+      "commentCount": "1.9万",
+      "increment_d1": "7.5万"
+    },
+    {
+      "rank": 70,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/LIlZCmETvsY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=LIlZCmETvsY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "サカナクション / 新宝島　-Music Video-",
+        "url": "https://www.youtube.com/watch?v=LIlZCmETvsY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "サカナクション sakanaction",
+        "url": "https://www.youtube.com/channel/UCli_j3KPGhsF1Mv1AK17UPA",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-09-26",
+      "viewCount": "2億4879万",
+      "likeCount": "106万",
+      "commentCount": "5800",
+      "increment_d1": "7.4万"
+    },
+    {
+      "rank": 71,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/M6gcoDN9jBc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=M6gcoDN9jBc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "King Gnu - 逆夢",
+        "url": "https://www.youtube.com/watch?v=M6gcoDN9jBc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "King Gnu official YouTube channel",
+        "url": "https://www.youtube.com/channel/UCkB8HnJSDSJ2hkLQFUc-YrQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-01-05",
+      "viewCount": "1億5520万",
+      "likeCount": "81.7万",
+      "commentCount": "1.8万",
+      "increment_d1": "7.4万"
+    },
+    {
+      "rank": 72,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/F4qFzuCA9Po/default.jpg",
+        "url": "https://www.youtube.com/watch?v=F4qFzuCA9Po",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Stray Kids 『Hollow』 Music Video",
+        "url": "https://www.youtube.com/watch?v=F4qFzuCA9Po",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Stray Kids Japan Official YouTube",
+        "url": "https://www.youtube.com/channel/UCXhj2pPWvONXmvgHX5wllCA",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-06-10",
+      "viewCount": "2754万",
+      "likeCount": "90.5万",
+      "commentCount": "5.8万",
+      "increment_d1": "7.2万"
+    },
+    {
+      "rank": 73,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/zuoVd2QNxJo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=zuoVd2QNxJo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "青のすみか / キタニタツヤ - Where Our Blue Is / Tatsuya Kitani",
+        "url": "https://www.youtube.com/watch?v=zuoVd2QNxJo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "キタニタツヤ / Tatsuya Kitani",
+        "url": "https://www.youtube.com/channel/UCgP3GbgbuVzAhlctGU5yuPA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-07-13",
+      "viewCount": "1億1447万",
+      "likeCount": "74.6万",
+      "commentCount": "1.2万",
+      "increment_d1": "7万"
+    },
+    {
+      "rank": 74,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/CkvWJNt77mU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=CkvWJNt77mU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ヨルシカ - 晴る（OFFICIAL VIDEO）",
+        "url": "https://www.youtube.com/watch?v=CkvWJNt77mU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ヨルシカ / n-buna Official",
+        "url": "https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-03-05",
+      "viewCount": "7192万",
+      "likeCount": "45.4万",
+      "commentCount": "6864",
+      "increment_d1": "7万"
+    },
+    {
+      "rank": 75,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/3yaab2_EEHM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=3yaab2_EEHM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "愛♡スクリ～ム！",
+        "url": "https://www.youtube.com/watch?v=3yaab2_EEHM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "AiScReam - Topic",
+        "url": "https://www.youtube.com/channel/UCXhi5UpQJcqwpxQra2hZmng",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-01-21",
+      "viewCount": "7146万",
+      "likeCount": "102万",
+      "commentCount": "2.6万",
       "increment_d1": "6.9万"
+    },
+    {
+      "rank": 76,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/TcLLpZBWsck/default.jpg",
+        "url": "https://www.youtube.com/watch?v=TcLLpZBWsck",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Fujii Kaze - Kirari (Official Video)",
+        "url": "https://www.youtube.com/watch?v=TcLLpZBWsck",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Fujii Kaze",
+        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-05-21",
+      "viewCount": "1億6387万",
+      "likeCount": "120万",
+      "commentCount": "3.8万",
+      "increment_d1": "6.9万"
+    },
+    {
+      "rank": 77,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/eYAd4uDotF0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=eYAd4uDotF0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "好きだから。/ 『ユイカ』【MV】",
+        "url": "https://www.youtube.com/watch?v=eYAd4uDotF0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "『ユイカ』",
+        "url": "https://www.youtube.com/channel/UC2iRI4qf-H_BdpsS8mMEjZQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-06-27",
+      "viewCount": "1億1553万",
+      "likeCount": "143万",
+      "commentCount": "2.7万",
+      "increment_d1": "6.8万"
+    },
+    {
+      "rank": 78,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/7HgJIAUtICU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=7HgJIAUtICU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=7HgJIAUtICU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Vaundy",
+        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-11-16",
+      "viewCount": "1億3568万",
+      "likeCount": "120万",
+      "commentCount": "1.9万",
+      "increment_d1": "6.7万"
+    },
+    {
+      "rank": 79,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/xefpHEg5UIA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=xefpHEg5UIA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE - 僕のこと",
+        "url": "https://www.youtube.com/watch?v=xefpHEg5UIA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "MrsGREENAPPLEVEVO",
+        "url": "https://www.youtube.com/channel/UC5e0xdyGS7OEgyLroMxwrbw",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-01-17",
+      "viewCount": "1億5049万",
+      "likeCount": "85.1万",
+      "commentCount": "3.6万",
+      "increment_d1": "6.6万"
     },
     {
       "rank": 80,
@@ -685,21 +685,67 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-29",
-      "viewCount": "8816万",
+      "viewCount": "8823万",
       "likeCount": "67.6万",
       "commentCount": "1.9万",
-      "increment_d1": "6.7万"
+      "increment_d1": "6.6万"
     },
     {
       "rank": 81,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/TcLLpZBWsck/default.jpg",
-        "url": "https://www.youtube.com/watch?v=TcLLpZBWsck",
+        "img": "https://i.ytimg.com/vi/hN5MBlGv2Ac/default.jpg",
+        "url": "https://www.youtube.com/watch?v=hN5MBlGv2Ac",
         "target": "_blank"
       },
       "title": {
-        "text": "Fujii Kaze - Kirari (Official Video)",
-        "url": "https://www.youtube.com/watch?v=TcLLpZBWsck",
+        "text": "Official髭男dism - Subtitle [Official Video]",
+        "url": "https://www.youtube.com/watch?v=hN5MBlGv2Ac",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Official髭男dism",
+        "url": "https://www.youtube.com/channel/UC9M4B-fqveLyWPGNdSkam7g",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-10-27",
+      "viewCount": "1億7337万",
+      "likeCount": "63.7万",
+      "commentCount": "1.6万",
+      "increment_d1": "6.6万"
+    },
+    {
+      "rank": 82,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/-VKIqrvVOpo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=-VKIqrvVOpo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ヨルシカ - ただ君に晴れ (MUSIC VIDEO)",
+        "url": "https://www.youtube.com/watch?v=-VKIqrvVOpo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ヨルシカ / n-buna Official",
+        "url": "https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-05-04",
+      "viewCount": "2億5954万",
+      "likeCount": "148万",
+      "commentCount": "4.4万",
+      "increment_d1": "6.6万"
+    },
+    {
+      "rank": 83,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/SfPkl7lol7g/default.jpg",
+        "url": "https://www.youtube.com/watch?v=SfPkl7lol7g",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Fujii Kaze - Hana (Official Video)",
+        "url": "https://www.youtube.com/watch?v=SfPkl7lol7g",
         "target": "_blank"
       },
       "channel": {
@@ -707,83 +753,106 @@
         "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
         "target": "_blank"
       },
-      "publishedAt": "2021-05-21",
-      "viewCount": "1億6380万",
-      "likeCount": "120万",
-      "commentCount": "3.8万",
-      "increment_d1": "6.6万"
-    },
-    {
-      "rank": 82,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/xefpHEg5UIA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=xefpHEg5UIA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE - 僕のこと",
-        "url": "https://www.youtube.com/watch?v=xefpHEg5UIA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "MrsGREENAPPLEVEVO",
-        "url": "https://www.youtube.com/channel/UC5e0xdyGS7OEgyLroMxwrbw",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-01-17",
-      "viewCount": "1億5042万",
-      "likeCount": "85万",
-      "commentCount": "3.6万",
-      "increment_d1": "6.6万"
-    },
-    {
-      "rank": 83,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/7HgJIAUtICU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=7HgJIAUtICU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【第75回NHK紅白歌合戦 歌唱曲】踊り子 / Vaundy：MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=7HgJIAUtICU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Vaundy",
-        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-16",
-      "viewCount": "1億3561万",
-      "likeCount": "120万",
+      "publishedAt": "2023-11-24",
+      "viewCount": "6754万",
+      "likeCount": "48.5万",
       "commentCount": "1.9万",
       "increment_d1": "6.6万"
     },
     {
       "rank": 84,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/eSW2LVbPThw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=eSW2LVbPThw",
+        "img": "https://i.ytimg.com/vi/0xSiBpUdW4E/default.jpg",
+        "url": "https://www.youtube.com/watch?v=0xSiBpUdW4E",
         "target": "_blank"
       },
       "title": {
-        "text": "DECO*27 - ラビットホール feat. 初音ミク",
-        "url": "https://www.youtube.com/watch?v=eSW2LVbPThw",
+        "text": "あいみょん - マリーゴールド【OFFICIAL MUSIC VIDEO】",
+        "url": "https://www.youtube.com/watch?v=0xSiBpUdW4E",
         "target": "_blank"
       },
       "channel": {
-        "text": "DECO*27",
-        "url": "https://www.youtube.com/channel/UCGmO0S4S-AunjRdmxA6TQYg",
+        "text": "あいみょん",
+        "url": "https://www.youtube.com/channel/UCG8MvaPCa2ecKH3GZyFxduA",
         "target": "_blank"
       },
-      "publishedAt": "2023-05-19",
-      "viewCount": "1億563万",
-      "likeCount": "116万",
-      "commentCount": "2.8万",
-      "increment_d1": "6.6万"
+      "publishedAt": "2018-07-17",
+      "viewCount": "3億7139万",
+      "likeCount": "98.9万",
+      "commentCount": "4.4万",
+      "increment_d1": "6.5万"
     },
     {
       "rank": 85,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Ct6BUPvE2sM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Ct6BUPvE2sM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "PIKOTARO - PPAP (Pen Pineapple Apple Pen) (Long Version) (Official Video) [Ultra Records]",
+        "url": "https://www.youtube.com/watch?v=Ct6BUPvE2sM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ultra Records",
+        "url": "https://www.youtube.com/channel/UC4rasfm9J-X4jNl9SvXp8xA",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-11-02",
+      "viewCount": "4億9517万",
+      "likeCount": "476万",
+      "commentCount": "32.4万",
+      "increment_d1": "6.4万"
+    },
+    {
+      "rank": 86,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/M4-XU0a2hf0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=M4-XU0a2hf0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "勇者",
+        "url": "https://www.youtube.com/watch?v=M4-XU0a2hf0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-10-03",
+      "viewCount": "4964万",
+      "likeCount": "21万",
+      "commentCount": "610",
+      "increment_d1": "6.3万"
+    },
+    {
+      "rank": 87,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/8iuLXODzL04/default.jpg",
+        "url": "https://www.youtube.com/watch?v=8iuLXODzL04",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "YOASOBI「たぶん」Official Music  Video",
+        "url": "https://www.youtube.com/watch?v=8iuLXODzL04",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ayase / YOASOBI",
+        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-07-20",
+      "viewCount": "1億5632万",
+      "likeCount": "162万",
+      "commentCount": "2.2万",
+      "increment_d1": "6.3万"
+    },
+    {
+      "rank": 88,
       "thumb": {
         "img": "https://i.ytimg.com/vi/9aJVr5tTTWk/default.jpg",
         "url": "https://www.youtube.com/watch?v=9aJVr5tTTWk",
@@ -800,59 +869,13 @@
         "target": "_blank"
       },
       "publishedAt": "2017-06-07",
-      "viewCount": "3億2579万",
+      "viewCount": "3億2585万",
       "likeCount": "156万",
       "commentCount": "6.1万",
-      "increment_d1": "6.5万"
-    },
-    {
-      "rank": 86,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ru6i9lo4zBE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ru6i9lo4zBE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "back number - ブルーアンバー 【カンテレ・フジテレビ系月10ドラマ『あなたを奪ったその日から』主題歌】",
-        "url": "https://www.youtube.com/watch?v=ru6i9lo4zBE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "back number",
-        "url": "https://www.youtube.com/channel/UCgipy6-EqjT-1BCDndXX1PA",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-04-28",
-      "viewCount": "2169万",
-      "likeCount": "13.5万",
-      "commentCount": "4594",
-      "increment_d1": "6.5万"
-    },
-    {
-      "rank": 87,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/dGZqpVCJP3k/default.jpg",
-        "url": "https://www.youtube.com/watch?v=dGZqpVCJP3k",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "群青",
-        "url": "https://www.youtube.com/watch?v=dGZqpVCJP3k",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-01-05",
-      "viewCount": "1億2051万",
-      "likeCount": "43.4万",
-      "commentCount": "736",
       "increment_d1": "6.3万"
     },
     {
-      "rank": 88,
+      "rank": 89,
       "thumb": {
         "img": "https://i.ytimg.com/vi/-zsYJTSw_V0/default.jpg",
         "url": "https://www.youtube.com/watch?v=-zsYJTSw_V0",
@@ -869,32 +892,9 @@
         "target": "_blank"
       },
       "publishedAt": "2025-06-04",
-      "viewCount": "3211万",
+      "viewCount": "3217万",
       "likeCount": "25.1万",
       "commentCount": "1.4万",
-      "increment_d1": "6.2万"
-    },
-    {
-      "rank": 89,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/FtutLA63Cp8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=FtutLA63Cp8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【東方】Bad Apple!! ＰＶ【影絵】",
-        "url": "https://www.youtube.com/watch?v=FtutLA63Cp8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "kasidid2",
-        "url": "https://www.youtube.com/channel/UCEJJbhF5Hod0zsupy-26n_g",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-10-27",
-      "viewCount": "1億1547万",
-      "likeCount": "165万",
-      "commentCount": "9.5万",
       "increment_d1": "6.2万"
     },
     {
@@ -915,82 +915,105 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-25",
-      "viewCount": "1億1583万",
-      "likeCount": "47.1万",
+      "viewCount": "1億1589万",
+      "likeCount": "47.2万",
       "commentCount": "2万",
       "increment_d1": "6.2万"
     },
     {
       "rank": 91,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/x2rvSf0STBM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=x2rvSf0STBM",
+        "img": "https://i.ytimg.com/vi/ru6i9lo4zBE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ru6i9lo4zBE",
         "target": "_blank"
       },
       "title": {
-        "text": "Mrs. GREEN APPLE「ダンスホール」Official Music Video",
-        "url": "https://www.youtube.com/watch?v=x2rvSf0STBM",
+        "text": "back number - ブルーアンバー 【カンテレ・フジテレビ系月10ドラマ『あなたを奪ったその日から』主題歌】",
+        "url": "https://www.youtube.com/watch?v=ru6i9lo4zBE",
         "target": "_blank"
       },
       "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "text": "back number",
+        "url": "https://www.youtube.com/channel/UCgipy6-EqjT-1BCDndXX1PA",
         "target": "_blank"
       },
-      "publishedAt": "2022-06-28",
-      "viewCount": "1億5131万",
-      "likeCount": "61.8万",
-      "commentCount": "1.3万",
-      "increment_d1": "6.1万"
+      "publishedAt": "2025-04-28",
+      "viewCount": "2175万",
+      "likeCount": "13.5万",
+      "commentCount": "4596",
+      "increment_d1": "6.2万"
     },
     {
       "rank": 92,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/SfPkl7lol7g/default.jpg",
-        "url": "https://www.youtube.com/watch?v=SfPkl7lol7g",
+        "img": "https://i.ytimg.com/vi/eSW2LVbPThw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=eSW2LVbPThw",
         "target": "_blank"
       },
       "title": {
-        "text": "Fujii Kaze - Hana (Official Video)",
-        "url": "https://www.youtube.com/watch?v=SfPkl7lol7g",
+        "text": "DECO*27 - ラビットホール feat. 初音ミク",
+        "url": "https://www.youtube.com/watch?v=eSW2LVbPThw",
         "target": "_blank"
       },
       "channel": {
-        "text": "Fujii Kaze",
-        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
+        "text": "DECO*27",
+        "url": "https://www.youtube.com/channel/UCGmO0S4S-AunjRdmxA6TQYg",
         "target": "_blank"
       },
-      "publishedAt": "2023-11-24",
-      "viewCount": "6747万",
-      "likeCount": "48.5万",
-      "commentCount": "1.9万",
+      "publishedAt": "2023-05-19",
+      "viewCount": "1億569万",
+      "likeCount": "116万",
+      "commentCount": "2.8万",
       "increment_d1": "6.1万"
     },
     {
       "rank": 93,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/hN5MBlGv2Ac/default.jpg",
-        "url": "https://www.youtube.com/watch?v=hN5MBlGv2Ac",
+        "img": "https://i.ytimg.com/vi/FtutLA63Cp8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=FtutLA63Cp8",
         "target": "_blank"
       },
       "title": {
-        "text": "Official髭男dism - Subtitle [Official Video]",
-        "url": "https://www.youtube.com/watch?v=hN5MBlGv2Ac",
+        "text": "【東方】Bad Apple!! ＰＶ【影絵】",
+        "url": "https://www.youtube.com/watch?v=FtutLA63Cp8",
         "target": "_blank"
       },
       "channel": {
-        "text": "Official髭男dism",
-        "url": "https://www.youtube.com/channel/UC9M4B-fqveLyWPGNdSkam7g",
+        "text": "kasidid2",
+        "url": "https://www.youtube.com/channel/UCEJJbhF5Hod0zsupy-26n_g",
         "target": "_blank"
       },
-      "publishedAt": "2022-10-27",
-      "viewCount": "1億7330万",
-      "likeCount": "63.7万",
-      "commentCount": "1.6万",
+      "publishedAt": "2009-10-27",
+      "viewCount": "1億1553万",
+      "likeCount": "165万",
+      "commentCount": "9.5万",
       "increment_d1": "6.1万"
     },
     {
       "rank": 94,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/dGZqpVCJP3k/default.jpg",
+        "url": "https://www.youtube.com/watch?v=dGZqpVCJP3k",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "群青",
+        "url": "https://www.youtube.com/watch?v=dGZqpVCJP3k",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-01-05",
+      "viewCount": "1億2057万",
+      "likeCount": "43.4万",
+      "commentCount": "736",
+      "increment_d1": "6万"
+    },
+    {
+      "rank": 95,
       "thumb": {
         "img": "https://i.ytimg.com/vi/STZ9rOXCJEY/default.jpg",
         "url": "https://www.youtube.com/watch?v=STZ9rOXCJEY",
@@ -1007,13 +1030,13 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-24",
-      "viewCount": "3046万",
+      "viewCount": "3052万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "6.1万"
+      "increment_d1": "6万"
     },
     {
-      "rank": 95,
+      "rank": 96,
       "thumb": {
         "img": "https://i.ytimg.com/vi/2b1IexhKPz4/default.jpg",
         "url": "https://www.youtube.com/watch?v=2b1IexhKPz4",
@@ -1030,125 +1053,102 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-29",
-      "viewCount": "9300万",
+      "viewCount": "9306万",
       "likeCount": "89.8万",
       "commentCount": "2.9万",
       "increment_d1": "6万"
     },
     {
-      "rank": 96,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/0xSiBpUdW4E/default.jpg",
-        "url": "https://www.youtube.com/watch?v=0xSiBpUdW4E",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "あいみょん - マリーゴールド【OFFICIAL MUSIC VIDEO】",
-        "url": "https://www.youtube.com/watch?v=0xSiBpUdW4E",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "あいみょん",
-        "url": "https://www.youtube.com/channel/UCG8MvaPCa2ecKH3GZyFxduA",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-07-17",
-      "viewCount": "3億7133万",
-      "likeCount": "98.8万",
-      "commentCount": "4.4万",
-      "increment_d1": "6万"
-    },
-    {
       "rank": 97,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/8iuLXODzL04/default.jpg",
-        "url": "https://www.youtube.com/watch?v=8iuLXODzL04",
+        "img": "https://i.ytimg.com/vi/4DxL6IKmXx4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=4DxL6IKmXx4",
         "target": "_blank"
       },
       "title": {
-        "text": "YOASOBI「たぶん」Official Music  Video",
-        "url": "https://www.youtube.com/watch?v=8iuLXODzL04",
+        "text": "LiSA 『炎』 -MUSiC CLiP-",
+        "url": "https://www.youtube.com/watch?v=4DxL6IKmXx4",
         "target": "_blank"
       },
       "channel": {
-        "text": "Ayase / YOASOBI",
-        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
+        "text": "LiSA Official YouTube",
+        "url": "https://www.youtube.com/channel/UCqEfdEvLG5oQWNYlDQrGlKw",
         "target": "_blank"
       },
-      "publishedAt": "2020-07-20",
-      "viewCount": "1億5626万",
-      "likeCount": "162万",
-      "commentCount": "2.2万",
-      "increment_d1": "5.9万"
+      "publishedAt": "2020-10-13",
+      "viewCount": "3億5060万",
+      "likeCount": "180万",
+      "commentCount": "8.9万",
+      "increment_d1": "6万"
     },
     {
       "rank": 98,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/sOiMD45QGLs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=sOiMD45QGLs",
+        "img": "https://i.ytimg.com/vi/UFQEttrn6CQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=UFQEttrn6CQ",
         "target": "_blank"
       },
       "title": {
-        "text": "【Ado】ギラギラ",
-        "url": "https://www.youtube.com/watch?v=sOiMD45QGLs",
+        "text": "米津玄師 - 感電   Kenshi Yonezu - KANDEN",
+        "url": "https://www.youtube.com/watch?v=UFQEttrn6CQ",
         "target": "_blank"
       },
       "channel": {
-        "text": "Ado",
-        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
         "target": "_blank"
       },
-      "publishedAt": "2021-02-14",
-      "viewCount": "2億386万",
-      "likeCount": "135万",
-      "commentCount": "4.5万",
-      "increment_d1": "5.9万"
+      "publishedAt": "2020-07-10",
+      "viewCount": "2億5214万",
+      "likeCount": "121万",
+      "commentCount": "10.4万",
+      "increment_d1": "6万"
     },
     {
       "rank": 99,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/o6wtDPVkKqI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=o6wtDPVkKqI",
+        "img": "https://i.ytimg.com/vi/F3P8vcZkIh4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=F3P8vcZkIh4",
         "target": "_blank"
       },
       "title": {
-        "text": "「残酷な天使のテーゼ」MUSIC VIDEO（HDver.）/Zankoku na Tenshi no Te-ze“The Cruel Angel's Thesis”",
-        "url": "https://www.youtube.com/watch?v=o6wtDPVkKqI",
+        "text": "＝LOVE（イコールラブ）/ 18th Single『とくべチュ、して』【MV full】",
+        "url": "https://www.youtube.com/watch?v=F3P8vcZkIh4",
         "target": "_blank"
       },
       "channel": {
-        "text": "KING RECORDS",
-        "url": "https://www.youtube.com/channel/UC6KEU5-KSTszEOOnAl8ZwPQ",
+        "text": "＝LOVE（イコールラブ）公式チャンネル",
+        "url": "https://www.youtube.com/channel/UCv7VutirxDn3RWIJXI68n_A",
         "target": "_blank"
       },
-      "publishedAt": "2018-06-20",
-      "viewCount": "1億2067万",
-      "likeCount": "104万",
-      "commentCount": "3.4万",
+      "publishedAt": "2025-02-02",
+      "viewCount": "2618万",
+      "likeCount": "14.3万",
+      "commentCount": "2.4万",
       "increment_d1": "5.9万"
     },
     {
       "rank": 100,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/GUTHk7IjI6A/default.jpg",
-        "url": "https://www.youtube.com/watch?v=GUTHk7IjI6A",
+        "img": "https://i.ytimg.com/vi/x2rvSf0STBM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=x2rvSf0STBM",
         "target": "_blank"
       },
       "title": {
-        "text": "ドレミファ アンパンマン （テレビサイズver.）［公式エンディングテーマ］",
-        "url": "https://www.youtube.com/watch?v=GUTHk7IjI6A",
+        "text": "Mrs. GREEN APPLE「ダンスホール」Official Music Video",
+        "url": "https://www.youtube.com/watch?v=x2rvSf0STBM",
         "target": "_blank"
       },
       "channel": {
-        "text": "VAP OFFICIAL MUSIC CHANNEL",
-        "url": "https://www.youtube.com/channel/UCIDd5lVNKs7N0V3dvm1wj2w",
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
         "target": "_blank"
       },
-      "publishedAt": "2023-03-24",
-      "viewCount": "4062万",
-      "likeCount": "-",
-      "commentCount": "-",
-      "increment_d1": "5.9万"
+      "publishedAt": "2022-06-28",
+      "viewCount": "1億5137万",
+      "likeCount": "61.9万",
+      "commentCount": "1.3万",
+      "increment_d1": "5.8万"
     }
   ]
 }

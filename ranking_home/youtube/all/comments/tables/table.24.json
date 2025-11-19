@@ -3,6 +3,28 @@
     {
       "rank": 1151,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/fJh5UeiULZs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=fJh5UeiULZs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【LIVE映像】結束バンド「星座になれたら」LIVE at 秀華祭/ 「ぼっち・ざ・ろっく！」劇中曲",
+        "url": "https://www.youtube.com/watch?v=fJh5UeiULZs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "アニプレックス チャンネル",
+        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-12-24",
+      "viewCount": "2739万",
+      "likeCount": "29.8万",
+      "commentCount": "8436"
+    },
+    {
+      "rank": 1151,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/H51Xj5aEgkA/default.jpg",
         "url": "https://www.youtube.com/watch?v=H51Xj5aEgkA",
         "target": "_blank"
@@ -20,10 +42,10 @@
       "publishedAt": "2010-03-23",
       "viewCount": "2860万",
       "likeCount": "9.8万",
-      "commentCount": "8435"
+      "commentCount": "8436"
     },
     {
-      "rank": 1152,
+      "rank": 1153,
       "thumb": {
         "img": "https://i.ytimg.com/vi/X9aKVLPoKJk/default.jpg",
         "url": "https://www.youtube.com/watch?v=X9aKVLPoKJk",
@@ -45,28 +67,6 @@
       "commentCount": "8434"
     },
     {
-      "rank": 1153,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/fJh5UeiULZs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=fJh5UeiULZs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【LIVE映像】結束バンド「星座になれたら」LIVE at 秀華祭/ 「ぼっち・ざ・ろっく！」劇中曲",
-        "url": "https://www.youtube.com/watch?v=fJh5UeiULZs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アニプレックス チャンネル",
-        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-12-24",
-      "viewCount": "2738万",
-      "likeCount": "29.8万",
-      "commentCount": "8431"
-    },
-    {
       "rank": 1154,
       "thumb": {
         "img": "https://i.ytimg.com/vi/W-Tun8O-Tjk/default.jpg",
@@ -86,32 +86,10 @@
       "publishedAt": "2012-03-15",
       "viewCount": "6279万",
       "likeCount": "27.9万",
-      "commentCount": "8424"
+      "commentCount": "8426"
     },
     {
       "rank": 1155,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/tF_fvr4TmpM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=tF_fvr4TmpM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "三代目 J SOUL BROTHERS from EXILE TRIBE / Summer Madness feat. Afrojack",
-        "url": "https://www.youtube.com/watch?v=tF_fvr4TmpM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-06-14",
-      "viewCount": "7321万",
-      "likeCount": "14.2万",
-      "commentCount": "8421"
-    },
-    {
-      "rank": 1156,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3yoJY0IqiV0/default.jpg",
         "url": "https://www.youtube.com/watch?v=3yoJY0IqiV0",
@@ -133,6 +111,28 @@
       "commentCount": "8419"
     },
     {
+      "rank": 1155,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/tF_fvr4TmpM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=tF_fvr4TmpM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "三代目 J SOUL BROTHERS from EXILE TRIBE / Summer Madness feat. Afrojack",
+        "url": "https://www.youtube.com/watch?v=tF_fvr4TmpM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-06-14",
+      "viewCount": "7321万",
+      "likeCount": "14.2万",
+      "commentCount": "8419"
+    },
+    {
       "rank": 1157,
       "thumb": {
         "img": "https://i.ytimg.com/vi/yGcm81aaTHg/default.jpg",
@@ -150,8 +150,8 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-07",
-      "viewCount": "4052万",
-      "likeCount": "33.1万",
+      "viewCount": "4053万",
+      "likeCount": "33.2万",
       "commentCount": "8408"
     },
     {
@@ -194,7 +194,7 @@
         "target": "_blank"
       },
       "publishedAt": "2011-04-19",
-      "viewCount": "2380万",
+      "viewCount": "2381万",
       "likeCount": "13.9万",
       "commentCount": "8376"
     },
@@ -218,7 +218,7 @@
       "publishedAt": "2018-02-21",
       "viewCount": "2938万",
       "likeCount": "32.5万",
-      "commentCount": "8371"
+      "commentCount": "8370"
     },
     {
       "rank": 1161,
@@ -282,9 +282,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-24",
-      "viewCount": "5132万",
+      "viewCount": "5135万",
       "likeCount": "33.9万",
-      "commentCount": "8353"
+      "commentCount": "8355"
     },
     {
       "rank": 1164,
@@ -348,9 +348,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-02-16",
-      "viewCount": "4151万",
-      "likeCount": "45.8万",
-      "commentCount": "8331"
+      "viewCount": "4152万",
+      "likeCount": "45.9万",
+      "commentCount": "8332"
     },
     {
       "rank": 1167,
@@ -372,7 +372,7 @@
       "publishedAt": "2020-05-11",
       "viewCount": "1205万",
       "likeCount": "9.2万",
-      "commentCount": "8320"
+      "commentCount": "8326"
     },
     {
       "rank": 1168,
@@ -392,12 +392,34 @@
         "target": "_blank"
       },
       "publishedAt": "2015-09-02",
-      "viewCount": "1766万",
+      "viewCount": "1767万",
       "likeCount": "12万",
       "commentCount": "8300"
     },
     {
       "rank": 1169,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/CM4iVSsD524/default.jpg",
+        "url": "https://www.youtube.com/watch?v=CM4iVSsD524",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ONE OK ROCK × Monster Hunter Now - \"Make It Out Alive\" Music Video",
+        "url": "https://www.youtube.com/watch?v=CM4iVSsD524",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ONE OK ROCK",
+        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-08-29",
+      "viewCount": "1947万",
+      "likeCount": "27.2万",
+      "commentCount": "8298"
+    },
+    {
+      "rank": 1170,
       "thumb": {
         "img": "https://i.ytimg.com/vi/aBtZWIxcGFE/default.jpg",
         "url": "https://www.youtube.com/watch?v=aBtZWIxcGFE",
@@ -416,32 +438,32 @@
       "publishedAt": "2022-03-04",
       "viewCount": "1423万",
       "likeCount": "-",
-      "commentCount": "8295"
-    },
-    {
-      "rank": 1170,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/CM4iVSsD524/default.jpg",
-        "url": "https://www.youtube.com/watch?v=CM4iVSsD524",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ONE OK ROCK × Monster Hunter Now - \"Make It Out Alive\" Music Video",
-        "url": "https://www.youtube.com/watch?v=CM4iVSsD524",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ONE OK ROCK",
-        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-08-29",
-      "viewCount": "1946万",
-      "likeCount": "27.2万",
-      "commentCount": "8291"
+      "commentCount": "8297"
     },
     {
       "rank": 1171,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/jTVSU-Lr1ew/default.jpg",
+        "url": "https://www.youtube.com/watch?v=jTVSU-Lr1ew",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Ado】会いたくて",
+        "url": "https://www.youtube.com/watch?v=jTVSU-Lr1ew",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ado",
+        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-08-12",
+      "viewCount": "1707万",
+      "likeCount": "26.3万",
+      "commentCount": "8288"
+    },
+    {
+      "rank": 1172,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ugpywe34_30/default.jpg",
         "url": "https://www.youtube.com/watch?v=ugpywe34_30",
@@ -463,28 +485,6 @@
       "commentCount": "8287"
     },
     {
-      "rank": 1172,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/jTVSU-Lr1ew/default.jpg",
-        "url": "https://www.youtube.com/watch?v=jTVSU-Lr1ew",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Ado】会いたくて",
-        "url": "https://www.youtube.com/watch?v=jTVSU-Lr1ew",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ado",
-        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-08-12",
-      "viewCount": "1707万",
-      "likeCount": "26.3万",
-      "commentCount": "8286"
-    },
-    {
       "rank": 1173,
       "thumb": {
         "img": "https://i.ytimg.com/vi/F6_zbnfxoBA/default.jpg",
@@ -502,12 +502,12 @@
         "target": "_blank"
       },
       "publishedAt": "2019-05-28",
-      "viewCount": "4589万",
+      "viewCount": "4590万",
       "likeCount": "38.9万",
-      "commentCount": "8280"
+      "commentCount": "8281"
     },
     {
-      "rank": 1173,
+      "rank": 1174,
       "thumb": {
         "img": "https://i.ytimg.com/vi/p1qM75a9FeE/default.jpg",
         "url": "https://www.youtube.com/watch?v=p1qM75a9FeE",
@@ -526,7 +526,7 @@
       "publishedAt": "2020-08-05",
       "viewCount": "2615万",
       "likeCount": "15.4万",
-      "commentCount": "8280"
+      "commentCount": "8278"
     },
     {
       "rank": 1175,
@@ -590,7 +590,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-02",
-      "viewCount": "2925万",
+      "viewCount": "2926万",
       "likeCount": "30.8万",
       "commentCount": "8264"
     },
@@ -634,9 +634,9 @@
         "target": "_blank"
       },
       "publishedAt": "2008-06-06",
-      "viewCount": "6006万",
-      "likeCount": "19.5万",
-      "commentCount": "8260"
+      "viewCount": "6008万",
+      "likeCount": "19.6万",
+      "commentCount": "8261"
     },
     {
       "rank": 1180,
@@ -656,12 +656,56 @@
         "target": "_blank"
       },
       "publishedAt": "2013-03-26",
-      "viewCount": "3267万",
+      "viewCount": "3268万",
       "likeCount": "20.2万",
       "commentCount": "8249"
     },
     {
       "rank": 1181,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/MYo5alIaUOk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=MYo5alIaUOk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MISIA - 逢いたくていま（Official HD Music Video）",
+        "url": "https://www.youtube.com/watch?v=MYo5alIaUOk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "MISIA",
+        "url": "https://www.youtube.com/channel/UCzPBIyFM_VyXgG9At-1Il4Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-11-13",
+      "viewCount": "9524万",
+      "likeCount": "26万",
+      "commentCount": "8247"
+    },
+    {
+      "rank": 1182,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/khplMpm4ctc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=khplMpm4ctc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【LIVE映像】unravel  日本武道館 2023.8.30【Ado】",
+        "url": "https://www.youtube.com/watch?v=khplMpm4ctc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ado",
+        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-11-21",
+      "viewCount": "1794万",
+      "likeCount": "35.1万",
+      "commentCount": "8244"
+    },
+    {
+      "rank": 1183,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qfsr0S_QGOU/default.jpg",
         "url": "https://www.youtube.com/watch?v=qfsr0S_QGOU",
@@ -683,50 +727,6 @@
       "commentCount": "8241"
     },
     {
-      "rank": 1182,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/khplMpm4ctc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=khplMpm4ctc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【LIVE映像】unravel  日本武道館 2023.8.30【Ado】",
-        "url": "https://www.youtube.com/watch?v=khplMpm4ctc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ado",
-        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-11-21",
-      "viewCount": "1792万",
-      "likeCount": "35.1万",
-      "commentCount": "8240"
-    },
-    {
-      "rank": 1183,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/MYo5alIaUOk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=MYo5alIaUOk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MISIA - 逢いたくていま（Official HD Music Video）",
-        "url": "https://www.youtube.com/watch?v=MYo5alIaUOk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "MISIA",
-        "url": "https://www.youtube.com/channel/UCzPBIyFM_VyXgG9At-1Il4Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-11-13",
-      "viewCount": "9522万",
-      "likeCount": "26万",
-      "commentCount": "8235"
-    },
-    {
       "rank": 1184,
       "thumb": {
         "img": "https://i.ytimg.com/vi/C-xF2MAFw5s/default.jpg",
@@ -744,12 +744,12 @@
         "target": "_blank"
       },
       "publishedAt": "2012-04-09",
-      "viewCount": "5912万",
+      "viewCount": "5913万",
       "likeCount": "27.1万",
-      "commentCount": "8232"
+      "commentCount": "8233"
     },
     {
-      "rank": 1184,
+      "rank": 1185,
       "thumb": {
         "img": "https://i.ytimg.com/vi/PZX2npwj6jY/default.jpg",
         "url": "https://www.youtube.com/watch?v=PZX2npwj6jY",
@@ -766,9 +766,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-18",
-      "viewCount": "2678万",
+      "viewCount": "2679万",
       "likeCount": "17.4万",
-      "commentCount": "8232"
+      "commentCount": "8231"
     },
     {
       "rank": 1186,
@@ -790,7 +790,7 @@
       "publishedAt": "2017-09-28",
       "viewCount": "3009万",
       "likeCount": "13.3万",
-      "commentCount": "8229"
+      "commentCount": "8230"
     },
     {
       "rank": 1187,
@@ -810,9 +810,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-06-30",
-      "viewCount": "2389万",
+      "viewCount": "2390万",
       "likeCount": "35.8万",
-      "commentCount": "8221"
+      "commentCount": "8222"
     },
     {
       "rank": 1188,
@@ -834,7 +834,7 @@
       "publishedAt": "2020-11-12",
       "viewCount": "1298万",
       "likeCount": "53.2万",
-      "commentCount": "8220"
+      "commentCount": "8221"
     },
     {
       "rank": 1189,
@@ -883,6 +883,28 @@
     {
       "rank": 1191,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/6A7j6eryPV4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=6A7j6eryPV4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "モーニング娘。 『LOVEマシーン』 (MV)",
+        "url": "https://www.youtube.com/watch?v=6A7j6eryPV4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "モーニング娘。",
+        "url": "https://www.youtube.com/channel/UCoKXb95K5h3sME3c9OCBaeA",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-10-15",
+      "viewCount": "3195万",
+      "likeCount": "15万",
+      "commentCount": "8199"
+    },
+    {
+      "rank": 1191,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/E13jVMczRJg/default.jpg",
         "url": "https://www.youtube.com/watch?v=E13jVMczRJg",
         "target": "_blank"
@@ -903,28 +925,6 @@
       "commentCount": "8199"
     },
     {
-      "rank": 1192,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/6A7j6eryPV4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=6A7j6eryPV4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "モーニング娘。 『LOVEマシーン』 (MV)",
-        "url": "https://www.youtube.com/watch?v=6A7j6eryPV4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "モーニング娘。",
-        "url": "https://www.youtube.com/channel/UCoKXb95K5h3sME3c9OCBaeA",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-10-15",
-      "viewCount": "3193万",
-      "likeCount": "15万",
-      "commentCount": "8197"
-    },
-    {
       "rank": 1193,
       "thumb": {
         "img": "https://i.ytimg.com/vi/QhTCHikzdo8/default.jpg",
@@ -942,7 +942,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-06",
-      "viewCount": "2670万",
+      "viewCount": "2671万",
       "likeCount": "12.5万",
       "commentCount": "8190"
     },
@@ -986,7 +986,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-10",
-      "viewCount": "3248万",
+      "viewCount": "3249万",
       "likeCount": "38.7万",
       "commentCount": "8178"
     },
@@ -1010,7 +1010,7 @@
       "publishedAt": "2019-09-11",
       "viewCount": "7058万",
       "likeCount": "19.9万",
-      "commentCount": "8167"
+      "commentCount": "8164"
     },
     {
       "rank": 1197,
@@ -1032,7 +1032,7 @@
       "publishedAt": "2020-09-24",
       "viewCount": "3409万",
       "likeCount": "13.3万",
-      "commentCount": "8153"
+      "commentCount": "8154"
     },
     {
       "rank": 1198,
@@ -1054,7 +1054,7 @@
       "publishedAt": "2017-04-07",
       "viewCount": "3425万",
       "likeCount": "16.3万",
-      "commentCount": "8150"
+      "commentCount": "8148"
     },
     {
       "rank": 1199,
@@ -1074,9 +1074,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-05-24",
-      "viewCount": "1982万",
+      "viewCount": "1983万",
       "likeCount": "-",
-      "commentCount": "8126"
+      "commentCount": "8127"
     },
     {
       "rank": 1200,
