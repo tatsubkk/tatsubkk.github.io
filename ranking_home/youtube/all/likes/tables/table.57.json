@@ -86,7 +86,7 @@
       "publishedAt": "2011-11-07",
       "viewCount": "1447万",
       "likeCount": "2.7万",
-      "commentCount": "1466"
+      "commentCount": "1467"
     },
     {
       "rank": 2805,
@@ -128,7 +128,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-08",
-      "viewCount": "1059万",
+      "viewCount": "1060万",
       "likeCount": "2.69万",
       "commentCount": "2213"
     },
@@ -284,7 +284,7 @@
       "publishedAt": "2013-05-30",
       "viewCount": "1277万",
       "likeCount": "2.63万",
-      "commentCount": "1608"
+      "commentCount": "1607"
     },
     {
       "rank": 2814,
@@ -370,7 +370,7 @@
         "target": "_blank"
       },
       "publishedAt": "2009-04-17",
-      "viewCount": "1334万",
+      "viewCount": "1335万",
       "likeCount": "2.58万",
       "commentCount": "1249"
     },
@@ -392,7 +392,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-09",
-      "viewCount": "3683万",
+      "viewCount": "3684万",
       "likeCount": "2.58万",
       "commentCount": "-"
     },
@@ -416,7 +416,7 @@
       "publishedAt": "2013-03-24",
       "viewCount": "1168万",
       "likeCount": "2.57万",
-      "commentCount": "1344"
+      "commentCount": "1345"
     },
     {
       "rank": 2820,
@@ -504,7 +504,7 @@
       "publishedAt": "2011-01-13",
       "viewCount": "1157万",
       "likeCount": "2.5万",
-      "commentCount": "988"
+      "commentCount": "986"
     },
     {
       "rank": 2824,
@@ -524,7 +524,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-14",
-      "viewCount": "1096万",
+      "viewCount": "1097万",
       "likeCount": "2.5万",
       "commentCount": "1589"
     },
@@ -592,7 +592,7 @@
       "publishedAt": "2010-04-05",
       "viewCount": "1253万",
       "likeCount": "2.48万",
-      "commentCount": "1165"
+      "commentCount": "1166"
     },
     {
       "rank": 2828,
@@ -634,7 +634,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-28",
-      "viewCount": "1065万",
+      "viewCount": "1066万",
       "likeCount": "2.46万",
       "commentCount": "1454"
     },
@@ -724,7 +724,7 @@
       "publishedAt": "2009-04-08",
       "viewCount": "1052万",
       "likeCount": "2.38万",
-      "commentCount": "1600"
+      "commentCount": "1601"
     },
     {
       "rank": 2834,
@@ -767,7 +767,7 @@
       },
       "publishedAt": "2014-08-08",
       "viewCount": "1027万",
-      "likeCount": "2.36万",
+      "likeCount": "2.35万",
       "commentCount": "383"
     },
     {
@@ -812,7 +812,7 @@
       "publishedAt": "2013-06-11",
       "viewCount": "1024万",
       "likeCount": "2.33万",
-      "commentCount": "1506"
+      "commentCount": "1505"
     },
     {
       "rank": 2838,
@@ -861,6 +861,28 @@
     {
       "rank": 2840,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/NNtlOs6ldJw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=NNtlOs6ldJw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "KYOSUKE HIMURO -B.BLUE-(2004 at Tokyo Dome)",
+        "url": "https://www.youtube.com/watch?v=NNtlOs6ldJw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "KYOSUKE HIMURO",
+        "url": "https://www.youtube.com/channel/UCxhEMv7GDpJqeSW1VbOEqDQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2008-06-03",
+      "viewCount": "1266万",
+      "likeCount": "2.27万",
+      "commentCount": "1554"
+    },
+    {
+      "rank": 2840,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/JHlX4MtHSeU/default.jpg",
         "url": "https://www.youtube.com/watch?v=JHlX4MtHSeU",
         "target": "_blank"
@@ -879,28 +901,6 @@
       "viewCount": "1025万",
       "likeCount": "2.27万",
       "commentCount": "926"
-    },
-    {
-      "rank": 2841,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/NNtlOs6ldJw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=NNtlOs6ldJw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "KYOSUKE HIMURO -B.BLUE-(2004 at Tokyo Dome)",
-        "url": "https://www.youtube.com/watch?v=NNtlOs6ldJw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "KYOSUKE HIMURO",
-        "url": "https://www.youtube.com/channel/UCxhEMv7GDpJqeSW1VbOEqDQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2008-06-03",
-      "viewCount": "1265万",
-      "likeCount": "2.27万",
-      "commentCount": "1554"
     },
     {
       "rank": 2842,
@@ -942,7 +942,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-06-13",
-      "viewCount": "1287万",
+      "viewCount": "1288万",
       "likeCount": "2.23万",
       "commentCount": "515"
     },
@@ -1074,7 +1074,7 @@
         "target": "_blank"
       },
       "publishedAt": "2011-01-31",
-      "viewCount": "1855万",
+      "viewCount": "1856万",
       "likeCount": "2.13万",
       "commentCount": "464"
     },
