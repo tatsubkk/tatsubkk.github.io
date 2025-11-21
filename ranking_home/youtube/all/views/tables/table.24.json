@@ -21,7 +21,7 @@
       "viewCount": "3009万",
       "likeCount": "13.3万",
       "commentCount": "8230",
-      "increment_d1": "1179"
+      "increment_d1": "1153"
     },
     {
       "rank": 1152,
@@ -44,7 +44,7 @@
       "viewCount": "3009万",
       "likeCount": "15.8万",
       "commentCount": "3392",
-      "increment_d1": "3336"
+      "increment_d1": "3339"
     },
     {
       "rank": 1153,
@@ -64,10 +64,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-25",
-      "viewCount": "3006万",
+      "viewCount": "3008万",
       "likeCount": "11.3万",
       "commentCount": "2972",
-      "increment_d1": "1.94万"
+      "increment_d1": "2.04万"
     },
     {
       "rank": 1154,
@@ -87,13 +87,36 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-07",
-      "viewCount": "3005万",
+      "viewCount": "3006万",
       "likeCount": "8万",
-      "commentCount": "3038",
-      "increment_d1": "3576"
+      "commentCount": "3039",
+      "increment_d1": "3562"
     },
     {
       "rank": 1155,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/q7GFtKuEQik/default.jpg",
+        "url": "https://www.youtube.com/watch?v=q7GFtKuEQik",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "中島美嘉 『ORION』 MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=q7GFtKuEQik",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "中島美嘉 Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCtCmYrgndLuLJuhY2P0LiDQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-01-06",
+      "viewCount": "2999万",
+      "likeCount": "8.7万",
+      "commentCount": "2809",
+      "increment_d1": "4992"
+    },
+    {
+      "rank": 1156,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vG_rgBD6uwk/default.jpg",
         "url": "https://www.youtube.com/watch?v=vG_rgBD6uwk",
@@ -113,30 +136,7 @@
       "viewCount": "2999万",
       "likeCount": "6.1万",
       "commentCount": "4490",
-      "increment_d1": "877"
-    },
-    {
-      "rank": 1156,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/q7GFtKuEQik/default.jpg",
-        "url": "https://www.youtube.com/watch?v=q7GFtKuEQik",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "中島美嘉 『ORION』 MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=q7GFtKuEQik",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "中島美嘉 Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCtCmYrgndLuLJuhY2P0LiDQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-01-06",
-      "viewCount": "2998万",
-      "likeCount": "8.7万",
-      "commentCount": "2808",
-      "increment_d1": "4945"
+      "increment_d1": "838"
     },
     {
       "rank": 1157,
@@ -159,7 +159,7 @@
       "viewCount": "2990万",
       "likeCount": "13.5万",
       "commentCount": "2万",
-      "increment_d1": "2240"
+      "increment_d1": "2407"
     },
     {
       "rank": 1158,
@@ -182,7 +182,7 @@
       "viewCount": "2989万",
       "likeCount": "18.8万",
       "commentCount": "6134",
-      "increment_d1": "3372"
+      "increment_d1": "3611"
     },
     {
       "rank": 1159,
@@ -205,33 +205,10 @@
       "viewCount": "2985万",
       "likeCount": "4.7万",
       "commentCount": "1342",
-      "increment_d1": "385"
+      "increment_d1": "346"
     },
     {
       "rank": 1160,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/OzbYcxx4LwY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=OzbYcxx4LwY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SixTONES「Telephone」from LIVE DVD/Blu-ray 「TrackONE -IMPACT-」(2020.01.07 YOKOHAMA ARENA)",
-        "url": "https://www.youtube.com/watch?v=OzbYcxx4LwY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SixTONES",
-        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-09-18",
-      "viewCount": "2984万",
-      "likeCount": "-",
-      "commentCount": "1.4万",
-      "increment_d1": "3442"
-    },
-    {
-      "rank": 1161,
       "thumb": {
         "img": "https://i.ytimg.com/vi/kQvT37OzkP8/default.jpg",
         "url": "https://www.youtube.com/watch?v=kQvT37OzkP8",
@@ -248,10 +225,33 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-11",
-      "viewCount": "2984万",
+      "viewCount": "2985万",
       "likeCount": "21.8万",
-      "commentCount": "8634",
-      "increment_d1": "8135"
+      "commentCount": "8632",
+      "increment_d1": "8161"
+    },
+    {
+      "rank": 1161,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/OzbYcxx4LwY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=OzbYcxx4LwY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SixTONES「Telephone」from LIVE DVD/Blu-ray 「TrackONE -IMPACT-」(2020.01.07 YOKOHAMA ARENA)",
+        "url": "https://www.youtube.com/watch?v=OzbYcxx4LwY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SixTONES",
+        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-09-18",
+      "viewCount": "2985万",
+      "likeCount": "-",
+      "commentCount": "1.4万",
+      "increment_d1": "3461"
     },
     {
       "rank": 1162,
@@ -271,36 +271,13 @@
         "target": "_blank"
       },
       "publishedAt": "2009-10-02",
-      "viewCount": "2983万",
+      "viewCount": "2984万",
       "likeCount": "12.5万",
-      "commentCount": "3618",
-      "increment_d1": "6895"
+      "commentCount": "3620",
+      "increment_d1": "6915"
     },
     {
       "rank": 1163,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/2IZbzRj3CJk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=2IZbzRj3CJk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SOUL'd OUT　『ウェカピポ』",
-        "url": "https://www.youtube.com/watch?v=2IZbzRj3CJk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SOUL'd OUT オフィシャルYouTubeチャンネル",
-        "url": "https://www.youtube.com/channel/UC4Ws3VbmjUATvxsJlznaqdg",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-01-25",
-      "viewCount": "2981万",
-      "likeCount": "17.6万",
-      "commentCount": "1.1万",
-      "increment_d1": "9640"
-    },
-    {
-      "rank": 1164,
       "thumb": {
         "img": "https://i.ytimg.com/vi/uEGDbikWhrU/default.jpg",
         "url": "https://www.youtube.com/watch?v=uEGDbikWhrU",
@@ -317,10 +294,33 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-21",
-      "viewCount": "2981万",
+      "viewCount": "2983万",
       "likeCount": "16.5万",
       "commentCount": "5766",
-      "increment_d1": "1.68万"
+      "increment_d1": "1.65万"
+    },
+    {
+      "rank": 1164,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/2IZbzRj3CJk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=2IZbzRj3CJk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SOUL'd OUT　『ウェカピポ』",
+        "url": "https://www.youtube.com/watch?v=2IZbzRj3CJk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SOUL'd OUT オフィシャルYouTubeチャンネル",
+        "url": "https://www.youtube.com/channel/UC4Ws3VbmjUATvxsJlznaqdg",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-01-25",
+      "viewCount": "2982万",
+      "likeCount": "17.6万",
+      "commentCount": "1.1万",
+      "increment_d1": "1.03万"
     },
     {
       "rank": 1165,
@@ -342,8 +342,8 @@
       "publishedAt": "2019-08-16",
       "viewCount": "2981万",
       "likeCount": "19.6万",
-      "commentCount": "4103",
-      "increment_d1": "6676"
+      "commentCount": "4105",
+      "increment_d1": "6779"
     },
     {
       "rank": 1166,
@@ -363,10 +363,10 @@
         "target": "_blank"
       },
       "publishedAt": "2009-06-27",
-      "viewCount": "2980万",
+      "viewCount": "2981万",
       "likeCount": "12.8万",
-      "commentCount": "6268",
-      "increment_d1": "8348"
+      "commentCount": "6267",
+      "increment_d1": "9192"
     },
     {
       "rank": 1167,
@@ -386,10 +386,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-07",
-      "viewCount": "2979万",
+      "viewCount": "2980万",
       "likeCount": "-",
       "commentCount": "3.4万",
-      "increment_d1": "2476"
+      "increment_d1": "2428"
     },
     {
       "rank": 1168,
@@ -409,10 +409,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-24",
-      "viewCount": "2973万",
+      "viewCount": "2975万",
       "likeCount": "41.7万",
-      "commentCount": "6633",
-      "increment_d1": "1.5万"
+      "commentCount": "6635",
+      "increment_d1": "1.51万"
     },
     {
       "rank": 1169,
@@ -435,7 +435,7 @@
       "viewCount": "2972万",
       "likeCount": "26.1万",
       "commentCount": "1.8万",
-      "increment_d1": "827"
+      "increment_d1": "821"
     },
     {
       "rank": 1170,
@@ -455,10 +455,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-09-21",
-      "viewCount": "2970万",
+      "viewCount": "2971万",
       "likeCount": "11.4万",
       "commentCount": "1.5万",
-      "increment_d1": "1781"
+      "increment_d1": "1739"
     },
     {
       "rank": 1171,
@@ -481,10 +481,33 @@
       "viewCount": "2969万",
       "likeCount": "6.8万",
       "commentCount": "1537",
-      "increment_d1": "1054"
+      "increment_d1": "1088"
     },
     {
       "rank": 1172,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/PjhdKY0hyCA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=PjhdKY0hyCA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "JO1  | 'BE CLASSIC' Official MV",
+        "url": "https://www.youtube.com/watch?v=PjhdKY0hyCA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "JO1",
+        "url": "https://www.youtube.com/channel/UCsmXiDP8S40uBeJYxvyulmA",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-03-24",
+      "viewCount": "2967万",
+      "likeCount": "13.5万",
+      "commentCount": "11.6万",
+      "increment_d1": "7370"
+    },
+    {
+      "rank": 1173,
       "thumb": {
         "img": "https://i.ytimg.com/vi/bP6S2p8ZU18/default.jpg",
         "url": "https://www.youtube.com/watch?v=bP6S2p8ZU18",
@@ -504,30 +527,7 @@
       "viewCount": "2967万",
       "likeCount": "17万",
       "commentCount": "5553",
-      "increment_d1": "2515"
-    },
-    {
-      "rank": 1173,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/PjhdKY0hyCA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=PjhdKY0hyCA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "JO1  | 'BE CLASSIC' Official MV",
-        "url": "https://www.youtube.com/watch?v=PjhdKY0hyCA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "JO1",
-        "url": "https://www.youtube.com/channel/UCsmXiDP8S40uBeJYxvyulmA",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-03-24",
-      "viewCount": "2966万",
-      "likeCount": "13.5万",
-      "commentCount": "11.6万",
-      "increment_d1": "7493"
+      "increment_d1": "2415"
     },
     {
       "rank": 1174,
@@ -550,7 +550,7 @@
       "viewCount": "2965万",
       "likeCount": "7.8万",
       "commentCount": "4726",
-      "increment_d1": "1444"
+      "increment_d1": "1513"
     },
     {
       "rank": 1175,
@@ -573,7 +573,7 @@
       "viewCount": "2963万",
       "likeCount": "36.8万",
       "commentCount": "1万",
-      "increment_d1": "7230"
+      "increment_d1": "7013"
     },
     {
       "rank": 1176,
@@ -596,7 +596,7 @@
       "viewCount": "2960万",
       "likeCount": "19.6万",
       "commentCount": "4687",
-      "increment_d1": "3424"
+      "increment_d1": "3192"
     },
     {
       "rank": 1177,
@@ -619,7 +619,7 @@
       "viewCount": "2958万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "3045"
+      "increment_d1": "2894"
     },
     {
       "rank": 1178,
@@ -639,10 +639,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-22",
-      "viewCount": "2954万",
+      "viewCount": "2955万",
       "likeCount": "-",
       "commentCount": "4万",
-      "increment_d1": "2495"
+      "increment_d1": "2583"
     },
     {
       "rank": 1179,
@@ -665,7 +665,7 @@
       "viewCount": "2954万",
       "likeCount": "8.1万",
       "commentCount": "3563",
-      "increment_d1": "4524"
+      "increment_d1": "4571"
     },
     {
       "rank": 1180,
@@ -688,10 +688,33 @@
       "viewCount": "2953万",
       "likeCount": "22万",
       "commentCount": "1.1万",
-      "increment_d1": "2765"
+      "increment_d1": "2783"
     },
     {
       "rank": 1181,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/VSnXfcjJ8qk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=VSnXfcjJ8qk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "いぬのおまわりさん　～ののちゃん　オーケストラと＜同録＞したよ♪",
+        "url": "https://www.youtube.com/watch?v=VSnXfcjJ8qk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "KING RECORDS",
+        "url": "https://www.youtube.com/channel/UC6KEU5-KSTszEOOnAl8ZwPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-04-27",
+      "viewCount": "2946万",
+      "likeCount": "16.8万",
+      "commentCount": "-",
+      "increment_d1": "1.35万"
+    },
+    {
+      "rank": 1182,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ekycNTgJbnA/default.jpg",
         "url": "https://www.youtube.com/watch?v=ekycNTgJbnA",
@@ -711,30 +734,7 @@
       "viewCount": "2946万",
       "likeCount": "13万",
       "commentCount": "7411",
-      "increment_d1": "367"
-    },
-    {
-      "rank": 1182,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/VSnXfcjJ8qk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=VSnXfcjJ8qk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "いぬのおまわりさん　～ののちゃん　オーケストラと＜同録＞したよ♪",
-        "url": "https://www.youtube.com/watch?v=VSnXfcjJ8qk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "KING RECORDS",
-        "url": "https://www.youtube.com/channel/UC6KEU5-KSTszEOOnAl8ZwPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-04-27",
-      "viewCount": "2945万",
-      "likeCount": "16.8万",
-      "commentCount": "-",
-      "increment_d1": "1.31万"
+      "increment_d1": "288"
     },
     {
       "rank": 1183,
@@ -754,10 +754,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-07",
-      "viewCount": "2944万",
+      "viewCount": "2945万",
       "likeCount": "10.6万",
       "commentCount": "2462",
-      "increment_d1": "8748"
+      "increment_d1": "8702"
     },
     {
       "rank": 1184,
@@ -777,10 +777,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-01-24",
-      "viewCount": "2943万",
+      "viewCount": "2944万",
       "likeCount": "10.8万",
-      "commentCount": "9265",
-      "increment_d1": "1114"
+      "commentCount": "9264",
+      "increment_d1": "1038"
     },
     {
       "rank": 1185,
@@ -803,7 +803,7 @@
       "viewCount": "2939万",
       "likeCount": "32.5万",
       "commentCount": "8371",
-      "increment_d1": "2358"
+      "increment_d1": "2252"
     },
     {
       "rank": 1186,
@@ -823,10 +823,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-12-19",
-      "viewCount": "2936万",
+      "viewCount": "2937万",
       "likeCount": "13万",
-      "commentCount": "5198",
-      "increment_d1": "9204"
+      "commentCount": "5200",
+      "increment_d1": "8798"
     },
     {
       "rank": 1187,
@@ -846,10 +846,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-15",
-      "viewCount": "2933万",
+      "viewCount": "2934万",
       "likeCount": "-",
       "commentCount": "2.4万",
-      "increment_d1": "5083"
+      "increment_d1": "5267"
     },
     {
       "rank": 1188,
@@ -872,7 +872,7 @@
       "viewCount": "2933万",
       "likeCount": "43.4万",
       "commentCount": "21.3万",
-      "increment_d1": "694"
+      "increment_d1": "778"
     },
     {
       "rank": 1189,
@@ -895,7 +895,7 @@
       "viewCount": "2931万",
       "likeCount": "13.1万",
       "commentCount": "1万",
-      "increment_d1": "613"
+      "increment_d1": "631"
     },
     {
       "rank": 1190,
@@ -918,7 +918,7 @@
       "viewCount": "2929万",
       "likeCount": "10.1万",
       "commentCount": "451",
-      "increment_d1": "1904"
+      "increment_d1": "1914"
     },
     {
       "rank": 1191,
@@ -938,10 +938,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-02",
-      "viewCount": "2927万",
+      "viewCount": "2928万",
       "likeCount": "30.8万",
-      "commentCount": "8264",
-      "increment_d1": "7538"
+      "commentCount": "8266",
+      "increment_d1": "7700"
     },
     {
       "rank": 1192,
@@ -961,13 +961,36 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-30",
-      "viewCount": "2926万",
+      "viewCount": "2927万",
       "likeCount": "54.7万",
       "commentCount": "1万",
-      "increment_d1": "6298"
+      "increment_d1": "6579"
     },
     {
       "rank": 1193,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1fC8wAwBqXc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1fC8wAwBqXc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "TETORA - 今日くらいは Official Live Music Video-",
+        "url": "https://www.youtube.com/watch?v=1fC8wAwBqXc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "JMS BASE",
+        "url": "https://www.youtube.com/channel/UCj8RXhnU4RR9wnRUYQoyLqw",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-06-20",
+      "viewCount": "2919万",
+      "likeCount": "29.8万",
+      "commentCount": "6601",
+      "increment_d1": "5440"
+    },
+    {
+      "rank": 1194,
       "thumb": {
         "img": "https://i.ytimg.com/vi/s333VJAZ3xk/default.jpg",
         "url": "https://www.youtube.com/watch?v=s333VJAZ3xk",
@@ -987,30 +1010,7 @@
       "viewCount": "2918万",
       "likeCount": "-",
       "commentCount": "2万",
-      "increment_d1": "1442"
-    },
-    {
-      "rank": 1194,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1fC8wAwBqXc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1fC8wAwBqXc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "TETORA - 今日くらいは Official Live Music Video-",
-        "url": "https://www.youtube.com/watch?v=1fC8wAwBqXc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "JMS BASE",
-        "url": "https://www.youtube.com/channel/UCj8RXhnU4RR9wnRUYQoyLqw",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-06-20",
-      "viewCount": "2918万",
-      "likeCount": "29.8万",
-      "commentCount": "6599",
-      "increment_d1": "5332"
+      "increment_d1": "1548"
     },
     {
       "rank": 1195,
@@ -1030,10 +1030,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-10-14",
-      "viewCount": "2914万",
+      "viewCount": "2915万",
       "likeCount": "32.1万",
       "commentCount": "1.1万",
-      "increment_d1": "1.09万"
+      "increment_d1": "1.13万"
     },
     {
       "rank": 1196,
@@ -1056,10 +1056,56 @@
       "viewCount": "2912万",
       "likeCount": "10.1万",
       "commentCount": "4108",
-      "increment_d1": "1335"
+      "increment_d1": "1340"
     },
     {
       "rank": 1197,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/dYzgZVhiqmU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=dYzgZVhiqmU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 - Ｗ●ＲＫ",
+        "url": "https://www.youtube.com/watch?v=dYzgZVhiqmU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "MILLENNIUM PARADE Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UChex1vr4WtFu-OsAukjuYCA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-04-15",
+      "viewCount": "2903万",
+      "likeCount": "30万",
+      "commentCount": "7218",
+      "increment_d1": "1.03万"
+    },
+    {
+      "rank": 1198,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/FJWLj1-kGC0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=FJWLj1-kGC0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MISAMO「NEW LOOK」Music Video",
+        "url": "https://www.youtube.com/watch?v=FJWLj1-kGC0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "TWICE JAPAN OFFICIAL YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCCRb6nYKaT8tzLA8CwDdUtw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-10-08",
+      "viewCount": "2903万",
+      "likeCount": "47.5万",
+      "commentCount": "2万",
+      "increment_d1": "1.3万"
+    },
+    {
+      "rank": 1199,
       "thumb": {
         "img": "https://i.ytimg.com/vi/4QXCPuwBz2E/default.jpg",
         "url": "https://www.youtube.com/watch?v=4QXCPuwBz2E",
@@ -1079,76 +1125,30 @@
       "viewCount": "2903万",
       "likeCount": "49.9万",
       "commentCount": "1万",
-      "increment_d1": "3486"
-    },
-    {
-      "rank": 1198,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/dYzgZVhiqmU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=dYzgZVhiqmU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ × 椎名林檎 - Ｗ●ＲＫ",
-        "url": "https://www.youtube.com/watch?v=dYzgZVhiqmU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "MILLENNIUM PARADE Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UChex1vr4WtFu-OsAukjuYCA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-04-15",
-      "viewCount": "2902万",
-      "likeCount": "30万",
-      "commentCount": "7218",
-      "increment_d1": "1.03万"
-    },
-    {
-      "rank": 1199,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/FJWLj1-kGC0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=FJWLj1-kGC0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MISAMO「NEW LOOK」Music Video",
-        "url": "https://www.youtube.com/watch?v=FJWLj1-kGC0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "TWICE JAPAN OFFICIAL YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCCRb6nYKaT8tzLA8CwDdUtw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-10-08",
-      "viewCount": "2902万",
-      "likeCount": "47.5万",
-      "commentCount": "2万",
-      "increment_d1": "1.28万"
+      "increment_d1": "3482"
     },
     {
       "rank": 1200,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/_vzFjFvy2to/default.jpg",
-        "url": "https://www.youtube.com/watch?v=_vzFjFvy2to",
+        "img": "https://i.ytimg.com/vi/9JPpdDo0o6U/default.jpg",
+        "url": "https://www.youtube.com/watch?v=9JPpdDo0o6U",
         "target": "_blank"
       },
       "title": {
-        "text": "SixTONES – CREAK [YouTube ver.]",
-        "url": "https://www.youtube.com/watch?v=_vzFjFvy2to",
+        "text": "Mrs. GREEN APPLE – 青と夏(第75回NHK紅白歌合戦 歌唱曲)【LIVE from ゼンジン未到とヴェルトラウム〜銘銘編〜】",
+        "url": "https://www.youtube.com/watch?v=9JPpdDo0o6U",
         "target": "_blank"
       },
       "channel": {
-        "text": "SixTONES",
-        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
         "target": "_blank"
       },
-      "publishedAt": "2023-08-04",
+      "publishedAt": "2024-12-31",
       "viewCount": "2897万",
-      "likeCount": "-",
-      "commentCount": "2.1万",
-      "increment_d1": "2663"
+      "likeCount": "10.2万",
+      "commentCount": "2468",
+      "increment_d1": "4.1万"
     }
   ]
 }
