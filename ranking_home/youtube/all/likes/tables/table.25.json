@@ -40,9 +40,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-02-09",
-      "viewCount": "3052万",
+      "viewCount": "3053万",
       "likeCount": "18.2万",
-      "commentCount": "6762"
+      "commentCount": "6765"
     },
     {
       "rank": 1203,
@@ -62,9 +62,9 @@
         "target": "_blank"
       },
       "publishedAt": "2016-11-20",
-      "viewCount": "2302万",
+      "viewCount": "2303万",
       "likeCount": "18.16万",
-      "commentCount": "5980"
+      "commentCount": "5983"
     },
     {
       "rank": 1204,
@@ -106,9 +106,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-12-27",
-      "viewCount": "4992万",
-      "likeCount": "18.1万",
-      "commentCount": "5974"
+      "viewCount": "4996万",
+      "likeCount": "18.11万",
+      "commentCount": "5975"
     },
     {
       "rank": 1206,
@@ -157,6 +157,50 @@
     {
       "rank": 1208,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/zPR-LcqWZJU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=zPR-LcqWZJU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Official】Uru 『それを愛と呼ぶなら』 TBS系 日曜劇場「マイファミリー」主題歌",
+        "url": "https://www.youtube.com/watch?v=zPR-LcqWZJU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Uru Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-05-01",
+      "viewCount": "1920万",
+      "likeCount": "18.04万",
+      "commentCount": "2756"
+    },
+    {
+      "rank": 1208,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/p010N38zFrA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=p010N38zFrA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【LIVE映像】結束バンド「ギターと孤独と蒼い惑星」LIVE at STARRY / 「ぼっち・ざ・ろっく！」劇中曲",
+        "url": "https://www.youtube.com/watch?v=p010N38zFrA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "アニプレックス チャンネル",
+        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-11-05",
+      "viewCount": "1422万",
+      "likeCount": "18.04万",
+      "commentCount": "4041"
+    },
+    {
+      "rank": 1210,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/cHcD1LcmxfA/default.jpg",
         "url": "https://www.youtube.com/watch?v=cHcD1LcmxfA",
         "target": "_blank"
@@ -177,51 +221,29 @@
       "commentCount": "1056"
     },
     {
-      "rank": 1208,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/p010N38zFrA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=p010N38zFrA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【LIVE映像】結束バンド「ギターと孤独と蒼い惑星」LIVE at STARRY / 「ぼっち・ざ・ろっく！」劇中曲",
-        "url": "https://www.youtube.com/watch?v=p010N38zFrA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アニプレックス チャンネル",
-        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-11-05",
-      "viewCount": "1421万",
-      "likeCount": "18.04万",
-      "commentCount": "4041"
-    },
-    {
-      "rank": 1210,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/zPR-LcqWZJU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=zPR-LcqWZJU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Official】Uru 『それを愛と呼ぶなら』 TBS系 日曜劇場「マイファミリー」主題歌",
-        "url": "https://www.youtube.com/watch?v=zPR-LcqWZJU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Uru Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-05-01",
-      "viewCount": "1919万",
-      "likeCount": "18.03万",
-      "commentCount": "2755"
-    },
-    {
       "rank": 1211,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/bMPuDj3kGOM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=bMPuDj3kGOM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "星野源 – 異世界混合大舞踏会 (feat. おばけ) [Official Video]",
+        "url": "https://www.youtube.com/watch?v=bMPuDj3kGOM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "星野源 Gen Hoshino",
+        "url": "https://www.youtube.com/channel/UCPKlrgZXnnb89nSeITvTdGA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-07-17",
+      "viewCount": "1755万",
+      "likeCount": "18.03万",
+      "commentCount": "4079"
+    },
+    {
+      "rank": 1212,
       "thumb": {
         "img": "https://i.ytimg.com/vi/MAkIYZiyJq4/default.jpg",
         "url": "https://www.youtube.com/watch?v=MAkIYZiyJq4",
@@ -243,28 +265,6 @@
       "commentCount": "3.5万"
     },
     {
-      "rank": 1212,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/bMPuDj3kGOM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=bMPuDj3kGOM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "星野源 – 異世界混合大舞踏会 (feat. おばけ) [Official Video]",
-        "url": "https://www.youtube.com/watch?v=bMPuDj3kGOM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "星野源 Gen Hoshino",
-        "url": "https://www.youtube.com/channel/UCPKlrgZXnnb89nSeITvTdGA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-07-17",
-      "viewCount": "1755万",
-      "likeCount": "18.03万",
-      "commentCount": "4078"
-    },
-    {
       "rank": 1213,
       "thumb": {
         "img": "https://i.ytimg.com/vi/rLKqcYWb15w/default.jpg",
@@ -282,7 +282,7 @@
         "target": "_blank"
       },
       "publishedAt": "2025-03-21",
-      "viewCount": "1738万",
+      "viewCount": "1740万",
       "likeCount": "17.99万",
       "commentCount": "2.3万"
     },
@@ -305,8 +305,8 @@
       },
       "publishedAt": "2020-11-12",
       "viewCount": "1678万",
-      "likeCount": "17.98万",
-      "commentCount": "5296"
+      "likeCount": "17.99万",
+      "commentCount": "5297"
     },
     {
       "rank": 1215,
@@ -348,12 +348,34 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-05",
-      "viewCount": "4229万",
-      "likeCount": "17.95万",
+      "viewCount": "4230万",
+      "likeCount": "17.96万",
       "commentCount": "202"
     },
     {
       "rank": 1217,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/c2y8Ba3WwPY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=c2y8Ba3WwPY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "RADWIMPS - 有心論  [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=c2y8Ba3WwPY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "RADWIMPS",
+        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-07-02",
+      "viewCount": "4834万",
+      "likeCount": "17.94万",
+      "commentCount": "6049"
+    },
+    {
+      "rank": 1218,
       "thumb": {
         "img": "https://i.ytimg.com/vi/29t3pJd75XU/default.jpg",
         "url": "https://www.youtube.com/watch?v=29t3pJd75XU",
@@ -372,29 +394,7 @@
       "publishedAt": "2023-05-21",
       "viewCount": "1082万",
       "likeCount": "17.92万",
-      "commentCount": "4121"
-    },
-    {
-      "rank": 1218,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/c2y8Ba3WwPY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=c2y8Ba3WwPY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "RADWIMPS - 有心論  [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=c2y8Ba3WwPY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "RADWIMPS",
-        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-07-02",
-      "viewCount": "4833万",
-      "likeCount": "17.92万",
-      "commentCount": "6045"
+      "commentCount": "4119"
     },
     {
       "rank": 1219,
@@ -458,9 +458,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-11",
-      "viewCount": "3412万",
-      "likeCount": "17.87万",
-      "commentCount": "6721"
+      "viewCount": "3413万",
+      "likeCount": "17.88万",
+      "commentCount": "6719"
     },
     {
       "rank": 1222,
@@ -480,9 +480,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-19",
-      "viewCount": "1509万",
-      "likeCount": "17.86万",
-      "commentCount": "5380"
+      "viewCount": "1510万",
+      "likeCount": "17.87万",
+      "commentCount": "5381"
     },
     {
       "rank": 1223,
@@ -524,8 +524,8 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-30",
-      "viewCount": "2203万",
-      "likeCount": "17.85万",
+      "viewCount": "2204万",
+      "likeCount": "17.86万",
       "commentCount": "3954"
     },
     {
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-06-26",
-      "viewCount": "5607万",
+      "viewCount": "5608万",
       "likeCount": "17.81万",
       "commentCount": "9446"
     },
@@ -568,34 +568,12 @@
         "target": "_blank"
       },
       "publishedAt": "2024-12-27",
-      "viewCount": "4382万",
+      "viewCount": "4385万",
       "likeCount": "17.81万",
       "commentCount": "1.6万"
     },
     {
       "rank": 1227,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/QORbTrXHpsA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=QORbTrXHpsA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Aimer「朝が来る」MUSIC VIDEO（テレビアニメ「鬼滅の刃」遊郭編エンディングテーマ）",
-        "url": "https://www.youtube.com/watch?v=QORbTrXHpsA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Aimer Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCR1zT1s524Hbc85bdvno_8w",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-01-09",
-      "viewCount": "2243万",
-      "likeCount": "17.79万",
-      "commentCount": "3409"
-    },
-    {
-      "rank": 1228,
       "thumb": {
         "img": "https://i.ytimg.com/vi/D_xkQAxyf-o/default.jpg",
         "url": "https://www.youtube.com/watch?v=D_xkQAxyf-o",
@@ -612,9 +590,31 @@
         "target": "_blank"
       },
       "publishedAt": "2010-10-18",
-      "viewCount": "5096万",
-      "likeCount": "17.79万",
+      "viewCount": "5098万",
+      "likeCount": "17.8万",
       "commentCount": "1.1万"
+    },
+    {
+      "rank": 1228,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/QORbTrXHpsA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=QORbTrXHpsA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Aimer「朝が来る」MUSIC VIDEO（テレビアニメ「鬼滅の刃」遊郭編エンディングテーマ）",
+        "url": "https://www.youtube.com/watch?v=QORbTrXHpsA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Aimer Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCR1zT1s524Hbc85bdvno_8w",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-01-09",
+      "viewCount": "2244万",
+      "likeCount": "17.79万",
+      "commentCount": "3409"
     },
     {
       "rank": 1229,
@@ -634,8 +634,8 @@
         "target": "_blank"
       },
       "publishedAt": "2017-01-13",
-      "viewCount": "2594万",
-      "likeCount": "17.78万",
+      "viewCount": "2595万",
+      "likeCount": "17.79万",
       "commentCount": "2016"
     },
     {
@@ -656,9 +656,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-08-06",
-      "viewCount": "3509万",
-      "likeCount": "17.77万",
-      "commentCount": "5834"
+      "viewCount": "3513万",
+      "likeCount": "17.78万",
+      "commentCount": "5835"
     },
     {
       "rank": 1231,
@@ -678,7 +678,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-04-09",
-      "viewCount": "1804万",
+      "viewCount": "1805万",
       "likeCount": "17.76万",
       "commentCount": "6858"
     },
@@ -722,9 +722,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-10-24",
-      "viewCount": "1817万",
+      "viewCount": "1818万",
       "likeCount": "17.69万",
-      "commentCount": "6246"
+      "commentCount": "6247"
     },
     {
       "rank": 1234,
@@ -766,9 +766,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-02-16",
-      "viewCount": "1526万",
+      "viewCount": "1527万",
       "likeCount": "17.67万",
-      "commentCount": "8942"
+      "commentCount": "8940"
     },
     {
       "rank": 1236,
@@ -788,8 +788,8 @@
         "target": "_blank"
       },
       "publishedAt": "2016-09-01",
-      "viewCount": "2778万",
-      "likeCount": "17.66万",
+      "viewCount": "2779万",
+      "likeCount": "17.67万",
       "commentCount": "6936"
     },
     {
@@ -810,9 +810,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-27",
-      "viewCount": "1242万",
+      "viewCount": "1243万",
       "likeCount": "17.66万",
-      "commentCount": "4597"
+      "commentCount": "4599"
     },
     {
       "rank": 1238,
@@ -832,12 +832,34 @@
         "target": "_blank"
       },
       "publishedAt": "2016-12-13",
-      "viewCount": "2566万",
+      "viewCount": "2567万",
       "likeCount": "17.64万",
       "commentCount": "1.2万"
     },
     {
       "rank": 1239,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/2IZbzRj3CJk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=2IZbzRj3CJk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SOUL'd OUT　『ウェカピポ』",
+        "url": "https://www.youtube.com/watch?v=2IZbzRj3CJk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SOUL'd OUT オフィシャルYouTubeチャンネル",
+        "url": "https://www.youtube.com/channel/UC4Ws3VbmjUATvxsJlznaqdg",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-01-25",
+      "viewCount": "2984万",
+      "likeCount": "17.64万",
+      "commentCount": "1.1万"
+    },
+    {
+      "rank": 1240,
       "thumb": {
         "img": "https://i.ytimg.com/vi/QbHBfxAOucI/default.jpg",
         "url": "https://www.youtube.com/watch?v=QbHBfxAOucI",
@@ -859,28 +881,6 @@
       "commentCount": "2439"
     },
     {
-      "rank": 1240,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/2IZbzRj3CJk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=2IZbzRj3CJk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SOUL'd OUT　『ウェカピポ』",
-        "url": "https://www.youtube.com/watch?v=2IZbzRj3CJk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SOUL'd OUT オフィシャルYouTubeチャンネル",
-        "url": "https://www.youtube.com/channel/UC4Ws3VbmjUATvxsJlznaqdg",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-01-25",
-      "viewCount": "2982万",
-      "likeCount": "17.63万",
-      "commentCount": "1.1万"
-    },
-    {
       "rank": 1241,
       "thumb": {
         "img": "https://i.ytimg.com/vi/61z-cqg28R8/default.jpg",
@@ -898,9 +898,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-26",
-      "viewCount": "2190万",
+      "viewCount": "2191万",
       "likeCount": "17.63万",
-      "commentCount": "4551"
+      "commentCount": "4552"
     },
     {
       "rank": 1242,
@@ -920,9 +920,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-06-20",
-      "viewCount": "1545万",
-      "likeCount": "17.6万",
-      "commentCount": "4482"
+      "viewCount": "1546万",
+      "likeCount": "17.61万",
+      "commentCount": "4483"
     },
     {
       "rank": 1243,
@@ -964,7 +964,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-09",
-      "viewCount": "1038万",
+      "viewCount": "1039万",
       "likeCount": "17.53万",
       "commentCount": "4726"
     },
@@ -986,7 +986,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-18",
-      "viewCount": "3378万",
+      "viewCount": "3379万",
       "likeCount": "17.52万",
       "commentCount": "4万"
     },
@@ -1030,9 +1030,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-16",
-      "viewCount": "2855万",
+      "viewCount": "2856万",
       "likeCount": "17.5万",
-      "commentCount": "5512"
+      "commentCount": "5514"
     },
     {
       "rank": 1248,
@@ -1052,7 +1052,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-10-11",
-      "viewCount": "1660万",
+      "viewCount": "1661万",
       "likeCount": "17.5万",
       "commentCount": "6440"
     },
@@ -1096,9 +1096,9 @@
         "target": "_blank"
       },
       "publishedAt": "2016-10-27",
-      "viewCount": "2013万",
+      "viewCount": "2014万",
       "likeCount": "17.49万",
-      "commentCount": "9896"
+      "commentCount": "9897"
     }
   ]
 }

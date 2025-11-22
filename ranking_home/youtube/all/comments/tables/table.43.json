@@ -1,7 +1,7 @@
 {
   "rows": [
     {
-      "rank": 2100,
+      "rank": 2101,
       "thumb": {
         "img": "https://i.ytimg.com/vi/zIRRGKMLaJE/default.jpg",
         "url": "https://www.youtube.com/watch?v=zIRRGKMLaJE",
@@ -42,7 +42,7 @@
       "publishedAt": "2018-02-06",
       "viewCount": "1402万",
       "likeCount": "9.2万",
-      "commentCount": "3482"
+      "commentCount": "3483"
     },
     {
       "rank": 2103,
@@ -64,10 +64,32 @@
       "publishedAt": "2013-04-24",
       "viewCount": "2532万",
       "likeCount": "4.9万",
-      "commentCount": "3479"
+      "commentCount": "3481"
     },
     {
       "rank": 2104,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/wp2U40KI63A/default.jpg",
+        "url": "https://www.youtube.com/watch?v=wp2U40KI63A",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "aiko- 『カブトムシ』music video",
+        "url": "https://www.youtube.com/watch?v=wp2U40KI63A",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "aikoOfficial",
+        "url": "https://www.youtube.com/channel/UCtLQyS4toPOarqufGUxTtIQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-02-25",
+      "viewCount": "3959万",
+      "likeCount": "-",
+      "commentCount": "3479"
+    },
+    {
+      "rank": 2105,
       "thumb": {
         "img": "https://i.ytimg.com/vi/2auo4lkBvZ4/default.jpg",
         "url": "https://www.youtube.com/watch?v=2auo4lkBvZ4",
@@ -86,29 +108,7 @@
       "publishedAt": "2012-12-09",
       "viewCount": "1170万",
       "likeCount": "12.5万",
-      "commentCount": "3477"
-    },
-    {
-      "rank": 2105,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/wp2U40KI63A/default.jpg",
-        "url": "https://www.youtube.com/watch?v=wp2U40KI63A",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "aiko- 『カブトムシ』music video",
-        "url": "https://www.youtube.com/watch?v=wp2U40KI63A",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "aikoOfficial",
-        "url": "https://www.youtube.com/channel/UCtLQyS4toPOarqufGUxTtIQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-02-25",
-      "viewCount": "3958万",
-      "likeCount": "-",
-      "commentCount": "3476"
+      "commentCount": "3478"
     },
     {
       "rank": 2106,
@@ -172,7 +172,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-10-30",
-      "viewCount": "1963万",
+      "viewCount": "1964万",
       "likeCount": "15.8万",
       "commentCount": "3461"
     },
@@ -194,31 +194,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-10-31",
-      "viewCount": "4689万",
+      "viewCount": "4691万",
       "likeCount": "21.3万",
-      "commentCount": "3455"
-    },
-    {
-      "rank": 2110,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/S_zJwCCDwRU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=S_zJwCCDwRU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "GENERATIONS from EXILE TRIBE / 「AGEHA」Music Video ～歌詞有り～",
-        "url": "https://www.youtube.com/watch?v=S_zJwCCDwRU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-01-10",
-      "viewCount": "3111万",
-      "likeCount": "9.3万",
-      "commentCount": "3452"
+      "commentCount": "3458"
     },
     {
       "rank": 2110,
@@ -240,6 +218,28 @@
       "publishedAt": "2015-12-01",
       "viewCount": "1460万",
       "likeCount": "5.3万",
+      "commentCount": "3452"
+    },
+    {
+      "rank": 2110,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/S_zJwCCDwRU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=S_zJwCCDwRU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "GENERATIONS from EXILE TRIBE / 「AGEHA」Music Video ～歌詞有り～",
+        "url": "https://www.youtube.com/watch?v=S_zJwCCDwRU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-01-10",
+      "viewCount": "3112万",
+      "likeCount": "9.3万",
       "commentCount": "3452"
     },
     {
@@ -304,9 +304,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-25",
-      "viewCount": "2234万",
+      "viewCount": "2236万",
       "likeCount": "30.8万",
-      "commentCount": "3441"
+      "commentCount": "3444"
     },
     {
       "rank": 2115,
@@ -326,9 +326,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-06-30",
-      "viewCount": "4268万",
+      "viewCount": "4270万",
       "likeCount": "18.9万",
-      "commentCount": "3438"
+      "commentCount": "3437"
     },
     {
       "rank": 2116,
@@ -414,7 +414,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-12-26",
-      "viewCount": "1182万",
+      "viewCount": "1183万",
       "likeCount": "14.9万",
       "commentCount": "3423"
     },
@@ -436,7 +436,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-06-26",
-      "viewCount": "2475万",
+      "viewCount": "2476万",
       "likeCount": "15.2万",
       "commentCount": "3422"
     },
@@ -480,7 +480,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-28",
-      "viewCount": "3685万",
+      "viewCount": "3687万",
       "likeCount": "16.7万",
       "commentCount": "3419"
     },
@@ -502,7 +502,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-10",
-      "viewCount": "1273万",
+      "viewCount": "1274万",
       "likeCount": "-",
       "commentCount": "3418"
     },
@@ -524,7 +524,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-08-11",
-      "viewCount": "1871万",
+      "viewCount": "1872万",
       "likeCount": "10.5万",
       "commentCount": "3417"
     },
@@ -568,7 +568,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-01-09",
-      "viewCount": "2243万",
+      "viewCount": "2244万",
       "likeCount": "17.8万",
       "commentCount": "3409"
     },
@@ -590,9 +590,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-12",
-      "viewCount": "3226万",
+      "viewCount": "3227万",
       "likeCount": "20.9万",
-      "commentCount": "3403"
+      "commentCount": "3404"
     },
     {
       "rank": 2128,
@@ -612,7 +612,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-11-07",
-      "viewCount": "3009万",
+      "viewCount": "3010万",
       "likeCount": "15.8万",
       "commentCount": "3392"
     },
@@ -634,9 +634,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-10",
-      "viewCount": "2026万",
+      "viewCount": "2028万",
       "likeCount": "8.3万",
-      "commentCount": "3390"
+      "commentCount": "3391"
     },
     {
       "rank": 2130,
@@ -656,9 +656,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-07",
-      "viewCount": "1859万",
+      "viewCount": "1860万",
       "likeCount": "9.8万",
-      "commentCount": "3387"
+      "commentCount": "3388"
     },
     {
       "rank": 2131,
@@ -680,7 +680,7 @@
       "publishedAt": "2017-02-20",
       "viewCount": "1446万",
       "likeCount": "9.1万",
-      "commentCount": "3384"
+      "commentCount": "3385"
     },
     {
       "rank": 2132,
@@ -724,29 +724,7 @@
       "publishedAt": "2010-04-16",
       "viewCount": "2184万",
       "likeCount": "5.7万",
-      "commentCount": "3369"
-    },
-    {
-      "rank": 2134,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/OqEVEShYOv8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=OqEVEShYOv8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE「我逢人」Official Stage Mix",
-        "url": "https://www.youtube.com/watch?v=OqEVEShYOv8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-07-07",
-      "viewCount": "1128万",
-      "likeCount": "10.3万",
-      "commentCount": "3353"
+      "commentCount": "3371"
     },
     {
       "rank": 2134,
@@ -766,12 +744,12 @@
         "target": "_blank"
       },
       "publishedAt": "2021-04-14",
-      "viewCount": "1362万",
+      "viewCount": "1363万",
       "likeCount": "9.6万",
-      "commentCount": "3353"
+      "commentCount": "3355"
     },
     {
-      "rank": 2136,
+      "rank": 2134,
       "thumb": {
         "img": "https://i.ytimg.com/vi/18H2Uc9_7I0/default.jpg",
         "url": "https://www.youtube.com/watch?v=18H2Uc9_7I0",
@@ -788,9 +766,31 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-17",
-      "viewCount": "1219万",
+      "viewCount": "1220万",
       "likeCount": "7万",
-      "commentCount": "3350"
+      "commentCount": "3355"
+    },
+    {
+      "rank": 2136,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/OqEVEShYOv8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=OqEVEShYOv8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE「我逢人」Official Stage Mix",
+        "url": "https://www.youtube.com/watch?v=OqEVEShYOv8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-07-07",
+      "viewCount": "1130万",
+      "likeCount": "10.3万",
+      "commentCount": "3354"
     },
     {
       "rank": 2137,
@@ -812,7 +812,7 @@
       "publishedAt": "2010-04-05",
       "viewCount": "2590万",
       "likeCount": "5.9万",
-      "commentCount": "3348"
+      "commentCount": "3350"
     },
     {
       "rank": 2138,
@@ -834,7 +834,7 @@
       "publishedAt": "2013-06-18",
       "viewCount": "2537万",
       "likeCount": "13.3万",
-      "commentCount": "3345"
+      "commentCount": "3344"
     },
     {
       "rank": 2139,
@@ -854,12 +854,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-26",
-      "viewCount": "1954万",
+      "viewCount": "1955万",
       "likeCount": "12.9万",
-      "commentCount": "3339"
+      "commentCount": "3340"
     },
     {
-      "rank": 2140,
+      "rank": 2139,
       "thumb": {
         "img": "https://i.ytimg.com/vi/TYWdqfQNJwE/default.jpg",
         "url": "https://www.youtube.com/watch?v=TYWdqfQNJwE",
@@ -878,32 +878,10 @@
       "publishedAt": "2023-12-04",
       "viewCount": "1561万",
       "likeCount": "10.6万",
-      "commentCount": "3337"
+      "commentCount": "3340"
     },
     {
       "rank": 2141,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/VtqnjYMdCAQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=VtqnjYMdCAQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "おいしくるメロンパン「look at the sea」Music Video",
-        "url": "https://www.youtube.com/watch?v=VtqnjYMdCAQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "おいしくるメロンパン",
-        "url": "https://www.youtube.com/channel/UCFXpQ26vOF8OCPjAyIzyLLQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-07-26",
-      "viewCount": "1839万",
-      "likeCount": "20.7万",
-      "commentCount": "3336"
-    },
-    {
-      "rank": 2142,
       "thumb": {
         "img": "https://i.ytimg.com/vi/KPK23K7ipVo/default.jpg",
         "url": "https://www.youtube.com/watch?v=KPK23K7ipVo",
@@ -920,8 +898,30 @@
         "target": "_blank"
       },
       "publishedAt": "2023-07-02",
-      "viewCount": "1893万",
+      "viewCount": "1894万",
       "likeCount": "15.5万",
+      "commentCount": "3336"
+    },
+    {
+      "rank": 2142,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/VtqnjYMdCAQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=VtqnjYMdCAQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "おいしくるメロンパン「look at the sea」Music Video",
+        "url": "https://www.youtube.com/watch?v=VtqnjYMdCAQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "おいしくるメロンパン",
+        "url": "https://www.youtube.com/channel/UCFXpQ26vOF8OCPjAyIzyLLQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-07-26",
+      "viewCount": "1840万",
+      "likeCount": "20.7万",
       "commentCount": "3335"
     },
     {
@@ -949,6 +949,28 @@
     {
       "rank": 2144,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/W5cZcrkQ-b4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=W5cZcrkQ-b4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "globe / FACES PLACES",
+        "url": "https://www.youtube.com/watch?v=W5cZcrkQ-b4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "globe",
+        "url": "https://www.youtube.com/channel/UCKcuHCV3VN8mJ3qQj7Xr42Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-09-01",
+      "viewCount": "2013万",
+      "likeCount": "3.9万",
+      "commentCount": "3320"
+    },
+    {
+      "rank": 2144,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/3_52f2_DioQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=3_52f2_DioQ",
         "target": "_blank"
@@ -969,28 +991,6 @@
       "commentCount": "3320"
     },
     {
-      "rank": 2145,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/W5cZcrkQ-b4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=W5cZcrkQ-b4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "globe / FACES PLACES",
-        "url": "https://www.youtube.com/watch?v=W5cZcrkQ-b4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "globe",
-        "url": "https://www.youtube.com/channel/UCKcuHCV3VN8mJ3qQj7Xr42Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-09-01",
-      "viewCount": "2013万",
-      "likeCount": "3.9万",
-      "commentCount": "3317"
-    },
-    {
       "rank": 2146,
       "thumb": {
         "img": "https://i.ytimg.com/vi/fCt6-dJq-To/default.jpg",
@@ -1008,9 +1008,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-23",
-      "viewCount": "2404万",
+      "viewCount": "2405万",
       "likeCount": "13.7万",
-      "commentCount": "3315"
+      "commentCount": "3314"
     },
     {
       "rank": 2147,
@@ -1037,28 +1037,6 @@
     {
       "rank": 2148,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/kNH3eExqWFw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=kNH3eExqWFw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "back number - ベルベットの詩",
-        "url": "https://www.youtube.com/watch?v=kNH3eExqWFw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "back number",
-        "url": "https://www.youtube.com/channel/UCgipy6-EqjT-1BCDndXX1PA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-08-26",
-      "viewCount": "1752万",
-      "likeCount": "12.2万",
-      "commentCount": "3310"
-    },
-    {
-      "rank": 2149,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/AIMjbleH394/default.jpg",
         "url": "https://www.youtube.com/watch?v=AIMjbleH394",
         "target": "_blank"
@@ -1074,12 +1052,34 @@
         "target": "_blank"
       },
       "publishedAt": "2019-07-24",
-      "viewCount": "3297万",
+      "viewCount": "3298万",
       "likeCount": "14.7万",
-      "commentCount": "3309"
+      "commentCount": "3310"
     },
     {
-      "rank": 2150,
+      "rank": 2148,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/kNH3eExqWFw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=kNH3eExqWFw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "back number - ベルベットの詩",
+        "url": "https://www.youtube.com/watch?v=kNH3eExqWFw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "back number",
+        "url": "https://www.youtube.com/channel/UCgipy6-EqjT-1BCDndXX1PA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-08-26",
+      "viewCount": "1753万",
+      "likeCount": "12.2万",
+      "commentCount": "3310"
+    },
+    {
+      "rank": 2148,
       "thumb": {
         "img": "https://i.ytimg.com/vi/sYMaoGflrug/default.jpg",
         "url": "https://www.youtube.com/watch?v=sYMaoGflrug",
@@ -1096,9 +1096,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-08-21",
-      "viewCount": "1674万",
+      "viewCount": "1675万",
       "likeCount": "8.8万",
-      "commentCount": "3307"
+      "commentCount": "3310"
     }
   ]
 }

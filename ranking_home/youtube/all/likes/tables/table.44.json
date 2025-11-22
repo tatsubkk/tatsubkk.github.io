@@ -3,6 +3,28 @@
     {
       "rank": 2151,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/ytQhhgHGj_s/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ytQhhgHGj_s",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "優里『クリスマスイブ』Official Music Video",
+        "url": "https://www.youtube.com/watch?v=ytQhhgHGj_s",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "優里 Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCBNVZPlWoR7oArfzJNrK9yw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-12-01",
+      "viewCount": "1191万",
+      "likeCount": "7.9万",
+      "commentCount": "1787"
+    },
+    {
+      "rank": 2152,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/apr2JCdpTbQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=apr2JCdpTbQ",
         "target": "_blank"
@@ -21,28 +43,6 @@
       "viewCount": "2430万",
       "likeCount": "7.9万",
       "commentCount": "3655"
-    },
-    {
-      "rank": 2152,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ytQhhgHGj_s/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ytQhhgHGj_s",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "優里『クリスマスイブ』Official Music Video",
-        "url": "https://www.youtube.com/watch?v=ytQhhgHGj_s",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "優里 Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCBNVZPlWoR7oArfzJNrK9yw",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-12-01",
-      "viewCount": "1190万",
-      "likeCount": "7.9万",
-      "commentCount": "1787"
     },
     {
       "rank": 2153,
@@ -84,9 +84,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-21",
-      "viewCount": "1109万",
+      "viewCount": "1111万",
       "likeCount": "7.88万",
-      "commentCount": "2705"
+      "commentCount": "2701"
     },
     {
       "rank": 2155,
@@ -106,9 +106,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-09-26",
-      "viewCount": "1889万",
+      "viewCount": "1890万",
       "likeCount": "7.86万",
-      "commentCount": "508"
+      "commentCount": "510"
     },
     {
       "rank": 2156,
@@ -135,6 +135,28 @@
     {
       "rank": 2157,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/pyi7KdQQ8T0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=pyi7KdQQ8T0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "STUTS & 松たか子 with 3exes - Presence Remix feat. T-Pablow, Daichi Yamamoto, NENE, BIM, KID FRESINO",
+        "url": "https://www.youtube.com/watch?v=pyi7KdQQ8T0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-06-22",
+      "viewCount": "1223万",
+      "likeCount": "7.84万",
+      "commentCount": "1651"
+    },
+    {
+      "rank": 2158,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/s8j9hva3luI/default.jpg",
         "url": "https://www.youtube.com/watch?v=s8j9hva3luI",
         "target": "_blank"
@@ -155,7 +177,7 @@
       "commentCount": "1.1万"
     },
     {
-      "rank": 2158,
+      "rank": 2159,
       "thumb": {
         "img": "https://i.ytimg.com/vi/PjgyH3lVI18/default.jpg",
         "url": "https://www.youtube.com/watch?v=PjgyH3lVI18",
@@ -174,29 +196,7 @@
       "publishedAt": "2010-09-08",
       "viewCount": "2342万",
       "likeCount": "7.84万",
-      "commentCount": "6913"
-    },
-    {
-      "rank": 2159,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/pyi7KdQQ8T0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=pyi7KdQQ8T0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "STUTS & 松たか子 with 3exes - Presence Remix feat. T-Pablow, Daichi Yamamoto, NENE, BIM, KID FRESINO",
-        "url": "https://www.youtube.com/watch?v=pyi7KdQQ8T0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-06-22",
-      "viewCount": "1222万",
-      "likeCount": "7.84万",
-      "commentCount": "1651"
+      "commentCount": "6916"
     },
     {
       "rank": 2160,
@@ -218,7 +218,7 @@
       "publishedAt": "2015-12-31",
       "viewCount": "2965万",
       "likeCount": "7.82万",
-      "commentCount": "4726"
+      "commentCount": "4727"
     },
     {
       "rank": 2161,
@@ -260,12 +260,34 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-13",
-      "viewCount": "1110万",
-      "likeCount": "7.81万",
-      "commentCount": "1198"
+      "viewCount": "1111万",
+      "likeCount": "7.82万",
+      "commentCount": "1200"
     },
     {
       "rank": 2163,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/-MnlFslr3Go/default.jpg",
+        "url": "https://www.youtube.com/watch?v=-MnlFslr3Go",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BLUE ENCOUNT 『Survivor』Music Video 【「機動戦士ガンダム 鉄血のオルフェンズ」オープニングテーマ】",
+        "url": "https://www.youtube.com/watch?v=-MnlFslr3Go",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BLUE ENCOUNT Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCN1YNkQdGzJTtHZAQO7uxcQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-03-09",
+      "viewCount": "1606万",
+      "likeCount": "7.81万",
+      "commentCount": "1663"
+    },
+    {
+      "rank": 2164,
       "thumb": {
         "img": "https://i.ytimg.com/vi/hI0i2FOfeCA/default.jpg",
         "url": "https://www.youtube.com/watch?v=hI0i2FOfeCA",
@@ -287,28 +309,6 @@
       "commentCount": "2931"
     },
     {
-      "rank": 2164,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/-MnlFslr3Go/default.jpg",
-        "url": "https://www.youtube.com/watch?v=-MnlFslr3Go",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BLUE ENCOUNT 『Survivor』Music Video 【「機動戦士ガンダム 鉄血のオルフェンズ」オープニングテーマ】",
-        "url": "https://www.youtube.com/watch?v=-MnlFslr3Go",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BLUE ENCOUNT Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCN1YNkQdGzJTtHZAQO7uxcQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-03-09",
-      "viewCount": "1605万",
-      "likeCount": "7.81万",
-      "commentCount": "1663"
-    },
-    {
       "rank": 2165,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Mzkf1OGgSz8/default.jpg",
@@ -327,11 +327,33 @@
       },
       "publishedAt": "2011-03-25",
       "viewCount": "2299万",
-      "likeCount": "7.8万",
-      "commentCount": "2353"
+      "likeCount": "7.81万",
+      "commentCount": "2354"
     },
     {
       "rank": 2166,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ShbfYtAPXuI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ShbfYtAPXuI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "＝LOVE（イコールラブ）/ 11th Single『あの子コンプレックス』【MV full】",
+        "url": "https://www.youtube.com/watch?v=ShbfYtAPXuI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "＝LOVE（イコールラブ）公式チャンネル",
+        "url": "https://www.youtube.com/channel/UCv7VutirxDn3RWIJXI68n_A",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-04-30",
+      "viewCount": "1387万",
+      "likeCount": "7.79万",
+      "commentCount": "8021"
+    },
+    {
+      "rank": 2167,
       "thumb": {
         "img": "https://i.ytimg.com/vi/E6iZ-xZ8x50/default.jpg",
         "url": "https://www.youtube.com/watch?v=E6iZ-xZ8x50",
@@ -353,28 +375,6 @@
       "commentCount": "2243"
     },
     {
-      "rank": 2167,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ShbfYtAPXuI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ShbfYtAPXuI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "＝LOVE（イコールラブ）/ 11th Single『あの子コンプレックス』【MV full】",
-        "url": "https://www.youtube.com/watch?v=ShbfYtAPXuI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "＝LOVE（イコールラブ）公式チャンネル",
-        "url": "https://www.youtube.com/channel/UCv7VutirxDn3RWIJXI68n_A",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-04-30",
-      "viewCount": "1386万",
-      "likeCount": "7.79万",
-      "commentCount": "8018"
-    },
-    {
       "rank": 2168,
       "thumb": {
         "img": "https://i.ytimg.com/vi/byThUoq0TaU/default.jpg",
@@ -392,9 +392,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-01-10",
-      "viewCount": "2196万",
+      "viewCount": "2197万",
       "likeCount": "7.78万",
-      "commentCount": "1433"
+      "commentCount": "1434"
     },
     {
       "rank": 2169,
@@ -443,6 +443,28 @@
     {
       "rank": 2171,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/j9rax18IghI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=j9rax18IghI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Don't you see! （What a beautiful memory  2009）",
+        "url": "https://www.youtube.com/watch?v=j9rax18IghI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "zardofficial",
+        "url": "https://www.youtube.com/channel/UC9OXNkUKmf3bUx8N9l8jM2w",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-04-14",
+      "viewCount": "2376万",
+      "likeCount": "7.77万",
+      "commentCount": "1259"
+    },
+    {
+      "rank": 2172,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/J2Ya8mWfulU/default.jpg",
         "url": "https://www.youtube.com/watch?v=J2Ya8mWfulU",
         "target": "_blank"
@@ -461,28 +483,6 @@
       "viewCount": "3123万",
       "likeCount": "7.77万",
       "commentCount": "772"
-    },
-    {
-      "rank": 2172,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/j9rax18IghI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=j9rax18IghI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Don't you see! （What a beautiful memory  2009）",
-        "url": "https://www.youtube.com/watch?v=j9rax18IghI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "zardofficial",
-        "url": "https://www.youtube.com/channel/UC9OXNkUKmf3bUx8N9l8jM2w",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-04-14",
-      "viewCount": "2375万",
-      "likeCount": "7.77万",
-      "commentCount": "1259"
     },
     {
       "rank": 2173,
@@ -504,7 +504,7 @@
       "publishedAt": "2019-11-14",
       "viewCount": "2130万",
       "likeCount": "7.76万",
-      "commentCount": "5488"
+      "commentCount": "5489"
     },
     {
       "rank": 2174,
@@ -546,9 +546,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-14",
-      "viewCount": "1853万",
+      "viewCount": "1854万",
       "likeCount": "7.74万",
-      "commentCount": "1796"
+      "commentCount": "1797"
     },
     {
       "rank": 2176,
@@ -568,9 +568,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-05-23",
-      "viewCount": "2208万",
-      "likeCount": "7.73万",
-      "commentCount": "5794"
+      "viewCount": "2209万",
+      "likeCount": "7.74万",
+      "commentCount": "5796"
     },
     {
       "rank": 2177,
@@ -614,7 +614,7 @@
       "publishedAt": "2012-01-18",
       "viewCount": "1911万",
       "likeCount": "7.72万",
-      "commentCount": "2231"
+      "commentCount": "2232"
     },
     {
       "rank": 2179,
@@ -635,7 +635,7 @@
       },
       "publishedAt": "2015-10-09",
       "viewCount": "1665万",
-      "likeCount": "7.71万",
+      "likeCount": "7.72万",
       "commentCount": "2263"
     },
     {
@@ -701,7 +701,7 @@
       },
       "publishedAt": "2012-04-09",
       "viewCount": "1363万",
-      "likeCount": "7.69万",
+      "likeCount": "7.7万",
       "commentCount": "2279"
     },
     {
@@ -766,7 +766,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-06-23",
-      "viewCount": "2426万",
+      "viewCount": "2427万",
       "likeCount": "7.67万",
       "commentCount": "2448"
     },
@@ -790,7 +790,7 @@
       "publishedAt": "2021-01-19",
       "viewCount": "1025万",
       "likeCount": "7.65万",
-      "commentCount": "9448"
+      "commentCount": "9449"
     },
     {
       "rank": 2187,
@@ -834,7 +834,7 @@
       "publishedAt": "2022-06-08",
       "viewCount": "1142万",
       "likeCount": "7.62万",
-      "commentCount": "2182"
+      "commentCount": "2183"
     },
     {
       "rank": 2189,
@@ -854,12 +854,56 @@
         "target": "_blank"
       },
       "publishedAt": "2016-09-02",
-      "viewCount": "1714万",
+      "viewCount": "1715万",
       "likeCount": "7.62万",
       "commentCount": "2937"
     },
     {
       "rank": 2190,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/wW4VchHUbws/default.jpg",
+        "url": "https://www.youtube.com/watch?v=wW4VchHUbws",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "RADWIMPS - 狭心症 [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=wW4VchHUbws",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "RADWIMPS",
+        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-02-07",
+      "viewCount": "1155万",
+      "likeCount": "7.62万",
+      "commentCount": "5635"
+    },
+    {
+      "rank": 2191,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/x-_yZKI7EhE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=x-_yZKI7EhE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "プリンセス プリンセス　『世界でいちばん熱い夏』",
+        "url": "https://www.youtube.com/watch?v=x-_yZKI7EhE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "プリンセス プリンセス official YouTube channel",
+        "url": "https://www.youtube.com/channel/UCns9dyhvV-ySaSBeGyusf7Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-11-18",
+      "viewCount": "2476万",
+      "likeCount": "7.62万",
+      "commentCount": "4196"
+    },
+    {
+      "rank": 2192,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Cvg0S-6ibpo/default.jpg",
         "url": "https://www.youtube.com/watch?v=Cvg0S-6ibpo",
@@ -881,29 +925,7 @@
       "commentCount": "7220"
     },
     {
-      "rank": 2191,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/x-_yZKI7EhE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=x-_yZKI7EhE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "プリンセス プリンセス　『世界でいちばん熱い夏』",
-        "url": "https://www.youtube.com/watch?v=x-_yZKI7EhE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "プリンセス プリンセス official YouTube channel",
-        "url": "https://www.youtube.com/channel/UCns9dyhvV-ySaSBeGyusf7Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-11-18",
-      "viewCount": "2474万",
-      "likeCount": "7.62万",
-      "commentCount": "4195"
-    },
-    {
-      "rank": 2192,
+      "rank": 2193,
       "thumb": {
         "img": "https://i.ytimg.com/vi/hVFY4Yvv3ho/default.jpg",
         "url": "https://www.youtube.com/watch?v=hVFY4Yvv3ho",
@@ -925,7 +947,29 @@
       "commentCount": "4787"
     },
     {
-      "rank": 2193,
+      "rank": 2194,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/wZlgIGsT-Ns/default.jpg",
+        "url": "https://www.youtube.com/watch?v=wZlgIGsT-Ns",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mr.Children 「GIFT」 MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=wZlgIGsT-Ns",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mr.Children Official Channel",
+        "url": "https://www.youtube.com/channel/UCXteDRy5qB0IjA8WPusCJ7w",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-05-28",
+      "viewCount": "3744万",
+      "likeCount": "7.62万",
+      "commentCount": "3146"
+    },
+    {
+      "rank": 2195,
       "thumb": {
         "img": "https://i.ytimg.com/vi/loU6qOZOxG8/default.jpg",
         "url": "https://www.youtube.com/watch?v=loU6qOZOxG8",
@@ -947,29 +991,7 @@
       "commentCount": "-"
     },
     {
-      "rank": 2194,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/wZlgIGsT-Ns/default.jpg",
-        "url": "https://www.youtube.com/watch?v=wZlgIGsT-Ns",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mr.Children 「GIFT」 MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=wZlgIGsT-Ns",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mr.Children Official Channel",
-        "url": "https://www.youtube.com/channel/UCXteDRy5qB0IjA8WPusCJ7w",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-05-28",
-      "viewCount": "3743万",
-      "likeCount": "7.61万",
-      "commentCount": "3146"
-    },
-    {
-      "rank": 2195,
+      "rank": 2196,
       "thumb": {
         "img": "https://i.ytimg.com/vi/5ZwctAeWrVs/default.jpg",
         "url": "https://www.youtube.com/watch?v=5ZwctAeWrVs",
@@ -991,7 +1013,7 @@
       "commentCount": "2412"
     },
     {
-      "rank": 2196,
+      "rank": 2197,
       "thumb": {
         "img": "https://i.ytimg.com/vi/pnbeGTeZCpg/default.jpg",
         "url": "https://www.youtube.com/watch?v=pnbeGTeZCpg",
@@ -1010,10 +1032,10 @@
       "publishedAt": "2011-02-03",
       "viewCount": "3775万",
       "likeCount": "7.6万",
-      "commentCount": "3928"
+      "commentCount": "3931"
     },
     {
-      "rank": 2197,
+      "rank": 2198,
       "thumb": {
         "img": "https://i.ytimg.com/vi/BRWK5I49jOs/default.jpg",
         "url": "https://www.youtube.com/watch?v=BRWK5I49jOs",
@@ -1035,7 +1057,7 @@
       "commentCount": "3779"
     },
     {
-      "rank": 2198,
+      "rank": 2199,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vMk81-Y_cYU/default.jpg",
         "url": "https://www.youtube.com/watch?v=vMk81-Y_cYU",
@@ -1053,11 +1075,11 @@
       },
       "publishedAt": "2012-11-07",
       "viewCount": "3623万",
-      "likeCount": "7.58万",
+      "likeCount": "7.59万",
       "commentCount": "2844"
     },
     {
-      "rank": 2199,
+      "rank": 2200,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ajJKtzg--5g/default.jpg",
         "url": "https://www.youtube.com/watch?v=ajJKtzg--5g",
@@ -1076,29 +1098,7 @@
       "publishedAt": "2020-08-22",
       "viewCount": "1272万",
       "likeCount": "7.58万",
-      "commentCount": "3828"
-    },
-    {
-      "rank": 2200,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Zf59GBy4564/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Zf59GBy4564",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "JO1｜'With Us' Official MV",
-        "url": "https://www.youtube.com/watch?v=Zf59GBy4564",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "JO1",
-        "url": "https://www.youtube.com/channel/UCsmXiDP8S40uBeJYxvyulmA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-05-03",
-      "viewCount": "1458万",
-      "likeCount": "7.57万",
-      "commentCount": "8万"
+      "commentCount": "3829"
     }
   ]
 }
