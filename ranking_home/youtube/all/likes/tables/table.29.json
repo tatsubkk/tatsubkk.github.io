@@ -47,6 +47,28 @@
     {
       "rank": 1403,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/atJbRXERvH8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=atJbRXERvH8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – ア・プリオリ【LIVE from “Harmony”】",
+        "url": "https://www.youtube.com/watch?v=atJbRXERvH8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-02-17",
+      "viewCount": "1442万",
+      "likeCount": "15.33万",
+      "commentCount": "5859"
+    },
+    {
+      "rank": 1404,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/wCN9WliV-ew/default.jpg",
         "url": "https://www.youtube.com/watch?v=wCN9WliV-ew",
         "target": "_blank"
@@ -64,10 +86,10 @@
       "publishedAt": "2021-10-06",
       "viewCount": "1368万",
       "likeCount": "15.33万",
-      "commentCount": "3961"
+      "commentCount": "3959"
     },
     {
-      "rank": 1404,
+      "rank": 1405,
       "thumb": {
         "img": "https://i.ytimg.com/vi/BuU2bocSfDo/default.jpg",
         "url": "https://www.youtube.com/watch?v=BuU2bocSfDo",
@@ -84,12 +106,34 @@
         "target": "_blank"
       },
       "publishedAt": "2015-04-16",
-      "viewCount": "1844万",
-      "likeCount": "15.31万",
-      "commentCount": "6374"
+      "viewCount": "1845万",
+      "likeCount": "15.32万",
+      "commentCount": "6376"
     },
     {
-      "rank": 1405,
+      "rank": 1406,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/_4DJkOUU648/default.jpg",
+        "url": "https://www.youtube.com/watch?v=_4DJkOUU648",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "「負けないで」Music Video",
+        "url": "https://www.youtube.com/watch?v=_4DJkOUU648",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "zardofficial",
+        "url": "https://www.youtube.com/channel/UC9OXNkUKmf3bUx8N9l8jM2w",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-01-27",
+      "viewCount": "3590万",
+      "likeCount": "15.31万",
+      "commentCount": "1103"
+    },
+    {
+      "rank": 1407,
       "thumb": {
         "img": "https://i.ytimg.com/vi/0rTc0nyhE0Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=0rTc0nyhE0Q",
@@ -108,10 +152,10 @@
       "publishedAt": "2021-03-30",
       "viewCount": "1227万",
       "likeCount": "15.31万",
-      "commentCount": "4526"
+      "commentCount": "4525"
     },
     {
-      "rank": 1406,
+      "rank": 1408,
       "thumb": {
         "img": "https://i.ytimg.com/vi/CGFxOv0atdI/default.jpg",
         "url": "https://www.youtube.com/watch?v=CGFxOv0atdI",
@@ -133,50 +177,6 @@
       "commentCount": "2226"
     },
     {
-      "rank": 1407,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/atJbRXERvH8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=atJbRXERvH8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – ア・プリオリ【LIVE from “Harmony”】",
-        "url": "https://www.youtube.com/watch?v=atJbRXERvH8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-02-17",
-      "viewCount": "1438万",
-      "likeCount": "15.3万",
-      "commentCount": "5855"
-    },
-    {
-      "rank": 1408,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/_4DJkOUU648/default.jpg",
-        "url": "https://www.youtube.com/watch?v=_4DJkOUU648",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "「負けないで」Music Video",
-        "url": "https://www.youtube.com/watch?v=_4DJkOUU648",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "zardofficial",
-        "url": "https://www.youtube.com/channel/UC9OXNkUKmf3bUx8N9l8jM2w",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-01-27",
-      "viewCount": "3586万",
-      "likeCount": "15.3万",
-      "commentCount": "1103"
-    },
-    {
       "rank": 1409,
       "thumb": {
         "img": "https://i.ytimg.com/vi/U8pJgoOhiDs/default.jpg",
@@ -194,9 +194,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-18",
-      "viewCount": "2883万",
-      "likeCount": "15.3万",
-      "commentCount": "4798"
+      "viewCount": "2885万",
+      "likeCount": "15.31万",
+      "commentCount": "4797"
     },
     {
       "rank": 1410,
@@ -240,7 +240,7 @@
       "publishedAt": "2018-03-22",
       "viewCount": "2592万",
       "likeCount": "15.29万",
-      "commentCount": "2675"
+      "commentCount": "2677"
     },
     {
       "rank": 1412,
@@ -260,12 +260,34 @@
         "target": "_blank"
       },
       "publishedAt": "2018-07-09",
-      "viewCount": "2771万",
+      "viewCount": "2772万",
       "likeCount": "15.27万",
-      "commentCount": "9728"
+      "commentCount": "9730"
     },
     {
       "rank": 1413,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/aRyjZa89g4o/default.jpg",
+        "url": "https://www.youtube.com/watch?v=aRyjZa89g4o",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "miwa 『ヒカリヘ』Music Video",
+        "url": "https://www.youtube.com/watch?v=aRyjZa89g4o",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "miwa official YouTube channel",
+        "url": "https://www.youtube.com/channel/UC9cz0t8P3VkTHY7xjbS8zHA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-03-20",
+      "viewCount": "3305万",
+      "likeCount": "15.25万",
+      "commentCount": "4273"
+    },
+    {
+      "rank": 1414,
       "thumb": {
         "img": "https://i.ytimg.com/vi/bNagYg_YGbU/default.jpg",
         "url": "https://www.youtube.com/watch?v=bNagYg_YGbU",
@@ -287,28 +309,6 @@
       "commentCount": "4061"
     },
     {
-      "rank": 1414,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/aRyjZa89g4o/default.jpg",
-        "url": "https://www.youtube.com/watch?v=aRyjZa89g4o",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "miwa 『ヒカリヘ』Music Video",
-        "url": "https://www.youtube.com/watch?v=aRyjZa89g4o",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "miwa official YouTube channel",
-        "url": "https://www.youtube.com/channel/UC9cz0t8P3VkTHY7xjbS8zHA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-03-20",
-      "viewCount": "3304万",
-      "likeCount": "15.25万",
-      "commentCount": "4274"
-    },
-    {
       "rank": 1415,
       "thumb": {
         "img": "https://i.ytimg.com/vi/whI3S1O4GJ4/default.jpg",
@@ -326,8 +326,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-17",
-      "viewCount": "1765万",
-      "likeCount": "15.23万",
+      "viewCount": "1766万",
+      "likeCount": "15.22万",
       "commentCount": "7.7万"
     },
     {
@@ -348,7 +348,7 @@
         "target": "_blank"
       },
       "publishedAt": "2025-01-26",
-      "viewCount": "4564万",
+      "viewCount": "4568万",
       "likeCount": "15.21万",
       "commentCount": "15万"
     },
@@ -416,7 +416,7 @@
       "publishedAt": "2017-05-11",
       "viewCount": "1848万",
       "likeCount": "15.19万",
-      "commentCount": "8419"
+      "commentCount": "8420"
     },
     {
       "rank": 1420,
@@ -525,7 +525,7 @@
       },
       "publishedAt": "2022-12-06",
       "viewCount": "1143万",
-      "likeCount": "15.07万",
+      "likeCount": "15.08万",
       "commentCount": "1422"
     },
     {
@@ -590,9 +590,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-10-15",
-      "viewCount": "3199万",
-      "likeCount": "15.01万",
-      "commentCount": "8214"
+      "viewCount": "3200万",
+      "likeCount": "15.02万",
+      "commentCount": "8217"
     },
     {
       "rank": 1428,
@@ -613,7 +613,7 @@
       },
       "publishedAt": "2013-12-15",
       "viewCount": "1886万",
-      "likeCount": "15.01万",
+      "likeCount": "15.02万",
       "commentCount": "-"
     },
     {
@@ -679,7 +679,7 @@
       },
       "publishedAt": "2019-05-03",
       "viewCount": "1678万",
-      "likeCount": "14.97万",
+      "likeCount": "14.98万",
       "commentCount": "2571"
     },
     {
@@ -700,7 +700,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-28",
-      "viewCount": "2063万",
+      "viewCount": "2065万",
       "likeCount": "14.95万",
       "commentCount": "2.5万"
     },
@@ -722,7 +722,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-06-06",
-      "viewCount": "6438万",
+      "viewCount": "6439万",
       "likeCount": "14.91万",
       "commentCount": "4950"
     },
@@ -746,7 +746,7 @@
       "publishedAt": "2023-12-26",
       "viewCount": "1183万",
       "likeCount": "14.89万",
-      "commentCount": "3423"
+      "commentCount": "3425"
     },
     {
       "rank": 1435,
@@ -766,8 +766,8 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-09",
-      "viewCount": "3674万",
-      "likeCount": "14.88万",
+      "viewCount": "3676万",
+      "likeCount": "14.89万",
       "commentCount": "4002"
     },
     {
@@ -788,9 +788,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-17",
-      "viewCount": "2145万",
+      "viewCount": "2147万",
       "likeCount": "14.88万",
-      "commentCount": "9790"
+      "commentCount": "9793"
     },
     {
       "rank": 1437,
@@ -810,9 +810,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-28",
-      "viewCount": "8883万",
-      "likeCount": "14.86万",
-      "commentCount": "7108"
+      "viewCount": "8886万",
+      "likeCount": "14.87万",
+      "commentCount": "7109"
     },
     {
       "rank": 1438,
@@ -856,7 +856,7 @@
       "publishedAt": "2017-09-01",
       "viewCount": "1796万",
       "likeCount": "14.85万",
-      "commentCount": "3740"
+      "commentCount": "3741"
     },
     {
       "rank": 1440,
@@ -927,28 +927,6 @@
     {
       "rank": 1443,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/jSf6S6ny6-A/default.jpg",
-        "url": "https://www.youtube.com/watch?v=jSf6S6ny6-A",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "King Gnu - 泡",
-        "url": "https://www.youtube.com/watch?v=jSf6S6ny6-A",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "King Gnu official YouTube channel",
-        "url": "https://www.youtube.com/channel/UCkB8HnJSDSJ2hkLQFUc-YrQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-03-05",
-      "viewCount": "1422万",
-      "likeCount": "14.82万",
-      "commentCount": "9959"
-    },
-    {
-      "rank": 1444,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/SwXtaahxjls/default.jpg",
         "url": "https://www.youtube.com/watch?v=SwXtaahxjls",
         "target": "_blank"
@@ -966,7 +944,29 @@
       "publishedAt": "2010-09-08",
       "viewCount": "8710万",
       "likeCount": "14.82万",
-      "commentCount": "9890"
+      "commentCount": "9892"
+    },
+    {
+      "rank": 1444,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/jSf6S6ny6-A/default.jpg",
+        "url": "https://www.youtube.com/watch?v=jSf6S6ny6-A",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "King Gnu - 泡",
+        "url": "https://www.youtube.com/watch?v=jSf6S6ny6-A",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "King Gnu official YouTube channel",
+        "url": "https://www.youtube.com/channel/UCkB8HnJSDSJ2hkLQFUc-YrQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-03-05",
+      "viewCount": "1423万",
+      "likeCount": "14.82万",
+      "commentCount": "9959"
     },
     {
       "rank": 1445,
@@ -1015,6 +1015,28 @@
     {
       "rank": 1447,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/9PY3rB1b5us/default.jpg",
+        "url": "https://www.youtube.com/watch?v=9PY3rB1b5us",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Flower 『やさしさで溢れるように』 【映画『植物図鑑　運命の恋、ひろいました』主題歌ver.】",
+        "url": "https://www.youtube.com/watch?v=9PY3rB1b5us",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "鷲尾伶菜 Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UC36d9BfqBDm4ToLVvPnI1zg",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-05-24",
+      "viewCount": "6724万",
+      "likeCount": "14.8万",
+      "commentCount": "4720"
+    },
+    {
+      "rank": 1448,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/dWL_vmm1AMI/default.jpg",
         "url": "https://www.youtube.com/watch?v=dWL_vmm1AMI",
         "target": "_blank"
@@ -1035,29 +1057,29 @@
       "commentCount": "4045"
     },
     {
-      "rank": 1448,
+      "rank": 1449,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/9PY3rB1b5us/default.jpg",
-        "url": "https://www.youtube.com/watch?v=9PY3rB1b5us",
+        "img": "https://i.ytimg.com/vi/GewWg-T29Js/default.jpg",
+        "url": "https://www.youtube.com/watch?v=GewWg-T29Js",
         "target": "_blank"
       },
       "title": {
-        "text": "Flower 『やさしさで溢れるように』 【映画『植物図鑑　運命の恋、ひろいました』主題歌ver.】",
-        "url": "https://www.youtube.com/watch?v=9PY3rB1b5us",
+        "text": "森高千里 『私がオバさんになっても』 (ライブ)",
+        "url": "https://www.youtube.com/watch?v=GewWg-T29Js",
         "target": "_blank"
       },
       "channel": {
-        "text": "鷲尾伶菜 Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UC36d9BfqBDm4ToLVvPnI1zg",
+        "text": "森高千里",
+        "url": "https://www.youtube.com/channel/UCepP0D-CPRIYAg1_A579VSQ",
         "target": "_blank"
       },
-      "publishedAt": "2016-05-24",
-      "viewCount": "6722万",
-      "likeCount": "14.8万",
-      "commentCount": "4720"
+      "publishedAt": "2012-05-24",
+      "viewCount": "4685万",
+      "likeCount": "14.79万",
+      "commentCount": "1.2万"
     },
     {
-      "rank": 1449,
+      "rank": 1450,
       "thumb": {
         "img": "https://i.ytimg.com/vi/gLWWXhMVuQs/default.jpg",
         "url": "https://www.youtube.com/watch?v=gLWWXhMVuQs",
@@ -1077,28 +1099,6 @@
       "viewCount": "2434万",
       "likeCount": "14.79万",
       "commentCount": "1.7万"
-    },
-    {
-      "rank": 1450,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/GewWg-T29Js/default.jpg",
-        "url": "https://www.youtube.com/watch?v=GewWg-T29Js",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "森高千里 『私がオバさんになっても』 (ライブ)",
-        "url": "https://www.youtube.com/watch?v=GewWg-T29Js",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "森高千里",
-        "url": "https://www.youtube.com/channel/UCepP0D-CPRIYAg1_A579VSQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-05-24",
-      "viewCount": "4684万",
-      "likeCount": "14.78万",
-      "commentCount": "1.2万"
     }
   ]
 }

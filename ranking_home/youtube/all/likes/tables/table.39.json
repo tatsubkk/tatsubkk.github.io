@@ -19,7 +19,7 @@
       },
       "publishedAt": "2013-07-12",
       "viewCount": "1532万",
-      "likeCount": "10.11万",
+      "likeCount": "10.12万",
       "commentCount": "6775"
     },
     {
@@ -62,7 +62,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-26",
-      "viewCount": "1206万",
+      "viewCount": "1207万",
       "likeCount": "10.1万",
       "commentCount": "5497"
     },
@@ -91,6 +91,28 @@
     {
       "rank": 1905,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/at3CEJvdg2I/default.jpg",
+        "url": "https://www.youtube.com/watch?v=at3CEJvdg2I",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – lovin’【LIVE from “ゼンジン未到とヴェルトラウム〜銘銘編〜”】",
+        "url": "https://www.youtube.com/watch?v=at3CEJvdg2I",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-02-25",
+      "viewCount": "1416万",
+      "likeCount": "10.08万",
+      "commentCount": "3055"
+    },
+    {
+      "rank": 1906,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/rmg2N0JZYfg/default.jpg",
         "url": "https://www.youtube.com/watch?v=rmg2N0JZYfg",
         "target": "_blank"
@@ -108,29 +130,7 @@
       "publishedAt": "2017-01-25",
       "viewCount": "2378万",
       "likeCount": "10.08万",
-      "commentCount": "5580"
-    },
-    {
-      "rank": 1906,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/at3CEJvdg2I/default.jpg",
-        "url": "https://www.youtube.com/watch?v=at3CEJvdg2I",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – lovin’【LIVE from “ゼンジン未到とヴェルトラウム〜銘銘編〜”】",
-        "url": "https://www.youtube.com/watch?v=at3CEJvdg2I",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-02-25",
-      "viewCount": "1413万",
-      "likeCount": "10.08万",
-      "commentCount": "3055"
+      "commentCount": "5579"
     },
     {
       "rank": 1907,
@@ -150,12 +150,34 @@
         "target": "_blank"
       },
       "publishedAt": "2018-07-12",
-      "viewCount": "2006万",
+      "viewCount": "2007万",
       "likeCount": "10.05万",
-      "commentCount": "2340"
+      "commentCount": "2341"
     },
     {
       "rank": 1908,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/iw_1zU2MSc8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=iw_1zU2MSc8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "西野カナ『トリセツ』MV Full",
+        "url": "https://www.youtube.com/watch?v=iw_1zU2MSc8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-06-28",
+      "viewCount": "1489万",
+      "likeCount": "10.05万",
+      "commentCount": "2705"
+    },
+    {
+      "rank": 1909,
       "thumb": {
         "img": "https://i.ytimg.com/vi/9i8yeYhTEes/default.jpg",
         "url": "https://www.youtube.com/watch?v=9i8yeYhTEes",
@@ -174,29 +196,7 @@
       "publishedAt": "2016-12-06",
       "viewCount": "1438万",
       "likeCount": "10.04万",
-      "commentCount": "9403"
-    },
-    {
-      "rank": 1909,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/iw_1zU2MSc8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=iw_1zU2MSc8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "西野カナ『トリセツ』MV Full",
-        "url": "https://www.youtube.com/watch?v=iw_1zU2MSc8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-06-28",
-      "viewCount": "1487万",
-      "likeCount": "10.04万",
-      "commentCount": "2702"
+      "commentCount": "9402"
     },
     {
       "rank": 1910,
@@ -218,7 +218,7 @@
       "publishedAt": "2019-01-28",
       "viewCount": "1923万",
       "likeCount": "10.03万",
-      "commentCount": "2237"
+      "commentCount": "2238"
     },
     {
       "rank": 1911,
@@ -282,8 +282,8 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-01",
-      "viewCount": "4179万",
-      "likeCount": "10万",
+      "viewCount": "4181万",
+      "likeCount": "10.01万",
       "commentCount": "1.1万"
     },
     {
@@ -328,7 +328,7 @@
       "publishedAt": "2015-01-08",
       "viewCount": "4016万",
       "likeCount": "10万",
-      "commentCount": "3907"
+      "commentCount": "3908"
     },
     {
       "rank": 1916,
@@ -370,9 +370,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-23",
-      "viewCount": "1760万",
-      "likeCount": "9.98万",
-      "commentCount": "2415"
+      "viewCount": "1761万",
+      "likeCount": "9.99万",
+      "commentCount": "2416"
     },
     {
       "rank": 1918,
@@ -414,7 +414,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-14",
-      "viewCount": "3379万",
+      "viewCount": "3381万",
       "likeCount": "9.97万",
       "commentCount": "1840"
     },
@@ -480,34 +480,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-03",
-      "viewCount": "2003万",
+      "viewCount": "2005万",
       "likeCount": "9.94万",
-      "commentCount": "1306"
+      "commentCount": "1307"
     },
     {
       "rank": 1923,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/VGMsTaGAQ3g/default.jpg",
-        "url": "https://www.youtube.com/watch?v=VGMsTaGAQ3g",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "愛言葉 - Tani Yuuki【MV】",
-        "url": "https://www.youtube.com/watch?v=VGMsTaGAQ3g",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Tani Yuuki",
-        "url": "https://www.youtube.com/channel/UCkPhQEwdob-Dc539qnJASvg",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-03-01",
-      "viewCount": "1997万",
-      "likeCount": "9.93万",
-      "commentCount": "1099"
-    },
-    {
-      "rank": 1924,
       "thumb": {
         "img": "https://i.ytimg.com/vi/edeBkHxmJWM/default.jpg",
         "url": "https://www.youtube.com/watch?v=edeBkHxmJWM",
@@ -524,9 +502,31 @@
         "target": "_blank"
       },
       "publishedAt": "2018-12-18",
-      "viewCount": "1076万",
+      "viewCount": "1077万",
       "likeCount": "9.93万",
-      "commentCount": "1513"
+      "commentCount": "1518"
+    },
+    {
+      "rank": 1924,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/VGMsTaGAQ3g/default.jpg",
+        "url": "https://www.youtube.com/watch?v=VGMsTaGAQ3g",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "愛言葉 - Tani Yuuki【MV】",
+        "url": "https://www.youtube.com/watch?v=VGMsTaGAQ3g",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Tani Yuuki",
+        "url": "https://www.youtube.com/channel/UCkPhQEwdob-Dc539qnJASvg",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-03-01",
+      "viewCount": "1998万",
+      "likeCount": "9.93万",
+      "commentCount": "1101"
     },
     {
       "rank": 1925,
@@ -548,7 +548,7 @@
       "publishedAt": "2019-03-10",
       "viewCount": "2726万",
       "likeCount": "9.9万",
-      "commentCount": "7305"
+      "commentCount": "7304"
     },
     {
       "rank": 1926,
@@ -568,9 +568,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-06-13",
-      "viewCount": "3669万",
+      "viewCount": "3671万",
       "likeCount": "9.89万",
-      "commentCount": "2979"
+      "commentCount": "2980"
     },
     {
       "rank": 1927,
@@ -678,9 +678,9 @@
         "target": "_blank"
       },
       "publishedAt": "2014-12-09",
-      "viewCount": "2152万",
-      "likeCount": "9.85万",
-      "commentCount": "7426"
+      "viewCount": "2153万",
+      "likeCount": "9.86万",
+      "commentCount": "7430"
     },
     {
       "rank": 1932,
@@ -707,6 +707,28 @@
     {
       "rank": 1933,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/5DNqESedFMk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=5DNqESedFMk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "米津玄師 - さよーならまたいつか！「虎に翼」OPタイトルバック・フル　Kenshi Yonezu - Sayonara, Mata Itsuka !",
+        "url": "https://www.youtube.com/watch?v=5DNqESedFMk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-09-24",
+      "viewCount": "1289万",
+      "likeCount": "9.84万",
+      "commentCount": "2269"
+    },
+    {
+      "rank": 1934,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/1zKo_I8VhkA/default.jpg",
         "url": "https://www.youtube.com/watch?v=1zKo_I8VhkA",
         "target": "_blank"
@@ -724,29 +746,7 @@
       "publishedAt": "2016-06-10",
       "viewCount": "1487万",
       "likeCount": "9.84万",
-      "commentCount": "2191"
-    },
-    {
-      "rank": 1934,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/5DNqESedFMk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=5DNqESedFMk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "米津玄師 - さよーならまたいつか！「虎に翼」OPタイトルバック・フル　Kenshi Yonezu - Sayonara, Mata Itsuka !",
-        "url": "https://www.youtube.com/watch?v=5DNqESedFMk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-09-24",
-      "viewCount": "1287万",
-      "likeCount": "9.84万",
-      "commentCount": "2267"
+      "commentCount": "2192"
     },
     {
       "rank": 1935,
@@ -766,9 +766,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-18",
-      "viewCount": "1257万",
-      "likeCount": "9.83万",
-      "commentCount": "1913"
+      "viewCount": "1258万",
+      "likeCount": "9.84万",
+      "commentCount": "1912"
     },
     {
       "rank": 1936,
@@ -839,28 +839,6 @@
     {
       "rank": 1939,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/H51Xj5aEgkA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=H51Xj5aEgkA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "世界の終わり／幻の命",
-        "url": "https://www.youtube.com/watch?v=H51Xj5aEgkA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "LastrumMusic",
-        "url": "https://www.youtube.com/channel/UCpjk4srT6-kS3xHysmQGZWQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-03-23",
-      "viewCount": "2861万",
-      "likeCount": "9.8万",
-      "commentCount": "8438"
-    },
-    {
-      "rank": 1940,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/7xRWOylrLfI/default.jpg",
         "url": "https://www.youtube.com/watch?v=7xRWOylrLfI",
         "target": "_blank"
@@ -879,6 +857,28 @@
       "viewCount": "1860万",
       "likeCount": "9.8万",
       "commentCount": "3388"
+    },
+    {
+      "rank": 1940,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/H51Xj5aEgkA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=H51Xj5aEgkA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "世界の終わり／幻の命",
+        "url": "https://www.youtube.com/watch?v=H51Xj5aEgkA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "LastrumMusic",
+        "url": "https://www.youtube.com/channel/UCpjk4srT6-kS3xHysmQGZWQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-03-23",
+      "viewCount": "2861万",
+      "likeCount": "9.8万",
+      "commentCount": "8439"
     },
     {
       "rank": 1941,
@@ -921,8 +921,8 @@
       },
       "publishedAt": "2019-12-14",
       "viewCount": "1973万",
-      "likeCount": "9.71万",
-      "commentCount": "2209"
+      "likeCount": "9.72万",
+      "commentCount": "2210"
     },
     {
       "rank": 1943,
@@ -944,10 +944,32 @@
       "publishedAt": "2019-09-11",
       "viewCount": "1602万",
       "likeCount": "9.71万",
-      "commentCount": "4335"
+      "commentCount": "4336"
     },
     {
       "rank": 1944,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/sapgmOmPmFU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=sapgmOmPmFU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Aqua Timez『千の夜をこえて』Music Video（映画「劇場版BLEACH MEMORIES OF NOBODY」主題歌）",
+        "url": "https://www.youtube.com/watch?v=sapgmOmPmFU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Aqua Timez Official",
+        "url": "https://www.youtube.com/channel/UCcxM-DeSQMFyqjB8Y8zan7Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-08-23",
+      "viewCount": "3533万",
+      "likeCount": "9.71万",
+      "commentCount": "4044"
+    },
+    {
+      "rank": 1945,
       "thumb": {
         "img": "https://i.ytimg.com/vi/1Xxnp0Q1GYQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=1Xxnp0Q1GYQ",
@@ -967,28 +989,6 @@
       "viewCount": "1285万",
       "likeCount": "9.71万",
       "commentCount": "5629"
-    },
-    {
-      "rank": 1945,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/sapgmOmPmFU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=sapgmOmPmFU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Aqua Timez『千の夜をこえて』Music Video（映画「劇場版BLEACH MEMORIES OF NOBODY」主題歌）",
-        "url": "https://www.youtube.com/watch?v=sapgmOmPmFU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Aqua Timez Official",
-        "url": "https://www.youtube.com/channel/UCcxM-DeSQMFyqjB8Y8zan7Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-08-23",
-      "viewCount": "3532万",
-      "likeCount": "9.71万",
-      "commentCount": "4041"
     },
     {
       "rank": 1946,
@@ -1013,7 +1013,7 @@
       "commentCount": "1.7万"
     },
     {
-      "rank": 1947,
+      "rank": 1946,
       "thumb": {
         "img": "https://i.ytimg.com/vi/fPZ37t3nvco/default.jpg",
         "url": "https://www.youtube.com/watch?v=fPZ37t3nvco",
@@ -1037,6 +1037,28 @@
     {
       "rank": 1948,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/35FbwCIxT0g/default.jpg",
+        "url": "https://www.youtube.com/watch?v=35FbwCIxT0g",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Kyary Pamyu Pamyu - Kira Kira Killer(きゃりーぱみゅぱみゅ - きらきらキラー) Official Music Video",
+        "url": "https://www.youtube.com/watch?v=35FbwCIxT0g",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kyary Pamyu Pamyu ( きゃりーぱみゅぱみゅ )",
+        "url": "https://www.youtube.com/channel/UCMMEwnArQWFNU1VrRlbIDtg",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-06-25",
+      "viewCount": "1367万",
+      "likeCount": "9.71万",
+      "commentCount": "5241"
+    },
+    {
+      "rank": 1949,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/VjAxLbmy83E/default.jpg",
         "url": "https://www.youtube.com/watch?v=VjAxLbmy83E",
         "target": "_blank"
@@ -1055,28 +1077,6 @@
       "viewCount": "1388万",
       "likeCount": "9.71万",
       "commentCount": "2314"
-    },
-    {
-      "rank": 1949,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/35FbwCIxT0g/default.jpg",
-        "url": "https://www.youtube.com/watch?v=35FbwCIxT0g",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Kyary Pamyu Pamyu - Kira Kira Killer(きゃりーぱみゅぱみゅ - きらきらキラー) Official Music Video",
-        "url": "https://www.youtube.com/watch?v=35FbwCIxT0g",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kyary Pamyu Pamyu ( きゃりーぱみゅぱみゅ )",
-        "url": "https://www.youtube.com/channel/UCMMEwnArQWFNU1VrRlbIDtg",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-06-25",
-      "viewCount": "1367万",
-      "likeCount": "9.7万",
-      "commentCount": "5241"
     },
     {
       "rank": 1950,
@@ -1098,7 +1098,7 @@
       "publishedAt": "2023-04-04",
       "viewCount": "1347万",
       "likeCount": "9.69万",
-      "commentCount": "3244"
+      "commentCount": "3241"
     }
   ]
 }

@@ -18,7 +18,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-06",
-      "viewCount": "1332万",
+      "viewCount": "1333万",
       "likeCount": "4.08万",
       "commentCount": "781"
     },
@@ -150,7 +150,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-03-04",
-      "viewCount": "1625万",
+      "viewCount": "1626万",
       "likeCount": "4.04万",
       "commentCount": "3093"
     },
@@ -238,9 +238,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-06",
-      "viewCount": "2105万",
+      "viewCount": "2106万",
       "likeCount": "4.01万",
-      "commentCount": "2351"
+      "commentCount": "2352"
     },
     {
       "rank": 2662,
@@ -370,7 +370,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-08",
-      "viewCount": "1017万",
+      "viewCount": "1018万",
       "likeCount": "3.94万",
       "commentCount": "1157"
     },
@@ -394,10 +394,32 @@
       "publishedAt": "2010-09-01",
       "viewCount": "1707万",
       "likeCount": "3.94万",
-      "commentCount": "2708"
+      "commentCount": "2710"
     },
     {
       "rank": 2669,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/fsgBd5ln7-U/default.jpg",
+        "url": "https://www.youtube.com/watch?v=fsgBd5ln7-U",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "サザンオールスターズ – 涙のキッス [Live at 茅ヶ崎公園野球場, 2023]",
+        "url": "https://www.youtube.com/watch?v=fsgBd5ln7-U",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "サザンオールスターズ",
+        "url": "https://www.youtube.com/channel/UCSXpSoWV4_R1Taf_4E2fOsQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-01-23",
+      "viewCount": "1316万",
+      "likeCount": "3.93万",
+      "commentCount": "831"
+    },
+    {
+      "rank": 2670,
       "thumb": {
         "img": "https://i.ytimg.com/vi/EeNlcS-xR-E/default.jpg",
         "url": "https://www.youtube.com/watch?v=EeNlcS-xR-E",
@@ -417,28 +439,6 @@
       "viewCount": "1161万",
       "likeCount": "3.93万",
       "commentCount": "76"
-    },
-    {
-      "rank": 2670,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/fsgBd5ln7-U/default.jpg",
-        "url": "https://www.youtube.com/watch?v=fsgBd5ln7-U",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "サザンオールスターズ – 涙のキッス [Live at 茅ヶ崎公園野球場, 2023]",
-        "url": "https://www.youtube.com/watch?v=fsgBd5ln7-U",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "サザンオールスターズ",
-        "url": "https://www.youtube.com/channel/UCSXpSoWV4_R1Taf_4E2fOsQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-01-23",
-      "viewCount": "1313万",
-      "likeCount": "3.93万",
-      "commentCount": "828"
     },
     {
       "rank": 2671,
@@ -480,9 +480,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-06-07",
-      "viewCount": "1560万",
+      "viewCount": "1561万",
       "likeCount": "3.91万",
-      "commentCount": "1669"
+      "commentCount": "1668"
     },
     {
       "rank": 2673,
@@ -531,28 +531,6 @@
     {
       "rank": 2675,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/H3RBn3MG8ms/default.jpg",
-        "url": "https://www.youtube.com/watch?v=H3RBn3MG8ms",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[Official Music Video] Perfume「GLITTER」",
-        "url": "https://www.youtube.com/watch?v=H3RBn3MG8ms",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Perfume",
-        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-06-18",
-      "viewCount": "1104万",
-      "likeCount": "3.89万",
-      "commentCount": "1757"
-    },
-    {
-      "rank": 2676,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/UKb7zkAqDps/default.jpg",
         "url": "https://www.youtube.com/watch?v=UKb7zkAqDps",
         "target": "_blank"
@@ -568,9 +546,31 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-05",
-      "viewCount": "1445万",
+      "viewCount": "1448万",
       "likeCount": "3.89万",
       "commentCount": "704"
+    },
+    {
+      "rank": 2676,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/H3RBn3MG8ms/default.jpg",
+        "url": "https://www.youtube.com/watch?v=H3RBn3MG8ms",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[Official Music Video] Perfume「GLITTER」",
+        "url": "https://www.youtube.com/watch?v=H3RBn3MG8ms",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Perfume",
+        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-06-18",
+      "viewCount": "1105万",
+      "likeCount": "3.89万",
+      "commentCount": "1757"
     },
     {
       "rank": 2677,
@@ -592,7 +592,7 @@
       "publishedAt": "2012-12-22",
       "viewCount": "1134万",
       "likeCount": "3.88万",
-      "commentCount": "5752"
+      "commentCount": "5751"
     },
     {
       "rank": 2678,
@@ -657,8 +657,8 @@
       },
       "publishedAt": "2010-09-01",
       "viewCount": "2013万",
-      "likeCount": "3.86万",
-      "commentCount": "3320"
+      "likeCount": "3.87万",
+      "commentCount": "3321"
     },
     {
       "rank": 2681,
@@ -680,7 +680,7 @@
       "publishedAt": "2012-09-03",
       "viewCount": "1221万",
       "likeCount": "3.85万",
-      "commentCount": "1701"
+      "commentCount": "1702"
     },
     {
       "rank": 2682,
@@ -744,8 +744,8 @@
         "target": "_blank"
       },
       "publishedAt": "2015-12-09",
-      "viewCount": "1134万",
-      "likeCount": "3.81万",
+      "viewCount": "1135万",
+      "likeCount": "3.82万",
       "commentCount": "1866"
     },
     {
@@ -788,7 +788,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-29",
-      "viewCount": "1873万",
+      "viewCount": "1876万",
       "likeCount": "3.81万",
       "commentCount": "-"
     },
@@ -832,9 +832,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-11-14",
-      "viewCount": "1958万",
+      "viewCount": "1959万",
       "likeCount": "3.76万",
-      "commentCount": "2450"
+      "commentCount": "2446"
     },
     {
       "rank": 2689,
@@ -854,7 +854,7 @@
         "target": "_blank"
       },
       "publishedAt": "2008-11-06",
-      "viewCount": "1663万",
+      "viewCount": "1664万",
       "likeCount": "3.76万",
       "commentCount": "1485"
     },
@@ -988,7 +988,7 @@
       "publishedAt": "2010-10-15",
       "viewCount": "1134万",
       "likeCount": "3.74万",
-      "commentCount": "2134"
+      "commentCount": "2135"
     },
     {
       "rank": 2696,
@@ -1032,7 +1032,7 @@
       "publishedAt": "2013-03-24",
       "viewCount": "1158万",
       "likeCount": "3.73万",
-      "commentCount": "1109"
+      "commentCount": "1110"
     },
     {
       "rank": 2698,
@@ -1052,9 +1052,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-03-24",
-      "viewCount": "1294万",
+      "viewCount": "1295万",
       "likeCount": "3.73万",
-      "commentCount": "1775"
+      "commentCount": "1778"
     },
     {
       "rank": 2699,
@@ -1076,7 +1076,7 @@
       "publishedAt": "2010-05-11",
       "viewCount": "1380万",
       "likeCount": "3.72万",
-      "commentCount": "1510"
+      "commentCount": "1511"
     },
     {
       "rank": 2700,
@@ -1098,7 +1098,7 @@
       "publishedAt": "2011-04-18",
       "viewCount": "1935万",
       "likeCount": "3.72万",
-      "commentCount": "1691"
+      "commentCount": "1692"
     }
   ]
 }

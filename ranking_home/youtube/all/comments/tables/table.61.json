@@ -40,7 +40,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-06",
-      "viewCount": "1332万",
+      "viewCount": "1333万",
       "likeCount": "4.1万",
       "commentCount": "781"
     },
@@ -62,7 +62,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-27",
-      "viewCount": "1579万",
+      "viewCount": "1580万",
       "likeCount": "10.7万",
       "commentCount": "780"
     },
@@ -106,9 +106,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-03-23",
-      "viewCount": "3123万",
+      "viewCount": "3124万",
       "likeCount": "7.8万",
-      "commentCount": "772"
+      "commentCount": "773"
     },
     {
       "rank": 3006,
@@ -128,9 +128,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-09-26",
-      "viewCount": "1275万",
+      "viewCount": "1276万",
       "likeCount": "6.7万",
-      "commentCount": "738"
+      "commentCount": "740"
     },
     {
       "rank": 3007,
@@ -150,7 +150,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-05",
-      "viewCount": "1億2076万",
+      "viewCount": "1億2083万",
       "likeCount": "43.5万",
       "commentCount": "737"
     },
@@ -216,7 +216,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
-      "viewCount": "5189万",
+      "viewCount": "5192万",
       "likeCount": "37.6万",
       "commentCount": "723"
     },
@@ -238,9 +238,9 @@
         "target": "_blank"
       },
       "publishedAt": "2008-12-16",
-      "viewCount": "1051万",
+      "viewCount": "1052万",
       "likeCount": "2.1万",
-      "commentCount": "714"
+      "commentCount": "715"
     },
     {
       "rank": 3012,
@@ -304,7 +304,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-05",
-      "viewCount": "1445万",
+      "viewCount": "1448万",
       "likeCount": "3.9万",
       "commentCount": "704"
     },
@@ -392,7 +392,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-01",
-      "viewCount": "1475万",
+      "viewCount": "1476万",
       "likeCount": "-",
       "commentCount": "683"
     },
@@ -546,9 +546,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-09-26",
-      "viewCount": "1392万",
+      "viewCount": "1393万",
       "likeCount": "8.4万",
-      "commentCount": "627"
+      "commentCount": "630"
     },
     {
       "rank": 3026,
@@ -590,7 +590,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-05",
-      "viewCount": "6740万",
+      "viewCount": "6745万",
       "likeCount": "37.9万",
       "commentCount": "619"
     },
@@ -634,31 +634,9 @@
         "target": "_blank"
       },
       "publishedAt": "2016-10-28",
-      "viewCount": "3664万",
+      "viewCount": "3665万",
       "likeCount": "15.7万",
       "commentCount": "613"
-    },
-    {
-      "rank": 3030,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/G7E-puFvS90/default.jpg",
-        "url": "https://www.youtube.com/watch?v=G7E-puFvS90",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Biri-Biri",
-        "url": "https://www.youtube.com/watch?v=G7E-puFvS90",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-11-17",
-      "viewCount": "1746万",
-      "likeCount": "8.4万",
-      "commentCount": "609"
     },
     {
       "rank": 3030,
@@ -678,8 +656,30 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-03",
-      "viewCount": "4985万",
+      "viewCount": "4993万",
       "likeCount": "21.1万",
+      "commentCount": "610"
+    },
+    {
+      "rank": 3031,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/G7E-puFvS90/default.jpg",
+        "url": "https://www.youtube.com/watch?v=G7E-puFvS90",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Biri-Biri",
+        "url": "https://www.youtube.com/watch?v=G7E-puFvS90",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-11-17",
+      "viewCount": "1748万",
+      "likeCount": "8.4万",
       "commentCount": "609"
     },
     {
@@ -722,7 +722,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-10-21",
-      "viewCount": "1657万",
+      "viewCount": "1658万",
       "likeCount": "12.8万",
       "commentCount": "598"
     },
@@ -810,7 +810,7 @@
         "target": "_blank"
       },
       "publishedAt": "2009-04-08",
-      "viewCount": "1172万",
+      "viewCount": "1173万",
       "likeCount": "1.8万",
       "commentCount": "581"
     },
@@ -905,6 +905,28 @@
     {
       "rank": 3042,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/2gc5PR_NbHM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=2gc5PR_NbHM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "サカナクション / アイデンティティ　-Music Video-",
+        "url": "https://www.youtube.com/watch?v=2gc5PR_NbHM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "サカナクション sakanaction",
+        "url": "https://www.youtube.com/channel/UCli_j3KPGhsF1Mv1AK17UPA",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-09-26",
+      "viewCount": "1301万",
+      "likeCount": "6.7万",
+      "commentCount": "548"
+    },
+    {
+      "rank": 3042,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/yIWtQsH1P8Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=yIWtQsH1P8Q",
         "target": "_blank"
@@ -925,28 +947,6 @@
       "commentCount": "548"
     },
     {
-      "rank": 3043,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/2gc5PR_NbHM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=2gc5PR_NbHM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "サカナクション / アイデンティティ　-Music Video-",
-        "url": "https://www.youtube.com/watch?v=2gc5PR_NbHM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "サカナクション sakanaction",
-        "url": "https://www.youtube.com/channel/UCli_j3KPGhsF1Mv1AK17UPA",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-09-26",
-      "viewCount": "1300万",
-      "likeCount": "6.7万",
-      "commentCount": "545"
-    },
-    {
       "rank": 3044,
       "thumb": {
         "img": "https://i.ytimg.com/vi/OzGVz1ClxIc/default.jpg",
@@ -964,9 +964,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-17",
-      "viewCount": "1132万",
+      "viewCount": "1133万",
       "likeCount": "6.5万",
-      "commentCount": "541"
+      "commentCount": "544"
     },
     {
       "rank": 3045,
@@ -986,9 +986,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-02",
-      "viewCount": "3366万",
+      "viewCount": "3368万",
       "likeCount": "-",
-      "commentCount": "539"
+      "commentCount": "541"
     },
     {
       "rank": 3046,
@@ -1037,6 +1037,28 @@
     {
       "rank": 3048,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/HlXVnUl7Z3Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=HlXVnUl7Z3Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "加藤ミリヤ　『Love is...』",
+        "url": "https://www.youtube.com/watch?v=HlXVnUl7Z3Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "加藤ミリヤ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCqT7VnHfRlvZU8mGU-HAvGw",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-06-13",
+      "viewCount": "1288万",
+      "likeCount": "2.2万",
+      "commentCount": "516"
+    },
+    {
+      "rank": 3048,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/D4dWIHnCbGw/default.jpg",
         "url": "https://www.youtube.com/watch?v=D4dWIHnCbGw",
         "target": "_blank"
@@ -1057,28 +1079,6 @@
       "commentCount": "516"
     },
     {
-      "rank": 3049,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/HlXVnUl7Z3Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=HlXVnUl7Z3Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "加藤ミリヤ　『Love is...』",
-        "url": "https://www.youtube.com/watch?v=HlXVnUl7Z3Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "加藤ミリヤ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCqT7VnHfRlvZU8mGU-HAvGw",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-06-13",
-      "viewCount": "1288万",
-      "likeCount": "2.2万",
-      "commentCount": "515"
-    },
-    {
       "rank": 3050,
       "thumb": {
         "img": "https://i.ytimg.com/vi/2I25AFSBm2g/default.jpg",
@@ -1096,9 +1096,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-09-26",
-      "viewCount": "1890万",
+      "viewCount": "1891万",
       "likeCount": "7.9万",
-      "commentCount": "510"
+      "commentCount": "511"
     }
   ]
 }
