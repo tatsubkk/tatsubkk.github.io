@@ -21,7 +21,7 @@
       "viewCount": "1088万",
       "likeCount": "2.6万",
       "commentCount": "1810",
-      "increment_d1": "2279"
+      "increment_d1": "2150"
     },
     {
       "rank": 3102,
@@ -44,7 +44,7 @@
       "viewCount": "1088万",
       "likeCount": "11万",
       "commentCount": "3176",
-      "increment_d1": "944"
+      "increment_d1": "892"
     },
     {
       "rank": 3103,
@@ -67,7 +67,7 @@
       "viewCount": "1087万",
       "likeCount": "21.2万",
       "commentCount": "6493",
-      "increment_d1": "275"
+      "increment_d1": "285"
     },
     {
       "rank": 3104,
@@ -87,10 +87,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-20",
-      "viewCount": "1085万",
+      "viewCount": "1086万",
       "likeCount": "4万",
-      "commentCount": "1843",
-      "increment_d1": "5600"
+      "commentCount": "1844",
+      "increment_d1": "4513"
     },
     {
       "rank": 3105,
@@ -112,8 +112,8 @@
       "publishedAt": "2020-08-06",
       "viewCount": "1085万",
       "likeCount": "4.4万",
-      "commentCount": "1992",
-      "increment_d1": "2098"
+      "commentCount": "1993",
+      "increment_d1": "2066"
     },
     {
       "rank": 3106,
@@ -136,7 +136,7 @@
       "viewCount": "1085万",
       "likeCount": "6.1万",
       "commentCount": "3214",
-      "increment_d1": "2839"
+      "increment_d1": "2660"
     },
     {
       "rank": 3107,
@@ -159,7 +159,7 @@
       "viewCount": "1085万",
       "likeCount": "2.3万",
       "commentCount": "918",
-      "increment_d1": "1429"
+      "increment_d1": "1418"
     },
     {
       "rank": 3108,
@@ -179,10 +179,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-12-18",
-      "viewCount": "1083万",
+      "viewCount": "1084万",
       "likeCount": "9.2万",
-      "commentCount": "3091",
-      "increment_d1": "5217"
+      "commentCount": "3090",
+      "increment_d1": "5206"
     },
     {
       "rank": 3109,
@@ -205,33 +205,10 @@
       "viewCount": "1083万",
       "likeCount": "7.1万",
       "commentCount": "1029",
-      "increment_d1": "945"
+      "increment_d1": "928"
     },
     {
       "rank": 3110,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/HTjiTJm7jjg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=HTjiTJm7jjg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "mol-74 - エイプリル【MV】",
-        "url": "https://www.youtube.com/watch?v=HTjiTJm7jjg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "mol-74",
-        "url": "https://www.youtube.com/channel/UCnBnBkAEbtR1-s87GZhUQtg",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-04-01",
-      "viewCount": "1082万",
-      "likeCount": "16.3万",
-      "commentCount": "3105",
-      "increment_d1": "1392"
-    },
-    {
-      "rank": 3111,
       "thumb": {
         "img": "https://i.ytimg.com/vi/29t3pJd75XU/default.jpg",
         "url": "https://www.youtube.com/watch?v=29t3pJd75XU",
@@ -248,13 +225,13 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-21",
-      "viewCount": "1082万",
+      "viewCount": "1083万",
       "likeCount": "17.9万",
-      "commentCount": "4118",
-      "increment_d1": "3317"
+      "commentCount": "4117",
+      "increment_d1": "3143"
     },
     {
-      "rank": 3112,
+      "rank": 3111,
       "thumb": {
         "img": "https://i.ytimg.com/vi/M6m4XTziZBg/default.jpg",
         "url": "https://www.youtube.com/watch?v=M6m4XTziZBg",
@@ -271,10 +248,33 @@
         "target": "_blank"
       },
       "publishedAt": "2014-09-16",
-      "viewCount": "1082万",
+      "viewCount": "1083万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "3590"
+      "increment_d1": "3164"
+    },
+    {
+      "rank": 3112,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/HTjiTJm7jjg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=HTjiTJm7jjg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "mol-74 - エイプリル【MV】",
+        "url": "https://www.youtube.com/watch?v=HTjiTJm7jjg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "mol-74",
+        "url": "https://www.youtube.com/channel/UCnBnBkAEbtR1-s87GZhUQtg",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-04-01",
+      "viewCount": "1083万",
+      "likeCount": "16.3万",
+      "commentCount": "3105",
+      "increment_d1": "1333"
     },
     {
       "rank": 3113,
@@ -294,10 +294,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-22",
-      "viewCount": "1081万",
+      "viewCount": "1082万",
       "likeCount": "13.8万",
       "commentCount": "2607",
-      "increment_d1": "2394"
+      "increment_d1": "2367"
     },
     {
       "rank": 3114,
@@ -320,7 +320,7 @@
       "viewCount": "1081万",
       "likeCount": "3.9万",
       "commentCount": "864",
-      "increment_d1": "1546"
+      "increment_d1": "1463"
     },
     {
       "rank": 3115,
@@ -343,7 +343,7 @@
       "viewCount": "1080万",
       "likeCount": "15.1万",
       "commentCount": "4499",
-      "increment_d1": "1095"
+      "increment_d1": "1056"
     },
     {
       "rank": 3116,
@@ -365,8 +365,8 @@
       "publishedAt": "2015-11-13",
       "viewCount": "1080万",
       "likeCount": "-",
-      "commentCount": "1422",
-      "increment_d1": "1030"
+      "commentCount": "1423",
+      "increment_d1": "864"
     },
     {
       "rank": 3117,
@@ -389,7 +389,7 @@
       "viewCount": "1079万",
       "likeCount": "19.6万",
       "commentCount": "9818",
-      "increment_d1": "2002"
+      "increment_d1": "1915"
     },
     {
       "rank": 3118,
@@ -412,7 +412,7 @@
       "viewCount": "1079万",
       "likeCount": "2.6万",
       "commentCount": "1082",
-      "increment_d1": "1024"
+      "increment_d1": "863"
     },
     {
       "rank": 3119,
@@ -434,8 +434,8 @@
       "publishedAt": "2016-10-14",
       "viewCount": "1078万",
       "likeCount": "8.6万",
-      "commentCount": "3810",
-      "increment_d1": "1633"
+      "commentCount": "3811",
+      "increment_d1": "1463"
     },
     {
       "rank": 3120,
@@ -455,10 +455,10 @@
         "target": "_blank"
       },
       "publishedAt": "2025-05-05",
-      "viewCount": "1077万",
+      "viewCount": "1078万",
       "likeCount": "3.9万",
       "commentCount": "1168",
-      "increment_d1": "5960"
+      "increment_d1": "5620"
     },
     {
       "rank": 3121,
@@ -480,8 +480,8 @@
       "publishedAt": "2018-12-18",
       "viewCount": "1077万",
       "likeCount": "9.9万",
-      "commentCount": "1518",
-      "increment_d1": "5524"
+      "commentCount": "1519",
+      "increment_d1": "5181"
     },
     {
       "rank": 3122,
@@ -504,7 +504,7 @@
       "viewCount": "1077万",
       "likeCount": "7.2万",
       "commentCount": "1065",
-      "increment_d1": "1040"
+      "increment_d1": "818"
     },
     {
       "rank": 3123,
@@ -527,7 +527,7 @@
       "viewCount": "1077万",
       "likeCount": "-",
       "commentCount": "1.5万",
-      "increment_d1": "751"
+      "increment_d1": "654"
     },
     {
       "rank": 3124,
@@ -550,7 +550,7 @@
       "viewCount": "1077万",
       "likeCount": "4.3万",
       "commentCount": "2014",
-      "increment_d1": "881"
+      "increment_d1": "788"
     },
     {
       "rank": 3125,
@@ -570,10 +570,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-07-05",
-      "viewCount": "1075万",
+      "viewCount": "1076万",
       "likeCount": "4.1万",
       "commentCount": "1347",
-      "increment_d1": "316"
+      "increment_d1": "290"
     },
     {
       "rank": 3126,
@@ -595,8 +595,8 @@
       "publishedAt": "2022-11-05",
       "viewCount": "1075万",
       "likeCount": "-",
-      "commentCount": "8623",
-      "increment_d1": "3885"
+      "commentCount": "8624",
+      "increment_d1": "4230"
     },
     {
       "rank": 3127,
@@ -619,10 +619,33 @@
       "viewCount": "1074万",
       "likeCount": "12.3万",
       "commentCount": "2.6万",
-      "increment_d1": "2441"
+      "increment_d1": "2378"
     },
     {
       "rank": 3128,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1RoRf-AinSY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1RoRf-AinSY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[091] 【timelesz project】「RUN」パフォーマンス動画【6次(ファイナル)審査】",
+        "url": "https://www.youtube.com/watch?v=1RoRf-AinSY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "timelesz [タイムレス]",
+        "url": "https://www.youtube.com/channel/UCgXJMvOBqHk5wJFRKZfIgWQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-02-16",
+      "viewCount": "1073万",
+      "likeCount": "9.3万",
+      "commentCount": "8823",
+      "increment_d1": "8512"
+    },
+    {
+      "rank": 3129,
       "thumb": {
         "img": "https://i.ytimg.com/vi/e9h-XgQCc-A/default.jpg",
         "url": "https://www.youtube.com/watch?v=e9h-XgQCc-A",
@@ -642,30 +665,7 @@
       "viewCount": "1073万",
       "likeCount": "-",
       "commentCount": "1万",
-      "increment_d1": "1505"
-    },
-    {
-      "rank": 3129,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1RoRf-AinSY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1RoRf-AinSY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[091] 【timelesz project】「RUN」パフォーマンス動画【6次(ファイナル)審査】",
-        "url": "https://www.youtube.com/watch?v=1RoRf-AinSY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "timelesz [タイムレス]",
-        "url": "https://www.youtube.com/channel/UCgXJMvOBqHk5wJFRKZfIgWQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-02-16",
-      "viewCount": "1072万",
-      "likeCount": "9.3万",
-      "commentCount": "8817",
-      "increment_d1": "8571"
+      "increment_d1": "1282"
     },
     {
       "rank": 3130,
@@ -688,7 +688,7 @@
       "viewCount": "1072万",
       "likeCount": "11.1万",
       "commentCount": "2790",
-      "increment_d1": "2356"
+      "increment_d1": "2325"
     },
     {
       "rank": 3131,
@@ -711,10 +711,33 @@
       "viewCount": "1072万",
       "likeCount": "1.8万",
       "commentCount": "380",
-      "increment_d1": "114"
+      "increment_d1": "125"
     },
     {
       "rank": 3132,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/qM_FepDsJ-Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=qM_FepDsJ-Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Folder 5 / Believe Music Video",
+        "url": "https://www.youtube.com/watch?v=qM_FepDsJ-Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-09-27",
+      "viewCount": "1070万",
+      "likeCount": "6.2万",
+      "commentCount": "3524",
+      "increment_d1": "7304"
+    },
+    {
+      "rank": 3133,
       "thumb": {
         "img": "https://i.ytimg.com/vi/J1kiP_XB9-Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=J1kiP_XB9-Q",
@@ -734,10 +757,10 @@
       "viewCount": "1070万",
       "likeCount": "35.1万",
       "commentCount": "1.3万",
-      "increment_d1": "102"
+      "increment_d1": "120"
     },
     {
-      "rank": 3133,
+      "rank": 3134,
       "thumb": {
         "img": "https://i.ytimg.com/vi/O59q5UB6B38/default.jpg",
         "url": "https://www.youtube.com/watch?v=O59q5UB6B38",
@@ -757,30 +780,7 @@
       "viewCount": "1070万",
       "likeCount": "10.8万",
       "commentCount": "-",
-      "increment_d1": "439"
-    },
-    {
-      "rank": 3134,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/qM_FepDsJ-Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=qM_FepDsJ-Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Folder 5 / Believe Music Video",
-        "url": "https://www.youtube.com/watch?v=qM_FepDsJ-Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-09-27",
-      "viewCount": "1069万",
-      "likeCount": "6.2万",
-      "commentCount": "3514",
-      "increment_d1": "8241"
+      "increment_d1": "401"
     },
     {
       "rank": 3135,
@@ -803,7 +803,7 @@
       "viewCount": "1068万",
       "likeCount": "6.3万",
       "commentCount": "2456",
-      "increment_d1": "78"
+      "increment_d1": "77"
     },
     {
       "rank": 3136,
@@ -826,7 +826,7 @@
       "viewCount": "1067万",
       "likeCount": "1.1万",
       "commentCount": "-",
-      "increment_d1": "2821"
+      "increment_d1": "2664"
     },
     {
       "rank": 3137,
@@ -849,10 +849,33 @@
       "viewCount": "1066万",
       "likeCount": "2.5万",
       "commentCount": "1454",
-      "increment_d1": "1952"
+      "increment_d1": "1920"
     },
     {
       "rank": 3138,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/cknuQVvF05o/default.jpg",
+        "url": "https://www.youtube.com/watch?v=cknuQVvF05o",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "サイレント・イヴ /辛島美登里",
+        "url": "https://www.youtube.com/watch?v=cknuQVvF05o",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Midori Karashima Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCqB-QDzn8HL9BFQZ-DSZjng",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-11-27",
+      "viewCount": "1066万",
+      "likeCount": "3.7万",
+      "commentCount": "1828",
+      "increment_d1": "3755"
+    },
+    {
+      "rank": 3139,
       "thumb": {
         "img": "https://i.ytimg.com/vi/_CKbNJkcwe0/default.jpg",
         "url": "https://www.youtube.com/watch?v=_CKbNJkcwe0",
@@ -871,11 +894,11 @@
       "publishedAt": "2018-09-23",
       "viewCount": "1066万",
       "likeCount": "6.8万",
-      "commentCount": "5394",
-      "increment_d1": "1325"
+      "commentCount": "5393",
+      "increment_d1": "1121"
     },
     {
-      "rank": 3139,
+      "rank": 3140,
       "thumb": {
         "img": "https://i.ytimg.com/vi/uTfKFMqkhGg/default.jpg",
         "url": "https://www.youtube.com/watch?v=uTfKFMqkhGg",
@@ -895,30 +918,7 @@
       "viewCount": "1066万",
       "likeCount": "4.4万",
       "commentCount": "1414",
-      "increment_d1": "545"
-    },
-    {
-      "rank": 3140,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/cknuQVvF05o/default.jpg",
-        "url": "https://www.youtube.com/watch?v=cknuQVvF05o",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "サイレント・イヴ /辛島美登里",
-        "url": "https://www.youtube.com/watch?v=cknuQVvF05o",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Midori Karashima Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCqB-QDzn8HL9BFQZ-DSZjng",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-11-27",
-      "viewCount": "1066万",
-      "likeCount": "3.7万",
-      "commentCount": "1825",
-      "increment_d1": "4209"
+      "increment_d1": "575"
     },
     {
       "rank": 3141,
@@ -938,13 +938,36 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-29",
-      "viewCount": "1065万",
-      "likeCount": "14.4万",
+      "viewCount": "1066万",
+      "likeCount": "14.5万",
       "commentCount": "1785",
-      "increment_d1": "3314"
+      "increment_d1": "2980"
     },
     {
       "rank": 3142,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/nhT7uzv6uxI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=nhT7uzv6uxI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【ののちゃん】ドレミのかいだん／ののちゃん(村方乃々佳)",
+        "url": "https://www.youtube.com/watch?v=nhT7uzv6uxI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "コロムビアキッズ TV",
+        "url": "https://www.youtube.com/channel/UCY23ZWAoiQk_JrJfmV0l4fw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-05-30",
+      "viewCount": "1064万",
+      "likeCount": "9655",
+      "commentCount": "-",
+      "increment_d1": "6108"
+    },
+    {
+      "rank": 3143,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ZeDGODkAoxU/default.jpg",
         "url": "https://www.youtube.com/watch?v=ZeDGODkAoxU",
@@ -964,10 +987,10 @@
       "viewCount": "1064万",
       "likeCount": "12.1万",
       "commentCount": "3278",
-      "increment_d1": "699"
+      "increment_d1": "689"
     },
     {
-      "rank": 3143,
+      "rank": 3144,
       "thumb": {
         "img": "https://i.ytimg.com/vi/0YfcgWHfHcA/default.jpg",
         "url": "https://www.youtube.com/watch?v=0YfcgWHfHcA",
@@ -987,30 +1010,7 @@
       "viewCount": "1064万",
       "likeCount": "2.1万",
       "commentCount": "602",
-      "increment_d1": "450"
-    },
-    {
-      "rank": 3144,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/nhT7uzv6uxI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=nhT7uzv6uxI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【ののちゃん】ドレミのかいだん／ののちゃん(村方乃々佳)",
-        "url": "https://www.youtube.com/watch?v=nhT7uzv6uxI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "コロムビアキッズ TV",
-        "url": "https://www.youtube.com/channel/UCY23ZWAoiQk_JrJfmV0l4fw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-05-30",
-      "viewCount": "1064万",
-      "likeCount": "9652",
-      "commentCount": "-",
-      "increment_d1": "5947"
+      "increment_d1": "364"
     },
     {
       "rank": 3145,
@@ -1033,7 +1033,7 @@
       "viewCount": "1064万",
       "likeCount": "8.4万",
       "commentCount": "3050",
-      "increment_d1": "5707"
+      "increment_d1": "5572"
     },
     {
       "rank": 3146,
@@ -1055,8 +1055,8 @@
       "publishedAt": "2009-11-27",
       "viewCount": "1063万",
       "likeCount": "7.5万",
-      "commentCount": "4268",
-      "increment_d1": "1585"
+      "commentCount": "4269",
+      "increment_d1": "1493"
     },
     {
       "rank": 3147,
@@ -1079,7 +1079,7 @@
       "viewCount": "1063万",
       "likeCount": "6.5万",
       "commentCount": "2321",
-      "increment_d1": "1326"
+      "increment_d1": "1178"
     },
     {
       "rank": 3148,
@@ -1102,10 +1102,33 @@
       "viewCount": "1063万",
       "likeCount": "1.8万",
       "commentCount": "-",
-      "increment_d1": "39"
+      "increment_d1": "81"
     },
     {
       "rank": 3149,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/hSoD1fcc_Bg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=hSoD1fcc_Bg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "V6 / TAKE ME HIGHER（YouTube Ver.）",
+        "url": "https://www.youtube.com/watch?v=hSoD1fcc_Bg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-05-05",
+      "viewCount": "1063万",
+      "likeCount": "-",
+      "commentCount": "-",
+      "increment_d1": "5263"
+    },
+    {
+      "rank": 3150,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ZCNiY-j6VsI/default.jpg",
         "url": "https://www.youtube.com/watch?v=ZCNiY-j6VsI",
@@ -1125,30 +1148,7 @@
       "viewCount": "1062万",
       "likeCount": "-",
       "commentCount": "1500",
-      "increment_d1": "90"
-    },
-    {
-      "rank": 3150,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/hSoD1fcc_Bg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=hSoD1fcc_Bg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "V6 / TAKE ME HIGHER（YouTube Ver.）",
-        "url": "https://www.youtube.com/watch?v=hSoD1fcc_Bg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-05-05",
-      "viewCount": "1062万",
-      "likeCount": "-",
-      "commentCount": "-",
-      "increment_d1": "5483"
+      "increment_d1": "91"
     }
   ]
 }

@@ -19,7 +19,7 @@
       },
       "publishedAt": "2019-01-17",
       "viewCount": "1590万",
-      "likeCount": "9.68万",
+      "likeCount": "9.69万",
       "commentCount": "1900"
     },
     {
@@ -62,12 +62,34 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-14",
-      "viewCount": "1315万",
+      "viewCount": "1316万",
       "likeCount": "9.67万",
-      "commentCount": "2286"
+      "commentCount": "2287"
     },
     {
       "rank": 1954,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Wxsnr7knQqI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Wxsnr7knQqI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "はみがきのうた《東京ハイジ》",
+        "url": "https://www.youtube.com/watch?v=Wxsnr7knQqI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "東京ハイジ TOKIOHEIDI",
+        "url": "https://www.youtube.com/channel/UCnrXT1MVcEoaVe33JZ_IkMA",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-04-07",
+      "viewCount": "1億780万",
+      "likeCount": "9.6万",
+      "commentCount": "-"
+    },
+    {
+      "rank": 1955,
       "thumb": {
         "img": "https://i.ytimg.com/vi/IYIOr_1G7y0/default.jpg",
         "url": "https://www.youtube.com/watch?v=IYIOr_1G7y0",
@@ -87,28 +109,6 @@
       "viewCount": "1127万",
       "likeCount": "9.6万",
       "commentCount": "2589"
-    },
-    {
-      "rank": 1955,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Wxsnr7knQqI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Wxsnr7knQqI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "はみがきのうた《東京ハイジ》",
-        "url": "https://www.youtube.com/watch?v=Wxsnr7knQqI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "東京ハイジ TOKIOHEIDI",
-        "url": "https://www.youtube.com/channel/UCnrXT1MVcEoaVe33JZ_IkMA",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-04-07",
-      "viewCount": "1億779万",
-      "likeCount": "9.6万",
-      "commentCount": "-"
     },
     {
       "rank": 1956,
@@ -194,8 +194,8 @@
         "target": "_blank"
       },
       "publishedAt": "2017-07-17",
-      "viewCount": "1632万",
-      "likeCount": "9.55万",
+      "viewCount": "1633万",
+      "likeCount": "9.56万",
       "commentCount": "6810"
     },
     {
@@ -216,7 +216,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-11-29",
-      "viewCount": "1515万",
+      "viewCount": "1516万",
       "likeCount": "9.55万",
       "commentCount": "1815"
     },
@@ -282,9 +282,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-17",
-      "viewCount": "2035万",
-      "likeCount": "9.53万",
-      "commentCount": "393"
+      "viewCount": "2036万",
+      "likeCount": "9.54万",
+      "commentCount": "394"
     },
     {
       "rank": 1964,
@@ -311,6 +311,28 @@
     {
       "rank": 1965,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/NcMfwZ8AgRI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=NcMfwZ8AgRI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BAD HOP - Last Party Never End feat. Tiji Jojo, YZERR, Yellow Pato & Vingo(Official Video)",
+        "url": "https://www.youtube.com/watch?v=NcMfwZ8AgRI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BAD HOP",
+        "url": "https://www.youtube.com/channel/UCcb0Ixexedx7eXLzgYZh6bg",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-02-09",
+      "viewCount": "2632万",
+      "likeCount": "9.52万",
+      "commentCount": "2848"
+    },
+    {
+      "rank": 1966,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/Kq80OfINFbI/default.jpg",
         "url": "https://www.youtube.com/watch?v=Kq80OfINFbI",
         "target": "_blank"
@@ -329,28 +351,6 @@
       "viewCount": "1298万",
       "likeCount": "9.52万",
       "commentCount": "4318"
-    },
-    {
-      "rank": 1966,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/NcMfwZ8AgRI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=NcMfwZ8AgRI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BAD HOP - Last Party Never End feat. Tiji Jojo, YZERR, Yellow Pato & Vingo(Official Video)",
-        "url": "https://www.youtube.com/watch?v=NcMfwZ8AgRI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BAD HOP",
-        "url": "https://www.youtube.com/channel/UCcb0Ixexedx7eXLzgYZh6bg",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-02-09",
-      "viewCount": "2630万",
-      "likeCount": "9.52万",
-      "commentCount": "2848"
     },
     {
       "rank": 1967,
@@ -465,6 +465,28 @@
     {
       "rank": 1972,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/q_8ulbgIF5w/default.jpg",
+        "url": "https://www.youtube.com/watch?v=q_8ulbgIF5w",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ポルノグラフィティ『アポロ』MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=q_8ulbgIF5w",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ポルノグラフィティ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCJeCKqR6uqrdCw6021WuWlA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-09-03",
+      "viewCount": "1193万",
+      "likeCount": "9.46万",
+      "commentCount": "2541"
+    },
+    {
+      "rank": 1973,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/dn17-EfMNY8/default.jpg",
         "url": "https://www.youtube.com/watch?v=dn17-EfMNY8",
         "target": "_blank"
@@ -485,29 +507,29 @@
       "commentCount": "5749"
     },
     {
-      "rank": 1973,
+      "rank": 1974,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/q_8ulbgIF5w/default.jpg",
-        "url": "https://www.youtube.com/watch?v=q_8ulbgIF5w",
+        "img": "https://i.ytimg.com/vi/a_iU8YeH944/default.jpg",
+        "url": "https://www.youtube.com/watch?v=a_iU8YeH944",
         "target": "_blank"
       },
       "title": {
-        "text": "ポルノグラフィティ『アポロ』MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=q_8ulbgIF5w",
+        "text": "SawanoHiroyuki[nZk]:Laco「FAKEit」Music Video Fate/strange Fake -Whispers of Dawn- ver.",
+        "url": "https://www.youtube.com/watch?v=a_iU8YeH944",
         "target": "_blank"
       },
       "channel": {
-        "text": "ポルノグラフィティ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCJeCKqR6uqrdCw6021WuWlA",
+        "text": "澤野弘之 / SawanoHiroyuki[nZk]",
+        "url": "https://www.youtube.com/channel/UCbJM_Y06iuUOl3hVPqYcvng",
         "target": "_blank"
       },
-      "publishedAt": "2021-09-03",
-      "viewCount": "1193万",
-      "likeCount": "9.46万",
-      "commentCount": "2537"
+      "publishedAt": "2023-01-26",
+      "viewCount": "1562万",
+      "likeCount": "9.45万",
+      "commentCount": "1082"
     },
     {
-      "rank": 1974,
+      "rank": 1975,
       "thumb": {
         "img": "https://i.ytimg.com/vi/8KwqvUKYkPg/default.jpg",
         "url": "https://www.youtube.com/watch?v=8KwqvUKYkPg",
@@ -529,29 +551,29 @@
       "commentCount": "4565"
     },
     {
-      "rank": 1975,
+      "rank": 1976,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/a_iU8YeH944/default.jpg",
-        "url": "https://www.youtube.com/watch?v=a_iU8YeH944",
+        "img": "https://i.ytimg.com/vi/j0e9dESM60c/default.jpg",
+        "url": "https://www.youtube.com/watch?v=j0e9dESM60c",
         "target": "_blank"
       },
       "title": {
-        "text": "SawanoHiroyuki[nZk]:Laco「FAKEit」Music Video Fate/strange Fake -Whispers of Dawn- ver.",
-        "url": "https://www.youtube.com/watch?v=a_iU8YeH944",
+        "text": "SEKAI NO OWARI「スターライトパレード」from SHOW DVD『ARENA TOUR 2013「ENTERTAINMENT」in 国立代々木第一体育館』",
+        "url": "https://www.youtube.com/watch?v=j0e9dESM60c",
         "target": "_blank"
       },
       "channel": {
-        "text": "澤野弘之 / SawanoHiroyuki[nZk]",
-        "url": "https://www.youtube.com/channel/UCbJM_Y06iuUOl3hVPqYcvng",
+        "text": "sekainoowarijp",
+        "url": "https://www.youtube.com/channel/UCOYmRdtvvcQPspSmW8QsJhQ",
         "target": "_blank"
       },
-      "publishedAt": "2023-01-26",
-      "viewCount": "1561万",
-      "likeCount": "9.45万",
-      "commentCount": "1082"
+      "publishedAt": "2013-07-09",
+      "viewCount": "2850万",
+      "likeCount": "9.44万",
+      "commentCount": "4838"
     },
     {
-      "rank": 1976,
+      "rank": 1977,
       "thumb": {
         "img": "https://i.ytimg.com/vi/5IoHBOIWM9c/default.jpg",
         "url": "https://www.youtube.com/watch?v=5IoHBOIWM9c",
@@ -573,28 +595,6 @@
       "commentCount": "1919"
     },
     {
-      "rank": 1977,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/j0e9dESM60c/default.jpg",
-        "url": "https://www.youtube.com/watch?v=j0e9dESM60c",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SEKAI NO OWARI「スターライトパレード」from SHOW DVD『ARENA TOUR 2013「ENTERTAINMENT」in 国立代々木第一体育館』",
-        "url": "https://www.youtube.com/watch?v=j0e9dESM60c",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "sekainoowarijp",
-        "url": "https://www.youtube.com/channel/UCOYmRdtvvcQPspSmW8QsJhQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-07-09",
-      "viewCount": "2849万",
-      "likeCount": "9.44万",
-      "commentCount": "4836"
-    },
-    {
       "rank": 1978,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Etq_BEjQE10/default.jpg",
@@ -612,7 +612,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-10",
-      "viewCount": "1491万",
+      "viewCount": "1492万",
       "likeCount": "9.42万",
       "commentCount": "1.5万"
     },
@@ -634,9 +634,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-01",
-      "viewCount": "1514万",
+      "viewCount": "1515万",
       "likeCount": "9.41万",
-      "commentCount": "1977"
+      "commentCount": "1978"
     },
     {
       "rank": 1980,
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-04-02",
-      "viewCount": "1359万",
+      "viewCount": "1360万",
       "likeCount": "9.37万",
       "commentCount": "1571"
     },
@@ -702,7 +702,7 @@
       "publishedAt": "2012-04-09",
       "viewCount": "1121万",
       "likeCount": "9.36万",
-      "commentCount": "2177"
+      "commentCount": "2176"
     },
     {
       "rank": 1983,
@@ -746,7 +746,7 @@
       "publishedAt": "2009-04-08",
       "viewCount": "4104万",
       "likeCount": "9.35万",
-      "commentCount": "3810"
+      "commentCount": "3807"
     },
     {
       "rank": 1985,
@@ -766,7 +766,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-03-19",
-      "viewCount": "1393万",
+      "viewCount": "1394万",
       "likeCount": "9.34万",
       "commentCount": "4209"
     },
@@ -788,9 +788,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-11",
-      "viewCount": "1617万",
+      "viewCount": "1618万",
       "likeCount": "9.34万",
-      "commentCount": "5351"
+      "commentCount": "5352"
     },
     {
       "rank": 1987,
@@ -810,9 +810,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-20",
-      "viewCount": "1473万",
-      "likeCount": "9.32万",
-      "commentCount": "1118"
+      "viewCount": "1474万",
+      "likeCount": "9.33万",
+      "commentCount": "1119"
     },
     {
       "rank": 1988,
@@ -832,7 +832,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-08",
-      "viewCount": "2003万",
+      "viewCount": "2004万",
       "likeCount": "9.32万",
       "commentCount": "2084"
     },
@@ -854,9 +854,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-11",
-      "viewCount": "1623万",
-      "likeCount": "9.31万",
-      "commentCount": "5242"
+      "viewCount": "1624万",
+      "likeCount": "9.32万",
+      "commentCount": "5244"
     },
     {
       "rank": 1990,
@@ -876,7 +876,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-10-09",
-      "viewCount": "2013万",
+      "viewCount": "2014万",
       "likeCount": "9.31万",
       "commentCount": "7531"
     },
@@ -898,7 +898,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-22",
-      "viewCount": "1335万",
+      "viewCount": "1336万",
       "likeCount": "9.3万",
       "commentCount": "2475"
     },
@@ -920,9 +920,9 @@
         "target": "_blank"
       },
       "publishedAt": "2025-02-16",
-      "viewCount": "1072万",
+      "viewCount": "1073万",
       "likeCount": "9.29万",
-      "commentCount": "8817"
+      "commentCount": "8823"
     },
     {
       "rank": 1993,
@@ -1052,7 +1052,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-28",
-      "viewCount": "5422万",
+      "viewCount": "5423万",
       "likeCount": "9.26万",
       "commentCount": "-"
     },
@@ -1096,9 +1096,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-11",
-      "viewCount": "1205万",
+      "viewCount": "1206万",
       "likeCount": "9.23万",
-      "commentCount": "8347"
+      "commentCount": "8352"
     }
   ]
 }

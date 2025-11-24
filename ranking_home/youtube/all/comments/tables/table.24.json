@@ -1,7 +1,29 @@
 {
   "rows": [
     {
-      "rank": 1151,
+      "rank": 1150,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/8IK6eLTNV1k/default.jpg",
+        "url": "https://www.youtube.com/watch?v=8IK6eLTNV1k",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[MV] REOL - 宵々古今 / YoiYoi Kokon",
+        "url": "https://www.youtube.com/watch?v=8IK6eLTNV1k",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Reol Official",
+        "url": "https://www.youtube.com/channel/UCB6pJFaFByws3dQj4AdLdyA",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-09-15",
+      "viewCount": "6577万",
+      "likeCount": "51.8万",
+      "commentCount": "8441"
+    },
+    {
+      "rank": 1152,
       "thumb": {
         "img": "https://i.ytimg.com/vi/H51Xj5aEgkA/default.jpg",
         "url": "https://www.youtube.com/watch?v=H51Xj5aEgkA",
@@ -20,29 +42,7 @@
       "publishedAt": "2010-03-23",
       "viewCount": "2861万",
       "likeCount": "9.8万",
-      "commentCount": "8439"
-    },
-    {
-      "rank": 1152,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/fJh5UeiULZs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=fJh5UeiULZs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【LIVE映像】結束バンド「星座になれたら」LIVE at 秀華祭/ 「ぼっち・ざ・ろっく！」劇中曲",
-        "url": "https://www.youtube.com/watch?v=fJh5UeiULZs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アニプレックス チャンネル",
-        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-12-24",
-      "viewCount": "2744万",
-      "likeCount": "29.8万",
-      "commentCount": "8437"
+      "commentCount": "8440"
     },
     {
       "rank": 1153,
@@ -62,9 +62,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-02",
-      "viewCount": "4926万",
+      "viewCount": "4927万",
       "likeCount": "52.2万",
-      "commentCount": "8433"
+      "commentCount": "8434"
     },
     {
       "rank": 1154,
@@ -84,7 +84,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-03-15",
-      "viewCount": "6283万",
+      "viewCount": "6284万",
       "likeCount": "27.9万",
       "commentCount": "8428"
     },
@@ -106,7 +106,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-05-11",
-      "viewCount": "1848万",
+      "viewCount": "1849万",
       "likeCount": "15.2万",
       "commentCount": "8420"
     },
@@ -150,9 +150,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-07",
-      "viewCount": "4057万",
+      "viewCount": "4058万",
       "likeCount": "33.2万",
-      "commentCount": "8413"
+      "commentCount": "8415"
     },
     {
       "rank": 1158,
@@ -172,7 +172,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-28",
-      "viewCount": "1699万",
+      "viewCount": "1700万",
       "likeCount": "-",
       "commentCount": "8379"
     },
@@ -196,7 +196,7 @@
       "publishedAt": "2011-04-19",
       "viewCount": "2382万",
       "likeCount": "13.9万",
-      "commentCount": "8376"
+      "commentCount": "8375"
     },
     {
       "rank": 1160,
@@ -223,6 +223,28 @@
     {
       "rank": 1161,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/CM4iVSsD524/default.jpg",
+        "url": "https://www.youtube.com/watch?v=CM4iVSsD524",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ONE OK ROCK × Monster Hunter Now - \"Make It Out Alive\" Music Video",
+        "url": "https://www.youtube.com/watch?v=CM4iVSsD524",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ONE OK ROCK",
+        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-08-29",
+      "viewCount": "1952万",
+      "likeCount": "27.2万",
+      "commentCount": "8366"
+    },
+    {
+      "rank": 1161,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/wK222wGwrZg/default.jpg",
         "url": "https://www.youtube.com/watch?v=wK222wGwrZg",
         "target": "_blank"
@@ -243,7 +265,7 @@
       "commentCount": "8366"
     },
     {
-      "rank": 1162,
+      "rank": 1163,
       "thumb": {
         "img": "https://i.ytimg.com/vi/wSTbdqo-j74/default.jpg",
         "url": "https://www.youtube.com/watch?v=wSTbdqo-j74",
@@ -260,12 +282,12 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-24",
-      "viewCount": "5145万",
+      "viewCount": "5148万",
       "likeCount": "34万",
       "commentCount": "8365"
     },
     {
-      "rank": 1163,
+      "rank": 1164,
       "thumb": {
         "img": "https://i.ytimg.com/vi/lGDsQ940-3A/default.jpg",
         "url": "https://www.youtube.com/watch?v=lGDsQ940-3A",
@@ -284,10 +306,32 @@
       "publishedAt": "2019-08-06",
       "viewCount": "2090万",
       "likeCount": "14.5万",
-      "commentCount": "8362"
+      "commentCount": "8363"
     },
     {
-      "rank": 1164,
+      "rank": 1165,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/4ybVA0tcmIU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=4ybVA0tcmIU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "「中森明菜イースト・ライヴ　インデックス23」【公式フル】AKINA NAKAMORI / The 8th Anniversary AKINA EAST LIVE INDEX-XXIII",
+        "url": "https://www.youtube.com/watch?v=4ybVA0tcmIU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Warner Music Japan",
+        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-05-11",
+      "viewCount": "1206万",
+      "likeCount": "9.2万",
+      "commentCount": "8352"
+    },
+    {
+      "rank": 1165,
       "thumb": {
         "img": "https://i.ytimg.com/vi/LPr_UZkmVn8/default.jpg",
         "url": "https://www.youtube.com/watch?v=LPr_UZkmVn8",
@@ -309,29 +353,7 @@
       "commentCount": "8352"
     },
     {
-      "rank": 1165,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/CM4iVSsD524/default.jpg",
-        "url": "https://www.youtube.com/watch?v=CM4iVSsD524",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ONE OK ROCK × Monster Hunter Now - \"Make It Out Alive\" Music Video",
-        "url": "https://www.youtube.com/watch?v=CM4iVSsD524",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ONE OK ROCK",
-        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-08-29",
-      "viewCount": "1951万",
-      "likeCount": "27.2万",
-      "commentCount": "8351"
-    },
-    {
-      "rank": 1166,
+      "rank": 1167,
       "thumb": {
         "img": "https://i.ytimg.com/vi/kCk8x__pXvE/default.jpg",
         "url": "https://www.youtube.com/watch?v=kCk8x__pXvE",
@@ -353,28 +375,6 @@
       "commentCount": "8348"
     },
     {
-      "rank": 1167,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/4ybVA0tcmIU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=4ybVA0tcmIU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "「中森明菜イースト・ライヴ　インデックス23」【公式フル】AKINA NAKAMORI / The 8th Anniversary AKINA EAST LIVE INDEX-XXIII",
-        "url": "https://www.youtube.com/watch?v=4ybVA0tcmIU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Warner Music Japan",
-        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-05-11",
-      "viewCount": "1205万",
-      "likeCount": "9.2万",
-      "commentCount": "8347"
-    },
-    {
       "rank": 1168,
       "thumb": {
         "img": "https://i.ytimg.com/vi/maHs9Ogzojo/default.jpg",
@@ -392,9 +392,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-02-16",
-      "viewCount": "4158万",
+      "viewCount": "4159万",
       "likeCount": "45.9万",
-      "commentCount": "8332"
+      "commentCount": "8331"
     },
     {
       "rank": 1169,
@@ -416,7 +416,7 @@
       "publishedAt": "2015-09-02",
       "viewCount": "1769万",
       "likeCount": "12万",
-      "commentCount": "8306"
+      "commentCount": "8305"
     },
     {
       "rank": 1170,
@@ -458,7 +458,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-12",
-      "viewCount": "1708万",
+      "viewCount": "1709万",
       "likeCount": "26.3万",
       "commentCount": "8290"
     },
@@ -482,7 +482,7 @@
       "publishedAt": "2020-12-01",
       "viewCount": "2380万",
       "likeCount": "33.2万",
-      "commentCount": "8287"
+      "commentCount": "8289"
     },
     {
       "rank": 1173,
@@ -503,8 +503,8 @@
       },
       "publishedAt": "2020-08-05",
       "viewCount": "2617万",
-      "likeCount": "15.4万",
-      "commentCount": "8284"
+      "likeCount": "15.5万",
+      "commentCount": "8285"
     },
     {
       "rank": 1174,
@@ -524,7 +524,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-05-28",
-      "viewCount": "4595万",
+      "viewCount": "4596万",
       "likeCount": "39万",
       "commentCount": "8282"
     },
@@ -590,7 +590,7 @@
         "target": "_blank"
       },
       "publishedAt": "2008-06-06",
-      "viewCount": "6015万",
+      "viewCount": "6017万",
       "likeCount": "19.6万",
       "commentCount": "8268"
     },
@@ -612,9 +612,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-02",
-      "viewCount": "2929万",
+      "viewCount": "2930万",
       "likeCount": "30.8万",
-      "commentCount": "8267"
+      "commentCount": "8266"
     },
     {
       "rank": 1179,
@@ -639,7 +639,7 @@
       "commentCount": "8261"
     },
     {
-      "rank": 1180,
+      "rank": 1179,
       "thumb": {
         "img": "https://i.ytimg.com/vi/khplMpm4ctc/default.jpg",
         "url": "https://www.youtube.com/watch?v=khplMpm4ctc",
@@ -656,9 +656,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-21",
-      "viewCount": "1800万",
+      "viewCount": "1801万",
       "likeCount": "35.2万",
-      "commentCount": "8259"
+      "commentCount": "8261"
     },
     {
       "rank": 1181,
@@ -678,9 +678,9 @@
         "target": "_blank"
       },
       "publishedAt": "2009-11-13",
-      "viewCount": "9533万",
+      "viewCount": "9535万",
       "likeCount": "26万",
-      "commentCount": "8251"
+      "commentCount": "8253"
     },
     {
       "rank": 1182,
@@ -700,9 +700,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-03-26",
-      "viewCount": "3271万",
+      "viewCount": "3272万",
       "likeCount": "20.2万",
-      "commentCount": "8248"
+      "commentCount": "8250"
     },
     {
       "rank": 1183,
@@ -795,6 +795,50 @@
     {
       "rank": 1187,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/uwS__WiOYTI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=uwS__WiOYTI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Cody・Lee(李) - 我愛你(MusicVideo)",
+        "url": "https://www.youtube.com/watch?v=uwS__WiOYTI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Cody・Lee(李) official",
+        "url": "https://www.youtube.com/channel/UCRwlGbdH79F2LgnhbDyN5gg",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-11-12",
+      "viewCount": "1299万",
+      "likeCount": "53.2万",
+      "commentCount": "8222"
+    },
+    {
+      "rank": 1187,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/6A7j6eryPV4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=6A7j6eryPV4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "モーニング娘。 『LOVEマシーン』 (MV)",
+        "url": "https://www.youtube.com/watch?v=6A7j6eryPV4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "モーニング娘。",
+        "url": "https://www.youtube.com/channel/UCoKXb95K5h3sME3c9OCBaeA",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-10-15",
+      "viewCount": "3202万",
+      "likeCount": "15万",
+      "commentCount": "8222"
+    },
+    {
+      "rank": 1187,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/T4RHuXd5pMg/default.jpg",
         "url": "https://www.youtube.com/watch?v=T4RHuXd5pMg",
         "target": "_blank"
@@ -813,50 +857,6 @@
       "viewCount": "2391万",
       "likeCount": "35.8万",
       "commentCount": "8222"
-    },
-    {
-      "rank": 1188,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/uwS__WiOYTI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=uwS__WiOYTI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Cody・Lee(李) - 我愛你(MusicVideo)",
-        "url": "https://www.youtube.com/watch?v=uwS__WiOYTI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Cody・Lee(李) official",
-        "url": "https://www.youtube.com/channel/UCRwlGbdH79F2LgnhbDyN5gg",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-11-12",
-      "viewCount": "1299万",
-      "likeCount": "53.2万",
-      "commentCount": "8221"
-    },
-    {
-      "rank": 1189,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/6A7j6eryPV4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=6A7j6eryPV4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "モーニング娘。 『LOVEマシーン』 (MV)",
-        "url": "https://www.youtube.com/watch?v=6A7j6eryPV4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "モーニング娘。",
-        "url": "https://www.youtube.com/channel/UCoKXb95K5h3sME3c9OCBaeA",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-10-15",
-      "viewCount": "3200万",
-      "likeCount": "15万",
-      "commentCount": "8217"
     },
     {
       "rank": 1190,
@@ -900,7 +900,7 @@
       "publishedAt": "2018-08-24",
       "viewCount": "1332万",
       "likeCount": "21.2万",
-      "commentCount": "8204"
+      "commentCount": "8203"
     },
     {
       "rank": 1192,
@@ -942,9 +942,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-06",
-      "viewCount": "2674万",
+      "viewCount": "2675万",
       "likeCount": "12.5万",
-      "commentCount": "8192"
+      "commentCount": "8194"
     },
     {
       "rank": 1194,
@@ -964,9 +964,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-10",
-      "viewCount": "3252万",
+      "viewCount": "3253万",
       "likeCount": "38.7万",
-      "commentCount": "8181"
+      "commentCount": "8180"
     },
     {
       "rank": 1195,
@@ -986,7 +986,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-11",
-      "viewCount": "2143万",
+      "viewCount": "2144万",
       "likeCount": "-",
       "commentCount": "8174"
     },
@@ -1008,9 +1008,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-09-11",
-      "viewCount": "7063万",
+      "viewCount": "7064万",
       "likeCount": "19.9万",
-      "commentCount": "8164"
+      "commentCount": "8165"
     },
     {
       "rank": 1197,
@@ -1030,9 +1030,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-24",
-      "viewCount": "3412万",
+      "viewCount": "3413万",
       "likeCount": "13.3万",
-      "commentCount": "8158"
+      "commentCount": "8160"
     },
     {
       "rank": 1198,
@@ -1054,29 +1054,7 @@
       "publishedAt": "2017-04-07",
       "viewCount": "3427万",
       "likeCount": "16.3万",
-      "commentCount": "8153"
-    },
-    {
-      "rank": 1199,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/RGzMlGujLyE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=RGzMlGujLyE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "The Chainsmokers feat.新田真剣佑 「Closer (Tokyo Remix)」 (Short Video)",
-        "url": "https://www.youtube.com/watch?v=RGzMlGujLyE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-02-05",
-      "viewCount": "1407万",
-      "likeCount": "23.4万",
-      "commentCount": "8119"
+      "commentCount": "8154"
     },
     {
       "rank": 1199,
@@ -1098,6 +1076,28 @@
       "publishedAt": "2021-05-24",
       "viewCount": "1984万",
       "likeCount": "-",
+      "commentCount": "8119"
+    },
+    {
+      "rank": 1199,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/RGzMlGujLyE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=RGzMlGujLyE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "The Chainsmokers feat.新田真剣佑 「Closer (Tokyo Remix)」 (Short Video)",
+        "url": "https://www.youtube.com/watch?v=RGzMlGujLyE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-02-05",
+      "viewCount": "1407万",
+      "likeCount": "23.4万",
       "commentCount": "8119"
     }
   ]

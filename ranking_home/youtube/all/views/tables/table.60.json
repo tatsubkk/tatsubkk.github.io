@@ -3,6 +3,52 @@
     {
       "rank": 2951,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/1RnBDQJyQdI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1RnBDQJyQdI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MONKEY MAJIK - Around The World【Official Music Video】",
+        "url": "https://www.youtube.com/watch?v=1RnBDQJyQdI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "MONKEY MAJIK OFFICIAL CHANNEL",
+        "url": "https://www.youtube.com/channel/UCs9MYqANhxyLZJSkLGNx8FQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-04-03",
+      "viewCount": "1148万",
+      "likeCount": "11.9万",
+      "commentCount": "3702",
+      "increment_d1": "4931"
+    },
+    {
+      "rank": 2952,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/tHk4thfcL9Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=tHk4thfcL9Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Janne Da Arc - 月光花",
+        "url": "https://www.youtube.com/watch?v=tHk4thfcL9Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-01-25",
+      "viewCount": "1148万",
+      "likeCount": "7.5万",
+      "commentCount": "2509",
+      "increment_d1": "9017"
+    },
+    {
+      "rank": 2953,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/MBrDKttuhQ0/default.jpg",
         "url": "https://www.youtube.com/watch?v=MBrDKttuhQ0",
         "target": "_blank"
@@ -21,79 +67,10 @@
       "viewCount": "1148万",
       "likeCount": "5.7万",
       "commentCount": "4108",
-      "increment_d1": "507"
-    },
-    {
-      "rank": 2952,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1RnBDQJyQdI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1RnBDQJyQdI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MONKEY MAJIK - Around The World【Official Music Video】",
-        "url": "https://www.youtube.com/watch?v=1RnBDQJyQdI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "MONKEY MAJIK OFFICIAL CHANNEL",
-        "url": "https://www.youtube.com/channel/UCs9MYqANhxyLZJSkLGNx8FQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-04-03",
-      "viewCount": "1148万",
-      "likeCount": "11.9万",
-      "commentCount": "3701",
-      "increment_d1": "4876"
-    },
-    {
-      "rank": 2953,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/tHk4thfcL9Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=tHk4thfcL9Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Janne Da Arc - 月光花",
-        "url": "https://www.youtube.com/watch?v=tHk4thfcL9Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-01-25",
-      "viewCount": "1147万",
-      "likeCount": "7.5万",
-      "commentCount": "2508",
-      "increment_d1": "9676"
+      "increment_d1": "435"
     },
     {
       "rank": 2954,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/oqxvaDbAHkI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=oqxvaDbAHkI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[Official Music Video]Perfume 「再生」",
-        "url": "https://www.youtube.com/watch?v=oqxvaDbAHkI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Perfume",
-        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-12-13",
-      "viewCount": "1147万",
-      "likeCount": "10.7万",
-      "commentCount": "5236",
-      "increment_d1": "1766"
-    },
-    {
-      "rank": 2955,
       "thumb": {
         "img": "https://i.ytimg.com/vi/bLpyU1A-5jI/default.jpg",
         "url": "https://www.youtube.com/watch?v=bLpyU1A-5jI",
@@ -113,7 +90,30 @@
       "viewCount": "1147万",
       "likeCount": "2.4万",
       "commentCount": "-",
-      "increment_d1": "2936"
+      "increment_d1": "2667"
+    },
+    {
+      "rank": 2955,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/oqxvaDbAHkI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=oqxvaDbAHkI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[Official Music Video]Perfume 「再生」",
+        "url": "https://www.youtube.com/watch?v=oqxvaDbAHkI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Perfume",
+        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-12-13",
+      "viewCount": "1147万",
+      "likeCount": "10.7万",
+      "commentCount": "5236",
+      "increment_d1": "1580"
     },
     {
       "rank": 2956,
@@ -133,10 +133,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-01-18",
-      "viewCount": "1145万",
+      "viewCount": "1146万",
       "likeCount": "4.8万",
       "commentCount": "1541",
-      "increment_d1": "3271"
+      "increment_d1": "3023"
     },
     {
       "rank": 2957,
@@ -159,7 +159,7 @@
       "viewCount": "1145万",
       "likeCount": "7.6万",
       "commentCount": "9639",
-      "increment_d1": "503"
+      "increment_d1": "437"
     },
     {
       "rank": 2958,
@@ -182,33 +182,10 @@
       "viewCount": "1145万",
       "likeCount": "15.7万",
       "commentCount": "4713",
-      "increment_d1": "3403"
+      "increment_d1": "3152"
     },
     {
       "rank": 2959,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/i-8FlNOfEfw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=i-8FlNOfEfw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Clean Bandit - Solo feat. Demi Lovato [Japan Edition]",
-        "url": "https://www.youtube.com/watch?v=i-8FlNOfEfw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Warner Music Japan",
-        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-08-17",
-      "viewCount": "1144万",
-      "likeCount": "19.2万",
-      "commentCount": "7578",
-      "increment_d1": "725"
-    },
-    {
-      "rank": 2960,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3r8AHA5oEWQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=3r8AHA5oEWQ",
@@ -228,7 +205,30 @@
       "viewCount": "1144万",
       "likeCount": "5.5万",
       "commentCount": "-",
-      "increment_d1": "724"
+      "increment_d1": "857"
+    },
+    {
+      "rank": 2960,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/i-8FlNOfEfw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=i-8FlNOfEfw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Clean Bandit - Solo feat. Demi Lovato [Japan Edition]",
+        "url": "https://www.youtube.com/watch?v=i-8FlNOfEfw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Warner Music Japan",
+        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-08-17",
+      "viewCount": "1144万",
+      "likeCount": "19.2万",
+      "commentCount": "7578",
+      "increment_d1": "548"
     },
     {
       "rank": 2961,
@@ -251,7 +251,7 @@
       "viewCount": "1144万",
       "likeCount": "-",
       "commentCount": "4624",
-      "increment_d1": "1830"
+      "increment_d1": "1702"
     },
     {
       "rank": 2962,
@@ -271,10 +271,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-06",
-      "viewCount": "1143万",
+      "viewCount": "1144万",
       "likeCount": "15.1万",
       "commentCount": "1422",
-      "increment_d1": "2286"
+      "increment_d1": "2305"
     },
     {
       "rank": 2963,
@@ -294,33 +294,33 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-18",
-      "viewCount": "1142万",
+      "viewCount": "1143万",
       "likeCount": "4.1万",
       "commentCount": "5891",
-      "increment_d1": "1781"
+      "increment_d1": "2081"
     },
     {
       "rank": 2964,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/SHSWHJBuFzM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=SHSWHJBuFzM",
+        "img": "https://i.ytimg.com/vi/BydbhAzmAzg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=BydbhAzmAzg",
         "target": "_blank"
       },
       "title": {
-        "text": "生まれた意味などなかった。／まふまふ",
-        "url": "https://www.youtube.com/watch?v=SHSWHJBuFzM",
+        "text": "XG - IN THE RAIN (Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=BydbhAzmAzg",
         "target": "_blank"
       },
       "channel": {
-        "text": "まふまふちゃんねる",
-        "url": "https://www.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg",
+        "text": "XG",
+        "url": "https://www.youtube.com/channel/UC12HMtO5MYph9dCZZ7yygng",
         "target": "_blank"
       },
-      "publishedAt": "2019-08-30",
+      "publishedAt": "2025-04-11",
       "viewCount": "1142万",
-      "likeCount": "17.1万",
-      "commentCount": "9601",
-      "increment_d1": "1173"
+      "likeCount": "21.9万",
+      "commentCount": "7696",
+      "increment_d1": "1.41万"
     },
     {
       "rank": 2965,
@@ -343,10 +343,33 @@
       "viewCount": "1142万",
       "likeCount": "7.6万",
       "commentCount": "2183",
-      "increment_d1": "1653"
+      "increment_d1": "1647"
     },
     {
       "rank": 2966,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/SHSWHJBuFzM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=SHSWHJBuFzM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "生まれた意味などなかった。／まふまふ",
+        "url": "https://www.youtube.com/watch?v=SHSWHJBuFzM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "まふまふちゃんねる",
+        "url": "https://www.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-08-30",
+      "viewCount": "1142万",
+      "likeCount": "17.1万",
+      "commentCount": "9603",
+      "increment_d1": "1188"
+    },
+    {
+      "rank": 2967,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qhPLK1Tn1GQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=qhPLK1Tn1GQ",
@@ -366,10 +389,10 @@
       "viewCount": "1142万",
       "likeCount": "16.6万",
       "commentCount": "3643",
-      "increment_d1": "541"
+      "increment_d1": "446"
     },
     {
-      "rank": 2967,
+      "rank": 2968,
       "thumb": {
         "img": "https://i.ytimg.com/vi/hc08LP69lVM/default.jpg",
         "url": "https://www.youtube.com/watch?v=hc08LP69lVM",
@@ -389,30 +412,7 @@
       "viewCount": "1141万",
       "likeCount": "14.3万",
       "commentCount": "1.1万",
-      "increment_d1": "1073"
-    },
-    {
-      "rank": 2968,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/BydbhAzmAzg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=BydbhAzmAzg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "XG - IN THE RAIN (Official Music Video)",
-        "url": "https://www.youtube.com/watch?v=BydbhAzmAzg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "XG",
-        "url": "https://www.youtube.com/channel/UC12HMtO5MYph9dCZZ7yygng",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-04-11",
-      "viewCount": "1141万",
-      "likeCount": "21.9万",
-      "commentCount": "7696",
-      "increment_d1": "1.44万"
+      "increment_d1": "1191"
     },
     {
       "rank": 2969,
@@ -435,30 +435,30 @@
       "viewCount": "1141万",
       "likeCount": "3.8万",
       "commentCount": "2330",
-      "increment_d1": "1981"
+      "increment_d1": "1859"
     },
     {
       "rank": 2970,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/c-0NdHV_1r4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=c-0NdHV_1r4",
+        "img": "https://i.ytimg.com/vi/Y3T04hhdHA4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Y3T04hhdHA4",
         "target": "_blank"
       },
       "title": {
-        "text": "NMB48 - 北川謙二(Kitagawa Kenji) Official MV",
-        "url": "https://www.youtube.com/watch?v=c-0NdHV_1r4",
+        "text": "ラブレター",
+        "url": "https://www.youtube.com/watch?v=Y3T04hhdHA4",
         "target": "_blank"
       },
       "channel": {
-        "text": "NMB48",
-        "url": "https://www.youtube.com/channel/UCnhrIe3jZNmqDEL_zSBXADQ",
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
         "target": "_blank"
       },
-      "publishedAt": "2012-11-01",
+      "publishedAt": "2021-11-30",
       "viewCount": "1141万",
-      "likeCount": "3万",
-      "commentCount": "2596",
-      "increment_d1": "440"
+      "likeCount": "3.3万",
+      "commentCount": "95",
+      "increment_d1": "6465"
     },
     {
       "rank": 2971,
@@ -481,30 +481,30 @@
       "viewCount": "1141万",
       "likeCount": "6.2万",
       "commentCount": "2355",
-      "increment_d1": "1938"
+      "increment_d1": "1881"
     },
     {
       "rank": 2972,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/Y3T04hhdHA4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Y3T04hhdHA4",
+        "img": "https://i.ytimg.com/vi/c-0NdHV_1r4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=c-0NdHV_1r4",
         "target": "_blank"
       },
       "title": {
-        "text": "ラブレター",
-        "url": "https://www.youtube.com/watch?v=Y3T04hhdHA4",
+        "text": "NMB48 - 北川謙二(Kitagawa Kenji) Official MV",
+        "url": "https://www.youtube.com/watch?v=c-0NdHV_1r4",
         "target": "_blank"
       },
       "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "text": "NMB48",
+        "url": "https://www.youtube.com/channel/UCnhrIe3jZNmqDEL_zSBXADQ",
         "target": "_blank"
       },
-      "publishedAt": "2021-11-30",
-      "viewCount": "1140万",
-      "likeCount": "3.3万",
-      "commentCount": "95",
-      "increment_d1": "6820"
+      "publishedAt": "2012-11-01",
+      "viewCount": "1141万",
+      "likeCount": "3万",
+      "commentCount": "2596",
+      "increment_d1": "480"
     },
     {
       "rank": 2973,
@@ -527,7 +527,7 @@
       "viewCount": "1139万",
       "likeCount": "4.2万",
       "commentCount": "1490",
-      "increment_d1": "482"
+      "increment_d1": "396"
     },
     {
       "rank": 2974,
@@ -549,8 +549,8 @@
       "publishedAt": "2020-10-05",
       "viewCount": "1139万",
       "likeCount": "-",
-      "commentCount": "1716",
-      "increment_d1": "1281"
+      "commentCount": "1717",
+      "increment_d1": "1038"
     },
     {
       "rank": 2975,
@@ -573,7 +573,7 @@
       "viewCount": "1138万",
       "likeCount": "6万",
       "commentCount": "3170",
-      "increment_d1": "98"
+      "increment_d1": "86"
     },
     {
       "rank": 2976,
@@ -595,8 +595,8 @@
       "publishedAt": "2013-07-12",
       "viewCount": "1138万",
       "likeCount": "4.3万",
-      "commentCount": "2287",
-      "increment_d1": "1898"
+      "commentCount": "2288",
+      "increment_d1": "1575"
     },
     {
       "rank": 2977,
@@ -619,7 +619,7 @@
       "viewCount": "1137万",
       "likeCount": "4.3万",
       "commentCount": "2303",
-      "increment_d1": "375"
+      "increment_d1": "555"
     },
     {
       "rank": 2978,
@@ -642,7 +642,7 @@
       "viewCount": "1137万",
       "likeCount": "1.9万",
       "commentCount": "2246",
-      "increment_d1": "285"
+      "increment_d1": "219"
     },
     {
       "rank": 2979,
@@ -664,11 +664,34 @@
       "publishedAt": "2020-10-20",
       "viewCount": "1136万",
       "likeCount": "8.3万",
-      "commentCount": "4092",
-      "increment_d1": "1263"
+      "commentCount": "4093",
+      "increment_d1": "1046"
     },
     {
       "rank": 2980,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/f92VWkYl8CI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=f92VWkYl8CI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "the pillows / Funny Bunny",
+        "url": "https://www.youtube.com/watch?v=f92VWkYl8CI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "pillows20th",
+        "url": "https://www.youtube.com/channel/UCgapSeetlZHzdpTzMvg1p8w",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-06-03",
+      "viewCount": "1135万",
+      "likeCount": "8.6万",
+      "commentCount": "2831",
+      "increment_d1": "2390"
+    },
+    {
+      "rank": 2981,
       "thumb": {
         "img": "https://i.ytimg.com/vi/1zUFu-aUVW4/default.jpg",
         "url": "https://www.youtube.com/watch?v=1zUFu-aUVW4",
@@ -688,33 +711,33 @@
       "viewCount": "1135万",
       "likeCount": "3.8万",
       "commentCount": "1866",
-      "increment_d1": "1240"
-    },
-    {
-      "rank": 2981,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/f92VWkYl8CI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=f92VWkYl8CI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "the pillows / Funny Bunny",
-        "url": "https://www.youtube.com/watch?v=f92VWkYl8CI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "pillows20th",
-        "url": "https://www.youtube.com/channel/UCgapSeetlZHzdpTzMvg1p8w",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-06-03",
-      "viewCount": "1134万",
-      "likeCount": "8.6万",
-      "commentCount": "2831",
-      "increment_d1": "2532"
+      "increment_d1": "1029"
     },
     {
       "rank": 2982,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/sF9OXDFEopY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=sF9OXDFEopY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【syudou】やっちゃったわ",
+        "url": "https://www.youtube.com/watch?v=sF9OXDFEopY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "syudou",
+        "url": "https://www.youtube.com/channel/UCraC7460yGQF4GDmSjCecpQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-11-17",
+      "viewCount": "1135万",
+      "likeCount": "18.2万",
+      "commentCount": "1732",
+      "increment_d1": "6652"
+    },
+    {
+      "rank": 2983,
       "thumb": {
         "img": "https://i.ytimg.com/vi/0yHDWYYAfJQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=0yHDWYYAfJQ",
@@ -734,33 +757,33 @@
       "viewCount": "1134万",
       "likeCount": "3.7万",
       "commentCount": "2135",
-      "increment_d1": "3675"
-    },
-    {
-      "rank": 2983,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/sF9OXDFEopY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=sF9OXDFEopY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【syudou】やっちゃったわ",
-        "url": "https://www.youtube.com/watch?v=sF9OXDFEopY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "syudou",
-        "url": "https://www.youtube.com/channel/UCraC7460yGQF4GDmSjCecpQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-11-17",
-      "viewCount": "1134万",
-      "likeCount": "18.2万",
-      "commentCount": "1732",
-      "increment_d1": "6763"
+      "increment_d1": "3176"
     },
     {
       "rank": 2984,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/OzGVz1ClxIc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=OzGVz1ClxIc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow halation",
+        "url": "https://www.youtube.com/watch?v=OzGVz1ClxIc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "μ's - Topic",
+        "url": "https://www.youtube.com/channel/UCLLrOsGIMTOVN8pbXvMGz4g",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-09-17",
+      "viewCount": "1134万",
+      "likeCount": "6.5万",
+      "commentCount": "543",
+      "increment_d1": "9223"
+    },
+    {
+      "rank": 2985,
       "thumb": {
         "img": "https://i.ytimg.com/vi/uE7HQ3uivcE/default.jpg",
         "url": "https://www.youtube.com/watch?v=uE7HQ3uivcE",
@@ -780,30 +803,7 @@
       "viewCount": "1134万",
       "likeCount": "3.9万",
       "commentCount": "5751",
-      "increment_d1": "862"
-    },
-    {
-      "rank": 2985,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/OzGVz1ClxIc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=OzGVz1ClxIc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow halation",
-        "url": "https://www.youtube.com/watch?v=OzGVz1ClxIc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "μ's - Topic",
-        "url": "https://www.youtube.com/channel/UCLLrOsGIMTOVN8pbXvMGz4g",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-09-17",
-      "viewCount": "1133万",
-      "likeCount": "6.5万",
-      "commentCount": "544",
-      "increment_d1": "1.04万"
+      "increment_d1": "722"
     },
     {
       "rank": 2986,
@@ -826,10 +826,33 @@
       "viewCount": "1133万",
       "likeCount": "14.3万",
       "commentCount": "2437",
-      "increment_d1": "2592"
+      "increment_d1": "2320"
     },
     {
       "rank": 2987,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/OqEVEShYOv8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=OqEVEShYOv8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE「我逢人」Official Stage Mix",
+        "url": "https://www.youtube.com/watch?v=OqEVEShYOv8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-07-07",
+      "viewCount": "1133万",
+      "likeCount": "10.3万",
+      "commentCount": "3353",
+      "increment_d1": "1.45万"
+    },
+    {
+      "rank": 2988,
       "thumb": {
         "img": "https://i.ytimg.com/vi/p951ocPuJF0/default.jpg",
         "url": "https://www.youtube.com/watch?v=p951ocPuJF0",
@@ -846,13 +869,13 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-06",
-      "viewCount": "1132万",
+      "viewCount": "1133万",
       "likeCount": "12.3万",
       "commentCount": "1428",
-      "increment_d1": "4467"
+      "increment_d1": "3923"
     },
     {
-      "rank": 2988,
+      "rank": 2989,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Y3cZqOMVEAg/default.jpg",
         "url": "https://www.youtube.com/watch?v=Y3cZqOMVEAg",
@@ -872,30 +895,7 @@
       "viewCount": "1132万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "315"
-    },
-    {
-      "rank": 2989,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/OqEVEShYOv8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=OqEVEShYOv8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE「我逢人」Official Stage Mix",
-        "url": "https://www.youtube.com/watch?v=OqEVEShYOv8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-07-07",
-      "viewCount": "1131万",
-      "likeCount": "10.3万",
-      "commentCount": "3353",
-      "increment_d1": "1.51万"
+      "increment_d1": "460"
     },
     {
       "rank": 2990,
@@ -915,10 +915,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
-      "viewCount": "1130万",
+      "viewCount": "1131万",
       "likeCount": "2.9万",
       "commentCount": "68",
-      "increment_d1": "1.13万"
+      "increment_d1": "1.11万"
     },
     {
       "rank": 2991,
@@ -941,7 +941,7 @@
       "viewCount": "1130万",
       "likeCount": "3.4万",
       "commentCount": "937",
-      "increment_d1": "871"
+      "increment_d1": "872"
     },
     {
       "rank": 2992,
@@ -964,7 +964,7 @@
       "viewCount": "1130万",
       "likeCount": "-",
       "commentCount": "1.3万",
-      "increment_d1": "932"
+      "increment_d1": "1011"
     },
     {
       "rank": 2993,
@@ -987,7 +987,7 @@
       "viewCount": "1128万",
       "likeCount": "3.3万",
       "commentCount": "710",
-      "increment_d1": "1446"
+      "increment_d1": "1191"
     },
     {
       "rank": 2994,
@@ -1010,7 +1010,7 @@
       "viewCount": "1127万",
       "likeCount": "9.6万",
       "commentCount": "2589",
-      "increment_d1": "484"
+      "increment_d1": "378"
     },
     {
       "rank": 2995,
@@ -1032,8 +1032,8 @@
       "publishedAt": "2019-10-31",
       "viewCount": "1126万",
       "likeCount": "9.1万",
-      "commentCount": "2453",
-      "increment_d1": "4285"
+      "commentCount": "2454",
+      "increment_d1": "4040"
     },
     {
       "rank": 2996,
@@ -1053,10 +1053,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-19",
-      "viewCount": "1125万",
+      "viewCount": "1126万",
       "likeCount": "5.5万",
       "commentCount": "1887",
-      "increment_d1": "3535"
+      "increment_d1": "3212"
     },
     {
       "rank": 2997,
@@ -1078,8 +1078,8 @@
       "publishedAt": "2020-07-13",
       "viewCount": "1125万",
       "likeCount": "8.9万",
-      "commentCount": "3710",
-      "increment_d1": "8189"
+      "commentCount": "3711",
+      "increment_d1": "8114"
     },
     {
       "rank": 2998,
@@ -1102,7 +1102,7 @@
       "viewCount": "1125万",
       "likeCount": "19.4万",
       "commentCount": "3805",
-      "increment_d1": "8345"
+      "increment_d1": "7830"
     },
     {
       "rank": 2999,
@@ -1125,7 +1125,7 @@
       "viewCount": "1125万",
       "likeCount": "4.3万",
       "commentCount": "49",
-      "increment_d1": "3573"
+      "increment_d1": "3383"
     },
     {
       "rank": 3000,
@@ -1148,7 +1148,7 @@
       "viewCount": "1124万",
       "likeCount": "3.2万",
       "commentCount": "702",
-      "increment_d1": "67"
+      "increment_d1": "46"
     }
   ]
 }

@@ -63,7 +63,7 @@
       },
       "publishedAt": "2024-05-12",
       "viewCount": "2177万",
-      "likeCount": "8.78万",
+      "likeCount": "8.79万",
       "commentCount": "9.2万"
     },
     {
@@ -106,7 +106,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-17",
-      "viewCount": "2159万",
+      "viewCount": "2161万",
       "likeCount": "8.76万",
       "commentCount": "-"
     },
@@ -130,7 +130,7 @@
       "publishedAt": "2016-06-18",
       "viewCount": "1637万",
       "likeCount": "8.76万",
-      "commentCount": "3436"
+      "commentCount": "3437"
     },
     {
       "rank": 2057,
@@ -172,12 +172,34 @@
         "target": "_blank"
       },
       "publishedAt": "2012-08-28",
-      "viewCount": "2181万",
-      "likeCount": "8.75万",
+      "viewCount": "2182万",
+      "likeCount": "8.76万",
       "commentCount": "4661"
     },
     {
       "rank": 2059,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/aLgPe4Scnvs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=aLgPe4Scnvs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Novelbright - 雪の音 [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=aLgPe4Scnvs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Novelbright",
+        "url": "https://www.youtube.com/channel/UCIJAlAYCNN8RACtDDsy9K6g",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-12-21",
+      "viewCount": "1331万",
+      "likeCount": "8.74万",
+      "commentCount": "2565"
+    },
+    {
+      "rank": 2060,
       "thumb": {
         "img": "https://i.ytimg.com/vi/tBlKD8TciBI/default.jpg",
         "url": "https://www.youtube.com/watch?v=tBlKD8TciBI",
@@ -197,28 +219,6 @@
       "viewCount": "1739万",
       "likeCount": "8.74万",
       "commentCount": "2297"
-    },
-    {
-      "rank": 2060,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/aLgPe4Scnvs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=aLgPe4Scnvs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Novelbright - 雪の音 [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=aLgPe4Scnvs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Novelbright",
-        "url": "https://www.youtube.com/channel/UCIJAlAYCNN8RACtDDsy9K6g",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-12-21",
-      "viewCount": "1330万",
-      "likeCount": "8.73万",
-      "commentCount": "2564"
     },
     {
       "rank": 2061,
@@ -311,28 +311,6 @@
     {
       "rank": 2065,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/IiqfKF9BlcI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=IiqfKF9BlcI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "サカナクション / ネイティブダンサー",
-        "url": "https://www.youtube.com/watch?v=IiqfKF9BlcI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "hiplandmusic",
-        "url": "https://www.youtube.com/channel/UCqTp-NYHvYy96FDldAcPVUA",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-01-06",
-      "viewCount": "2556万",
-      "likeCount": "8.68万",
-      "commentCount": "3300"
-    },
-    {
-      "rank": 2066,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/zejYD43HyQo/default.jpg",
         "url": "https://www.youtube.com/watch?v=zejYD43HyQo",
         "target": "_blank"
@@ -348,9 +326,31 @@
         "target": "_blank"
       },
       "publishedAt": "2022-02-26",
-      "viewCount": "1260万",
+      "viewCount": "1261万",
       "likeCount": "8.68万",
-      "commentCount": "1129"
+      "commentCount": "1130"
+    },
+    {
+      "rank": 2065,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/IiqfKF9BlcI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=IiqfKF9BlcI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "サカナクション / ネイティブダンサー",
+        "url": "https://www.youtube.com/watch?v=IiqfKF9BlcI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "hiplandmusic",
+        "url": "https://www.youtube.com/channel/UCqTp-NYHvYy96FDldAcPVUA",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-01-06",
+      "viewCount": "2557万",
+      "likeCount": "8.68万",
+      "commentCount": "3300"
     },
     {
       "rank": 2067,
@@ -372,7 +372,7 @@
       "publishedAt": "2012-01-06",
       "viewCount": "3000万",
       "likeCount": "8.68万",
-      "commentCount": "2811"
+      "commentCount": "2812"
     },
     {
       "rank": 2068,
@@ -392,9 +392,9 @@
         "target": "_blank"
       },
       "publishedAt": "2017-04-30",
-      "viewCount": "2179万",
+      "viewCount": "2180万",
       "likeCount": "8.68万",
-      "commentCount": "6725"
+      "commentCount": "6726"
     },
     {
       "rank": 2069,
@@ -414,12 +414,34 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-25",
-      "viewCount": "1258万",
+      "viewCount": "1259万",
       "likeCount": "8.64万",
       "commentCount": "428"
     },
     {
       "rank": 2070,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ZgRPDC4xE4A/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ZgRPDC4xE4A",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "B’z / LOVE PHANTOM【B'z LIVE-GYM Pleasure 2023 -STARS-】",
+        "url": "https://www.youtube.com/watch?v=ZgRPDC4xE4A",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Bz",
+        "url": "https://www.youtube.com/channel/UCpEEcJhBig2GqUFxcXjqiLg",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-01-10",
+      "viewCount": "1779万",
+      "likeCount": "8.64万",
+      "commentCount": "4411"
+    },
+    {
+      "rank": 2071,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3nIKXsFCp5E/default.jpg",
         "url": "https://www.youtube.com/watch?v=3nIKXsFCp5E",
@@ -437,30 +459,8 @@
       },
       "publishedAt": "2016-12-19",
       "viewCount": "1958万",
-      "likeCount": "8.63万",
-      "commentCount": "1631"
-    },
-    {
-      "rank": 2071,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ZgRPDC4xE4A/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ZgRPDC4xE4A",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "B’z / LOVE PHANTOM【B'z LIVE-GYM Pleasure 2023 -STARS-】",
-        "url": "https://www.youtube.com/watch?v=ZgRPDC4xE4A",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Bz",
-        "url": "https://www.youtube.com/channel/UCpEEcJhBig2GqUFxcXjqiLg",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-01-10",
-      "viewCount": "1774万",
-      "likeCount": "8.63万",
-      "commentCount": "4408"
+      "likeCount": "8.64万",
+      "commentCount": "1632"
     },
     {
       "rank": 2072,
@@ -482,7 +482,7 @@
       "publishedAt": "2018-02-20",
       "viewCount": "1833万",
       "likeCount": "8.63万",
-      "commentCount": "9613"
+      "commentCount": "9614"
     },
     {
       "rank": 2073,
@@ -503,7 +503,7 @@
       },
       "publishedAt": "2015-04-22",
       "viewCount": "1209万",
-      "likeCount": "8.61万",
+      "likeCount": "8.62万",
       "commentCount": "3671"
     },
     {
@@ -546,9 +546,9 @@
         "target": "_blank"
       },
       "publishedAt": "2017-09-07",
-      "viewCount": "1408万",
+      "viewCount": "1409万",
       "likeCount": "8.61万",
-      "commentCount": "3653"
+      "commentCount": "3654"
     },
     {
       "rank": 2076,
@@ -575,6 +575,28 @@
     {
       "rank": 2077,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/6Ul-wFnquno/default.jpg",
+        "url": "https://www.youtube.com/watch?v=6Ul-wFnquno",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – umbrella【LIVE from “Atlantis”】",
+        "url": "https://www.youtube.com/watch?v=6Ul-wFnquno",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-01-12",
+      "viewCount": "1378万",
+      "likeCount": "8.6万",
+      "commentCount": "2590"
+    },
+    {
+      "rank": 2078,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/MCIfjcc8J2M/default.jpg",
         "url": "https://www.youtube.com/watch?v=MCIfjcc8J2M",
         "target": "_blank"
@@ -593,28 +615,6 @@
       "viewCount": "1594万",
       "likeCount": "8.6万",
       "commentCount": "-"
-    },
-    {
-      "rank": 2078,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/6Ul-wFnquno/default.jpg",
-        "url": "https://www.youtube.com/watch?v=6Ul-wFnquno",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – umbrella【LIVE from “Atlantis”】",
-        "url": "https://www.youtube.com/watch?v=6Ul-wFnquno",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-01-12",
-      "viewCount": "1376万",
-      "likeCount": "8.6万",
-      "commentCount": "2589"
     },
     {
       "rank": 2079,
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-24",
-      "viewCount": "1090万",
+      "viewCount": "1091万",
       "likeCount": "8.59万",
       "commentCount": "2217"
     },
@@ -679,8 +679,8 @@
       },
       "publishedAt": "2016-10-14",
       "viewCount": "1078万",
-      "likeCount": "8.58万",
-      "commentCount": "3810"
+      "likeCount": "8.59万",
+      "commentCount": "3811"
     },
     {
       "rank": 2082,
@@ -702,7 +702,7 @@
       "publishedAt": "2018-05-29",
       "viewCount": "1279万",
       "likeCount": "8.58万",
-      "commentCount": "2500"
+      "commentCount": "2501"
     },
     {
       "rank": 2083,
@@ -723,8 +723,8 @@
       },
       "publishedAt": "2016-06-07",
       "viewCount": "1984万",
-      "likeCount": "8.57万",
-      "commentCount": "2920"
+      "likeCount": "8.58万",
+      "commentCount": "2921"
     },
     {
       "rank": 2084,
@@ -744,7 +744,7 @@
         "target": "_blank"
       },
       "publishedAt": "2009-06-03",
-      "viewCount": "1134万",
+      "viewCount": "1135万",
       "likeCount": "8.57万",
       "commentCount": "2831"
     },
@@ -766,7 +766,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-02-12",
-      "viewCount": "1528万",
+      "viewCount": "1529万",
       "likeCount": "8.56万",
       "commentCount": "1.8万"
     },
@@ -788,7 +788,7 @@
         "target": "_blank"
       },
       "publishedAt": "2009-12-24",
-      "viewCount": "1854万",
+      "viewCount": "1855万",
       "likeCount": "8.56万",
       "commentCount": "3426"
     },
@@ -920,7 +920,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-12-01",
-      "viewCount": "1470万",
+      "viewCount": "1471万",
       "likeCount": "8.54万",
       "commentCount": "1.7万"
     },
@@ -1009,7 +1009,7 @@
       },
       "publishedAt": "2015-01-23",
       "viewCount": "1351万",
-      "likeCount": "8.48万",
+      "likeCount": "8.49万",
       "commentCount": "2776"
     },
     {
@@ -1074,7 +1074,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-08-24",
-      "viewCount": "2359万",
+      "viewCount": "2360万",
       "likeCount": "8.46万",
       "commentCount": "7006"
     },
