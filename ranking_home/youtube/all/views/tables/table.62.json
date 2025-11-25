@@ -3,6 +3,29 @@
     {
       "rank": 3051,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/CSgG6wPB0Kw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=CSgG6wPB0Kw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ラブレター",
+        "url": "https://www.youtube.com/watch?v=CSgG6wPB0Kw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-11-30",
+      "viewCount": "1107万",
+      "likeCount": "4.6万",
+      "commentCount": "100",
+      "increment_d1": "7327"
+    },
+    {
+      "rank": 3052,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/5degcfbioz4/default.jpg",
         "url": "https://www.youtube.com/watch?v=5degcfbioz4",
         "target": "_blank"
@@ -21,10 +44,10 @@
       "viewCount": "1106万",
       "likeCount": "1.7万",
       "commentCount": "2128",
-      "increment_d1": "207"
+      "increment_d1": "283"
     },
     {
-      "rank": 3052,
+      "rank": 3053,
       "thumb": {
         "img": "https://i.ytimg.com/vi/JPFrJC5uywQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=JPFrJC5uywQ",
@@ -44,30 +67,7 @@
       "viewCount": "1106万",
       "likeCount": "5.4万",
       "commentCount": "2871",
-      "increment_d1": "85"
-    },
-    {
-      "rank": 3053,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/CSgG6wPB0Kw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=CSgG6wPB0Kw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ラブレター",
-        "url": "https://www.youtube.com/watch?v=CSgG6wPB0Kw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-30",
-      "viewCount": "1106万",
-      "likeCount": "4.6万",
-      "commentCount": "100",
-      "increment_d1": "5762"
+      "increment_d1": "99"
     },
     {
       "rank": 3054,
@@ -89,8 +89,8 @@
       "publishedAt": "2021-08-01",
       "viewCount": "1106万",
       "likeCount": "-",
-      "commentCount": "3999",
-      "increment_d1": "2444"
+      "commentCount": "4000",
+      "increment_d1": "2576"
     },
     {
       "rank": 3055,
@@ -113,7 +113,7 @@
       "viewCount": "1105万",
       "likeCount": "10.4万",
       "commentCount": "1471",
-      "increment_d1": "2956"
+      "increment_d1": "3001"
     },
     {
       "rank": 3056,
@@ -136,33 +136,10 @@
       "viewCount": "1105万",
       "likeCount": "4.2万",
       "commentCount": "2306",
-      "increment_d1": "1681"
+      "increment_d1": "1617"
     },
     {
       "rank": 3057,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/H3RBn3MG8ms/default.jpg",
-        "url": "https://www.youtube.com/watch?v=H3RBn3MG8ms",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[Official Music Video] Perfume「GLITTER」",
-        "url": "https://www.youtube.com/watch?v=H3RBn3MG8ms",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Perfume",
-        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-06-18",
-      "viewCount": "1105万",
-      "likeCount": "3.9万",
-      "commentCount": "1757",
-      "increment_d1": "792"
-    },
-    {
-      "rank": 3058,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Sfz5TpCRSiI/default.jpg",
         "url": "https://www.youtube.com/watch?v=Sfz5TpCRSiI",
@@ -182,7 +159,30 @@
       "viewCount": "1105万",
       "likeCount": "14.6万",
       "commentCount": "3755",
-      "increment_d1": "2652"
+      "increment_d1": "2833"
+    },
+    {
+      "rank": 3058,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/H3RBn3MG8ms/default.jpg",
+        "url": "https://www.youtube.com/watch?v=H3RBn3MG8ms",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[Official Music Video] Perfume「GLITTER」",
+        "url": "https://www.youtube.com/watch?v=H3RBn3MG8ms",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Perfume",
+        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-06-18",
+      "viewCount": "1105万",
+      "likeCount": "3.9万",
+      "commentCount": "1757",
+      "increment_d1": "675"
     },
     {
       "rank": 3059,
@@ -205,7 +205,7 @@
       "viewCount": "1104万",
       "likeCount": "-",
       "commentCount": "6895",
-      "increment_d1": "1553"
+      "increment_d1": "1879"
     },
     {
       "rank": 3060,
@@ -225,10 +225,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-13",
-      "viewCount": "1103万",
+      "viewCount": "1104万",
       "likeCount": "-",
-      "commentCount": "6690",
-      "increment_d1": "874"
+      "commentCount": "6692",
+      "increment_d1": "798"
     },
     {
       "rank": 3061,
@@ -251,7 +251,7 @@
       "viewCount": "1103万",
       "likeCount": "-",
       "commentCount": "1.7万",
-      "increment_d1": "557"
+      "increment_d1": "763"
     },
     {
       "rank": 3062,
@@ -274,7 +274,7 @@
       "viewCount": "1103万",
       "likeCount": "23.7万",
       "commentCount": "3264",
-      "increment_d1": "2491"
+      "increment_d1": "2381"
     },
     {
       "rank": 3063,
@@ -297,7 +297,7 @@
       "viewCount": "1102万",
       "likeCount": "5.8万",
       "commentCount": "1249",
-      "increment_d1": "2035"
+      "increment_d1": "2065"
     },
     {
       "rank": 3064,
@@ -317,10 +317,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-28",
-      "viewCount": "1101万",
+      "viewCount": "1102万",
       "likeCount": "5.8万",
       "commentCount": "1170",
-      "increment_d1": "2325"
+      "increment_d1": "2358"
     },
     {
       "rank": 3065,
@@ -343,7 +343,7 @@
       "viewCount": "1101万",
       "likeCount": "3.8万",
       "commentCount": "671",
-      "increment_d1": "415"
+      "increment_d1": "353"
     },
     {
       "rank": 3066,
@@ -366,7 +366,7 @@
       "viewCount": "1101万",
       "likeCount": "17.2万",
       "commentCount": "2969",
-      "increment_d1": "1956"
+      "increment_d1": "2086"
     },
     {
       "rank": 3067,
@@ -388,8 +388,8 @@
       "publishedAt": "2020-08-27",
       "viewCount": "1101万",
       "likeCount": "9.2万",
-      "commentCount": "2684",
-      "increment_d1": "399"
+      "commentCount": "2683",
+      "increment_d1": "448"
     },
     {
       "rank": 3068,
@@ -412,7 +412,7 @@
       "viewCount": "1100万",
       "likeCount": "7.4万",
       "commentCount": "1383",
-      "increment_d1": "807"
+      "increment_d1": "747"
     },
     {
       "rank": 3069,
@@ -435,7 +435,7 @@
       "viewCount": "1100万",
       "likeCount": "2.6万",
       "commentCount": "735",
-      "increment_d1": "780"
+      "increment_d1": "750"
     },
     {
       "rank": 3070,
@@ -458,7 +458,7 @@
       "viewCount": "1099万",
       "likeCount": "4万",
       "commentCount": "2009",
-      "increment_d1": "2287"
+      "increment_d1": "2225"
     },
     {
       "rank": 3071,
@@ -481,7 +481,7 @@
       "viewCount": "1098万",
       "likeCount": "2.7万",
       "commentCount": "1198",
-      "increment_d1": "271"
+      "increment_d1": "233"
     },
     {
       "rank": 3072,
@@ -504,7 +504,7 @@
       "viewCount": "1098万",
       "likeCount": "4.6万",
       "commentCount": "2356",
-      "increment_d1": "198"
+      "increment_d1": "186"
     },
     {
       "rank": 3073,
@@ -527,7 +527,7 @@
       "viewCount": "1098万",
       "likeCount": "1.9万",
       "commentCount": "1063",
-      "increment_d1": "118"
+      "increment_d1": "145"
     },
     {
       "rank": 3074,
@@ -547,36 +547,13 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-29",
-      "viewCount": "1097万",
+      "viewCount": "1098万",
       "likeCount": "-",
       "commentCount": "4310",
-      "increment_d1": "3870"
+      "increment_d1": "3743"
     },
     {
       "rank": 3075,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/lBmH1VsdD80/default.jpg",
-        "url": "https://www.youtube.com/watch?v=lBmH1VsdD80",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ばーか。/あれくん【Official Music Video】",
-        "url": "https://www.youtube.com/watch?v=lBmH1VsdD80",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "あれくん ",
-        "url": "https://www.youtube.com/channel/UCPkhvJShYNk2dJoIcne66BQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-08-04",
-      "viewCount": "1097万",
-      "likeCount": "14.8万",
-      "commentCount": "3286",
-      "increment_d1": "221"
-    },
-    {
-      "rank": 3076,
       "thumb": {
         "img": "https://i.ytimg.com/vi/n7H4p0ArZUU/default.jpg",
         "url": "https://www.youtube.com/watch?v=n7H4p0ArZUU",
@@ -596,7 +573,30 @@
       "viewCount": "1097万",
       "likeCount": "3.6万",
       "commentCount": "1742",
-      "increment_d1": "2095"
+      "increment_d1": "1862"
+    },
+    {
+      "rank": 3076,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/lBmH1VsdD80/default.jpg",
+        "url": "https://www.youtube.com/watch?v=lBmH1VsdD80",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ばーか。/あれくん【Official Music Video】",
+        "url": "https://www.youtube.com/watch?v=lBmH1VsdD80",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "あれくん ",
+        "url": "https://www.youtube.com/channel/UCPkhvJShYNk2dJoIcne66BQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-08-04",
+      "viewCount": "1097万",
+      "likeCount": "14.8万",
+      "commentCount": "3287",
+      "increment_d1": "275"
     },
     {
       "rank": 3077,
@@ -619,7 +619,7 @@
       "viewCount": "1097万",
       "likeCount": "2.5万",
       "commentCount": "1591",
-      "increment_d1": "918"
+      "increment_d1": "959"
     },
     {
       "rank": 3078,
@@ -641,8 +641,8 @@
       "publishedAt": "2008-12-08",
       "viewCount": "1097万",
       "likeCount": "3.2万",
-      "commentCount": "1178",
-      "increment_d1": "1999"
+      "commentCount": "1180",
+      "increment_d1": "1828"
     },
     {
       "rank": 3079,
@@ -665,7 +665,7 @@
       "viewCount": "1096万",
       "likeCount": "2.7万",
       "commentCount": "1241",
-      "increment_d1": "84"
+      "increment_d1": "133"
     },
     {
       "rank": 3080,
@@ -688,10 +688,33 @@
       "viewCount": "1096万",
       "likeCount": "2.6万",
       "commentCount": "1532",
-      "increment_d1": "523"
+      "increment_d1": "575"
     },
     {
       "rank": 3081,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Ueibw7AdCmI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Ueibw7AdCmI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "モモタロス ウラタロス キンタロス リュウタロス(CV.関 俊彦･遊佐浩二･てらそままさき･鈴村健一) / Climax Jump DEN-LINER form",
+        "url": "https://www.youtube.com/watch?v=Ueibw7AdCmI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-04-23",
+      "viewCount": "1096万",
+      "likeCount": "16.6万",
+      "commentCount": "7142",
+      "increment_d1": "5376"
+    },
+    {
+      "rank": 3082,
       "thumb": {
         "img": "https://i.ytimg.com/vi/li2FgMhPbug/default.jpg",
         "url": "https://www.youtube.com/watch?v=li2FgMhPbug",
@@ -711,33 +734,33 @@
       "viewCount": "1095万",
       "likeCount": "18万",
       "commentCount": "1805",
-      "increment_d1": "1401"
-    },
-    {
-      "rank": 3082,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Ueibw7AdCmI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Ueibw7AdCmI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "モモタロス ウラタロス キンタロス リュウタロス(CV.関 俊彦･遊佐浩二･てらそままさき･鈴村健一) / Climax Jump DEN-LINER form",
-        "url": "https://www.youtube.com/watch?v=Ueibw7AdCmI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-04-23",
-      "viewCount": "1095万",
-      "likeCount": "16.6万",
-      "commentCount": "7143",
-      "increment_d1": "5268"
+      "increment_d1": "1491"
     },
     {
       "rank": 3083,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/IqKqNcW2-b4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=IqKqNcW2-b4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "いきものがかり 『ホタルノヒカリ』Music Video",
+        "url": "https://www.youtube.com/watch?v=IqKqNcW2-b4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "いきものがかり",
+        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-08-22",
+      "viewCount": "1095万",
+      "likeCount": "13.6万",
+      "commentCount": "2478",
+      "increment_d1": "6820"
+    },
+    {
+      "rank": 3084,
       "thumb": {
         "img": "https://i.ytimg.com/vi/xe99GcLbV_0/default.jpg",
         "url": "https://www.youtube.com/watch?v=xe99GcLbV_0",
@@ -754,13 +777,13 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-06",
-      "viewCount": "1094万",
+      "viewCount": "1095万",
       "likeCount": "-",
-      "commentCount": "4021",
-      "increment_d1": "1217"
+      "commentCount": "4023",
+      "increment_d1": "1349"
     },
     {
-      "rank": 3084,
+      "rank": 3085,
       "thumb": {
         "img": "https://i.ytimg.com/vi/2RurdeLSV_E/default.jpg",
         "url": "https://www.youtube.com/watch?v=2RurdeLSV_E",
@@ -780,56 +803,10 @@
       "viewCount": "1094万",
       "likeCount": "3.6万",
       "commentCount": "1158",
-      "increment_d1": "780"
-    },
-    {
-      "rank": 3085,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ctQOziJeYoA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ctQOziJeYoA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "絢香 / 「 にじいろ」（NHK朝の連続テレビ小説「花子とアン」主題歌）Music Video(Short Ver.)",
-        "url": "https://www.youtube.com/watch?v=ctQOziJeYoA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ayakamv",
-        "url": "https://www.youtube.com/channel/UC1NtXVnJ-VffY4fCmI2tLxw",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-06-18",
-      "viewCount": "1094万",
-      "likeCount": "3万",
-      "commentCount": "692",
-      "increment_d1": "543"
+      "increment_d1": "787"
     },
     {
       "rank": 3086,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/IqKqNcW2-b4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=IqKqNcW2-b4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "いきものがかり 『ホタルノヒカリ』Music Video",
-        "url": "https://www.youtube.com/watch?v=IqKqNcW2-b4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "いきものがかり",
-        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-08-22",
-      "viewCount": "1094万",
-      "likeCount": "13.6万",
-      "commentCount": "2478",
-      "increment_d1": "6554"
-    },
-    {
-      "rank": 3087,
       "thumb": {
         "img": "https://i.ytimg.com/vi/s-WwbFyD98w/default.jpg",
         "url": "https://www.youtube.com/watch?v=s-WwbFyD98w",
@@ -849,7 +826,30 @@
       "viewCount": "1094万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "1074"
+      "increment_d1": "1105"
+    },
+    {
+      "rank": 3087,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ctQOziJeYoA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ctQOziJeYoA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "絢香 / 「 にじいろ」（NHK朝の連続テレビ小説「花子とアン」主題歌）Music Video(Short Ver.)",
+        "url": "https://www.youtube.com/watch?v=ctQOziJeYoA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ayakamv",
+        "url": "https://www.youtube.com/channel/UC1NtXVnJ-VffY4fCmI2tLxw",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-06-18",
+      "viewCount": "1094万",
+      "likeCount": "3万",
+      "commentCount": "692",
+      "increment_d1": "531"
     },
     {
       "rank": 3088,
@@ -872,7 +872,7 @@
       "viewCount": "1094万",
       "likeCount": "-",
       "commentCount": "7941",
-      "increment_d1": "2080"
+      "increment_d1": "1933"
     },
     {
       "rank": 3089,
@@ -894,8 +894,8 @@
       "publishedAt": "2009-08-10",
       "viewCount": "1094万",
       "likeCount": "2.4万",
-      "commentCount": "1246",
-      "increment_d1": "248"
+      "commentCount": "1247",
+      "increment_d1": "262"
     },
     {
       "rank": 3090,
@@ -915,10 +915,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-03-11",
-      "viewCount": "1093万",
+      "viewCount": "1094万",
       "likeCount": "8.1万",
       "commentCount": "2848",
-      "increment_d1": "2273"
+      "increment_d1": "2393"
     },
     {
       "rank": 3091,
@@ -941,7 +941,7 @@
       "viewCount": "1093万",
       "likeCount": "4.6万",
       "commentCount": "1998",
-      "increment_d1": "507"
+      "increment_d1": "393"
     },
     {
       "rank": 3092,
@@ -964,7 +964,7 @@
       "viewCount": "1092万",
       "likeCount": "7.7万",
       "commentCount": "2306",
-      "increment_d1": "594"
+      "increment_d1": "636"
     },
     {
       "rank": 3093,
@@ -987,10 +987,33 @@
       "viewCount": "1092万",
       "likeCount": "7.4万",
       "commentCount": "34",
-      "increment_d1": "476"
+      "increment_d1": "503"
     },
     {
       "rank": 3094,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/M3J1KRD1H1Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=M3J1KRD1H1Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Aimer「季路」MUSIC VIDEO（『魔道祖師』前塵編 SPECIAL EDIT）",
+        "url": "https://www.youtube.com/watch?v=M3J1KRD1H1Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Aimer Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCR1zT1s524Hbc85bdvno_8w",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-01-24",
+      "viewCount": "1091万",
+      "likeCount": "8.6万",
+      "commentCount": "2218",
+      "increment_d1": "1758"
+    },
+    {
+      "rank": 3095,
       "thumb": {
         "img": "https://i.ytimg.com/vi/KUoy582ePlQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=KUoy582ePlQ",
@@ -1010,30 +1033,7 @@
       "viewCount": "1091万",
       "likeCount": "1.8万",
       "commentCount": "1817",
-      "increment_d1": "342"
-    },
-    {
-      "rank": 3095,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/M3J1KRD1H1Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=M3J1KRD1H1Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Aimer「季路」MUSIC VIDEO（『魔道祖師』前塵編 SPECIAL EDIT）",
-        "url": "https://www.youtube.com/watch?v=M3J1KRD1H1Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Aimer Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCR1zT1s524Hbc85bdvno_8w",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-01-24",
-      "viewCount": "1091万",
-      "likeCount": "8.6万",
-      "commentCount": "2217",
-      "increment_d1": "1608"
+      "increment_d1": "274"
     },
     {
       "rank": 3096,
@@ -1056,10 +1056,33 @@
       "viewCount": "1090万",
       "likeCount": "8.8万",
       "commentCount": "168",
-      "increment_d1": "913"
+      "increment_d1": "974"
     },
     {
       "rank": 3097,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/o-JkzX3gJNM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=o-JkzX3gJNM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE「Hug」Official Lyric Video",
+        "url": "https://www.youtube.com/watch?v=o-JkzX3gJNM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-07-07",
+      "viewCount": "1090万",
+      "likeCount": "11.2万",
+      "commentCount": "3163",
+      "increment_d1": "1.05万"
+    },
+    {
+      "rank": 3098,
       "thumb": {
         "img": "https://i.ytimg.com/vi/pRlzN2I9Knw/default.jpg",
         "url": "https://www.youtube.com/watch?v=pRlzN2I9Knw",
@@ -1079,30 +1102,7 @@
       "viewCount": "1090万",
       "likeCount": "14.1万",
       "commentCount": "1748",
-      "increment_d1": "3124"
-    },
-    {
-      "rank": 3098,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/o-JkzX3gJNM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=o-JkzX3gJNM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE「Hug」Official Lyric Video",
-        "url": "https://www.youtube.com/watch?v=o-JkzX3gJNM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-07-07",
-      "viewCount": "1089万",
-      "likeCount": "11.2万",
-      "commentCount": "3164",
-      "increment_d1": "9977"
+      "increment_d1": "3010"
     },
     {
       "rank": 3099,
@@ -1125,7 +1125,7 @@
       "viewCount": "1089万",
       "likeCount": "23万",
       "commentCount": "1.9万",
-      "increment_d1": "360"
+      "increment_d1": "346"
     },
     {
       "rank": 3100,
@@ -1148,7 +1148,7 @@
       "viewCount": "1088万",
       "likeCount": "3.3万",
       "commentCount": "1972",
-      "increment_d1": "2571"
+      "increment_d1": "2611"
     }
   ]
 }

@@ -1,29 +1,7 @@
 {
   "rows": [
     {
-      "rank": 1501,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/UYXNA54dDKs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=UYXNA54dDKs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "シャ乱Q「シングルベッド」(MV)",
-        "url": "https://www.youtube.com/watch?v=UYXNA54dDKs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アップフロントチャンネル",
-        "url": "https://www.youtube.com/channel/UCjXGuJZhvCwBSl7dwUJDJdg",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-07-29",
-      "viewCount": "7087万",
-      "likeCount": "16.5万",
-      "commentCount": "6056"
-    },
-    {
-      "rank": 1501,
+      "rank": 1500,
       "thumb": {
         "img": "https://i.ytimg.com/vi/YQSS7SgGia8/default.jpg",
         "url": "https://www.youtube.com/watch?v=YQSS7SgGia8",
@@ -40,9 +18,31 @@
         "target": "_blank"
       },
       "publishedAt": "2011-05-30",
-      "viewCount": "6468万",
+      "viewCount": "6469万",
       "likeCount": "16.3万",
-      "commentCount": "6056"
+      "commentCount": "6060"
+    },
+    {
+      "rank": 1502,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/UYXNA54dDKs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=UYXNA54dDKs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "シャ乱Q「シングルベッド」(MV)",
+        "url": "https://www.youtube.com/watch?v=UYXNA54dDKs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "アップフロントチャンネル",
+        "url": "https://www.youtube.com/channel/UCjXGuJZhvCwBSl7dwUJDJdg",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-07-29",
+      "viewCount": "7089万",
+      "likeCount": "16.5万",
+      "commentCount": "6057"
     },
     {
       "rank": 1503,
@@ -62,7 +62,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-09-09",
-      "viewCount": "2763万",
+      "viewCount": "2764万",
       "likeCount": "10.8万",
       "commentCount": "6049"
     },
@@ -91,6 +91,28 @@
     {
       "rank": 1505,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/1DPldNasDgY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1DPldNasDgY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "back number - 怪盗",
+        "url": "https://www.youtube.com/watch?v=1DPldNasDgY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "back number",
+        "url": "https://www.youtube.com/channel/UCgipy6-EqjT-1BCDndXX1PA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-05-24",
+      "viewCount": "5087万",
+      "likeCount": "24.9万",
+      "commentCount": "6041"
+    },
+    {
+      "rank": 1506,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/HGJiSZW2PNY/default.jpg",
         "url": "https://www.youtube.com/watch?v=HGJiSZW2PNY",
         "target": "_blank"
@@ -111,29 +133,7 @@
       "commentCount": "6040"
     },
     {
-      "rank": 1505,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1DPldNasDgY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1DPldNasDgY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "back number - 怪盗",
-        "url": "https://www.youtube.com/watch?v=1DPldNasDgY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "back number",
-        "url": "https://www.youtube.com/channel/UCgipy6-EqjT-1BCDndXX1PA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-05-24",
-      "viewCount": "5086万",
-      "likeCount": "24.8万",
-      "commentCount": "6040"
-    },
-    {
-      "rank": 1505,
+      "rank": 1506,
       "thumb": {
         "img": "https://i.ytimg.com/vi/eWnLRboP6LI/default.jpg",
         "url": "https://www.youtube.com/watch?v=eWnLRboP6LI",
@@ -172,9 +172,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-23",
-      "viewCount": "2070万",
+      "viewCount": "2072万",
       "likeCount": "24.2万",
-      "commentCount": "6037"
+      "commentCount": "6039"
     },
     {
       "rank": 1509,
@@ -196,7 +196,7 @@
       "publishedAt": "2015-08-12",
       "viewCount": "4652万",
       "likeCount": "20.5万",
-      "commentCount": "6033"
+      "commentCount": "6034"
     },
     {
       "rank": 1510,
@@ -218,7 +218,7 @@
       "publishedAt": "2016-05-02",
       "viewCount": "1765万",
       "likeCount": "7.2万",
-      "commentCount": "6029"
+      "commentCount": "6030"
     },
     {
       "rank": 1511,
@@ -284,7 +284,7 @@
       "publishedAt": "2020-01-17",
       "viewCount": "1390万",
       "likeCount": "31.9万",
-      "commentCount": "6017"
+      "commentCount": "6016"
     },
     {
       "rank": 1514,
@@ -311,6 +311,28 @@
     {
       "rank": 1515,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/i1wofkI11g8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=i1wofkI11g8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – ケセラセラ(第65回 輝く！日本レコード大賞受賞曲)【LIVE from “Atlantis”】",
+        "url": "https://www.youtube.com/watch?v=i1wofkI11g8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-12-27",
+      "viewCount": "5009万",
+      "likeCount": "18.1万",
+      "commentCount": "6009"
+    },
+    {
+      "rank": 1516,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/o_guxQisTBs/default.jpg",
         "url": "https://www.youtube.com/watch?v=o_guxQisTBs",
         "target": "_blank"
@@ -331,7 +353,7 @@
       "commentCount": "6001"
     },
     {
-      "rank": 1516,
+      "rank": 1517,
       "thumb": {
         "img": "https://i.ytimg.com/vi/6euDFWUngQ0/default.jpg",
         "url": "https://www.youtube.com/watch?v=6euDFWUngQ0",
@@ -351,28 +373,6 @@
       "viewCount": "1202万",
       "likeCount": "-",
       "commentCount": "5996"
-    },
-    {
-      "rank": 1517,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/i1wofkI11g8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=i1wofkI11g8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – ケセラセラ(第65回 輝く！日本レコード大賞受賞曲)【LIVE from “Atlantis”】",
-        "url": "https://www.youtube.com/watch?v=i1wofkI11g8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-12-27",
-      "viewCount": "5005万",
-      "likeCount": "18.1万",
-      "commentCount": "5991"
     },
     {
       "rank": 1518,
@@ -399,6 +399,28 @@
     {
       "rank": 1519,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/NLIGDjKBLY0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=NLIGDjKBLY0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "アイナ・ジ・エンド / 革命道中 - On The Way [Official Music Video]（TVアニメ『ダンダダン』第2期オープニングテーマ）",
+        "url": "https://www.youtube.com/watch?v=NLIGDjKBLY0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "アイナ・ジ・エンド Official",
+        "url": "https://www.youtube.com/channel/UCFPb0Vc0Cjd3MpDOlHPQoPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-07-03",
+      "viewCount": "3315万",
+      "likeCount": "40.1万",
+      "commentCount": "5986"
+    },
+    {
+      "rank": 1520,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/pVp-m5HJvgU/default.jpg",
         "url": "https://www.youtube.com/watch?v=pVp-m5HJvgU",
         "target": "_blank"
@@ -419,50 +441,6 @@
       "commentCount": "5983"
     },
     {
-      "rank": 1520,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/NLIGDjKBLY0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=NLIGDjKBLY0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "アイナ・ジ・エンド / 革命道中 - On The Way [Official Music Video]（TVアニメ『ダンダダン』第2期オープニングテーマ）",
-        "url": "https://www.youtube.com/watch?v=NLIGDjKBLY0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アイナ・ジ・エンド Official",
-        "url": "https://www.youtube.com/channel/UCFPb0Vc0Cjd3MpDOlHPQoPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-07-03",
-      "viewCount": "3301万",
-      "likeCount": "40万",
-      "commentCount": "5977"
-    },
-    {
-      "rank": 1521,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/E-T1gEeUqwA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=E-T1gEeUqwA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "IZ*ONE (아이즈원) - '라비앙로즈 (La Vie en Rose)' MV Performance Ver",
-        "url": "https://www.youtube.com/watch?v=E-T1gEeUqwA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "official IZ*ONE",
-        "url": "https://www.youtube.com/channel/UCe_oTYByLWQYCUmgmOMU_xw",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-11-08",
-      "viewCount": "3717万",
-      "likeCount": "36.4万",
-      "commentCount": "5964"
-    },
-    {
       "rank": 1521,
       "thumb": {
         "img": "https://i.ytimg.com/vi/43D_nBGfuGY/default.jpg",
@@ -480,9 +458,31 @@
         "target": "_blank"
       },
       "publishedAt": "2013-06-04",
-      "viewCount": "8619万",
+      "viewCount": "8620万",
       "likeCount": "14.4万",
-      "commentCount": "5964"
+      "commentCount": "5965"
+    },
+    {
+      "rank": 1522,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/E-T1gEeUqwA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=E-T1gEeUqwA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "IZ*ONE (아이즈원) - '라비앙로즈 (La Vie en Rose)' MV Performance Ver",
+        "url": "https://www.youtube.com/watch?v=E-T1gEeUqwA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "official IZ*ONE",
+        "url": "https://www.youtube.com/channel/UCe_oTYByLWQYCUmgmOMU_xw",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-11-08",
+      "viewCount": "3719万",
+      "likeCount": "36.5万",
+      "commentCount": "5963"
     },
     {
       "rank": 1523,
@@ -524,9 +524,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-05-11",
-      "viewCount": "3536万",
+      "viewCount": "3538万",
       "likeCount": "23.3万",
-      "commentCount": "5952"
+      "commentCount": "5955"
     },
     {
       "rank": 1525,
@@ -553,6 +553,28 @@
     {
       "rank": 1526,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/WNcNOaUWRaU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=WNcNOaUWRaU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – 私は最強【LIVE “ゼンジン未到とリライアンス〜復誦編〜”】",
+        "url": "https://www.youtube.com/watch?v=WNcNOaUWRaU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-02-18",
+      "viewCount": "6597万",
+      "likeCount": "24.9万",
+      "commentCount": "5936"
+    },
+    {
+      "rank": 1526,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/yc6SdtjIYCE/default.jpg",
         "url": "https://www.youtube.com/watch?v=yc6SdtjIYCE",
         "target": "_blank"
@@ -570,29 +592,7 @@
       "publishedAt": "2022-05-03",
       "viewCount": "1690万",
       "likeCount": "-",
-      "commentCount": "5937"
-    },
-    {
-      "rank": 1527,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/WNcNOaUWRaU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=WNcNOaUWRaU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – 私は最強【LIVE “ゼンジン未到とリライアンス〜復誦編〜”】",
-        "url": "https://www.youtube.com/watch?v=WNcNOaUWRaU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-02-18",
-      "viewCount": "6593万",
-      "likeCount": "24.9万",
-      "commentCount": "5935"
+      "commentCount": "5936"
     },
     {
       "rank": 1528,
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-28",
-      "viewCount": "1526万",
+      "viewCount": "1527万",
       "likeCount": "21.8万",
       "commentCount": "5916"
     },
@@ -680,7 +680,7 @@
       "publishedAt": "2019-06-05",
       "viewCount": "2090万",
       "likeCount": "21.8万",
-      "commentCount": "5915"
+      "commentCount": "5914"
     },
     {
       "rank": 1532,
@@ -724,7 +724,7 @@
       "publishedAt": "2019-09-19",
       "viewCount": "4855万",
       "likeCount": "18.9万",
-      "commentCount": "5906"
+      "commentCount": "5908"
     },
     {
       "rank": 1534,
@@ -773,6 +773,50 @@
     {
       "rank": 1536,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/atJbRXERvH8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=atJbRXERvH8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – ア・プリオリ【LIVE from “Harmony”】",
+        "url": "https://www.youtube.com/watch?v=atJbRXERvH8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-02-17",
+      "viewCount": "1450万",
+      "likeCount": "15.4万",
+      "commentCount": "5886"
+    },
+    {
+      "rank": 1537,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/iuCCRGEJX4Y/default.jpg",
+        "url": "https://www.youtube.com/watch?v=iuCCRGEJX4Y",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "一世風靡セピア「前略、道の上より」【Official】",
+        "url": "https://www.youtube.com/watch?v=iuCCRGEJX4Y",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "TOKUMAJAPAN",
+        "url": "https://www.youtube.com/channel/UCAtDg_mnvPE7BLkCTuce47g",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-10-06",
+      "viewCount": "1872万",
+      "likeCount": "8万",
+      "commentCount": "5877"
+    },
+    {
+      "rank": 1537,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/F32epua9VQs/default.jpg",
         "url": "https://www.youtube.com/watch?v=F32epua9VQs",
         "target": "_blank"
@@ -793,7 +837,7 @@
       "commentCount": "5877"
     },
     {
-      "rank": 1537,
+      "rank": 1539,
       "thumb": {
         "img": "https://i.ytimg.com/vi/_kZnvhKNY_E/default.jpg",
         "url": "https://www.youtube.com/watch?v=_kZnvhKNY_E",
@@ -813,50 +857,6 @@
       "viewCount": "1214万",
       "likeCount": "12万",
       "commentCount": "5875"
-    },
-    {
-      "rank": 1537,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/atJbRXERvH8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=atJbRXERvH8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – ア・プリオリ【LIVE from “Harmony”】",
-        "url": "https://www.youtube.com/watch?v=atJbRXERvH8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-02-17",
-      "viewCount": "1446万",
-      "likeCount": "15.4万",
-      "commentCount": "5875"
-    },
-    {
-      "rank": 1539,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/iuCCRGEJX4Y/default.jpg",
-        "url": "https://www.youtube.com/watch?v=iuCCRGEJX4Y",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "一世風靡セピア「前略、道の上より」【Official】",
-        "url": "https://www.youtube.com/watch?v=iuCCRGEJX4Y",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "TOKUMAJAPAN",
-        "url": "https://www.youtube.com/channel/UCAtDg_mnvPE7BLkCTuce47g",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-10-06",
-      "viewCount": "1871万",
-      "likeCount": "8万",
-      "commentCount": "5873"
     },
     {
       "rank": 1540,
@@ -898,9 +898,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-09-26",
-      "viewCount": "2億4921万",
+      "viewCount": "2億4928万",
       "likeCount": "106万",
-      "commentCount": "5855"
+      "commentCount": "5862"
     },
     {
       "rank": 1542,
@@ -920,31 +920,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-18",
-      "viewCount": "2755万",
+      "viewCount": "2759万",
       "likeCount": "26.3万",
-      "commentCount": "5851"
-    },
-    {
-      "rank": 1543,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/9UQQwRcHHQY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=9UQQwRcHHQY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – 点描の唄【LIVE from ゼンジン未到とヴェルトラウム〜銘銘編〜】",
-        "url": "https://www.youtube.com/watch?v=9UQQwRcHHQY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-08-06",
-      "viewCount": "3522万",
-      "likeCount": "17.8万",
-      "commentCount": "5836"
+      "commentCount": "5854"
     },
     {
       "rank": 1543,
@@ -964,9 +942,31 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-19",
-      "viewCount": "2312万",
+      "viewCount": "2314万",
       "likeCount": "27万",
-      "commentCount": "5836"
+      "commentCount": "5841"
+    },
+    {
+      "rank": 1544,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/9UQQwRcHHQY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=9UQQwRcHHQY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – 点描の唄【LIVE from ゼンジン未到とヴェルトラウム〜銘銘編〜】",
+        "url": "https://www.youtube.com/watch?v=9UQQwRcHHQY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-08-06",
+      "viewCount": "3526万",
+      "likeCount": "17.8万",
+      "commentCount": "5837"
     },
     {
       "rank": 1545,
@@ -986,12 +986,34 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-05",
-      "viewCount": "3588万",
+      "viewCount": "3589万",
       "likeCount": "18.7万",
-      "commentCount": "5833"
+      "commentCount": "5834"
     },
     {
       "rank": 1546,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/VDdLF1YubI0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=VDdLF1YubI0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "なとり - プロポーズ",
+        "url": "https://www.youtube.com/watch?v=VDdLF1YubI0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "なとり / natori",
+        "url": "https://www.youtube.com/channel/UCC0zLuvujaZRFqR3aNql3Sg",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-06-06",
+      "viewCount": "3920万",
+      "likeCount": "45万",
+      "commentCount": "5830"
+    },
+    {
+      "rank": 1547,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Qj0Dmwxv-KY/default.jpg",
         "url": "https://www.youtube.com/watch?v=Qj0Dmwxv-KY",
@@ -1010,10 +1032,10 @@
       "publishedAt": "2017-04-27",
       "viewCount": "1028万",
       "likeCount": "9.5万",
-      "commentCount": "5826"
+      "commentCount": "5827"
     },
     {
-      "rank": 1547,
+      "rank": 1548,
       "thumb": {
         "img": "https://i.ytimg.com/vi/uOtJRjRFF6o/default.jpg",
         "url": "https://www.youtube.com/watch?v=uOtJRjRFF6o",
@@ -1035,7 +1057,7 @@
       "commentCount": "5821"
     },
     {
-      "rank": 1548,
+      "rank": 1549,
       "thumb": {
         "img": "https://i.ytimg.com/vi/2ukU1meKcD0/default.jpg",
         "url": "https://www.youtube.com/watch?v=2ukU1meKcD0",
@@ -1057,28 +1079,6 @@
       "commentCount": "5816"
     },
     {
-      "rank": 1549,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/VDdLF1YubI0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=VDdLF1YubI0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "なとり - プロポーズ",
-        "url": "https://www.youtube.com/watch?v=VDdLF1YubI0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "なとり / natori",
-        "url": "https://www.youtube.com/channel/UCC0zLuvujaZRFqR3aNql3Sg",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-06-06",
-      "viewCount": "3888万",
-      "likeCount": "44.8万",
-      "commentCount": "5814"
-    },
-    {
       "rank": 1550,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ewhRE-BvJCg/default.jpg",
@@ -1096,9 +1096,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-02-24",
-      "viewCount": "5411万",
+      "viewCount": "5412万",
       "likeCount": "23.7万",
-      "commentCount": "5807"
+      "commentCount": "5811"
     }
   ]
 }
