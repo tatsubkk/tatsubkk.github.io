@@ -128,7 +128,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-06-01",
-      "viewCount": "1186万",
+      "viewCount": "1187万",
       "likeCount": "13.9万",
       "commentCount": "1015"
     },
@@ -304,9 +304,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-05",
-      "viewCount": "1294万",
+      "viewCount": "1295万",
       "likeCount": "3.4万",
-      "commentCount": "974"
+      "commentCount": "975"
     },
     {
       "rank": 2965,
@@ -326,7 +326,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-01-23",
-      "viewCount": "1774万",
+      "viewCount": "1776万",
       "likeCount": "9.1万",
       "commentCount": "969"
     },
@@ -394,7 +394,7 @@
       "publishedAt": "2022-10-03",
       "viewCount": "1130万",
       "likeCount": "3.4万",
-      "commentCount": "937"
+      "commentCount": "938"
     },
     {
       "rank": 2969,
@@ -421,28 +421,6 @@
     {
       "rank": 2970,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/XpkIUCuSiQQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=XpkIUCuSiQQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "JUJU　『素直になれたら feat. Spontania』",
-        "url": "https://www.youtube.com/watch?v=XpkIUCuSiQQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "JUJU Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UC6XufPOPYUXtBKJCFgkPkVA",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-11-07",
-      "viewCount": "1162万",
-      "likeCount": "3.5万",
-      "commentCount": "928"
-    },
-    {
-      "rank": 2970,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/r8yTsDQCfR0/default.jpg",
         "url": "https://www.youtube.com/watch?v=r8yTsDQCfR0",
         "target": "_blank"
@@ -458,8 +436,30 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-25",
-      "viewCount": "1300万",
+      "viewCount": "1301万",
       "likeCount": "-",
+      "commentCount": "928"
+    },
+    {
+      "rank": 2970,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/XpkIUCuSiQQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=XpkIUCuSiQQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "JUJU　『素直になれたら feat. Spontania』",
+        "url": "https://www.youtube.com/watch?v=XpkIUCuSiQQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "JUJU Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UC6XufPOPYUXtBKJCFgkPkVA",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-11-07",
+      "viewCount": "1163万",
+      "likeCount": "3.5万",
       "commentCount": "928"
     },
     {
@@ -502,7 +502,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-03-24",
-      "viewCount": "1218万",
+      "viewCount": "1219万",
       "likeCount": "3万",
       "commentCount": "926"
     },
@@ -678,7 +678,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-10-10",
-      "viewCount": "1722万",
+      "viewCount": "1723万",
       "likeCount": "12.5万",
       "commentCount": "896"
     },
@@ -790,29 +790,7 @@
       "publishedAt": "2013-05-27",
       "viewCount": "1081万",
       "likeCount": "3.9万",
-      "commentCount": "864"
-    },
-    {
-      "rank": 2987,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/gErh5d3gpVk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=gErh5d3gpVk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "UVERworld　『Colors of the Heart』",
-        "url": "https://www.youtube.com/watch?v=gErh5d3gpVk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "UVERworld Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCnziFQs4Ihms4UtxmVZP6cg",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-04-11",
-      "viewCount": "1119万",
-      "likeCount": "3.7万",
-      "commentCount": "845"
+      "commentCount": "865"
     },
     {
       "rank": 2987,
@@ -834,6 +812,28 @@
       "publishedAt": "2020-11-10",
       "viewCount": "1050万",
       "likeCount": "-",
+      "commentCount": "845"
+    },
+    {
+      "rank": 2987,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/gErh5d3gpVk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=gErh5d3gpVk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "UVERworld　『Colors of the Heart』",
+        "url": "https://www.youtube.com/watch?v=gErh5d3gpVk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "UVERworld Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCnziFQs4Ihms4UtxmVZP6cg",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-04-11",
+      "viewCount": "1120万",
+      "likeCount": "3.8万",
       "commentCount": "845"
     },
     {
@@ -876,31 +876,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-23",
-      "viewCount": "1319万",
+      "viewCount": "1321万",
       "likeCount": "3.9万",
       "commentCount": "831"
-    },
-    {
-      "rank": 2991,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/fnS0IH9nIBU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=fnS0IH9nIBU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Tiara「さよならをキミに... feat. Spontania」 MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=fnS0IH9nIBU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "crownrecord",
-        "url": "https://www.youtube.com/channel/UCkbTHtZb_16UZBSXVdFpT0Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-05-19",
-      "viewCount": "1282万",
-      "likeCount": "3万",
-      "commentCount": "827"
     },
     {
       "rank": 2991,
@@ -923,6 +901,28 @@
       "viewCount": "1020万",
       "likeCount": "3万",
       "commentCount": "827"
+    },
+    {
+      "rank": 2992,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/fnS0IH9nIBU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=fnS0IH9nIBU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Tiara「さよならをキミに... feat. Spontania」 MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=fnS0IH9nIBU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "crownrecord",
+        "url": "https://www.youtube.com/channel/UCkbTHtZb_16UZBSXVdFpT0Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-05-19",
+      "viewCount": "1282万",
+      "likeCount": "3万",
+      "commentCount": "826"
     },
     {
       "rank": 2993,
@@ -986,12 +986,34 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-30",
-      "viewCount": "1億874万",
+      "viewCount": "1億881万",
       "likeCount": "39.4万",
-      "commentCount": "800"
+      "commentCount": "802"
     },
     {
       "rank": 2996,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/LJkn2qqtijk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=LJkn2qqtijk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "LiSA『Catch the Moment』（「劇場版 ソードアート・オンライン -オーディナル・スケール-」主題歌）",
+        "url": "https://www.youtube.com/watch?v=LJkn2qqtijk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "LiSA Official YouTube",
+        "url": "https://www.youtube.com/channel/UCqEfdEvLG5oQWNYlDQrGlKw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-12-29",
+      "viewCount": "1215万",
+      "likeCount": "5.8万",
+      "commentCount": "798"
+    },
+    {
+      "rank": 2997,
       "thumb": {
         "img": "https://i.ytimg.com/vi/a9I0JUTiOck/default.jpg",
         "url": "https://www.youtube.com/watch?v=a9I0JUTiOck",
@@ -1013,28 +1035,6 @@
       "commentCount": "796"
     },
     {
-      "rank": 2997,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/LJkn2qqtijk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=LJkn2qqtijk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "LiSA『Catch the Moment』（「劇場版 ソードアート・オンライン -オーディナル・スケール-」主題歌）",
-        "url": "https://www.youtube.com/watch?v=LJkn2qqtijk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "LiSA Official YouTube",
-        "url": "https://www.youtube.com/channel/UCqEfdEvLG5oQWNYlDQrGlKw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-12-29",
-      "viewCount": "1213万",
-      "likeCount": "5.8万",
-      "commentCount": "795"
-    },
-    {
       "rank": 2998,
       "thumb": {
         "img": "https://i.ytimg.com/vi/mHxFKmpvEmM/default.jpg",
@@ -1052,7 +1052,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-03",
-      "viewCount": "1545万",
+      "viewCount": "1546万",
       "likeCount": "4.3万",
       "commentCount": "794"
     },
@@ -1074,7 +1074,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-31",
-      "viewCount": "1377万",
+      "viewCount": "1378万",
       "likeCount": "-",
       "commentCount": "793"
     },

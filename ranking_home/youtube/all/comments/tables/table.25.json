@@ -1,7 +1,29 @@
 {
   "rows": [
     {
-      "rank": 1201,
+      "rank": 1200,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/RGzMlGujLyE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=RGzMlGujLyE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "The Chainsmokers feat.新田真剣佑 「Closer (Tokyo Remix)」 (Short Video)",
+        "url": "https://www.youtube.com/watch?v=RGzMlGujLyE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-02-05",
+      "viewCount": "1407万",
+      "likeCount": "23.4万",
+      "commentCount": "8119"
+    },
+    {
+      "rank": 1202,
       "thumb": {
         "img": "https://i.ytimg.com/vi/nyGrDBh2Yyk/default.jpg",
         "url": "https://www.youtube.com/watch?v=nyGrDBh2Yyk",
@@ -20,29 +42,7 @@
       "publishedAt": "2022-11-03",
       "viewCount": "1025万",
       "likeCount": "-",
-      "commentCount": "8115"
-    },
-    {
-      "rank": 1201,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/jz8O2t2r8Gs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=jz8O2t2r8Gs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "King Gnu - ねっこ",
-        "url": "https://www.youtube.com/watch?v=jz8O2t2r8Gs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "King Gnu official YouTube channel",
-        "url": "https://www.youtube.com/channel/UCkB8HnJSDSJ2hkLQFUc-YrQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-12-01",
-      "viewCount": "2186万",
-      "likeCount": "14.8万",
-      "commentCount": "8115"
+      "commentCount": "8116"
     },
     {
       "rank": 1203,
@@ -64,10 +64,32 @@
       "publishedAt": "2017-06-12",
       "viewCount": "1264万",
       "likeCount": "17.1万",
-      "commentCount": "8110"
+      "commentCount": "8109"
     },
     {
       "rank": 1204,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/gPcPseeICjs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=gPcPseeICjs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "GLAY / HOWEVER",
+        "url": "https://www.youtube.com/watch?v=gPcPseeICjs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "GLAY",
+        "url": "https://www.youtube.com/channel/UC1DqlLj1onQhBfxW81OgQTw",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-04-05",
+      "viewCount": "7785万",
+      "likeCount": "16万",
+      "commentCount": "8089"
+    },
+    {
+      "rank": 1205,
       "thumb": {
         "img": "https://i.ytimg.com/vi/iyU1t8G0LZw/default.jpg",
         "url": "https://www.youtube.com/watch?v=iyU1t8G0LZw",
@@ -89,7 +111,7 @@
       "commentCount": "8088"
     },
     {
-      "rank": 1205,
+      "rank": 1206,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3VdqvSKFzE8/default.jpg",
         "url": "https://www.youtube.com/watch?v=3VdqvSKFzE8",
@@ -108,10 +130,10 @@
       "publishedAt": "2014-11-10",
       "viewCount": "2043万",
       "likeCount": "15.1万",
-      "commentCount": "8076"
+      "commentCount": "8077"
     },
     {
-      "rank": 1206,
+      "rank": 1207,
       "thumb": {
         "img": "https://i.ytimg.com/vi/XicdpSmxuT0/default.jpg",
         "url": "https://www.youtube.com/watch?v=XicdpSmxuT0",
@@ -130,10 +152,10 @@
       "publishedAt": "2022-04-12",
       "viewCount": "2029万",
       "likeCount": "26.3万",
-      "commentCount": "8075"
+      "commentCount": "8076"
     },
     {
-      "rank": 1207,
+      "rank": 1208,
       "thumb": {
         "img": "https://i.ytimg.com/vi/CLfQoaHgnVs/default.jpg",
         "url": "https://www.youtube.com/watch?v=CLfQoaHgnVs",
@@ -150,12 +172,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-15",
-      "viewCount": "2019万",
+      "viewCount": "2020万",
       "likeCount": "-",
-      "commentCount": "8073"
+      "commentCount": "8074"
     },
     {
-      "rank": 1208,
+      "rank": 1209,
       "thumb": {
         "img": "https://i.ytimg.com/vi/hM4f37uRyKc/default.jpg",
         "url": "https://www.youtube.com/watch?v=hM4f37uRyKc",
@@ -172,12 +194,12 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-28",
-      "viewCount": "3395万",
+      "viewCount": "3396万",
       "likeCount": "35.2万",
       "commentCount": "8062"
     },
     {
-      "rank": 1209,
+      "rank": 1210,
       "thumb": {
         "img": "https://i.ytimg.com/vi/aHIR33pOUv0/default.jpg",
         "url": "https://www.youtube.com/watch?v=aHIR33pOUv0",
@@ -194,12 +216,12 @@
         "target": "_blank"
       },
       "publishedAt": "2008-12-16",
-      "viewCount": "9371万",
+      "viewCount": "9373万",
       "likeCount": "21.2万",
-      "commentCount": "8060"
+      "commentCount": "8061"
     },
     {
-      "rank": 1210,
+      "rank": 1211,
       "thumb": {
         "img": "https://i.ytimg.com/vi/AFg1x-xCxa4/default.jpg",
         "url": "https://www.youtube.com/watch?v=AFg1x-xCxa4",
@@ -221,28 +243,6 @@
       "commentCount": "8059"
     },
     {
-      "rank": 1211,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/gPcPseeICjs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=gPcPseeICjs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "GLAY / HOWEVER",
-        "url": "https://www.youtube.com/watch?v=gPcPseeICjs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "GLAY",
-        "url": "https://www.youtube.com/channel/UC1DqlLj1onQhBfxW81OgQTw",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-04-05",
-      "viewCount": "7782万",
-      "likeCount": "16万",
-      "commentCount": "8052"
-    },
-    {
       "rank": 1212,
       "thumb": {
         "img": "https://i.ytimg.com/vi/juXD8vr5_r8/default.jpg",
@@ -262,32 +262,10 @@
       "publishedAt": "2020-03-20",
       "viewCount": "1114万",
       "likeCount": "-",
-      "commentCount": "8043"
+      "commentCount": "8045"
     },
     {
       "rank": 1213,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/YB_St-YN3Y8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=YB_St-YN3Y8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Da-iCE / 「スターマイン」Music Video",
-        "url": "https://www.youtube.com/watch?v=YB_St-YN3Y8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Da-iCE",
-        "url": "https://www.youtube.com/channel/UC7JQKVJMCIuVMcrFXSozMCw",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-08-29",
-      "viewCount": "6982万",
-      "likeCount": "35.5万",
-      "commentCount": "8027"
-    },
-    {
-      "rank": 1214,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ShbfYtAPXuI/default.jpg",
         "url": "https://www.youtube.com/watch?v=ShbfYtAPXuI",
@@ -304,9 +282,31 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-30",
-      "viewCount": "1389万",
+      "viewCount": "1390万",
       "likeCount": "7.8万",
-      "commentCount": "8026"
+      "commentCount": "8030"
+    },
+    {
+      "rank": 1214,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/YB_St-YN3Y8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=YB_St-YN3Y8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Da-iCE / 「スターマイン」Music Video",
+        "url": "https://www.youtube.com/watch?v=YB_St-YN3Y8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Da-iCE",
+        "url": "https://www.youtube.com/channel/UC7JQKVJMCIuVMcrFXSozMCw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-08-29",
+      "viewCount": "6984万",
+      "likeCount": "35.5万",
+      "commentCount": "8029"
     },
     {
       "rank": 1215,
@@ -328,7 +328,7 @@
       "publishedAt": "2019-04-07",
       "viewCount": "1688万",
       "likeCount": "29.5万",
-      "commentCount": "8011"
+      "commentCount": "8012"
     },
     {
       "rank": 1216,
@@ -348,9 +348,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-07-22",
-      "viewCount": "8972万",
+      "viewCount": "8975万",
       "likeCount": "22.9万",
-      "commentCount": "7983"
+      "commentCount": "7982"
     },
     {
       "rank": 1217,
@@ -414,7 +414,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-07",
-      "viewCount": "2087万",
+      "viewCount": "2088万",
       "likeCount": "29.6万",
       "commentCount": "7936"
     },
@@ -438,7 +438,7 @@
       "publishedAt": "2012-04-25",
       "viewCount": "2556万",
       "likeCount": "23.9万",
-      "commentCount": "7927"
+      "commentCount": "7934"
     },
     {
       "rank": 1221,
@@ -458,9 +458,31 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-26",
-      "viewCount": "4599万",
+      "viewCount": "4600万",
       "likeCount": "22.6万",
-      "commentCount": "7915"
+      "commentCount": "7921"
+    },
+    {
+      "rank": 1222,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/VJy8qZ77bpE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=VJy8qZ77bpE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ずっと真夜中でいいのに。『眩しいDNAだけ』MV",
+        "url": "https://www.youtube.com/watch?v=VJy8qZ77bpE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ずっと真夜中でいいのに。 ZUTOMAYO",
+        "url": "https://www.youtube.com/channel/UCv6P5nsS9rP4tDtFlqLU_QQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-02-04",
+      "viewCount": "2033万",
+      "likeCount": "20.9万",
+      "commentCount": "7911"
     },
     {
       "rank": 1222,
@@ -485,28 +507,6 @@
       "commentCount": "7911"
     },
     {
-      "rank": 1223,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/VJy8qZ77bpE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=VJy8qZ77bpE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ずっと真夜中でいいのに。『眩しいDNAだけ』MV",
-        "url": "https://www.youtube.com/watch?v=VJy8qZ77bpE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ずっと真夜中でいいのに。 ZUTOMAYO",
-        "url": "https://www.youtube.com/channel/UCv6P5nsS9rP4tDtFlqLU_QQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-02-04",
-      "viewCount": "2033万",
-      "likeCount": "20.9万",
-      "commentCount": "7909"
-    },
-    {
       "rank": 1224,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Igr6jQJEoNs/default.jpg",
@@ -524,9 +524,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-23",
-      "viewCount": "3537万",
+      "viewCount": "3538万",
       "likeCount": "32.4万",
-      "commentCount": "7907"
+      "commentCount": "7908"
     },
     {
       "rank": 1225,
@@ -590,34 +590,12 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-26",
-      "viewCount": "1607万",
+      "viewCount": "1608万",
       "likeCount": "-",
-      "commentCount": "7891"
+      "commentCount": "7892"
     },
     {
       "rank": 1228,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/IKHGAuNaGuA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=IKHGAuNaGuA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "sumika / フィクション【Music Video】",
-        "url": "https://www.youtube.com/watch?v=IKHGAuNaGuA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "sumika official",
-        "url": "https://www.youtube.com/channel/UCCdibO9eRKJIre22DKDNqug",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-04-18",
-      "viewCount": "5795万",
-      "likeCount": "51.7万",
-      "commentCount": "7871"
-    },
-    {
-      "rank": 1229,
       "thumb": {
         "img": "https://i.ytimg.com/vi/JJaCwW4HyVs/default.jpg",
         "url": "https://www.youtube.com/watch?v=JJaCwW4HyVs",
@@ -639,6 +617,28 @@
       "commentCount": "7870"
     },
     {
+      "rank": 1229,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/IKHGAuNaGuA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=IKHGAuNaGuA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "sumika / フィクション【Music Video】",
+        "url": "https://www.youtube.com/watch?v=IKHGAuNaGuA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "sumika official",
+        "url": "https://www.youtube.com/channel/UCCdibO9eRKJIre22DKDNqug",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-04-18",
+      "viewCount": "5796万",
+      "likeCount": "51.8万",
+      "commentCount": "7869"
+    },
+    {
       "rank": 1230,
       "thumb": {
         "img": "https://i.ytimg.com/vi/gNUyc4mIRws/default.jpg",
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-24",
-      "viewCount": "1291万",
+      "viewCount": "1292万",
       "likeCount": "12.1万",
       "commentCount": "7866"
     },
@@ -678,9 +678,9 @@
         "target": "_blank"
       },
       "publishedAt": "2025-04-18",
-      "viewCount": "2446万",
+      "viewCount": "2449万",
       "likeCount": "21.6万",
-      "commentCount": "7856"
+      "commentCount": "7859"
     },
     {
       "rank": 1232,
@@ -700,34 +700,12 @@
         "target": "_blank"
       },
       "publishedAt": "2021-10-29",
-      "viewCount": "4834万",
+      "viewCount": "4836万",
       "likeCount": "25.9万",
       "commentCount": "7837"
     },
     {
       "rank": 1233,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/M7sr5zv1EkI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=M7sr5zv1EkI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV】四季折々に揺蕩いて／After the Rain（そらる×まふまふ）",
-        "url": "https://www.youtube.com/watch?v=M7sr5zv1EkI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "まふまふちゃんねる",
-        "url": "https://www.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-08-02",
-      "viewCount": "2232万",
-      "likeCount": "24.2万",
-      "commentCount": "7811"
-    },
-    {
-      "rank": 1234,
       "thumb": {
         "img": "https://i.ytimg.com/vi/UC_qla6FQwM/default.jpg",
         "url": "https://www.youtube.com/watch?v=UC_qla6FQwM",
@@ -749,6 +727,28 @@
       "commentCount": "7810"
     },
     {
+      "rank": 1234,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/M7sr5zv1EkI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=M7sr5zv1EkI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV】四季折々に揺蕩いて／After the Rain（そらる×まふまふ）",
+        "url": "https://www.youtube.com/watch?v=M7sr5zv1EkI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "まふまふちゃんねる",
+        "url": "https://www.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-08-02",
+      "viewCount": "2233万",
+      "likeCount": "24.2万",
+      "commentCount": "7809"
+    },
+    {
       "rank": 1235,
       "thumb": {
         "img": "https://i.ytimg.com/vi/RIOgKnpX8fo/default.jpg",
@@ -768,7 +768,7 @@
       "publishedAt": "2020-07-21",
       "viewCount": "1912万",
       "likeCount": "-",
-      "commentCount": "7806"
+      "commentCount": "7807"
     },
     {
       "rank": 1236,
@@ -790,7 +790,7 @@
       "publishedAt": "2015-01-26",
       "viewCount": "3451万",
       "likeCount": "30.2万",
-      "commentCount": "7793"
+      "commentCount": "7791"
     },
     {
       "rank": 1237,
@@ -812,7 +812,7 @@
       "publishedAt": "2020-04-06",
       "viewCount": "3415万",
       "likeCount": "33.3万",
-      "commentCount": "7786"
+      "commentCount": "7787"
     },
     {
       "rank": 1238,
@@ -832,7 +832,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-06-23",
-      "viewCount": "1056万",
+      "viewCount": "1057万",
       "likeCount": "18.9万",
       "commentCount": "7773"
     },
@@ -854,7 +854,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-30",
-      "viewCount": "4277万",
+      "viewCount": "4278万",
       "likeCount": "22万",
       "commentCount": "7762"
     },
@@ -876,7 +876,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-28",
-      "viewCount": "3330万",
+      "viewCount": "3331万",
       "likeCount": "-",
       "commentCount": "7760"
     },
@@ -898,9 +898,9 @@
         "target": "_blank"
       },
       "publishedAt": "2025-01-24",
-      "viewCount": "2129万",
+      "viewCount": "2132万",
       "likeCount": "31.4万",
-      "commentCount": "7745"
+      "commentCount": "7746"
     },
     {
       "rank": 1242,
@@ -942,7 +942,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-09",
-      "viewCount": "7976万",
+      "viewCount": "7979万",
       "likeCount": "50.2万",
       "commentCount": "7738"
     },
@@ -986,9 +986,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-06-30",
-      "viewCount": "3918万",
+      "viewCount": "3920万",
       "likeCount": "16.7万",
-      "commentCount": "7726"
+      "commentCount": "7727"
     },
     {
       "rank": 1246,
@@ -1008,9 +1008,9 @@
         "target": "_blank"
       },
       "publishedAt": "2009-07-02",
-      "viewCount": "5958万",
+      "viewCount": "5959万",
       "likeCount": "20万",
-      "commentCount": "7721"
+      "commentCount": "7723"
     },
     {
       "rank": 1247,
@@ -1097,8 +1097,8 @@
       },
       "publishedAt": "2015-03-17",
       "viewCount": "1573万",
-      "likeCount": "27.5万",
-      "commentCount": "7707"
+      "likeCount": "27.6万",
+      "commentCount": "7708"
     }
   ]
 }

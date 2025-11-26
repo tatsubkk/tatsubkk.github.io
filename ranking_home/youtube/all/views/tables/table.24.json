@@ -21,7 +21,7 @@
       "viewCount": "3013万",
       "likeCount": "18.7万",
       "commentCount": "7328",
-      "increment_d1": "3098"
+      "increment_d1": "2656"
     },
     {
       "rank": 1152,
@@ -44,7 +44,7 @@
       "viewCount": "3011万",
       "likeCount": "15.8万",
       "commentCount": "3393",
-      "increment_d1": "3741"
+      "increment_d1": "3131"
     },
     {
       "rank": 1153,
@@ -89,8 +89,8 @@
       "publishedAt": "2010-04-07",
       "viewCount": "3007万",
       "likeCount": "8万",
-      "commentCount": "3041",
-      "increment_d1": "3562"
+      "commentCount": "3040",
+      "increment_d1": "3377"
     },
     {
       "rank": 1155,
@@ -113,7 +113,7 @@
       "viewCount": "3001万",
       "likeCount": "8.7万",
       "commentCount": "2813",
-      "increment_d1": "4923"
+      "increment_d1": "4397"
     },
     {
       "rank": 1156,
@@ -136,7 +136,7 @@
       "viewCount": "2999万",
       "likeCount": "6.1万",
       "commentCount": "4490",
-      "increment_d1": "485"
+      "increment_d1": "1282"
     },
     {
       "rank": 1157,
@@ -158,11 +158,34 @@
       "publishedAt": "2014-07-09",
       "viewCount": "2991万",
       "likeCount": "18.8万",
-      "commentCount": "6138",
-      "increment_d1": "3984"
+      "commentCount": "6139",
+      "increment_d1": "3746"
     },
     {
       "rank": 1158,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/uEGDbikWhrU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=uEGDbikWhrU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – 僕のこと 【LIVE from M-ON!】",
+        "url": "https://www.youtube.com/watch?v=uEGDbikWhrU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-04-21",
+      "viewCount": "2991万",
+      "likeCount": "16.5万",
+      "commentCount": "5771",
+      "increment_d1": "1.44万"
+    },
+    {
+      "rank": 1159,
       "thumb": {
         "img": "https://i.ytimg.com/vi/7njC5lgL61c/default.jpg",
         "url": "https://www.youtube.com/watch?v=7njC5lgL61c",
@@ -182,30 +205,7 @@
       "viewCount": "2991万",
       "likeCount": "13.5万",
       "commentCount": "2万",
-      "increment_d1": "2195"
-    },
-    {
-      "rank": 1159,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/uEGDbikWhrU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=uEGDbikWhrU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – 僕のこと 【LIVE from M-ON!】",
-        "url": "https://www.youtube.com/watch?v=uEGDbikWhrU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-04-21",
-      "viewCount": "2990万",
-      "likeCount": "16.5万",
-      "commentCount": "5771",
-      "increment_d1": "1.58万"
+      "increment_d1": "1870"
     },
     {
       "rank": 1160,
@@ -225,36 +225,13 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-11",
-      "viewCount": "2988万",
+      "viewCount": "2989万",
       "likeCount": "21.9万",
-      "commentCount": "8637",
-      "increment_d1": "8283"
+      "commentCount": "8640",
+      "increment_d1": "7756"
     },
     {
       "rank": 1161,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/0iAF8TJAqp4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=0iAF8TJAqp4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "スキマスイッチ - 「ゴールデンタイムラバー」Music Video : SUKIMASWITCH / GOLDEN TIME RUBBER Music Video",
-        "url": "https://www.youtube.com/watch?v=0iAF8TJAqp4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SukimaSwitchVEVO",
-        "url": "https://www.youtube.com/channel/UCK3avWTCKdXZyYiHUEsCzNQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-10-02",
-      "viewCount": "2987万",
-      "likeCount": "12.5万",
-      "commentCount": "3625",
-      "increment_d1": "6548"
-    },
-    {
-      "rank": 1162,
       "thumb": {
         "img": "https://i.ytimg.com/vi/2IZbzRj3CJk/default.jpg",
         "url": "https://www.youtube.com/watch?v=2IZbzRj3CJk",
@@ -271,10 +248,33 @@
         "target": "_blank"
       },
       "publishedAt": "2013-01-25",
-      "viewCount": "2987万",
+      "viewCount": "2988万",
       "likeCount": "17.7万",
       "commentCount": "1.1万",
-      "increment_d1": "1.05万"
+      "increment_d1": "9643"
+    },
+    {
+      "rank": 1162,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/0iAF8TJAqp4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=0iAF8TJAqp4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "スキマスイッチ - 「ゴールデンタイムラバー」Music Video : SUKIMASWITCH / GOLDEN TIME RUBBER Music Video",
+        "url": "https://www.youtube.com/watch?v=0iAF8TJAqp4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SukimaSwitchVEVO",
+        "url": "https://www.youtube.com/channel/UCK3avWTCKdXZyYiHUEsCzNQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-10-02",
+      "viewCount": "2988万",
+      "likeCount": "12.5万",
+      "commentCount": "3626",
+      "increment_d1": "6983"
     },
     {
       "rank": 1163,
@@ -297,7 +297,7 @@
       "viewCount": "2986万",
       "likeCount": "-",
       "commentCount": "1.4万",
-      "increment_d1": "3786"
+      "increment_d1": "3297"
     },
     {
       "rank": 1164,
@@ -320,7 +320,7 @@
       "viewCount": "2985万",
       "likeCount": "4.7万",
       "commentCount": "1342",
-      "increment_d1": "342"
+      "increment_d1": "338"
     },
     {
       "rank": 1165,
@@ -340,10 +340,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-16",
-      "viewCount": "2984万",
+      "viewCount": "2985万",
       "likeCount": "19.7万",
-      "commentCount": "4108",
-      "increment_d1": "8818"
+      "commentCount": "4107",
+      "increment_d1": "6324"
     },
     {
       "rank": 1166,
@@ -363,10 +363,10 @@
         "target": "_blank"
       },
       "publishedAt": "2009-06-27",
-      "viewCount": "2984万",
+      "viewCount": "2985万",
       "likeCount": "12.8万",
-      "commentCount": "6272",
-      "increment_d1": "7605"
+      "commentCount": "6274",
+      "increment_d1": "7778"
     },
     {
       "rank": 1167,
@@ -386,10 +386,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-24",
-      "viewCount": "2981万",
+      "viewCount": "2983万",
       "likeCount": "41.8万",
-      "commentCount": "6639",
-      "increment_d1": "1.57万"
+      "commentCount": "6640",
+      "increment_d1": "1.59万"
     },
     {
       "rank": 1168,
@@ -412,7 +412,7 @@
       "viewCount": "2981万",
       "likeCount": "-",
       "commentCount": "3.4万",
-      "increment_d1": "2480"
+      "increment_d1": "2267"
     },
     {
       "rank": 1169,
@@ -435,7 +435,7 @@
       "viewCount": "2973万",
       "likeCount": "26.1万",
       "commentCount": "1.8万",
-      "increment_d1": "763"
+      "increment_d1": "879"
     },
     {
       "rank": 1170,
@@ -458,7 +458,7 @@
       "viewCount": "2971万",
       "likeCount": "11.4万",
       "commentCount": "1.5万",
-      "increment_d1": "1781"
+      "increment_d1": "1623"
     },
     {
       "rank": 1171,
@@ -478,10 +478,10 @@
         "target": "_blank"
       },
       "publishedAt": "2025-03-24",
-      "viewCount": "2970万",
+      "viewCount": "2971万",
       "likeCount": "13.5万",
       "commentCount": "11.7万",
-      "increment_d1": "8539"
+      "increment_d1": "8306"
     },
     {
       "rank": 1172,
@@ -504,7 +504,7 @@
       "viewCount": "2969万",
       "likeCount": "6.8万",
       "commentCount": "1537",
-      "increment_d1": "1121"
+      "increment_d1": "1056"
     },
     {
       "rank": 1173,
@@ -527,7 +527,7 @@
       "viewCount": "2968万",
       "likeCount": "17万",
       "commentCount": "5558",
-      "increment_d1": "2663"
+      "increment_d1": "2188"
     },
     {
       "rank": 1174,
@@ -547,10 +547,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-05-27",
-      "viewCount": "2966万",
+      "viewCount": "2967万",
       "likeCount": "36.8万",
       "commentCount": "1万",
-      "increment_d1": "7862"
+      "increment_d1": "7311"
     },
     {
       "rank": 1175,
@@ -573,7 +573,7 @@
       "viewCount": "2966万",
       "likeCount": "7.8万",
       "commentCount": "4728",
-      "increment_d1": "1457"
+      "increment_d1": "1394"
     },
     {
       "rank": 1176,
@@ -596,7 +596,7 @@
       "viewCount": "2962万",
       "likeCount": "19.6万",
       "commentCount": "4688",
-      "increment_d1": "3452"
+      "increment_d1": "3326"
     },
     {
       "rank": 1177,
@@ -616,10 +616,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-06-17",
-      "viewCount": "2959万",
+      "viewCount": "2960万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "2273"
+      "increment_d1": "2041"
     },
     {
       "rank": 1178,
@@ -639,10 +639,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-12-25",
-      "viewCount": "2956万",
+      "viewCount": "2957万",
       "likeCount": "8.1万",
-      "commentCount": "3575",
-      "increment_d1": "4777"
+      "commentCount": "3576",
+      "increment_d1": "4208"
     },
     {
       "rank": 1179,
@@ -665,7 +665,7 @@
       "viewCount": "2956万",
       "likeCount": "-",
       "commentCount": "4万",
-      "increment_d1": "2713"
+      "increment_d1": "2412"
     },
     {
       "rank": 1180,
@@ -688,7 +688,7 @@
       "viewCount": "2955万",
       "likeCount": "22万",
       "commentCount": "1.1万",
-      "increment_d1": "2800"
+      "increment_d1": "2663"
     },
     {
       "rank": 1181,
@@ -708,10 +708,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-04-27",
-      "viewCount": "2952万",
+      "viewCount": "2953万",
       "likeCount": "16.8万",
       "commentCount": "-",
-      "increment_d1": "1.52万"
+      "increment_d1": "1.36万"
     },
     {
       "rank": 1182,
@@ -731,10 +731,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-07",
-      "viewCount": "2948万",
+      "viewCount": "2949万",
       "likeCount": "10.6万",
-      "commentCount": "2464",
-      "increment_d1": "8487"
+      "commentCount": "2465",
+      "increment_d1": "8189"
     },
     {
       "rank": 1183,
@@ -757,7 +757,7 @@
       "viewCount": "2946万",
       "likeCount": "13万",
       "commentCount": "7411",
-      "increment_d1": "298"
+      "increment_d1": "335"
     },
     {
       "rank": 1184,
@@ -780,7 +780,7 @@
       "viewCount": "2944万",
       "likeCount": "10.8万",
       "commentCount": "9272",
-      "increment_d1": "1119"
+      "increment_d1": "1104"
     },
     {
       "rank": 1185,
@@ -800,10 +800,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-12-19",
-      "viewCount": "2941万",
+      "viewCount": "2942万",
       "likeCount": "13万",
-      "commentCount": "5206",
-      "increment_d1": "9232"
+      "commentCount": "5207",
+      "increment_d1": "8250"
     },
     {
       "rank": 1186,
@@ -825,8 +825,8 @@
       "publishedAt": "2018-02-21",
       "viewCount": "2940万",
       "likeCount": "32.5万",
-      "commentCount": "8371",
-      "increment_d1": "2155"
+      "commentCount": "8368",
+      "increment_d1": "2298"
     },
     {
       "rank": 1187,
@@ -846,10 +846,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-15",
-      "viewCount": "2936万",
+      "viewCount": "2937万",
       "likeCount": "-",
       "commentCount": "2.4万",
-      "increment_d1": "5287"
+      "increment_d1": "4829"
     },
     {
       "rank": 1188,
@@ -872,7 +872,7 @@
       "viewCount": "2933万",
       "likeCount": "43.4万",
       "commentCount": "21.3万",
-      "increment_d1": "619"
+      "increment_d1": "573"
     },
     {
       "rank": 1189,
@@ -895,7 +895,7 @@
       "viewCount": "2932万",
       "likeCount": "13.1万",
       "commentCount": "1万",
-      "increment_d1": "713"
+      "increment_d1": "634"
     },
     {
       "rank": 1190,
@@ -917,11 +917,34 @@
       "publishedAt": "2020-03-02",
       "viewCount": "2931万",
       "likeCount": "30.8万",
-      "commentCount": "8267",
-      "increment_d1": "8046"
+      "commentCount": "8265",
+      "increment_d1": "7478"
     },
     {
       "rank": 1191,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/sgZjbk9eH6g/default.jpg",
+        "url": "https://www.youtube.com/watch?v=sgZjbk9eH6g",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "群青讃歌 - Eve MV",
+        "url": "https://www.youtube.com/watch?v=sgZjbk9eH6g",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Eve",
+        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-09-30",
+      "viewCount": "2931万",
+      "likeCount": "54.7万",
+      "commentCount": "1万",
+      "increment_d1": "6586"
+    },
+    {
+      "rank": 1192,
       "thumb": {
         "img": "https://i.ytimg.com/vi/LZKNYwvlEII/default.jpg",
         "url": "https://www.youtube.com/watch?v=LZKNYwvlEII",
@@ -941,30 +964,7 @@
       "viewCount": "2930万",
       "likeCount": "10.1万",
       "commentCount": "451",
-      "increment_d1": "1952"
-    },
-    {
-      "rank": 1192,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/sgZjbk9eH6g/default.jpg",
-        "url": "https://www.youtube.com/watch?v=sgZjbk9eH6g",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "群青讃歌 - Eve MV",
-        "url": "https://www.youtube.com/watch?v=sgZjbk9eH6g",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Eve",
-        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-09-30",
-      "viewCount": "2930万",
-      "likeCount": "54.7万",
-      "commentCount": "1万",
-      "increment_d1": "7159"
+      "increment_d1": "1669"
     },
     {
       "rank": 1193,
@@ -987,7 +987,7 @@
       "viewCount": "2921万",
       "likeCount": "29.8万",
       "commentCount": "6601",
-      "increment_d1": "5913"
+      "increment_d1": "5509"
     },
     {
       "rank": 1194,
@@ -1007,10 +1007,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-10-14",
-      "viewCount": "2920万",
+      "viewCount": "2921万",
       "likeCount": "32.1万",
       "commentCount": "1.1万",
-      "increment_d1": "1.14万"
+      "increment_d1": "9980"
     },
     {
       "rank": 1195,
@@ -1033,7 +1033,7 @@
       "viewCount": "2919万",
       "likeCount": "-",
       "commentCount": "2万",
-      "increment_d1": "1808"
+      "increment_d1": "1533"
     },
     {
       "rank": 1196,
@@ -1053,10 +1053,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-12-31",
-      "viewCount": "2915万",
+      "viewCount": "2919万",
       "likeCount": "10.2万",
       "commentCount": "2479",
-      "increment_d1": "4.3万"
+      "increment_d1": "3.71万"
     },
     {
       "rank": 1197,
@@ -1076,10 +1076,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-09-11",
-      "viewCount": "2912万",
+      "viewCount": "2913万",
       "likeCount": "10.1万",
       "commentCount": "4110",
-      "increment_d1": "1392"
+      "increment_d1": "1228"
     },
     {
       "rank": 1198,
@@ -1099,10 +1099,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-10-08",
-      "viewCount": "2909万",
+      "viewCount": "2910万",
       "likeCount": "47.5万",
       "commentCount": "2万",
-      "increment_d1": "1.43万"
+      "increment_d1": "1.21万"
     },
     {
       "rank": 1199,
@@ -1122,10 +1122,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-15",
-      "viewCount": "2908万",
+      "viewCount": "2909万",
       "likeCount": "30万",
       "commentCount": "7220",
-      "increment_d1": "1.05万"
+      "increment_d1": "9924"
     },
     {
       "rank": 1200,
@@ -1145,10 +1145,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-11-13",
-      "viewCount": "2904万",
+      "viewCount": "2905万",
       "likeCount": "49.9万",
       "commentCount": "1万",
-      "increment_d1": "3522"
+      "increment_d1": "3591"
     }
   ]
 }

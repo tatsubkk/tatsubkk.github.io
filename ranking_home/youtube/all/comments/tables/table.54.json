@@ -1,7 +1,51 @@
 {
   "rows": [
     {
-      "rank": 2651,
+      "rank": 2649,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Dr_Kb7A5cxw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Dr_Kb7A5cxw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MAN WITH A MISSION×milet「絆ノ奇跡」(Live at さいたまスーパーアリーナ）",
+        "url": "https://www.youtube.com/watch?v=Dr_Kb7A5cxw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "mwamjapan",
+        "url": "https://www.youtube.com/channel/UCy21ToKvBD45wUPaSLkr5NQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-02-09",
+      "viewCount": "1563万",
+      "likeCount": "8.5万",
+      "commentCount": "1866"
+    },
+    {
+      "rank": 2652,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/euBPUj8CkbA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=euBPUj8CkbA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "back number - 新しい恋人達に",
+        "url": "https://www.youtube.com/watch?v=euBPUj8CkbA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "back number",
+        "url": "https://www.youtube.com/channel/UCgipy6-EqjT-1BCDndXX1PA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-09-11",
+      "viewCount": "1357万",
+      "likeCount": "8.4万",
+      "commentCount": "1865"
+    },
+    {
+      "rank": 2652,
       "thumb": {
         "img": "https://i.ytimg.com/vi/oP6I2X1GX74/default.jpg",
         "url": "https://www.youtube.com/watch?v=oP6I2X1GX74",
@@ -23,50 +67,6 @@
       "commentCount": "1865"
     },
     {
-      "rank": 2651,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/euBPUj8CkbA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=euBPUj8CkbA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "back number - 新しい恋人達に",
-        "url": "https://www.youtube.com/watch?v=euBPUj8CkbA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "back number",
-        "url": "https://www.youtube.com/channel/UCgipy6-EqjT-1BCDndXX1PA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-09-11",
-      "viewCount": "1356万",
-      "likeCount": "8.4万",
-      "commentCount": "1865"
-    },
-    {
-      "rank": 2653,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/fqYFkPeYqoI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=fqYFkPeYqoI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SawanoHiroyuki[nZk]:Laco「Hands Up to the Sky」Music Video ８６―エイティシックス― ver.",
-        "url": "https://www.youtube.com/watch?v=fqYFkPeYqoI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "澤野弘之 / SawanoHiroyuki[nZk]",
-        "url": "https://www.youtube.com/channel/UCbJM_Y06iuUOl3hVPqYcvng",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-06-12",
-      "viewCount": "2114万",
-      "likeCount": "12.8万",
-      "commentCount": "1864"
-    },
-    {
       "rank": 2654,
       "thumb": {
         "img": "https://i.ytimg.com/vi/WyS-d1kkCSk/default.jpg",
@@ -86,7 +86,7 @@
       "publishedAt": "2009-07-02",
       "viewCount": "1337万",
       "likeCount": "4.7万",
-      "commentCount": "1863"
+      "commentCount": "1864"
     },
     {
       "rank": 2655,
@@ -108,7 +108,7 @@
       "publishedAt": "2015-12-14",
       "viewCount": "1178万",
       "likeCount": "4.1万",
-      "commentCount": "1859"
+      "commentCount": "1861"
     },
     {
       "rank": 2656,
@@ -128,7 +128,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-11-26",
-      "viewCount": "1118万",
+      "viewCount": "1119万",
       "likeCount": "6.8万",
       "commentCount": "1854"
     },
@@ -150,7 +150,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-28",
-      "viewCount": "1628万",
+      "viewCount": "1631万",
       "likeCount": "21.7万",
       "commentCount": "1853"
     },
@@ -172,7 +172,7 @@
         "target": "_blank"
       },
       "publishedAt": "2025-07-18",
-      "viewCount": "1365万",
+      "viewCount": "1366万",
       "likeCount": "7.5万",
       "commentCount": "1846"
     },
@@ -194,7 +194,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-20",
-      "viewCount": "1086万",
+      "viewCount": "1087万",
       "likeCount": "4万",
       "commentCount": "1845"
     },
@@ -238,31 +238,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-14",
-      "viewCount": "3384万",
+      "viewCount": "3386万",
       "likeCount": "10万",
       "commentCount": "1840"
-    },
-    {
-      "rank": 2662,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/69w7p05W8HA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=69w7p05W8HA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Aimer 『StarRingChild』MUSIC VIDEO（FULL ver.）",
-        "url": "https://www.youtube.com/watch?v=69w7p05W8HA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Aimer Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCR1zT1s524Hbc85bdvno_8w",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-04-09",
-      "viewCount": "1173万",
-      "likeCount": "6万",
-      "commentCount": "1834"
     },
     {
       "rank": 2662,
@@ -282,8 +260,30 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-10",
-      "viewCount": "1166万",
+      "viewCount": "1167万",
       "likeCount": "11.8万",
+      "commentCount": "1835"
+    },
+    {
+      "rank": 2663,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/69w7p05W8HA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=69w7p05W8HA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Aimer 『StarRingChild』MUSIC VIDEO（FULL ver.）",
+        "url": "https://www.youtube.com/watch?v=69w7p05W8HA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Aimer Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCR1zT1s524Hbc85bdvno_8w",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-04-09",
+      "viewCount": "1174万",
+      "likeCount": "6万",
       "commentCount": "1834"
     },
     {
@@ -304,9 +304,9 @@
         "target": "_blank"
       },
       "publishedAt": "2016-11-27",
-      "viewCount": "1066万",
+      "viewCount": "1067万",
       "likeCount": "3.7万",
-      "commentCount": "1829"
+      "commentCount": "1828"
     },
     {
       "rank": 2665,
@@ -333,28 +333,6 @@
     {
       "rank": 2666,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/KUoy582ePlQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=KUoy582ePlQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【ももクロMV】ミライボウル / ももいろクローバーZ（MOMOIRO CLOVER／MIRAI BOWL）",
-        "url": "https://www.youtube.com/watch?v=KUoy582ePlQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "stardustdigital",
-        "url": "https://www.youtube.com/channel/UCvy4XUrowYvliS5rpLSAMuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-01-28",
-      "viewCount": "1091万",
-      "likeCount": "1.8万",
-      "commentCount": "1817"
-    },
-    {
-      "rank": 2666,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/sWhO0tebpFQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=sWhO0tebpFQ",
         "target": "_blank"
@@ -372,6 +350,28 @@
       "publishedAt": "2022-08-31",
       "viewCount": "1427万",
       "likeCount": "8.5万",
+      "commentCount": "1817"
+    },
+    {
+      "rank": 2666,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Y744hKsXi4c/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Y744hKsXi4c",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV】グミキュンプリンセス🍬👸🏼🩷 / あぃりDX ・しなこ",
+        "url": "https://www.youtube.com/watch?v=Y744hKsXi4c",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "しなこ Shinako / ASMR",
+        "url": "https://www.youtube.com/channel/UCSPkmZyeHlDNE-6YMSg5Fbg",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-06-07",
+      "viewCount": "1604万",
+      "likeCount": "4.2万",
       "commentCount": "1817"
     },
     {
@@ -397,26 +397,26 @@
       "commentCount": "1817"
     },
     {
-      "rank": 2669,
+      "rank": 2666,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/Y744hKsXi4c/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Y744hKsXi4c",
+        "img": "https://i.ytimg.com/vi/KUoy582ePlQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=KUoy582ePlQ",
         "target": "_blank"
       },
       "title": {
-        "text": "【MV】グミキュンプリンセス🍬👸🏼🩷 / あぃりDX ・しなこ",
-        "url": "https://www.youtube.com/watch?v=Y744hKsXi4c",
+        "text": "【ももクロMV】ミライボウル / ももいろクローバーZ（MOMOIRO CLOVER／MIRAI BOWL）",
+        "url": "https://www.youtube.com/watch?v=KUoy582ePlQ",
         "target": "_blank"
       },
       "channel": {
-        "text": "しなこ Shinako / ASMR",
-        "url": "https://www.youtube.com/channel/UCSPkmZyeHlDNE-6YMSg5Fbg",
+        "text": "stardustdigital",
+        "url": "https://www.youtube.com/channel/UCvy4XUrowYvliS5rpLSAMuw",
         "target": "_blank"
       },
-      "publishedAt": "2024-06-07",
-      "viewCount": "1604万",
-      "likeCount": "4.2万",
-      "commentCount": "1816"
+      "publishedAt": "2011-01-28",
+      "viewCount": "1091万",
+      "likeCount": "1.8万",
+      "commentCount": "1817"
     },
     {
       "rank": 2670,
@@ -438,7 +438,7 @@
       "publishedAt": "2017-11-29",
       "viewCount": "1516万",
       "likeCount": "9.6万",
-      "commentCount": "1815"
+      "commentCount": "1816"
     },
     {
       "rank": 2671,
@@ -482,7 +482,7 @@
       "publishedAt": "2015-03-31",
       "viewCount": "1895万",
       "likeCount": "11.9万",
-      "commentCount": "1811"
+      "commentCount": "1810"
     },
     {
       "rank": 2673,
@@ -503,7 +503,7 @@
       },
       "publishedAt": "2020-07-09",
       "viewCount": "1095万",
-      "likeCount": "18万",
+      "likeCount": "18.1万",
       "commentCount": "1805"
     },
     {
@@ -524,9 +524,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-14",
-      "viewCount": "1856万",
-      "likeCount": "7.7万",
-      "commentCount": "1798"
+      "viewCount": "1857万",
+      "likeCount": "7.8万",
+      "commentCount": "1799"
     },
     {
       "rank": 2675,
@@ -546,9 +546,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-25",
-      "viewCount": "1651万",
+      "viewCount": "1652万",
       "likeCount": "12.2万",
-      "commentCount": "1796"
+      "commentCount": "1798"
     },
     {
       "rank": 2676,
@@ -569,7 +569,7 @@
       },
       "publishedAt": "2020-05-15",
       "viewCount": "1184万",
-      "likeCount": "11.2万",
+      "likeCount": "11.3万",
       "commentCount": "1795"
     },
     {
@@ -590,7 +590,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-01",
-      "viewCount": "1192万",
+      "viewCount": "1193万",
       "likeCount": "7.9万",
       "commentCount": "1787"
     },
@@ -663,50 +663,6 @@
     {
       "rank": 2681,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/w2LLyY__opk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=w2LLyY__opk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "JASMINE -sad to say",
-        "url": "https://www.youtube.com/watch?v=w2LLyY__opk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "jasmineSMEJ",
-        "url": "https://www.youtube.com/channel/UCOtleQbvot_mYB2LvibSzsw",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-05-20",
-      "viewCount": "1188万",
-      "likeCount": "5万",
-      "commentCount": "1781"
-    },
-    {
-      "rank": 2682,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/4muxe8YRwPE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=4muxe8YRwPE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Official】Uru 『振り子』  映画『罪の声』主題歌",
-        "url": "https://www.youtube.com/watch?v=4muxe8YRwPE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Uru Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-10-28",
-      "viewCount": "1558万",
-      "likeCount": "5.9万",
-      "commentCount": "1780"
-    },
-    {
-      "rank": 2682,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/Q1Xzw12qMgk/default.jpg",
         "url": "https://www.youtube.com/watch?v=Q1Xzw12qMgk",
         "target": "_blank"
@@ -724,7 +680,51 @@
       "publishedAt": "2014-01-26",
       "viewCount": "1023万",
       "likeCount": "6.6万",
-      "commentCount": "1780"
+      "commentCount": "1781"
+    },
+    {
+      "rank": 2681,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/w2LLyY__opk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=w2LLyY__opk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "JASMINE -sad to say",
+        "url": "https://www.youtube.com/watch?v=w2LLyY__opk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "jasmineSMEJ",
+        "url": "https://www.youtube.com/channel/UCOtleQbvot_mYB2LvibSzsw",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-05-20",
+      "viewCount": "1189万",
+      "likeCount": "5万",
+      "commentCount": "1781"
+    },
+    {
+      "rank": 2681,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/4muxe8YRwPE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=4muxe8YRwPE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Official】Uru 『振り子』  映画『罪の声』主題歌",
+        "url": "https://www.youtube.com/watch?v=4muxe8YRwPE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Uru Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-10-28",
+      "viewCount": "1559万",
+      "likeCount": "5.9万",
+      "commentCount": "1781"
     },
     {
       "rank": 2684,
@@ -744,9 +744,31 @@
         "target": "_blank"
       },
       "publishedAt": "2013-03-24",
-      "viewCount": "1297万",
+      "viewCount": "1298万",
       "likeCount": "3.7万",
       "commentCount": "1779"
+    },
+    {
+      "rank": 2685,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/IEEJA1ZeQaI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=IEEJA1ZeQaI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "恋愛脳 / ナナヲアカリ",
+        "url": "https://www.youtube.com/watch?v=IEEJA1ZeQaI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ナナヲアカリ OFFICIAL",
+        "url": "https://www.youtube.com/channel/UCrrNHoXQ1uTYsR6v41pDalQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-07-10",
+      "viewCount": "2229万",
+      "likeCount": "14.7万",
+      "commentCount": "1771"
     },
     {
       "rank": 2685,
@@ -771,29 +793,29 @@
       "commentCount": "1771"
     },
     {
-      "rank": 2686,
+      "rank": 2687,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/IEEJA1ZeQaI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=IEEJA1ZeQaI",
+        "img": "https://i.ytimg.com/vi/r5XGepExNQ8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=r5XGepExNQ8",
         "target": "_blank"
       },
       "title": {
-        "text": "恋愛脳 / ナナヲアカリ",
-        "url": "https://www.youtube.com/watch?v=IEEJA1ZeQaI",
+        "text": "milet「I still」Music Video(映画『知らないカノジョ』主題歌)",
+        "url": "https://www.youtube.com/watch?v=r5XGepExNQ8",
         "target": "_blank"
       },
       "channel": {
-        "text": "ナナヲアカリ OFFICIAL",
-        "url": "https://www.youtube.com/channel/UCrrNHoXQ1uTYsR6v41pDalQ",
+        "text": "milet Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCpgxgkifUGSKg9dNFE5Vo7Q",
         "target": "_blank"
       },
-      "publishedAt": "2022-07-10",
-      "viewCount": "2228万",
-      "likeCount": "14.7万",
-      "commentCount": "1770"
+      "publishedAt": "2025-02-07",
+      "viewCount": "1403万",
+      "likeCount": "5.1万",
+      "commentCount": "1763"
     },
     {
-      "rank": 2687,
+      "rank": 2688,
       "thumb": {
         "img": "https://i.ytimg.com/vi/YiPJkEZiIsQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=YiPJkEZiIsQ",
@@ -813,28 +835,6 @@
       "viewCount": "1120万",
       "likeCount": "3.1万",
       "commentCount": "1760"
-    },
-    {
-      "rank": 2688,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/r5XGepExNQ8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=r5XGepExNQ8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "milet「I still」Music Video(映画『知らないカノジョ』主題歌)",
-        "url": "https://www.youtube.com/watch?v=r5XGepExNQ8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "milet Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCpgxgkifUGSKg9dNFE5Vo7Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-02-07",
-      "viewCount": "1403万",
-      "likeCount": "5.1万",
-      "commentCount": "1759"
     },
     {
       "rank": 2689,
@@ -898,9 +898,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-11-21",
-      "viewCount": "1522万",
+      "viewCount": "1523万",
       "likeCount": "8.9万",
-      "commentCount": "1753"
+      "commentCount": "1754"
     },
     {
       "rank": 2692,
@@ -922,7 +922,7 @@
       "publishedAt": "2020-05-22",
       "viewCount": "1230万",
       "likeCount": "6万",
-      "commentCount": "1749"
+      "commentCount": "1751"
     },
     {
       "rank": 2693,
@@ -942,7 +942,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-19",
-      "viewCount": "1090万",
+      "viewCount": "1091万",
       "likeCount": "14.1万",
       "commentCount": "1748"
     },
@@ -964,7 +964,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-11",
-      "viewCount": "1550万",
+      "viewCount": "1551万",
       "likeCount": "15.5万",
       "commentCount": "1746"
     },
@@ -991,7 +991,7 @@
       "commentCount": "1743"
     },
     {
-      "rank": 2696,
+      "rank": 2695,
       "thumb": {
         "img": "https://i.ytimg.com/vi/n7H4p0ArZUU/default.jpg",
         "url": "https://www.youtube.com/watch?v=n7H4p0ArZUU",
@@ -1008,12 +1008,12 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-28",
-      "viewCount": "1097万",
+      "viewCount": "1098万",
       "likeCount": "3.6万",
-      "commentCount": "1742"
+      "commentCount": "1743"
     },
     {
-      "rank": 2696,
+      "rank": 2697,
       "thumb": {
         "img": "https://i.ytimg.com/vi/BQ80slZEGLU/default.jpg",
         "url": "https://www.youtube.com/watch?v=BQ80slZEGLU",
@@ -1052,7 +1052,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-17",
-      "viewCount": "1135万",
+      "viewCount": "1136万",
       "likeCount": "18.2万",
       "commentCount": "1732"
     },
