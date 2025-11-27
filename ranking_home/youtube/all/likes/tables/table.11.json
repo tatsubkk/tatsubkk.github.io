@@ -3,6 +3,28 @@
     {
       "rank": 501,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/cSgZxz3le7s/default.jpg",
+        "url": "https://www.youtube.com/watch?v=cSgZxz3le7s",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Ado】夜のピエロ",
+        "url": "https://www.youtube.com/watch?v=cSgZxz3le7s",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ado",
+        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-06-14",
+      "viewCount": "2621万",
+      "likeCount": "42.6万",
+      "commentCount": "1.7万"
+    },
+    {
+      "rank": 502,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/8tOIjOPZ5sA/default.jpg",
         "url": "https://www.youtube.com/watch?v=8tOIjOPZ5sA",
         "target": "_blank"
@@ -18,31 +40,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-02-25",
-      "viewCount": "6986万",
+      "viewCount": "6987万",
       "likeCount": "42.59万",
       "commentCount": "1.2万"
-    },
-    {
-      "rank": 502,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/SR89b0qqRAg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=SR89b0qqRAg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SEKAI NO OWARI「最高到達点」ONE PIECE リリックMV",
-        "url": "https://www.youtube.com/watch?v=SR89b0qqRAg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SEKAI NO OWARI",
-        "url": "https://www.youtube.com/channel/UCKudwfXQgNM7Gkjv95qRI9w",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-10-14",
-      "viewCount": "8645万",
-      "likeCount": "42.58万",
-      "commentCount": "9887"
     },
     {
       "rank": 503,
@@ -62,8 +62,8 @@
         "target": "_blank"
       },
       "publishedAt": "2025-03-10",
-      "viewCount": "2768万",
-      "likeCount": "42.51万",
+      "viewCount": "2772万",
+      "likeCount": "42.53万",
       "commentCount": "1.2万"
     },
     {
@@ -84,8 +84,8 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-07",
-      "viewCount": "5814万",
-      "likeCount": "42.28万",
+      "viewCount": "5815万",
+      "likeCount": "42.29万",
       "commentCount": "1万"
     },
     {
@@ -106,9 +106,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-06-21",
-      "viewCount": "4752万",
-      "likeCount": "42.25万",
-      "commentCount": "2298"
+      "viewCount": "4754万",
+      "likeCount": "42.27万",
+      "commentCount": "2305"
     },
     {
       "rank": 506,
@@ -128,8 +128,8 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-24",
-      "viewCount": "7886万",
-      "likeCount": "42.02万",
+      "viewCount": "7889万",
+      "likeCount": "42.03万",
       "commentCount": "1.2万"
     },
     {
@@ -172,9 +172,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-24",
-      "viewCount": "2983万",
-      "likeCount": "41.81万",
-      "commentCount": "6640"
+      "viewCount": "2984万",
+      "likeCount": "41.83万",
+      "commentCount": "6642"
     },
     {
       "rank": 509,
@@ -194,8 +194,8 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-14",
-      "viewCount": "9038万",
-      "likeCount": "41.8万",
+      "viewCount": "9043万",
+      "likeCount": "41.81万",
       "commentCount": "1万"
     },
     {
@@ -261,7 +261,7 @@
       },
       "publishedAt": "2016-03-03",
       "viewCount": "1346万",
-      "likeCount": "41.69万",
+      "likeCount": "41.68万",
       "commentCount": "2.9万"
     },
     {
@@ -304,8 +304,8 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-24",
-      "viewCount": "3547万",
-      "likeCount": "41.54万",
+      "viewCount": "3548万",
+      "likeCount": "41.55万",
       "commentCount": "1万"
     },
     {
@@ -326,8 +326,8 @@
         "target": "_blank"
       },
       "publishedAt": "2015-07-31",
-      "viewCount": "7681万",
-      "likeCount": "41.51万",
+      "viewCount": "7682万",
+      "likeCount": "41.52万",
       "commentCount": "1.4万"
     },
     {
@@ -348,9 +348,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-21",
-      "viewCount": "4591万",
-      "likeCount": "41.31万",
-      "commentCount": "7085"
+      "viewCount": "4593万",
+      "likeCount": "41.32万",
+      "commentCount": "7084"
     },
     {
       "rank": 517,
@@ -370,9 +370,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-18",
-      "viewCount": "6775万",
-      "likeCount": "41.26万",
-      "commentCount": "7248"
+      "viewCount": "6777万",
+      "likeCount": "41.27万",
+      "commentCount": "7249"
     },
     {
       "rank": 518,
@@ -392,9 +392,9 @@
         "target": "_blank"
       },
       "publishedAt": "2016-05-12",
-      "viewCount": "6053万",
+      "viewCount": "6054万",
       "likeCount": "41.23万",
-      "commentCount": "9307"
+      "commentCount": "9309"
     },
     {
       "rank": 519,
@@ -414,9 +414,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-02-02",
-      "viewCount": "2678万",
-      "likeCount": "40.95万",
-      "commentCount": "5118"
+      "viewCount": "2679万",
+      "likeCount": "40.96万",
+      "commentCount": "5119"
     },
     {
       "rank": 520,
@@ -436,7 +436,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-02-21",
-      "viewCount": "6766万",
+      "viewCount": "6767万",
       "likeCount": "40.9万",
       "commentCount": "1.3万"
     },
@@ -502,7 +502,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-30",
-      "viewCount": "1562万",
+      "viewCount": "1563万",
       "likeCount": "40.71万",
       "commentCount": "2.4万"
     },
@@ -524,8 +524,8 @@
         "target": "_blank"
       },
       "publishedAt": "2020-10-09",
-      "viewCount": "1639万",
-      "likeCount": "40.68万",
+      "viewCount": "1640万",
+      "likeCount": "40.69万",
       "commentCount": "1.9万"
     },
     {
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-10-19",
-      "viewCount": "5234万",
+      "viewCount": "5235万",
       "likeCount": "40.53万",
       "commentCount": "1.3万"
     },
@@ -568,7 +568,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-01-17",
-      "viewCount": "5821万",
+      "viewCount": "5822万",
       "likeCount": "40.41万",
       "commentCount": "2万"
     },
@@ -590,7 +590,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-07-23",
-      "viewCount": "7636万",
+      "viewCount": "7637万",
       "likeCount": "40.31万",
       "commentCount": "1.2万"
     },
@@ -612,34 +612,12 @@
         "target": "_blank"
       },
       "publishedAt": "2017-02-22",
-      "viewCount": "5000万",
+      "viewCount": "5001万",
       "likeCount": "40.27万",
       "commentCount": "2.2万"
     },
     {
       "rank": 529,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/DtBoAqkIJzI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=DtBoAqkIJzI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "幽霊東京 / Ayase (self cover)",
-        "url": "https://www.youtube.com/watch?v=DtBoAqkIJzI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ayase / YOASOBI",
-        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-12-23",
-      "viewCount": "3971万",
-      "likeCount": "40.24万",
-      "commentCount": "6168"
-    },
-    {
-      "rank": 530,
       "thumb": {
         "img": "https://i.ytimg.com/vi/NLIGDjKBLY0/default.jpg",
         "url": "https://www.youtube.com/watch?v=NLIGDjKBLY0",
@@ -656,9 +634,31 @@
         "target": "_blank"
       },
       "publishedAt": "2025-07-03",
-      "viewCount": "3328万",
-      "likeCount": "40.18万",
-      "commentCount": "6008"
+      "viewCount": "3341万",
+      "likeCount": "40.26万",
+      "commentCount": "6009"
+    },
+    {
+      "rank": 530,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/DtBoAqkIJzI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=DtBoAqkIJzI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "幽霊東京 / Ayase (self cover)",
+        "url": "https://www.youtube.com/watch?v=DtBoAqkIJzI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ayase / YOASOBI",
+        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-12-23",
+      "viewCount": "3972万",
+      "likeCount": "40.24万",
+      "commentCount": "6170"
     },
     {
       "rank": 531,
@@ -678,12 +678,34 @@
         "target": "_blank"
       },
       "publishedAt": "2023-06-13",
-      "viewCount": "5324万",
-      "likeCount": "40.03万",
+      "viewCount": "5329万",
+      "likeCount": "40.05万",
       "commentCount": "1万"
     },
     {
       "rank": 532,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/QLHMhVonF-s/default.jpg",
+        "url": "https://www.youtube.com/watch?v=QLHMhVonF-s",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "黄昏のBAY CITY",
+        "url": "https://www.youtube.com/watch?v=QLHMhVonF-s",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Junko Yagami - Topic",
+        "url": "https://www.youtube.com/channel/UClrt1uflipH-2E2Yo6dY3Tw",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-09-16",
+      "viewCount": "2419万",
+      "likeCount": "40万",
+      "commentCount": "-"
+    },
+    {
+      "rank": 533,
       "thumb": {
         "img": "https://i.ytimg.com/vi/OJw3MmL-Omk/default.jpg",
         "url": "https://www.youtube.com/watch?v=OJw3MmL-Omk",
@@ -703,28 +725,6 @@
       "viewCount": "1494万",
       "likeCount": "39.99万",
       "commentCount": "5.2万"
-    },
-    {
-      "rank": 533,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/QLHMhVonF-s/default.jpg",
-        "url": "https://www.youtube.com/watch?v=QLHMhVonF-s",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "黄昏のBAY CITY",
-        "url": "https://www.youtube.com/watch?v=QLHMhVonF-s",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Junko Yagami - Topic",
-        "url": "https://www.youtube.com/channel/UClrt1uflipH-2E2Yo6dY3Tw",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-09-16",
-      "viewCount": "2417万",
-      "likeCount": "39.96万",
-      "commentCount": "-"
     },
     {
       "rank": 534,
@@ -767,7 +767,7 @@
       },
       "publishedAt": "2021-09-16",
       "viewCount": "2794万",
-      "likeCount": "39.78万",
+      "likeCount": "39.79万",
       "commentCount": "1.1万"
     },
     {
@@ -788,9 +788,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-02-11",
-      "viewCount": "7403万",
-      "likeCount": "39.7万",
-      "commentCount": "6743"
+      "viewCount": "7406万",
+      "likeCount": "39.71万",
+      "commentCount": "6744"
     },
     {
       "rank": 537,
@@ -810,8 +810,8 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-18",
-      "viewCount": "4266万",
-      "likeCount": "39.68万",
+      "viewCount": "4267万",
+      "likeCount": "39.69万",
       "commentCount": "1.1万"
     },
     {
@@ -832,7 +832,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-11-09",
-      "viewCount": "6549万",
+      "viewCount": "6550万",
       "likeCount": "39.59万",
       "commentCount": "8763"
     },
@@ -854,7 +854,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-09",
-      "viewCount": "3270万",
+      "viewCount": "3271万",
       "likeCount": "39.59万",
       "commentCount": "1.2万"
     },
@@ -898,9 +898,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-30",
-      "viewCount": "1億881万",
-      "likeCount": "39.43万",
-      "commentCount": "802"
+      "viewCount": "1億888万",
+      "likeCount": "39.44万",
+      "commentCount": "803"
     },
     {
       "rank": 542,
@@ -920,7 +920,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-16",
-      "viewCount": "4762万",
+      "viewCount": "4764万",
       "likeCount": "39.39万",
       "commentCount": "1.5万"
     },
@@ -942,7 +942,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-03-18",
-      "viewCount": "8863万",
+      "viewCount": "8865万",
       "likeCount": "39.22万",
       "commentCount": "2万"
     },
@@ -964,8 +964,8 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-14",
-      "viewCount": "7734万",
-      "likeCount": "39.02万",
+      "viewCount": "7737万",
+      "likeCount": "39.03万",
       "commentCount": "9733"
     },
     {
@@ -986,7 +986,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-05-28",
-      "viewCount": "4598万",
+      "viewCount": "4599万",
       "likeCount": "38.98万",
       "commentCount": "8285"
     },
@@ -1030,9 +1030,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-14",
-      "viewCount": "6563万",
-      "likeCount": "38.81万",
-      "commentCount": "5683"
+      "viewCount": "6566万",
+      "likeCount": "38.82万",
+      "commentCount": "5680"
     },
     {
       "rank": 548,
@@ -1074,8 +1074,8 @@
         "target": "_blank"
       },
       "publishedAt": "2016-01-03",
-      "viewCount": "4447万",
-      "likeCount": "38.68万",
+      "viewCount": "4448万",
+      "likeCount": "38.69万",
       "commentCount": "1万"
     },
     {
@@ -1096,8 +1096,8 @@
         "target": "_blank"
       },
       "publishedAt": "2014-09-23",
-      "viewCount": "4653万",
-      "likeCount": "38.67万",
+      "viewCount": "4654万",
+      "likeCount": "38.68万",
       "commentCount": "7810"
     }
   ]

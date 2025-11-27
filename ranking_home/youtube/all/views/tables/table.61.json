@@ -20,8 +20,8 @@
       "publishedAt": "2017-06-18",
       "viewCount": "1124万",
       "likeCount": "6万",
-      "commentCount": "3104",
-      "increment_d1": "818"
+      "commentCount": "3105",
+      "increment_d1": "835"
     },
     {
       "rank": 3002,
@@ -44,7 +44,7 @@
       "viewCount": "1124万",
       "likeCount": "29.2万",
       "commentCount": "2.1万",
-      "increment_d1": "689"
+      "increment_d1": "658"
     },
     {
       "rank": 3003,
@@ -67,7 +67,7 @@
       "viewCount": "1123万",
       "likeCount": "1.1万",
       "commentCount": "-",
-      "increment_d1": "846"
+      "increment_d1": "832"
     },
     {
       "rank": 3004,
@@ -90,10 +90,33 @@
       "viewCount": "1123万",
       "likeCount": "9.2万",
       "commentCount": "2.2万",
-      "increment_d1": "1144"
+      "increment_d1": "1250"
     },
     {
       "rank": 3005,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/wJ6FMjZkbMI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=wJ6FMjZkbMI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ONE OK ROCK - Broken Heart of Gold Japanese Version [OFFICIAL MUSIC VIDEO]",
+        "url": "https://www.youtube.com/watch?v=wJ6FMjZkbMI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ONE OK ROCK",
+        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-08-13",
+      "viewCount": "1123万",
+      "likeCount": "17万",
+      "commentCount": "3757",
+      "increment_d1": "3654"
+    },
+    {
+      "rank": 3006,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Q6pTQd24iLs/default.jpg",
         "url": "https://www.youtube.com/watch?v=Q6pTQd24iLs",
@@ -113,30 +136,7 @@
       "viewCount": "1123万",
       "likeCount": "6.8万",
       "commentCount": "2634",
-      "increment_d1": "255"
-    },
-    {
-      "rank": 3006,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/wJ6FMjZkbMI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=wJ6FMjZkbMI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ONE OK ROCK - Broken Heart of Gold Japanese Version [OFFICIAL MUSIC VIDEO]",
-        "url": "https://www.youtube.com/watch?v=wJ6FMjZkbMI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ONE OK ROCK",
-        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-08-13",
-      "viewCount": "1122万",
-      "likeCount": "17万",
-      "commentCount": "3757",
-      "increment_d1": "3661"
+      "increment_d1": "379"
     },
     {
       "rank": 3007,
@@ -159,33 +159,10 @@
       "viewCount": "1122万",
       "likeCount": "3.9万",
       "commentCount": "1110",
-      "increment_d1": "445"
+      "increment_d1": "580"
     },
     {
       "rank": 3008,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/SAHvDE9FFAE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=SAHvDE9FFAE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ONE OK ROCK - Liar [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=SAHvDE9FFAE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ONE OK ROCK",
-        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-04-09",
-      "viewCount": "1121万",
-      "likeCount": "9.4万",
-      "commentCount": "2177",
-      "increment_d1": "882"
-    },
-    {
-      "rank": 3009,
       "thumb": {
         "img": "https://i.ytimg.com/vi/l1HeItO98FI/default.jpg",
         "url": "https://www.youtube.com/watch?v=l1HeItO98FI",
@@ -205,7 +182,30 @@
       "viewCount": "1121万",
       "likeCount": "7.4万",
       "commentCount": "2166",
-      "increment_d1": "4313"
+      "increment_d1": "4352"
+    },
+    {
+      "rank": 3009,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/SAHvDE9FFAE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=SAHvDE9FFAE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ONE OK ROCK - Liar [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=SAHvDE9FFAE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ONE OK ROCK",
+        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-04-09",
+      "viewCount": "1121万",
+      "likeCount": "9.4万",
+      "commentCount": "2177",
+      "increment_d1": "780"
     },
     {
       "rank": 3010,
@@ -225,10 +225,10 @@
         "target": "_blank"
       },
       "publishedAt": "2009-09-28",
-      "viewCount": "1120万",
+      "viewCount": "1121万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "2711"
+      "increment_d1": "3276"
     },
     {
       "rank": 3011,
@@ -251,7 +251,7 @@
       "viewCount": "1120万",
       "likeCount": "3.8万",
       "commentCount": "845",
-      "increment_d1": "2347"
+      "increment_d1": "2612"
     },
     {
       "rank": 3012,
@@ -274,7 +274,7 @@
       "viewCount": "1120万",
       "likeCount": "12.7万",
       "commentCount": "2090",
-      "increment_d1": "1710"
+      "increment_d1": "1761"
     },
     {
       "rank": 3013,
@@ -297,7 +297,7 @@
       "viewCount": "1120万",
       "likeCount": "3.1万",
       "commentCount": "1760",
-      "increment_d1": "117"
+      "increment_d1": "141"
     },
     {
       "rank": 3014,
@@ -320,7 +320,7 @@
       "viewCount": "1119万",
       "likeCount": "6.8万",
       "commentCount": "1854",
-      "increment_d1": "5364"
+      "increment_d1": "5388"
     },
     {
       "rank": 3015,
@@ -343,33 +343,10 @@
       "viewCount": "1119万",
       "likeCount": "9.2万",
       "commentCount": "2910",
-      "increment_d1": "1550"
+      "increment_d1": "1498"
     },
     {
       "rank": 3016,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/GRFwFjgDmus/default.jpg",
-        "url": "https://www.youtube.com/watch?v=GRFwFjgDmus",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV full】 ラッキーセブン / AKB48 [公式]",
-        "url": "https://www.youtube.com/watch?v=GRFwFjgDmus",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "AKB48",
-        "url": "https://www.youtube.com/channel/UCxjXU89x6owat9dA8Z-bzdw",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-09-08",
-      "viewCount": "1118万",
-      "likeCount": "2.7万",
-      "commentCount": "1166",
-      "increment_d1": "842"
-    },
-    {
-      "rank": 3017,
       "thumb": {
         "img": "https://i.ytimg.com/vi/MYjJIfBbbMY/default.jpg",
         "url": "https://www.youtube.com/watch?v=MYjJIfBbbMY",
@@ -389,7 +366,30 @@
       "viewCount": "1118万",
       "likeCount": "9.5万",
       "commentCount": "3881",
-      "increment_d1": "818"
+      "increment_d1": "927"
+    },
+    {
+      "rank": 3017,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/GRFwFjgDmus/default.jpg",
+        "url": "https://www.youtube.com/watch?v=GRFwFjgDmus",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV full】 ラッキーセブン / AKB48 [公式]",
+        "url": "https://www.youtube.com/watch?v=GRFwFjgDmus",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "AKB48",
+        "url": "https://www.youtube.com/channel/UCxjXU89x6owat9dA8Z-bzdw",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-09-08",
+      "viewCount": "1118万",
+      "likeCount": "2.7万",
+      "commentCount": "1166",
+      "increment_d1": "782"
     },
     {
       "rank": 3018,
@@ -412,7 +412,7 @@
       "viewCount": "1118万",
       "likeCount": "13.2万",
       "commentCount": "3114",
-      "increment_d1": "2842"
+      "increment_d1": "3121"
     },
     {
       "rank": 3019,
@@ -434,8 +434,8 @@
       "publishedAt": "2014-12-08",
       "viewCount": "1118万",
       "likeCount": "3.8万",
-      "commentCount": "1340",
-      "increment_d1": "792"
+      "commentCount": "1339",
+      "increment_d1": "803"
     },
     {
       "rank": 3020,
@@ -458,7 +458,7 @@
       "viewCount": "1117万",
       "likeCount": "18万",
       "commentCount": "1056",
-      "increment_d1": "499"
+      "increment_d1": "584"
     },
     {
       "rank": 3021,
@@ -481,10 +481,33 @@
       "viewCount": "1117万",
       "likeCount": "31.2万",
       "commentCount": "1.1万",
-      "increment_d1": "1485"
+      "increment_d1": "1478"
     },
     {
       "rank": 3022,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/E3UDqofqcc4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=E3UDqofqcc4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – Loneliness 【LIVE “NOAH no HAKOBUNE” on WOWOWプラス】",
+        "url": "https://www.youtube.com/watch?v=E3UDqofqcc4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-09-21",
+      "viewCount": "1116万",
+      "likeCount": "7.9万",
+      "commentCount": "2695",
+      "increment_d1": "1.08万"
+    },
+    {
+      "rank": 3023,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ViqPBSUt59g/default.jpg",
         "url": "https://www.youtube.com/watch?v=ViqPBSUt59g",
@@ -504,10 +527,10 @@
       "viewCount": "1116万",
       "likeCount": "10.1万",
       "commentCount": "2709",
-      "increment_d1": "1144"
+      "increment_d1": "1227"
     },
     {
-      "rank": 3023,
+      "rank": 3024,
       "thumb": {
         "img": "https://i.ytimg.com/vi/54QvPwLXJ2s/default.jpg",
         "url": "https://www.youtube.com/watch?v=54QvPwLXJ2s",
@@ -527,33 +550,33 @@
       "viewCount": "1116万",
       "likeCount": "5.5万",
       "commentCount": "3110",
-      "increment_d1": "1417"
-    },
-    {
-      "rank": 3024,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/E3UDqofqcc4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=E3UDqofqcc4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – Loneliness 【LIVE “NOAH no HAKOBUNE” on WOWOWプラス】",
-        "url": "https://www.youtube.com/watch?v=E3UDqofqcc4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-09-21",
-      "viewCount": "1115万",
-      "likeCount": "7.9万",
-      "commentCount": "2695",
-      "increment_d1": "1.04万"
+      "increment_d1": "1547"
     },
     {
       "rank": 3025,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/EZZx5VkZtw8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=EZZx5VkZtw8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "アイナ・ジ・エンド - アイコトバ [Official Music Video]（TVアニメ『薬屋のひとりごと』エンディングテーマ）",
+        "url": "https://www.youtube.com/watch?v=EZZx5VkZtw8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "アイナ・ジ・エンド Official",
+        "url": "https://www.youtube.com/channel/UCFPb0Vc0Cjd3MpDOlHPQoPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-11-13",
+      "viewCount": "1115万",
+      "likeCount": "7.8万",
+      "commentCount": "1200",
+      "increment_d1": "7150"
+    },
+    {
+      "rank": 3026,
       "thumb": {
         "img": "https://i.ytimg.com/vi/WVCJ91RHwe8/default.jpg",
         "url": "https://www.youtube.com/watch?v=WVCJ91RHwe8",
@@ -573,10 +596,10 @@
       "viewCount": "1115万",
       "likeCount": "12.1万",
       "commentCount": "3079",
-      "increment_d1": "1210"
+      "increment_d1": "1275"
     },
     {
-      "rank": 3026,
+      "rank": 3027,
       "thumb": {
         "img": "https://i.ytimg.com/vi/WJW7kS9AAI4/default.jpg",
         "url": "https://www.youtube.com/watch?v=WJW7kS9AAI4",
@@ -596,10 +619,10 @@
       "viewCount": "1115万",
       "likeCount": "10.7万",
       "commentCount": "3413",
-      "increment_d1": "393"
+      "increment_d1": "414"
     },
     {
-      "rank": 3027,
+      "rank": 3028,
       "thumb": {
         "img": "https://i.ytimg.com/vi/DoB_rOLZSHs/default.jpg",
         "url": "https://www.youtube.com/watch?v=DoB_rOLZSHs",
@@ -619,10 +642,10 @@
       "viewCount": "1114万",
       "likeCount": "1.7万",
       "commentCount": "1421",
-      "increment_d1": "44"
+      "increment_d1": "49"
     },
     {
-      "rank": 3028,
+      "rank": 3029,
       "thumb": {
         "img": "https://i.ytimg.com/vi/juXD8vr5_r8/default.jpg",
         "url": "https://www.youtube.com/watch?v=juXD8vr5_r8",
@@ -641,31 +664,8 @@
       "publishedAt": "2020-03-20",
       "viewCount": "1114万",
       "likeCount": "-",
-      "commentCount": "8045",
-      "increment_d1": "526"
-    },
-    {
-      "rank": 3029,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/EZZx5VkZtw8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=EZZx5VkZtw8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "アイナ・ジ・エンド - アイコトバ [Official Music Video]（TVアニメ『薬屋のひとりごと』エンディングテーマ）",
-        "url": "https://www.youtube.com/watch?v=EZZx5VkZtw8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アイナ・ジ・エンド Official",
-        "url": "https://www.youtube.com/channel/UCFPb0Vc0Cjd3MpDOlHPQoPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-11-13",
-      "viewCount": "1114万",
-      "likeCount": "7.8万",
-      "commentCount": "1200",
-      "increment_d1": "6765"
+      "commentCount": "8047",
+      "increment_d1": "682"
     },
     {
       "rank": 3030,
@@ -688,10 +688,33 @@
       "viewCount": "1114万",
       "likeCount": "7.3万",
       "commentCount": "1995",
-      "increment_d1": "1036"
+      "increment_d1": "1002"
     },
     {
       "rank": 3031,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1NY-tAGiW5M/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1NY-tAGiW5M",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "INI｜'DOMINANCE' Official MV",
+        "url": "https://www.youtube.com/watch?v=1NY-tAGiW5M",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "INI",
+        "url": "https://www.youtube.com/channel/UCc-itdQHxLvUlPrDxIiSJrA",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-06-02",
+      "viewCount": "1114万",
+      "likeCount": "11.4万",
+      "commentCount": "2.9万",
+      "increment_d1": "3136"
+    },
+    {
+      "rank": 3032,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Vw0vhiRtLkw/default.jpg",
         "url": "https://www.youtube.com/watch?v=Vw0vhiRtLkw",
@@ -711,30 +734,7 @@
       "viewCount": "1113万",
       "likeCount": "4.2万",
       "commentCount": "2282",
-      "increment_d1": "304"
-    },
-    {
-      "rank": 3032,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1NY-tAGiW5M/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1NY-tAGiW5M",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "INI｜'DOMINANCE' Official MV",
-        "url": "https://www.youtube.com/watch?v=1NY-tAGiW5M",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "INI",
-        "url": "https://www.youtube.com/channel/UCc-itdQHxLvUlPrDxIiSJrA",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-06-02",
-      "viewCount": "1113万",
-      "likeCount": "11.4万",
-      "commentCount": "2.9万",
-      "increment_d1": "3057"
+      "increment_d1": "321"
     },
     {
       "rank": 3033,
@@ -757,7 +757,7 @@
       "viewCount": "1113万",
       "likeCount": "30.3万",
       "commentCount": "1.4万",
-      "increment_d1": "221"
+      "increment_d1": "227"
     },
     {
       "rank": 3034,
@@ -779,8 +779,8 @@
       "publishedAt": "2018-10-17",
       "viewCount": "1113万",
       "likeCount": "10.3万",
-      "commentCount": "4642",
-      "increment_d1": "1809"
+      "commentCount": "4640",
+      "increment_d1": "1815"
     },
     {
       "rank": 3035,
@@ -803,7 +803,7 @@
       "viewCount": "1113万",
       "likeCount": "15.6万",
       "commentCount": "3561",
-      "increment_d1": "955"
+      "increment_d1": "1036"
     },
     {
       "rank": 3036,
@@ -826,7 +826,7 @@
       "viewCount": "1112万",
       "likeCount": "-",
       "commentCount": "1.2万",
-      "increment_d1": "1378"
+      "increment_d1": "1474"
     },
     {
       "rank": 3037,
@@ -849,7 +849,7 @@
       "viewCount": "1112万",
       "likeCount": "-",
       "commentCount": "1.4万",
-      "increment_d1": "702"
+      "increment_d1": "647"
     },
     {
       "rank": 3038,
@@ -871,8 +871,8 @@
       "publishedAt": "2018-02-17",
       "viewCount": "1111万",
       "likeCount": "14.6万",
-      "commentCount": "6511",
-      "increment_d1": "891"
+      "commentCount": "6512",
+      "increment_d1": "839"
     },
     {
       "rank": 3039,
@@ -895,7 +895,7 @@
       "viewCount": "1111万",
       "likeCount": "4.8万",
       "commentCount": "1.3万",
-      "increment_d1": "2311"
+      "increment_d1": "2456"
     },
     {
       "rank": 3040,
@@ -918,7 +918,7 @@
       "viewCount": "1110万",
       "likeCount": "-",
       "commentCount": "6949",
-      "increment_d1": "597"
+      "increment_d1": "625"
     },
     {
       "rank": 3041,
@@ -941,7 +941,7 @@
       "viewCount": "1110万",
       "likeCount": "2万",
       "commentCount": "615",
-      "increment_d1": "65"
+      "increment_d1": "66"
     },
     {
       "rank": 3042,
@@ -964,7 +964,7 @@
       "viewCount": "1110万",
       "likeCount": "10.8万",
       "commentCount": "2840",
-      "increment_d1": "530"
+      "increment_d1": "567"
     },
     {
       "rank": 3043,
@@ -986,11 +986,34 @@
       "publishedAt": "2016-02-16",
       "viewCount": "1109万",
       "likeCount": "3.1万",
-      "commentCount": "655",
-      "increment_d1": "195"
+      "commentCount": "656",
+      "increment_d1": "217"
     },
     {
       "rank": 3044,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/CSgG6wPB0Kw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=CSgG6wPB0Kw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ラブレター",
+        "url": "https://www.youtube.com/watch?v=CSgG6wPB0Kw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-11-30",
+      "viewCount": "1108万",
+      "likeCount": "4.6万",
+      "commentCount": "100",
+      "increment_d1": "7498"
+    },
+    {
+      "rank": 3045,
       "thumb": {
         "img": "https://i.ytimg.com/vi/u9s4XKAmf9I/default.jpg",
         "url": "https://www.youtube.com/watch?v=u9s4XKAmf9I",
@@ -1010,10 +1033,10 @@
       "viewCount": "1108万",
       "likeCount": "4.3万",
       "commentCount": "2653",
-      "increment_d1": "1320"
+      "increment_d1": "1369"
     },
     {
-      "rank": 3045,
+      "rank": 3046,
       "thumb": {
         "img": "https://i.ytimg.com/vi/uNFm-m2jzjU/default.jpg",
         "url": "https://www.youtube.com/watch?v=uNFm-m2jzjU",
@@ -1033,10 +1056,10 @@
       "viewCount": "1108万",
       "likeCount": "-",
       "commentCount": "2252",
-      "increment_d1": "732"
+      "increment_d1": "901"
     },
     {
-      "rank": 3046,
+      "rank": 3047,
       "thumb": {
         "img": "https://i.ytimg.com/vi/paHGjIe2Wms/default.jpg",
         "url": "https://www.youtube.com/watch?v=paHGjIe2Wms",
@@ -1055,11 +1078,34 @@
       "publishedAt": "2014-04-08",
       "viewCount": "1108万",
       "likeCount": "6.2万",
-      "commentCount": "2526",
-      "increment_d1": "1148"
+      "commentCount": "2529",
+      "increment_d1": "1293"
     },
     {
-      "rank": 3047,
+      "rank": 3048,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Xhkvge0rrss/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Xhkvge0rrss",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "アンジェラ・アキ「This Love」OFFICIAL MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=Xhkvge0rrss",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "アンジェラ・アキ OFFICIAL YouTube CHANNEL",
+        "url": "https://www.youtube.com/channel/UCS3xG6qAAqXxwDZdAfa1NXA",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-06-18",
+      "viewCount": "1108万",
+      "likeCount": "4.7万",
+      "commentCount": "1256",
+      "increment_d1": "2867"
+    },
+    {
+      "rank": 3049,
       "thumb": {
         "img": "https://i.ytimg.com/vi/AV-gYE_eKFM/default.jpg",
         "url": "https://www.youtube.com/watch?v=AV-gYE_eKFM",
@@ -1079,10 +1125,10 @@
       "viewCount": "1108万",
       "likeCount": "2万",
       "commentCount": "669",
-      "increment_d1": "1075"
+      "increment_d1": "1152"
     },
     {
-      "rank": 3048,
+      "rank": 3050,
       "thumb": {
         "img": "https://i.ytimg.com/vi/mZPbXTQWb0k/default.jpg",
         "url": "https://www.youtube.com/watch?v=mZPbXTQWb0k",
@@ -1102,53 +1148,7 @@
       "viewCount": "1108万",
       "likeCount": "-",
       "commentCount": "338",
-      "increment_d1": "520"
-    },
-    {
-      "rank": 3049,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Xhkvge0rrss/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Xhkvge0rrss",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "アンジェラ・アキ「This Love」OFFICIAL MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=Xhkvge0rrss",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アンジェラ・アキ OFFICIAL YouTube CHANNEL",
-        "url": "https://www.youtube.com/channel/UCS3xG6qAAqXxwDZdAfa1NXA",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-06-18",
-      "viewCount": "1107万",
-      "likeCount": "4.7万",
-      "commentCount": "1256",
-      "increment_d1": "2584"
-    },
-    {
-      "rank": 3050,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/CSgG6wPB0Kw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=CSgG6wPB0Kw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ラブレター",
-        "url": "https://www.youtube.com/watch?v=CSgG6wPB0Kw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-30",
-      "viewCount": "1107万",
-      "likeCount": "4.6万",
-      "commentCount": "100",
-      "increment_d1": "7590"
+      "increment_d1": "595"
     }
   ]
 }

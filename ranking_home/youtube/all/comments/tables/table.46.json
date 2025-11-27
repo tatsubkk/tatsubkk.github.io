@@ -20,7 +20,7 @@
       "publishedAt": "2017-01-26",
       "viewCount": "1365万",
       "likeCount": "6万",
-      "commentCount": "2979"
+      "commentCount": "2980"
     },
     {
       "rank": 2252,
@@ -40,7 +40,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-17",
-      "viewCount": "2211万",
+      "viewCount": "2214万",
       "likeCount": "17.4万",
       "commentCount": "2977"
     },
@@ -64,10 +64,32 @@
       "publishedAt": "2021-04-09",
       "viewCount": "1256万",
       "likeCount": "15.9万",
-      "commentCount": "2972"
+      "commentCount": "2973"
     },
     {
       "rank": 2254,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/zhCtzmDWsN0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=zhCtzmDWsN0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SHISHAMO「明日も」",
+        "url": "https://www.youtube.com/watch?v=zhCtzmDWsN0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "shishamoofficial",
+        "url": "https://www.youtube.com/channel/UCqLwLsPsfuy_vSNK09sLomw",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-02-12",
+      "viewCount": "8549万",
+      "likeCount": "38.4万",
+      "commentCount": "2972"
+    },
+    {
+      "rank": 2255,
       "thumb": {
         "img": "https://i.ytimg.com/vi/SqPNGw13frk/default.jpg",
         "url": "https://www.youtube.com/watch?v=SqPNGw13frk",
@@ -86,10 +108,10 @@
       "publishedAt": "2021-07-21",
       "viewCount": "1046万",
       "likeCount": "13.9万",
-      "commentCount": "2969"
+      "commentCount": "2970"
     },
     {
-      "rank": 2254,
+      "rank": 2256,
       "thumb": {
         "img": "https://i.ytimg.com/vi/CWp2ZDMWn2g/default.jpg",
         "url": "https://www.youtube.com/watch?v=CWp2ZDMWn2g",
@@ -106,31 +128,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-10-23",
-      "viewCount": "1101万",
+      "viewCount": "1102万",
       "likeCount": "17.2万",
       "commentCount": "2969"
-    },
-    {
-      "rank": 2256,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/zhCtzmDWsN0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=zhCtzmDWsN0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SHISHAMO「明日も」",
-        "url": "https://www.youtube.com/watch?v=zhCtzmDWsN0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "shishamoofficial",
-        "url": "https://www.youtube.com/channel/UCqLwLsPsfuy_vSNK09sLomw",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-02-12",
-      "viewCount": "8547万",
-      "likeCount": "38.4万",
-      "commentCount": "2964"
     },
     {
       "rank": 2257,
@@ -152,32 +152,10 @@
       "publishedAt": "2021-01-29",
       "viewCount": "2145万",
       "likeCount": "14.3万",
-      "commentCount": "2961"
+      "commentCount": "2962"
     },
     {
       "rank": 2258,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/fodRoRdDSug/default.jpg",
-        "url": "https://www.youtube.com/watch?v=fodRoRdDSug",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "amazarashi『月曜日』“Monday” Music Video｜マンガ「月曜日の友達」主題歌",
-        "url": "https://www.youtube.com/watch?v=fodRoRdDSug",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "amazarashi Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCjU51lhtpje-r0eF4b0jpbw",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-03-12",
-      "viewCount": "1156万",
-      "likeCount": "7.9万",
-      "commentCount": "2950"
-    },
-    {
-      "rank": 2259,
       "thumb": {
         "img": "https://i.ytimg.com/vi/OVKKtwDReEA/default.jpg",
         "url": "https://www.youtube.com/watch?v=OVKKtwDReEA",
@@ -199,7 +177,29 @@
       "commentCount": "2949"
     },
     {
-      "rank": 2260,
+      "rank": 2259,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/fodRoRdDSug/default.jpg",
+        "url": "https://www.youtube.com/watch?v=fodRoRdDSug",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "amazarashi『月曜日』“Monday” Music Video｜マンガ「月曜日の友達」主題歌",
+        "url": "https://www.youtube.com/watch?v=fodRoRdDSug",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "amazarashi Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCjU51lhtpje-r0eF4b0jpbw",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-03-12",
+      "viewCount": "1157万",
+      "likeCount": "7.9万",
+      "commentCount": "2948"
+    },
+    {
+      "rank": 2259,
       "thumb": {
         "img": "https://i.ytimg.com/vi/JZSn-od-Hu0/default.jpg",
         "url": "https://www.youtube.com/watch?v=JZSn-od-Hu0",
@@ -216,9 +216,9 @@
         "target": "_blank"
       },
       "publishedAt": "2018-12-18",
-      "viewCount": "1395万",
+      "viewCount": "1396万",
       "likeCount": "23.1万",
-      "commentCount": "2947"
+      "commentCount": "2948"
     },
     {
       "rank": 2261,
@@ -267,28 +267,6 @@
     {
       "rank": 2263,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/cxM_FmezzFA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=cxM_FmezzFA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ヤングスキニー - 本当はね、【Official Music Video】",
-        "url": "https://www.youtube.com/watch?v=cxM_FmezzFA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ヤングスキニー",
-        "url": "https://www.youtube.com/channel/UCcg_rvE-fU2tATMwBAxW9bA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-10-05",
-      "viewCount": "3915万",
-      "likeCount": "23.5万",
-      "commentCount": "2939"
-    },
-    {
-      "rank": 2263,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/VxR_BYPG7v4/default.jpg",
         "url": "https://www.youtube.com/watch?v=VxR_BYPG7v4",
         "target": "_blank"
@@ -306,6 +284,28 @@
       "publishedAt": "2022-07-09",
       "viewCount": "1191万",
       "likeCount": "11.9万",
+      "commentCount": "2940"
+    },
+    {
+      "rank": 2264,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/cxM_FmezzFA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=cxM_FmezzFA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ヤングスキニー - 本当はね、【Official Music Video】",
+        "url": "https://www.youtube.com/watch?v=cxM_FmezzFA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ヤングスキニー",
+        "url": "https://www.youtube.com/channel/UCcg_rvE-fU2tATMwBAxW9bA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-10-05",
+      "viewCount": "3917万",
+      "likeCount": "23.5万",
       "commentCount": "2939"
     },
     {
@@ -328,7 +328,7 @@
       "publishedAt": "2024-08-16",
       "viewCount": "1632万",
       "likeCount": "7.8万",
-      "commentCount": "2931"
+      "commentCount": "2933"
     },
     {
       "rank": 2266,
@@ -350,10 +350,10 @@
       "publishedAt": "2016-06-07",
       "viewCount": "1985万",
       "likeCount": "8.6万",
-      "commentCount": "2923"
+      "commentCount": "2924"
     },
     {
-      "rank": 2266,
+      "rank": 2267,
       "thumb": {
         "img": "https://i.ytimg.com/vi/KmvYJtdJoEw/default.jpg",
         "url": "https://www.youtube.com/watch?v=KmvYJtdJoEw",
@@ -370,7 +370,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-12-15",
-      "viewCount": "1279万",
+      "viewCount": "1280万",
       "likeCount": "7.1万",
       "commentCount": "2923"
     },
@@ -392,7 +392,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-07",
-      "viewCount": "1481万",
+      "viewCount": "1482万",
       "likeCount": "10.3万",
       "commentCount": "2922"
     },
@@ -414,9 +414,31 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-26",
-      "viewCount": "2142万",
+      "viewCount": "2143万",
       "likeCount": "19.5万",
-      "commentCount": "2916"
+      "commentCount": "2917"
+    },
+    {
+      "rank": 2270,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/GTnMIACX6TM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=GTnMIACX6TM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV】歯ラ歯ラ🦷🪥✨",
+        "url": "https://www.youtube.com/watch?v=GTnMIACX6TM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "しなこ Shinako / ASMR",
+        "url": "https://www.youtube.com/channel/UCSPkmZyeHlDNE-6YMSg5Fbg",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-10-18",
+      "viewCount": "1744万",
+      "likeCount": "5.6万",
+      "commentCount": "2913"
     },
     {
       "rank": 2270,
@@ -439,28 +461,6 @@
       "viewCount": "1656万",
       "likeCount": "5.2万",
       "commentCount": "2913"
-    },
-    {
-      "rank": 2271,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/GTnMIACX6TM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=GTnMIACX6TM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV】歯ラ歯ラ🦷🪥✨",
-        "url": "https://www.youtube.com/watch?v=GTnMIACX6TM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "しなこ Shinako / ASMR",
-        "url": "https://www.youtube.com/channel/UCSPkmZyeHlDNE-6YMSg5Fbg",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-10-18",
-      "viewCount": "1743万",
-      "likeCount": "5.6万",
-      "commentCount": "2912"
     },
     {
       "rank": 2272,
@@ -546,9 +546,9 @@
         "target": "_blank"
       },
       "publishedAt": "2017-11-10",
-      "viewCount": "1481万",
+      "viewCount": "1482万",
       "likeCount": "12.8万",
-      "commentCount": "2880"
+      "commentCount": "2881"
     },
     {
       "rank": 2276,
@@ -590,7 +590,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-06-13",
-      "viewCount": "3839万",
+      "viewCount": "3840万",
       "likeCount": "8.2万",
       "commentCount": "2874"
     },
@@ -612,7 +612,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-07-11",
-      "viewCount": "1168万",
+      "viewCount": "1169万",
       "likeCount": "8.1万",
       "commentCount": "2873"
     },
@@ -641,28 +641,6 @@
     {
       "rank": 2280,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/Kc9cuqAjjhs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Kc9cuqAjjhs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV full】 マジスカロックンロール / AKB48 [公式]",
-        "url": "https://www.youtube.com/watch?v=Kc9cuqAjjhs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "AKB48",
-        "url": "https://www.youtube.com/channel/UCxjXU89x6owat9dA8Z-bzdw",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-09-08",
-      "viewCount": "1779万",
-      "likeCount": "5.6万",
-      "commentCount": "2867"
-    },
-    {
-      "rank": 2280,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/k1S0i8FoV4c/default.jpg",
         "url": "https://www.youtube.com/watch?v=k1S0i8FoV4c",
         "target": "_blank"
@@ -680,10 +658,10 @@
       "publishedAt": "2019-12-10",
       "viewCount": "1531万",
       "likeCount": "5.1万",
-      "commentCount": "2867"
+      "commentCount": "2870"
     },
     {
-      "rank": 2282,
+      "rank": 2281,
       "thumb": {
         "img": "https://i.ytimg.com/vi/nGY19DwskCg/default.jpg",
         "url": "https://www.youtube.com/watch?v=nGY19DwskCg",
@@ -702,7 +680,29 @@
       "publishedAt": "2019-12-29",
       "viewCount": "1938万",
       "likeCount": "7.3万",
-      "commentCount": "2866"
+      "commentCount": "2868"
+    },
+    {
+      "rank": 2282,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Kc9cuqAjjhs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Kc9cuqAjjhs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV full】 マジスカロックンロール / AKB48 [公式]",
+        "url": "https://www.youtube.com/watch?v=Kc9cuqAjjhs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "AKB48",
+        "url": "https://www.youtube.com/channel/UCxjXU89x6owat9dA8Z-bzdw",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-09-08",
+      "viewCount": "1780万",
+      "likeCount": "5.6万",
+      "commentCount": "2867"
     },
     {
       "rank": 2283,
@@ -744,7 +744,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-02-09",
-      "viewCount": "2637万",
+      "viewCount": "2639万",
       "likeCount": "9.5万",
       "commentCount": "2850"
     },
@@ -766,7 +766,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-12-03",
-      "viewCount": "1921万",
+      "viewCount": "1922万",
       "likeCount": "13.4万",
       "commentCount": "2849"
     },
@@ -793,7 +793,7 @@
       "commentCount": "2848"
     },
     {
-      "rank": 2287,
+      "rank": 2286,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vMk81-Y_cYU/default.jpg",
         "url": "https://www.youtube.com/watch?v=vMk81-Y_cYU",
@@ -812,10 +812,10 @@
       "publishedAt": "2012-11-07",
       "viewCount": "3625万",
       "likeCount": "7.6万",
-      "commentCount": "2845"
+      "commentCount": "2848"
     },
     {
-      "rank": 2287,
+      "rank": 2288,
       "thumb": {
         "img": "https://i.ytimg.com/vi/eW620xcBnVE/default.jpg",
         "url": "https://www.youtube.com/watch?v=eW620xcBnVE",
@@ -832,7 +832,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-09",
-      "viewCount": "2082万",
+      "viewCount": "2083万",
       "likeCount": "21.9万",
       "commentCount": "2845"
     },
@@ -854,12 +854,12 @@
         "target": "_blank"
       },
       "publishedAt": "2022-02-04",
-      "viewCount": "1789万",
+      "viewCount": "1790万",
       "likeCount": "5万",
-      "commentCount": "2843"
+      "commentCount": "2844"
     },
     {
-      "rank": 2290,
+      "rank": 2289,
       "thumb": {
         "img": "https://i.ytimg.com/vi/NP60Qqjfdhs/default.jpg",
         "url": "https://www.youtube.com/watch?v=NP60Qqjfdhs",
@@ -878,7 +878,7 @@
       "publishedAt": "2010-12-07",
       "viewCount": "2166万",
       "likeCount": "7.9万",
-      "commentCount": "2842"
+      "commentCount": "2844"
     },
     {
       "rank": 2291,
@@ -942,12 +942,12 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-03",
-      "viewCount": "1856万",
+      "viewCount": "1858万",
       "likeCount": "12.9万",
-      "commentCount": "2837"
+      "commentCount": "2838"
     },
     {
-      "rank": 2293,
+      "rank": 2294,
       "thumb": {
         "img": "https://i.ytimg.com/vi/EZ5RGA2UULE/default.jpg",
         "url": "https://www.youtube.com/watch?v=EZ5RGA2UULE",
@@ -964,31 +964,31 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-30",
-      "viewCount": "4951万",
+      "viewCount": "4952万",
       "likeCount": "16.4万",
       "commentCount": "2837"
     },
     {
       "rank": 2295,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/f92VWkYl8CI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=f92VWkYl8CI",
+        "img": "https://i.ytimg.com/vi/T10oS02RsGA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=T10oS02RsGA",
         "target": "_blank"
       },
       "title": {
-        "text": "the pillows / Funny Bunny",
-        "url": "https://www.youtube.com/watch?v=f92VWkYl8CI",
+        "text": "back number - 青い春 (full)",
+        "url": "https://www.youtube.com/watch?v=T10oS02RsGA",
         "target": "_blank"
       },
       "channel": {
-        "text": "pillows20th",
-        "url": "https://www.youtube.com/channel/UCgapSeetlZHzdpTzMvg1p8w",
+        "text": "BackNumberVEVO",
+        "url": "https://www.youtube.com/channel/UCb4nKpOlWpZ-bbe-QANF51Q",
         "target": "_blank"
       },
-      "publishedAt": "2009-06-03",
-      "viewCount": "1135万",
-      "likeCount": "8.6万",
-      "commentCount": "2835"
+      "publishedAt": "2012-10-24",
+      "viewCount": "4728万",
+      "likeCount": "-",
+      "commentCount": "2834"
     },
     {
       "rank": 2296,
@@ -1008,12 +1008,34 @@
         "target": "_blank"
       },
       "publishedAt": "2024-12-14",
-      "viewCount": "1946万",
+      "viewCount": "1949万",
       "likeCount": "12.5万",
-      "commentCount": "2832"
+      "commentCount": "2833"
     },
     {
       "rank": 2297,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/f92VWkYl8CI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=f92VWkYl8CI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "the pillows / Funny Bunny",
+        "url": "https://www.youtube.com/watch?v=f92VWkYl8CI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "pillows20th",
+        "url": "https://www.youtube.com/channel/UCgapSeetlZHzdpTzMvg1p8w",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-06-03",
+      "viewCount": "1135万",
+      "likeCount": "8.6万",
+      "commentCount": "2832"
+    },
+    {
+      "rank": 2298,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qyQvbemmlN8/default.jpg",
         "url": "https://www.youtube.com/watch?v=qyQvbemmlN8",
@@ -1035,7 +1057,7 @@
       "commentCount": "2831"
     },
     {
-      "rank": 2298,
+      "rank": 2299,
       "thumb": {
         "img": "https://i.ytimg.com/vi/XrGU09_eHxo/default.jpg",
         "url": "https://www.youtube.com/watch?v=XrGU09_eHxo",
@@ -1057,47 +1079,25 @@
       "commentCount": "2829"
     },
     {
-      "rank": 2298,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/T10oS02RsGA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=T10oS02RsGA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "back number - 青い春 (full)",
-        "url": "https://www.youtube.com/watch?v=T10oS02RsGA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BackNumberVEVO",
-        "url": "https://www.youtube.com/channel/UCb4nKpOlWpZ-bbe-QANF51Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-10-24",
-      "viewCount": "4727万",
-      "likeCount": "-",
-      "commentCount": "2829"
-    },
-    {
       "rank": 2300,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/jRfG3Sm7em0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=jRfG3Sm7em0",
+        "img": "https://i.ytimg.com/vi/mTx2gahMnr8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=mTx2gahMnr8",
         "target": "_blank"
       },
       "title": {
-        "text": "EXILE THE SECOND / 「YEAH!! YEAH!! YEAH!!」",
-        "url": "https://www.youtube.com/watch?v=jRfG3Sm7em0",
+        "text": "Mrs. GREEN APPLE – ニュー・マイ・ノーマル【LIVE “ゼンジン未到とリライアンス〜復誦編〜”】",
+        "url": "https://www.youtube.com/watch?v=mTx2gahMnr8",
         "target": "_blank"
       },
       "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
         "target": "_blank"
       },
-      "publishedAt": "2016-06-23",
-      "viewCount": "1652万",
-      "likeCount": "5.5万",
+      "publishedAt": "2023-02-25",
+      "viewCount": "2276万",
+      "likeCount": "11.2万",
       "commentCount": "2828"
     }
   ]

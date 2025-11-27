@@ -42,7 +42,7 @@
       "publishedAt": "2020-07-16",
       "viewCount": "1365万",
       "likeCount": "3.69万",
-      "commentCount": "1356"
+      "commentCount": "1355"
     },
     {
       "rank": 2703,
@@ -86,7 +86,7 @@
       "publishedAt": "2016-11-27",
       "viewCount": "1067万",
       "likeCount": "3.68万",
-      "commentCount": "1828"
+      "commentCount": "1833"
     },
     {
       "rank": 2705,
@@ -106,7 +106,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-23",
-      "viewCount": "1310万",
+      "viewCount": "1311万",
       "likeCount": "3.67万",
       "commentCount": "-"
     },
@@ -152,7 +152,7 @@
       "publishedAt": "2013-05-28",
       "viewCount": "1098万",
       "likeCount": "3.65万",
-      "commentCount": "1743"
+      "commentCount": "1744"
     },
     {
       "rank": 2708,
@@ -194,7 +194,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-16",
-      "viewCount": "1719万",
+      "viewCount": "1720万",
       "likeCount": "3.61万",
       "commentCount": "1455"
     },
@@ -282,7 +282,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-02-27",
-      "viewCount": "1935万",
+      "viewCount": "1936万",
       "likeCount": "3.57万",
       "commentCount": "1483"
     },
@@ -304,9 +304,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-09-28",
-      "viewCount": "1880万",
+      "viewCount": "1881万",
       "likeCount": "3.55万",
-      "commentCount": "3493"
+      "commentCount": "3495"
     },
     {
       "rank": 2715,
@@ -416,7 +416,7 @@
       "publishedAt": "2014-10-06",
       "viewCount": "1053万",
       "likeCount": "3.48万",
-      "commentCount": "2249"
+      "commentCount": "2250"
     },
     {
       "rank": 2720,
@@ -524,9 +524,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-05",
-      "viewCount": "1295万",
+      "viewCount": "1296万",
       "likeCount": "3.42万",
-      "commentCount": "975"
+      "commentCount": "976"
     },
     {
       "rank": 2725,
@@ -546,9 +546,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
-      "viewCount": "1181万",
+      "viewCount": "1182万",
       "likeCount": "3.41万",
-      "commentCount": "122"
+      "commentCount": "124"
     },
     {
       "rank": 2726,
@@ -568,9 +568,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-11-08",
-      "viewCount": "1262万",
+      "viewCount": "1263万",
       "likeCount": "3.4万",
-      "commentCount": "1720"
+      "commentCount": "1719"
     },
     {
       "rank": 2727,
@@ -702,7 +702,7 @@
       "publishedAt": "2010-04-24",
       "viewCount": "1089万",
       "likeCount": "3.33万",
-      "commentCount": "1974"
+      "commentCount": "1973"
     },
     {
       "rank": 2733,
@@ -810,7 +810,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-24",
-      "viewCount": "1811万",
+      "viewCount": "1812万",
       "likeCount": "3.3万",
       "commentCount": "1994"
     },
@@ -920,7 +920,7 @@
         "target": "_blank"
       },
       "publishedAt": "2011-07-09",
-      "viewCount": "1128万",
+      "viewCount": "1129万",
       "likeCount": "3.28万",
       "commentCount": "710"
     },
@@ -949,6 +949,28 @@
     {
       "rank": 2744,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/Y3T04hhdHA4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Y3T04hhdHA4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ラブレター",
+        "url": "https://www.youtube.com/watch?v=Y3T04hhdHA4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-11-30",
+      "viewCount": "1143万",
+      "likeCount": "3.26万",
+      "commentCount": "96"
+    },
+    {
+      "rank": 2745,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/NJqRuxZd6xE/default.jpg",
         "url": "https://www.youtube.com/watch?v=NJqRuxZd6xE",
         "target": "_blank"
@@ -967,28 +989,6 @@
       "viewCount": "1179万",
       "likeCount": "3.26万",
       "commentCount": "4862"
-    },
-    {
-      "rank": 2745,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Y3T04hhdHA4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Y3T04hhdHA4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ラブレター",
-        "url": "https://www.youtube.com/watch?v=Y3T04hhdHA4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-30",
-      "viewCount": "1142万",
-      "likeCount": "3.26万",
-      "commentCount": "96"
     },
     {
       "rank": 2746,
