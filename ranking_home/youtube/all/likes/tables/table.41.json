@@ -18,9 +18,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-09",
-      "viewCount": "3104万",
+      "viewCount": "3105万",
       "likeCount": "9.23万",
-      "commentCount": "3102"
+      "commentCount": "3104"
     },
     {
       "rank": 2002,
@@ -62,12 +62,34 @@
         "target": "_blank"
       },
       "publishedAt": "2018-02-06",
-      "viewCount": "1403万",
+      "viewCount": "1404万",
       "likeCount": "9.19万",
-      "commentCount": "3483"
+      "commentCount": "3484"
     },
     {
       "rank": 2004,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/msSGCeCrJos/default.jpg",
+        "url": "https://www.youtube.com/watch?v=msSGCeCrJos",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "RADWIMPS - ラストバージン [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=msSGCeCrJos",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "RADWIMPS",
+        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-11-13",
+      "viewCount": "1470万",
+      "likeCount": "9.17万",
+      "commentCount": "-"
+    },
+    {
+      "rank": 2005,
       "thumb": {
         "img": "https://i.ytimg.com/vi/BNguaY5exIk/default.jpg",
         "url": "https://www.youtube.com/watch?v=BNguaY5exIk",
@@ -84,12 +106,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-12-18",
-      "viewCount": "1085万",
+      "viewCount": "1086万",
       "likeCount": "9.17万",
       "commentCount": "3093"
     },
     {
-      "rank": 2005,
+      "rank": 2006,
       "thumb": {
         "img": "https://i.ytimg.com/vi/_Sj2hunOGow/default.jpg",
         "url": "https://www.youtube.com/watch?v=_Sj2hunOGow",
@@ -106,12 +128,12 @@
         "target": "_blank"
       },
       "publishedAt": "2024-04-21",
-      "viewCount": "2826万",
-      "likeCount": "9.16万",
+      "viewCount": "2827万",
+      "likeCount": "9.17万",
       "commentCount": "2611"
     },
     {
-      "rank": 2006,
+      "rank": 2007,
       "thumb": {
         "img": "https://i.ytimg.com/vi/eJ-FOKIFGKw/default.jpg",
         "url": "https://www.youtube.com/watch?v=eJ-FOKIFGKw",
@@ -128,12 +150,12 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-06",
-      "viewCount": "2519万",
-      "likeCount": "9.16万",
-      "commentCount": "3817"
+      "viewCount": "2521万",
+      "likeCount": "9.17万",
+      "commentCount": "3818"
     },
     {
-      "rank": 2006,
+      "rank": 2008,
       "thumb": {
         "img": "https://i.ytimg.com/vi/LbtQM793jn8/default.jpg",
         "url": "https://www.youtube.com/watch?v=LbtQM793jn8",
@@ -150,12 +172,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-19",
-      "viewCount": "1476万",
-      "likeCount": "9.16万",
-      "commentCount": "4502"
+      "viewCount": "1477万",
+      "likeCount": "9.17万",
+      "commentCount": "4503"
     },
     {
-      "rank": 2008,
+      "rank": 2009,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ukyRC_fNEP0/default.jpg",
         "url": "https://www.youtube.com/watch?v=ukyRC_fNEP0",
@@ -172,12 +194,12 @@
         "target": "_blank"
       },
       "publishedAt": "2012-09-06",
-      "viewCount": "1923万",
+      "viewCount": "1924万",
       "likeCount": "9.16万",
-      "commentCount": "3600"
+      "commentCount": "3602"
     },
     {
-      "rank": 2009,
+      "rank": 2010,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Gou49bzZrvo/default.jpg",
         "url": "https://www.youtube.com/watch?v=Gou49bzZrvo",
@@ -196,29 +218,7 @@
       "publishedAt": "2014-12-21",
       "viewCount": "1119万",
       "likeCount": "9.16万",
-      "commentCount": "2910"
-    },
-    {
-      "rank": 2010,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/msSGCeCrJos/default.jpg",
-        "url": "https://www.youtube.com/watch?v=msSGCeCrJos",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "RADWIMPS - ラストバージン [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=msSGCeCrJos",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "RADWIMPS",
-        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-11-13",
-      "viewCount": "1467万",
-      "likeCount": "9.16万",
-      "commentCount": "-"
+      "commentCount": "2911"
     },
     {
       "rank": 2011,
@@ -326,7 +326,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-01-23",
-      "viewCount": "1778万",
+      "viewCount": "1780万",
       "likeCount": "9.11万",
       "commentCount": "969"
     },
@@ -350,7 +350,7 @@
       "publishedAt": "2017-02-20",
       "viewCount": "1448万",
       "likeCount": "9.11万",
-      "commentCount": "3390"
+      "commentCount": "3392"
     },
     {
       "rank": 2017,
@@ -371,7 +371,7 @@
       },
       "publishedAt": "2012-03-14",
       "viewCount": "1993万",
-      "likeCount": "9.1万",
+      "likeCount": "9.11万",
       "commentCount": "3776"
     },
     {
@@ -394,7 +394,7 @@
       "publishedAt": "2017-01-15",
       "viewCount": "1200万",
       "likeCount": "9.07万",
-      "commentCount": "9865"
+      "commentCount": "9866"
     },
     {
       "rank": 2019,
@@ -480,8 +480,8 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-14",
-      "viewCount": "1216万",
-      "likeCount": "9.03万",
+      "viewCount": "1217万",
+      "likeCount": "9.04万",
       "commentCount": "3229"
     },
     {
@@ -502,9 +502,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-04-10",
-      "viewCount": "1202万",
+      "viewCount": "1203万",
       "likeCount": "9.03万",
-      "commentCount": "4430"
+      "commentCount": "4431"
     },
     {
       "rank": 2024,
@@ -526,7 +526,7 @@
       "publishedAt": "2014-11-19",
       "viewCount": "4748万",
       "likeCount": "9.02万",
-      "commentCount": "3879"
+      "commentCount": "3880"
     },
     {
       "rank": 2025,
@@ -548,7 +548,7 @@
       "publishedAt": "2012-03-07",
       "viewCount": "3552万",
       "likeCount": "9万",
-      "commentCount": "3226"
+      "commentCount": "3227"
     },
     {
       "rank": 2026,
@@ -612,7 +612,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-12",
-      "viewCount": "1784万",
+      "viewCount": "1785万",
       "likeCount": "8.96万",
       "commentCount": "1.6万"
     },
@@ -635,8 +635,8 @@
       },
       "publishedAt": "2016-03-31",
       "viewCount": "3038万",
-      "likeCount": "8.95万",
-      "commentCount": "3621"
+      "likeCount": "8.96万",
+      "commentCount": "3622"
     },
     {
       "rank": 2030,
@@ -656,34 +656,12 @@
         "target": "_blank"
       },
       "publishedAt": "2019-06-26",
-      "viewCount": "2024万",
-      "likeCount": "8.95万",
+      "viewCount": "2025万",
+      "likeCount": "8.96万",
       "commentCount": "3567"
     },
     {
       "rank": 2031,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/OMyAZh_BT4s/default.jpg",
-        "url": "https://www.youtube.com/watch?v=OMyAZh_BT4s",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "KYOSUKE HIMURO -KISS ME-",
-        "url": "https://www.youtube.com/watch?v=OMyAZh_BT4s",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "KYOSUKE HIMURO",
-        "url": "https://www.youtube.com/channel/UCxhEMv7GDpJqeSW1VbOEqDQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2008-06-03",
-      "viewCount": "3901万",
-      "likeCount": "8.94万",
-      "commentCount": "7048"
-    },
-    {
-      "rank": 2032,
       "thumb": {
         "img": "https://i.ytimg.com/vi/X97TUJ13-YM/default.jpg",
         "url": "https://www.youtube.com/watch?v=X97TUJ13-YM",
@@ -700,9 +678,31 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-25",
-      "viewCount": "1384万",
+      "viewCount": "1386万",
       "likeCount": "8.94万",
       "commentCount": "1283"
+    },
+    {
+      "rank": 2032,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/OMyAZh_BT4s/default.jpg",
+        "url": "https://www.youtube.com/watch?v=OMyAZh_BT4s",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "KYOSUKE HIMURO -KISS ME-",
+        "url": "https://www.youtube.com/watch?v=OMyAZh_BT4s",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "KYOSUKE HIMURO",
+        "url": "https://www.youtube.com/channel/UCxhEMv7GDpJqeSW1VbOEqDQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2008-06-03",
+      "viewCount": "3902万",
+      "likeCount": "8.94万",
+      "commentCount": "7054"
     },
     {
       "rank": 2033,
@@ -768,7 +768,7 @@
       "publishedAt": "2010-12-10",
       "viewCount": "3053万",
       "likeCount": "8.92万",
-      "commentCount": "4837"
+      "commentCount": "4839"
     },
     {
       "rank": 2036,
@@ -788,9 +788,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-23",
-      "viewCount": "3050万",
+      "viewCount": "3051万",
       "likeCount": "8.91万",
-      "commentCount": "4244"
+      "commentCount": "4246"
     },
     {
       "rank": 2037,
@@ -810,12 +810,34 @@
         "target": "_blank"
       },
       "publishedAt": "2012-01-06",
-      "viewCount": "1758万",
-      "likeCount": "8.89万",
+      "viewCount": "1759万",
+      "likeCount": "8.9万",
       "commentCount": "3692"
     },
     {
       "rank": 2038,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/b-RGPqVzHUw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=b-RGPqVzHUw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE - 01. ライラック from Studio Session Live #3",
+        "url": "https://www.youtube.com/watch?v=b-RGPqVzHUw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-11-21",
+      "viewCount": "1526万",
+      "likeCount": "8.9万",
+      "commentCount": "1755"
+    },
+    {
+      "rank": 2039,
       "thumb": {
         "img": "https://i.ytimg.com/vi/GKURxNMi2xA/default.jpg",
         "url": "https://www.youtube.com/watch?v=GKURxNMi2xA",
@@ -832,12 +854,12 @@
         "target": "_blank"
       },
       "publishedAt": "2009-06-27",
-      "viewCount": "1763万",
+      "viewCount": "1764万",
       "likeCount": "8.89万",
       "commentCount": "4569"
     },
     {
-      "rank": 2038,
+      "rank": 2040,
       "thumb": {
         "img": "https://i.ytimg.com/vi/yxYRJEeN6Gg/default.jpg",
         "url": "https://www.youtube.com/watch?v=yxYRJEeN6Gg",
@@ -856,29 +878,7 @@
       "publishedAt": "2009-06-18",
       "viewCount": "2648万",
       "likeCount": "8.89万",
-      "commentCount": "2622"
-    },
-    {
-      "rank": 2040,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/b-RGPqVzHUw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=b-RGPqVzHUw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE - 01. ライラック from Studio Session Live #3",
-        "url": "https://www.youtube.com/watch?v=b-RGPqVzHUw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-11-21",
-      "viewCount": "1525万",
-      "likeCount": "8.89万",
-      "commentCount": "1755"
+      "commentCount": "2623"
     },
     {
       "rank": 2041,
@@ -944,7 +944,7 @@
       "publishedAt": "2020-07-13",
       "viewCount": "1128万",
       "likeCount": "8.87万",
-      "commentCount": "3713"
+      "commentCount": "3714"
     },
     {
       "rank": 2044,
@@ -966,7 +966,7 @@
       "publishedAt": "2014-07-16",
       "viewCount": "2565万",
       "likeCount": "8.86万",
-      "commentCount": "3511"
+      "commentCount": "3510"
     },
     {
       "rank": 2045,
@@ -1052,7 +1052,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-09-09",
-      "viewCount": "4889万",
+      "viewCount": "4890万",
       "likeCount": "8.83万",
       "commentCount": "3126"
     },
@@ -1096,9 +1096,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-08-21",
-      "viewCount": "1685万",
-      "likeCount": "8.81万",
-      "commentCount": "3316"
+      "viewCount": "1687万",
+      "likeCount": "8.82万",
+      "commentCount": "3317"
     }
   ]
 }

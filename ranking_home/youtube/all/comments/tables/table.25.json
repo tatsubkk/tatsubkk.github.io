@@ -1,7 +1,7 @@
 {
   "rows": [
     {
-      "rank": 1200,
+      "rank": 1201,
       "thumb": {
         "img": "https://i.ytimg.com/vi/RGzMlGujLyE/default.jpg",
         "url": "https://www.youtube.com/watch?v=RGzMlGujLyE",
@@ -62,7 +62,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-06-12",
-      "viewCount": "1264万",
+      "viewCount": "1265万",
       "likeCount": "17.1万",
       "commentCount": "8109"
     },
@@ -84,9 +84,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-25",
-      "viewCount": "1191万",
+      "viewCount": "1192万",
       "likeCount": "16.8万",
-      "commentCount": "8088"
+      "commentCount": "8089"
     },
     {
       "rank": 1205,
@@ -108,7 +108,7 @@
       "publishedAt": "2014-11-10",
       "viewCount": "2043万",
       "likeCount": "15.1万",
-      "commentCount": "8077"
+      "commentCount": "8078"
     },
     {
       "rank": 1205,
@@ -128,9 +128,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-05",
-      "viewCount": "7788万",
+      "viewCount": "7791万",
       "likeCount": "16万",
-      "commentCount": "8077"
+      "commentCount": "8078"
     },
     {
       "rank": 1207,
@@ -152,7 +152,7 @@
       "publishedAt": "2023-11-15",
       "viewCount": "2021万",
       "likeCount": "-",
-      "commentCount": "8075"
+      "commentCount": "8076"
     },
     {
       "rank": 1208,
@@ -174,29 +174,7 @@
       "publishedAt": "2022-04-12",
       "viewCount": "2030万",
       "likeCount": "26.3万",
-      "commentCount": "8074"
-    },
-    {
-      "rank": 1209,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/aHIR33pOUv0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=aHIR33pOUv0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MISIA - Everything （Official HD Music Video）",
-        "url": "https://www.youtube.com/watch?v=aHIR33pOUv0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "MISIA",
-        "url": "https://www.youtube.com/channel/UCzPBIyFM_VyXgG9At-1Il4Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2008-12-16",
-      "viewCount": "9374万",
-      "likeCount": "21.2万",
-      "commentCount": "8062"
+      "commentCount": "8075"
     },
     {
       "rank": 1209,
@@ -216,8 +194,30 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-28",
-      "viewCount": "3396万",
+      "viewCount": "3397万",
       "likeCount": "35.2万",
+      "commentCount": "8063"
+    },
+    {
+      "rank": 1210,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/aHIR33pOUv0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=aHIR33pOUv0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MISIA - Everything （Official HD Music Video）",
+        "url": "https://www.youtube.com/watch?v=aHIR33pOUv0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "MISIA",
+        "url": "https://www.youtube.com/channel/UCzPBIyFM_VyXgG9At-1Il4Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2008-12-16",
+      "viewCount": "9376万",
+      "likeCount": "21.2万",
       "commentCount": "8062"
     },
     {
@@ -267,28 +267,6 @@
     {
       "rank": 1213,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/YB_St-YN3Y8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=YB_St-YN3Y8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Da-iCE / 「スターマイン」Music Video",
-        "url": "https://www.youtube.com/watch?v=YB_St-YN3Y8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Da-iCE",
-        "url": "https://www.youtube.com/channel/UC7JQKVJMCIuVMcrFXSozMCw",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-08-29",
-      "viewCount": "6986万",
-      "likeCount": "35.5万",
-      "commentCount": "8030"
-    },
-    {
-      "rank": 1213,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/ShbfYtAPXuI/default.jpg",
         "url": "https://www.youtube.com/watch?v=ShbfYtAPXuI",
         "target": "_blank"
@@ -304,9 +282,31 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-30",
-      "viewCount": "1391万",
+      "viewCount": "1392万",
       "likeCount": "7.8万",
       "commentCount": "8030"
+    },
+    {
+      "rank": 1214,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/YB_St-YN3Y8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=YB_St-YN3Y8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Da-iCE / 「スターマイン」Music Video",
+        "url": "https://www.youtube.com/watch?v=YB_St-YN3Y8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Da-iCE",
+        "url": "https://www.youtube.com/channel/UC7JQKVJMCIuVMcrFXSozMCw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-08-29",
+      "viewCount": "6987万",
+      "likeCount": "35.5万",
+      "commentCount": "8022"
     },
     {
       "rank": 1215,
@@ -348,7 +348,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-07-22",
-      "viewCount": "8978万",
+      "viewCount": "8981万",
       "likeCount": "22.9万",
       "commentCount": "7983"
     },
@@ -392,7 +392,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-08",
-      "viewCount": "1094万",
+      "viewCount": "1095万",
       "likeCount": "-",
       "commentCount": "7941"
     },
@@ -458,9 +458,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-26",
-      "viewCount": "4602万",
-      "likeCount": "22.6万",
-      "commentCount": "7928"
+      "viewCount": "4604万",
+      "likeCount": "22.7万",
+      "commentCount": "7931"
     },
     {
       "rank": 1222,
@@ -482,10 +482,32 @@
       "publishedAt": "2019-02-04",
       "viewCount": "2034万",
       "likeCount": "20.9万",
+      "commentCount": "7912"
+    },
+    {
+      "rank": 1223,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Igr6jQJEoNs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Igr6jQJEoNs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【LIVE映像】唱  日本武道館 2023.8.30【Ado】",
+        "url": "https://www.youtube.com/watch?v=Igr6jQJEoNs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ado",
+        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-10-23",
+      "viewCount": "3540万",
+      "likeCount": "32.5万",
       "commentCount": "7911"
     },
     {
-      "rank": 1222,
+      "rank": 1224,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qMKlj_1zbYc/default.jpg",
         "url": "https://www.youtube.com/watch?v=qMKlj_1zbYc",
@@ -504,29 +526,7 @@
       "publishedAt": "2019-12-16",
       "viewCount": "1298万",
       "likeCount": "16.9万",
-      "commentCount": "7911"
-    },
-    {
-      "rank": 1224,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Igr6jQJEoNs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Igr6jQJEoNs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【LIVE映像】唱  日本武道館 2023.8.30【Ado】",
-        "url": "https://www.youtube.com/watch?v=Igr6jQJEoNs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ado",
-        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-10-23",
-      "viewCount": "3539万",
-      "likeCount": "32.4万",
-      "commentCount": "7910"
+      "commentCount": "7909"
     },
     {
       "rank": 1225,
@@ -553,28 +553,6 @@
     {
       "rank": 1226,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/sHk8a3flepE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=sHk8a3flepE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "なにわ男子 - NANIWA'n WAY [Official Music Video] YouTube ver.",
-        "url": "https://www.youtube.com/watch?v=sHk8a3flepE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "なにわ男子",
-        "url": "https://www.youtube.com/channel/UCDtVdj7sm41Ysg3XSiSUH3w",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-10-29",
-      "viewCount": "3113万",
-      "likeCount": "-",
-      "commentCount": "7893"
-    },
-    {
-      "rank": 1227,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/UTdyW5ybP2E/default.jpg",
         "url": "https://www.youtube.com/watch?v=UTdyW5ybP2E",
         "target": "_blank"
@@ -592,7 +570,29 @@
       "publishedAt": "2022-08-26",
       "viewCount": "1608万",
       "likeCount": "-",
-      "commentCount": "7892"
+      "commentCount": "7894"
+    },
+    {
+      "rank": 1227,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/sHk8a3flepE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=sHk8a3flepE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "なにわ男子 - NANIWA'n WAY [Official Music Video] YouTube ver.",
+        "url": "https://www.youtube.com/watch?v=sHk8a3flepE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "なにわ男子",
+        "url": "https://www.youtube.com/channel/UCDtVdj7sm41Ysg3XSiSUH3w",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-10-29",
+      "viewCount": "3114万",
+      "likeCount": "-",
+      "commentCount": "7893"
     },
     {
       "rank": 1228,
@@ -614,7 +614,7 @@
       "publishedAt": "2018-08-13",
       "viewCount": "4958万",
       "likeCount": "34.1万",
-      "commentCount": "7870"
+      "commentCount": "7871"
     },
     {
       "rank": 1229,
@@ -634,7 +634,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-04-18",
-      "viewCount": "5796万",
+      "viewCount": "5797万",
       "likeCount": "51.8万",
       "commentCount": "7869"
     },
@@ -656,9 +656,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-24",
-      "viewCount": "1292万",
+      "viewCount": "1293万",
       "likeCount": "12.1万",
-      "commentCount": "7866"
+      "commentCount": "7867"
     },
     {
       "rank": 1231,
@@ -678,9 +678,9 @@
         "target": "_blank"
       },
       "publishedAt": "2025-04-18",
-      "viewCount": "2452万",
+      "viewCount": "2455万",
       "likeCount": "21.6万",
-      "commentCount": "7859"
+      "commentCount": "7860"
     },
     {
       "rank": 1232,
@@ -700,9 +700,31 @@
         "target": "_blank"
       },
       "publishedAt": "2021-10-29",
-      "viewCount": "4838万",
+      "viewCount": "4839万",
       "likeCount": "25.9万",
-      "commentCount": "7840"
+      "commentCount": "7844"
+    },
+    {
+      "rank": 1233,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/M7sr5zv1EkI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=M7sr5zv1EkI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV】四季折々に揺蕩いて／After the Rain（そらる×まふまふ）",
+        "url": "https://www.youtube.com/watch?v=M7sr5zv1EkI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "まふまふちゃんねる",
+        "url": "https://www.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-08-02",
+      "viewCount": "2233万",
+      "likeCount": "24.2万",
+      "commentCount": "7810"
     },
     {
       "rank": 1233,
@@ -727,29 +749,7 @@
       "commentCount": "7810"
     },
     {
-      "rank": 1234,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/M7sr5zv1EkI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=M7sr5zv1EkI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV】四季折々に揺蕩いて／After the Rain（そらる×まふまふ）",
-        "url": "https://www.youtube.com/watch?v=M7sr5zv1EkI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "まふまふちゃんねる",
-        "url": "https://www.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-08-02",
-      "viewCount": "2233万",
-      "likeCount": "24.2万",
-      "commentCount": "7809"
-    },
-    {
-      "rank": 1235,
+      "rank": 1233,
       "thumb": {
         "img": "https://i.ytimg.com/vi/RIOgKnpX8fo/default.jpg",
         "url": "https://www.youtube.com/watch?v=RIOgKnpX8fo",
@@ -766,9 +766,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-21",
-      "viewCount": "1912万",
+      "viewCount": "1913万",
       "likeCount": "-",
-      "commentCount": "7807"
+      "commentCount": "7810"
     },
     {
       "rank": 1236,
@@ -788,7 +788,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-01-26",
-      "viewCount": "3451万",
+      "viewCount": "3452万",
       "likeCount": "30.2万",
       "commentCount": "7791"
     },
@@ -839,28 +839,6 @@
     {
       "rank": 1239,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/-MKfbxHy_NA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=-MKfbxHy_NA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – 「青と夏」 Official Lyric Video",
-        "url": "https://www.youtube.com/watch?v=-MKfbxHy_NA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-08-30",
-      "viewCount": "4279万",
-      "likeCount": "22万",
-      "commentCount": "7761"
-    },
-    {
-      "rank": 1240,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/R_ipNv527rE/default.jpg",
         "url": "https://www.youtube.com/watch?v=R_ipNv527rE",
         "target": "_blank"
@@ -876,9 +854,31 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-28",
-      "viewCount": "3332万",
+      "viewCount": "3333万",
       "likeCount": "-",
-      "commentCount": "7760"
+      "commentCount": "7762"
+    },
+    {
+      "rank": 1240,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/-MKfbxHy_NA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=-MKfbxHy_NA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – 「青と夏」 Official Lyric Video",
+        "url": "https://www.youtube.com/watch?v=-MKfbxHy_NA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-08-30",
+      "viewCount": "4281万",
+      "likeCount": "22万",
+      "commentCount": "7761"
     },
     {
       "rank": 1241,
@@ -898,9 +898,9 @@
         "target": "_blank"
       },
       "publishedAt": "2025-01-24",
-      "viewCount": "2134万",
+      "viewCount": "2137万",
       "likeCount": "31.4万",
-      "commentCount": "7746"
+      "commentCount": "7745"
     },
     {
       "rank": 1242,
@@ -942,9 +942,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-09",
-      "viewCount": "7981万",
+      "viewCount": "7984万",
       "likeCount": "50.3万",
-      "commentCount": "7739"
+      "commentCount": "7740"
     },
     {
       "rank": 1244,
@@ -964,12 +964,12 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-05",
-      "viewCount": "1209万",
+      "viewCount": "1210万",
       "likeCount": "-",
       "commentCount": "7730"
     },
     {
-      "rank": 1245,
+      "rank": 1244,
       "thumb": {
         "img": "https://i.ytimg.com/vi/t6xdg6TKbyQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=t6xdg6TKbyQ",
@@ -986,9 +986,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-06-30",
-      "viewCount": "3922万",
+      "viewCount": "3924万",
       "likeCount": "16.7万",
-      "commentCount": "7729"
+      "commentCount": "7730"
     },
     {
       "rank": 1246,
@@ -1008,9 +1008,9 @@
         "target": "_blank"
       },
       "publishedAt": "2009-07-02",
-      "viewCount": "5961万",
+      "viewCount": "5963万",
       "likeCount": "20万",
-      "commentCount": "7725"
+      "commentCount": "7726"
     },
     {
       "rank": 1247,
@@ -1032,7 +1032,7 @@
       "publishedAt": "2022-10-27",
       "viewCount": "1355万",
       "likeCount": "-",
-      "commentCount": "7719"
+      "commentCount": "7718"
     },
     {
       "rank": 1248,
@@ -1074,7 +1074,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-06-06",
-      "viewCount": "2007万",
+      "viewCount": "2008万",
       "likeCount": "-",
       "commentCount": "7711"
     },
@@ -1098,7 +1098,7 @@
       "publishedAt": "2015-03-17",
       "viewCount": "1574万",
       "likeCount": "27.6万",
-      "commentCount": "7709"
+      "commentCount": "7710"
     }
   ]
 }

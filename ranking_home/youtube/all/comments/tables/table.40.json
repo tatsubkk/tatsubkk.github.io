@@ -91,6 +91,28 @@
     {
       "rank": 1955,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/H4znsXCH_2Y/default.jpg",
+        "url": "https://www.youtube.com/watch?v=H4znsXCH_2Y",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[Official Music Video] Perfume「Spending all my time」",
+        "url": "https://www.youtube.com/watch?v=H4znsXCH_2Y",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Perfume",
+        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-06-18",
+      "viewCount": "2186万",
+      "likeCount": "12.2万",
+      "commentCount": "3928"
+    },
+    {
+      "rank": 1956,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/fMHj3U3-RA4/default.jpg",
         "url": "https://www.youtube.com/watch?v=fMHj3U3-RA4",
         "target": "_blank"
@@ -111,28 +133,6 @@
       "commentCount": "3927"
     },
     {
-      "rank": 1955,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/H4znsXCH_2Y/default.jpg",
-        "url": "https://www.youtube.com/watch?v=H4znsXCH_2Y",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[Official Music Video] Perfume「Spending all my time」",
-        "url": "https://www.youtube.com/watch?v=H4znsXCH_2Y",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Perfume",
-        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-06-18",
-      "viewCount": "2186万",
-      "likeCount": "12.2万",
-      "commentCount": "3927"
-    },
-    {
       "rank": 1957,
       "thumb": {
         "img": "https://i.ytimg.com/vi/0qaL2Im4fWY/default.jpg",
@@ -150,9 +150,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-09-18",
-      "viewCount": "1289万",
+      "viewCount": "1290万",
       "likeCount": "9.3万",
-      "commentCount": "3920"
+      "commentCount": "3921"
     },
     {
       "rank": 1958,
@@ -172,7 +172,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-14",
-      "viewCount": "1616万",
+      "viewCount": "1617万",
       "likeCount": "20.2万",
       "commentCount": "3911"
     },
@@ -328,7 +328,7 @@
       "publishedAt": "2014-11-19",
       "viewCount": "4748万",
       "likeCount": "9万",
-      "commentCount": "3879"
+      "commentCount": "3880"
     },
     {
       "rank": 1966,
@@ -348,12 +348,34 @@
         "target": "_blank"
       },
       "publishedAt": "2017-12-30",
-      "viewCount": "3925万",
+      "viewCount": "3926万",
       "likeCount": "47.5万",
       "commentCount": "3873"
     },
     {
-      "rank": 1967,
+      "rank": 1966,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/PjG0r-9HQBs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=PjG0r-9HQBs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【meiyo】なにやってもうまくいかない（feat.asmi）【MV】",
+        "url": "https://www.youtube.com/watch?v=PjG0r-9HQBs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "meiyo",
+        "url": "https://www.youtube.com/channel/UCSxCyYHtPzn-23kNT-RgWqw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-01-07",
+      "viewCount": "2074万",
+      "likeCount": "29.7万",
+      "commentCount": "3873"
+    },
+    {
+      "rank": 1968,
       "thumb": {
         "img": "https://i.ytimg.com/vi/1Omyzc0ihyo/default.jpg",
         "url": "https://www.youtube.com/watch?v=1Omyzc0ihyo",
@@ -375,28 +397,6 @@
       "commentCount": "3872"
     },
     {
-      "rank": 1967,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/PjG0r-9HQBs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=PjG0r-9HQBs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【meiyo】なにやってもうまくいかない（feat.asmi）【MV】",
-        "url": "https://www.youtube.com/watch?v=PjG0r-9HQBs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "meiyo",
-        "url": "https://www.youtube.com/channel/UCSxCyYHtPzn-23kNT-RgWqw",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-01-07",
-      "viewCount": "2073万",
-      "likeCount": "29.6万",
-      "commentCount": "3872"
-    },
-    {
       "rank": 1969,
       "thumb": {
         "img": "https://i.ytimg.com/vi/AVlaVkH9AQE/default.jpg",
@@ -414,7 +414,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-02-19",
-      "viewCount": "3749万",
+      "viewCount": "3750万",
       "likeCount": "21.4万",
       "commentCount": "3863"
     },
@@ -480,7 +480,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-04-28",
-      "viewCount": "2312万",
+      "viewCount": "2313万",
       "likeCount": "12万",
       "commentCount": "3853"
     },
@@ -502,9 +502,9 @@
         "target": "_blank"
       },
       "publishedAt": "2017-12-01",
-      "viewCount": "2285万",
+      "viewCount": "2286万",
       "likeCount": "19.6万",
-      "commentCount": "3851"
+      "commentCount": "3852"
     },
     {
       "rank": 1974,
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-25",
-      "viewCount": "1440万",
+      "viewCount": "1441万",
       "likeCount": "17.5万",
       "commentCount": "3849"
     },
@@ -590,7 +590,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-04",
-      "viewCount": "4259万",
+      "viewCount": "4265万",
       "likeCount": "17万",
       "commentCount": "3837"
     },
@@ -612,7 +612,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-03-24",
-      "viewCount": "1767万",
+      "viewCount": "1768万",
       "likeCount": "8.2万",
       "commentCount": "3836"
     },
@@ -634,9 +634,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-17",
-      "viewCount": "3374万",
+      "viewCount": "3376万",
       "likeCount": "21.3万",
-      "commentCount": "3833"
+      "commentCount": "3834"
     },
     {
       "rank": 1980,
@@ -702,7 +702,7 @@
       "publishedAt": "2013-09-04",
       "viewCount": "1194万",
       "likeCount": "13.4万",
-      "commentCount": "3826"
+      "commentCount": "3825"
     },
     {
       "rank": 1983,
@@ -722,12 +722,34 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-06",
-      "viewCount": "2519万",
+      "viewCount": "2521万",
       "likeCount": "9.2万",
-      "commentCount": "3817"
+      "commentCount": "3818"
     },
     {
       "rank": 1984,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/LAoHMWwwHs4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=LAoHMWwwHs4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "KinKi Kids「愛のかたまり」【from KinKi Kids Concert 2023-2024 ～Promise Place～】",
+        "url": "https://www.youtube.com/watch?v=LAoHMWwwHs4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "KinKi Kids",
+        "url": "https://www.youtube.com/channel/UCexu4C8IfBuC5CH7R4PLHFQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-07-21",
+      "viewCount": "2741万",
+      "likeCount": "11.1万",
+      "commentCount": "3815"
+    },
+    {
+      "rank": 1985,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Pw_cYJoSsKQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=Pw_cYJoSsKQ",
@@ -744,12 +766,12 @@
         "target": "_blank"
       },
       "publishedAt": "2019-09-25",
-      "viewCount": "1812万",
+      "viewCount": "1813万",
       "likeCount": "8.3万",
       "commentCount": "3814"
     },
     {
-      "rank": 1985,
+      "rank": 1986,
       "thumb": {
         "img": "https://i.ytimg.com/vi/UBmBGKjFuRQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=UBmBGKjFuRQ",
@@ -771,47 +793,25 @@
       "commentCount": "3811"
     },
     {
-      "rank": 1986,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/LAoHMWwwHs4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=LAoHMWwwHs4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "KinKi Kids「愛のかたまり」【from KinKi Kids Concert 2023-2024 ～Promise Place～】",
-        "url": "https://www.youtube.com/watch?v=LAoHMWwwHs4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "KinKi Kids",
-        "url": "https://www.youtube.com/channel/UCexu4C8IfBuC5CH7R4PLHFQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-07-21",
-      "viewCount": "2735万",
-      "likeCount": "11.1万",
-      "commentCount": "3808"
-    },
-    {
       "rank": 1987,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/HOsiSE_JTOM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=HOsiSE_JTOM",
+        "img": "https://i.ytimg.com/vi/5iAQF_q6FSk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=5iAQF_q6FSk",
         "target": "_blank"
       },
       "title": {
-        "text": "m-flo loves YOSHIKA / let go",
-        "url": "https://www.youtube.com/watch?v=HOsiSE_JTOM",
+        "text": "【Ado】Value",
+        "url": "https://www.youtube.com/watch?v=5iAQF_q6FSk",
         "target": "_blank"
       },
       "channel": {
-        "text": "m-flo",
-        "url": "https://www.youtube.com/channel/UCA-uTlDQLuBwwMc5xGS9deQ",
+        "text": "Ado",
+        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
         "target": "_blank"
       },
-      "publishedAt": "2009-04-08",
-      "viewCount": "4107万",
-      "likeCount": "9.4万",
+      "publishedAt": "2024-02-23",
+      "viewCount": "1129万",
+      "likeCount": "19.4万",
       "commentCount": "3807"
     },
     {
@@ -837,7 +837,29 @@
       "commentCount": "3807"
     },
     {
-      "rank": 1989,
+      "rank": 1987,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/HOsiSE_JTOM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=HOsiSE_JTOM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "m-flo loves YOSHIKA / let go",
+        "url": "https://www.youtube.com/watch?v=HOsiSE_JTOM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "m-flo",
+        "url": "https://www.youtube.com/channel/UCA-uTlDQLuBwwMc5xGS9deQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-04-08",
+      "viewCount": "4107万",
+      "likeCount": "9.4万",
+      "commentCount": "3807"
+    },
+    {
+      "rank": 1990,
       "thumb": {
         "img": "https://i.ytimg.com/vi/pVZ5cXvGDWM/default.jpg",
         "url": "https://www.youtube.com/watch?v=pVZ5cXvGDWM",
@@ -856,28 +878,6 @@
       "publishedAt": "2018-08-03",
       "viewCount": "1187万",
       "likeCount": "10.9万",
-      "commentCount": "3805"
-    },
-    {
-      "rank": 1989,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/5iAQF_q6FSk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=5iAQF_q6FSk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Ado】Value",
-        "url": "https://www.youtube.com/watch?v=5iAQF_q6FSk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ado",
-        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-02-23",
-      "viewCount": "1128万",
-      "likeCount": "19.4万",
       "commentCount": "3805"
     },
     {
@@ -920,7 +920,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-04-18",
-      "viewCount": "1278万",
+      "viewCount": "1279万",
       "likeCount": "7.6万",
       "commentCount": "3779"
     },
@@ -1032,7 +1032,7 @@
       "publishedAt": "2016-10-28",
       "viewCount": "1608万",
       "likeCount": "7.9万",
-      "commentCount": "3771"
+      "commentCount": "3772"
     },
     {
       "rank": 1998,

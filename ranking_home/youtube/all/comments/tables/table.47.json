@@ -1,7 +1,29 @@
 {
   "rows": [
     {
-      "rank": 2300,
+      "rank": 2299,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/mTx2gahMnr8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=mTx2gahMnr8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – ニュー・マイ・ノーマル【LIVE “ゼンジン未到とリライアンス〜復誦編〜”】",
+        "url": "https://www.youtube.com/watch?v=mTx2gahMnr8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-02-25",
+      "viewCount": "2278万",
+      "likeCount": "11.2万",
+      "commentCount": "2829"
+    },
+    {
+      "rank": 2302,
       "thumb": {
         "img": "https://i.ytimg.com/vi/jRfG3Sm7em0/default.jpg",
         "url": "https://www.youtube.com/watch?v=jRfG3Sm7em0",
@@ -23,28 +45,6 @@
       "commentCount": "2828"
     },
     {
-      "rank": 2302,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Xt2g7cSzwiY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Xt2g7cSzwiY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "miwa 『夜空。feat. ハジ→』 Music Video",
-        "url": "https://www.youtube.com/watch?v=Xt2g7cSzwiY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "miwa official YouTube channel",
-        "url": "https://www.youtube.com/channel/UC9cz0t8P3VkTHY7xjbS8zHA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-03-20",
-      "viewCount": "1739万",
-      "likeCount": "11.3万",
-      "commentCount": "2827"
-    },
-    {
       "rank": 2303,
       "thumb": {
         "img": "https://i.ytimg.com/vi/RY0VC4A4saE/default.jpg",
@@ -64,7 +64,7 @@
       "publishedAt": "2015-04-08",
       "viewCount": "4130万",
       "likeCount": "8.5万",
-      "commentCount": "2822"
+      "commentCount": "2823"
     },
     {
       "rank": 2304,
@@ -130,10 +130,10 @@
       "publishedAt": "2012-01-06",
       "viewCount": "3002万",
       "likeCount": "8.7万",
-      "commentCount": "2814"
+      "commentCount": "2816"
     },
     {
-      "rank": 2306,
+      "rank": 2307,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ILz87f2iX7M/default.jpg",
         "url": "https://www.youtube.com/watch?v=ILz87f2iX7M",
@@ -194,9 +194,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-11-22",
-      "viewCount": "1741万",
+      "viewCount": "1742万",
       "likeCount": "4.2万",
-      "commentCount": "2801"
+      "commentCount": "2799"
     },
     {
       "rank": 2310,
@@ -218,10 +218,10 @@
       "publishedAt": "2014-10-29",
       "viewCount": "1566万",
       "likeCount": "7.5万",
-      "commentCount": "2792"
+      "commentCount": "2793"
     },
     {
-      "rank": 2310,
+      "rank": 2311,
       "thumb": {
         "img": "https://i.ytimg.com/vi/GEau2ZJLobQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=GEau2ZJLobQ",
@@ -238,7 +238,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-27",
-      "viewCount": "1245万",
+      "viewCount": "1246万",
       "likeCount": "10.6万",
       "commentCount": "2792"
     },
@@ -282,7 +282,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-01",
-      "viewCount": "1675万",
+      "viewCount": "1676万",
       "likeCount": "3.2万",
       "commentCount": "2787"
     },
@@ -306,7 +306,7 @@
       "publishedAt": "2014-05-27",
       "viewCount": "1048万",
       "likeCount": "5.9万",
-      "commentCount": "2783"
+      "commentCount": "2785"
     },
     {
       "rank": 2315,
@@ -326,7 +326,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-01-23",
-      "viewCount": "1352万",
+      "viewCount": "1353万",
       "likeCount": "8.5万",
       "commentCount": "2778"
     },
@@ -348,7 +348,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-03-17",
-      "viewCount": "1401万",
+      "viewCount": "1402万",
       "likeCount": "5.8万",
       "commentCount": "2775"
     },
@@ -392,7 +392,7 @@
         "target": "_blank"
       },
       "publishedAt": "2011-12-05",
-      "viewCount": "2104万",
+      "viewCount": "2105万",
       "likeCount": "5.7万",
       "commentCount": "2771"
     },
@@ -414,9 +414,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-01",
-      "viewCount": "1926万",
+      "viewCount": "1927万",
       "likeCount": "18.1万",
-      "commentCount": "2766"
+      "commentCount": "2768"
     },
     {
       "rank": 2320,
@@ -480,9 +480,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-04",
-      "viewCount": "3950万",
+      "viewCount": "3951万",
       "likeCount": "28.3万",
-      "commentCount": "2750"
+      "commentCount": "2751"
     },
     {
       "rank": 2323,
@@ -590,9 +590,31 @@
         "target": "_blank"
       },
       "publishedAt": "2013-10-08",
-      "viewCount": "3469万",
+      "viewCount": "3470万",
       "likeCount": "5.3万",
       "commentCount": "2736"
+    },
+    {
+      "rank": 2328,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/G9KznOYqyOg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=G9KznOYqyOg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "緑黄色社会『恥ずかしいか青春は』Official Video / Ryokuoushoku Shakai – Hazukashiika Seishunwa",
+        "url": "https://www.youtube.com/watch?v=G9KznOYqyOg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "緑黄色社会",
+        "url": "https://www.youtube.com/channel/UC_1GPhYlXI2ka2ji5gnqWFQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-07-12",
+      "viewCount": "1707万",
+      "likeCount": "10.5万",
+      "commentCount": "2735"
     },
     {
       "rank": 2328,
@@ -617,7 +639,7 @@
       "commentCount": "2735"
     },
     {
-      "rank": 2329,
+      "rank": 2330,
       "thumb": {
         "img": "https://i.ytimg.com/vi/I55sHty3h6I/default.jpg",
         "url": "https://www.youtube.com/watch?v=I55sHty3h6I",
@@ -634,12 +656,12 @@
         "target": "_blank"
       },
       "publishedAt": "2014-07-02",
-      "viewCount": "1680万",
+      "viewCount": "1681万",
       "likeCount": "5万",
-      "commentCount": "2733"
+      "commentCount": "2732"
     },
     {
-      "rank": 2330,
+      "rank": 2331,
       "thumb": {
         "img": "https://i.ytimg.com/vi/bASSi2OJYbI/default.jpg",
         "url": "https://www.youtube.com/watch?v=bASSi2OJYbI",
@@ -661,7 +683,7 @@
       "commentCount": "2731"
     },
     {
-      "rank": 2331,
+      "rank": 2332,
       "thumb": {
         "img": "https://i.ytimg.com/vi/RhBSa9L9BMA/default.jpg",
         "url": "https://www.youtube.com/watch?v=RhBSa9L9BMA",
@@ -681,28 +703,6 @@
       "viewCount": "1616万",
       "likeCount": "9.5万",
       "commentCount": "2726"
-    },
-    {
-      "rank": 2332,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/G9KznOYqyOg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=G9KznOYqyOg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "緑黄色社会『恥ずかしいか青春は』Official Video / Ryokuoushoku Shakai – Hazukashiika Seishunwa",
-        "url": "https://www.youtube.com/watch?v=G9KznOYqyOg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "緑黄色社会",
-        "url": "https://www.youtube.com/channel/UC_1GPhYlXI2ka2ji5gnqWFQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-07-12",
-      "viewCount": "1706万",
-      "likeCount": "10.5万",
-      "commentCount": "2725"
     },
     {
       "rank": 2333,
@@ -771,7 +771,7 @@
       "commentCount": "2718"
     },
     {
-      "rank": 2336,
+      "rank": 2335,
       "thumb": {
         "img": "https://i.ytimg.com/vi/FEkgOG5lg7s/default.jpg",
         "url": "https://www.youtube.com/watch?v=FEkgOG5lg7s",
@@ -788,9 +788,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-01",
-      "viewCount": "1708万",
+      "viewCount": "1709万",
       "likeCount": "3.9万",
-      "commentCount": "2717"
+      "commentCount": "2718"
     },
     {
       "rank": 2337,
@@ -832,7 +832,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-28",
-      "viewCount": "1497万",
+      "viewCount": "1499万",
       "likeCount": "10.1万",
       "commentCount": "2712"
     },
@@ -898,7 +898,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-10",
-      "viewCount": "2248万",
+      "viewCount": "2250万",
       "likeCount": "11.7万",
       "commentCount": "2706"
     },
@@ -944,7 +944,7 @@
       "publishedAt": "2013-12-21",
       "viewCount": "1487万",
       "likeCount": "5.4万",
-      "commentCount": "2704"
+      "commentCount": "2705"
     },
     {
       "rank": 2343,
@@ -966,7 +966,29 @@
       "publishedAt": "2010-04-16",
       "viewCount": "2097万",
       "likeCount": "6.4万",
-      "commentCount": "2704"
+      "commentCount": "2705"
+    },
+    {
+      "rank": 2345,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/XpF9Y7rcqBs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=XpF9Y7rcqBs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Ed Sheeran – “Supermarket Flowers” Yoriko Hoshi Version",
+        "url": "https://www.youtube.com/watch?v=XpF9Y7rcqBs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Warner Music Japan",
+        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-04-02",
+      "viewCount": "4114万",
+      "likeCount": "26.9万",
+      "commentCount": "2695"
     },
     {
       "rank": 2345,
@@ -986,12 +1008,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-21",
-      "viewCount": "1116万",
+      "viewCount": "1118万",
       "likeCount": "7.9万",
       "commentCount": "2695"
     },
     {
-      "rank": 2346,
+      "rank": 2347,
       "thumb": {
         "img": "https://i.ytimg.com/vi/b-Ma_fd1aXg/default.jpg",
         "url": "https://www.youtube.com/watch?v=b-Ma_fd1aXg",
@@ -1011,28 +1033,6 @@
       "viewCount": "1337万",
       "likeCount": "8.5万",
       "commentCount": "2693"
-    },
-    {
-      "rank": 2347,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/XpF9Y7rcqBs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=XpF9Y7rcqBs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Ed Sheeran – “Supermarket Flowers” Yoriko Hoshi Version",
-        "url": "https://www.youtube.com/watch?v=XpF9Y7rcqBs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Warner Music Japan",
-        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-04-02",
-      "viewCount": "4111万",
-      "likeCount": "26.9万",
-      "commentCount": "2692"
     },
     {
       "rank": 2348,
@@ -1074,7 +1074,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-03-22",
-      "viewCount": "2595万",
+      "viewCount": "2596万",
       "likeCount": "15.3万",
       "commentCount": "2678"
     },

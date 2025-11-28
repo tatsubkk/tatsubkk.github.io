@@ -20,8 +20,8 @@
       "publishedAt": "2021-06-08",
       "viewCount": "1863万",
       "likeCount": "-",
-      "commentCount": "4565",
-      "increment_d1": "701"
+      "commentCount": "4566",
+      "increment_d1": "643"
     },
     {
       "rank": 1852,
@@ -41,10 +41,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-23",
-      "viewCount": "1861万",
-      "likeCount": "22.3万",
+      "viewCount": "1862万",
+      "likeCount": "22.4万",
       "commentCount": "1336",
-      "increment_d1": "1.13万"
+      "increment_d1": "1.15万"
     },
     {
       "rank": 1853,
@@ -64,10 +64,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-29",
-      "viewCount": "1860万",
+      "viewCount": "1861万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "7538"
+      "increment_d1": "7843"
     },
     {
       "rank": 1854,
@@ -87,59 +87,13 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-06",
-      "viewCount": "1859万",
+      "viewCount": "1860万",
       "likeCount": "4.4万",
       "commentCount": "6391",
-      "increment_d1": "1645"
+      "increment_d1": "1220"
     },
     {
       "rank": 1855,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/PG8xpE7Fl-I/default.jpg",
-        "url": "https://www.youtube.com/watch?v=PG8xpE7Fl-I",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "斉藤和義 – ずっと好きだった [Music Video]",
-        "url": "https://www.youtube.com/watch?v=PG8xpE7Fl-I",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "斉藤和義",
-        "url": "https://www.youtube.com/channel/UCw61Gu5Wa_r16dscWoAzUhA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-05-14",
-      "viewCount": "1858万",
-      "likeCount": "7.8万",
-      "commentCount": "1800",
-      "increment_d1": "8210"
-    },
-    {
-      "rank": 1856,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/XRnX65LDRoU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=XRnX65LDRoU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "RADWIMPS - 25ｺ目の染色体  [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=XRnX65LDRoU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "RADWIMPS",
-        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-07-02",
-      "viewCount": "1858万",
-      "likeCount": "6.2万",
-      "commentCount": "2494",
-      "increment_d1": "7563"
-    },
-    {
-      "rank": 1857,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3Yq58d2rsRk/default.jpg",
         "url": "https://www.youtube.com/watch?v=3Yq58d2rsRk",
@@ -156,13 +110,82 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-03",
-      "viewCount": "1858万",
+      "viewCount": "1859万",
       "likeCount": "12.9万",
       "commentCount": "2838",
-      "increment_d1": "1.61万"
+      "increment_d1": "1.67万"
+    },
+    {
+      "rank": 1856,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/PG8xpE7Fl-I/default.jpg",
+        "url": "https://www.youtube.com/watch?v=PG8xpE7Fl-I",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "斉藤和義 – ずっと好きだった [Music Video]",
+        "url": "https://www.youtube.com/watch?v=PG8xpE7Fl-I",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "斉藤和義",
+        "url": "https://www.youtube.com/channel/UCw61Gu5Wa_r16dscWoAzUhA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-05-14",
+      "viewCount": "1859万",
+      "likeCount": "7.8万",
+      "commentCount": "1800",
+      "increment_d1": "8813"
+    },
+    {
+      "rank": 1857,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/XRnX65LDRoU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=XRnX65LDRoU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "RADWIMPS - 25ｺ目の染色体  [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=XRnX65LDRoU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "RADWIMPS",
+        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-07-02",
+      "viewCount": "1859万",
+      "likeCount": "6.2万",
+      "commentCount": "2494",
+      "increment_d1": "7605"
     },
     {
       "rank": 1858,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/5g6E_UY5G88/default.jpg",
+        "url": "https://www.youtube.com/watch?v=5g6E_UY5G88",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SixTONES – バリア [YouTube ver.]",
+        "url": "https://www.youtube.com/watch?v=5g6E_UY5G88",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SixTONES",
+        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-02-14",
+      "viewCount": "1857万",
+      "likeCount": "14.1万",
+      "commentCount": "2.2万",
+      "increment_d1": "1.54万"
+    },
+    {
+      "rank": 1859,
       "thumb": {
         "img": "https://i.ytimg.com/vi/_uGr_txlbRE/default.jpg",
         "url": "https://www.youtube.com/watch?v=_uGr_txlbRE",
@@ -182,10 +205,10 @@
       "viewCount": "1856万",
       "likeCount": "2.1万",
       "commentCount": "464",
-      "increment_d1": "1034"
+      "increment_d1": "959"
     },
     {
-      "rank": 1859,
+      "rank": 1860,
       "thumb": {
         "img": "https://i.ytimg.com/vi/XPT91f5vU-k/default.jpg",
         "url": "https://www.youtube.com/watch?v=XPT91f5vU-k",
@@ -204,11 +227,11 @@
       "publishedAt": "2020-08-02",
       "viewCount": "1856万",
       "likeCount": "17.3万",
-      "commentCount": "9758",
-      "increment_d1": "2552"
+      "commentCount": "9759",
+      "increment_d1": "2702"
     },
     {
-      "rank": 1860,
+      "rank": 1861,
       "thumb": {
         "img": "https://i.ytimg.com/vi/pKbMVYmYCN4/default.jpg",
         "url": "https://www.youtube.com/watch?v=pKbMVYmYCN4",
@@ -228,30 +251,7 @@
       "viewCount": "1856万",
       "likeCount": "4.9万",
       "commentCount": "2438",
-      "increment_d1": "4533"
-    },
-    {
-      "rank": 1861,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/5g6E_UY5G88/default.jpg",
-        "url": "https://www.youtube.com/watch?v=5g6E_UY5G88",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SixTONES – バリア [YouTube ver.]",
-        "url": "https://www.youtube.com/watch?v=5g6E_UY5G88",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SixTONES",
-        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-02-14",
-      "viewCount": "1855万",
-      "likeCount": "14.1万",
-      "commentCount": "2.2万",
-      "increment_d1": "1.6万"
+      "increment_d1": "4693"
     },
     {
       "rank": 1862,
@@ -274,7 +274,7 @@
       "viewCount": "1855万",
       "likeCount": "6万",
       "commentCount": "1678",
-      "increment_d1": "1010"
+      "increment_d1": "964"
     },
     {
       "rank": 1863,
@@ -296,8 +296,8 @@
       "publishedAt": "2022-08-06",
       "viewCount": "1855万",
       "likeCount": "13.2万",
-      "commentCount": "6195",
-      "increment_d1": "1744"
+      "commentCount": "6196",
+      "increment_d1": "1861"
     },
     {
       "rank": 1864,
@@ -320,33 +320,10 @@
       "viewCount": "1855万",
       "likeCount": "8.6万",
       "commentCount": "3426",
-      "increment_d1": "1402"
+      "increment_d1": "1407"
     },
     {
       "rank": 1865,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/G6earlGo0b0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=G6earlGo0b0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ジェニーハイ「片目で異常に恋してる」",
-        "url": "https://www.youtube.com/watch?v=G6earlGo0b0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ジェニーハイ",
-        "url": "https://www.youtube.com/channel/UCZUm9b2e5w54cQM7MVVR_9A",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-03-15",
-      "viewCount": "1854万",
-      "likeCount": "13万",
-      "commentCount": "7331",
-      "increment_d1": "543"
-    },
-    {
-      "rank": 1866,
       "thumb": {
         "img": "https://i.ytimg.com/vi/NY1TyFUhbMA/default.jpg",
         "url": "https://www.youtube.com/watch?v=NY1TyFUhbMA",
@@ -363,10 +340,33 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-18",
-      "viewCount": "1853万",
+      "viewCount": "1855万",
       "likeCount": "18.4万",
-      "commentCount": "2299",
-      "increment_d1": "1.52万"
+      "commentCount": "2300",
+      "increment_d1": "1.6万"
+    },
+    {
+      "rank": 1866,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/G6earlGo0b0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=G6earlGo0b0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ジェニーハイ「片目で異常に恋してる」",
+        "url": "https://www.youtube.com/watch?v=G6earlGo0b0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ジェニーハイ",
+        "url": "https://www.youtube.com/channel/UCZUm9b2e5w54cQM7MVVR_9A",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-03-15",
+      "viewCount": "1855万",
+      "likeCount": "13万",
+      "commentCount": "7331",
+      "increment_d1": "651"
     },
     {
       "rank": 1867,
@@ -389,7 +389,7 @@
       "viewCount": "1852万",
       "likeCount": "7.2万",
       "commentCount": "5683",
-      "increment_d1": "1221"
+      "increment_d1": "1165"
     },
     {
       "rank": 1868,
@@ -412,7 +412,7 @@
       "viewCount": "1852万",
       "likeCount": "20.2万",
       "commentCount": "7906",
-      "increment_d1": "1622"
+      "increment_d1": "1654"
     },
     {
       "rank": 1869,
@@ -434,8 +434,8 @@
       "publishedAt": "2017-05-11",
       "viewCount": "1849万",
       "likeCount": "15.2万",
-      "commentCount": "8420",
-      "increment_d1": "933"
+      "commentCount": "8419",
+      "increment_d1": "880"
     },
     {
       "rank": 1870,
@@ -455,13 +455,36 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-22",
-      "viewCount": "1847万",
+      "viewCount": "1848万",
       "likeCount": "17.2万",
-      "commentCount": "6654",
-      "increment_d1": "6794"
+      "commentCount": "6657",
+      "increment_d1": "7348"
     },
     {
       "rank": 1871,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/VtqnjYMdCAQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=VtqnjYMdCAQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "おいしくるメロンパン「look at the sea」Music Video",
+        "url": "https://www.youtube.com/watch?v=VtqnjYMdCAQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "おいしくるメロンパン",
+        "url": "https://www.youtube.com/channel/UCFXpQ26vOF8OCPjAyIzyLLQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-07-26",
+      "viewCount": "1847万",
+      "likeCount": "20.8万",
+      "commentCount": "3336",
+      "increment_d1": "1.16万"
+    },
+    {
+      "rank": 1872,
       "thumb": {
         "img": "https://i.ytimg.com/vi/xgWFK4REfgk/default.jpg",
         "url": "https://www.youtube.com/watch?v=xgWFK4REfgk",
@@ -478,13 +501,13 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-25",
-      "viewCount": "1846万",
+      "viewCount": "1847万",
       "likeCount": "17.5万",
       "commentCount": "7.4万",
-      "increment_d1": "1631"
+      "increment_d1": "1634"
     },
     {
-      "rank": 1872,
+      "rank": 1873,
       "thumb": {
         "img": "https://i.ytimg.com/vi/BuU2bocSfDo/default.jpg",
         "url": "https://www.youtube.com/watch?v=BuU2bocSfDo",
@@ -504,30 +527,7 @@
       "viewCount": "1846万",
       "likeCount": "15.3万",
       "commentCount": "6379",
-      "increment_d1": "2580"
-    },
-    {
-      "rank": 1873,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/VtqnjYMdCAQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=VtqnjYMdCAQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "おいしくるメロンパン「look at the sea」Music Video",
-        "url": "https://www.youtube.com/watch?v=VtqnjYMdCAQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "おいしくるメロンパン",
-        "url": "https://www.youtube.com/channel/UCFXpQ26vOF8OCPjAyIzyLLQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-07-26",
-      "viewCount": "1846万",
-      "likeCount": "20.8万",
-      "commentCount": "3336",
-      "increment_d1": "1.1万"
+      "increment_d1": "3070"
     },
     {
       "rank": 1874,
@@ -550,7 +550,7 @@
       "viewCount": "1846万",
       "likeCount": "14万",
       "commentCount": "7166",
-      "increment_d1": "2834"
+      "increment_d1": "2848"
     },
     {
       "rank": 1875,
@@ -573,10 +573,33 @@
       "viewCount": "1843万",
       "likeCount": "85.9万",
       "commentCount": "1.7万",
-      "increment_d1": "1527"
+      "increment_d1": "1487"
     },
     {
       "rank": 1876,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/E5ZapvJV9wc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=E5ZapvJV9wc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "JAY'ED「最後の優しさ」",
+        "url": "https://www.youtube.com/watch?v=E5ZapvJV9wc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "TOYSFACTORYJP",
+        "url": "https://www.youtube.com/channel/UC4C37AMho6DRUIYnoc4fiSA",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-06-19",
+      "viewCount": "1843万",
+      "likeCount": "5.4万",
+      "commentCount": "1366",
+      "increment_d1": "7783"
+    },
+    {
+      "rank": 1877,
       "thumb": {
         "img": "https://i.ytimg.com/vi/bVZElDCQn3I/default.jpg",
         "url": "https://www.youtube.com/watch?v=bVZElDCQn3I",
@@ -596,30 +619,7 @@
       "viewCount": "1842万",
       "likeCount": "8.2万",
       "commentCount": "9591",
-      "increment_d1": "785"
-    },
-    {
-      "rank": 1877,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/E5ZapvJV9wc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=E5ZapvJV9wc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "JAY'ED「最後の優しさ」",
-        "url": "https://www.youtube.com/watch?v=E5ZapvJV9wc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "TOYSFACTORYJP",
-        "url": "https://www.youtube.com/channel/UC4C37AMho6DRUIYnoc4fiSA",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-06-19",
-      "viewCount": "1842万",
-      "likeCount": "5.4万",
-      "commentCount": "1366",
-      "increment_d1": "7650"
+      "increment_d1": "872"
     },
     {
       "rank": 1878,
@@ -641,8 +641,8 @@
       "publishedAt": "2022-10-11",
       "viewCount": "1842万",
       "likeCount": "12.7万",
-      "commentCount": "3660",
-      "increment_d1": "912"
+      "commentCount": "3659",
+      "increment_d1": "875"
     },
     {
       "rank": 1879,
@@ -662,10 +662,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-12",
-      "viewCount": "1839万",
+      "viewCount": "1840万",
       "likeCount": "20万",
       "commentCount": "3706",
-      "increment_d1": "9539"
+      "increment_d1": "9672"
     },
     {
       "rank": 1880,
@@ -688,30 +688,30 @@
       "viewCount": "1838万",
       "likeCount": "-",
       "commentCount": "1.4万",
-      "increment_d1": "3858"
+      "increment_d1": "3840"
     },
     {
       "rank": 1881,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/B36u-tuublE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=B36u-tuublE",
+        "img": "https://i.ytimg.com/vi/Ug0N4qGRp_w/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Ug0N4qGRp_w",
         "target": "_blank"
       },
       "title": {
-        "text": "コレサワ「元彼女のみなさまへ」【Lyric Video】",
-        "url": "https://www.youtube.com/watch?v=B36u-tuublE",
+        "text": "けっかおーらい / こっちのけんと MV",
+        "url": "https://www.youtube.com/watch?v=Ug0N4qGRp_w",
         "target": "_blank"
       },
       "channel": {
-        "text": "コレサワ",
-        "url": "https://www.youtube.com/channel/UCY47aDuWPpH18NJlidLg04A",
+        "text": "こっちのけんと",
+        "url": "https://www.youtube.com/channel/UC1laSZHo_6VBXU9FmfGNwFA",
         "target": "_blank"
       },
-      "publishedAt": "2024-09-04",
-      "viewCount": "1835万",
-      "likeCount": "13.3万",
-      "commentCount": "2490",
-      "increment_d1": "9734"
+      "publishedAt": "2025-04-08",
+      "viewCount": "1837万",
+      "likeCount": "22.1万",
+      "commentCount": "6092",
+      "increment_d1": "2.88万"
     },
     {
       "rank": 1882,
@@ -731,36 +731,59 @@
         "target": "_blank"
       },
       "publishedAt": "2024-05-31",
-      "viewCount": "1834万",
+      "viewCount": "1837万",
       "likeCount": "29.8万",
-      "commentCount": "4736",
-      "increment_d1": "2.85万"
+      "commentCount": "4738",
+      "increment_d1": "2.64万"
     },
     {
       "rank": 1883,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/Ug0N4qGRp_w/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Ug0N4qGRp_w",
+        "img": "https://i.ytimg.com/vi/B36u-tuublE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=B36u-tuublE",
         "target": "_blank"
       },
       "title": {
-        "text": "けっかおーらい / こっちのけんと MV",
-        "url": "https://www.youtube.com/watch?v=Ug0N4qGRp_w",
+        "text": "コレサワ「元彼女のみなさまへ」【Lyric Video】",
+        "url": "https://www.youtube.com/watch?v=B36u-tuublE",
         "target": "_blank"
       },
       "channel": {
-        "text": "こっちのけんと",
-        "url": "https://www.youtube.com/channel/UC1laSZHo_6VBXU9FmfGNwFA",
+        "text": "コレサワ",
+        "url": "https://www.youtube.com/channel/UCY47aDuWPpH18NJlidLg04A",
         "target": "_blank"
       },
-      "publishedAt": "2025-04-08",
-      "viewCount": "1834万",
-      "likeCount": "22.1万",
-      "commentCount": "6093",
-      "increment_d1": "2.6万"
+      "publishedAt": "2024-09-04",
+      "viewCount": "1836万",
+      "likeCount": "13.3万",
+      "commentCount": "2490",
+      "increment_d1": "9565"
     },
     {
       "rank": 1884,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/iIH38n1o6Kg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=iIH38n1o6Kg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "TVアニメ「約束のネバーランド」ノンクレジットオープニング",
+        "url": "https://www.youtube.com/watch?v=iIH38n1o6Kg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "アニプレックス チャンネル",
+        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-01-10",
+      "viewCount": "1834万",
+      "likeCount": "27.8万",
+      "commentCount": "9071",
+      "increment_d1": "4226"
+    },
+    {
+      "rank": 1885,
       "thumb": {
         "img": "https://i.ytimg.com/vi/J71ILoiePMg/default.jpg",
         "url": "https://www.youtube.com/watch?v=J71ILoiePMg",
@@ -780,30 +803,7 @@
       "viewCount": "1834万",
       "likeCount": "8.6万",
       "commentCount": "9614",
-      "increment_d1": "1049"
-    },
-    {
-      "rank": 1885,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/iIH38n1o6Kg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=iIH38n1o6Kg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "TVアニメ「約束のネバーランド」ノンクレジットオープニング",
-        "url": "https://www.youtube.com/watch?v=iIH38n1o6Kg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アニプレックス チャンネル",
-        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-01-10",
-      "viewCount": "1834万",
-      "likeCount": "27.8万",
-      "commentCount": "9070",
-      "increment_d1": "4396"
+      "increment_d1": "1045"
     },
     {
       "rank": 1886,
@@ -823,10 +823,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-03-05",
-      "viewCount": "1833万",
+      "viewCount": "1834万",
       "likeCount": "64.1万",
-      "commentCount": "5543",
-      "increment_d1": "3539"
+      "commentCount": "5538",
+      "increment_d1": "3217"
     },
     {
       "rank": 1887,
@@ -849,10 +849,33 @@
       "viewCount": "1832万",
       "likeCount": "12.1万",
       "commentCount": "1.9万",
-      "increment_d1": "2853"
+      "increment_d1": "3281"
     },
     {
       "rank": 1888,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/By2_SOQH9PA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=By2_SOQH9PA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE「フロリジナル」Official Music Video",
+        "url": "https://www.youtube.com/watch?v=By2_SOQH9PA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-11-07",
+      "viewCount": "1831万",
+      "likeCount": "12.6万",
+      "commentCount": "3562",
+      "increment_d1": "2.04万"
+    },
+    {
+      "rank": 1889,
       "thumb": {
         "img": "https://i.ytimg.com/vi/XZsGfCg3Ve4/default.jpg",
         "url": "https://www.youtube.com/watch?v=XZsGfCg3Ve4",
@@ -871,31 +894,8 @@
       "publishedAt": "2015-11-23",
       "viewCount": "1831万",
       "likeCount": "4.8万",
-      "commentCount": "1184",
-      "increment_d1": "586"
-    },
-    {
-      "rank": 1889,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/By2_SOQH9PA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=By2_SOQH9PA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE「フロリジナル」Official Music Video",
-        "url": "https://www.youtube.com/watch?v=By2_SOQH9PA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-11-07",
-      "viewCount": "1829万",
-      "likeCount": "12.6万",
-      "commentCount": "3559",
-      "increment_d1": "1.95万"
+      "commentCount": "1185",
+      "increment_d1": "597"
     },
     {
       "rank": 1890,
@@ -915,36 +915,13 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-07",
-      "viewCount": "1829万",
+      "viewCount": "1830万",
       "likeCount": "15.9万",
       "commentCount": "5500",
-      "increment_d1": "8330"
+      "increment_d1": "7786"
     },
     {
       "rank": 1891,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/yV0j3-SGaYA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=yV0j3-SGaYA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "夢のまた夢／まふまふ　【Music Video】",
-        "url": "https://www.youtube.com/watch?v=yV0j3-SGaYA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "まふまふちゃんねる",
-        "url": "https://www.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-07-21",
-      "viewCount": "1827万",
-      "likeCount": "21.1万",
-      "commentCount": "1.1万",
-      "increment_d1": "856"
-    },
-    {
-      "rank": 1892,
       "thumb": {
         "img": "https://i.ytimg.com/vi/XOBjOWELu1o/default.jpg",
         "url": "https://www.youtube.com/watch?v=XOBjOWELu1o",
@@ -964,7 +941,30 @@
       "viewCount": "1827万",
       "likeCount": "5.5万",
       "commentCount": "2638",
-      "increment_d1": "9136"
+      "increment_d1": "8958"
+    },
+    {
+      "rank": 1892,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/yV0j3-SGaYA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=yV0j3-SGaYA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "夢のまた夢／まふまふ　【Music Video】",
+        "url": "https://www.youtube.com/watch?v=yV0j3-SGaYA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "まふまふちゃんねる",
+        "url": "https://www.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-07-21",
+      "viewCount": "1827万",
+      "likeCount": "21.1万",
+      "commentCount": "1.1万",
+      "increment_d1": "888"
     },
     {
       "rank": 1893,
@@ -984,10 +984,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-29",
-      "viewCount": "1826万",
+      "viewCount": "1827万",
       "likeCount": "11.8万",
       "commentCount": "2179",
-      "increment_d1": "7517"
+      "increment_d1": "7291"
     },
     {
       "rank": 1894,
@@ -1007,10 +1007,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-10",
-      "viewCount": "1825万",
+      "viewCount": "1826万",
       "likeCount": "22.2万",
-      "commentCount": "6148",
-      "increment_d1": "4578"
+      "commentCount": "6147",
+      "increment_d1": "4744"
     },
     {
       "rank": 1895,
@@ -1033,7 +1033,7 @@
       "viewCount": "1824万",
       "likeCount": "3.9万",
       "commentCount": "1674",
-      "increment_d1": "232"
+      "increment_d1": "252"
     },
     {
       "rank": 1896,
@@ -1053,10 +1053,10 @@
         "target": "_blank"
       },
       "publishedAt": "2011-12-21",
-      "viewCount": "1822万",
+      "viewCount": "1823万",
       "likeCount": "7.3万",
       "commentCount": "5295",
-      "increment_d1": "2425"
+      "increment_d1": "2528"
     },
     {
       "rank": 1897,
@@ -1076,10 +1076,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-10-24",
-      "viewCount": "1820万",
+      "viewCount": "1821万",
       "likeCount": "17.7万",
-      "commentCount": "6250",
-      "increment_d1": "5272"
+      "commentCount": "6251",
+      "increment_d1": "5666"
     },
     {
       "rank": 1898,
@@ -1099,9 +1099,9 @@
         "target": "_blank"
       },
       "publishedAt": "2025-01-24",
-      "viewCount": "1816万",
+      "viewCount": "1819万",
       "likeCount": "23.5万",
-      "commentCount": "4887",
+      "commentCount": "4895",
       "increment_d1": "2.68万"
     },
     {
@@ -1125,7 +1125,7 @@
       "viewCount": "1816万",
       "likeCount": "6.9万",
       "commentCount": "68",
-      "increment_d1": "95"
+      "increment_d1": "88"
     },
     {
       "rank": 1900,
@@ -1147,8 +1147,8 @@
       "publishedAt": "2017-12-22",
       "viewCount": "1815万",
       "likeCount": "28.4万",
-      "commentCount": "9226",
-      "increment_d1": "5610"
+      "commentCount": "9233",
+      "increment_d1": "5429"
     }
   ]
 }

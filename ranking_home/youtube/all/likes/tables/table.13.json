@@ -3,6 +3,28 @@
     {
       "rank": 601,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/2PqxOytUjz0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=2PqxOytUjz0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "米津玄師　MV『ゴーゴー幽霊船』",
+        "url": "https://www.youtube.com/watch?v=2PqxOytUjz0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-02-19",
+      "viewCount": "7820万",
+      "likeCount": "35.79万",
+      "commentCount": "1.4万"
+    },
+    {
+      "rank": 602,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/k1Ci-5lr-DA/default.jpg",
         "url": "https://www.youtube.com/watch?v=k1Ci-5lr-DA",
         "target": "_blank"
@@ -18,31 +40,9 @@
         "target": "_blank"
       },
       "publishedAt": "2018-02-09",
-      "viewCount": "6391万",
-      "likeCount": "35.77万",
+      "viewCount": "6393万",
+      "likeCount": "35.78万",
       "commentCount": "1.2万"
-    },
-    {
-      "rank": 602,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/wggigwtz4dQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=wggigwtz4dQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "IRIS OUT",
-        "url": "https://www.youtube.com/watch?v=wggigwtz4dQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu - Topic",
-        "url": "https://www.youtube.com/channel/UCC_OGcKdYY-aWFvVMFVGbzw",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-09-14",
-      "viewCount": "4731万",
-      "likeCount": "35.71万",
-      "commentCount": "5072"
     },
     {
       "rank": 603,
@@ -62,7 +62,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-31",
-      "viewCount": "2369万",
+      "viewCount": "2370万",
       "likeCount": "35.7万",
       "commentCount": "1万"
     },
@@ -128,8 +128,8 @@
         "target": "_blank"
       },
       "publishedAt": "2012-11-12",
-      "viewCount": "1億54万",
-      "likeCount": "35.57万",
+      "viewCount": "1億59万",
+      "likeCount": "35.59万",
       "commentCount": "3.1万"
     },
     {
@@ -150,9 +150,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-29",
-      "viewCount": "6986万",
+      "viewCount": "6987万",
       "likeCount": "35.5万",
-      "commentCount": "8030"
+      "commentCount": "8022"
     },
     {
       "rank": 608,
@@ -172,9 +172,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-21",
-      "viewCount": "1805万",
-      "likeCount": "35.25万",
-      "commentCount": "8271"
+      "viewCount": "1806万",
+      "likeCount": "35.27万",
+      "commentCount": "8273"
     },
     {
       "rank": 609,
@@ -194,9 +194,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-28",
-      "viewCount": "3396万",
-      "likeCount": "35.17万",
-      "commentCount": "8062"
+      "viewCount": "3397万",
+      "likeCount": "35.18万",
+      "commentCount": "8063"
     },
     {
       "rank": 610,
@@ -238,8 +238,8 @@
         "target": "_blank"
       },
       "publishedAt": "2018-02-02",
-      "viewCount": "4166万",
-      "likeCount": "34.99万",
+      "viewCount": "4168万",
+      "likeCount": "35万",
       "commentCount": "8699"
     },
     {
@@ -260,8 +260,8 @@
         "target": "_blank"
       },
       "publishedAt": "2013-06-18",
-      "viewCount": "9818万",
-      "likeCount": "34.95万",
+      "viewCount": "9820万",
+      "likeCount": "34.96万",
       "commentCount": "2.6万"
     },
     {
@@ -282,7 +282,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-10-08",
-      "viewCount": "8091万",
+      "viewCount": "8092万",
       "likeCount": "34.91万",
       "commentCount": "2.1万"
     },
@@ -348,8 +348,8 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-17",
-      "viewCount": "1042万",
-      "likeCount": "34.62万",
+      "viewCount": "1043万",
+      "likeCount": "34.63万",
       "commentCount": "2万"
     },
     {
@@ -370,8 +370,8 @@
         "target": "_blank"
       },
       "publishedAt": "2015-12-25",
-      "viewCount": "4426万",
-      "likeCount": "34.54万",
+      "viewCount": "4427万",
+      "likeCount": "34.55万",
       "commentCount": "1.2万"
     },
     {
@@ -392,9 +392,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-27",
-      "viewCount": "3483万",
-      "likeCount": "34.38万",
-      "commentCount": "9664"
+      "viewCount": "3484万",
+      "likeCount": "34.39万",
+      "commentCount": "9666"
     },
     {
       "rank": 619,
@@ -414,9 +414,9 @@
         "target": "_blank"
       },
       "publishedAt": "2018-03-16",
-      "viewCount": "9710万",
-      "likeCount": "34.38万",
-      "commentCount": "9502"
+      "viewCount": "9712万",
+      "likeCount": "34.39万",
+      "commentCount": "9503"
     },
     {
       "rank": 620,
@@ -436,7 +436,7 @@
         "target": "_blank"
       },
       "publishedAt": "2008-12-08",
-      "viewCount": "6560万",
+      "viewCount": "6561万",
       "likeCount": "34.3万",
       "commentCount": "1.5万"
     },
@@ -459,7 +459,7 @@
       },
       "publishedAt": "2016-04-19",
       "viewCount": "4989万",
-      "likeCount": "34.26万",
+      "likeCount": "34.27万",
       "commentCount": "1.6万"
     },
     {
@@ -487,28 +487,6 @@
     {
       "rank": 623,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/BEEFXAltoqo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=BEEFXAltoqo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "闇夜 - Eve MV \"Dark night\"",
-        "url": "https://www.youtube.com/watch?v=BEEFXAltoqo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Eve",
-        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-06-24",
-      "viewCount": "2217万",
-      "likeCount": "34.19万",
-      "commentCount": "1.4万"
-    },
-    {
-      "rank": 624,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/7pPb5fmumNo/default.jpg",
         "url": "https://www.youtube.com/watch?v=7pPb5fmumNo",
         "target": "_blank"
@@ -524,9 +502,31 @@
         "target": "_blank"
       },
       "publishedAt": "2015-06-02",
-      "viewCount": "2260万",
-      "likeCount": "34.18万",
+      "viewCount": "2262万",
+      "likeCount": "34.2万",
       "commentCount": "2"
+    },
+    {
+      "rank": 624,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/BEEFXAltoqo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=BEEFXAltoqo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "闇夜 - Eve MV \"Dark night\"",
+        "url": "https://www.youtube.com/watch?v=BEEFXAltoqo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Eve",
+        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-06-24",
+      "viewCount": "2218万",
+      "likeCount": "34.19万",
+      "commentCount": "1.4万"
     },
     {
       "rank": 625,
@@ -548,7 +548,7 @@
       "publishedAt": "2018-08-13",
       "viewCount": "4958万",
       "likeCount": "34.09万",
-      "commentCount": "7870"
+      "commentCount": "7871"
     },
     {
       "rank": 626,
@@ -568,9 +568,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-24",
-      "viewCount": "5155万",
-      "likeCount": "33.99万",
-      "commentCount": "8368"
+      "viewCount": "5158万",
+      "likeCount": "34万",
+      "commentCount": "8371"
     },
     {
       "rank": 627,
@@ -590,7 +590,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-11-17",
-      "viewCount": "2004万",
+      "viewCount": "2005万",
       "likeCount": "33.97万",
       "commentCount": "1.5万"
     },
@@ -619,6 +619,28 @@
     {
       "rank": 629,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/q6T0wOMsNrI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=q6T0wOMsNrI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[Official Music Video] Perfume 「FLASH」",
+        "url": "https://www.youtube.com/watch?v=q6T0wOMsNrI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Perfume",
+        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-04-12",
+      "viewCount": "8377万",
+      "likeCount": "33.91万",
+      "commentCount": "1.3万"
+    },
+    {
+      "rank": 630,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/76-KTVPm7XA/default.jpg",
         "url": "https://www.youtube.com/watch?v=76-KTVPm7XA",
         "target": "_blank"
@@ -637,28 +659,6 @@
       "viewCount": "2506万",
       "likeCount": "33.91万",
       "commentCount": "8586"
-    },
-    {
-      "rank": 630,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/q6T0wOMsNrI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=q6T0wOMsNrI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[Official Music Video] Perfume 「FLASH」",
-        "url": "https://www.youtube.com/watch?v=q6T0wOMsNrI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Perfume",
-        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-04-12",
-      "viewCount": "8376万",
-      "likeCount": "33.91万",
-      "commentCount": "1.3万"
     },
     {
       "rank": 631,
@@ -700,8 +700,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-07-25",
-      "viewCount": "4936万",
-      "likeCount": "33.82万",
+      "viewCount": "4939万",
+      "likeCount": "33.83万",
       "commentCount": "1.3万"
     },
     {
@@ -751,28 +751,6 @@
     {
       "rank": 635,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/vU3oF90WKpw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=vU3oF90WKpw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[MV] 輪廻転生／まふまふ [オリジナル曲]",
-        "url": "https://www.youtube.com/watch?v=vU3oF90WKpw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "まふまふちゃんねる",
-        "url": "https://www.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-09-30",
-      "viewCount": "2615万",
-      "likeCount": "33.76万",
-      "commentCount": "1.2万"
-    },
-    {
-      "rank": 636,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/xCIJJ2Rb368/default.jpg",
         "url": "https://www.youtube.com/watch?v=xCIJJ2Rb368",
         "target": "_blank"
@@ -788,12 +766,56 @@
         "target": "_blank"
       },
       "publishedAt": "2013-09-20",
-      "viewCount": "6342万",
+      "viewCount": "6343万",
+      "likeCount": "33.77万",
+      "commentCount": "9061"
+    },
+    {
+      "rank": 636,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/vU3oF90WKpw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=vU3oF90WKpw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[MV] 輪廻転生／まふまふ [オリジナル曲]",
+        "url": "https://www.youtube.com/watch?v=vU3oF90WKpw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "まふまふちゃんねる",
+        "url": "https://www.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-09-30",
+      "viewCount": "2616万",
       "likeCount": "33.76万",
-      "commentCount": "9062"
+      "commentCount": "1.2万"
     },
     {
       "rank": 637,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/gfzuzDrVRVM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=gfzuzDrVRVM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "欅坂46 『不協和音』",
+        "url": "https://www.youtube.com/watch?v=gfzuzDrVRVM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "櫻坂46 OFFICIAL YouTube CHANNEL",
+        "url": "https://www.youtube.com/channel/UCmr9bYmymcBmQ1p2tLBRvwg",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-03-23",
+      "viewCount": "9958万",
+      "likeCount": "33.75万",
+      "commentCount": "5.2万"
+    },
+    {
+      "rank": 638,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ZNFKZI7L9xE/default.jpg",
         "url": "https://www.youtube.com/watch?v=ZNFKZI7L9xE",
@@ -815,28 +837,6 @@
       "commentCount": "1.4万"
     },
     {
-      "rank": 638,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/gfzuzDrVRVM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=gfzuzDrVRVM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "欅坂46 『不協和音』",
-        "url": "https://www.youtube.com/watch?v=gfzuzDrVRVM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "櫻坂46 OFFICIAL YouTube CHANNEL",
-        "url": "https://www.youtube.com/channel/UCmr9bYmymcBmQ1p2tLBRvwg",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-03-23",
-      "viewCount": "9957万",
-      "likeCount": "33.75万",
-      "commentCount": "5.2万"
-    },
-    {
       "rank": 639,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ZGXOWPZ64DA/default.jpg",
@@ -854,9 +854,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-02-10",
-      "viewCount": "2190万",
-      "likeCount": "33.67万",
-      "commentCount": "6670"
+      "viewCount": "2193万",
+      "likeCount": "33.69万",
+      "commentCount": "6674"
     },
     {
       "rank": 640,
@@ -876,9 +876,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-03-11",
-      "viewCount": "5636万",
+      "viewCount": "5637万",
       "likeCount": "33.65万",
-      "commentCount": "9796"
+      "commentCount": "9800"
     },
     {
       "rank": 641,
@@ -898,9 +898,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-07",
-      "viewCount": "3364万",
-      "likeCount": "33.64万",
-      "commentCount": "4980"
+      "viewCount": "3365万",
+      "likeCount": "33.65万",
+      "commentCount": "4979"
     },
     {
       "rank": 642,
@@ -942,12 +942,34 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-07",
-      "viewCount": "6875万",
-      "likeCount": "33.55万",
-      "commentCount": "5058"
+      "viewCount": "6883万",
+      "likeCount": "33.58万",
+      "commentCount": "5066"
     },
     {
       "rank": 644,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/GVFR9zmQjec/default.jpg",
+        "url": "https://www.youtube.com/watch?v=GVFR9zmQjec",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "AAA / 「さよならの前に」Music Video",
+        "url": "https://www.youtube.com/watch?v=GVFR9zmQjec",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-08-14",
+      "viewCount": "1億2256万",
+      "likeCount": "33.53万",
+      "commentCount": "2万"
+    },
+    {
+      "rank": 645,
       "thumb": {
         "img": "https://i.ytimg.com/vi/w5uJEecsDa8/default.jpg",
         "url": "https://www.youtube.com/watch?v=w5uJEecsDa8",
@@ -965,55 +987,11 @@
       },
       "publishedAt": "2020-08-21",
       "viewCount": "2445万",
-      "likeCount": "33.52万",
+      "likeCount": "33.53万",
       "commentCount": "1.6万"
     },
     {
-      "rank": 645,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/GVFR9zmQjec/default.jpg",
-        "url": "https://www.youtube.com/watch?v=GVFR9zmQjec",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "AAA / 「さよならの前に」Music Video",
-        "url": "https://www.youtube.com/watch?v=GVFR9zmQjec",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-08-14",
-      "viewCount": "1億2255万",
-      "likeCount": "33.52万",
-      "commentCount": "2万"
-    },
-    {
       "rank": 646,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/4QesgADu8gM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=4QesgADu8gM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "TVアニメ「進撃の巨人」The Final Season完結編(前編)主題歌『UNDER THE TREE』アニメスペシャル映像｜SiM",
-        "url": "https://www.youtube.com/watch?v=4QesgADu8gM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ぽにきゃん-Anime PONY CANYON",
-        "url": "https://www.youtube.com/channel/UCb-ekPowbBlQhyt7ZXPiu5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-03-03",
-      "viewCount": "1575万",
-      "likeCount": "33.49万",
-      "commentCount": "1.2万"
-    },
-    {
-      "rank": 647,
       "thumb": {
         "img": "https://i.ytimg.com/vi/4Pls29qqg6Y/default.jpg",
         "url": "https://www.youtube.com/watch?v=4Pls29qqg6Y",
@@ -1030,9 +1008,31 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-31",
-      "viewCount": "3802万",
+      "viewCount": "3804万",
+      "likeCount": "33.5万",
+      "commentCount": "3679"
+    },
+    {
+      "rank": 647,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/4QesgADu8gM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=4QesgADu8gM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "TVアニメ「進撃の巨人」The Final Season完結編(前編)主題歌『UNDER THE TREE』アニメスペシャル映像｜SiM",
+        "url": "https://www.youtube.com/watch?v=4QesgADu8gM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ぽにきゃん-Anime PONY CANYON",
+        "url": "https://www.youtube.com/channel/UCb-ekPowbBlQhyt7ZXPiu5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-03-03",
+      "viewCount": "1576万",
       "likeCount": "33.49万",
-      "commentCount": "3677"
+      "commentCount": "1.2万"
     },
     {
       "rank": 648,
@@ -1052,9 +1052,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-01-24",
-      "viewCount": "9264万",
+      "viewCount": "9265万",
       "likeCount": "33.33万",
-      "commentCount": "1.8万"
+      "commentCount": "1.9万"
     },
     {
       "rank": 649,
@@ -1096,8 +1096,8 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-09",
-      "viewCount": "8797万",
-      "likeCount": "33.27万",
+      "viewCount": "8798万",
+      "likeCount": "33.28万",
       "commentCount": "4915"
     }
   ]

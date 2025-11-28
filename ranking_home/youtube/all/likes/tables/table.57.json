@@ -86,7 +86,7 @@
       "publishedAt": "2010-09-08",
       "viewCount": "1060万",
       "likeCount": "2.69万",
-      "commentCount": "2213"
+      "commentCount": "2214"
     },
     {
       "rank": 2805,
@@ -113,6 +113,28 @@
     {
       "rank": 2806,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/36ydeA9sSYM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=36ydeA9sSYM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "globe / Get Wild",
+        "url": "https://www.youtube.com/watch?v=36ydeA9sSYM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "globe",
+        "url": "https://www.youtube.com/channel/UCKcuHCV3VN8mJ3qQj7Xr42Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-09-01",
+      "viewCount": "1236万",
+      "likeCount": "2.64万",
+      "commentCount": "1416"
+    },
+    {
+      "rank": 2807,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/oYWaZcqVnbM/default.jpg",
         "url": "https://www.youtube.com/watch?v=oYWaZcqVnbM",
         "target": "_blank"
@@ -131,28 +153,6 @@
       "viewCount": "1079万",
       "likeCount": "2.64万",
       "commentCount": "1082"
-    },
-    {
-      "rank": 2807,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/36ydeA9sSYM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=36ydeA9sSYM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "globe / Get Wild",
-        "url": "https://www.youtube.com/watch?v=36ydeA9sSYM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "globe",
-        "url": "https://www.youtube.com/channel/UCKcuHCV3VN8mJ3qQj7Xr42Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-09-01",
-      "viewCount": "1236万",
-      "likeCount": "2.64万",
-      "commentCount": "1415"
     },
     {
       "rank": 2808,
@@ -194,9 +194,9 @@
         "target": "_blank"
       },
       "publishedAt": "2014-01-24",
-      "viewCount": "1088万",
+      "viewCount": "1089万",
       "likeCount": "2.64万",
-      "commentCount": "1825"
+      "commentCount": "1826"
     },
     {
       "rank": 2810,
@@ -306,7 +306,7 @@
       "publishedAt": "2010-04-07",
       "viewCount": "1307万",
       "likeCount": "2.6万",
-      "commentCount": "1329"
+      "commentCount": "1331"
     },
     {
       "rank": 2815,
@@ -328,7 +328,7 @@
       "publishedAt": "2009-04-17",
       "viewCount": "1337万",
       "likeCount": "2.59万",
-      "commentCount": "1251"
+      "commentCount": "1252"
     },
     {
       "rank": 2816,
@@ -348,8 +348,8 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-09",
-      "viewCount": "3693万",
-      "likeCount": "2.58万",
+      "viewCount": "3694万",
+      "likeCount": "2.59万",
       "commentCount": "-"
     },
     {
@@ -370,9 +370,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-03-24",
-      "viewCount": "1172万",
+      "viewCount": "1173万",
       "likeCount": "2.58万",
-      "commentCount": "1346"
+      "commentCount": "1347"
     },
     {
       "rank": 2818,
@@ -416,7 +416,7 @@
       "publishedAt": "2012-12-03",
       "viewCount": "1310万",
       "likeCount": "2.55万",
-      "commentCount": "1981"
+      "commentCount": "1982"
     },
     {
       "rank": 2820,
@@ -436,7 +436,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-02-01",
-      "viewCount": "1606万",
+      "viewCount": "1607万",
       "likeCount": "2.53万",
       "commentCount": "1817"
     },
@@ -509,28 +509,6 @@
     {
       "rank": 2824,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/A2JZozYJgt0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=A2JZozYJgt0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ケロポンズ / うそ？ほんと？ ～ケロポンタウンバージョン",
-        "url": "https://www.youtube.com/watch?v=A2JZozYJgt0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "コロムビアキッズ TV",
-        "url": "https://www.youtube.com/channel/UCY23ZWAoiQk_JrJfmV0l4fw",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-06-01",
-      "viewCount": "2441万",
-      "likeCount": "2.49万",
-      "commentCount": "-"
-    },
-    {
-      "rank": 2825,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/lRAc3Q_foH0/default.jpg",
         "url": "https://www.youtube.com/watch?v=lRAc3Q_foH0",
         "target": "_blank"
@@ -549,6 +527,28 @@
       "viewCount": "1255万",
       "likeCount": "2.49万",
       "commentCount": "1167"
+    },
+    {
+      "rank": 2824,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/A2JZozYJgt0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=A2JZozYJgt0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ケロポンズ / うそ？ほんと？ ～ケロポンタウンバージョン",
+        "url": "https://www.youtube.com/watch?v=A2JZozYJgt0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "コロムビアキッズ TV",
+        "url": "https://www.youtube.com/channel/UCY23ZWAoiQk_JrJfmV0l4fw",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-06-01",
+      "viewCount": "2441万",
+      "likeCount": "2.49万",
+      "commentCount": "-"
     },
     {
       "rank": 2826,
@@ -570,7 +570,7 @@
       "publishedAt": "2012-05-25",
       "viewCount": "1201万",
       "likeCount": "2.47万",
-      "commentCount": "1501"
+      "commentCount": "1502"
     },
     {
       "rank": 2827,
@@ -592,7 +592,7 @@
       "publishedAt": "2013-05-28",
       "viewCount": "1067万",
       "likeCount": "2.46万",
-      "commentCount": "1454"
+      "commentCount": "1455"
     },
     {
       "rank": 2828,
@@ -746,7 +746,7 @@
       "publishedAt": "2013-11-21",
       "viewCount": "1488万",
       "likeCount": "2.35万",
-      "commentCount": "1029"
+      "commentCount": "1028"
     },
     {
       "rank": 2835,
@@ -832,9 +832,9 @@
         "target": "_blank"
       },
       "publishedAt": "2008-06-03",
-      "viewCount": "1271万",
+      "viewCount": "1272万",
       "likeCount": "2.28万",
-      "commentCount": "1558"
+      "commentCount": "1560"
     },
     {
       "rank": 2839,
@@ -877,7 +877,7 @@
       },
       "publishedAt": "2012-03-07",
       "viewCount": "1263万",
-      "likeCount": "2.26万",
+      "likeCount": "2.27万",
       "commentCount": "823"
     },
     {
