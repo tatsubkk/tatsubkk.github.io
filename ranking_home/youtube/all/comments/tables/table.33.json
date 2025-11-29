@@ -1,7 +1,7 @@
 {
   "rows": [
     {
-      "rank": 1600,
+      "rank": 1601,
       "thumb": {
         "img": "https://i.ytimg.com/vi/m4vjI6InDJM/default.jpg",
         "url": "https://www.youtube.com/watch?v=m4vjI6InDJM",
@@ -91,28 +91,6 @@
     {
       "rank": 1605,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/BWmO6SCYhRc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=BWmO6SCYhRc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MY FIRST STORY - REVIVER -【Official Video】",
-        "url": "https://www.youtube.com/watch?v=BWmO6SCYhRc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "JMS BASE",
-        "url": "https://www.youtube.com/channel/UCj8RXhnU4RR9wnRUYQoyLqw",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-07-13",
-      "viewCount": "4600万",
-      "likeCount": "27.8万",
-      "commentCount": "5471"
-    },
-    {
-      "rank": 1606,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/evtoG-4dLM4/default.jpg",
         "url": "https://www.youtube.com/watch?v=evtoG-4dLM4",
         "target": "_blank"
@@ -128,9 +106,31 @@
         "target": "_blank"
       },
       "publishedAt": "2025-05-18",
-      "viewCount": "1540万",
+      "viewCount": "1543万",
       "likeCount": "21.7万",
-      "commentCount": "5469"
+      "commentCount": "5475"
+    },
+    {
+      "rank": 1606,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/BWmO6SCYhRc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=BWmO6SCYhRc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MY FIRST STORY - REVIVER -【Official Video】",
+        "url": "https://www.youtube.com/watch?v=BWmO6SCYhRc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "JMS BASE",
+        "url": "https://www.youtube.com/channel/UCj8RXhnU4RR9wnRUYQoyLqw",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-07-13",
+      "viewCount": "4602万",
+      "likeCount": "27.8万",
+      "commentCount": "5473"
     },
     {
       "rank": 1607,
@@ -150,7 +150,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-07",
-      "viewCount": "1779万",
+      "viewCount": "1780万",
       "likeCount": "16.4万",
       "commentCount": "5460"
     },
@@ -172,7 +172,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-11-19",
-      "viewCount": "2630万",
+      "viewCount": "2631万",
       "likeCount": "17.5万",
       "commentCount": "5452"
     },
@@ -196,10 +196,10 @@
       "publishedAt": "2022-12-03",
       "viewCount": "1355万",
       "likeCount": "11万",
-      "commentCount": "5448"
+      "commentCount": "5449"
     },
     {
-      "rank": 1610,
+      "rank": 1609,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ih6_xNsensA/default.jpg",
         "url": "https://www.youtube.com/watch?v=ih6_xNsensA",
@@ -216,9 +216,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-19",
-      "viewCount": "5265万",
+      "viewCount": "5268万",
       "likeCount": "15.9万",
-      "commentCount": "5444"
+      "commentCount": "5449"
     },
     {
       "rank": 1611,
@@ -240,7 +240,7 @@
       "publishedAt": "2016-09-17",
       "viewCount": "2736万",
       "likeCount": "6.1万",
-      "commentCount": "5438"
+      "commentCount": "5440"
     },
     {
       "rank": 1612,
@@ -260,9 +260,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-29",
-      "viewCount": "3241万",
+      "viewCount": "3242万",
       "likeCount": "30.5万",
-      "commentCount": "5437"
+      "commentCount": "5438"
     },
     {
       "rank": 1613,
@@ -282,9 +282,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-29",
-      "viewCount": "1967万",
+      "viewCount": "1968万",
       "likeCount": "24.9万",
-      "commentCount": "5432"
+      "commentCount": "5431"
     },
     {
       "rank": 1614,
@@ -304,7 +304,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-31",
-      "viewCount": "3731万",
+      "viewCount": "3732万",
       "likeCount": "24.5万",
       "commentCount": "5428"
     },
@@ -326,9 +326,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-24",
-      "viewCount": "2420万",
+      "viewCount": "2421万",
       "likeCount": "21.7万",
-      "commentCount": "5427"
+      "commentCount": "5426"
     },
     {
       "rank": 1616,
@@ -348,7 +348,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-02",
-      "viewCount": "1576万",
+      "viewCount": "1577万",
       "likeCount": "8.6万",
       "commentCount": "5423"
     },
@@ -370,9 +370,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-31",
-      "viewCount": "1406万",
+      "viewCount": "1407万",
       "likeCount": "-",
-      "commentCount": "5419"
+      "commentCount": "5420"
     },
     {
       "rank": 1618,
@@ -392,9 +392,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-02",
-      "viewCount": "3468万",
+      "viewCount": "3469万",
       "likeCount": "25.1万",
-      "commentCount": "5402"
+      "commentCount": "5404"
     },
     {
       "rank": 1619,
@@ -414,7 +414,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-09-23",
-      "viewCount": "1066万",
+      "viewCount": "1067万",
       "likeCount": "6.8万",
       "commentCount": "5393"
     },
@@ -436,9 +436,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-19",
-      "viewCount": "1513万",
+      "viewCount": "1514万",
       "likeCount": "17.9万",
-      "commentCount": "5387"
+      "commentCount": "5386"
     },
     {
       "rank": 1621,
@@ -465,6 +465,28 @@
     {
       "rank": 1622,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/j5O3kKfICXc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=j5O3kKfICXc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "玉置浩二 『田園』（HD）",
+        "url": "https://www.youtube.com/watch?v=j5O3kKfICXc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "玉置浩二 Koji Tamaki Official",
+        "url": "https://www.youtube.com/channel/UC5cN28RtvGgmDQj46HcV3Tw",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-03-19",
+      "viewCount": "2864万",
+      "likeCount": "13.5万",
+      "commentCount": "5371"
+    },
+    {
+      "rank": 1623,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/4EYSLjmVu4U/default.jpg",
         "url": "https://www.youtube.com/watch?v=4EYSLjmVu4U",
         "target": "_blank"
@@ -485,7 +507,7 @@
       "commentCount": "5367"
     },
     {
-      "rank": 1623,
+      "rank": 1624,
       "thumb": {
         "img": "https://i.ytimg.com/vi/1KVdWZyM6EU/default.jpg",
         "url": "https://www.youtube.com/watch?v=1KVdWZyM6EU",
@@ -502,12 +524,12 @@
         "target": "_blank"
       },
       "publishedAt": "2016-10-07",
-      "viewCount": "3146万",
-      "likeCount": "17.3万",
+      "viewCount": "3147万",
+      "likeCount": "17.4万",
       "commentCount": "5362"
     },
     {
-      "rank": 1624,
+      "rank": 1625,
       "thumb": {
         "img": "https://i.ytimg.com/vi/bjwv4m-Aji4/default.jpg",
         "url": "https://www.youtube.com/watch?v=bjwv4m-Aji4",
@@ -524,31 +546,9 @@
         "target": "_blank"
       },
       "publishedAt": "2011-09-28",
-      "viewCount": "2198万",
+      "viewCount": "2199万",
       "likeCount": "11.2万",
       "commentCount": "5361"
-    },
-    {
-      "rank": 1625,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/j5O3kKfICXc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=j5O3kKfICXc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "玉置浩二 『田園』（HD）",
-        "url": "https://www.youtube.com/watch?v=j5O3kKfICXc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "玉置浩二 Koji Tamaki Official",
-        "url": "https://www.youtube.com/channel/UC5cN28RtvGgmDQj46HcV3Tw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-03-19",
-      "viewCount": "2862万",
-      "likeCount": "13.5万",
-      "commentCount": "5360"
     },
     {
       "rank": 1626,
@@ -636,7 +636,7 @@
       "publishedAt": "2011-02-18",
       "viewCount": "2464万",
       "likeCount": "8.1万",
-      "commentCount": "5339"
+      "commentCount": "5340"
     },
     {
       "rank": 1630,
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-04",
-      "viewCount": "1738万",
+      "viewCount": "1739万",
       "likeCount": "20万",
       "commentCount": "5336"
     },
@@ -678,9 +678,31 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-21",
-      "viewCount": "1660万",
+      "viewCount": "1661万",
       "likeCount": "21.5万",
       "commentCount": "5335"
+    },
+    {
+      "rank": 1632,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/5YKBgBMynbI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=5YKBgBMynbI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "宇多田ヒカル『君に夢中』",
+        "url": "https://www.youtube.com/watch?v=5YKBgBMynbI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Hikaru Utada",
+        "url": "https://www.youtube.com/channel/UChcgcbX3zMBwd0wTJyy2JlA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-12-08",
+      "viewCount": "4907万",
+      "likeCount": "24.4万",
+      "commentCount": "5314"
     },
     {
       "rank": 1632,
@@ -700,31 +722,9 @@
         "target": "_blank"
       },
       "publishedAt": "2018-08-23",
-      "viewCount": "1272万",
+      "viewCount": "1273万",
       "likeCount": "8万",
       "commentCount": "5314"
-    },
-    {
-      "rank": 1633,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/5YKBgBMynbI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=5YKBgBMynbI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "宇多田ヒカル『君に夢中』",
-        "url": "https://www.youtube.com/watch?v=5YKBgBMynbI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Hikaru Utada",
-        "url": "https://www.youtube.com/channel/UChcgcbX3zMBwd0wTJyy2JlA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-12-08",
-      "viewCount": "4905万",
-      "likeCount": "24.4万",
-      "commentCount": "5312"
     },
     {
       "rank": 1634,
@@ -746,7 +746,7 @@
       "publishedAt": "2021-12-24",
       "viewCount": "1665万",
       "likeCount": "30.5万",
-      "commentCount": "5311"
+      "commentCount": "5313"
     },
     {
       "rank": 1635,
@@ -771,7 +771,7 @@
       "commentCount": "5302"
     },
     {
-      "rank": 1636,
+      "rank": 1635,
       "thumb": {
         "img": "https://i.ytimg.com/vi/9mU607YOmu8/default.jpg",
         "url": "https://www.youtube.com/watch?v=9mU607YOmu8",
@@ -788,9 +788,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-19",
-      "viewCount": "1996万",
+      "viewCount": "1997万",
       "likeCount": "27.1万",
-      "commentCount": "5299"
+      "commentCount": "5302"
     },
     {
       "rank": 1637,
@@ -834,7 +834,7 @@
       "publishedAt": "2020-11-12",
       "viewCount": "1680万",
       "likeCount": "18万",
-      "commentCount": "5295"
+      "commentCount": "5296"
     },
     {
       "rank": 1638,
@@ -856,7 +856,7 @@
       "publishedAt": "2011-12-21",
       "viewCount": "1823万",
       "likeCount": "7.3万",
-      "commentCount": "5295"
+      "commentCount": "5296"
     },
     {
       "rank": 1640,
@@ -876,12 +876,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-27",
-      "viewCount": "3728万",
+      "viewCount": "3729万",
       "likeCount": "28.6万",
-      "commentCount": "5294"
+      "commentCount": "5295"
     },
     {
-      "rank": 1640,
+      "rank": 1641,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ZvFs03X944E/default.jpg",
         "url": "https://www.youtube.com/watch?v=ZvFs03X944E",
@@ -920,12 +920,12 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-13",
-      "viewCount": "3460万",
+      "viewCount": "3461万",
       "likeCount": "20万",
       "commentCount": "5292"
     },
     {
-      "rank": 1643,
+      "rank": 1642,
       "thumb": {
         "img": "https://i.ytimg.com/vi/AeMRXJtg500/default.jpg",
         "url": "https://www.youtube.com/watch?v=AeMRXJtg500",
@@ -944,7 +944,7 @@
       "publishedAt": "2008-12-08",
       "viewCount": "3623万",
       "likeCount": "12.1万",
-      "commentCount": "5291"
+      "commentCount": "5292"
     },
     {
       "rank": 1644,
@@ -964,9 +964,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-17",
-      "viewCount": "2364万",
+      "viewCount": "2365万",
       "likeCount": "18.7万",
-      "commentCount": "5285"
+      "commentCount": "5286"
     },
     {
       "rank": 1645,
@@ -986,9 +986,9 @@
         "target": "_blank"
       },
       "publishedAt": "2009-07-01",
-      "viewCount": "3108万",
-      "likeCount": "12.9万",
-      "commentCount": "5282"
+      "viewCount": "3109万",
+      "likeCount": "13万",
+      "commentCount": "5283"
     },
     {
       "rank": 1646,
@@ -1015,6 +1015,28 @@
     {
       "rank": 1647,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/siNFnlqtd8M/default.jpg",
+        "url": "https://www.youtube.com/watch?v=siNFnlqtd8M",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ヨルシカ - 又三郎（OFFICIAL VIDEO）",
+        "url": "https://www.youtube.com/watch?v=siNFnlqtd8M",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ヨルシカ / n-buna Official",
+        "url": "https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-06-07",
+      "viewCount": "1769万",
+      "likeCount": "17.1万",
+      "commentCount": "5276"
+    },
+    {
+      "rank": 1648,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/E6A7l1l6kKE/default.jpg",
         "url": "https://www.youtube.com/watch?v=E6A7l1l6kKE",
         "target": "_blank"
@@ -1035,28 +1057,6 @@
       "commentCount": "5275"
     },
     {
-      "rank": 1647,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/siNFnlqtd8M/default.jpg",
-        "url": "https://www.youtube.com/watch?v=siNFnlqtd8M",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ヨルシカ - 又三郎（OFFICIAL VIDEO）",
-        "url": "https://www.youtube.com/watch?v=siNFnlqtd8M",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ヨルシカ / n-buna Official",
-        "url": "https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-06-07",
-      "viewCount": "1769万",
-      "likeCount": "17.1万",
-      "commentCount": "5275"
-    },
-    {
       "rank": 1649,
       "thumb": {
         "img": "https://i.ytimg.com/vi/L-u3fkgZkO0/default.jpg",
@@ -1074,9 +1074,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-02-03",
-      "viewCount": "2118万",
+      "viewCount": "2119万",
       "likeCount": "19.8万",
-      "commentCount": "5264"
+      "commentCount": "5266"
     },
     {
       "rank": 1650,
@@ -1096,9 +1096,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-09",
-      "viewCount": "5982万",
+      "viewCount": "5985万",
       "likeCount": "32.2万",
-      "commentCount": "5258"
+      "commentCount": "5259"
     }
   ]
 }

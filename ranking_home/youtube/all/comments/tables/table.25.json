@@ -20,7 +20,7 @@
       "publishedAt": "2020-02-05",
       "viewCount": "1407万",
       "likeCount": "23.4万",
-      "commentCount": "8120"
+      "commentCount": "8121"
     },
     {
       "rank": 1202,
@@ -42,7 +42,7 @@
       "publishedAt": "2021-05-24",
       "viewCount": "1985万",
       "likeCount": "-",
-      "commentCount": "8119"
+      "commentCount": "8120"
     },
     {
       "rank": 1203,
@@ -84,12 +84,34 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-25",
-      "viewCount": "1192万",
+      "viewCount": "1193万",
       "likeCount": "16.8万",
-      "commentCount": "8089"
+      "commentCount": "8090"
     },
     {
       "rank": 1205,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/gPcPseeICjs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=gPcPseeICjs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "GLAY / HOWEVER",
+        "url": "https://www.youtube.com/watch?v=gPcPseeICjs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "GLAY",
+        "url": "https://www.youtube.com/channel/UC1DqlLj1onQhBfxW81OgQTw",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-04-05",
+      "viewCount": "7794万",
+      "likeCount": "16万",
+      "commentCount": "8080"
+    },
+    {
+      "rank": 1206,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3VdqvSKFzE8/default.jpg",
         "url": "https://www.youtube.com/watch?v=3VdqvSKFzE8",
@@ -111,28 +133,6 @@
       "commentCount": "8078"
     },
     {
-      "rank": 1205,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/gPcPseeICjs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=gPcPseeICjs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "GLAY / HOWEVER",
-        "url": "https://www.youtube.com/watch?v=gPcPseeICjs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "GLAY",
-        "url": "https://www.youtube.com/channel/UC1DqlLj1onQhBfxW81OgQTw",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-04-05",
-      "viewCount": "7791万",
-      "likeCount": "16万",
-      "commentCount": "8078"
-    },
-    {
       "rank": 1207,
       "thumb": {
         "img": "https://i.ytimg.com/vi/CLfQoaHgnVs/default.jpg",
@@ -150,7 +150,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-15",
-      "viewCount": "2021万",
+      "viewCount": "2022万",
       "likeCount": "-",
       "commentCount": "8076"
     },
@@ -172,34 +172,12 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-12",
-      "viewCount": "2030万",
+      "viewCount": "2031万",
       "likeCount": "26.3万",
       "commentCount": "8075"
     },
     {
       "rank": 1209,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/hM4f37uRyKc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=hM4f37uRyKc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "703号室 -『偽物勇者』(Music Video)",
-        "url": "https://www.youtube.com/watch?v=hM4f37uRyKc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "703号室",
-        "url": "https://www.youtube.com/channel/UCVjI6i-uvSD47iIgBQLmbbg",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-03-28",
-      "viewCount": "3397万",
-      "likeCount": "35.2万",
-      "commentCount": "8063"
-    },
-    {
-      "rank": 1210,
       "thumb": {
         "img": "https://i.ytimg.com/vi/aHIR33pOUv0/default.jpg",
         "url": "https://www.youtube.com/watch?v=aHIR33pOUv0",
@@ -216,9 +194,31 @@
         "target": "_blank"
       },
       "publishedAt": "2008-12-16",
-      "viewCount": "9376万",
+      "viewCount": "9378万",
       "likeCount": "21.2万",
-      "commentCount": "8062"
+      "commentCount": "8068"
+    },
+    {
+      "rank": 1210,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/hM4f37uRyKc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=hM4f37uRyKc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "703号室 -『偽物勇者』(Music Video)",
+        "url": "https://www.youtube.com/watch?v=hM4f37uRyKc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "703号室",
+        "url": "https://www.youtube.com/channel/UCVjI6i-uvSD47iIgBQLmbbg",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-03-28",
+      "viewCount": "3398万",
+      "likeCount": "35.2万",
+      "commentCount": "8063"
     },
     {
       "rank": 1211,
@@ -282,9 +282,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-30",
-      "viewCount": "1392万",
-      "likeCount": "7.8万",
-      "commentCount": "8030"
+      "viewCount": "1393万",
+      "likeCount": "7.9万",
+      "commentCount": "8033"
     },
     {
       "rank": 1214,
@@ -304,9 +304,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-29",
-      "viewCount": "6987万",
+      "viewCount": "6989万",
       "likeCount": "35.5万",
-      "commentCount": "8022"
+      "commentCount": "8024"
     },
     {
       "rank": 1215,
@@ -348,9 +348,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-07-22",
-      "viewCount": "8981万",
+      "viewCount": "8984万",
       "likeCount": "22.9万",
-      "commentCount": "7983"
+      "commentCount": "7986"
     },
     {
       "rank": 1217,
@@ -399,6 +399,28 @@
     {
       "rank": 1219,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/lz8frtP6_kk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=lz8frtP6_kk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "いきものがかり 『YELL』Music Video",
+        "url": "https://www.youtube.com/watch?v=lz8frtP6_kk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "いきものがかり",
+        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-03-26",
+      "viewCount": "4606万",
+      "likeCount": "22.7万",
+      "commentCount": "7938"
+    },
+    {
+      "rank": 1220,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/jb6AHqi0MbE/default.jpg",
         "url": "https://www.youtube.com/watch?v=jb6AHqi0MbE",
         "target": "_blank"
@@ -419,7 +441,7 @@
       "commentCount": "7936"
     },
     {
-      "rank": 1220,
+      "rank": 1221,
       "thumb": {
         "img": "https://i.ytimg.com/vi/HEkerSi5Fig/default.jpg",
         "url": "https://www.youtube.com/watch?v=HEkerSi5Fig",
@@ -436,31 +458,31 @@
         "target": "_blank"
       },
       "publishedAt": "2012-04-25",
-      "viewCount": "2557万",
+      "viewCount": "2558万",
       "likeCount": "23.9万",
       "commentCount": "7934"
     },
     {
-      "rank": 1221,
+      "rank": 1222,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/lz8frtP6_kk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=lz8frtP6_kk",
+        "img": "https://i.ytimg.com/vi/Igr6jQJEoNs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Igr6jQJEoNs",
         "target": "_blank"
       },
       "title": {
-        "text": "いきものがかり 『YELL』Music Video",
-        "url": "https://www.youtube.com/watch?v=lz8frtP6_kk",
+        "text": "【LIVE映像】唱  日本武道館 2023.8.30【Ado】",
+        "url": "https://www.youtube.com/watch?v=Igr6jQJEoNs",
         "target": "_blank"
       },
       "channel": {
-        "text": "いきものがかり",
-        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
+        "text": "Ado",
+        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
         "target": "_blank"
       },
-      "publishedAt": "2020-03-26",
-      "viewCount": "4604万",
-      "likeCount": "22.7万",
-      "commentCount": "7931"
+      "publishedAt": "2023-10-23",
+      "viewCount": "3542万",
+      "likeCount": "32.5万",
+      "commentCount": "7912"
     },
     {
       "rank": 1222,
@@ -481,30 +503,8 @@
       },
       "publishedAt": "2019-02-04",
       "viewCount": "2034万",
-      "likeCount": "20.9万",
+      "likeCount": "21万",
       "commentCount": "7912"
-    },
-    {
-      "rank": 1223,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Igr6jQJEoNs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Igr6jQJEoNs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【LIVE映像】唱  日本武道館 2023.8.30【Ado】",
-        "url": "https://www.youtube.com/watch?v=Igr6jQJEoNs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ado",
-        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-10-23",
-      "viewCount": "3540万",
-      "likeCount": "32.5万",
-      "commentCount": "7911"
     },
     {
       "rank": 1224,
@@ -524,7 +524,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-16",
-      "viewCount": "1298万",
+      "viewCount": "1299万",
       "likeCount": "16.9万",
       "commentCount": "7909"
     },
@@ -548,7 +548,7 @@
       "publishedAt": "2017-01-25",
       "viewCount": "1852万",
       "likeCount": "20.2万",
-      "commentCount": "7906"
+      "commentCount": "7907"
     },
     {
       "rank": 1226,
@@ -568,7 +568,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-26",
-      "viewCount": "1608万",
+      "viewCount": "1609万",
       "likeCount": "-",
       "commentCount": "7894"
     },
@@ -612,7 +612,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-08-13",
-      "viewCount": "4958万",
+      "viewCount": "4959万",
       "likeCount": "34.1万",
       "commentCount": "7871"
     },
@@ -634,7 +634,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-04-18",
-      "viewCount": "5797万",
+      "viewCount": "5798万",
       "likeCount": "51.8万",
       "commentCount": "7869"
     },
@@ -678,9 +678,9 @@
         "target": "_blank"
       },
       "publishedAt": "2025-04-18",
-      "viewCount": "2455万",
+      "viewCount": "2458万",
       "likeCount": "21.6万",
-      "commentCount": "7860"
+      "commentCount": "7863"
     },
     {
       "rank": 1232,
@@ -700,9 +700,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-10-29",
-      "viewCount": "4839万",
+      "viewCount": "4841万",
       "likeCount": "25.9万",
-      "commentCount": "7844"
+      "commentCount": "7848"
     },
     {
       "rank": 1233,
@@ -729,28 +729,6 @@
     {
       "rank": 1233,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/UC_qla6FQwM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=UC_qla6FQwM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[MV] REOL - ヒビカセ / Hibikase",
-        "url": "https://www.youtube.com/watch?v=UC_qla6FQwM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Reol Official",
-        "url": "https://www.youtube.com/channel/UCB6pJFaFByws3dQj4AdLdyA",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-09-23",
-      "viewCount": "4654万",
-      "likeCount": "38.7万",
-      "commentCount": "7810"
-    },
-    {
-      "rank": 1233,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/RIOgKnpX8fo/default.jpg",
         "url": "https://www.youtube.com/watch?v=RIOgKnpX8fo",
         "target": "_blank"
@@ -769,6 +747,28 @@
       "viewCount": "1913万",
       "likeCount": "-",
       "commentCount": "7810"
+    },
+    {
+      "rank": 1235,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/UC_qla6FQwM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=UC_qla6FQwM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[MV] REOL - ヒビカセ / Hibikase",
+        "url": "https://www.youtube.com/watch?v=UC_qla6FQwM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Reol Official",
+        "url": "https://www.youtube.com/channel/UCB6pJFaFByws3dQj4AdLdyA",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-09-23",
+      "viewCount": "4655万",
+      "likeCount": "38.7万",
+      "commentCount": "7805"
     },
     {
       "rank": 1236,
@@ -812,7 +812,7 @@
       "publishedAt": "2020-04-06",
       "viewCount": "3416万",
       "likeCount": "33.3万",
-      "commentCount": "7786"
+      "commentCount": "7785"
     },
     {
       "rank": 1238,
@@ -854,9 +854,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-28",
-      "viewCount": "3333万",
+      "viewCount": "3335万",
       "likeCount": "-",
-      "commentCount": "7762"
+      "commentCount": "7763"
     },
     {
       "rank": 1240,
@@ -876,9 +876,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-30",
-      "viewCount": "4281万",
+      "viewCount": "4282万",
       "likeCount": "22万",
-      "commentCount": "7761"
+      "commentCount": "7762"
     },
     {
       "rank": 1241,
@@ -898,9 +898,31 @@
         "target": "_blank"
       },
       "publishedAt": "2025-01-24",
-      "viewCount": "2137万",
+      "viewCount": "2139万",
       "likeCount": "31.4万",
       "commentCount": "7745"
+    },
+    {
+      "rank": 1242,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/kxs9Su_mbpU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=kxs9Su_mbpU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Aimer 『カタオモイ』MUSIC VIDEO（FULL ver.）",
+        "url": "https://www.youtube.com/watch?v=kxs9Su_mbpU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Aimer Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCR1zT1s524Hbc85bdvno_8w",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-04-09",
+      "viewCount": "7986万",
+      "likeCount": "50.3万",
+      "commentCount": "7742"
     },
     {
       "rank": 1242,
@@ -920,31 +942,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-01-26",
-      "viewCount": "3065万",
+      "viewCount": "3066万",
       "likeCount": "-",
-      "commentCount": "7741"
-    },
-    {
-      "rank": 1243,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/kxs9Su_mbpU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=kxs9Su_mbpU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Aimer 『カタオモイ』MUSIC VIDEO（FULL ver.）",
-        "url": "https://www.youtube.com/watch?v=kxs9Su_mbpU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Aimer Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCR1zT1s524Hbc85bdvno_8w",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-04-09",
-      "viewCount": "7984万",
-      "likeCount": "50.3万",
-      "commentCount": "7740"
+      "commentCount": "7742"
     },
     {
       "rank": 1244,
@@ -966,10 +966,10 @@
       "publishedAt": "2022-09-05",
       "viewCount": "1210万",
       "likeCount": "-",
-      "commentCount": "7730"
+      "commentCount": "7732"
     },
     {
-      "rank": 1244,
+      "rank": 1245,
       "thumb": {
         "img": "https://i.ytimg.com/vi/t6xdg6TKbyQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=t6xdg6TKbyQ",
@@ -986,8 +986,8 @@
         "target": "_blank"
       },
       "publishedAt": "2015-06-30",
-      "viewCount": "3924万",
-      "likeCount": "16.7万",
+      "viewCount": "3926万",
+      "likeCount": "16.8万",
       "commentCount": "7730"
     },
     {
@@ -1008,9 +1008,9 @@
         "target": "_blank"
       },
       "publishedAt": "2009-07-02",
-      "viewCount": "5963万",
+      "viewCount": "5964万",
       "likeCount": "20万",
-      "commentCount": "7726"
+      "commentCount": "7728"
     },
     {
       "rank": 1247,
@@ -1032,7 +1032,7 @@
       "publishedAt": "2022-10-27",
       "viewCount": "1355万",
       "likeCount": "-",
-      "commentCount": "7718"
+      "commentCount": "7719"
     },
     {
       "rank": 1248,
@@ -1054,10 +1054,32 @@
       "publishedAt": "2015-08-21",
       "viewCount": "4612万",
       "likeCount": "14.3万",
-      "commentCount": "7716"
+      "commentCount": "7715"
     },
     {
       "rank": 1249,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/QQPVQFyL0_Y/default.jpg",
+        "url": "https://www.youtube.com/watch?v=QQPVQFyL0_Y",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "心做し REC映像【まじ娘】",
+        "url": "https://www.youtube.com/watch?v=QQPVQFyL0_Y",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "majiko / まじ娘 OFFICIAL CHANNEL",
+        "url": "https://www.youtube.com/channel/UCT4_Eu49Yy0ydqP57DUl3nQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-03-17",
+      "viewCount": "1574万",
+      "likeCount": "27.6万",
+      "commentCount": "7712"
+    },
+    {
+      "rank": 1250,
       "thumb": {
         "img": "https://i.ytimg.com/vi/8KXbNShp8rs/default.jpg",
         "url": "https://www.youtube.com/watch?v=8KXbNShp8rs",
@@ -1077,28 +1099,6 @@
       "viewCount": "2008万",
       "likeCount": "-",
       "commentCount": "7711"
-    },
-    {
-      "rank": 1250,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/QQPVQFyL0_Y/default.jpg",
-        "url": "https://www.youtube.com/watch?v=QQPVQFyL0_Y",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "心做し REC映像【まじ娘】",
-        "url": "https://www.youtube.com/watch?v=QQPVQFyL0_Y",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "majiko / まじ娘 OFFICIAL CHANNEL",
-        "url": "https://www.youtube.com/channel/UCT4_Eu49Yy0ydqP57DUl3nQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-03-17",
-      "viewCount": "1574万",
-      "likeCount": "27.6万",
-      "commentCount": "7710"
     }
   ]
 }

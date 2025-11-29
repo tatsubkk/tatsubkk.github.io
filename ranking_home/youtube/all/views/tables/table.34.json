@@ -20,8 +20,8 @@
       "publishedAt": "2013-06-18",
       "viewCount": "2075万",
       "likeCount": "8.1万",
-      "commentCount": "2103",
-      "increment_d1": "1656"
+      "commentCount": "2104",
+      "increment_d1": "1664"
     },
     {
       "rank": 1652,
@@ -43,8 +43,8 @@
       "publishedAt": "2020-06-13",
       "viewCount": "2075万",
       "likeCount": "53.6万",
-      "commentCount": "5033",
-      "increment_d1": "2127"
+      "commentCount": "5032",
+      "increment_d1": "1785"
     },
     {
       "rank": 1653,
@@ -67,7 +67,7 @@
       "viewCount": "2074万",
       "likeCount": "29.7万",
       "commentCount": "3873",
-      "increment_d1": "4305"
+      "increment_d1": "4077"
     },
     {
       "rank": 1654,
@@ -89,8 +89,8 @@
       "publishedAt": "2020-04-07",
       "viewCount": "2071万",
       "likeCount": "19.1万",
-      "commentCount": "4816",
-      "increment_d1": "5327"
+      "commentCount": "4817",
+      "increment_d1": "5422"
     },
     {
       "rank": 1655,
@@ -110,10 +110,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-28",
-      "viewCount": "2069万",
+      "viewCount": "2070万",
       "likeCount": "15万",
       "commentCount": "2.5万",
-      "increment_d1": "1.01万"
+      "increment_d1": "1.08万"
     },
     {
       "rank": 1656,
@@ -136,7 +136,7 @@
       "viewCount": "2068万",
       "likeCount": "15万",
       "commentCount": "2.4万",
-      "increment_d1": "1844"
+      "increment_d1": "1872"
     },
     {
       "rank": 1657,
@@ -159,7 +159,7 @@
       "viewCount": "2067万",
       "likeCount": "-",
       "commentCount": "1.9万",
-      "increment_d1": "2590"
+      "increment_d1": "2403"
     },
     {
       "rank": 1658,
@@ -182,7 +182,7 @@
       "viewCount": "2063万",
       "likeCount": "-",
       "commentCount": "2.5万",
-      "increment_d1": "4199"
+      "increment_d1": "4272"
     },
     {
       "rank": 1659,
@@ -205,7 +205,7 @@
       "viewCount": "2059万",
       "likeCount": "3万",
       "commentCount": "3858",
-      "increment_d1": "352"
+      "increment_d1": "382"
     },
     {
       "rank": 1660,
@@ -225,10 +225,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-29",
-      "viewCount": "2056万",
+      "viewCount": "2057万",
       "likeCount": "24.9万",
       "commentCount": "2996",
-      "increment_d1": "9210"
+      "increment_d1": "8483"
     },
     {
       "rank": 1661,
@@ -251,7 +251,7 @@
       "viewCount": "2055万",
       "likeCount": "17.1万",
       "commentCount": "6292",
-      "increment_d1": "3317"
+      "increment_d1": "3391"
     },
     {
       "rank": 1662,
@@ -274,33 +274,10 @@
       "viewCount": "2053万",
       "likeCount": "5.2万",
       "commentCount": "2268",
-      "increment_d1": "1578"
+      "increment_d1": "1544"
     },
     {
       "rank": 1663,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/EZBeo_k1k-A/default.jpg",
-        "url": "https://www.youtube.com/watch?v=EZBeo_k1k-A",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "日向坂46 『こんなに好きになっちゃっていいの？』",
-        "url": "https://www.youtube.com/watch?v=EZBeo_k1k-A",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "日向坂46 OFFICIAL YouTube CHANNEL",
-        "url": "https://www.youtube.com/channel/UCR0V48DJyWbwEAdxLL5FjxA",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-09-04",
-      "viewCount": "2052万",
-      "likeCount": "10.2万",
-      "commentCount": "1.3万",
-      "increment_d1": "1389"
-    },
-    {
-      "rank": 1664,
       "thumb": {
         "img": "https://i.ytimg.com/vi/scqDV8X5-Xk/default.jpg",
         "url": "https://www.youtube.com/watch?v=scqDV8X5-Xk",
@@ -320,7 +297,30 @@
       "viewCount": "2052万",
       "likeCount": "6.4万",
       "commentCount": "1179",
-      "increment_d1": "6035"
+      "increment_d1": "6005"
+    },
+    {
+      "rank": 1664,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/EZBeo_k1k-A/default.jpg",
+        "url": "https://www.youtube.com/watch?v=EZBeo_k1k-A",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "日向坂46 『こんなに好きになっちゃっていいの？』",
+        "url": "https://www.youtube.com/watch?v=EZBeo_k1k-A",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "日向坂46 OFFICIAL YouTube CHANNEL",
+        "url": "https://www.youtube.com/channel/UCR0V48DJyWbwEAdxLL5FjxA",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-09-04",
+      "viewCount": "2052万",
+      "likeCount": "10.2万",
+      "commentCount": "1.3万",
+      "increment_d1": "1279"
     },
     {
       "rank": 1665,
@@ -343,7 +343,7 @@
       "viewCount": "2048万",
       "likeCount": "6.5万",
       "commentCount": "1470",
-      "increment_d1": "1293"
+      "increment_d1": "1397"
     },
     {
       "rank": 1666,
@@ -366,7 +366,7 @@
       "viewCount": "2048万",
       "likeCount": "17.4万",
       "commentCount": "4119",
-      "increment_d1": "1926"
+      "increment_d1": "2140"
     },
     {
       "rank": 1667,
@@ -389,10 +389,33 @@
       "viewCount": "2048万",
       "likeCount": "6.3万",
       "commentCount": "1706",
-      "increment_d1": "493"
+      "increment_d1": "556"
     },
     {
       "rank": 1668,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/RhN3PZCgjiY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=RhN3PZCgjiY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Vaundy LIVE \"怪獣の花唄\" | 2023.03.26 Vaundy one man live tour \"replica\" (JAPAN/TOKYO)",
+        "url": "https://www.youtube.com/watch?v=RhN3PZCgjiY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Vaundy",
+        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-05-16",
+      "viewCount": "2047万",
+      "likeCount": "7.1万",
+      "commentCount": "1085",
+      "increment_d1": "1.78万"
+    },
+    {
+      "rank": 1669,
       "thumb": {
         "img": "https://i.ytimg.com/vi/tWsPC2-nkAY/default.jpg",
         "url": "https://www.youtube.com/watch?v=tWsPC2-nkAY",
@@ -412,33 +435,33 @@
       "viewCount": "2046万",
       "likeCount": "4.8万",
       "commentCount": "2438",
-      "increment_d1": "803"
-    },
-    {
-      "rank": 1669,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/RhN3PZCgjiY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=RhN3PZCgjiY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Vaundy LIVE \"怪獣の花唄\" | 2023.03.26 Vaundy one man live tour \"replica\" (JAPAN/TOKYO)",
-        "url": "https://www.youtube.com/watch?v=RhN3PZCgjiY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Vaundy",
-        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-05-16",
-      "viewCount": "2045万",
-      "likeCount": "7.1万",
-      "commentCount": "1082",
-      "increment_d1": "1.68万"
+      "increment_d1": "624"
     },
     {
       "rank": 1670,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/TYhWV4H83sU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=TYhWV4H83sU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "KinKi Kids「硝子の少年」Music Video",
+        "url": "https://www.youtube.com/watch?v=TYhWV4H83sU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "KinKi Kids",
+        "url": "https://www.youtube.com/channel/UCexu4C8IfBuC5CH7R4PLHFQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-07-25",
+      "viewCount": "2044万",
+      "likeCount": "-",
+      "commentCount": "5221",
+      "increment_d1": "1.13万"
+    },
+    {
+      "rank": 1671,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3VdqvSKFzE8/default.jpg",
         "url": "https://www.youtube.com/watch?v=3VdqvSKFzE8",
@@ -458,10 +481,10 @@
       "viewCount": "2043万",
       "likeCount": "15.1万",
       "commentCount": "8078",
-      "increment_d1": "1663"
+      "increment_d1": "1761"
     },
     {
-      "rank": 1671,
+      "rank": 1672,
       "thumb": {
         "img": "https://i.ytimg.com/vi/hf4kyTBbbH4/default.jpg",
         "url": "https://www.youtube.com/watch?v=hf4kyTBbbH4",
@@ -481,79 +504,33 @@
       "viewCount": "2043万",
       "likeCount": "5.1万",
       "commentCount": "2183",
-      "increment_d1": "327"
-    },
-    {
-      "rank": 1672,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/TYhWV4H83sU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=TYhWV4H83sU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "KinKi Kids「硝子の少年」Music Video",
-        "url": "https://www.youtube.com/watch?v=TYhWV4H83sU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "KinKi Kids",
-        "url": "https://www.youtube.com/channel/UCexu4C8IfBuC5CH7R4PLHFQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-07-25",
-      "viewCount": "2042万",
-      "likeCount": "-",
-      "commentCount": "5218",
-      "increment_d1": "1.09万"
+      "increment_d1": "352"
     },
     {
       "rank": 1673,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/diWmmAA10Eg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=diWmmAA10Eg",
+        "img": "https://i.ytimg.com/vi/iAOTwdlEdVg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=iAOTwdlEdVg",
         "target": "_blank"
       },
       "title": {
-        "text": "家入レオ -  君がくれた夏 （月9ドラマ『恋仲』主題歌）",
-        "url": "https://www.youtube.com/watch?v=diWmmAA10Eg",
+        "text": "あの夢をなぞって",
+        "url": "https://www.youtube.com/watch?v=iAOTwdlEdVg",
         "target": "_blank"
       },
       "channel": {
-        "text": "家入レオ",
-        "url": "https://www.youtube.com/channel/UCwvWJX42p4C7IfpedYlvvGQ",
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
         "target": "_blank"
       },
-      "publishedAt": "2015-07-15",
-      "viewCount": "2041万",
-      "likeCount": "4.6万",
-      "commentCount": "984",
-      "increment_d1": "130"
+      "publishedAt": "2020-01-17",
+      "viewCount": "2042万",
+      "likeCount": "9.6万",
+      "commentCount": "394",
+      "increment_d1": "1.09万"
     },
     {
       "rank": 1674,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/6W8mmtgeOzY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=6W8mmtgeOzY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "乃木坂46 『きっかけ』",
-        "url": "https://www.youtube.com/watch?v=6W8mmtgeOzY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "乃木坂46 OFFICIAL YouTube CHANNEL",
-        "url": "https://www.youtube.com/channel/UCUzpZpX2wRYOk3J8QTFGxDg",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-07-07",
-      "viewCount": "2041万",
-      "likeCount": "10万",
-      "commentCount": "6684",
-      "increment_d1": "1651"
-    },
-    {
-      "rank": 1675,
       "thumb": {
         "img": "https://i.ytimg.com/vi/zIRRGKMLaJE/default.jpg",
         "url": "https://www.youtube.com/watch?v=zIRRGKMLaJE",
@@ -573,30 +550,53 @@
       "viewCount": "2041万",
       "likeCount": "6.5万",
       "commentCount": "3487",
-      "increment_d1": "3163"
+      "increment_d1": "3094"
+    },
+    {
+      "rank": 1675,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/diWmmAA10Eg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=diWmmAA10Eg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "家入レオ -  君がくれた夏 （月9ドラマ『恋仲』主題歌）",
+        "url": "https://www.youtube.com/watch?v=diWmmAA10Eg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "家入レオ",
+        "url": "https://www.youtube.com/channel/UCwvWJX42p4C7IfpedYlvvGQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-07-15",
+      "viewCount": "2041万",
+      "likeCount": "4.6万",
+      "commentCount": "984",
+      "increment_d1": "174"
     },
     {
       "rank": 1676,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/iAOTwdlEdVg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=iAOTwdlEdVg",
+        "img": "https://i.ytimg.com/vi/6W8mmtgeOzY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=6W8mmtgeOzY",
         "target": "_blank"
       },
       "title": {
-        "text": "あの夢をなぞって",
-        "url": "https://www.youtube.com/watch?v=iAOTwdlEdVg",
+        "text": "乃木坂46 『きっかけ』",
+        "url": "https://www.youtube.com/watch?v=6W8mmtgeOzY",
         "target": "_blank"
       },
       "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "text": "乃木坂46 OFFICIAL YouTube CHANNEL",
+        "url": "https://www.youtube.com/channel/UCUzpZpX2wRYOk3J8QTFGxDg",
         "target": "_blank"
       },
-      "publishedAt": "2020-01-17",
-      "viewCount": "2040万",
-      "likeCount": "9.6万",
-      "commentCount": "394",
-      "increment_d1": "1.18万"
+      "publishedAt": "2016-07-07",
+      "viewCount": "2041万",
+      "likeCount": "10万",
+      "commentCount": "6684",
+      "increment_d1": "1773"
     },
     {
       "rank": 1677,
@@ -619,7 +619,7 @@
       "viewCount": "2040万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "2091"
+      "increment_d1": "2225"
     },
     {
       "rank": 1678,
@@ -642,7 +642,7 @@
       "viewCount": "2040万",
       "likeCount": "19.9万",
       "commentCount": "1.3万",
-      "increment_d1": "2212"
+      "increment_d1": "2238"
     },
     {
       "rank": 1679,
@@ -662,10 +662,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-27",
-      "viewCount": "2039万",
+      "viewCount": "2040万",
       "likeCount": "15.9万",
       "commentCount": "1722",
-      "increment_d1": "4475"
+      "increment_d1": "4363"
     },
     {
       "rank": 1680,
@@ -685,10 +685,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-10",
-      "viewCount": "2035万",
+      "viewCount": "2036万",
       "likeCount": "8.3万",
-      "commentCount": "3397",
-      "increment_d1": "1.14万"
+      "commentCount": "3400",
+      "increment_d1": "1.18万"
     },
     {
       "rank": 1681,
@@ -708,10 +708,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-01-27",
-      "viewCount": "2034万",
+      "viewCount": "2035万",
       "likeCount": "20万",
       "commentCount": "2579",
-      "increment_d1": "8386"
+      "increment_d1": "7733"
     },
     {
       "rank": 1682,
@@ -732,9 +732,9 @@
       },
       "publishedAt": "2019-02-04",
       "viewCount": "2034万",
-      "likeCount": "20.9万",
+      "likeCount": "21万",
       "commentCount": "7912",
-      "increment_d1": "2504"
+      "increment_d1": "2349"
     },
     {
       "rank": 1683,
@@ -755,9 +755,9 @@
       },
       "publishedAt": "2009-04-22",
       "viewCount": "2034万",
-      "likeCount": "5554",
+      "likeCount": "5555",
       "commentCount": "170",
-      "increment_d1": "141"
+      "increment_d1": "155"
     },
     {
       "rank": 1684,
@@ -780,7 +780,7 @@
       "viewCount": "2033万",
       "likeCount": "16.8万",
       "commentCount": "3043",
-      "increment_d1": "1540"
+      "increment_d1": "1539"
     },
     {
       "rank": 1685,
@@ -803,7 +803,7 @@
       "viewCount": "2031万",
       "likeCount": "7万",
       "commentCount": "1892",
-      "increment_d1": "3771"
+      "increment_d1": "3859"
     },
     {
       "rank": 1686,
@@ -823,10 +823,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-12",
-      "viewCount": "2030万",
+      "viewCount": "2031万",
       "likeCount": "26.3万",
       "commentCount": "8075",
-      "increment_d1": "3619"
+      "increment_d1": "3935"
     },
     {
       "rank": 1687,
@@ -849,7 +849,7 @@
       "viewCount": "2030万",
       "likeCount": "35.7万",
       "commentCount": "1.3万",
-      "increment_d1": "565"
+      "increment_d1": "546"
     },
     {
       "rank": 1688,
@@ -869,10 +869,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-29",
-      "viewCount": "2028万",
+      "viewCount": "2029万",
       "likeCount": "17.1万",
-      "commentCount": "4428",
-      "increment_d1": "1.08万"
+      "commentCount": "4429",
+      "increment_d1": "1.02万"
     },
     {
       "rank": 1689,
@@ -895,7 +895,7 @@
       "viewCount": "2027万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "1495"
+      "increment_d1": "1685"
     },
     {
       "rank": 1690,
@@ -915,10 +915,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-29",
-      "viewCount": "2026万",
+      "viewCount": "2027万",
       "likeCount": "3万",
       "commentCount": "54",
-      "increment_d1": "3715"
+      "increment_d1": "3740"
     },
     {
       "rank": 1691,
@@ -938,13 +938,36 @@
         "target": "_blank"
       },
       "publishedAt": "2019-06-26",
-      "viewCount": "2025万",
+      "viewCount": "2026万",
       "likeCount": "9万",
       "commentCount": "3567",
-      "increment_d1": "6816"
+      "increment_d1": "7228"
     },
     {
       "rank": 1692,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/hT1DXCqGpn4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=hT1DXCqGpn4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Premium】AAA - さよならの前に(AAA ARENA TOUR 2014 -Gold Symphony-)",
+        "url": "https://www.youtube.com/watch?v=hT1DXCqGpn4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-01-15",
+      "viewCount": "2026万",
+      "likeCount": "4.1万",
+      "commentCount": "1258",
+      "increment_d1": "1.21万"
+    },
+    {
+      "rank": 1693,
       "thumb": {
         "img": "https://i.ytimg.com/vi/m28FSsyWXBw/default.jpg",
         "url": "https://www.youtube.com/watch?v=m28FSsyWXBw",
@@ -964,30 +987,7 @@
       "viewCount": "2025万",
       "likeCount": "7.3万",
       "commentCount": "2.5万",
-      "increment_d1": "271"
-    },
-    {
-      "rank": 1693,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/hT1DXCqGpn4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=hT1DXCqGpn4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Premium】AAA - さよならの前に(AAA ARENA TOUR 2014 -Gold Symphony-)",
-        "url": "https://www.youtube.com/watch?v=hT1DXCqGpn4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-01-15",
-      "viewCount": "2024万",
-      "likeCount": "4.1万",
-      "commentCount": "1258",
-      "increment_d1": "1.13万"
+      "increment_d1": "281"
     },
     {
       "rank": 1694,
@@ -1010,7 +1010,7 @@
       "viewCount": "2024万",
       "likeCount": "10.1万",
       "commentCount": "1万",
-      "increment_d1": "1275"
+      "increment_d1": "1359"
     },
     {
       "rank": 1695,
@@ -1033,7 +1033,7 @@
       "viewCount": "2023万",
       "likeCount": "11.6万",
       "commentCount": "2774",
-      "increment_d1": "1102"
+      "increment_d1": "1135"
     },
     {
       "rank": 1696,
@@ -1053,10 +1053,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-15",
-      "viewCount": "2021万",
+      "viewCount": "2022万",
       "likeCount": "-",
       "commentCount": "8076",
-      "increment_d1": "8089"
+      "increment_d1": "7651"
     },
     {
       "rank": 1697,
@@ -1079,7 +1079,7 @@
       "viewCount": "2019万",
       "likeCount": "84.7万",
       "commentCount": "6.3万",
-      "increment_d1": "2932"
+      "increment_d1": "3705"
     },
     {
       "rank": 1698,
@@ -1102,30 +1102,30 @@
       "viewCount": "2018万",
       "likeCount": "21.3万",
       "commentCount": "1万",
-      "increment_d1": "2704"
+      "increment_d1": "2730"
     },
     {
       "rank": 1699,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/iRcbfSZKxSs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=iRcbfSZKxSs",
+        "img": "https://i.ytimg.com/vi/gNieKej1GAM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=gNieKej1GAM",
         "target": "_blank"
       },
       "title": {
-        "text": "SPYAIR 『RAGE OF DUST』(Short Ver.)",
-        "url": "https://www.youtube.com/watch?v=iRcbfSZKxSs",
+        "text": "マルシィ – ラブソング（Official Music Video）",
+        "url": "https://www.youtube.com/watch?v=gNieKej1GAM",
         "target": "_blank"
       },
       "channel": {
-        "text": "SPYAIR Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCvkOJJ9uFi9hto95bD3XO7Q",
+        "text": "マルシィ",
+        "url": "https://www.youtube.com/channel/UCANYCOJGI5ak1F0aH7YFs7g",
         "target": "_blank"
       },
-      "publishedAt": "2016-10-27",
-      "viewCount": "2016万",
-      "likeCount": "17.5万",
-      "commentCount": "9902",
-      "increment_d1": "3005"
+      "publishedAt": "2023-10-03",
+      "viewCount": "2017万",
+      "likeCount": "10万",
+      "commentCount": "1311",
+      "increment_d1": "1.84万"
     },
     {
       "rank": 1700,
@@ -1145,10 +1145,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-07",
-      "viewCount": "2015万",
-      "likeCount": "8.3万",
-      "commentCount": "5126",
-      "increment_d1": "8927"
+      "viewCount": "2016万",
+      "likeCount": "8.4万",
+      "commentCount": "5127",
+      "increment_d1": "8730"
     }
   ]
 }

@@ -3,6 +3,29 @@
     {
       "rank": 1601,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/38bhs0MnvxI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=38bhs0MnvxI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SCANDAL 「瞬間センチメンタル」/ Shunkan Sentimental ‐Music Video",
+        "url": "https://www.youtube.com/watch?v=38bhs0MnvxI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SCANDAL YouTube Official Channel",
+        "url": "https://www.youtube.com/channel/UCRgOqI54g1VqnQnwIB6WPSA",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-11-19",
+      "viewCount": "2145万",
+      "likeCount": "11.9万",
+      "commentCount": "3848",
+      "increment_d1": "5832"
+    },
+    {
+      "rank": 1602,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/YGiLQUc8x5E/default.jpg",
         "url": "https://www.youtube.com/watch?v=YGiLQUc8x5E",
         "target": "_blank"
@@ -21,30 +44,7 @@
       "viewCount": "2144万",
       "likeCount": "38.2万",
       "commentCount": "3.2万",
-      "increment_d1": "653"
-    },
-    {
-      "rank": 1602,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/n2Rywx3g1PM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=n2Rywx3g1PM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "HANA / Drop -Music Video-",
-        "url": "https://www.youtube.com/watch?v=n2Rywx3g1PM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "HANA official",
-        "url": "https://www.youtube.com/channel/UCJqWKSEmDP9ph3iVYCKyl3Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-02-09",
-      "viewCount": "2143万",
-      "likeCount": "33万",
-      "commentCount": "1.7万",
-      "increment_d1": "2.5万"
+      "increment_d1": "522"
     },
     {
       "rank": 1603,
@@ -66,8 +66,8 @@
       "publishedAt": "2023-04-26",
       "viewCount": "2143万",
       "likeCount": "19.5万",
-      "commentCount": "2919",
-      "increment_d1": "3405"
+      "commentCount": "2920",
+      "increment_d1": "3281"
     },
     {
       "rank": 1604,
@@ -90,7 +90,7 @@
       "viewCount": "2143万",
       "likeCount": "9.3万",
       "commentCount": "2354",
-      "increment_d1": "367"
+      "increment_d1": "344"
     },
     {
       "rank": 1605,
@@ -113,7 +113,7 @@
       "viewCount": "2142万",
       "likeCount": "18.6万",
       "commentCount": "1.2万",
-      "increment_d1": "981"
+      "increment_d1": "926"
     },
     {
       "rank": 1606,
@@ -136,33 +136,10 @@
       "viewCount": "2142万",
       "likeCount": "10.5万",
       "commentCount": "4092",
-      "increment_d1": "2392"
+      "increment_d1": "2277"
     },
     {
       "rank": 1607,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1y8u1t3PdtE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1y8u1t3PdtE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "e-girls / 「CANDY SMILE」　-Short ver.-",
-        "url": "https://www.youtube.com/watch?v=1y8u1t3PdtE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-02-25",
-      "viewCount": "2141万",
-      "likeCount": "3.3万",
-      "commentCount": "2435",
-      "increment_d1": "675"
-    },
-    {
-      "rank": 1608,
       "thumb": {
         "img": "https://i.ytimg.com/vi/PmlELBZeEzQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=PmlELBZeEzQ",
@@ -182,7 +159,30 @@
       "viewCount": "2141万",
       "likeCount": "4.6万",
       "commentCount": "1491",
-      "increment_d1": "1913"
+      "increment_d1": "2059"
+    },
+    {
+      "rank": 1608,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1y8u1t3PdtE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1y8u1t3PdtE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "e-girls / 「CANDY SMILE」　-Short ver.-",
+        "url": "https://www.youtube.com/watch?v=1y8u1t3PdtE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-02-25",
+      "viewCount": "2141万",
+      "likeCount": "3.3万",
+      "commentCount": "2435",
+      "increment_d1": "708"
     },
     {
       "rank": 1609,
@@ -202,10 +202,10 @@
         "target": "_blank"
       },
       "publishedAt": "2025-01-24",
-      "viewCount": "2137万",
+      "viewCount": "2139万",
       "likeCount": "31.4万",
       "commentCount": "7745",
-      "increment_d1": "2.46万"
+      "increment_d1": "2.44万"
     },
     {
       "rank": 1610,
@@ -225,10 +225,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-09-08",
-      "viewCount": "2135万",
+      "viewCount": "2136万",
       "likeCount": "7.1万",
       "commentCount": "3960",
-      "increment_d1": "1280"
+      "increment_d1": "1239"
     },
     {
       "rank": 1611,
@@ -251,7 +251,7 @@
       "viewCount": "2135万",
       "likeCount": "5.3万",
       "commentCount": "2491",
-      "increment_d1": "3391"
+      "increment_d1": "3366"
     },
     {
       "rank": 1612,
@@ -271,10 +271,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-17",
-      "viewCount": "2132万",
+      "viewCount": "2133万",
       "likeCount": "35.6万",
-      "commentCount": "7673",
-      "increment_d1": "3997"
+      "commentCount": "7674",
+      "increment_d1": "4060"
     },
     {
       "rank": 1613,
@@ -297,7 +297,7 @@
       "viewCount": "2131万",
       "likeCount": "7.8万",
       "commentCount": "5490",
-      "increment_d1": "1906"
+      "increment_d1": "1934"
     },
     {
       "rank": 1614,
@@ -317,10 +317,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-04-11",
-      "viewCount": "2129万",
+      "viewCount": "2130万",
       "likeCount": "7.1万",
       "commentCount": "1911",
-      "increment_d1": "4797"
+      "increment_d1": "5092"
     },
     {
       "rank": 1615,
@@ -340,10 +340,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-05-04",
-      "viewCount": "2128万",
+      "viewCount": "2129万",
       "likeCount": "6.2万",
       "commentCount": "2021",
-      "increment_d1": "1308"
+      "increment_d1": "1401"
     },
     {
       "rank": 1616,
@@ -366,7 +366,7 @@
       "viewCount": "2122万",
       "likeCount": "4.1万",
       "commentCount": "1461",
-      "increment_d1": "4079"
+      "increment_d1": "4381"
     },
     {
       "rank": 1617,
@@ -386,10 +386,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-10-24",
-      "viewCount": "2120万",
+      "viewCount": "2121万",
       "likeCount": "5.3万",
       "commentCount": "1317",
-      "increment_d1": "4324"
+      "increment_d1": "4440"
     },
     {
       "rank": 1618,
@@ -409,10 +409,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-18",
-      "viewCount": "2118万",
+      "viewCount": "2119万",
       "likeCount": "13.2万",
-      "commentCount": "7207",
-      "increment_d1": "5097"
+      "commentCount": "7208",
+      "increment_d1": "4835"
     },
     {
       "rank": 1619,
@@ -432,13 +432,36 @@
         "target": "_blank"
       },
       "publishedAt": "2015-02-03",
-      "viewCount": "2118万",
+      "viewCount": "2119万",
       "likeCount": "19.8万",
-      "commentCount": "5264",
-      "increment_d1": "4886"
+      "commentCount": "5266",
+      "increment_d1": "4584"
     },
     {
       "rank": 1620,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/fqYFkPeYqoI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=fqYFkPeYqoI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SawanoHiroyuki[nZk]:Laco「Hands Up to the Sky」Music Video ８６―エイティシックス― ver.",
+        "url": "https://www.youtube.com/watch?v=fqYFkPeYqoI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "澤野弘之 / SawanoHiroyuki[nZk]",
+        "url": "https://www.youtube.com/channel/UCbJM_Y06iuUOl3hVPqYcvng",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-06-12",
+      "viewCount": "2118万",
+      "likeCount": "12.8万",
+      "commentCount": "1867",
+      "increment_d1": "9577"
+    },
+    {
+      "rank": 1621,
       "thumb": {
         "img": "https://i.ytimg.com/vi/6eHuPYOJ2ZE/default.jpg",
         "url": "https://www.youtube.com/watch?v=6eHuPYOJ2ZE",
@@ -457,31 +480,8 @@
       "publishedAt": "2015-07-16",
       "viewCount": "2118万",
       "likeCount": "11.4万",
-      "commentCount": "5668",
-      "increment_d1": "531"
-    },
-    {
-      "rank": 1621,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/fqYFkPeYqoI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=fqYFkPeYqoI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SawanoHiroyuki[nZk]:Laco「Hands Up to the Sky」Music Video ８６―エイティシックス― ver.",
-        "url": "https://www.youtube.com/watch?v=fqYFkPeYqoI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "澤野弘之 / SawanoHiroyuki[nZk]",
-        "url": "https://www.youtube.com/channel/UCbJM_Y06iuUOl3hVPqYcvng",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-06-12",
-      "viewCount": "2117万",
-      "likeCount": "12.8万",
-      "commentCount": "1867",
-      "increment_d1": "9602"
+      "commentCount": "5669",
+      "increment_d1": "500"
     },
     {
       "rank": 1622,
@@ -501,10 +501,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-08",
-      "viewCount": "2115万",
+      "viewCount": "2116万",
       "likeCount": "22.9万",
-      "commentCount": "2672",
-      "increment_d1": "1.04万"
+      "commentCount": "2673",
+      "increment_d1": "1.01万"
     },
     {
       "rank": 1623,
@@ -527,7 +527,7 @@
       "viewCount": "2114万",
       "likeCount": "13.7万",
       "commentCount": "3149",
-      "increment_d1": "566"
+      "increment_d1": "528"
     },
     {
       "rank": 1624,
@@ -550,7 +550,7 @@
       "viewCount": "2113万",
       "likeCount": "4.8万",
       "commentCount": "2481",
-      "increment_d1": "3594"
+      "increment_d1": "3713"
     },
     {
       "rank": 1625,
@@ -570,10 +570,10 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-06",
-      "viewCount": "2108万",
+      "viewCount": "2109万",
       "likeCount": "4万",
       "commentCount": "2358",
-      "increment_d1": "4413"
+      "increment_d1": "4554"
     },
     {
       "rank": 1626,
@@ -596,33 +596,10 @@
       "viewCount": "2107万",
       "likeCount": "20.5万",
       "commentCount": "6844",
-      "increment_d1": "2947"
+      "increment_d1": "2564"
     },
     {
       "rank": 1627,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/fgESmgZ4ld8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=fgESmgZ4ld8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV full】 風は吹いている（DANCE! DANCE! DANCE! ver.）/AKB48[公式]",
-        "url": "https://www.youtube.com/watch?v=fgESmgZ4ld8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "AKB48",
-        "url": "https://www.youtube.com/channel/UCxjXU89x6owat9dA8Z-bzdw",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-12-05",
-      "viewCount": "2105万",
-      "likeCount": "5.7万",
-      "commentCount": "2771",
-      "increment_d1": "1467"
-    },
-    {
-      "rank": 1628,
       "thumb": {
         "img": "https://i.ytimg.com/vi/mDvM37bNsRQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=mDvM37bNsRQ",
@@ -641,8 +618,31 @@
       "publishedAt": "2017-02-17",
       "viewCount": "2105万",
       "likeCount": "8.4万",
-      "commentCount": "3192",
-      "increment_d1": "3222"
+      "commentCount": "3193",
+      "increment_d1": "3244"
+    },
+    {
+      "rank": 1628,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/fgESmgZ4ld8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=fgESmgZ4ld8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV full】 風は吹いている（DANCE! DANCE! DANCE! ver.）/AKB48[公式]",
+        "url": "https://www.youtube.com/watch?v=fgESmgZ4ld8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "AKB48",
+        "url": "https://www.youtube.com/channel/UCxjXU89x6owat9dA8Z-bzdw",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-12-05",
+      "viewCount": "2105万",
+      "likeCount": "5.7万",
+      "commentCount": "2773",
+      "increment_d1": "1636"
     },
     {
       "rank": 1629,
@@ -662,10 +662,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-12-12",
-      "viewCount": "2104万",
+      "viewCount": "2105万",
       "likeCount": "19.4万",
-      "commentCount": "9950",
-      "increment_d1": "2344"
+      "commentCount": "9949",
+      "increment_d1": "2382"
     },
     {
       "rank": 1630,
@@ -687,8 +687,8 @@
       "publishedAt": "2021-04-10",
       "viewCount": "2104万",
       "likeCount": "18.6万",
-      "commentCount": "4766",
-      "increment_d1": "6762"
+      "commentCount": "4767",
+      "increment_d1": "6594"
     },
     {
       "rank": 1631,
@@ -708,10 +708,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-28",
-      "viewCount": "2103万",
+      "viewCount": "2104万",
       "likeCount": "5.2万",
       "commentCount": "2380",
-      "increment_d1": "7075"
+      "increment_d1": "6656"
     },
     {
       "rank": 1632,
@@ -734,7 +734,7 @@
       "viewCount": "2101万",
       "likeCount": "48.5万",
       "commentCount": "2.2万",
-      "increment_d1": "1417"
+      "increment_d1": "1338"
     },
     {
       "rank": 1633,
@@ -757,7 +757,7 @@
       "viewCount": "2100万",
       "likeCount": "20.9万",
       "commentCount": "6949",
-      "increment_d1": "5061"
+      "increment_d1": "4743"
     },
     {
       "rank": 1634,
@@ -777,10 +777,10 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-16",
-      "viewCount": "2097万",
+      "viewCount": "2098万",
       "likeCount": "6.4万",
       "commentCount": "2705",
-      "increment_d1": "5104"
+      "increment_d1": "4962"
     },
     {
       "rank": 1635,
@@ -802,8 +802,8 @@
       "publishedAt": "2011-01-09",
       "viewCount": "2096万",
       "likeCount": "7.3万",
-      "commentCount": "3940",
-      "increment_d1": "3118"
+      "commentCount": "3943",
+      "increment_d1": "2946"
     },
     {
       "rank": 1636,
@@ -825,8 +825,8 @@
       "publishedAt": "2010-11-21",
       "viewCount": "2095万",
       "likeCount": "7.1万",
-      "commentCount": "9169",
-      "increment_d1": "1480"
+      "commentCount": "9170",
+      "increment_d1": "1673"
     },
     {
       "rank": 1637,
@@ -846,10 +846,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-09",
-      "viewCount": "2092万",
+      "viewCount": "2094万",
       "likeCount": "7.6万",
       "commentCount": "203",
-      "increment_d1": "2.13万"
+      "increment_d1": "1.97万"
     },
     {
       "rank": 1638,
@@ -872,7 +872,7 @@
       "viewCount": "2092万",
       "likeCount": "14.5万",
       "commentCount": "8363",
-      "increment_d1": "2999"
+      "increment_d1": "3209"
     },
     {
       "rank": 1639,
@@ -895,10 +895,33 @@
       "viewCount": "2091万",
       "likeCount": "21.8万",
       "commentCount": "5915",
-      "increment_d1": "2236"
+      "increment_d1": "2310"
     },
     {
       "rank": 1640,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/vrkbf9CVkn4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=vrkbf9CVkn4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "福山雅治 - 家族になろうよ (Full ver.)",
+        "url": "https://www.youtube.com/watch?v=vrkbf9CVkn4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "福山雅治 Official",
+        "url": "https://www.youtube.com/channel/UCPzNj3UR5Sa8UDNL5j7_rOQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-03-11",
+      "viewCount": "2090万",
+      "likeCount": "-",
+      "commentCount": "3261",
+      "increment_d1": "9731"
+    },
+    {
+      "rank": 1641,
       "thumb": {
         "img": "https://i.ytimg.com/vi/q-RrB2OBf6s/default.jpg",
         "url": "https://www.youtube.com/watch?v=q-RrB2OBf6s",
@@ -918,30 +941,7 @@
       "viewCount": "2089万",
       "likeCount": "10.3万",
       "commentCount": "7.6万",
-      "increment_d1": "1280"
-    },
-    {
-      "rank": 1641,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/vrkbf9CVkn4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=vrkbf9CVkn4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "福山雅治 - 家族になろうよ (Full ver.)",
-        "url": "https://www.youtube.com/watch?v=vrkbf9CVkn4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "福山雅治 Official",
-        "url": "https://www.youtube.com/channel/UCPzNj3UR5Sa8UDNL5j7_rOQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-03-11",
-      "viewCount": "2089万",
-      "likeCount": "-",
-      "commentCount": "3260",
-      "increment_d1": "9373"
+      "increment_d1": "1258"
     },
     {
       "rank": 1642,
@@ -964,7 +964,7 @@
       "viewCount": "2088万",
       "likeCount": "29.6万",
       "commentCount": "7936",
-      "increment_d1": "2650"
+      "increment_d1": "2796"
     },
     {
       "rank": 1643,
@@ -987,7 +987,7 @@
       "viewCount": "2087万",
       "likeCount": "34.7万",
       "commentCount": "1.8万",
-      "increment_d1": "827"
+      "increment_d1": "830"
     },
     {
       "rank": 1644,
@@ -1007,10 +1007,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-01",
-      "viewCount": "2085万",
+      "viewCount": "2086万",
       "likeCount": "23.5万",
       "commentCount": "6237",
-      "increment_d1": "6990"
+      "increment_d1": "7110"
     },
     {
       "rank": 1645,
@@ -1030,10 +1030,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-02",
-      "viewCount": "2085万",
+      "viewCount": "2086万",
       "likeCount": "12.4万",
       "commentCount": "2942",
-      "increment_d1": "8044"
+      "increment_d1": "7637"
     },
     {
       "rank": 1646,
@@ -1055,34 +1055,11 @@
       "publishedAt": "2018-05-12",
       "viewCount": "2085万",
       "likeCount": "22.4万",
-      "commentCount": "5896",
-      "increment_d1": "1170"
+      "commentCount": "5897",
+      "increment_d1": "1127"
     },
     {
       "rank": 1647,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/b5lsuPxMFmw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=b5lsuPxMFmw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BURNOUT SYNDROMES 『PHOENIX』Music Video（TVアニメ「ハイキュー!! TO THE TOP」オープニングテーマ）",
-        "url": "https://www.youtube.com/watch?v=b5lsuPxMFmw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BURNOUT SYNDROMES Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXos4VWtLz_TNjLZy6F8mdw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-01-31",
-      "viewCount": "2084万",
-      "likeCount": "25万",
-      "commentCount": "5021",
-      "increment_d1": "4372"
-    },
-    {
-      "rank": 1648,
       "thumb": {
         "img": "https://i.ytimg.com/vi/eW620xcBnVE/default.jpg",
         "url": "https://www.youtube.com/watch?v=eW620xcBnVE",
@@ -1099,10 +1076,33 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-09",
-      "viewCount": "2084万",
+      "viewCount": "2085万",
       "likeCount": "21.9万",
       "commentCount": "2845",
-      "increment_d1": "9621"
+      "increment_d1": "9325"
+    },
+    {
+      "rank": 1648,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/b5lsuPxMFmw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=b5lsuPxMFmw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BURNOUT SYNDROMES 『PHOENIX』Music Video（TVアニメ「ハイキュー!! TO THE TOP」オープニングテーマ）",
+        "url": "https://www.youtube.com/watch?v=b5lsuPxMFmw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BURNOUT SYNDROMES Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXos4VWtLz_TNjLZy6F8mdw",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-01-31",
+      "viewCount": "2085万",
+      "likeCount": "25万",
+      "commentCount": "5021",
+      "increment_d1": "4238"
     },
     {
       "rank": 1649,
@@ -1125,7 +1125,7 @@
       "viewCount": "2079万",
       "likeCount": "15.8万",
       "commentCount": "4253",
-      "increment_d1": "5056"
+      "increment_d1": "5268"
     },
     {
       "rank": 1650,
@@ -1145,10 +1145,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-23",
-      "viewCount": "2077万",
+      "viewCount": "2079万",
       "likeCount": "24.3万",
-      "commentCount": "6046",
-      "increment_d1": "1.67万"
+      "commentCount": "6047",
+      "increment_d1": "1.63万"
     }
   ]
 }
