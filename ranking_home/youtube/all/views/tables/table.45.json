@@ -3,6 +3,29 @@
     {
       "rank": 2201,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/2YuNtpBxT6k/default.jpg",
+        "url": "https://www.youtube.com/watch?v=2YuNtpBxT6k",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "星野源 – 化物 (Official Video)",
+        "url": "https://www.youtube.com/watch?v=2YuNtpBxT6k",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Victor Entertainment",
+        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-04-24",
+      "viewCount": "1596万",
+      "likeCount": "4.8万",
+      "commentCount": "1704",
+      "increment_d1": "605"
+    },
+    {
+      "rank": 2202,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/FjdUS9c_sAo/default.jpg",
         "url": "https://www.youtube.com/watch?v=FjdUS9c_sAo",
         "target": "_blank"
@@ -21,10 +44,10 @@
       "viewCount": "1596万",
       "likeCount": "-",
       "commentCount": "1.2万",
-      "increment_d1": "2457"
+      "increment_d1": "2255"
     },
     {
-      "rank": 2202,
+      "rank": 2203,
       "thumb": {
         "img": "https://i.ytimg.com/vi/YWDe5n_EwRw/default.jpg",
         "url": "https://www.youtube.com/watch?v=YWDe5n_EwRw",
@@ -44,30 +67,7 @@
       "viewCount": "1596万",
       "likeCount": "24.1万",
       "commentCount": "7208",
-      "increment_d1": "1890"
-    },
-    {
-      "rank": 2203,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/fhTFysCtF6g/default.jpg",
-        "url": "https://www.youtube.com/watch?v=fhTFysCtF6g",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ヨルシカ - アポリア（OFFICIAL VIDEO）",
-        "url": "https://www.youtube.com/watch?v=fhTFysCtF6g",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ヨルシカ / n-buna Official",
-        "url": "https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-10-08",
-      "viewCount": "1595万",
-      "likeCount": "14.5万",
-      "commentCount": "3088",
-      "increment_d1": "1.96万"
+      "increment_d1": "1988"
     },
     {
       "rank": 2204,
@@ -87,13 +87,36 @@
         "target": "_blank"
       },
       "publishedAt": "2025-06-28",
-      "viewCount": "1594万",
+      "viewCount": "1595万",
       "likeCount": "21.8万",
       "commentCount": "-",
-      "increment_d1": "5826"
+      "increment_d1": "9207"
     },
     {
       "rank": 2205,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/FtHpWnr99OY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=FtHpWnr99OY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "宇多田ヒカル 『初恋』",
+        "url": "https://www.youtube.com/watch?v=FtHpWnr99OY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Hikaru Utada",
+        "url": "https://www.youtube.com/channel/UChcgcbX3zMBwd0wTJyy2JlA",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-01-17",
+      "viewCount": "1594万",
+      "likeCount": "9.7万",
+      "commentCount": "1903",
+      "increment_d1": "6587"
+    },
+    {
+      "rank": 2206,
       "thumb": {
         "img": "https://i.ytimg.com/vi/MCIfjcc8J2M/default.jpg",
         "url": "https://www.youtube.com/watch?v=MCIfjcc8J2M",
@@ -113,30 +136,7 @@
       "viewCount": "1594万",
       "likeCount": "8.6万",
       "commentCount": "-",
-      "increment_d1": "245"
-    },
-    {
-      "rank": 2206,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/FtHpWnr99OY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=FtHpWnr99OY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "宇多田ヒカル 『初恋』",
-        "url": "https://www.youtube.com/watch?v=FtHpWnr99OY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Hikaru Utada",
-        "url": "https://www.youtube.com/channel/UChcgcbX3zMBwd0wTJyy2JlA",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-01-17",
-      "viewCount": "1594万",
-      "likeCount": "9.7万",
-      "commentCount": "1904",
-      "increment_d1": "6891"
+      "increment_d1": "416"
     },
     {
       "rank": 2207,
@@ -159,7 +159,7 @@
       "viewCount": "1594万",
       "likeCount": "6.6万",
       "commentCount": "2189",
-      "increment_d1": "650"
+      "increment_d1": "719"
     },
     {
       "rank": 2208,
@@ -182,7 +182,7 @@
       "viewCount": "1594万",
       "likeCount": "13.3万",
       "commentCount": "5.1万",
-      "increment_d1": "627"
+      "increment_d1": "676"
     },
     {
       "rank": 2209,
@@ -205,7 +205,7 @@
       "viewCount": "1593万",
       "likeCount": "9.4万",
       "commentCount": "1.9万",
-      "increment_d1": "2930"
+      "increment_d1": "3062"
     },
     {
       "rank": 2210,
@@ -228,7 +228,7 @@
       "viewCount": "1591万",
       "likeCount": "9.5万",
       "commentCount": "5751",
-      "increment_d1": "1985"
+      "increment_d1": "1846"
     },
     {
       "rank": 2211,
@@ -250,8 +250,8 @@
       "publishedAt": "2017-07-01",
       "viewCount": "1591万",
       "likeCount": "15.2万",
-      "commentCount": "4510",
-      "increment_d1": "2256"
+      "commentCount": "4509",
+      "increment_d1": "2317"
     },
     {
       "rank": 2212,
@@ -273,8 +273,8 @@
       "publishedAt": "2020-11-13",
       "viewCount": "1590万",
       "likeCount": "19.5万",
-      "commentCount": "9110",
-      "increment_d1": "731"
+      "commentCount": "9107",
+      "increment_d1": "808"
     },
     {
       "rank": 2213,
@@ -296,8 +296,8 @@
       "publishedAt": "2019-02-16",
       "viewCount": "1589万",
       "likeCount": "18.2万",
-      "commentCount": "7040",
-      "increment_d1": "1429"
+      "commentCount": "7039",
+      "increment_d1": "1511"
     },
     {
       "rank": 2214,
@@ -320,7 +320,7 @@
       "viewCount": "1589万",
       "likeCount": "9.8万",
       "commentCount": "-",
-      "increment_d1": "2350"
+      "increment_d1": "2522"
     },
     {
       "rank": 2215,
@@ -343,7 +343,7 @@
       "viewCount": "1588万",
       "likeCount": "30.2万",
       "commentCount": "8348",
-      "increment_d1": "1032"
+      "increment_d1": "1141"
     },
     {
       "rank": 2216,
@@ -366,7 +366,7 @@
       "viewCount": "1587万",
       "likeCount": "12.3万",
       "commentCount": "3690",
-      "increment_d1": "1172"
+      "increment_d1": "1331"
     },
     {
       "rank": 2217,
@@ -386,10 +386,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-20",
-      "viewCount": "1586万",
+      "viewCount": "1587万",
       "likeCount": "6.5万",
-      "commentCount": "1939",
-      "increment_d1": "3714"
+      "commentCount": "1943",
+      "increment_d1": "3795"
     },
     {
       "rank": 2218,
@@ -412,10 +412,33 @@
       "viewCount": "1586万",
       "likeCount": "7.3万",
       "commentCount": "1594",
-      "increment_d1": "1785"
+      "increment_d1": "1737"
     },
     {
       "rank": 2219,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/8IOSztadymc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=8IOSztadymc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "AI - 「アルデバラン」 (official video)",
+        "url": "https://www.youtube.com/watch?v=8IOSztadymc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "AI",
+        "url": "https://www.youtube.com/channel/UCX4fV50d398w_YSGgKwa51Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-11-05",
+      "viewCount": "1586万",
+      "likeCount": "8.5万",
+      "commentCount": "2412",
+      "increment_d1": "3249"
+    },
+    {
+      "rank": 2220,
       "thumb": {
         "img": "https://i.ytimg.com/vi/uTurpdZ-oC4/default.jpg",
         "url": "https://www.youtube.com/watch?v=uTurpdZ-oC4",
@@ -435,30 +458,7 @@
       "viewCount": "1586万",
       "likeCount": "26.3万",
       "commentCount": "9979",
-      "increment_d1": "604"
-    },
-    {
-      "rank": 2220,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/8IOSztadymc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=8IOSztadymc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "AI - 「アルデバラン」 (official video)",
-        "url": "https://www.youtube.com/watch?v=8IOSztadymc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "AI",
-        "url": "https://www.youtube.com/channel/UCX4fV50d398w_YSGgKwa51Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-05",
-      "viewCount": "1586万",
-      "likeCount": "8.5万",
-      "commentCount": "2410",
-      "increment_d1": "3133"
+      "increment_d1": "506"
     },
     {
       "rank": 2221,
@@ -481,7 +481,7 @@
       "viewCount": "1584万",
       "likeCount": "-",
       "commentCount": "2.8万",
-      "increment_d1": "1544"
+      "increment_d1": "1651"
     },
     {
       "rank": 2222,
@@ -504,7 +504,7 @@
       "viewCount": "1583万",
       "likeCount": "10.8万",
       "commentCount": "780",
-      "increment_d1": "4980"
+      "increment_d1": "5130"
     },
     {
       "rank": 2223,
@@ -526,8 +526,8 @@
       "publishedAt": "2019-05-08",
       "viewCount": "1583万",
       "likeCount": "17万",
-      "commentCount": "7199",
-      "increment_d1": "1867"
+      "commentCount": "7192",
+      "increment_d1": "1746"
     },
     {
       "rank": 2224,
@@ -550,10 +550,33 @@
       "viewCount": "1581万",
       "likeCount": "4.3万",
       "commentCount": "1308",
-      "increment_d1": "2043"
+      "increment_d1": "2155"
     },
     {
       "rank": 2225,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/p4BSXo0Gf2Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=p4BSXo0Gf2Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ひっつきもっつき／ケロポンズ with ポケモン",
+        "url": "https://www.youtube.com/watch?v=p4BSXo0Gf2Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ケロポンズ&プッピーズ",
+        "url": "https://www.youtube.com/channel/UCk_ZQUhYa0vjIAYWzZk6tLQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-12-27",
+      "viewCount": "1581万",
+      "likeCount": "7369",
+      "commentCount": "-",
+      "increment_d1": "1.57万"
+    },
+    {
+      "rank": 2226,
       "thumb": {
         "img": "https://i.ytimg.com/vi/d62El5YUbS8/default.jpg",
         "url": "https://www.youtube.com/watch?v=d62El5YUbS8",
@@ -573,10 +596,10 @@
       "viewCount": "1581万",
       "likeCount": "2.2万",
       "commentCount": "427",
-      "increment_d1": "15"
+      "increment_d1": "17"
     },
     {
-      "rank": 2226,
+      "rank": 2227,
       "thumb": {
         "img": "https://i.ytimg.com/vi/dnJ4BQCW2ZY/default.jpg",
         "url": "https://www.youtube.com/watch?v=dnJ4BQCW2ZY",
@@ -596,30 +619,7 @@
       "viewCount": "1580万",
       "likeCount": "11.6万",
       "commentCount": "4274",
-      "increment_d1": "1137"
-    },
-    {
-      "rank": 2227,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/p4BSXo0Gf2Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=p4BSXo0Gf2Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ひっつきもっつき／ケロポンズ with ポケモン",
-        "url": "https://www.youtube.com/watch?v=p4BSXo0Gf2Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ケロポンズ&プッピーズ",
-        "url": "https://www.youtube.com/channel/UCk_ZQUhYa0vjIAYWzZk6tLQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-12-27",
-      "viewCount": "1580万",
-      "likeCount": "7363",
-      "commentCount": "-",
-      "increment_d1": "1.44万"
+      "increment_d1": "1154"
     },
     {
       "rank": 2228,
@@ -641,34 +641,11 @@
       "publishedAt": "2013-06-25",
       "viewCount": "1577万",
       "likeCount": "4.3万",
-      "commentCount": "2126",
-      "increment_d1": "5106"
+      "commentCount": "2124",
+      "increment_d1": "5098"
     },
     {
       "rank": 2229,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/MVVQynaCOYg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=MVVQynaCOYg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BUMP OF CHICKEN『魔法の料理 〜君から君へ〜』",
-        "url": "https://www.youtube.com/watch?v=MVVQynaCOYg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BUMP OF CHICKEN",
-        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-04-06",
-      "viewCount": "1577万",
-      "likeCount": "4.2万",
-      "commentCount": "2443",
-      "increment_d1": "1407"
-    },
-    {
-      "rank": 2230,
       "thumb": {
         "img": "https://i.ytimg.com/vi/rYyk3kgE3mY/default.jpg",
         "url": "https://www.youtube.com/watch?v=rYyk3kgE3mY",
@@ -687,8 +664,31 @@
       "publishedAt": "2021-07-02",
       "viewCount": "1577万",
       "likeCount": "8.6万",
-      "commentCount": "5423",
-      "increment_d1": "7471"
+      "commentCount": "5424",
+      "increment_d1": "8081"
+    },
+    {
+      "rank": 2230,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/MVVQynaCOYg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=MVVQynaCOYg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BUMP OF CHICKEN『魔法の料理 〜君から君へ〜』",
+        "url": "https://www.youtube.com/watch?v=MVVQynaCOYg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BUMP OF CHICKEN",
+        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-04-06",
+      "viewCount": "1577万",
+      "likeCount": "4.2万",
+      "commentCount": "2444",
+      "increment_d1": "1335"
     },
     {
       "rank": 2231,
@@ -711,7 +711,7 @@
       "viewCount": "1576万",
       "likeCount": "33.5万",
       "commentCount": "1.2万",
-      "increment_d1": "2101"
+      "increment_d1": "2338"
     },
     {
       "rank": 2232,
@@ -733,34 +733,11 @@
       "publishedAt": "2020-10-09",
       "viewCount": "1575万",
       "likeCount": "-",
-      "commentCount": "9605",
-      "increment_d1": "2110"
+      "commentCount": "9607",
+      "increment_d1": "2170"
     },
     {
       "rank": 2233,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/B9Fy990Pq9I/default.jpg",
-        "url": "https://www.youtube.com/watch?v=B9Fy990Pq9I",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "King & Prince「We are young」MV YouTube Edit",
-        "url": "https://www.youtube.com/watch?v=B9Fy990Pq9I",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "King & Prince",
-        "url": "https://www.youtube.com/channel/UCSxwcQnzA5K6DvofvBn6ATA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-02-07",
-      "viewCount": "1575万",
-      "likeCount": "-",
-      "commentCount": "6.2万",
-      "increment_d1": "757"
-    },
-    {
-      "rank": 2234,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Zaij5ULZf9E/default.jpg",
         "url": "https://www.youtube.com/watch?v=Zaij5ULZf9E",
@@ -780,7 +757,30 @@
       "viewCount": "1575万",
       "likeCount": "10.5万",
       "commentCount": "1.5万",
-      "increment_d1": "2796"
+      "increment_d1": "3997"
+    },
+    {
+      "rank": 2234,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/B9Fy990Pq9I/default.jpg",
+        "url": "https://www.youtube.com/watch?v=B9Fy990Pq9I",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "King & Prince「We are young」MV YouTube Edit",
+        "url": "https://www.youtube.com/watch?v=B9Fy990Pq9I",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "King & Prince",
+        "url": "https://www.youtube.com/channel/UCSxwcQnzA5K6DvofvBn6ATA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-02-07",
+      "viewCount": "1575万",
+      "likeCount": "-",
+      "commentCount": "6.2万",
+      "increment_d1": "749"
     },
     {
       "rank": 2235,
@@ -800,10 +800,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-03-17",
-      "viewCount": "1574万",
+      "viewCount": "1575万",
       "likeCount": "27.6万",
-      "commentCount": "7712",
-      "increment_d1": "3246"
+      "commentCount": "7713",
+      "increment_d1": "3142"
     },
     {
       "rank": 2236,
@@ -823,10 +823,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-09-19",
-      "viewCount": "1572万",
+      "viewCount": "1573万",
       "likeCount": "32.9万",
       "commentCount": "2.7万",
-      "increment_d1": "969"
+      "increment_d1": "842"
     },
     {
       "rank": 2237,
@@ -848,8 +848,8 @@
       "publishedAt": "2024-01-29",
       "viewCount": "1572万",
       "likeCount": "14.6万",
-      "commentCount": "7438",
-      "increment_d1": "6259"
+      "commentCount": "7439",
+      "increment_d1": "6253"
     },
     {
       "rank": 2238,
@@ -872,7 +872,7 @@
       "viewCount": "1571万",
       "likeCount": "4.2万",
       "commentCount": "1645",
-      "increment_d1": "271"
+      "increment_d1": "220"
     },
     {
       "rank": 2239,
@@ -895,10 +895,33 @@
       "viewCount": "1570万",
       "likeCount": "9.8万",
       "commentCount": "5125",
-      "increment_d1": "508"
+      "increment_d1": "636"
     },
     {
       "rank": 2240,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Dr_Kb7A5cxw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Dr_Kb7A5cxw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MAN WITH A MISSION×milet「絆ノ奇跡」(Live at さいたまスーパーアリーナ）",
+        "url": "https://www.youtube.com/watch?v=Dr_Kb7A5cxw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "mwamjapan",
+        "url": "https://www.youtube.com/channel/UCy21ToKvBD45wUPaSLkr5NQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-02-09",
+      "viewCount": "1570万",
+      "likeCount": "8.5万",
+      "commentCount": "1870",
+      "increment_d1": "1.93万"
+    },
+    {
+      "rank": 2241,
       "thumb": {
         "img": "https://i.ytimg.com/vi/wKEAZv-w89Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=wKEAZv-w89Q",
@@ -918,10 +941,33 @@
       "viewCount": "1569万",
       "likeCount": "11万",
       "commentCount": "2517",
-      "increment_d1": "690"
+      "increment_d1": "727"
     },
     {
-      "rank": 2241,
+      "rank": 2242,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/a_iU8YeH944/default.jpg",
+        "url": "https://www.youtube.com/watch?v=a_iU8YeH944",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SawanoHiroyuki[nZk]:Laco「FAKEit」Music Video Fate/strange Fake -Whispers of Dawn- ver.",
+        "url": "https://www.youtube.com/watch?v=a_iU8YeH944",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "澤野弘之 / SawanoHiroyuki[nZk]",
+        "url": "https://www.youtube.com/channel/UCbJM_Y06iuUOl3hVPqYcvng",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-01-26",
+      "viewCount": "1569万",
+      "likeCount": "9.5万",
+      "commentCount": "1084",
+      "increment_d1": "1.07万"
+    },
+    {
+      "rank": 2243,
       "thumb": {
         "img": "https://i.ytimg.com/vi/KRSzKCFsTVA/default.jpg",
         "url": "https://www.youtube.com/watch?v=KRSzKCFsTVA",
@@ -938,13 +984,13 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-13",
-      "viewCount": "1568万",
+      "viewCount": "1569万",
       "likeCount": "25.9万",
       "commentCount": "8644",
-      "increment_d1": "1047"
+      "increment_d1": "1239"
     },
     {
-      "rank": 2242,
+      "rank": 2244,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Btr4NN_QSFI/default.jpg",
         "url": "https://www.youtube.com/watch?v=Btr4NN_QSFI",
@@ -964,53 +1010,7 @@
       "viewCount": "1568万",
       "likeCount": "9.9万",
       "commentCount": "3731",
-      "increment_d1": "1091"
-    },
-    {
-      "rank": 2243,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Dr_Kb7A5cxw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Dr_Kb7A5cxw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MAN WITH A MISSION×milet「絆ノ奇跡」(Live at さいたまスーパーアリーナ）",
-        "url": "https://www.youtube.com/watch?v=Dr_Kb7A5cxw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "mwamjapan",
-        "url": "https://www.youtube.com/channel/UCy21ToKvBD45wUPaSLkr5NQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-02-09",
-      "viewCount": "1568万",
-      "likeCount": "8.5万",
-      "commentCount": "1870",
-      "increment_d1": "1.67万"
-    },
-    {
-      "rank": 2244,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/a_iU8YeH944/default.jpg",
-        "url": "https://www.youtube.com/watch?v=a_iU8YeH944",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SawanoHiroyuki[nZk]:Laco「FAKEit」Music Video Fate/strange Fake -Whispers of Dawn- ver.",
-        "url": "https://www.youtube.com/watch?v=a_iU8YeH944",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "澤野弘之 / SawanoHiroyuki[nZk]",
-        "url": "https://www.youtube.com/channel/UCbJM_Y06iuUOl3hVPqYcvng",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-01-26",
-      "viewCount": "1568万",
-      "likeCount": "9.5万",
-      "commentCount": "1082",
-      "increment_d1": "1.09万"
+      "increment_d1": "1044"
     },
     {
       "rank": 2245,
@@ -1030,10 +1030,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-06-27",
-      "viewCount": "1567万",
+      "viewCount": "1568万",
       "likeCount": "20.1万",
       "commentCount": "4385",
-      "increment_d1": "1875"
+      "increment_d1": "2161"
     },
     {
       "rank": 2246,
@@ -1056,10 +1056,33 @@
       "viewCount": "1567万",
       "likeCount": "-",
       "commentCount": "6615",
-      "increment_d1": "3939"
+      "increment_d1": "3929"
     },
     {
       "rank": 2247,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/rBX5YGPNDbs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=rBX5YGPNDbs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[Official Music Video]  Perfume「Dream Fighter」",
+        "url": "https://www.youtube.com/watch?v=rBX5YGPNDbs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Perfume",
+        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-06-18",
+      "viewCount": "1567万",
+      "likeCount": "6.2万",
+      "commentCount": "2674",
+      "increment_d1": "5688"
+    },
+    {
+      "rank": 2248,
       "thumb": {
         "img": "https://i.ytimg.com/vi/S8L3D9rXKyk/default.jpg",
         "url": "https://www.youtube.com/watch?v=S8L3D9rXKyk",
@@ -1079,30 +1102,7 @@
       "viewCount": "1567万",
       "likeCount": "4.4万",
       "commentCount": "3168",
-      "increment_d1": "566"
-    },
-    {
-      "rank": 2248,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/rBX5YGPNDbs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=rBX5YGPNDbs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[Official Music Video]  Perfume「Dream Fighter」",
-        "url": "https://www.youtube.com/watch?v=rBX5YGPNDbs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Perfume",
-        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-06-18",
-      "viewCount": "1567万",
-      "likeCount": "6.2万",
-      "commentCount": "2658",
-      "increment_d1": "2267"
+      "increment_d1": "669"
     },
     {
       "rank": 2249,
@@ -1122,33 +1122,33 @@
         "target": "_blank"
       },
       "publishedAt": "2014-10-29",
-      "viewCount": "1566万",
+      "viewCount": "1567万",
       "likeCount": "7.5万",
       "commentCount": "2793",
-      "increment_d1": "1157"
+      "increment_d1": "1107"
     },
     {
       "rank": 2250,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/bh10-NQsng0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=bh10-NQsng0",
+        "img": "https://i.ytimg.com/vi/Y-vtEQJTwI8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Y-vtEQJTwI8",
         "target": "_blank"
       },
       "title": {
-        "text": "miwa 『リブート』Music Video",
-        "url": "https://www.youtube.com/watch?v=bh10-NQsng0",
+        "text": "工藤静香 / 慟哭［Official Video］",
+        "url": "https://www.youtube.com/watch?v=Y-vtEQJTwI8",
         "target": "_blank"
       },
       "channel": {
-        "text": "miwa official YouTube channel",
-        "url": "https://www.youtube.com/channel/UC9cz0t8P3VkTHY7xjbS8zHA",
+        "text": "工藤静香 -PONY CANYON-",
+        "url": "https://www.youtube.com/channel/UCUQYjb1vV1j95xJxaG0zK_g",
         "target": "_blank"
       },
-      "publishedAt": "2019-08-01",
+      "publishedAt": "2019-06-07",
       "viewCount": "1566万",
-      "likeCount": "9.6万",
-      "commentCount": "4256",
-      "increment_d1": "820"
+      "likeCount": "3.9万",
+      "commentCount": "1671",
+      "increment_d1": "7823"
     }
   ]
 }

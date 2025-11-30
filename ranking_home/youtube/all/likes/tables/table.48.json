@@ -40,12 +40,34 @@
         "target": "_blank"
       },
       "publishedAt": "2019-11-08",
-      "viewCount": "2781万",
-      "likeCount": "6.37万",
-      "commentCount": "1935"
+      "viewCount": "2783万",
+      "likeCount": "6.38万",
+      "commentCount": "1936"
     },
     {
       "rank": 2353,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Ra-9M6ZgT8k/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Ra-9M6ZgT8k",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "平井 堅 『いとしき日々よ 』MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=Ra-9M6ZgT8k",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "平井 堅 YouTube Official Channel",
+        "url": "https://www.youtube.com/channel/UCtwtMDxG0n0Yd0qds38ff0Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-05-13",
+      "viewCount": "1517万",
+      "likeCount": "6.37万",
+      "commentCount": "2494"
+    },
+    {
+      "rank": 2354,
       "thumb": {
         "img": "https://i.ytimg.com/vi/gG7evVU0OdA/default.jpg",
         "url": "https://www.youtube.com/watch?v=gG7evVU0OdA",
@@ -67,7 +89,7 @@
       "commentCount": "2295"
     },
     {
-      "rank": 2354,
+      "rank": 2355,
       "thumb": {
         "img": "https://i.ytimg.com/vi/HGJK1IKIvrI/default.jpg",
         "url": "https://www.youtube.com/watch?v=HGJK1IKIvrI",
@@ -87,28 +109,6 @@
       "viewCount": "1417万",
       "likeCount": "6.37万",
       "commentCount": "2202"
-    },
-    {
-      "rank": 2355,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Ra-9M6ZgT8k/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Ra-9M6ZgT8k",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "平井 堅 『いとしき日々よ 』MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=Ra-9M6ZgT8k",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "平井 堅 YouTube Official Channel",
-        "url": "https://www.youtube.com/channel/UCtwtMDxG0n0Yd0qds38ff0Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-05-13",
-      "viewCount": "1516万",
-      "likeCount": "6.37万",
-      "commentCount": "2494"
     },
     {
       "rank": 2356,
@@ -194,34 +194,12 @@
         "target": "_blank"
       },
       "publishedAt": "2014-10-16",
-      "viewCount": "1538万",
+      "viewCount": "1539万",
       "likeCount": "6.34万",
       "commentCount": "2620"
     },
     {
       "rank": 2360,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Vxmxpbn0pwA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Vxmxpbn0pwA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ポルノグラフィティ『アポロ』(\"OPEN MUSIC CABINET\"LIVE IN SAITAMA SUPER ARENA 2007\") / PORNOGRAFFITTI『Apollo(Live)』",
-        "url": "https://www.youtube.com/watch?v=Vxmxpbn0pwA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ポルノグラフィティ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCJeCKqR6uqrdCw6021WuWlA",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-10-02",
-      "viewCount": "1652万",
-      "likeCount": "6.33万",
-      "commentCount": "2020"
-    },
-    {
-      "rank": 2361,
       "thumb": {
         "img": "https://i.ytimg.com/vi/yZt2XEjsduc/default.jpg",
         "url": "https://www.youtube.com/watch?v=yZt2XEjsduc",
@@ -238,9 +216,31 @@
         "target": "_blank"
       },
       "publishedAt": "2012-11-14",
-      "viewCount": "1931万",
+      "viewCount": "1932万",
       "likeCount": "6.33万",
-      "commentCount": "4111"
+      "commentCount": "4112"
+    },
+    {
+      "rank": 2361,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Vxmxpbn0pwA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Vxmxpbn0pwA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ポルノグラフィティ『アポロ』(\"OPEN MUSIC CABINET\"LIVE IN SAITAMA SUPER ARENA 2007\") / PORNOGRAFFITTI『Apollo(Live)』",
+        "url": "https://www.youtube.com/watch?v=Vxmxpbn0pwA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ポルノグラフィティ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCJeCKqR6uqrdCw6021WuWlA",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-10-02",
+      "viewCount": "1653万",
+      "likeCount": "6.33万",
+      "commentCount": "2020"
     },
     {
       "rank": 2362,
@@ -328,7 +328,7 @@
       "publishedAt": "2012-05-16",
       "viewCount": "1402万",
       "likeCount": "6.3万",
-      "commentCount": "1642"
+      "commentCount": "1643"
     },
     {
       "rank": 2366,
@@ -370,9 +370,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-02-08",
-      "viewCount": "2504万",
-      "likeCount": "6.29万",
-      "commentCount": "1636"
+      "viewCount": "2505万",
+      "likeCount": "6.3万",
+      "commentCount": "1637"
     },
     {
       "rank": 2368,
@@ -421,28 +421,6 @@
     {
       "rank": 2370,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/EgmBmk7d8Yc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=EgmBmk7d8Yc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Skoop On Somebody 『sha la la』20years Anniversary Ver. @Skoop_jp",
-        "url": "https://www.youtube.com/watch?v=EgmBmk7d8Yc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Skoop On Somebody Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCtr75Wo99ukRQ1SgHBbdDxQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-10-17",
-      "viewCount": "1329万",
-      "likeCount": "6.26万",
-      "commentCount": "2068"
-    },
-    {
-      "rank": 2371,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/XRnX65LDRoU/default.jpg",
         "url": "https://www.youtube.com/watch?v=XRnX65LDRoU",
         "target": "_blank"
@@ -459,8 +437,30 @@
       },
       "publishedAt": "2009-07-02",
       "viewCount": "1860万",
+      "likeCount": "6.27万",
+      "commentCount": "2497"
+    },
+    {
+      "rank": 2371,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/EgmBmk7d8Yc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=EgmBmk7d8Yc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Skoop On Somebody 『sha la la』20years Anniversary Ver. @Skoop_jp",
+        "url": "https://www.youtube.com/watch?v=EgmBmk7d8Yc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Skoop On Somebody Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCtr75Wo99ukRQ1SgHBbdDxQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-10-17",
+      "viewCount": "1330万",
       "likeCount": "6.26万",
-      "commentCount": "2495"
+      "commentCount": "2069"
     },
     {
       "rank": 2372,
@@ -481,11 +481,33 @@
       },
       "publishedAt": "2014-04-08",
       "viewCount": "1108万",
-      "likeCount": "6.24万",
-      "commentCount": "2530"
+      "likeCount": "6.25万",
+      "commentCount": "2531"
     },
     {
       "rank": 2373,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/-3RyqCAJkRU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=-3RyqCAJkRU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "モーニング娘。 『ザ☆ピ〜ス！』 (MV)",
+        "url": "https://www.youtube.com/watch?v=-3RyqCAJkRU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "モーニング娘。",
+        "url": "https://www.youtube.com/channel/UCoKXb95K5h3sME3c9OCBaeA",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-10-18",
+      "viewCount": "1873万",
+      "likeCount": "6.24万",
+      "commentCount": "4562"
+    },
+    {
+      "rank": 2374,
       "thumb": {
         "img": "https://i.ytimg.com/vi/heqtvGnFDyA/default.jpg",
         "url": "https://www.youtube.com/watch?v=heqtvGnFDyA",
@@ -505,28 +527,6 @@
       "viewCount": "1352万",
       "likeCount": "6.24万",
       "commentCount": "1721"
-    },
-    {
-      "rank": 2374,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/-3RyqCAJkRU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=-3RyqCAJkRU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "モーニング娘。 『ザ☆ピ〜ス！』 (MV)",
-        "url": "https://www.youtube.com/watch?v=-3RyqCAJkRU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "モーニング娘。",
-        "url": "https://www.youtube.com/channel/UCoKXb95K5h3sME3c9OCBaeA",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-10-18",
-      "viewCount": "1872万",
-      "likeCount": "6.24万",
-      "commentCount": "4562"
     },
     {
       "rank": 2375,
@@ -568,7 +568,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-05",
-      "viewCount": "1553万",
+      "viewCount": "1554万",
       "likeCount": "6.24万",
       "commentCount": "1037"
     },
@@ -592,32 +592,10 @@
       "publishedAt": "2014-05-04",
       "viewCount": "2129万",
       "likeCount": "6.24万",
-      "commentCount": "2021"
+      "commentCount": "2022"
     },
     {
       "rank": 2378,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/G9YgNxMB9Uo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=G9YgNxMB9Uo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "竹原ピストル ／よー、そこの若いの (Short Ver.)",
-        "url": "https://www.youtube.com/watch?v=G9YgNxMB9Uo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Victor Entertainment",
-        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-11-12",
-      "viewCount": "1377万",
-      "likeCount": "6.22万",
-      "commentCount": "3071"
-    },
-    {
-      "rank": 2379,
       "thumb": {
         "img": "https://i.ytimg.com/vi/7awhzclrBMc/default.jpg",
         "url": "https://www.youtube.com/watch?v=7awhzclrBMc",
@@ -639,7 +617,7 @@
       "commentCount": "2357"
     },
     {
-      "rank": 2380,
+      "rank": 2379,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qM_FepDsJ-Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=qM_FepDsJ-Q",
@@ -656,34 +634,34 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-27",
-      "viewCount": "1074万",
+      "viewCount": "1075万",
       "likeCount": "6.22万",
-      "commentCount": "3533"
+      "commentCount": "3536"
     },
     {
-      "rank": 2381,
+      "rank": 2380,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/2WY1wrwpd3k/default.jpg",
-        "url": "https://www.youtube.com/watch?v=2WY1wrwpd3k",
+        "img": "https://i.ytimg.com/vi/G9YgNxMB9Uo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=G9YgNxMB9Uo",
         "target": "_blank"
       },
       "title": {
-        "text": "BUMP OF CHICKEN「記念撮影」",
-        "url": "https://www.youtube.com/watch?v=2WY1wrwpd3k",
+        "text": "竹原ピストル ／よー、そこの若いの (Short Ver.)",
+        "url": "https://www.youtube.com/watch?v=G9YgNxMB9Uo",
         "target": "_blank"
       },
       "channel": {
-        "text": "BUMP OF CHICKEN",
-        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
+        "text": "Victor Entertainment",
+        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
         "target": "_blank"
       },
-      "publishedAt": "2017-11-21",
-      "viewCount": "1266万",
-      "likeCount": "6.21万",
-      "commentCount": "3089"
+      "publishedAt": "2015-11-12",
+      "viewCount": "1377万",
+      "likeCount": "6.22万",
+      "commentCount": "3070"
     },
     {
-      "rank": 2382,
+      "rank": 2381,
       "thumb": {
         "img": "https://i.ytimg.com/vi/LV2YZetiyHE/default.jpg",
         "url": "https://www.youtube.com/watch?v=LV2YZetiyHE",
@@ -703,6 +681,28 @@
       "viewCount": "1176万",
       "likeCount": "6.21万",
       "commentCount": "1.9万"
+    },
+    {
+      "rank": 2382,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/2WY1wrwpd3k/default.jpg",
+        "url": "https://www.youtube.com/watch?v=2WY1wrwpd3k",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BUMP OF CHICKEN「記念撮影」",
+        "url": "https://www.youtube.com/watch?v=2WY1wrwpd3k",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BUMP OF CHICKEN",
+        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-11-21",
+      "viewCount": "1266万",
+      "likeCount": "6.21万",
+      "commentCount": "3089"
     },
     {
       "rank": 2383,
@@ -745,7 +745,7 @@
       },
       "publishedAt": "2014-04-11",
       "viewCount": "1748万",
-      "likeCount": "6.2万",
+      "likeCount": "6.21万",
       "commentCount": "2722"
     },
     {
@@ -795,6 +795,28 @@
     {
       "rank": 2387,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/rBX5YGPNDbs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=rBX5YGPNDbs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[Official Music Video]  Perfume「Dream Fighter」",
+        "url": "https://www.youtube.com/watch?v=rBX5YGPNDbs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Perfume",
+        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-06-18",
+      "viewCount": "1567万",
+      "likeCount": "6.17万",
+      "commentCount": "2674"
+    },
+    {
+      "rank": 2388,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/cxdi-7S4pOE/default.jpg",
         "url": "https://www.youtube.com/watch?v=cxdi-7S4pOE",
         "target": "_blank"
@@ -815,7 +837,7 @@
       "commentCount": "2084"
     },
     {
-      "rank": 2388,
+      "rank": 2389,
       "thumb": {
         "img": "https://i.ytimg.com/vi/xOF65F9FHqE/default.jpg",
         "url": "https://www.youtube.com/watch?v=xOF65F9FHqE",
@@ -832,31 +854,9 @@
         "target": "_blank"
       },
       "publishedAt": "2014-08-23",
-      "viewCount": "1180万",
-      "likeCount": "6.15万",
-      "commentCount": "1554"
-    },
-    {
-      "rank": 2389,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/rBX5YGPNDbs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=rBX5YGPNDbs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[Official Music Video]  Perfume「Dream Fighter」",
-        "url": "https://www.youtube.com/watch?v=rBX5YGPNDbs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Perfume",
-        "url": "https://www.youtube.com/channel/UCxOjoraUPd0Dq9PAyIhC6tQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-06-18",
-      "viewCount": "1567万",
-      "likeCount": "6.15万",
-      "commentCount": "2658"
+      "viewCount": "1181万",
+      "likeCount": "6.16万",
+      "commentCount": "1556"
     },
     {
       "rank": 2390,
@@ -878,7 +878,7 @@
       "publishedAt": "2022-05-17",
       "viewCount": "2999万",
       "likeCount": "6.14万",
-      "commentCount": "4491"
+      "commentCount": "4492"
     },
     {
       "rank": 2391,
@@ -922,7 +922,7 @@
       "publishedAt": "2009-06-27",
       "viewCount": "1086万",
       "likeCount": "6.13万",
-      "commentCount": "3216"
+      "commentCount": "3218"
     },
     {
       "rank": 2393,
@@ -942,9 +942,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-03-04",
-      "viewCount": "1934万",
+      "viewCount": "1937万",
       "likeCount": "6.11万",
-      "commentCount": "1331"
+      "commentCount": "1336"
     },
     {
       "rank": 2394,
@@ -986,9 +986,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-27",
-      "viewCount": "1427万",
+      "viewCount": "1429万",
       "likeCount": "6.08万",
-      "commentCount": "1092"
+      "commentCount": "1094"
     },
     {
       "rank": 2396,
@@ -1054,7 +1054,7 @@
       "publishedAt": "2013-04-22",
       "viewCount": "2493万",
       "likeCount": "6.07万",
-      "commentCount": "3271"
+      "commentCount": "3272"
     },
     {
       "rank": 2399,
@@ -1081,24 +1081,24 @@
     {
       "rank": 2400,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/wFKvOPQyVL0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=wFKvOPQyVL0",
+        "img": "https://i.ytimg.com/vi/sAerCLnlShg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=sAerCLnlShg",
         "target": "_blank"
       },
       "title": {
-        "text": "KICK THE CAN CREW「千％」MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=wFKvOPQyVL0",
+        "text": "倖田來未-KODA KUMI-『め組のひと』～ 20th Year Special Full Ver. ～",
+        "url": "https://www.youtube.com/watch?v=sAerCLnlShg",
         "target": "_blank"
       },
       "channel": {
-        "text": "Victor Entertainment",
-        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
+        "text": "倖田來未",
+        "url": "https://www.youtube.com/channel/UCCI_DJ1Q-WYGS8bVXsW_V5w",
         "target": "_blank"
       },
-      "publishedAt": "2017-06-18",
-      "viewCount": "1124万",
+      "publishedAt": "2020-05-22",
+      "viewCount": "1232万",
       "likeCount": "6.05万",
-      "commentCount": "3106"
+      "commentCount": "1751"
     }
   ]
 }

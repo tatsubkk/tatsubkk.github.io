@@ -1,7 +1,7 @@
 {
   "rows": [
     {
-      "rank": 1601,
+      "rank": 1600,
       "thumb": {
         "img": "https://i.ytimg.com/vi/m4vjI6InDJM/default.jpg",
         "url": "https://www.youtube.com/watch?v=m4vjI6InDJM",
@@ -18,9 +18,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-26",
-      "viewCount": "1210万",
+      "viewCount": "1211万",
       "likeCount": "10.1万",
-      "commentCount": "5500"
+      "commentCount": "5501"
     },
     {
       "rank": 1602,
@@ -62,7 +62,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-18",
-      "viewCount": "1604万",
+      "viewCount": "1605万",
       "likeCount": "22.7万",
       "commentCount": "5481"
     },
@@ -106,7 +106,7 @@
         "target": "_blank"
       },
       "publishedAt": "2025-05-18",
-      "viewCount": "1543万",
+      "viewCount": "1545万",
       "likeCount": "21.7万",
       "commentCount": "5475"
     },
@@ -128,9 +128,9 @@
         "target": "_blank"
       },
       "publishedAt": "2017-07-13",
-      "viewCount": "4602万",
+      "viewCount": "4604万",
       "likeCount": "27.8万",
-      "commentCount": "5473"
+      "commentCount": "5474"
     },
     {
       "rank": 1607,
@@ -157,6 +157,28 @@
     {
       "rank": 1608,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/ih6_xNsensA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ih6_xNsensA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "玉置浩二 『メロディー』Live at Tokyo International Forum 1997/11/22",
+        "url": "https://www.youtube.com/watch?v=ih6_xNsensA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "玉置浩二 Koji Tamaki Official",
+        "url": "https://www.youtube.com/channel/UC5cN28RtvGgmDQj46HcV3Tw",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-03-19",
+      "viewCount": "5271万",
+      "likeCount": "15.9万",
+      "commentCount": "5454"
+    },
+    {
+      "rank": 1609,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/0pQzSpOEBms/default.jpg",
         "url": "https://www.youtube.com/watch?v=0pQzSpOEBms",
         "target": "_blank"
@@ -177,7 +199,7 @@
       "commentCount": "5452"
     },
     {
-      "rank": 1609,
+      "rank": 1610,
       "thumb": {
         "img": "https://i.ytimg.com/vi/EEWVJ4RZ4Xg/default.jpg",
         "url": "https://www.youtube.com/watch?v=EEWVJ4RZ4Xg",
@@ -194,30 +216,8 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-03",
-      "viewCount": "1355万",
+      "viewCount": "1356万",
       "likeCount": "11万",
-      "commentCount": "5449"
-    },
-    {
-      "rank": 1609,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ih6_xNsensA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ih6_xNsensA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "玉置浩二 『メロディー』Live at Tokyo International Forum 1997/11/22",
-        "url": "https://www.youtube.com/watch?v=ih6_xNsensA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "玉置浩二 Koji Tamaki Official",
-        "url": "https://www.youtube.com/channel/UC5cN28RtvGgmDQj46HcV3Tw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-03-19",
-      "viewCount": "5268万",
-      "likeCount": "15.9万",
       "commentCount": "5449"
     },
     {
@@ -260,9 +260,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-29",
-      "viewCount": "3242万",
+      "viewCount": "3244万",
       "likeCount": "30.5万",
-      "commentCount": "5438"
+      "commentCount": "5439"
     },
     {
       "rank": 1613,
@@ -282,9 +282,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-29",
-      "viewCount": "1968万",
+      "viewCount": "1969万",
       "likeCount": "24.9万",
-      "commentCount": "5431"
+      "commentCount": "5432"
     },
     {
       "rank": 1614,
@@ -304,7 +304,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-31",
-      "viewCount": "3732万",
+      "viewCount": "3733万",
       "likeCount": "24.5万",
       "commentCount": "5428"
     },
@@ -326,7 +326,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-24",
-      "viewCount": "2421万",
+      "viewCount": "2422万",
       "likeCount": "21.7万",
       "commentCount": "5426"
     },
@@ -350,7 +350,7 @@
       "publishedAt": "2021-07-02",
       "viewCount": "1577万",
       "likeCount": "8.6万",
-      "commentCount": "5423"
+      "commentCount": "5424"
     },
     {
       "rank": 1617,
@@ -372,7 +372,7 @@
       "publishedAt": "2023-03-31",
       "viewCount": "1407万",
       "likeCount": "-",
-      "commentCount": "5420"
+      "commentCount": "5419"
     },
     {
       "rank": 1618,
@@ -392,9 +392,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-02",
-      "viewCount": "3469万",
+      "viewCount": "3470万",
       "likeCount": "25.1万",
-      "commentCount": "5404"
+      "commentCount": "5406"
     },
     {
       "rank": 1619,
@@ -416,7 +416,7 @@
       "publishedAt": "2018-09-23",
       "viewCount": "1067万",
       "likeCount": "6.8万",
-      "commentCount": "5393"
+      "commentCount": "5394"
     },
     {
       "rank": 1620,
@@ -438,7 +438,7 @@
       "publishedAt": "2022-03-19",
       "viewCount": "1514万",
       "likeCount": "17.9万",
-      "commentCount": "5386"
+      "commentCount": "5388"
     },
     {
       "rank": 1621,
@@ -458,7 +458,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-19",
-      "viewCount": "1280万",
+      "viewCount": "1281万",
       "likeCount": "21.4万",
       "commentCount": "5383"
     },
@@ -480,9 +480,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-19",
-      "viewCount": "2864万",
+      "viewCount": "2866万",
       "likeCount": "13.5万",
-      "commentCount": "5371"
+      "commentCount": "5376"
     },
     {
       "rank": 1623,
@@ -524,9 +524,9 @@
         "target": "_blank"
       },
       "publishedAt": "2016-10-07",
-      "viewCount": "3147万",
+      "viewCount": "3148万",
       "likeCount": "17.4万",
-      "commentCount": "5362"
+      "commentCount": "5363"
     },
     {
       "rank": 1625,
@@ -547,8 +547,30 @@
       },
       "publishedAt": "2011-09-28",
       "viewCount": "2199万",
-      "likeCount": "11.2万",
+      "likeCount": "11.3万",
       "commentCount": "5361"
+    },
+    {
+      "rank": 1626,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/XCLajejueU0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=XCLajejueU0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【オトナブルー 】Dance Practice　ATARASHII GAKKO!",
+        "url": "https://www.youtube.com/watch?v=XCLajejueU0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ATARASHII GAKKO! - 新しい学校のリーダーズ",
+        "url": "https://www.youtube.com/channel/UCp0iCvHGMwyfPHpYq7n2sPw",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-02-09",
+      "viewCount": "1408万",
+      "likeCount": "19.6万",
+      "commentCount": "5351"
     },
     {
       "rank": 1626,
@@ -570,28 +592,6 @@
       "publishedAt": "2019-03-05",
       "viewCount": "2527万",
       "likeCount": "12.4万",
-      "commentCount": "5352"
-    },
-    {
-      "rank": 1627,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/XCLajejueU0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=XCLajejueU0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【オトナブルー 】Dance Practice　ATARASHII GAKKO!",
-        "url": "https://www.youtube.com/watch?v=XCLajejueU0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ATARASHII GAKKO! - 新しい学校のリーダーズ",
-        "url": "https://www.youtube.com/channel/UCp0iCvHGMwyfPHpYq7n2sPw",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-02-09",
-      "viewCount": "1407万",
-      "likeCount": "19.6万",
       "commentCount": "5351"
     },
     {
@@ -612,7 +612,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-11",
-      "viewCount": "1619万",
+      "viewCount": "1620万",
       "likeCount": "9.3万",
       "commentCount": "5348"
     },
@@ -636,7 +636,7 @@
       "publishedAt": "2011-02-18",
       "viewCount": "2464万",
       "likeCount": "8.1万",
-      "commentCount": "5340"
+      "commentCount": "5342"
     },
     {
       "rank": 1630,
@@ -678,9 +678,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-21",
-      "viewCount": "1661万",
+      "viewCount": "1662万",
       "likeCount": "21.5万",
-      "commentCount": "5335"
+      "commentCount": "5334"
     },
     {
       "rank": 1632,
@@ -700,12 +700,12 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-08",
-      "viewCount": "4907万",
+      "viewCount": "4909万",
       "likeCount": "24.4万",
-      "commentCount": "5314"
+      "commentCount": "5315"
     },
     {
-      "rank": 1632,
+      "rank": 1633,
       "thumb": {
         "img": "https://i.ytimg.com/vi/D_tyCTZT-a0/default.jpg",
         "url": "https://www.youtube.com/watch?v=D_tyCTZT-a0",
@@ -744,31 +744,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-24",
-      "viewCount": "1665万",
+      "viewCount": "1666万",
       "likeCount": "30.5万",
-      "commentCount": "5313"
-    },
-    {
-      "rank": 1635,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/JKhw0CKEhMk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=JKhw0CKEhMk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Little Glee Monster 『世界はあなたに笑いかけている』Short Ver.",
-        "url": "https://www.youtube.com/watch?v=JKhw0CKEhMk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "LittleGleeMonsterYT",
-        "url": "https://www.youtube.com/channel/UCC2M6-jBjWuVtrTZZg-ymjg",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-07-05",
-      "viewCount": "2366万",
-      "likeCount": "9.9万",
-      "commentCount": "5302"
+      "commentCount": "5310"
     },
     {
       "rank": 1635,
@@ -788,56 +766,34 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-19",
-      "viewCount": "1997万",
+      "viewCount": "1998万",
       "likeCount": "27.1万",
-      "commentCount": "5302"
+      "commentCount": "5304"
+    },
+    {
+      "rank": 1636,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/JKhw0CKEhMk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=JKhw0CKEhMk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Little Glee Monster 『世界はあなたに笑いかけている』Short Ver.",
+        "url": "https://www.youtube.com/watch?v=JKhw0CKEhMk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "LittleGleeMonsterYT",
+        "url": "https://www.youtube.com/channel/UCC2M6-jBjWuVtrTZZg-ymjg",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-07-05",
+      "viewCount": "2366万",
+      "likeCount": "9.9万",
+      "commentCount": "5303"
     },
     {
       "rank": 1637,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/6np6Qt42WfU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=6np6Qt42WfU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "AAA / 「LOVER」Music Video",
-        "url": "https://www.youtube.com/watch?v=6np6Qt42WfU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-07-23",
-      "viewCount": "4030万",
-      "likeCount": "10.7万",
-      "commentCount": "5297"
-    },
-    {
-      "rank": 1638,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/GVrRXhS0mLs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=GVrRXhS0mLs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ヨルシカ - 風を食む（OFFICIAL VIDEO）",
-        "url": "https://www.youtube.com/watch?v=GVrRXhS0mLs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ヨルシカ / n-buna Official",
-        "url": "https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-11-12",
-      "viewCount": "1680万",
-      "likeCount": "18万",
-      "commentCount": "5296"
-    },
-    {
-      "rank": 1638,
       "thumb": {
         "img": "https://i.ytimg.com/vi/klmgrpoqisQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=klmgrpoqisQ",
@@ -856,54 +812,54 @@
       "publishedAt": "2011-12-21",
       "viewCount": "1823万",
       "likeCount": "7.3万",
+      "commentCount": "5299"
+    },
+    {
+      "rank": 1638,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/6np6Qt42WfU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=6np6Qt42WfU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "AAA / 「LOVER」Music Video",
+        "url": "https://www.youtube.com/watch?v=6np6Qt42WfU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-07-23",
+      "viewCount": "4031万",
+      "likeCount": "10.7万",
+      "commentCount": "5297"
+    },
+    {
+      "rank": 1639,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/GVrRXhS0mLs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=GVrRXhS0mLs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ヨルシカ - 風を食む（OFFICIAL VIDEO）",
+        "url": "https://www.youtube.com/watch?v=GVrRXhS0mLs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ヨルシカ / n-buna Official",
+        "url": "https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-11-12",
+      "viewCount": "1681万",
+      "likeCount": "18万",
       "commentCount": "5296"
     },
     {
-      "rank": 1640,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/0yoM7ETNPIY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=0yoM7ETNPIY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "YOASOBI「セブンティーン」Official Music Video",
-        "url": "https://www.youtube.com/watch?v=0yoM7ETNPIY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ayase / YOASOBI",
-        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-03-27",
-      "viewCount": "3729万",
-      "likeCount": "28.6万",
-      "commentCount": "5295"
-    },
-    {
-      "rank": 1641,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ZvFs03X944E/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ZvFs03X944E",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BUMP OF CHICKEN「なないろ」",
-        "url": "https://www.youtube.com/watch?v=ZvFs03X944E",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BUMP OF CHICKEN",
-        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-05-17",
-      "viewCount": "1637万",
-      "likeCount": "13.3万",
-      "commentCount": "5294"
-    },
-    {
-      "rank": 1642,
+      "rank": 1639,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ye1YacA8HvE/default.jpg",
         "url": "https://www.youtube.com/watch?v=ye1YacA8HvE",
@@ -920,9 +876,31 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-13",
-      "viewCount": "3461万",
+      "viewCount": "3462万",
       "likeCount": "20万",
-      "commentCount": "5292"
+      "commentCount": "5296"
+    },
+    {
+      "rank": 1639,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/0yoM7ETNPIY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=0yoM7ETNPIY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "YOASOBI「セブンティーン」Official Music Video",
+        "url": "https://www.youtube.com/watch?v=0yoM7ETNPIY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ayase / YOASOBI",
+        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-03-27",
+      "viewCount": "3731万",
+      "likeCount": "28.6万",
+      "commentCount": "5296"
     },
     {
       "rank": 1642,
@@ -942,9 +920,31 @@
         "target": "_blank"
       },
       "publishedAt": "2008-12-08",
-      "viewCount": "3623万",
+      "viewCount": "3624万",
       "likeCount": "12.1万",
-      "commentCount": "5292"
+      "commentCount": "5294"
+    },
+    {
+      "rank": 1643,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ZvFs03X944E/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ZvFs03X944E",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BUMP OF CHICKEN「なないろ」",
+        "url": "https://www.youtube.com/watch?v=ZvFs03X944E",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BUMP OF CHICKEN",
+        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-05-17",
+      "viewCount": "1638万",
+      "likeCount": "13.3万",
+      "commentCount": "5293"
     },
     {
       "rank": 1644,
@@ -964,7 +964,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-17",
-      "viewCount": "2365万",
+      "viewCount": "2366万",
       "likeCount": "18.7万",
       "commentCount": "5286"
     },
@@ -986,9 +986,9 @@
         "target": "_blank"
       },
       "publishedAt": "2009-07-01",
-      "viewCount": "3109万",
+      "viewCount": "3111万",
       "likeCount": "13万",
-      "commentCount": "5283"
+      "commentCount": "5284"
     },
     {
       "rank": 1646,
@@ -1008,7 +1008,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-06",
-      "viewCount": "2709万",
+      "viewCount": "2710万",
       "likeCount": "24.6万",
       "commentCount": "5278"
     },
@@ -1030,7 +1030,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-07",
-      "viewCount": "1769万",
+      "viewCount": "1770万",
       "likeCount": "17.1万",
       "commentCount": "5276"
     },
@@ -1076,7 +1076,7 @@
       "publishedAt": "2015-02-03",
       "viewCount": "2119万",
       "likeCount": "19.8万",
-      "commentCount": "5266"
+      "commentCount": "5267"
     },
     {
       "rank": 1650,
@@ -1096,9 +1096,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-09",
-      "viewCount": "5985万",
+      "viewCount": "5987万",
       "likeCount": "32.2万",
-      "commentCount": "5259"
+      "commentCount": "5260"
     }
   ]
 }

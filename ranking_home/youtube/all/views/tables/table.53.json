@@ -21,7 +21,7 @@
       "viewCount": "1320万",
       "likeCount": "4.6万",
       "commentCount": "1176",
-      "increment_d1": "1864"
+      "increment_d1": "1931"
     },
     {
       "rank": 2602,
@@ -44,7 +44,7 @@
       "viewCount": "1320万",
       "likeCount": "5.5万",
       "commentCount": "2304",
-      "increment_d1": "1366"
+      "increment_d1": "1899"
     },
     {
       "rank": 2603,
@@ -67,7 +67,7 @@
       "viewCount": "1320万",
       "likeCount": "14.2万",
       "commentCount": "9360",
-      "increment_d1": "765"
+      "increment_d1": "704"
     },
     {
       "rank": 2604,
@@ -90,7 +90,7 @@
       "viewCount": "1320万",
       "likeCount": "41.8万",
       "commentCount": "2.3万",
-      "increment_d1": "805"
+      "increment_d1": "933"
     },
     {
       "rank": 2605,
@@ -113,10 +113,56 @@
       "viewCount": "1319万",
       "likeCount": "8万",
       "commentCount": "3860",
-      "increment_d1": "1161"
+      "increment_d1": "1347"
     },
     {
       "rank": 2606,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/aST9jsNSigY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=aST9jsNSigY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Saucy Dog「シーグラス」Music Video ＜4th Mini Album「テイクミー」2020.9.2 Release＞",
+        "url": "https://www.youtube.com/watch?v=aST9jsNSigY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Saucy Dog",
+        "url": "https://www.youtube.com/channel/UCs8nP5mUR3pwJmgixsul8Hw",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-07-14",
+      "viewCount": "1319万",
+      "likeCount": "9.7万",
+      "commentCount": "2291",
+      "increment_d1": "5290"
+    },
+    {
+      "rank": 2607,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/hYUrBTYuhAQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=hYUrBTYuhAQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "森高千里 『渡良瀬橋』 (PV)",
+        "url": "https://www.youtube.com/watch?v=hYUrBTYuhAQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "森高千里",
+        "url": "https://www.youtube.com/channel/UCepP0D-CPRIYAg1_A579VSQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-05-24",
+      "viewCount": "1319万",
+      "likeCount": "4.5万",
+      "commentCount": "1936",
+      "increment_d1": "5127"
+    },
+    {
+      "rank": 2608,
       "thumb": {
         "img": "https://i.ytimg.com/vi/0NqXqqAYbyc/default.jpg",
         "url": "https://www.youtube.com/watch?v=0NqXqqAYbyc",
@@ -133,13 +179,13 @@
         "target": "_blank"
       },
       "publishedAt": "2011-06-29",
-      "viewCount": "1318万",
+      "viewCount": "1319万",
       "likeCount": "4.9万",
       "commentCount": "1660",
-      "increment_d1": "2390"
+      "increment_d1": "2480"
     },
     {
-      "rank": 2607,
+      "rank": 2609,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ZfBHMucSxCA/default.jpg",
         "url": "https://www.youtube.com/watch?v=ZfBHMucSxCA",
@@ -159,53 +205,7 @@
       "viewCount": "1318万",
       "likeCount": "16.4万",
       "commentCount": "5527",
-      "increment_d1": "872"
-    },
-    {
-      "rank": 2608,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/aST9jsNSigY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=aST9jsNSigY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Saucy Dog「シーグラス」Music Video ＜4th Mini Album「テイクミー」2020.9.2 Release＞",
-        "url": "https://www.youtube.com/watch?v=aST9jsNSigY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Saucy Dog",
-        "url": "https://www.youtube.com/channel/UCs8nP5mUR3pwJmgixsul8Hw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-07-14",
-      "viewCount": "1318万",
-      "likeCount": "9.7万",
-      "commentCount": "2290",
-      "increment_d1": "4638"
-    },
-    {
-      "rank": 2609,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/hYUrBTYuhAQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=hYUrBTYuhAQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "森高千里 『渡良瀬橋』 (PV)",
-        "url": "https://www.youtube.com/watch?v=hYUrBTYuhAQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "森高千里",
-        "url": "https://www.youtube.com/channel/UCepP0D-CPRIYAg1_A579VSQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-05-24",
-      "viewCount": "1318万",
-      "likeCount": "4.5万",
-      "commentCount": "1935",
-      "increment_d1": "5105"
+      "increment_d1": "819"
     },
     {
       "rank": 2610,
@@ -228,7 +228,7 @@
       "viewCount": "1316万",
       "likeCount": "7.2万",
       "commentCount": "1.3万",
-      "increment_d1": "8731"
+      "increment_d1": "8327"
     },
     {
       "rank": 2611,
@@ -248,13 +248,36 @@
         "target": "_blank"
       },
       "publishedAt": "2008-12-08",
-      "viewCount": "1315万",
+      "viewCount": "1316万",
       "likeCount": "3.6万",
       "commentCount": "1573",
-      "increment_d1": "1333"
+      "increment_d1": "1375"
     },
     {
       "rank": 2612,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/PKwj658pfU4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=PKwj658pfU4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "とんとんとんとん　ひげじいさん　～ののちゃん　はじめてのレコーディング",
+        "url": "https://www.youtube.com/watch?v=PKwj658pfU4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "KING RECORDS",
+        "url": "https://www.youtube.com/channel/UC6KEU5-KSTszEOOnAl8ZwPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-03-23",
+      "viewCount": "1314万",
+      "likeCount": "3.7万",
+      "commentCount": "-",
+      "increment_d1": "9240"
+    },
+    {
+      "rank": 2613,
       "thumb": {
         "img": "https://i.ytimg.com/vi/PR52T_fpWO4/default.jpg",
         "url": "https://www.youtube.com/watch?v=PR52T_fpWO4",
@@ -274,53 +297,30 @@
       "viewCount": "1314万",
       "likeCount": "11万",
       "commentCount": "3421",
-      "increment_d1": "784"
-    },
-    {
-      "rank": 2613,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/PKwj658pfU4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=PKwj658pfU4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "とんとんとんとん　ひげじいさん　～ののちゃん　はじめてのレコーディング",
-        "url": "https://www.youtube.com/watch?v=PKwj658pfU4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "KING RECORDS",
-        "url": "https://www.youtube.com/channel/UC6KEU5-KSTszEOOnAl8ZwPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-03-23",
-      "viewCount": "1313万",
-      "likeCount": "3.7万",
-      "commentCount": "-",
-      "increment_d1": "7386"
+      "increment_d1": "1214"
     },
     {
       "rank": 2614,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/IITjr6Ysh60/default.jpg",
-        "url": "https://www.youtube.com/watch?v=IITjr6Ysh60",
+        "img": "https://i.ytimg.com/vi/Go_OV-ifSmI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Go_OV-ifSmI",
         "target": "_blank"
       },
       "title": {
-        "text": "UVERworld　『D-tecnoLife』",
-        "url": "https://www.youtube.com/watch?v=IITjr6Ysh60",
+        "text": "シンガーズハイ「ノールス」Music Video",
+        "url": "https://www.youtube.com/watch?v=Go_OV-ifSmI",
         "target": "_blank"
       },
       "channel": {
-        "text": "UVERworld Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCnziFQs4Ihms4UtxmVZP6cg",
+        "text": "シンガーズハイ(Singer's High)",
+        "url": "https://www.youtube.com/channel/UCbTo0SOvLMMYhlGAVg6Pkzw",
         "target": "_blank"
       },
-      "publishedAt": "2014-04-11",
+      "publishedAt": "2022-06-07",
       "viewCount": "1313万",
-      "likeCount": "5万",
-      "commentCount": "1250",
-      "increment_d1": "3915"
+      "likeCount": "16.4万",
+      "commentCount": "2490",
+      "increment_d1": "8125"
     },
     {
       "rank": 2615,
@@ -342,34 +342,57 @@
       "publishedAt": "2022-09-09",
       "viewCount": "1313万",
       "likeCount": "7.7万",
-      "commentCount": "1773",
-      "increment_d1": "5341"
+      "commentCount": "1775",
+      "increment_d1": "5929"
     },
     {
       "rank": 2616,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/Go_OV-ifSmI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Go_OV-ifSmI",
+        "img": "https://i.ytimg.com/vi/IITjr6Ysh60/default.jpg",
+        "url": "https://www.youtube.com/watch?v=IITjr6Ysh60",
         "target": "_blank"
       },
       "title": {
-        "text": "シンガーズハイ「ノールス」Music Video",
-        "url": "https://www.youtube.com/watch?v=Go_OV-ifSmI",
+        "text": "UVERworld　『D-tecnoLife』",
+        "url": "https://www.youtube.com/watch?v=IITjr6Ysh60",
         "target": "_blank"
       },
       "channel": {
-        "text": "シンガーズハイ(Singer's High)",
-        "url": "https://www.youtube.com/channel/UCbTo0SOvLMMYhlGAVg6Pkzw",
+        "text": "UVERworld Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCnziFQs4Ihms4UtxmVZP6cg",
         "target": "_blank"
       },
-      "publishedAt": "2022-06-07",
+      "publishedAt": "2014-04-11",
       "viewCount": "1313万",
-      "likeCount": "16.4万",
-      "commentCount": "2490",
-      "increment_d1": "7323"
+      "likeCount": "5万",
+      "commentCount": "1250",
+      "increment_d1": "3898"
     },
     {
       "rank": 2617,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/pb_fwnVamdI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=pb_fwnVamdI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "スカー / キタニタツヤ - Scar / Tatsuya Kitani",
+        "url": "https://www.youtube.com/watch?v=pb_fwnVamdI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "キタニタツヤ / Tatsuya Kitani",
+        "url": "https://www.youtube.com/channel/UCgP3GbgbuVzAhlctGU5yuPA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-11-21",
+      "viewCount": "1313万",
+      "likeCount": "10.4万",
+      "commentCount": "1293",
+      "increment_d1": "6886"
+    },
+    {
+      "rank": 2618,
       "thumb": {
         "img": "https://i.ytimg.com/vi/VKyJrrb0Oi0/default.jpg",
         "url": "https://www.youtube.com/watch?v=VKyJrrb0Oi0",
@@ -389,30 +412,7 @@
       "viewCount": "1313万",
       "likeCount": "4.2万",
       "commentCount": "1215",
-      "increment_d1": "80"
-    },
-    {
-      "rank": 2618,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/pb_fwnVamdI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=pb_fwnVamdI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "スカー / キタニタツヤ - Scar / Tatsuya Kitani",
-        "url": "https://www.youtube.com/watch?v=pb_fwnVamdI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "キタニタツヤ / Tatsuya Kitani",
-        "url": "https://www.youtube.com/channel/UCgP3GbgbuVzAhlctGU5yuPA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-11-21",
-      "viewCount": "1312万",
-      "likeCount": "10.4万",
-      "commentCount": "1293",
-      "increment_d1": "6744"
+      "increment_d1": "54"
     },
     {
       "rank": 2619,
@@ -435,7 +435,7 @@
       "viewCount": "1311万",
       "likeCount": "2.5万",
       "commentCount": "1982",
-      "increment_d1": "2671"
+      "increment_d1": "2770"
     },
     {
       "rank": 2620,
@@ -458,7 +458,7 @@
       "viewCount": "1310万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "433"
+      "increment_d1": "522"
     },
     {
       "rank": 2621,
@@ -480,8 +480,8 @@
       "publishedAt": "2015-07-22",
       "viewCount": "1309万",
       "likeCount": "2万",
-      "commentCount": "551",
-      "increment_d1": "179"
+      "commentCount": "549",
+      "increment_d1": "241"
     },
     {
       "rank": 2622,
@@ -504,7 +504,7 @@
       "viewCount": "1308万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "158"
+      "increment_d1": "142"
     },
     {
       "rank": 2623,
@@ -527,33 +527,10 @@
       "viewCount": "1308万",
       "likeCount": "4万",
       "commentCount": "1062",
-      "increment_d1": "663"
+      "increment_d1": "714"
     },
     {
       "rank": 2624,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ZU58-PZnXOM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ZU58-PZnXOM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "INI | 'Password' Official MV",
-        "url": "https://www.youtube.com/watch?v=ZU58-PZnXOM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "INI",
-        "url": "https://www.youtube.com/channel/UCc-itdQHxLvUlPrDxIiSJrA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-08-08",
-      "viewCount": "1307万",
-      "likeCount": "6.9万",
-      "commentCount": "2.2万",
-      "increment_d1": "733"
-    },
-    {
-      "rank": 2625,
       "thumb": {
         "img": "https://i.ytimg.com/vi/LM7xWeIRrc4/default.jpg",
         "url": "https://www.youtube.com/watch?v=LM7xWeIRrc4",
@@ -570,10 +547,33 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-07",
-      "viewCount": "1307万",
+      "viewCount": "1308万",
       "likeCount": "2.6万",
       "commentCount": "1332",
-      "increment_d1": "1497"
+      "increment_d1": "1552"
+    },
+    {
+      "rank": 2625,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ZU58-PZnXOM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ZU58-PZnXOM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "INI | 'Password' Official MV",
+        "url": "https://www.youtube.com/watch?v=ZU58-PZnXOM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "INI",
+        "url": "https://www.youtube.com/channel/UCc-itdQHxLvUlPrDxIiSJrA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-08-08",
+      "viewCount": "1308万",
+      "likeCount": "6.9万",
+      "commentCount": "2.2万",
+      "increment_d1": "835"
     },
     {
       "rank": 2626,
@@ -596,33 +596,10 @@
       "viewCount": "1307万",
       "likeCount": "9.9万",
       "commentCount": "1927",
-      "increment_d1": "4626"
+      "increment_d1": "4977"
     },
     {
       "rank": 2627,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/LKyx3EYVlkA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=LKyx3EYVlkA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "僕は今日も / Vaundy ：MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=LKyx3EYVlkA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Vaundy",
-        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-02-07",
-      "viewCount": "1306万",
-      "likeCount": "12.8万",
-      "commentCount": "3199",
-      "increment_d1": "2874"
-    },
-    {
-      "rank": 2628,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3xciyxV-UgA/default.jpg",
         "url": "https://www.youtube.com/watch?v=3xciyxV-UgA",
@@ -639,10 +616,33 @@
         "target": "_blank"
       },
       "publishedAt": "2019-11-27",
-      "viewCount": "1306万",
+      "viewCount": "1307万",
       "likeCount": "13.6万",
       "commentCount": "2081",
-      "increment_d1": "5999"
+      "increment_d1": "6256"
+    },
+    {
+      "rank": 2628,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/LKyx3EYVlkA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=LKyx3EYVlkA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "僕は今日も / Vaundy ：MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=LKyx3EYVlkA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Vaundy",
+        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-02-07",
+      "viewCount": "1307万",
+      "likeCount": "12.8万",
+      "commentCount": "3199",
+      "increment_d1": "2918"
     },
     {
       "rank": 2629,
@@ -665,10 +665,33 @@
       "viewCount": "1306万",
       "likeCount": "46.7万",
       "commentCount": "1.9万",
-      "increment_d1": "1127"
+      "increment_d1": "1188"
     },
     {
       "rank": 2630,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/2gc5PR_NbHM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=2gc5PR_NbHM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "サカナクション / アイデンティティ　-Music Video-",
+        "url": "https://www.youtube.com/watch?v=2gc5PR_NbHM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "サカナクション sakanaction",
+        "url": "https://www.youtube.com/channel/UCli_j3KPGhsF1Mv1AK17UPA",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-09-26",
+      "viewCount": "1306万",
+      "likeCount": "6.7万",
+      "commentCount": "550",
+      "increment_d1": "7697"
+    },
+    {
+      "rank": 2631,
       "thumb": {
         "img": "https://i.ytimg.com/vi/0tlGoBxbSeA/default.jpg",
         "url": "https://www.youtube.com/watch?v=0tlGoBxbSeA",
@@ -688,33 +711,33 @@
       "viewCount": "1306万",
       "likeCount": "-",
       "commentCount": "1.4万",
-      "increment_d1": "1801"
-    },
-    {
-      "rank": 2631,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/2gc5PR_NbHM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=2gc5PR_NbHM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "サカナクション / アイデンティティ　-Music Video-",
-        "url": "https://www.youtube.com/watch?v=2gc5PR_NbHM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "サカナクション sakanaction",
-        "url": "https://www.youtube.com/channel/UCli_j3KPGhsF1Mv1AK17UPA",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-09-26",
-      "viewCount": "1305万",
-      "likeCount": "6.7万",
-      "commentCount": "550",
-      "increment_d1": "7187"
+      "increment_d1": "1773"
     },
     {
       "rank": 2632,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/r8yTsDQCfR0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=r8yTsDQCfR0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "aiko- 『KissHug』music video",
+        "url": "https://www.youtube.com/watch?v=r8yTsDQCfR0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "aikoOfficial",
+        "url": "https://www.youtube.com/channel/UCtLQyS4toPOarqufGUxTtIQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-02-25",
+      "viewCount": "1305万",
+      "likeCount": "-",
+      "commentCount": "931",
+      "increment_d1": "9423"
+    },
+    {
+      "rank": 2633,
       "thumb": {
         "img": "https://i.ytimg.com/vi/dZ0Jt1zYj7g/default.jpg",
         "url": "https://www.youtube.com/watch?v=dZ0Jt1zYj7g",
@@ -732,32 +755,9 @@
       },
       "publishedAt": "2020-07-24",
       "viewCount": "1304万",
-      "likeCount": "13.1万",
+      "likeCount": "13.2万",
       "commentCount": "3850",
-      "increment_d1": "955"
-    },
-    {
-      "rank": 2633,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/r8yTsDQCfR0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=r8yTsDQCfR0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "aiko- 『KissHug』music video",
-        "url": "https://www.youtube.com/watch?v=r8yTsDQCfR0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "aikoOfficial",
-        "url": "https://www.youtube.com/channel/UCtLQyS4toPOarqufGUxTtIQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-02-25",
-      "viewCount": "1304万",
-      "likeCount": "-",
-      "commentCount": "930",
-      "increment_d1": "8469"
+      "increment_d1": "856"
     },
     {
       "rank": 2634,
@@ -778,9 +778,9 @@
       },
       "publishedAt": "2018-12-18",
       "viewCount": "1304万",
-      "likeCount": "25.1万",
-      "commentCount": "3683",
-      "increment_d1": "4329"
+      "likeCount": "25.2万",
+      "commentCount": "3684",
+      "increment_d1": "5102"
     },
     {
       "rank": 2635,
@@ -803,7 +803,7 @@
       "viewCount": "1303万",
       "likeCount": "-",
       "commentCount": "7075",
-      "increment_d1": "2555"
+      "increment_d1": "2609"
     },
     {
       "rank": 2636,
@@ -826,7 +826,7 @@
       "viewCount": "1302万",
       "likeCount": "20.2万",
       "commentCount": "6815",
-      "increment_d1": "817"
+      "increment_d1": "730"
     },
     {
       "rank": 2637,
@@ -846,10 +846,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-03-24",
-      "viewCount": "1301万",
+      "viewCount": "1302万",
       "likeCount": "3.7万",
-      "commentCount": "1781",
-      "increment_d1": "1.02万"
+      "commentCount": "1782",
+      "increment_d1": "1.05万"
     },
     {
       "rank": 2638,
@@ -871,8 +871,8 @@
       "publishedAt": "2020-11-12",
       "viewCount": "1301万",
       "likeCount": "53.2万",
-      "commentCount": "8224",
-      "increment_d1": "3343"
+      "commentCount": "8225",
+      "increment_d1": "3263"
     },
     {
       "rank": 2639,
@@ -895,7 +895,7 @@
       "viewCount": "1301万",
       "likeCount": "3.2万",
       "commentCount": "1254",
-      "increment_d1": "1510"
+      "increment_d1": "1541"
     },
     {
       "rank": 2640,
@@ -918,10 +918,33 @@
       "viewCount": "1301万",
       "likeCount": "14.7万",
       "commentCount": "7200",
-      "increment_d1": "3169"
+      "increment_d1": "3286"
     },
     {
       "rank": 2641,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/9gfamY4ABxc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=9gfamY4ABxc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "西野カナ『たとえどんなに...』MV Full",
+        "url": "https://www.youtube.com/watch?v=9gfamY4ABxc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-11-05",
+      "viewCount": "1300万",
+      "likeCount": "3.4万",
+      "commentCount": "980",
+      "increment_d1": "1.52万"
+    },
+    {
+      "rank": 2642,
       "thumb": {
         "img": "https://i.ytimg.com/vi/TCI1oxbVuCk/default.jpg",
         "url": "https://www.youtube.com/watch?v=TCI1oxbVuCk",
@@ -941,10 +964,33 @@
       "viewCount": "1300万",
       "likeCount": "13.6万",
       "commentCount": "2892",
-      "increment_d1": "1536"
+      "increment_d1": "1898"
     },
     {
-      "rank": 2642,
+      "rank": 2643,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/5DNqESedFMk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=5DNqESedFMk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "米津玄師 - さよーならまたいつか！「虎に翼」OPタイトルバック・フル　Kenshi Yonezu - Sayonara, Mata Itsuka !",
+        "url": "https://www.youtube.com/watch?v=5DNqESedFMk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-09-24",
+      "viewCount": "1300万",
+      "likeCount": "9.9万",
+      "commentCount": "2271",
+      "increment_d1": "1.66万"
+    },
+    {
+      "rank": 2644,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Kq80OfINFbI/default.jpg",
         "url": "https://www.youtube.com/watch?v=Kq80OfINFbI",
@@ -964,33 +1010,33 @@
       "viewCount": "1299万",
       "likeCount": "9.5万",
       "commentCount": "4317",
-      "increment_d1": "1680"
+      "increment_d1": "1657"
     },
     {
-      "rank": 2643,
+      "rank": 2645,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/9gfamY4ABxc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=9gfamY4ABxc",
+        "img": "https://i.ytimg.com/vi/fVvjv3xpSMA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=fVvjv3xpSMA",
         "target": "_blank"
       },
       "title": {
-        "text": "西野カナ『たとえどんなに...』MV Full",
-        "url": "https://www.youtube.com/watch?v=9gfamY4ABxc",
+        "text": "HY -「恋をして」(映画『366日』主題歌)  Music Video",
+        "url": "https://www.youtube.com/watch?v=fVvjv3xpSMA",
         "target": "_blank"
       },
       "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "text": "HY Official",
+        "url": "https://www.youtube.com/channel/UCjk0vxDFjZCdiZ6keN1KtgQ",
         "target": "_blank"
       },
-      "publishedAt": "2021-11-05",
+      "publishedAt": "2025-01-07",
       "viewCount": "1299万",
-      "likeCount": "3.4万",
-      "commentCount": "977",
-      "increment_d1": "1.44万"
+      "likeCount": "7万",
+      "commentCount": "1952",
+      "increment_d1": "1.7万"
     },
     {
-      "rank": 2644,
+      "rank": 2646,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qMKlj_1zbYc/default.jpg",
         "url": "https://www.youtube.com/watch?v=qMKlj_1zbYc",
@@ -1010,10 +1056,10 @@
       "viewCount": "1299万",
       "likeCount": "16.9万",
       "commentCount": "7909",
-      "increment_d1": "2551"
+      "increment_d1": "2670"
     },
     {
-      "rank": 2645,
+      "rank": 2647,
       "thumb": {
         "img": "https://i.ytimg.com/vi/s8j9hva3luI/default.jpg",
         "url": "https://www.youtube.com/watch?v=s8j9hva3luI",
@@ -1033,33 +1079,10 @@
       "viewCount": "1298万",
       "likeCount": "7.8万",
       "commentCount": "1.1万",
-      "increment_d1": "549"
+      "increment_d1": "560"
     },
     {
-      "rank": 2646,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/5DNqESedFMk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=5DNqESedFMk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "米津玄師 - さよーならまたいつか！「虎に翼」OPタイトルバック・フル　Kenshi Yonezu - Sayonara, Mata Itsuka !",
-        "url": "https://www.youtube.com/watch?v=5DNqESedFMk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-09-24",
-      "viewCount": "1298万",
-      "likeCount": "9.9万",
-      "commentCount": "2271",
-      "increment_d1": "1.6万"
-    },
-    {
-      "rank": 2647,
+      "rank": 2648,
       "thumb": {
         "img": "https://i.ytimg.com/vi/-YlXmzbNuVE/default.jpg",
         "url": "https://www.youtube.com/watch?v=-YlXmzbNuVE",
@@ -1079,30 +1102,7 @@
       "viewCount": "1298万",
       "likeCount": "18.2万",
       "commentCount": "-",
-      "increment_d1": "148"
-    },
-    {
-      "rank": 2648,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/fVvjv3xpSMA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=fVvjv3xpSMA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "HY -「恋をして」(映画『366日』主題歌)  Music Video",
-        "url": "https://www.youtube.com/watch?v=fVvjv3xpSMA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "HY Official",
-        "url": "https://www.youtube.com/channel/UCjk0vxDFjZCdiZ6keN1KtgQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-01-07",
-      "viewCount": "1297万",
-      "likeCount": "7万",
-      "commentCount": "1950",
-      "increment_d1": "1.61万"
+      "increment_d1": "213"
     },
     {
       "rank": 2649,
@@ -1122,10 +1122,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-02-13",
-      "viewCount": "1296万",
+      "viewCount": "1298万",
       "likeCount": "6万",
-      "commentCount": "1361",
-      "increment_d1": "1.14万"
+      "commentCount": "1363",
+      "increment_d1": "1.23万"
     },
     {
       "rank": 2650,
@@ -1148,7 +1148,7 @@
       "viewCount": "1295万",
       "likeCount": "3.3万",
       "commentCount": "5988",
-      "increment_d1": "249"
+      "increment_d1": "331"
     }
   ]
 }
