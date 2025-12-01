@@ -25,6 +25,50 @@
     {
       "rank": 1452,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/q6Ylz-EhtDo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=q6Ylz-EhtDo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SEKAI NO OWARI「プレゼント」",
+        "url": "https://www.youtube.com/watch?v=q6Ylz-EhtDo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "sekainoowarijp",
+        "url": "https://www.youtube.com/channel/UCOYmRdtvvcQPspSmW8QsJhQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-12-31",
+      "viewCount": "1987万",
+      "likeCount": "13.2万",
+      "commentCount": "6387"
+    },
+    {
+      "rank": 1453,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/exOi_zsOHwM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=exOi_zsOHwM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ぼくらの (Bokurano) - Eve Music Video",
+        "url": "https://www.youtube.com/watch?v=exOi_zsOHwM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Eve",
+        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-02-24",
+      "viewCount": "2204万",
+      "likeCount": "31.3万",
+      "commentCount": "6385"
+    },
+    {
+      "rank": 1453,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/BuU2bocSfDo/default.jpg",
         "url": "https://www.youtube.com/watch?v=BuU2bocSfDo",
         "target": "_blank"
@@ -43,50 +87,6 @@
       "viewCount": "1847万",
       "likeCount": "15.3万",
       "commentCount": "6385"
-    },
-    {
-      "rank": 1453,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/q6Ylz-EhtDo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=q6Ylz-EhtDo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SEKAI NO OWARI「プレゼント」",
-        "url": "https://www.youtube.com/watch?v=q6Ylz-EhtDo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "sekainoowarijp",
-        "url": "https://www.youtube.com/channel/UCOYmRdtvvcQPspSmW8QsJhQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-12-31",
-      "viewCount": "1986万",
-      "likeCount": "13.2万",
-      "commentCount": "6384"
-    },
-    {
-      "rank": 1454,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/exOi_zsOHwM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=exOi_zsOHwM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ぼくらの (Bokurano) - Eve Music Video",
-        "url": "https://www.youtube.com/watch?v=exOi_zsOHwM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Eve",
-        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-02-24",
-      "viewCount": "2203万",
-      "likeCount": "31.3万",
-      "commentCount": "6383"
     },
     {
       "rank": 1455,
@@ -128,7 +128,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-18",
-      "viewCount": "2432万",
+      "viewCount": "2433万",
       "likeCount": "21.4万",
       "commentCount": "6377"
     },
@@ -150,9 +150,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-29",
-      "viewCount": "6179万",
+      "viewCount": "6180万",
       "likeCount": "26.3万",
-      "commentCount": "6372"
+      "commentCount": "6373"
     },
     {
       "rank": 1458,
@@ -172,7 +172,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-27",
-      "viewCount": "4582万",
+      "viewCount": "4583万",
       "likeCount": "17.2万",
       "commentCount": "6344"
     },
@@ -282,9 +282,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-09",
-      "viewCount": "5282万",
+      "viewCount": "5283万",
       "likeCount": "32.5万",
-      "commentCount": "6313"
+      "commentCount": "6315"
     },
     {
       "rank": 1464,
@@ -306,7 +306,7 @@
       "publishedAt": "2022-09-14",
       "viewCount": "2002万",
       "likeCount": "-",
-      "commentCount": "6312"
+      "commentCount": "6314"
     },
     {
       "rank": 1465,
@@ -328,7 +328,7 @@
       "publishedAt": "2014-09-01",
       "viewCount": "2659万",
       "likeCount": "20.9万",
-      "commentCount": "6309"
+      "commentCount": "6310"
     },
     {
       "rank": 1466,
@@ -350,7 +350,7 @@
       "publishedAt": "2016-11-04",
       "viewCount": "2765万",
       "likeCount": "10.8万",
-      "commentCount": "6308"
+      "commentCount": "6309"
     },
     {
       "rank": 1467,
@@ -377,28 +377,6 @@
     {
       "rank": 1468,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/ekP7VLeXnqY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ekP7VLeXnqY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Aimer 『春はゆく』MUSIC VIDEO（主演：浜辺美波・劇場版「Fate/stay night [Heaven's Feel]」Ⅲ.spring song主題歌/FULL ver.）",
-        "url": "https://www.youtube.com/watch?v=ekP7VLeXnqY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Aimer Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCR1zT1s524Hbc85bdvno_8w",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-03-27",
-      "viewCount": "2055万",
-      "likeCount": "17.1万",
-      "commentCount": "6292"
-    },
-    {
-      "rank": 1469,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/DiRXDpDL7es/default.jpg",
         "url": "https://www.youtube.com/watch?v=DiRXDpDL7es",
         "target": "_blank"
@@ -414,34 +392,12 @@
         "target": "_blank"
       },
       "publishedAt": "2017-07-15",
-      "viewCount": "4131万",
+      "viewCount": "4134万",
       "likeCount": "17.1万",
-      "commentCount": "6290"
+      "commentCount": "6299"
     },
     {
       "rank": 1469,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/KhTxlm4REQc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=KhTxlm4REQc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "m.o.v.e / Gamble Rumble",
-        "url": "https://www.youtube.com/watch?v=KhTxlm4REQc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-06-27",
-      "viewCount": "2988万",
-      "likeCount": "12.8万",
-      "commentCount": "6290"
-    },
-    {
-      "rank": 1471,
       "thumb": {
         "img": "https://i.ytimg.com/vi/4jWzGkRsHw8/default.jpg",
         "url": "https://www.youtube.com/watch?v=4jWzGkRsHw8",
@@ -458,9 +414,53 @@
         "target": "_blank"
       },
       "publishedAt": "2023-07-14",
-      "viewCount": "4263万",
+      "viewCount": "4265万",
       "likeCount": "36.9万",
-      "commentCount": "6280"
+      "commentCount": "6297"
+    },
+    {
+      "rank": 1470,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ekP7VLeXnqY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ekP7VLeXnqY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Aimer 『春はゆく』MUSIC VIDEO（主演：浜辺美波・劇場版「Fate/stay night [Heaven's Feel]」Ⅲ.spring song主題歌/FULL ver.）",
+        "url": "https://www.youtube.com/watch?v=ekP7VLeXnqY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Aimer Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCR1zT1s524Hbc85bdvno_8w",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-03-27",
+      "viewCount": "2056万",
+      "likeCount": "17.1万",
+      "commentCount": "6292"
+    },
+    {
+      "rank": 1471,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/KhTxlm4REQc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=KhTxlm4REQc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "m.o.v.e / Gamble Rumble",
+        "url": "https://www.youtube.com/watch?v=KhTxlm4REQc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-06-27",
+      "viewCount": "2989万",
+      "likeCount": "12.8万",
+      "commentCount": "6290"
     },
     {
       "rank": 1472,
@@ -482,7 +482,7 @@
       "publishedAt": "2020-12-04",
       "viewCount": "1431万",
       "likeCount": "17.1万",
-      "commentCount": "6272"
+      "commentCount": "6273"
     },
     {
       "rank": 1473,
@@ -509,6 +509,28 @@
     {
       "rank": 1474,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/rZxR9bpsYLU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=rZxR9bpsYLU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Fujii Kaze - MO-EH-YO (Official Video)",
+        "url": "https://www.youtube.com/watch?v=rZxR9bpsYLU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Fujii Kaze",
+        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-10-24",
+      "viewCount": "1823万",
+      "likeCount": "17.7万",
+      "commentCount": "6252"
+    },
+    {
+      "rank": 1474,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/q_8bLygFaxs/default.jpg",
         "url": "https://www.youtube.com/watch?v=q_8bLygFaxs",
         "target": "_blank"
@@ -529,51 +551,7 @@
       "commentCount": "6252"
     },
     {
-      "rank": 1475,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/rZxR9bpsYLU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=rZxR9bpsYLU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Fujii Kaze - MO-EH-YO (Official Video)",
-        "url": "https://www.youtube.com/watch?v=rZxR9bpsYLU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Fujii Kaze",
-        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-10-24",
-      "viewCount": "1822万",
-      "likeCount": "17.7万",
-      "commentCount": "6251"
-    },
-    {
       "rank": 1476,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/35nV_M3asRs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=35nV_M3asRs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "インソムニア (INSOMNIA) – Eve Music Video",
-        "url": "https://www.youtube.com/watch?v=35nV_M3asRs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Eve",
-        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-06-09",
-      "viewCount": "1795万",
-      "likeCount": "36.3万",
-      "commentCount": "6241"
-    },
-    {
-      "rank": 1477,
       "thumb": {
         "img": "https://i.ytimg.com/vi/_wvAzWIjKIg/default.jpg",
         "url": "https://www.youtube.com/watch?v=_wvAzWIjKIg",
@@ -590,9 +568,53 @@
         "target": "_blank"
       },
       "publishedAt": "2014-04-01",
-      "viewCount": "3243万",
+      "viewCount": "3245万",
       "likeCount": "10.7万",
-      "commentCount": "6240"
+      "commentCount": "6249"
+    },
+    {
+      "rank": 1477,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/35nV_M3asRs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=35nV_M3asRs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "インソムニア (INSOMNIA) – Eve Music Video",
+        "url": "https://www.youtube.com/watch?v=35nV_M3asRs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Eve",
+        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-06-09",
+      "viewCount": "1796万",
+      "likeCount": "36.3万",
+      "commentCount": "6246"
+    },
+    {
+      "rank": 1478,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/9nCkUgTO5x4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=9nCkUgTO5x4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【女性が歌う】灰色と青＋菅田将暉/米津玄師(Covered by コバソロ & 春茶)",
+        "url": "https://www.youtube.com/watch?v=9nCkUgTO5x4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "kobasolo",
+        "url": "https://www.youtube.com/channel/UCDbQblY1XASbgqOXmy6FOFQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-12-14",
+      "viewCount": "5678万",
+      "likeCount": "36.2万",
+      "commentCount": "6238"
     },
     {
       "rank": 1478,
@@ -612,31 +634,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-01",
-      "viewCount": "2087万",
+      "viewCount": "2088万",
       "likeCount": "23.5万",
       "commentCount": "6238"
-    },
-    {
-      "rank": 1479,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/9nCkUgTO5x4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=9nCkUgTO5x4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【女性が歌う】灰色と青＋菅田将暉/米津玄師(Covered by コバソロ & 春茶)",
-        "url": "https://www.youtube.com/watch?v=9nCkUgTO5x4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "kobasolo",
-        "url": "https://www.youtube.com/channel/UCDbQblY1XASbgqOXmy6FOFQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-12-14",
-      "viewCount": "5677万",
-      "likeCount": "36.2万",
-      "commentCount": "6237"
     },
     {
       "rank": 1480,
@@ -680,7 +680,7 @@
       "publishedAt": "2020-08-12",
       "viewCount": "1352万",
       "likeCount": "12.3万",
-      "commentCount": "6225"
+      "commentCount": "6228"
     },
     {
       "rank": 1482,
@@ -700,34 +700,12 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-08",
-      "viewCount": "2631万",
+      "viewCount": "2632万",
       "likeCount": "7.9万",
       "commentCount": "6221"
     },
     {
       "rank": 1483,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/cBa2PhtY198/default.jpg",
-        "url": "https://www.youtube.com/watch?v=cBa2PhtY198",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SEKAI NO OWARI「umbrella」",
-        "url": "https://www.youtube.com/watch?v=cBa2PhtY198",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SEKAI NO OWARI",
-        "url": "https://www.youtube.com/channel/UCKudwfXQgNM7Gkjv95qRI9w",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-07-28",
-      "viewCount": "1764万",
-      "likeCount": "14.7万",
-      "commentCount": "6199"
-    },
-    {
-      "rank": 1484,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Gw96jPDtoDQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=Gw96jPDtoDQ",
@@ -744,9 +722,31 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-27",
-      "viewCount": "1768万",
-      "likeCount": "45.2万",
-      "commentCount": "6197"
+      "viewCount": "1769万",
+      "likeCount": "45.3万",
+      "commentCount": "6200"
+    },
+    {
+      "rank": 1484,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/cBa2PhtY198/default.jpg",
+        "url": "https://www.youtube.com/watch?v=cBa2PhtY198",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SEKAI NO OWARI「umbrella」",
+        "url": "https://www.youtube.com/watch?v=cBa2PhtY198",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SEKAI NO OWARI",
+        "url": "https://www.youtube.com/channel/UCKudwfXQgNM7Gkjv95qRI9w",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-07-28",
+      "viewCount": "1765万",
+      "likeCount": "14.7万",
+      "commentCount": "6199"
     },
     {
       "rank": 1485,
@@ -768,7 +768,7 @@
       "publishedAt": "2022-08-06",
       "viewCount": "1856万",
       "likeCount": "13.2万",
-      "commentCount": "6196"
+      "commentCount": "6195"
     },
     {
       "rank": 1486,
@@ -790,7 +790,7 @@
       "publishedAt": "2019-06-26",
       "viewCount": "3542万",
       "likeCount": "30.5万",
-      "commentCount": "6186"
+      "commentCount": "6185"
     },
     {
       "rank": 1487,
@@ -832,9 +832,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-08",
-      "viewCount": "1982万",
+      "viewCount": "1983万",
       "likeCount": "10.4万",
-      "commentCount": "6173"
+      "commentCount": "6175"
     },
     {
       "rank": 1489,
@@ -854,7 +854,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-03-02",
-      "viewCount": "2643万",
+      "viewCount": "2644万",
       "likeCount": "15.3万",
       "commentCount": "6171"
     },
@@ -876,7 +876,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-23",
-      "viewCount": "3975万",
+      "viewCount": "3976万",
       "likeCount": "40.3万",
       "commentCount": "6165"
     },
@@ -944,7 +944,7 @@
       "publishedAt": "2014-07-09",
       "viewCount": "2993万",
       "likeCount": "18.8万",
-      "commentCount": "6138"
+      "commentCount": "6140"
     },
     {
       "rank": 1494,
@@ -986,7 +986,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-23",
-      "viewCount": "2644万",
+      "viewCount": "2645万",
       "likeCount": "-",
       "commentCount": "6105"
     },
@@ -1008,34 +1008,12 @@
         "target": "_blank"
       },
       "publishedAt": "2025-04-08",
-      "viewCount": "1843万",
+      "viewCount": "1846万",
       "likeCount": "22.2万",
-      "commentCount": "6092"
+      "commentCount": "6094"
     },
     {
       "rank": 1497,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/c2y8Ba3WwPY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=c2y8Ba3WwPY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "RADWIMPS - 有心論  [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=c2y8Ba3WwPY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "RADWIMPS",
-        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-07-02",
-      "viewCount": "4847万",
-      "likeCount": "18.1万",
-      "commentCount": "6080"
-    },
-    {
-      "rank": 1498,
       "thumb": {
         "img": "https://i.ytimg.com/vi/wqmyuOlXSn0/default.jpg",
         "url": "https://www.youtube.com/watch?v=wqmyuOlXSn0",
@@ -1054,10 +1032,54 @@
       "publishedAt": "2015-05-01",
       "viewCount": "2428万",
       "likeCount": "15.4万",
-      "commentCount": "6079"
+      "commentCount": "6087"
+    },
+    {
+      "rank": 1498,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/c2y8Ba3WwPY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=c2y8Ba3WwPY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "RADWIMPS - 有心論  [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=c2y8Ba3WwPY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "RADWIMPS",
+        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-07-02",
+      "viewCount": "4848万",
+      "likeCount": "18.1万",
+      "commentCount": "6083"
     },
     {
       "rank": 1499,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/NLIGDjKBLY0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=NLIGDjKBLY0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "アイナ・ジ・エンド / 革命道中 - On The Way [Official Music Video]（TVアニメ『ダンダダン』第2期オープニングテーマ）",
+        "url": "https://www.youtube.com/watch?v=NLIGDjKBLY0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "アイナ・ジ・エンド Official",
+        "url": "https://www.youtube.com/channel/UCFPb0Vc0Cjd3MpDOlHPQoPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-07-03",
+      "viewCount": "3393万",
+      "likeCount": "40.6万",
+      "commentCount": "6077"
+    },
+    {
+      "rank": 1500,
       "thumb": {
         "img": "https://i.ytimg.com/vi/YQSS7SgGia8/default.jpg",
         "url": "https://www.youtube.com/watch?v=YQSS7SgGia8",
@@ -1074,31 +1096,9 @@
         "target": "_blank"
       },
       "publishedAt": "2011-05-30",
-      "viewCount": "6477万",
+      "viewCount": "6478万",
       "likeCount": "16.3万",
       "commentCount": "6069"
-    },
-    {
-      "rank": 1500,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/UYXNA54dDKs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=UYXNA54dDKs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "シャ乱Q「シングルベッド」(MV)",
-        "url": "https://www.youtube.com/watch?v=UYXNA54dDKs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アップフロントチャンネル",
-        "url": "https://www.youtube.com/channel/UCjXGuJZhvCwBSl7dwUJDJdg",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-07-29",
-      "viewCount": "7100万",
-      "likeCount": "16.6万",
-      "commentCount": "6065"
     }
   ]
 }

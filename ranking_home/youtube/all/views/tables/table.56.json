@@ -21,10 +21,33 @@
       "viewCount": "1242万",
       "likeCount": "12.6万",
       "commentCount": "3016",
-      "increment_d1": "3821"
+      "increment_d1": "3776"
     },
     {
       "rank": 2752,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/a9I0JUTiOck/default.jpg",
+        "url": "https://www.youtube.com/watch?v=a9I0JUTiOck",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【PV】MAY'S／I LOVE YOU が言えなくて",
+        "url": "https://www.youtube.com/watch?v=a9I0JUTiOck",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "KING RECORDS",
+        "url": "https://www.youtube.com/channel/UC6KEU5-KSTszEOOnAl8ZwPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-07-29",
+      "viewCount": "1242万",
+      "likeCount": "2.2万",
+      "commentCount": "796",
+      "increment_d1": "741"
+    },
+    {
+      "rank": 2753,
       "thumb": {
         "img": "https://i.ytimg.com/vi/PTzYM7xLXx0/default.jpg",
         "url": "https://www.youtube.com/watch?v=PTzYM7xLXx0",
@@ -43,31 +66,8 @@
       "publishedAt": "2018-08-10",
       "viewCount": "1241万",
       "likeCount": "3.4万",
-      "commentCount": "1711",
-      "increment_d1": "1766"
-    },
-    {
-      "rank": 2753,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/e9FaggHTDM4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=e9FaggHTDM4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow Man 'SBY' Dance Practice",
-        "url": "https://www.youtube.com/watch?v=e9FaggHTDM4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Snow Man",
-        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-01-04",
-      "viewCount": "1241万",
-      "likeCount": "12.9万",
-      "commentCount": "6796",
-      "increment_d1": "1.26万"
+      "commentCount": "1712",
+      "increment_d1": "1757"
     },
     {
       "rank": 2754,
@@ -90,7 +90,7 @@
       "viewCount": "1241万",
       "likeCount": "6.4万",
       "commentCount": "1216",
-      "increment_d1": "4020"
+      "increment_d1": "3702"
     },
     {
       "rank": 2755,
@@ -113,7 +113,7 @@
       "viewCount": "1237万",
       "likeCount": "3.6万",
       "commentCount": "1197",
-      "increment_d1": "805"
+      "increment_d1": "676"
     },
     {
       "rank": 2756,
@@ -136,7 +136,7 @@
       "viewCount": "1236万",
       "likeCount": "2.6万",
       "commentCount": "1416",
-      "increment_d1": "2069"
+      "increment_d1": "1694"
     },
     {
       "rank": 2757,
@@ -159,33 +159,10 @@
       "viewCount": "1236万",
       "likeCount": "2.1万",
       "commentCount": "906",
-      "increment_d1": "94"
+      "increment_d1": "78"
     },
     {
       "rank": 2758,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/6H6Mop4C5rU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=6H6Mop4C5rU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "変態紳士クラブ / YOKAZE (Official Lyric Video)",
-        "url": "https://www.youtube.com/watch?v=6H6Mop4C5rU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "変態紳士クラブ",
-        "url": "https://www.youtube.com/channel/UCMI5tfhifxlSOOh1ErnfJuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-01-01",
-      "viewCount": "1234万",
-      "likeCount": "3.1万",
-      "commentCount": "428",
-      "increment_d1": "392"
-    },
-    {
-      "rank": 2759,
       "thumb": {
         "img": "https://i.ytimg.com/vi/RnB8V5Syuo0/default.jpg",
         "url": "https://www.youtube.com/watch?v=RnB8V5Syuo0",
@@ -205,7 +182,30 @@
       "viewCount": "1234万",
       "likeCount": "6.1万",
       "commentCount": "1558",
-      "increment_d1": "2658"
+      "increment_d1": "2215"
+    },
+    {
+      "rank": 2759,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/6H6Mop4C5rU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=6H6Mop4C5rU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "変態紳士クラブ / YOKAZE (Official Lyric Video)",
+        "url": "https://www.youtube.com/watch?v=6H6Mop4C5rU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "変態紳士クラブ",
+        "url": "https://www.youtube.com/channel/UCMI5tfhifxlSOOh1ErnfJuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-01-01",
+      "viewCount": "1234万",
+      "likeCount": "3.1万",
+      "commentCount": "428",
+      "increment_d1": "352"
     },
     {
       "rank": 2760,
@@ -228,7 +228,7 @@
       "viewCount": "1234万",
       "likeCount": "37.7万",
       "commentCount": "1.1万",
-      "increment_d1": "1105"
+      "increment_d1": "1007"
     },
     {
       "rank": 2761,
@@ -248,10 +248,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-11-29",
-      "viewCount": "1233万",
+      "viewCount": "1234万",
       "likeCount": "12.5万",
-      "commentCount": "4528",
-      "increment_d1": "4511"
+      "commentCount": "4529",
+      "increment_d1": "4484"
     },
     {
       "rank": 2762,
@@ -273,34 +273,11 @@
       "publishedAt": "2016-10-26",
       "viewCount": "1233万",
       "likeCount": "5.4万",
-      "commentCount": "2818",
-      "increment_d1": "903"
+      "commentCount": "2819",
+      "increment_d1": "894"
     },
     {
       "rank": 2763,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/sAerCLnlShg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=sAerCLnlShg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "倖田來未-KODA KUMI-『め組のひと』～ 20th Year Special Full Ver. ～",
-        "url": "https://www.youtube.com/watch?v=sAerCLnlShg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "倖田來未",
-        "url": "https://www.youtube.com/channel/UCCI_DJ1Q-WYGS8bVXsW_V5w",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-05-22",
-      "viewCount": "1232万",
-      "likeCount": "6.1万",
-      "commentCount": "1751",
-      "increment_d1": "5115"
-    },
-    {
-      "rank": 2764,
       "thumb": {
         "img": "https://i.ytimg.com/vi/hkij4LvACZ0/default.jpg",
         "url": "https://www.youtube.com/watch?v=hkij4LvACZ0",
@@ -317,10 +294,33 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-18",
-      "viewCount": "1232万",
+      "viewCount": "1233万",
       "likeCount": "22.7万",
-      "commentCount": "6878",
-      "increment_d1": "9279"
+      "commentCount": "6880",
+      "increment_d1": "8092"
+    },
+    {
+      "rank": 2764,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/sAerCLnlShg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=sAerCLnlShg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "倖田來未-KODA KUMI-『め組のひと』～ 20th Year Special Full Ver. ～",
+        "url": "https://www.youtube.com/watch?v=sAerCLnlShg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "倖田來未",
+        "url": "https://www.youtube.com/channel/UCCI_DJ1Q-WYGS8bVXsW_V5w",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-05-22",
+      "viewCount": "1233万",
+      "likeCount": "6.1万",
+      "commentCount": "1753",
+      "increment_d1": "4400"
     },
     {
       "rank": 2765,
@@ -342,8 +342,8 @@
       "publishedAt": "2017-11-09",
       "viewCount": "1230万",
       "likeCount": "21.5万",
-      "commentCount": "8656",
-      "increment_d1": "388"
+      "commentCount": "8657",
+      "increment_d1": "357"
     },
     {
       "rank": 2766,
@@ -363,36 +363,13 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-14",
-      "viewCount": "1229万",
+      "viewCount": "1230万",
       "likeCount": "11.3万",
       "commentCount": "5167",
-      "increment_d1": "5262"
+      "increment_d1": "4651"
     },
     {
       "rank": 2767,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/0rTc0nyhE0Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=0rTc0nyhE0Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【syudou】へべれけジャンキー",
-        "url": "https://www.youtube.com/watch?v=0rTc0nyhE0Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "syudou",
-        "url": "https://www.youtube.com/channel/UCraC7460yGQF4GDmSjCecpQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-03-30",
-      "viewCount": "1229万",
-      "likeCount": "15.3万",
-      "commentCount": "4527",
-      "increment_d1": "2406"
-    },
-    {
-      "rank": 2768,
       "thumb": {
         "img": "https://i.ytimg.com/vi/xzc5ZwSCtxg/default.jpg",
         "url": "https://www.youtube.com/watch?v=xzc5ZwSCtxg",
@@ -412,7 +389,30 @@
       "viewCount": "1229万",
       "likeCount": "-",
       "commentCount": "3044",
-      "increment_d1": "3041"
+      "increment_d1": "3259"
+    },
+    {
+      "rank": 2768,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/0rTc0nyhE0Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=0rTc0nyhE0Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【syudou】へべれけジャンキー",
+        "url": "https://www.youtube.com/watch?v=0rTc0nyhE0Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "syudou",
+        "url": "https://www.youtube.com/channel/UCraC7460yGQF4GDmSjCecpQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-03-30",
+      "viewCount": "1229万",
+      "likeCount": "15.3万",
+      "commentCount": "4527",
+      "increment_d1": "2265"
     },
     {
       "rank": 2769,
@@ -433,12 +433,35 @@
       },
       "publishedAt": "2020-12-02",
       "viewCount": "1229万",
-      "likeCount": "30.7万",
+      "likeCount": "30.8万",
       "commentCount": "1.1万",
-      "increment_d1": "881"
+      "increment_d1": "787"
     },
     {
       "rank": 2770,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/18H2Uc9_7I0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=18H2Uc9_7I0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【公式】PENICILLIN「ロマンス」(MV)【8thシングル】ペニシリン/Romance",
+        "url": "https://www.youtube.com/watch?v=18H2Uc9_7I0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Warner Music Japan",
+        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-08-17",
+      "viewCount": "1228万",
+      "likeCount": "7.1万",
+      "commentCount": "3374",
+      "increment_d1": "8307"
+    },
+    {
+      "rank": 2771,
       "thumb": {
         "img": "https://i.ytimg.com/vi/WWIYBv3mYio/default.jpg",
         "url": "https://www.youtube.com/watch?v=WWIYBv3mYio",
@@ -458,30 +481,7 @@
       "viewCount": "1228万",
       "likeCount": "11.6万",
       "commentCount": "-",
-      "increment_d1": "4368"
-    },
-    {
-      "rank": 2771,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/18H2Uc9_7I0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=18H2Uc9_7I0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【公式】PENICILLIN「ロマンス」(MV)【8thシングル】ペニシリン/Romance",
-        "url": "https://www.youtube.com/watch?v=18H2Uc9_7I0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Warner Music Japan",
-        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-08-17",
-      "viewCount": "1227万",
-      "likeCount": "7.1万",
-      "commentCount": "3372",
-      "increment_d1": "1.05万"
+      "increment_d1": "4299"
     },
     {
       "rank": 2772,
@@ -504,7 +504,7 @@
       "viewCount": "1227万",
       "likeCount": "2.5万",
       "commentCount": "1103",
-      "increment_d1": "890"
+      "increment_d1": "797"
     },
     {
       "rank": 2773,
@@ -524,13 +524,36 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-22",
-      "viewCount": "1226万",
+      "viewCount": "1227万",
       "likeCount": "7.9万",
       "commentCount": "1653",
-      "increment_d1": "4648"
+      "increment_d1": "4389"
     },
     {
       "rank": 2774,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/JiWEZbm6lhI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=JiWEZbm6lhI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "倖田來未-KODA KUMI-『愛のうた（album version）』～ 20th Year Special Full Ver. ～",
+        "url": "https://www.youtube.com/watch?v=JiWEZbm6lhI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "倖田來未",
+        "url": "https://www.youtube.com/channel/UCCI_DJ1Q-WYGS8bVXsW_V5w",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-01-29",
+      "viewCount": "1226万",
+      "likeCount": "4.3万",
+      "commentCount": "1129",
+      "increment_d1": "9177"
+    },
+    {
+      "rank": 2775,
       "thumb": {
         "img": "https://i.ytimg.com/vi/A0iJkPbU7yA/default.jpg",
         "url": "https://www.youtube.com/watch?v=A0iJkPbU7yA",
@@ -550,30 +573,7 @@
       "viewCount": "1225万",
       "likeCount": "12.1万",
       "commentCount": "4394",
-      "increment_d1": "1238"
-    },
-    {
-      "rank": 2775,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/JiWEZbm6lhI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=JiWEZbm6lhI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "倖田來未-KODA KUMI-『愛のうた（album version）』～ 20th Year Special Full Ver. ～",
-        "url": "https://www.youtube.com/watch?v=JiWEZbm6lhI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "倖田來未",
-        "url": "https://www.youtube.com/channel/UCCI_DJ1Q-WYGS8bVXsW_V5w",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-01-29",
-      "viewCount": "1225万",
-      "likeCount": "4.3万",
-      "commentCount": "1128",
-      "increment_d1": "1.12万"
+      "increment_d1": "1147"
     },
     {
       "rank": 2776,
@@ -596,33 +596,10 @@
       "viewCount": "1224万",
       "likeCount": "21.4万",
       "commentCount": "2261",
-      "increment_d1": "1044"
+      "increment_d1": "1002"
     },
     {
       "rank": 2777,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ObYWcfFzZ4M/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ObYWcfFzZ4M",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "IMP. - NINNIN JACK (Official Music Video)",
-        "url": "https://www.youtube.com/watch?v=ObYWcfFzZ4M",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "IMP. OFFICIAL",
-        "url": "https://www.youtube.com/channel/UC8VTVi8xhBR8qU-MllnFtVA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-05-28",
-      "viewCount": "1223万",
-      "likeCount": "4.3万",
-      "commentCount": "2.7万",
-      "increment_d1": "1609"
-    },
-    {
-      "rank": 2778,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Fq55MMfHoJg/default.jpg",
         "url": "https://www.youtube.com/watch?v=Fq55MMfHoJg",
@@ -639,33 +616,56 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-08",
-      "viewCount": "1223万",
+      "viewCount": "1224万",
       "likeCount": "12万",
-      "commentCount": "2450",
-      "increment_d1": "4977"
+      "commentCount": "2451",
+      "increment_d1": "5205"
+    },
+    {
+      "rank": 2778,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ObYWcfFzZ4M/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ObYWcfFzZ4M",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "IMP. - NINNIN JACK (Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=ObYWcfFzZ4M",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "IMP. OFFICIAL",
+        "url": "https://www.youtube.com/channel/UC8VTVi8xhBR8qU-MllnFtVA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-05-28",
+      "viewCount": "1224万",
+      "likeCount": "4.3万",
+      "commentCount": "2.7万",
+      "increment_d1": "1783"
     },
     {
       "rank": 2779,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/90n1E_QZTvU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=90n1E_QZTvU",
+        "img": "https://i.ytimg.com/vi/LJkn2qqtijk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=LJkn2qqtijk",
         "target": "_blank"
       },
       "title": {
-        "text": "西野カナ 『A型のうた』MV(Short Ver.)",
-        "url": "https://www.youtube.com/watch?v=90n1E_QZTvU",
+        "text": "LiSA『Catch the Moment』（「劇場版 ソードアート・オンライン -オーディナル・スケール-」主題歌）",
+        "url": "https://www.youtube.com/watch?v=LJkn2qqtijk",
         "target": "_blank"
       },
       "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "text": "LiSA Official YouTube",
+        "url": "https://www.youtube.com/channel/UCqEfdEvLG5oQWNYlDQrGlKw",
         "target": "_blank"
       },
-      "publishedAt": "2015-11-13",
-      "viewCount": "1222万",
-      "likeCount": "2.4万",
-      "commentCount": "1526",
-      "increment_d1": "59"
+      "publishedAt": "2023-12-29",
+      "viewCount": "1223万",
+      "likeCount": "5.8万",
+      "commentCount": "799",
+      "increment_d1": "1.6万"
     },
     {
       "rank": 2780,
@@ -688,53 +688,53 @@
       "viewCount": "1222万",
       "likeCount": "3.9万",
       "commentCount": "1703",
-      "increment_d1": "1715"
+      "increment_d1": "1482"
     },
     {
       "rank": 2781,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/7MHlhHaLcTA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=7MHlhHaLcTA",
+        "img": "https://i.ytimg.com/vi/90n1E_QZTvU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=90n1E_QZTvU",
         "target": "_blank"
       },
       "title": {
-        "text": "TWICE「SCIENTIST -Japanese ver.-」Music Video",
-        "url": "https://www.youtube.com/watch?v=7MHlhHaLcTA",
+        "text": "西野カナ 『A型のうた』MV(Short Ver.)",
+        "url": "https://www.youtube.com/watch?v=90n1E_QZTvU",
         "target": "_blank"
       },
       "channel": {
-        "text": "TWICE JAPAN OFFICIAL YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCCRb6nYKaT8tzLA8CwDdUtw",
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
         "target": "_blank"
       },
-      "publishedAt": "2022-03-01",
+      "publishedAt": "2015-11-13",
       "viewCount": "1222万",
-      "likeCount": "40.8万",
-      "commentCount": "1.1万",
-      "increment_d1": "1094"
+      "likeCount": "2.4万",
+      "commentCount": "1526",
+      "increment_d1": "57"
     },
     {
       "rank": 2782,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/LJkn2qqtijk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=LJkn2qqtijk",
+        "img": "https://i.ytimg.com/vi/PlYXXoMPWjs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=PlYXXoMPWjs",
         "target": "_blank"
       },
       "title": {
-        "text": "LiSA『Catch the Moment』（「劇場版 ソードアート・オンライン -オーディナル・スケール-」主題歌）",
-        "url": "https://www.youtube.com/watch?v=LJkn2qqtijk",
+        "text": "≠ME（ノットイコールミー）/ 10th Single『モブノデレラ』【MV full】/ “Mob-no-derella”",
+        "url": "https://www.youtube.com/watch?v=PlYXXoMPWjs",
         "target": "_blank"
       },
       "channel": {
-        "text": "LiSA Official YouTube",
-        "url": "https://www.youtube.com/channel/UCqEfdEvLG5oQWNYlDQrGlKw",
+        "text": "NOT EQUAL ME ノットイコールミー 公式チャンネル",
+        "url": "https://www.youtube.com/channel/UCBmvHfXdGCvi_b6lFeU-E1Q",
         "target": "_blank"
       },
-      "publishedAt": "2023-12-29",
-      "viewCount": "1221万",
-      "likeCount": "5.8万",
-      "commentCount": "798",
-      "increment_d1": "1.76万"
+      "publishedAt": "2025-04-11",
+      "viewCount": "1222万",
+      "likeCount": "4.3万",
+      "commentCount": "7204",
+      "increment_d1": "7535"
     },
     {
       "rank": 2783,
@@ -754,10 +754,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-14",
-      "viewCount": "1221万",
+      "viewCount": "1222万",
       "likeCount": "-",
-      "commentCount": "5049",
-      "increment_d1": "3358"
+      "commentCount": "5048",
+      "increment_d1": "3657"
     },
     {
       "rank": 2784,
@@ -777,33 +777,33 @@
         "target": "_blank"
       },
       "publishedAt": "2013-03-24",
-      "viewCount": "1221万",
+      "viewCount": "1222万",
       "likeCount": "3.1万",
-      "commentCount": "928",
-      "increment_d1": "6129"
+      "commentCount": "927",
+      "increment_d1": "5610"
     },
     {
       "rank": 2785,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/PlYXXoMPWjs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=PlYXXoMPWjs",
+        "img": "https://i.ytimg.com/vi/7MHlhHaLcTA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=7MHlhHaLcTA",
         "target": "_blank"
       },
       "title": {
-        "text": "≠ME（ノットイコールミー）/ 10th Single『モブノデレラ』【MV full】/ “Mob-no-derella”",
-        "url": "https://www.youtube.com/watch?v=PlYXXoMPWjs",
+        "text": "TWICE「SCIENTIST -Japanese ver.-」Music Video",
+        "url": "https://www.youtube.com/watch?v=7MHlhHaLcTA",
         "target": "_blank"
       },
       "channel": {
-        "text": "NOT EQUAL ME ノットイコールミー 公式チャンネル",
-        "url": "https://www.youtube.com/channel/UCBmvHfXdGCvi_b6lFeU-E1Q",
+        "text": "TWICE JAPAN OFFICIAL YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCCRb6nYKaT8tzLA8CwDdUtw",
         "target": "_blank"
       },
-      "publishedAt": "2025-04-11",
-      "viewCount": "1221万",
-      "likeCount": "4.3万",
-      "commentCount": "7203",
-      "increment_d1": "7803"
+      "publishedAt": "2022-03-01",
+      "viewCount": "1222万",
+      "likeCount": "40.8万",
+      "commentCount": "1.1万",
+      "increment_d1": "1054"
     },
     {
       "rank": 2786,
@@ -826,7 +826,7 @@
       "viewCount": "1221万",
       "likeCount": "1.8万",
       "commentCount": "-",
-      "increment_d1": "49"
+      "increment_d1": "54"
     },
     {
       "rank": 2787,
@@ -849,10 +849,33 @@
       "viewCount": "1220万",
       "likeCount": "7.5万",
       "commentCount": "1544",
-      "increment_d1": "3121"
+      "increment_d1": "2940"
     },
     {
       "rank": 2788,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1q_B-yWMJA4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1q_B-yWMJA4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – アポロドロス【LIVE from ゼンジン未到とヴェルトラウム〜銘銘編〜】",
+        "url": "https://www.youtube.com/watch?v=1q_B-yWMJA4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-07-14",
+      "viewCount": "1220万",
+      "likeCount": "9万",
+      "commentCount": "3234",
+      "increment_d1": "1.07万"
+    },
+    {
+      "rank": 2789,
       "thumb": {
         "img": "https://i.ytimg.com/vi/1Omyzc0ihyo/default.jpg",
         "url": "https://www.youtube.com/watch?v=1Omyzc0ihyo",
@@ -872,30 +895,7 @@
       "viewCount": "1220万",
       "likeCount": "11.7万",
       "commentCount": "3872",
-      "increment_d1": "2462"
-    },
-    {
-      "rank": 2789,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1q_B-yWMJA4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1q_B-yWMJA4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – アポロドロス【LIVE from ゼンジン未到とヴェルトラウム〜銘銘編〜】",
-        "url": "https://www.youtube.com/watch?v=1q_B-yWMJA4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-07-14",
-      "viewCount": "1219万",
-      "likeCount": "9万",
-      "commentCount": "3233",
-      "increment_d1": "9924"
+      "increment_d1": "2561"
     },
     {
       "rank": 2790,
@@ -918,10 +918,33 @@
       "viewCount": "1219万",
       "likeCount": "13万",
       "commentCount": "3450",
-      "increment_d1": "451"
+      "increment_d1": "427"
     },
     {
       "rank": 2791,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/AvJuhgj09ng/default.jpg",
+        "url": "https://www.youtube.com/watch?v=AvJuhgj09ng",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "浜崎あゆみ / Moments",
+        "url": "https://www.youtube.com/watch?v=AvJuhgj09ng",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ayu",
+        "url": "https://www.youtube.com/channel/UC7eXWU3oN-w5tNtP7sgeeNg",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-10-02",
+      "viewCount": "1219万",
+      "likeCount": "-",
+      "commentCount": "-",
+      "increment_d1": "7280"
+    },
+    {
+      "rank": 2792,
       "thumb": {
         "img": "https://i.ytimg.com/vi/iFc9L57IT4A/default.jpg",
         "url": "https://www.youtube.com/watch?v=iFc9L57IT4A",
@@ -941,10 +964,10 @@
       "viewCount": "1219万",
       "likeCount": "4.3万",
       "commentCount": "6503",
-      "increment_d1": "1120"
+      "increment_d1": "1230"
     },
     {
-      "rank": 2792,
+      "rank": 2793,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3J_7BEHLRTE/default.jpg",
         "url": "https://www.youtube.com/watch?v=3J_7BEHLRTE",
@@ -963,31 +986,8 @@
       "publishedAt": "2019-10-12",
       "viewCount": "1219万",
       "likeCount": "11.2万",
-      "commentCount": "2677",
-      "increment_d1": "2545"
-    },
-    {
-      "rank": 2793,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/AvJuhgj09ng/default.jpg",
-        "url": "https://www.youtube.com/watch?v=AvJuhgj09ng",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "浜崎あゆみ / Moments",
-        "url": "https://www.youtube.com/watch?v=AvJuhgj09ng",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ayu",
-        "url": "https://www.youtube.com/channel/UC7eXWU3oN-w5tNtP7sgeeNg",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-10-02",
-      "viewCount": "1218万",
-      "likeCount": "-",
-      "commentCount": "-",
-      "increment_d1": "7224"
+      "commentCount": "2678",
+      "increment_d1": "2426"
     },
     {
       "rank": 2794,
@@ -1010,7 +1010,7 @@
       "viewCount": "1218万",
       "likeCount": "2.4万",
       "commentCount": "903",
-      "increment_d1": "581"
+      "increment_d1": "503"
     },
     {
       "rank": 2795,
@@ -1033,7 +1033,7 @@
       "viewCount": "1218万",
       "likeCount": "6.7万",
       "commentCount": "1665",
-      "increment_d1": "982"
+      "increment_d1": "1068"
     },
     {
       "rank": 2796,
@@ -1056,7 +1056,7 @@
       "viewCount": "1216万",
       "likeCount": "-",
       "commentCount": "1.4万",
-      "increment_d1": "1195"
+      "increment_d1": "1388"
     },
     {
       "rank": 2797,
@@ -1079,7 +1079,7 @@
       "viewCount": "1216万",
       "likeCount": "24.1万",
       "commentCount": "9323",
-      "increment_d1": "736"
+      "increment_d1": "561"
     },
     {
       "rank": 2798,
@@ -1101,8 +1101,8 @@
       "publishedAt": "2016-11-07",
       "viewCount": "1215万",
       "likeCount": "2.8万",
-      "commentCount": "556",
-      "increment_d1": "577"
+      "commentCount": "555",
+      "increment_d1": "589"
     },
     {
       "rank": 2799,
@@ -1125,7 +1125,7 @@
       "viewCount": "1215万",
       "likeCount": "16.6万",
       "commentCount": "4505",
-      "increment_d1": "1939"
+      "increment_d1": "2035"
     },
     {
       "rank": 2800,
@@ -1148,7 +1148,7 @@
       "viewCount": "1215万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "811"
+      "increment_d1": "684"
     }
   ]
 }
