@@ -40,7 +40,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-01",
-      "viewCount": "2545万",
+      "viewCount": "2546万",
       "likeCount": "19.29万",
       "commentCount": "1.1万"
     },
@@ -62,7 +62,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-11-01",
-      "viewCount": "3367万",
+      "viewCount": "3368万",
       "likeCount": "19.27万",
       "commentCount": "3137"
     },
@@ -91,6 +91,28 @@
     {
       "rank": 1155,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/oLrp9uTa9gw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=oLrp9uTa9gw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Official髭男dism - TATTOO [Official Video]",
+        "url": "https://www.youtube.com/watch?v=oLrp9uTa9gw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Official髭男dism",
+        "url": "https://www.youtube.com/channel/UC9M4B-fqveLyWPGNdSkam7g",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-04-20",
+      "viewCount": "4076万",
+      "likeCount": "19.23万",
+      "commentCount": "8659"
+    },
+    {
+      "rank": 1156,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/i-8FlNOfEfw/default.jpg",
         "url": "https://www.youtube.com/watch?v=i-8FlNOfEfw",
         "target": "_blank"
@@ -111,28 +133,6 @@
       "commentCount": "7583"
     },
     {
-      "rank": 1156,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/oLrp9uTa9gw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=oLrp9uTa9gw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Official髭男dism - TATTOO [Official Video]",
-        "url": "https://www.youtube.com/watch?v=oLrp9uTa9gw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Official髭男dism",
-        "url": "https://www.youtube.com/channel/UC9M4B-fqveLyWPGNdSkam7g",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-04-20",
-      "viewCount": "4075万",
-      "likeCount": "19.22万",
-      "commentCount": "8659"
-    },
-    {
       "rank": 1157,
       "thumb": {
         "img": "https://i.ytimg.com/vi/bqigIHMComE/default.jpg",
@@ -150,34 +150,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-10",
-      "viewCount": "2349万",
-      "likeCount": "19.15万",
-      "commentCount": "3511"
+      "viewCount": "2350万",
+      "likeCount": "19.16万",
+      "commentCount": "3522"
     },
     {
       "rank": 1158,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/7GBn6IuTQ6w/default.jpg",
-        "url": "https://www.youtube.com/watch?v=7GBn6IuTQ6w",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【syudou】ギャンブル",
-        "url": "https://www.youtube.com/watch?v=7GBn6IuTQ6w",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "syudou",
-        "url": "https://www.youtube.com/channel/UCraC7460yGQF4GDmSjCecpQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-07-09",
-      "viewCount": "1599万",
-      "likeCount": "19.12万",
-      "commentCount": "5196"
-    },
-    {
-      "rank": 1159,
       "thumb": {
         "img": "https://i.ytimg.com/vi/5MZo9otAWAw/default.jpg",
         "url": "https://www.youtube.com/watch?v=5MZo9otAWAw",
@@ -194,9 +172,31 @@
         "target": "_blank"
       },
       "publishedAt": "2024-03-23",
-      "viewCount": "1941万",
-      "likeCount": "19.12万",
+      "viewCount": "1942万",
+      "likeCount": "19.13万",
       "commentCount": "4682"
+    },
+    {
+      "rank": 1159,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/7GBn6IuTQ6w/default.jpg",
+        "url": "https://www.youtube.com/watch?v=7GBn6IuTQ6w",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【syudou】ギャンブル",
+        "url": "https://www.youtube.com/watch?v=7GBn6IuTQ6w",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "syudou",
+        "url": "https://www.youtube.com/channel/UCraC7460yGQF4GDmSjCecpQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-07-09",
+      "viewCount": "1600万",
+      "likeCount": "19.12万",
+      "commentCount": "5195"
     },
     {
       "rank": 1160,
@@ -216,7 +216,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-07-02",
-      "viewCount": "3400万",
+      "viewCount": "3401万",
       "likeCount": "19.11万",
       "commentCount": "3273"
     },
@@ -238,9 +238,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-31",
-      "viewCount": "3953万",
-      "likeCount": "19.1万",
-      "commentCount": "5061"
+      "viewCount": "3956万",
+      "likeCount": "19.11万",
+      "commentCount": "5063"
     },
     {
       "rank": 1162,
@@ -260,7 +260,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-06-14",
-      "viewCount": "1559万",
+      "viewCount": "1560万",
       "likeCount": "19.07万",
       "commentCount": "2875"
     },
@@ -282,34 +282,12 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-07",
-      "viewCount": "2072万",
+      "viewCount": "2073万",
       "likeCount": "19.06万",
       "commentCount": "4818"
     },
     {
       "rank": 1164,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/LGG8grKZhxY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=LGG8grKZhxY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "星野源 – 時よ (Official Video)",
-        "url": "https://www.youtube.com/watch?v=LGG8grKZhxY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "星野源 Gen Hoshino",
-        "url": "https://www.youtube.com/channel/UCPKlrgZXnnb89nSeITvTdGA",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-11-30",
-      "viewCount": "5386万",
-      "likeCount": "19.03万",
-      "commentCount": "6702"
-    },
-    {
-      "rank": 1165,
       "thumb": {
         "img": "https://i.ytimg.com/vi/iQhRmQWwDYs/default.jpg",
         "url": "https://www.youtube.com/watch?v=iQhRmQWwDYs",
@@ -326,9 +304,31 @@
         "target": "_blank"
       },
       "publishedAt": "2019-02-11",
-      "viewCount": "2603万",
-      "likeCount": "19.02万",
+      "viewCount": "2605万",
+      "likeCount": "19.03万",
       "commentCount": "7697"
+    },
+    {
+      "rank": 1165,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/LGG8grKZhxY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=LGG8grKZhxY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "星野源 – 時よ (Official Video)",
+        "url": "https://www.youtube.com/watch?v=LGG8grKZhxY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "星野源 Gen Hoshino",
+        "url": "https://www.youtube.com/channel/UCPKlrgZXnnb89nSeITvTdGA",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-11-30",
+      "viewCount": "5387万",
+      "likeCount": "19.03万",
+      "commentCount": "6702"
     },
     {
       "rank": 1166,
@@ -350,7 +350,7 @@
       "publishedAt": "2019-09-19",
       "viewCount": "4859万",
       "likeCount": "18.95万",
-      "commentCount": "5909"
+      "commentCount": "5910"
     },
     {
       "rank": 1167,
@@ -370,7 +370,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-02-08",
-      "viewCount": "5317万",
+      "viewCount": "5318万",
       "likeCount": "18.94万",
       "commentCount": "2.1万"
     },
@@ -392,7 +392,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-06-30",
-      "viewCount": "4287万",
+      "viewCount": "4288万",
       "likeCount": "18.93万",
       "commentCount": "3437"
     },
@@ -416,7 +416,7 @@
       "publishedAt": "2016-12-19",
       "viewCount": "4029万",
       "likeCount": "18.92万",
-      "commentCount": "8269"
+      "commentCount": "8270"
     },
     {
       "rank": 1170,
@@ -436,12 +436,34 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-01",
-      "viewCount": "1566万",
+      "viewCount": "1567万",
       "likeCount": "18.91万",
-      "commentCount": "7244"
+      "commentCount": "7243"
     },
     {
       "rank": 1171,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/PRJoAPH0ZGo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=PRJoAPH0ZGo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ゆず「栄光の架橋」Music Video",
+        "url": "https://www.youtube.com/watch?v=PRJoAPH0ZGo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "yuzuofficial",
+        "url": "https://www.youtube.com/channel/UCOd_Yr1ws9PHKE54pfJrBKQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-04-13",
+      "viewCount": "5645万",
+      "likeCount": "18.9万",
+      "commentCount": "1万"
+    },
+    {
+      "rank": 1172,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Xl-iDUt7U24/default.jpg",
         "url": "https://www.youtube.com/watch?v=Xl-iDUt7U24",
@@ -461,28 +483,6 @@
       "viewCount": "4378万",
       "likeCount": "18.89万",
       "commentCount": "2.4万"
-    },
-    {
-      "rank": 1172,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/PRJoAPH0ZGo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=PRJoAPH0ZGo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ゆず「栄光の架橋」Music Video",
-        "url": "https://www.youtube.com/watch?v=PRJoAPH0ZGo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "yuzuofficial",
-        "url": "https://www.youtube.com/channel/UCOd_Yr1ws9PHKE54pfJrBKQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-04-13",
-      "viewCount": "5641万",
-      "likeCount": "18.88万",
-      "commentCount": "1万"
     },
     {
       "rank": 1173,
@@ -524,9 +524,9 @@
         "target": "_blank"
       },
       "publishedAt": "2014-07-09",
-      "viewCount": "2993万",
+      "viewCount": "2994万",
       "likeCount": "18.79万",
-      "commentCount": "6140"
+      "commentCount": "6147"
     },
     {
       "rank": 1175,
@@ -568,7 +568,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-02-06",
-      "viewCount": "3014万",
+      "viewCount": "3015万",
       "likeCount": "18.72万",
       "commentCount": "7329"
     },
@@ -590,9 +590,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-17",
-      "viewCount": "2367万",
+      "viewCount": "2368万",
       "likeCount": "18.72万",
-      "commentCount": "5286"
+      "commentCount": "5285"
     },
     {
       "rank": 1178,
@@ -634,7 +634,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-05",
-      "viewCount": "3592万",
+      "viewCount": "3593万",
       "likeCount": "18.69万",
       "commentCount": "5834"
     },
@@ -680,7 +680,7 @@
       "publishedAt": "2018-03-11",
       "viewCount": "2207万",
       "likeCount": "18.64万",
-      "commentCount": "7007"
+      "commentCount": "7006"
     },
     {
       "rank": 1182,
@@ -722,7 +722,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-07-26",
-      "viewCount": "3120万",
+      "viewCount": "3121万",
       "likeCount": "18.6万",
       "commentCount": "-"
     },
@@ -744,7 +744,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-27",
-      "viewCount": "5546万",
+      "viewCount": "5549万",
       "likeCount": "18.58万",
       "commentCount": "1万"
     },
@@ -788,9 +788,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-02-08",
-      "viewCount": "2252万",
-      "likeCount": "18.55万",
-      "commentCount": "3121"
+      "viewCount": "2253万",
+      "likeCount": "18.56万",
+      "commentCount": "3122"
     },
     {
       "rank": 1187,
@@ -839,6 +839,28 @@
     {
       "rank": 1189,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/wKFvR7iDsQ8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=wKFvR7iDsQ8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "OVA「Fate/Grand Carnival」OPアニメーション | 2nd Season Blu-ray&DVD 10.13 ON SALE",
+        "url": "https://www.youtube.com/watch?v=wKFvR7iDsQ8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "アニプレックス チャンネル",
+        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-06-01",
+      "viewCount": "1034万",
+      "likeCount": "18.49万",
+      "commentCount": "6940"
+    },
+    {
+      "rank": 1190,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/mctEybOqY6s/default.jpg",
         "url": "https://www.youtube.com/watch?v=mctEybOqY6s",
         "target": "_blank"
@@ -859,28 +881,6 @@
       "commentCount": "1251"
     },
     {
-      "rank": 1190,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/wKFvR7iDsQ8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=wKFvR7iDsQ8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "OVA「Fate/Grand Carnival」OPアニメーション | 2nd Season Blu-ray&DVD 10.13 ON SALE",
-        "url": "https://www.youtube.com/watch?v=wKFvR7iDsQ8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アニプレックス チャンネル",
-        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-06-01",
-      "viewCount": "1033万",
-      "likeCount": "18.49万",
-      "commentCount": "6939"
-    },
-    {
       "rank": 1191,
       "thumb": {
         "img": "https://i.ytimg.com/vi/NY1TyFUhbMA/default.jpg",
@@ -898,9 +898,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-18",
-      "viewCount": "1860万",
-      "likeCount": "18.47万",
-      "commentCount": "2304"
+      "viewCount": "1862万",
+      "likeCount": "18.48万",
+      "commentCount": "2303"
     },
     {
       "rank": 1192,
@@ -920,7 +920,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-15",
-      "viewCount": "2556万",
+      "viewCount": "2557万",
       "likeCount": "18.46万",
       "commentCount": "9668"
     },
@@ -942,9 +942,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-02-20",
-      "viewCount": "2461万",
+      "viewCount": "2462万",
       "likeCount": "18.4万",
-      "commentCount": "7094"
+      "commentCount": "7099"
     },
     {
       "rank": 1194,
@@ -964,7 +964,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-26",
-      "viewCount": "3396万",
+      "viewCount": "3397万",
       "likeCount": "18.39万",
       "commentCount": "1.8万"
     },
@@ -987,11 +987,33 @@
       },
       "publishedAt": "2022-05-22",
       "viewCount": "1337万",
-      "likeCount": "18.33万",
-      "commentCount": "3641"
+      "likeCount": "18.34万",
+      "commentCount": "3642"
     },
     {
       "rank": 1196,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/tf61cA6a-N0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=tf61cA6a-N0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "感覚ピエロ『ハルカミライ』 OFFICIAL MUSIC VIDEO（TVアニメ「ブラッククローバー」OP）",
+        "url": "https://www.youtube.com/watch?v=tf61cA6a-N0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "JIJI INC.",
+        "url": "https://www.youtube.com/channel/UCE-JmUzDu8Fsc3E5WgkMn2A",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-10-03",
+      "viewCount": "1564万",
+      "likeCount": "18.31万",
+      "commentCount": "4772"
+    },
+    {
+      "rank": 1197,
       "thumb": {
         "img": "https://i.ytimg.com/vi/drSMZgnmJjk/default.jpg",
         "url": "https://www.youtube.com/watch?v=drSMZgnmJjk",
@@ -1010,29 +1032,7 @@
       "publishedAt": "2013-03-11",
       "viewCount": "3712万",
       "likeCount": "18.31万",
-      "commentCount": "4760"
-    },
-    {
-      "rank": 1197,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/tf61cA6a-N0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=tf61cA6a-N0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "感覚ピエロ『ハルカミライ』 OFFICIAL MUSIC VIDEO（TVアニメ「ブラッククローバー」OP）",
-        "url": "https://www.youtube.com/watch?v=tf61cA6a-N0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "JIJI INC.",
-        "url": "https://www.youtube.com/channel/UCE-JmUzDu8Fsc3E5WgkMn2A",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-10-03",
-      "viewCount": "1563万",
-      "likeCount": "18.31万",
-      "commentCount": "4772"
+      "commentCount": "4762"
     },
     {
       "rank": 1198,
@@ -1074,9 +1074,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-02-09",
-      "viewCount": "3069万",
-      "likeCount": "18.23万",
-      "commentCount": "6773"
+      "viewCount": "3070万",
+      "likeCount": "18.24万",
+      "commentCount": "6774"
     },
     {
       "rank": 1200,

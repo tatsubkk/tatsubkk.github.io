@@ -20,8 +20,8 @@
       "publishedAt": "2014-02-07",
       "viewCount": "1767万",
       "likeCount": "5.5万",
-      "commentCount": "2607",
-      "increment_d1": "1102"
+      "commentCount": "2605",
+      "increment_d1": "1016"
     },
     {
       "rank": 1952,
@@ -44,7 +44,7 @@
       "viewCount": "1767万",
       "likeCount": "3.7万",
       "commentCount": "2668",
-      "increment_d1": "979"
+      "increment_d1": "1012"
     },
     {
       "rank": 1953,
@@ -64,10 +64,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-05-02",
-      "viewCount": "1766万",
+      "viewCount": "1767万",
       "likeCount": "7.2万",
       "commentCount": "6027",
-      "increment_d1": "2633"
+      "increment_d1": "2576"
     },
     {
       "rank": 1954,
@@ -89,8 +89,8 @@
       "publishedAt": "2009-06-27",
       "viewCount": "1765万",
       "likeCount": "8.9万",
-      "commentCount": "4571",
-      "increment_d1": "3203"
+      "commentCount": "4573",
+      "increment_d1": "3297"
     },
     {
       "rank": 1955,
@@ -112,8 +112,8 @@
       "publishedAt": "2019-04-28",
       "viewCount": "1765万",
       "likeCount": "6.9万",
-      "commentCount": "2088",
-      "increment_d1": "3677"
+      "commentCount": "2089",
+      "increment_d1": "3322"
     },
     {
       "rank": 1956,
@@ -135,8 +135,8 @@
       "publishedAt": "2020-07-28",
       "viewCount": "1765万",
       "likeCount": "14.7万",
-      "commentCount": "6199",
-      "increment_d1": "2710"
+      "commentCount": "6200",
+      "increment_d1": "2727"
     },
     {
       "rank": 1957,
@@ -159,7 +159,7 @@
       "viewCount": "1764万",
       "likeCount": "7.3万",
       "commentCount": "4633",
-      "increment_d1": "425"
+      "increment_d1": "459"
     },
     {
       "rank": 1958,
@@ -182,7 +182,7 @@
       "viewCount": "1764万",
       "likeCount": "8.2万",
       "commentCount": "3617",
-      "increment_d1": "1255"
+      "increment_d1": "1217"
     },
     {
       "rank": 1959,
@@ -205,7 +205,7 @@
       "viewCount": "1763万",
       "likeCount": "24.7万",
       "commentCount": "7696",
-      "increment_d1": "2754"
+      "increment_d1": "2458"
     },
     {
       "rank": 1960,
@@ -225,10 +225,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-26",
-      "viewCount": "1762万",
+      "viewCount": "1763万",
       "likeCount": "12.2万",
-      "commentCount": "3319",
-      "increment_d1": "1万"
+      "commentCount": "3321",
+      "increment_d1": "9642"
     },
     {
       "rank": 1961,
@@ -251,33 +251,10 @@
       "viewCount": "1761万",
       "likeCount": "12.8万",
       "commentCount": "3965",
-      "increment_d1": "2698"
+      "increment_d1": "2468"
     },
     {
       "rank": 1962,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/smH_qPRe3XM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=smH_qPRe3XM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "RADWIMPS - マニフェスト [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=smH_qPRe3XM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "RADWIMPS",
-        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-06-15",
-      "viewCount": "1761万",
-      "likeCount": "6.6万",
-      "commentCount": "4476",
-      "increment_d1": "1745"
-    },
-    {
-      "rank": 1963,
       "thumb": {
         "img": "https://i.ytimg.com/vi/YSMw2mrIi-Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=YSMw2mrIi-Q",
@@ -297,7 +274,30 @@
       "viewCount": "1761万",
       "likeCount": "11.8万",
       "commentCount": "4206",
-      "increment_d1": "5672"
+      "increment_d1": "5221"
+    },
+    {
+      "rank": 1963,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/smH_qPRe3XM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=smH_qPRe3XM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "RADWIMPS - マニフェスト [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=smH_qPRe3XM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "RADWIMPS",
+        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-06-15",
+      "viewCount": "1761万",
+      "likeCount": "6.6万",
+      "commentCount": "4478",
+      "increment_d1": "1546"
     },
     {
       "rank": 1964,
@@ -319,8 +319,8 @@
       "publishedAt": "2022-11-23",
       "viewCount": "1761万",
       "likeCount": "-",
-      "commentCount": "4015",
-      "increment_d1": "3386"
+      "commentCount": "4014",
+      "increment_d1": "2849"
     },
     {
       "rank": 1965,
@@ -340,13 +340,36 @@
         "target": "_blank"
       },
       "publishedAt": "2012-01-06",
-      "viewCount": "1760万",
+      "viewCount": "1761万",
       "likeCount": "8.9万",
-      "commentCount": "3693",
-      "increment_d1": "4987"
+      "commentCount": "3697",
+      "increment_d1": "4510"
     },
     {
       "rank": 1966,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/rLKqcYWb15w/default.jpg",
+        "url": "https://www.youtube.com/watch?v=rLKqcYWb15w",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "timelesz ｢Rock this Party｣ (YouTube Ver.)",
+        "url": "https://www.youtube.com/watch?v=rLKqcYWb15w",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "timelesz [タイムレス]",
+        "url": "https://www.youtube.com/channel/UCgXJMvOBqHk5wJFRKZfIgWQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-03-21",
+      "viewCount": "1761万",
+      "likeCount": "18万",
+      "commentCount": "2.3万",
+      "increment_d1": "2.06万"
+    },
+    {
+      "rank": 1967,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qHUpPzDVv7g/default.jpg",
         "url": "https://www.youtube.com/watch?v=qHUpPzDVv7g",
@@ -366,30 +389,7 @@
       "viewCount": "1760万",
       "likeCount": "14.6万",
       "commentCount": "-",
-      "increment_d1": "127"
-    },
-    {
-      "rank": 1967,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/bMPuDj3kGOM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=bMPuDj3kGOM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "星野源 – 異世界混合大舞踏会 (feat. おばけ) [Official Video]",
-        "url": "https://www.youtube.com/watch?v=bMPuDj3kGOM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "星野源 Gen Hoshino",
-        "url": "https://www.youtube.com/channel/UCPKlrgZXnnb89nSeITvTdGA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-07-17",
-      "viewCount": "1759万",
-      "likeCount": "18.1万",
-      "commentCount": "4078",
-      "increment_d1": "4959"
+      "increment_d1": "69"
     },
     {
       "rank": 1968,
@@ -409,33 +409,33 @@
         "target": "_blank"
       },
       "publishedAt": "2024-12-31",
-      "viewCount": "1759万",
+      "viewCount": "1760万",
       "likeCount": "-",
       "commentCount": "1万",
-      "increment_d1": "1.43万"
+      "increment_d1": "1.07万"
     },
     {
       "rank": 1969,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/rLKqcYWb15w/default.jpg",
-        "url": "https://www.youtube.com/watch?v=rLKqcYWb15w",
+        "img": "https://i.ytimg.com/vi/bMPuDj3kGOM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=bMPuDj3kGOM",
         "target": "_blank"
       },
       "title": {
-        "text": "timelesz ｢Rock this Party｣ (YouTube Ver.)",
-        "url": "https://www.youtube.com/watch?v=rLKqcYWb15w",
+        "text": "星野源 – 異世界混合大舞踏会 (feat. おばけ) [Official Video]",
+        "url": "https://www.youtube.com/watch?v=bMPuDj3kGOM",
         "target": "_blank"
       },
       "channel": {
-        "text": "timelesz [タイムレス]",
-        "url": "https://www.youtube.com/channel/UCgXJMvOBqHk5wJFRKZfIgWQ",
+        "text": "星野源 Gen Hoshino",
+        "url": "https://www.youtube.com/channel/UCPKlrgZXnnb89nSeITvTdGA",
         "target": "_blank"
       },
-      "publishedAt": "2025-03-21",
-      "viewCount": "1759万",
-      "likeCount": "18万",
-      "commentCount": "2.3万",
-      "increment_d1": "2.51万"
+      "publishedAt": "2022-07-17",
+      "viewCount": "1760万",
+      "likeCount": "18.1万",
+      "commentCount": "4078",
+      "increment_d1": "4185"
     },
     {
       "rank": 1970,
@@ -455,10 +455,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-12",
-      "viewCount": "1758万",
+      "viewCount": "1759万",
       "likeCount": "17.8万",
       "commentCount": "2103",
-      "increment_d1": "7117"
+      "increment_d1": "7017"
     },
     {
       "rank": 1971,
@@ -478,36 +478,13 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-17",
-      "viewCount": "1757万",
+      "viewCount": "1758万",
       "likeCount": "8.4万",
       "commentCount": "610",
-      "increment_d1": "9803"
+      "increment_d1": "1.06万"
     },
     {
       "rank": 1972,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/t45PfVikU2s/default.jpg",
-        "url": "https://www.youtube.com/watch?v=t45PfVikU2s",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "HoneyWorks meets スフィア 『一分一秒君と僕の』",
-        "url": "https://www.youtube.com/watch?v=t45PfVikU2s",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-04-08",
-      "viewCount": "1756万",
-      "likeCount": "10.5万",
-      "commentCount": "6023",
-      "increment_d1": "937"
-    },
-    {
-      "rank": 1973,
       "thumb": {
         "img": "https://i.ytimg.com/vi/1QEKNvw4DPU/default.jpg",
         "url": "https://www.youtube.com/watch?v=1QEKNvw4DPU",
@@ -524,10 +501,33 @@
         "target": "_blank"
       },
       "publishedAt": "2013-01-25",
-      "viewCount": "1756万",
+      "viewCount": "1757万",
       "likeCount": "5.2万",
       "commentCount": "1438",
-      "increment_d1": "1593"
+      "increment_d1": "1414"
+    },
+    {
+      "rank": 1973,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/t45PfVikU2s/default.jpg",
+        "url": "https://www.youtube.com/watch?v=t45PfVikU2s",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "HoneyWorks meets スフィア 『一分一秒君と僕の』",
+        "url": "https://www.youtube.com/watch?v=t45PfVikU2s",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-04-08",
+      "viewCount": "1757万",
+      "likeCount": "10.5万",
+      "commentCount": "6023",
+      "increment_d1": "843"
     },
     {
       "rank": 1974,
@@ -550,7 +550,7 @@
       "viewCount": "1756万",
       "likeCount": "11.5万",
       "commentCount": "1.2万",
-      "increment_d1": "1644"
+      "increment_d1": "1239"
     },
     {
       "rank": 1975,
@@ -573,7 +573,7 @@
       "viewCount": "1756万",
       "likeCount": "15万",
       "commentCount": "7326",
-      "increment_d1": "471"
+      "increment_d1": "425"
     },
     {
       "rank": 1976,
@@ -596,7 +596,7 @@
       "viewCount": "1754万",
       "likeCount": "4.6万",
       "commentCount": "1684",
-      "increment_d1": "1944"
+      "increment_d1": "1771"
     },
     {
       "rank": 1977,
@@ -619,7 +619,7 @@
       "viewCount": "1753万",
       "likeCount": "10.3万",
       "commentCount": "3761",
-      "increment_d1": "1292"
+      "increment_d1": "1254"
     },
     {
       "rank": 1978,
@@ -642,33 +642,10 @@
       "viewCount": "1750万",
       "likeCount": "41.6万",
       "commentCount": "1.5万",
-      "increment_d1": "742"
+      "increment_d1": "603"
     },
     {
       "rank": 1979,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/yw8OmnujQdc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=yw8OmnujQdc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "スキマスイッチ - 「ガラナ」Music Video：SUKIMASWITCH - GUARANA Music Video",
-        "url": "https://www.youtube.com/watch?v=yw8OmnujQdc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SukimaSwitchVEVO",
-        "url": "https://www.youtube.com/channel/UCK3avWTCKdXZyYiHUEsCzNQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2008-12-08",
-      "viewCount": "1750万",
-      "likeCount": "3.3万",
-      "commentCount": "1557",
-      "increment_d1": "1475"
-    },
-    {
-      "rank": 1980,
       "thumb": {
         "img": "https://i.ytimg.com/vi/xICiMjSo9ik/default.jpg",
         "url": "https://www.youtube.com/watch?v=xICiMjSo9ik",
@@ -688,7 +665,30 @@
       "viewCount": "1750万",
       "likeCount": "-",
       "commentCount": "6936",
-      "increment_d1": "2325"
+      "increment_d1": "2000"
+    },
+    {
+      "rank": 1980,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/yw8OmnujQdc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=yw8OmnujQdc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "スキマスイッチ - 「ガラナ」Music Video：SUKIMASWITCH - GUARANA Music Video",
+        "url": "https://www.youtube.com/watch?v=yw8OmnujQdc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SukimaSwitchVEVO",
+        "url": "https://www.youtube.com/channel/UCK3avWTCKdXZyYiHUEsCzNQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2008-12-08",
+      "viewCount": "1750万",
+      "likeCount": "3.3万",
+      "commentCount": "1557",
+      "increment_d1": "1444"
     },
     {
       "rank": 1981,
@@ -708,10 +708,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-10-18",
-      "viewCount": "1749万",
+      "viewCount": "1750万",
       "likeCount": "5.6万",
       "commentCount": "2914",
-      "increment_d1": "1.26万"
+      "increment_d1": "8248"
     },
     {
       "rank": 1982,
@@ -734,7 +734,7 @@
       "viewCount": "1748万",
       "likeCount": "6.2万",
       "commentCount": "2722",
-      "increment_d1": "2331"
+      "increment_d1": "2367"
     },
     {
       "rank": 1983,
@@ -757,7 +757,7 @@
       "viewCount": "1748万",
       "likeCount": "10.9万",
       "commentCount": "-",
-      "increment_d1": "3326"
+      "increment_d1": "2549"
     },
     {
       "rank": 1984,
@@ -777,10 +777,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-06-18",
-      "viewCount": "1747万",
+      "viewCount": "1748万",
       "likeCount": "7万",
       "commentCount": "2264",
-      "increment_d1": "2497"
+      "increment_d1": "2066"
     },
     {
       "rank": 1985,
@@ -803,7 +803,7 @@
       "viewCount": "1746万",
       "likeCount": "4.6万",
       "commentCount": "2074",
-      "increment_d1": "1954"
+      "increment_d1": "1886"
     },
     {
       "rank": 1986,
@@ -823,10 +823,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-04-27",
-      "viewCount": "1744万",
+      "viewCount": "1745万",
       "likeCount": "11.9万",
       "commentCount": "1.8万",
-      "increment_d1": "1572"
+      "increment_d1": "1501"
     },
     {
       "rank": 1987,
@@ -849,7 +849,7 @@
       "viewCount": "1744万",
       "likeCount": "4.2万",
       "commentCount": "2806",
-      "increment_d1": "6108"
+      "increment_d1": "5279"
     },
     {
       "rank": 1988,
@@ -872,10 +872,79 @@
       "viewCount": "1743万",
       "likeCount": "14.9万",
       "commentCount": "4253",
-      "increment_d1": "2074"
+      "increment_d1": "2024"
     },
     {
       "rank": 1989,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Xt2g7cSzwiY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Xt2g7cSzwiY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "miwa 『夜空。feat. ハジ→』 Music Video",
+        "url": "https://www.youtube.com/watch?v=Xt2g7cSzwiY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "miwa official YouTube channel",
+        "url": "https://www.youtube.com/channel/UC9cz0t8P3VkTHY7xjbS8zHA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-03-20",
+      "viewCount": "1741万",
+      "likeCount": "11.3万",
+      "commentCount": "2831",
+      "increment_d1": "4887"
+    },
+    {
+      "rank": 1990,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/tBlKD8TciBI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=tBlKD8TciBI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "安田レイ『Mirror』「魔法科高校の劣等生」EDテーマ",
+        "url": "https://www.youtube.com/watch?v=tBlKD8TciBI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "安田レイ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCNixIyfycKqFCsScXnzK2Hg",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-08-27",
+      "viewCount": "1741万",
+      "likeCount": "8.7万",
+      "commentCount": "2301",
+      "increment_d1": "2865"
+    },
+    {
+      "rank": 1991,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/3eTgzVWBejM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=3eTgzVWBejM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "勝たんしか症候群 / たかやん (Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=3eTgzVWBejM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "たかやん / Takayan",
+        "url": "https://www.youtube.com/channel/UCHGGjDM6Z7nq5qBIPzn1D7Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-06-06",
+      "viewCount": "1741万",
+      "likeCount": "21.1万",
+      "commentCount": "2520",
+      "increment_d1": "1178"
+    },
+    {
+      "rank": 1992,
       "thumb": {
         "img": "https://i.ytimg.com/vi/2YV6IJLoBv4/default.jpg",
         "url": "https://www.youtube.com/watch?v=2YV6IJLoBv4",
@@ -895,56 +964,10 @@
       "viewCount": "1741万",
       "likeCount": "6.5万",
       "commentCount": "-",
-      "increment_d1": "984"
+      "increment_d1": "775"
     },
     {
-      "rank": 1990,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/3eTgzVWBejM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=3eTgzVWBejM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "勝たんしか症候群 / たかやん (Official Music Video)",
-        "url": "https://www.youtube.com/watch?v=3eTgzVWBejM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "たかやん / Takayan",
-        "url": "https://www.youtube.com/channel/UCHGGjDM6Z7nq5qBIPzn1D7Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-06-06",
-      "viewCount": "1741万",
-      "likeCount": "21.1万",
-      "commentCount": "2519",
-      "increment_d1": "1096"
-    },
-    {
-      "rank": 1991,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/tBlKD8TciBI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=tBlKD8TciBI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "安田レイ『Mirror』「魔法科高校の劣等生」EDテーマ",
-        "url": "https://www.youtube.com/watch?v=tBlKD8TciBI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "安田レイ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCNixIyfycKqFCsScXnzK2Hg",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-08-27",
-      "viewCount": "1741万",
-      "likeCount": "8.7万",
-      "commentCount": "2300",
-      "increment_d1": "2779"
-    },
-    {
-      "rank": 1992,
+      "rank": 1993,
       "thumb": {
         "img": "https://i.ytimg.com/vi/dMGFcDByan4/default.jpg",
         "url": "https://www.youtube.com/watch?v=dMGFcDByan4",
@@ -964,30 +987,7 @@
       "viewCount": "1741万",
       "likeCount": "15.2万",
       "commentCount": "3831",
-      "increment_d1": "2157"
-    },
-    {
-      "rank": 1993,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Xt2g7cSzwiY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Xt2g7cSzwiY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "miwa 『夜空。feat. ハジ→』 Music Video",
-        "url": "https://www.youtube.com/watch?v=Xt2g7cSzwiY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "miwa official YouTube channel",
-        "url": "https://www.youtube.com/channel/UC9cz0t8P3VkTHY7xjbS8zHA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-03-20",
-      "viewCount": "1741万",
-      "likeCount": "11.3万",
-      "commentCount": "2830",
-      "increment_d1": "4790"
+      "increment_d1": "2131"
     },
     {
       "rank": 1994,
@@ -1010,7 +1010,7 @@
       "viewCount": "1741万",
       "likeCount": "14.6万",
       "commentCount": "2645",
-      "increment_d1": "3647"
+      "increment_d1": "3153"
     },
     {
       "rank": 1995,
@@ -1030,10 +1030,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-04",
-      "viewCount": "1740万",
+      "viewCount": "1741万",
       "likeCount": "20万",
-      "commentCount": "5337",
-      "increment_d1": "6922"
+      "commentCount": "5336",
+      "increment_d1": "6667"
     },
     {
       "rank": 1996,
@@ -1056,7 +1056,7 @@
       "viewCount": "1739万",
       "likeCount": "7万",
       "commentCount": "2344",
-      "increment_d1": "1238"
+      "increment_d1": "1170"
     },
     {
       "rank": 1997,
@@ -1079,10 +1079,56 @@
       "viewCount": "1739万",
       "likeCount": "12.2万",
       "commentCount": "3104",
-      "increment_d1": "1177"
+      "increment_d1": "1170"
     },
     {
       "rank": 1998,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/8L5cQlXMpeY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=8L5cQlXMpeY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "あたらよ-「僕は...」(Music Video)/TVアニメ「僕の心のヤバイやつ」第2期OPテーマ",
+        "url": "https://www.youtube.com/watch?v=8L5cQlXMpeY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "あたらよ - Atarayo",
+        "url": "https://www.youtube.com/channel/UCgrtbLQsox2EYtF0iVclZjA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-01-13",
+      "viewCount": "1737万",
+      "likeCount": "14.7万",
+      "commentCount": "1642",
+      "increment_d1": "2.23万"
+    },
+    {
+      "rank": 1999,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/uG1n782y2ZM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=uG1n782y2ZM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow Man「僕という名のドラマ」1st DOME tour 2023 i DO ME Ver.",
+        "url": "https://www.youtube.com/watch?v=uG1n782y2ZM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Snow Man",
+        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-12-06",
+      "viewCount": "1737万",
+      "likeCount": "-",
+      "commentCount": "7223",
+      "increment_d1": "1.11万"
+    },
+    {
+      "rank": 2000,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vBfMhaT3feM/default.jpg",
         "url": "https://www.youtube.com/watch?v=vBfMhaT3feM",
@@ -1102,53 +1148,7 @@
       "viewCount": "1737万",
       "likeCount": "40.8万",
       "commentCount": "1.9万",
-      "increment_d1": "979"
-    },
-    {
-      "rank": 1999,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/EQva8xKAZ7s/default.jpg",
-        "url": "https://www.youtube.com/watch?v=EQva8xKAZ7s",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "あいみょん –真夏の夜の匂いがする【OFFICIAL MUSIC VIDEO】",
-        "url": "https://www.youtube.com/watch?v=EQva8xKAZ7s",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "あいみょん",
-        "url": "https://www.youtube.com/channel/UCG8MvaPCa2ecKH3GZyFxduA",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-07-19",
-      "viewCount": "1737万",
-      "likeCount": "11.5万",
-      "commentCount": "4530",
-      "increment_d1": "905"
-    },
-    {
-      "rank": 2000,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Ta5NSt7O_4o/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Ta5NSt7O_4o",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "AAA / 「Next Stage　from『AAA ARENA TOUR 2014 -Gold Symphony-』」",
-        "url": "https://www.youtube.com/watch?v=Ta5NSt7O_4o",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-02-20",
-      "viewCount": "1737万",
-      "likeCount": "6.1万",
-      "commentCount": "2746",
-      "increment_d1": "1084"
+      "increment_d1": "915"
     }
   ]
 }

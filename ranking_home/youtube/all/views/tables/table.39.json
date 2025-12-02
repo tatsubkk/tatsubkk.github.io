@@ -20,8 +20,8 @@
       "publishedAt": "2020-09-24",
       "viewCount": "1816万",
       "likeCount": "3.3万",
-      "commentCount": "2001",
-      "increment_d1": "7842"
+      "commentCount": "2002",
+      "increment_d1": "7520"
     },
     {
       "rank": 1902,
@@ -44,7 +44,7 @@
       "viewCount": "1816万",
       "likeCount": "6.9万",
       "commentCount": "69",
-      "increment_d1": "87"
+      "increment_d1": "69"
     },
     {
       "rank": 1903,
@@ -64,10 +64,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-02-23",
-      "viewCount": "1815万",
+      "viewCount": "1816万",
       "likeCount": "8.3万",
       "commentCount": "3296",
-      "increment_d1": "4028"
+      "increment_d1": "3566"
     },
     {
       "rank": 1904,
@@ -89,8 +89,8 @@
       "publishedAt": "2015-04-08",
       "viewCount": "1815万",
       "likeCount": "12.7万",
-      "commentCount": "3622",
-      "increment_d1": "2457"
+      "commentCount": "3625",
+      "increment_d1": "2422"
     },
     {
       "rank": 1905,
@@ -110,10 +110,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-09-25",
-      "viewCount": "1814万",
+      "viewCount": "1815万",
       "likeCount": "8.3万",
       "commentCount": "3817",
-      "increment_d1": "5613"
+      "increment_d1": "5381"
     },
     {
       "rank": 1906,
@@ -133,10 +133,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-04-24",
-      "viewCount": "1813万",
+      "viewCount": "1814万",
       "likeCount": "2.8万",
       "commentCount": "1602",
-      "increment_d1": "503"
+      "increment_d1": "651"
     },
     {
       "rank": 1907,
@@ -158,34 +158,11 @@
       "publishedAt": "2014-02-28",
       "viewCount": "1812万",
       "likeCount": "5.2万",
-      "commentCount": "3599",
-      "increment_d1": "869"
+      "commentCount": "3598",
+      "increment_d1": "749"
     },
     {
       "rank": 1908,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/oCRlKdMnPLI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=oCRlKdMnPLI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【ももクロMV】Z伝説～終わりなき革命～ / ももいろクローバーZ（MOMOIRO CLOVER Z／Z DENSETSU -OWARINAKI KAKUMEI-）",
-        "url": "https://www.youtube.com/watch?v=oCRlKdMnPLI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "stardustdigital",
-        "url": "https://www.youtube.com/channel/UCvy4XUrowYvliS5rpLSAMuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-06-20",
-      "viewCount": "1811万",
-      "likeCount": "2.3万",
-      "commentCount": "2567",
-      "increment_d1": "286"
-    },
-    {
-      "rank": 1909,
       "thumb": {
         "img": "https://i.ytimg.com/vi/khplMpm4ctc/default.jpg",
         "url": "https://www.youtube.com/watch?v=khplMpm4ctc",
@@ -202,13 +179,82 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-21",
-      "viewCount": "1811万",
+      "viewCount": "1812万",
       "likeCount": "35.3万",
       "commentCount": "8280",
-      "increment_d1": "1.38万"
+      "increment_d1": "1.35万"
+    },
+    {
+      "rank": 1909,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/oCRlKdMnPLI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=oCRlKdMnPLI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【ももクロMV】Z伝説～終わりなき革命～ / ももいろクローバーZ（MOMOIRO CLOVER Z／Z DENSETSU -OWARINAKI KAKUMEI-）",
+        "url": "https://www.youtube.com/watch?v=oCRlKdMnPLI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "stardustdigital",
+        "url": "https://www.youtube.com/channel/UCvy4XUrowYvliS5rpLSAMuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-06-20",
+      "viewCount": "1812万",
+      "likeCount": "2.3万",
+      "commentCount": "2567",
+      "increment_d1": "249"
     },
     {
       "rank": 1910,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ZgRPDC4xE4A/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ZgRPDC4xE4A",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "B’z / LOVE PHANTOM【B'z LIVE-GYM Pleasure 2023 -STARS-】",
+        "url": "https://www.youtube.com/watch?v=ZgRPDC4xE4A",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Bz",
+        "url": "https://www.youtube.com/channel/UCpEEcJhBig2GqUFxcXjqiLg",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-01-10",
+      "viewCount": "1811万",
+      "likeCount": "8.7万",
+      "commentCount": "4448",
+      "increment_d1": "3.88万"
+    },
+    {
+      "rank": 1911,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/fAuh0gBjjDI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=fAuh0gBjjDI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "藤井 風(Fujii Kaze) - “何なんw”(Nan-Nan) at 日本武道館(Nippon Budokan)",
+        "url": "https://www.youtube.com/watch?v=fAuh0gBjjDI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Fujii Kaze",
+        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-04-09",
+      "viewCount": "1811万",
+      "likeCount": "17.8万",
+      "commentCount": "6863",
+      "increment_d1": "5333"
+    },
+    {
+      "rank": 1912,
       "thumb": {
         "img": "https://i.ytimg.com/vi/4g9ZlGhN7oU/default.jpg",
         "url": "https://www.youtube.com/watch?v=4g9ZlGhN7oU",
@@ -228,10 +274,10 @@
       "viewCount": "1810万",
       "likeCount": "2.7万",
       "commentCount": "1191",
-      "increment_d1": "1651"
+      "increment_d1": "1251"
     },
     {
-      "rank": 1911,
+      "rank": 1913,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3tna5dDdDKc/default.jpg",
         "url": "https://www.youtube.com/watch?v=3tna5dDdDKc",
@@ -251,33 +297,10 @@
       "viewCount": "1810万",
       "likeCount": "12.8万",
       "commentCount": "10.2万",
-      "increment_d1": "1612"
+      "increment_d1": "1703"
     },
     {
-      "rank": 1912,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/fAuh0gBjjDI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=fAuh0gBjjDI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "藤井 風(Fujii Kaze) - “何なんw”(Nan-Nan) at 日本武道館(Nippon Budokan)",
-        "url": "https://www.youtube.com/watch?v=fAuh0gBjjDI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Fujii Kaze",
-        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-04-09",
-      "viewCount": "1810万",
-      "likeCount": "17.8万",
-      "commentCount": "6860",
-      "increment_d1": "6232"
-    },
-    {
-      "rank": 1913,
+      "rank": 1914,
       "thumb": {
         "img": "https://i.ytimg.com/vi/gl9RMAubr2Y/default.jpg",
         "url": "https://www.youtube.com/watch?v=gl9RMAubr2Y",
@@ -297,10 +320,10 @@
       "viewCount": "1809万",
       "likeCount": "-",
       "commentCount": "1.2万",
-      "increment_d1": "1843"
+      "increment_d1": "1645"
     },
     {
-      "rank": 1914,
+      "rank": 1915,
       "thumb": {
         "img": "https://i.ytimg.com/vi/aXAzTUbUB6Y/default.jpg",
         "url": "https://www.youtube.com/watch?v=aXAzTUbUB6Y",
@@ -320,10 +343,10 @@
       "viewCount": "1808万",
       "likeCount": "24.1万",
       "commentCount": "8478",
-      "increment_d1": "175"
+      "increment_d1": "180"
     },
     {
-      "rank": 1915,
+      "rank": 1916,
       "thumb": {
         "img": "https://i.ytimg.com/vi/G6s8HF1WsJY/default.jpg",
         "url": "https://www.youtube.com/watch?v=G6s8HF1WsJY",
@@ -343,30 +366,7 @@
       "viewCount": "1808万",
       "likeCount": "10.1万",
       "commentCount": "1.1万",
-      "increment_d1": "1927"
-    },
-    {
-      "rank": 1916,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ZgRPDC4xE4A/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ZgRPDC4xE4A",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "B’z / LOVE PHANTOM【B'z LIVE-GYM Pleasure 2023 -STARS-】",
-        "url": "https://www.youtube.com/watch?v=ZgRPDC4xE4A",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Bz",
-        "url": "https://www.youtube.com/channel/UCpEEcJhBig2GqUFxcXjqiLg",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-01-10",
-      "viewCount": "1808万",
-      "likeCount": "8.7万",
-      "commentCount": "4443",
-      "increment_d1": "4.43万"
+      "increment_d1": "1907"
     },
     {
       "rank": 1917,
@@ -386,10 +386,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-23",
-      "viewCount": "1807万",
+      "viewCount": "1808万",
       "likeCount": "4.5万",
-      "commentCount": "1671",
-      "increment_d1": "9667"
+      "commentCount": "1673",
+      "increment_d1": "9061"
     },
     {
       "rank": 1918,
@@ -412,7 +412,7 @@
       "viewCount": "1806万",
       "likeCount": "4.2万",
       "commentCount": "687",
-      "increment_d1": "832"
+      "increment_d1": "798"
     },
     {
       "rank": 1919,
@@ -435,7 +435,7 @@
       "viewCount": "1805万",
       "likeCount": "15.9万",
       "commentCount": "1.4万",
-      "increment_d1": "977"
+      "increment_d1": "745"
     },
     {
       "rank": 1920,
@@ -455,10 +455,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-17",
-      "viewCount": "1803万",
+      "viewCount": "1804万",
       "likeCount": "10.7万",
       "commentCount": "2189",
-      "increment_d1": "6423"
+      "increment_d1": "5342"
     },
     {
       "rank": 1921,
@@ -481,7 +481,7 @@
       "viewCount": "1800万",
       "likeCount": "30.5万",
       "commentCount": "1.2万",
-      "increment_d1": "1895"
+      "increment_d1": "2094"
     },
     {
       "rank": 1922,
@@ -503,8 +503,8 @@
       "publishedAt": "2013-09-20",
       "viewCount": "1799万",
       "likeCount": "8.7万",
-      "commentCount": "3060",
-      "increment_d1": "1104"
+      "commentCount": "3061",
+      "increment_d1": "951"
     },
     {
       "rank": 1923,
@@ -527,33 +527,10 @@
       "viewCount": "1797万",
       "likeCount": "-",
       "commentCount": "5683",
-      "increment_d1": "2499"
+      "increment_d1": "2128"
     },
     {
       "rank": 1924,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/FrUKGoBkVvI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=FrUKGoBkVvI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【みうめ・メイリア・217＋ATY】「Hysteric Bullet」 踊っちゃってみたコラボ OFFiCiAL",
-        "url": "https://www.youtube.com/watch?v=FrUKGoBkVvI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "GARNiDELiA",
-        "url": "https://www.youtube.com/channel/UCAYfguaShVaNDU561_jJoOQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-09-01",
-      "viewCount": "1797万",
-      "likeCount": "14.9万",
-      "commentCount": "3742",
-      "increment_d1": "1277"
-    },
-    {
-      "rank": 1925,
       "thumb": {
         "img": "https://i.ytimg.com/vi/XiA3OcZLpok/default.jpg",
         "url": "https://www.youtube.com/watch?v=XiA3OcZLpok",
@@ -573,10 +550,56 @@
       "viewCount": "1797万",
       "likeCount": "6.6万",
       "commentCount": "2578",
-      "increment_d1": "3785"
+      "increment_d1": "3645"
+    },
+    {
+      "rank": 1925,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/FrUKGoBkVvI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=FrUKGoBkVvI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【みうめ・メイリア・217＋ATY】「Hysteric Bullet」 踊っちゃってみたコラボ OFFiCiAL",
+        "url": "https://www.youtube.com/watch?v=FrUKGoBkVvI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "GARNiDELiA",
+        "url": "https://www.youtube.com/channel/UCAYfguaShVaNDU561_jJoOQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-09-01",
+      "viewCount": "1797万",
+      "likeCount": "14.9万",
+      "commentCount": "3742",
+      "increment_d1": "1166"
     },
     {
       "rank": 1926,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/35nV_M3asRs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=35nV_M3asRs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "インソムニア (INSOMNIA) – Eve Music Video",
+        "url": "https://www.youtube.com/watch?v=35nV_M3asRs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Eve",
+        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-06-09",
+      "viewCount": "1797万",
+      "likeCount": "36.3万",
+      "commentCount": "6252",
+      "increment_d1": "1.05万"
+    },
+    {
+      "rank": 1927,
       "thumb": {
         "img": "https://i.ytimg.com/vi/q_8bLygFaxs/default.jpg",
         "url": "https://www.youtube.com/watch?v=q_8bLygFaxs",
@@ -595,34 +618,34 @@
       "publishedAt": "2012-04-06",
       "viewCount": "1797万",
       "likeCount": "11.7万",
-      "commentCount": "6252",
-      "increment_d1": "1831"
-    },
-    {
-      "rank": 1927,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/35nV_M3asRs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=35nV_M3asRs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "インソムニア (INSOMNIA) – Eve Music Video",
-        "url": "https://www.youtube.com/watch?v=35nV_M3asRs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Eve",
-        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-06-09",
-      "viewCount": "1796万",
-      "likeCount": "36.3万",
-      "commentCount": "6246",
-      "increment_d1": "1.08万"
+      "commentCount": "6253",
+      "increment_d1": "1589"
     },
     {
       "rank": 1928,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/LH3op7GECSk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=LH3op7GECSk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "酒井法子「碧いうさぎ」Music Video",
+        "url": "https://www.youtube.com/watch?v=LH3op7GECSk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Victor Entertainment",
+        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-02-04",
+      "viewCount": "1796万",
+      "likeCount": "5万",
+      "commentCount": "2849",
+      "increment_d1": "1.11万"
+    },
+    {
+      "rank": 1929,
       "thumb": {
         "img": "https://i.ytimg.com/vi/TlgDgNDSZYE/default.jpg",
         "url": "https://www.youtube.com/watch?v=TlgDgNDSZYE",
@@ -641,31 +664,8 @@
       "publishedAt": "2013-05-27",
       "viewCount": "1796万",
       "likeCount": "5.9万",
-      "commentCount": "1427",
-      "increment_d1": "2334"
-    },
-    {
-      "rank": 1929,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/LH3op7GECSk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=LH3op7GECSk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "酒井法子「碧いうさぎ」Music Video",
-        "url": "https://www.youtube.com/watch?v=LH3op7GECSk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Victor Entertainment",
-        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-02-04",
-      "viewCount": "1795万",
-      "likeCount": "5万",
-      "commentCount": "2847",
-      "increment_d1": "1.12万"
+      "commentCount": "1426",
+      "increment_d1": "2362"
     },
     {
       "rank": 1930,
@@ -687,8 +687,8 @@
       "publishedAt": "2019-01-24",
       "viewCount": "1795万",
       "likeCount": "21.2万",
-      "commentCount": "5800",
-      "increment_d1": "2428"
+      "commentCount": "5799",
+      "increment_d1": "2293"
     },
     {
       "rank": 1931,
@@ -711,7 +711,7 @@
       "viewCount": "1794万",
       "likeCount": "10.8万",
       "commentCount": "5682",
-      "increment_d1": "1291"
+      "increment_d1": "1038"
     },
     {
       "rank": 1932,
@@ -734,7 +734,7 @@
       "viewCount": "1793万",
       "likeCount": "10.4万",
       "commentCount": "4472",
-      "increment_d1": "4833"
+      "increment_d1": "4366"
     },
     {
       "rank": 1933,
@@ -754,13 +754,36 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-12",
-      "viewCount": "1786万",
+      "viewCount": "1787万",
       "likeCount": "9万",
       "commentCount": "1.6万",
-      "increment_d1": "6065"
+      "increment_d1": "5258"
     },
     {
       "rank": 1934,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ngrBbLTvjN4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ngrBbLTvjN4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Aimer「星の消えた夜に -rit. ver.-」MUSIC VIDEO(new album『星の消えた夜に』now on sale）",
+        "url": "https://www.youtube.com/watch?v=ngrBbLTvjN4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Aimer Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCR1zT1s524Hbc85bdvno_8w",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-01-23",
+      "viewCount": "1786万",
+      "likeCount": "9.1万",
+      "commentCount": "970",
+      "increment_d1": "1.71万"
+    },
+    {
+      "rank": 1935,
       "thumb": {
         "img": "https://i.ytimg.com/vi/aWJqUqC0s6w/default.jpg",
         "url": "https://www.youtube.com/watch?v=aWJqUqC0s6w",
@@ -780,10 +803,10 @@
       "viewCount": "1786万",
       "likeCount": "-",
       "commentCount": "9538",
-      "increment_d1": "2884"
+      "increment_d1": "2827"
     },
     {
-      "rank": 1935,
+      "rank": 1936,
       "thumb": {
         "img": "https://i.ytimg.com/vi/CGFxOv0atdI/default.jpg",
         "url": "https://www.youtube.com/watch?v=CGFxOv0atdI",
@@ -800,33 +823,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-08-29",
-      "viewCount": "1785万",
+      "viewCount": "1786万",
       "likeCount": "15.3万",
       "commentCount": "2227",
-      "increment_d1": "1854"
-    },
-    {
-      "rank": 1936,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ngrBbLTvjN4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ngrBbLTvjN4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Aimer「星の消えた夜に -rit. ver.-」MUSIC VIDEO(new album『星の消えた夜に』now on sale）",
-        "url": "https://www.youtube.com/watch?v=ngrBbLTvjN4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Aimer Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCR1zT1s524Hbc85bdvno_8w",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-01-23",
-      "viewCount": "1785万",
-      "likeCount": "9.1万",
-      "commentCount": "970",
-      "increment_d1": "1.56万"
+      "increment_d1": "1991"
     },
     {
       "rank": 1937,
@@ -849,7 +849,7 @@
       "viewCount": "1781万",
       "likeCount": "6.6万",
       "commentCount": "3318",
-      "increment_d1": "4170"
+      "increment_d1": "3620"
     },
     {
       "rank": 1938,
@@ -872,7 +872,7 @@
       "viewCount": "1781万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "1597"
+      "increment_d1": "1470"
     },
     {
       "rank": 1939,
@@ -895,7 +895,7 @@
       "viewCount": "1780万",
       "likeCount": "16.4万",
       "commentCount": "5460",
-      "increment_d1": "2006"
+      "increment_d1": "1995"
     },
     {
       "rank": 1940,
@@ -918,7 +918,7 @@
       "viewCount": "1780万",
       "likeCount": "5.6万",
       "commentCount": "2867",
-      "increment_d1": "1007"
+      "increment_d1": "921"
     },
     {
       "rank": 1941,
@@ -941,7 +941,7 @@
       "viewCount": "1779万",
       "likeCount": "13万",
       "commentCount": "2403",
-      "increment_d1": "3846"
+      "increment_d1": "3344"
     },
     {
       "rank": 1942,
@@ -964,7 +964,7 @@
       "viewCount": "1775万",
       "likeCount": "7.4万",
       "commentCount": "2746",
-      "increment_d1": "815"
+      "increment_d1": "879"
     },
     {
       "rank": 1943,
@@ -987,10 +987,33 @@
       "viewCount": "1773万",
       "likeCount": "3.8万",
       "commentCount": "3619",
-      "increment_d1": "446"
+      "increment_d1": "424"
     },
     {
       "rank": 1944,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/CPt077N8g_w/default.jpg",
+        "url": "https://www.youtube.com/watch?v=CPt077N8g_w",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "西野カナ『GO FOR IT !!』MV Full",
+        "url": "https://www.youtube.com/watch?v=CPt077N8g_w",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-07-23",
+      "viewCount": "1773万",
+      "likeCount": "10万",
+      "commentCount": "2422",
+      "increment_d1": "1.13万"
+    },
+    {
+      "rank": 1945,
       "thumb": {
         "img": "https://i.ytimg.com/vi/gnmqEaiYfUg/default.jpg",
         "url": "https://www.youtube.com/watch?v=gnmqEaiYfUg",
@@ -1010,30 +1033,7 @@
       "viewCount": "1772万",
       "likeCount": "12万",
       "commentCount": "8301",
-      "increment_d1": "3799"
-    },
-    {
-      "rank": 1945,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/CPt077N8g_w/default.jpg",
-        "url": "https://www.youtube.com/watch?v=CPt077N8g_w",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "西野カナ『GO FOR IT !!』MV Full",
-        "url": "https://www.youtube.com/watch?v=CPt077N8g_w",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-07-23",
-      "viewCount": "1771万",
-      "likeCount": "10万",
-      "commentCount": "2422",
-      "increment_d1": "1.28万"
+      "increment_d1": "3211"
     },
     {
       "rank": 1946,
@@ -1056,7 +1056,7 @@
       "viewCount": "1771万",
       "likeCount": "17.1万",
       "commentCount": "5277",
-      "increment_d1": "6505"
+      "increment_d1": "6811"
     },
     {
       "rank": 1947,
@@ -1076,10 +1076,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-27",
-      "viewCount": "1769万",
+      "viewCount": "1770万",
       "likeCount": "45.3万",
-      "commentCount": "6200",
-      "increment_d1": "1.03万"
+      "commentCount": "6203",
+      "increment_d1": "9490"
     },
     {
       "rank": 1948,
@@ -1101,8 +1101,8 @@
       "publishedAt": "2013-03-24",
       "viewCount": "1769万",
       "likeCount": "8.2万",
-      "commentCount": "3840",
-      "increment_d1": "4146"
+      "commentCount": "3841",
+      "increment_d1": "3736"
     },
     {
       "rank": 1949,
@@ -1122,10 +1122,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-07-11",
-      "viewCount": "1768万",
+      "viewCount": "1769万",
       "likeCount": "12.8万",
       "commentCount": "421",
-      "increment_d1": "5865"
+      "increment_d1": "5454"
     },
     {
       "rank": 1950,
@@ -1148,7 +1148,7 @@
       "viewCount": "1768万",
       "likeCount": "15.2万",
       "commentCount": "7.7万",
-      "increment_d1": "3083"
+      "increment_d1": "2992"
     }
   ]
 }
