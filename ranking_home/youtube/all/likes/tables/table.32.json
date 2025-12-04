@@ -40,7 +40,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-05-07",
-      "viewCount": "2620万",
+      "viewCount": "2621万",
       "likeCount": "13.52万",
       "commentCount": "4983"
     },
@@ -62,8 +62,8 @@
         "target": "_blank"
       },
       "publishedAt": "2024-04-10",
-      "viewCount": "1184万",
-      "likeCount": "13.49万",
+      "viewCount": "1186万",
+      "likeCount": "13.5万",
       "commentCount": "2061"
     },
     {
@@ -86,32 +86,10 @@
       "publishedAt": "2015-07-31",
       "viewCount": "1907万",
       "likeCount": "13.47万",
-      "commentCount": "3536"
+      "commentCount": "3535"
     },
     {
       "rank": 1555,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/7njC5lgL61c/default.jpg",
-        "url": "https://www.youtube.com/watch?v=7njC5lgL61c",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "日向坂46 『ソンナコトナイヨ』",
-        "url": "https://www.youtube.com/watch?v=7njC5lgL61c",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "日向坂46 OFFICIAL YouTube CHANNEL",
-        "url": "https://www.youtube.com/channel/UCR0V48DJyWbwEAdxLL5FjxA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-01-23",
-      "viewCount": "2992万",
-      "likeCount": "13.46万",
-      "commentCount": "2万"
-    },
-    {
-      "rank": 1556,
       "thumb": {
         "img": "https://i.ytimg.com/vi/u2YSzzXb2I4/default.jpg",
         "url": "https://www.youtube.com/watch?v=u2YSzzXb2I4",
@@ -131,6 +109,28 @@
       "viewCount": "1196万",
       "likeCount": "13.46万",
       "commentCount": "3824"
+    },
+    {
+      "rank": 1556,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/7njC5lgL61c/default.jpg",
+        "url": "https://www.youtube.com/watch?v=7njC5lgL61c",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "日向坂46 『ソンナコトナイヨ』",
+        "url": "https://www.youtube.com/watch?v=7njC5lgL61c",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "日向坂46 OFFICIAL YouTube CHANNEL",
+        "url": "https://www.youtube.com/channel/UCR0V48DJyWbwEAdxLL5FjxA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-01-23",
+      "viewCount": "2993万",
+      "likeCount": "13.46万",
+      "commentCount": "2万"
     },
     {
       "rank": 1557,
@@ -172,9 +172,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-12-03",
-      "viewCount": "1929万",
-      "likeCount": "13.4万",
-      "commentCount": "2852"
+      "viewCount": "1931万",
+      "likeCount": "13.41万",
+      "commentCount": "2855"
     },
     {
       "rank": 1559,
@@ -194,34 +194,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-26",
-      "viewCount": "1509万",
-      "likeCount": "13.39万",
+      "viewCount": "1510万",
+      "likeCount": "13.4万",
       "commentCount": "2632"
     },
     {
       "rank": 1560,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/rzXxaJ4fOcc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=rzXxaJ4fOcc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "『劇場版「鬼滅の刃」無限城編』特報第2弾",
-        "url": "https://www.youtube.com/watch?v=rzXxaJ4fOcc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アニプレックス チャンネル",
-        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-12-08",
-      "viewCount": "1386万",
-      "likeCount": "13.38万",
-      "commentCount": "-"
-    },
-    {
-      "rank": 1561,
       "thumb": {
         "img": "https://i.ytimg.com/vi/7iZ4-4EYNnk/default.jpg",
         "url": "https://www.youtube.com/watch?v=7iZ4-4EYNnk",
@@ -238,31 +216,53 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-12",
-      "viewCount": "4397万",
-      "likeCount": "13.38万",
-      "commentCount": "7413"
+      "viewCount": "4399万",
+      "likeCount": "13.39万",
+      "commentCount": "7420"
+    },
+    {
+      "rank": 1561,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/rzXxaJ4fOcc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=rzXxaJ4fOcc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "『劇場版「鬼滅の刃」無限城編』特報第2弾",
+        "url": "https://www.youtube.com/watch?v=rzXxaJ4fOcc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "アニプレックス チャンネル",
+        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-12-08",
+      "viewCount": "1387万",
+      "likeCount": "13.39万",
+      "commentCount": "-"
     },
     {
       "rank": 1562,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/Sm3oRBhnk-0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Sm3oRBhnk-0",
+        "img": "https://i.ytimg.com/vi/VZBU8LvZ91Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=VZBU8LvZ91Q",
         "target": "_blank"
       },
       "title": {
-        "text": "366日 - HY（フル）",
-        "url": "https://www.youtube.com/watch?v=Sm3oRBhnk-0",
+        "text": "いきものがかり 『ありがとう』Music Video",
+        "url": "https://www.youtube.com/watch?v=VZBU8LvZ91Q",
         "target": "_blank"
       },
       "channel": {
-        "text": "high_note Music Lounge",
-        "url": "https://www.youtube.com/channel/UC88KSXMWdkv50V1Wm8CAYWg",
+        "text": "いきものがかり",
+        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
         "target": "_blank"
       },
-      "publishedAt": "2015-06-24",
-      "viewCount": "4820万",
-      "likeCount": "13.35万",
-      "commentCount": "6869"
+      "publishedAt": "2020-03-26",
+      "viewCount": "3121万",
+      "likeCount": "13.36万",
+      "commentCount": "8638"
     },
     {
       "rank": 1563,
@@ -282,31 +282,31 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-24",
-      "viewCount": "3418万",
+      "viewCount": "3420万",
       "likeCount": "13.35万",
-      "commentCount": "8167"
+      "commentCount": "8166"
     },
     {
       "rank": 1564,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/VZBU8LvZ91Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=VZBU8LvZ91Q",
+        "img": "https://i.ytimg.com/vi/Sm3oRBhnk-0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Sm3oRBhnk-0",
         "target": "_blank"
       },
       "title": {
-        "text": "いきものがかり 『ありがとう』Music Video",
-        "url": "https://www.youtube.com/watch?v=VZBU8LvZ91Q",
+        "text": "366日 - HY（フル）",
+        "url": "https://www.youtube.com/watch?v=Sm3oRBhnk-0",
         "target": "_blank"
       },
       "channel": {
-        "text": "いきものがかり",
-        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
+        "text": "high_note Music Lounge",
+        "url": "https://www.youtube.com/channel/UC88KSXMWdkv50V1Wm8CAYWg",
         "target": "_blank"
       },
-      "publishedAt": "2020-03-26",
-      "viewCount": "3118万",
+      "publishedAt": "2015-06-24",
+      "viewCount": "4820万",
       "likeCount": "13.35万",
-      "commentCount": "8631"
+      "commentCount": "6868"
     },
     {
       "rank": 1565,
@@ -328,7 +328,7 @@
       "publishedAt": "2017-09-05",
       "viewCount": "4007万",
       "likeCount": "13.34万",
-      "commentCount": "4459"
+      "commentCount": "4460"
     },
     {
       "rank": 1566,
@@ -370,9 +370,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-09-04",
-      "viewCount": "1840万",
-      "likeCount": "13.32万",
-      "commentCount": "2489"
+      "viewCount": "1842万",
+      "likeCount": "13.33万",
+      "commentCount": "2490"
     },
     {
       "rank": 1568,
@@ -392,9 +392,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-05-17",
-      "viewCount": "1638万",
+      "viewCount": "1639万",
       "likeCount": "13.31万",
-      "commentCount": "5293"
+      "commentCount": "5291"
     },
     {
       "rank": 1569,
@@ -414,9 +414,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-06-18",
-      "viewCount": "2541万",
-      "likeCount": "13.3万",
-      "commentCount": "3346"
+      "viewCount": "2542万",
+      "likeCount": "13.31万",
+      "commentCount": "3347"
     },
     {
       "rank": 1570,
@@ -443,6 +443,28 @@
     {
       "rank": 1571,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/DXo_xX_Hqro/default.jpg",
+        "url": "https://www.youtube.com/watch?v=DXo_xX_Hqro",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ)",
+        "url": "https://www.youtube.com/watch?v=DXo_xX_Hqro",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ポルノグラフィティ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCJeCKqR6uqrdCw6021WuWlA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-09-04",
+      "viewCount": "1603万",
+      "likeCount": "13.25万",
+      "commentCount": "2679"
+    },
+    {
+      "rank": 1572,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/gdHO7yobgUk/default.jpg",
         "url": "https://www.youtube.com/watch?v=gdHO7yobgUk",
         "target": "_blank"
@@ -460,32 +482,10 @@
       "publishedAt": "2016-11-24",
       "viewCount": "1120万",
       "likeCount": "13.24万",
-      "commentCount": "3115"
+      "commentCount": "3112"
     },
     {
-      "rank": 1572,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/DXo_xX_Hqro/default.jpg",
-        "url": "https://www.youtube.com/watch?v=DXo_xX_Hqro",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ポルノグラフィティ『メリッサ』MUSIC VIDEO (アニメ「鋼の錬金術師」第1クール OPテーマ)",
-        "url": "https://www.youtube.com/watch?v=DXo_xX_Hqro",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ポルノグラフィティ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCJeCKqR6uqrdCw6021WuWlA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-09-04",
-      "viewCount": "1601万",
-      "likeCount": "13.23万",
-      "commentCount": "2676"
-    },
-    {
-      "rank": 1572,
+      "rank": 1573,
       "thumb": {
         "img": "https://i.ytimg.com/vi/pnn8AaSPlGk/default.jpg",
         "url": "https://www.youtube.com/watch?v=pnn8AaSPlGk",
@@ -502,9 +502,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-18",
-      "viewCount": "2120万",
-      "likeCount": "13.23万",
-      "commentCount": "7210"
+      "viewCount": "2121万",
+      "likeCount": "13.24万",
+      "commentCount": "7215"
     },
     {
       "rank": 1574,
@@ -524,9 +524,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-27",
-      "viewCount": "1940万",
-      "likeCount": "13.23万",
-      "commentCount": "2382"
+      "viewCount": "1944万",
+      "likeCount": "13.24万",
+      "commentCount": "2385"
     },
     {
       "rank": 1575,
@@ -568,9 +568,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-05",
-      "viewCount": "1400万",
-      "likeCount": "13.2万",
-      "commentCount": "3054"
+      "viewCount": "1401万",
+      "likeCount": "13.21万",
+      "commentCount": "3057"
     },
     {
       "rank": 1577,
@@ -591,7 +591,7 @@
       },
       "publishedAt": "2016-11-01",
       "viewCount": "1272万",
-      "likeCount": "13.18万",
+      "likeCount": "13.19万",
       "commentCount": "-"
     },
     {
@@ -634,7 +634,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-12-31",
-      "viewCount": "1987万",
+      "viewCount": "1988万",
       "likeCount": "13.17万",
       "commentCount": "6387"
     },
@@ -722,9 +722,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-10",
-      "viewCount": "4773万",
-      "likeCount": "13.13万",
-      "commentCount": "4236"
+      "viewCount": "4778万",
+      "likeCount": "13.14万",
+      "commentCount": "4245"
     },
     {
       "rank": 1584,
@@ -766,12 +766,34 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-22",
-      "viewCount": "2384万",
+      "viewCount": "2385万",
       "likeCount": "13.08万",
       "commentCount": "2546"
     },
     {
       "rank": 1586,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/VSucxMB_Z6k/default.jpg",
+        "url": "https://www.youtube.com/watch?v=VSucxMB_Z6k",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Vicke Blanka - Black Rover (Audio Video (TVアニメ「ブラッククローバー」第3クールオープニングテーマ)",
+        "url": "https://www.youtube.com/watch?v=VSucxMB_Z6k",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "VK Blanka - ビッケブランカ",
+        "url": "https://www.youtube.com/channel/UCWDksMO8R0Mew4B89GhO9dA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-01-21",
+      "viewCount": "1991万",
+      "likeCount": "13.08万",
+      "commentCount": "1603"
+    },
+    {
+      "rank": 1587,
       "thumb": {
         "img": "https://i.ytimg.com/vi/mDj6FQgOY8E/default.jpg",
         "url": "https://www.youtube.com/watch?v=mDj6FQgOY8E",
@@ -788,12 +810,12 @@
         "target": "_blank"
       },
       "publishedAt": "2019-02-25",
-      "viewCount": "1455万",
-      "likeCount": "13.07万",
-      "commentCount": "5099"
+      "viewCount": "1456万",
+      "likeCount": "13.08万",
+      "commentCount": "5100"
     },
     {
-      "rank": 1587,
+      "rank": 1588,
       "thumb": {
         "img": "https://i.ytimg.com/vi/9Y6H-YjsE9Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=9Y6H-YjsE9Q",
@@ -815,28 +837,6 @@
       "commentCount": "1万"
     },
     {
-      "rank": 1588,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/VSucxMB_Z6k/default.jpg",
-        "url": "https://www.youtube.com/watch?v=VSucxMB_Z6k",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Vicke Blanka - Black Rover (Audio Video (TVアニメ「ブラッククローバー」第3クールオープニングテーマ)",
-        "url": "https://www.youtube.com/watch?v=VSucxMB_Z6k",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "VK Blanka - ビッケブランカ",
-        "url": "https://www.youtube.com/channel/UCWDksMO8R0Mew4B89GhO9dA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-01-21",
-      "viewCount": "1989万",
-      "likeCount": "13.07万",
-      "commentCount": "1602"
-    },
-    {
       "rank": 1589,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ekycNTgJbnA/default.jpg",
@@ -856,7 +856,7 @@
       "publishedAt": "2015-07-28",
       "viewCount": "2946万",
       "likeCount": "13.05万",
-      "commentCount": "7411"
+      "commentCount": "7412"
     },
     {
       "rank": 1590,
@@ -898,12 +898,34 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-02",
-      "viewCount": "1669万",
+      "viewCount": "1670万",
       "likeCount": "13.04万",
       "commentCount": "6668"
     },
     {
       "rank": 1592,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Vb50GwvHH14/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Vb50GwvHH14",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "かりゆし58「オワリはじまり」",
+        "url": "https://www.youtube.com/watch?v=Vb50GwvHH14",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "かりゆし58",
+        "url": "https://www.youtube.com/channel/UCpp4K1nrP2kRTSE1Exm9I2w",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-12-19",
+      "viewCount": "2949万",
+      "likeCount": "13.03万",
+      "commentCount": "5219"
+    },
+    {
+      "rank": 1593,
       "thumb": {
         "img": "https://i.ytimg.com/vi/83vyrFFjiqQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=83vyrFFjiqQ",
@@ -925,28 +947,6 @@
       "commentCount": "1.5万"
     },
     {
-      "rank": 1593,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Vb50GwvHH14/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Vb50GwvHH14",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "かりゆし58「オワリはじまり」",
-        "url": "https://www.youtube.com/watch?v=Vb50GwvHH14",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "かりゆし58",
-        "url": "https://www.youtube.com/channel/UCpp4K1nrP2kRTSE1Exm9I2w",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-12-19",
-      "viewCount": "2947万",
-      "likeCount": "13.02万",
-      "commentCount": "5218"
-    },
-    {
       "rank": 1594,
       "thumb": {
         "img": "https://i.ytimg.com/vi/EyI_xZKisUw/default.jpg",
@@ -964,7 +964,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-01-18",
-      "viewCount": "1472万",
+      "viewCount": "1473万",
       "likeCount": "13.02万",
       "commentCount": "4017"
     },
@@ -986,7 +986,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-09-29",
-      "viewCount": "1779万",
+      "viewCount": "1780万",
       "likeCount": "13.02万",
       "commentCount": "2403"
     },
@@ -1015,6 +1015,28 @@
     {
       "rank": 1597,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/gkOWPlW-Tb8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=gkOWPlW-Tb8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "RADWIMPS - いいんですか?  [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=gkOWPlW-Tb8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "RADWIMPS",
+        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-07-01",
+      "viewCount": "3114万",
+      "likeCount": "13万",
+      "commentCount": "5288"
+    },
+    {
+      "rank": 1598,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/q-jJnCtuWiQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=q-jJnCtuWiQ",
         "target": "_blank"
@@ -1031,11 +1053,11 @@
       },
       "publishedAt": "2021-04-17",
       "viewCount": "1158万",
-      "likeCount": "12.99万",
-      "commentCount": "3242"
+      "likeCount": "13万",
+      "commentCount": "3243"
     },
     {
-      "rank": 1598,
+      "rank": 1599,
       "thumb": {
         "img": "https://i.ytimg.com/vi/63D43-xGZdo/default.jpg",
         "url": "https://www.youtube.com/watch?v=63D43-xGZdo",
@@ -1052,31 +1074,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-06",
-      "viewCount": "2410万",
+      "viewCount": "2411万",
       "likeCount": "12.99万",
-      "commentCount": "4230"
-    },
-    {
-      "rank": 1599,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/gkOWPlW-Tb8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=gkOWPlW-Tb8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "RADWIMPS - いいんですか?  [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=gkOWPlW-Tb8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "RADWIMPS",
-        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-07-01",
-      "viewCount": "3113万",
-      "likeCount": "12.98万",
-      "commentCount": "5287"
+      "commentCount": "4231"
     },
     {
       "rank": 1600,
@@ -1096,9 +1096,9 @@
         "target": "_blank"
       },
       "publishedAt": "2011-10-31",
-      "viewCount": "3525万",
-      "likeCount": "12.97万",
-      "commentCount": "4478"
+      "viewCount": "3527万",
+      "likeCount": "12.98万",
+      "commentCount": "4477"
     }
   ]
 }

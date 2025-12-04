@@ -3,6 +3,29 @@
     {
       "rank": 3101,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/CjPLUJJVf64/default.jpg",
+        "url": "https://www.youtube.com/watch?v=CjPLUJJVf64",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "長渕剛 - ひとつ (「Stay Alive ARANA TOUR 2012」より）",
+        "url": "https://www.youtube.com/watch?v=CjPLUJJVf64",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "NAGABUCHIVEVO",
+        "url": "https://www.youtube.com/channel/UCRAah5DtyhnaU-4SXFotQEA",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-01-24",
+      "viewCount": "1090万",
+      "likeCount": "2.6万",
+      "commentCount": "1827",
+      "increment_d1": "2012"
+    },
+    {
+      "rank": 3102,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/x0dNpGO1pCk/default.jpg",
         "url": "https://www.youtube.com/watch?v=x0dNpGO1pCk",
         "target": "_blank"
@@ -21,30 +44,7 @@
       "viewCount": "1089万",
       "likeCount": "23.1万",
       "commentCount": "1.9万",
-      "increment_d1": "299"
-    },
-    {
-      "rank": 3102,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/KxMvJEbEyqk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=KxMvJEbEyqk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Dragon Ash｢Life goes on｣",
-        "url": "https://www.youtube.com/watch?v=KxMvJEbEyqk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Dragon Ash",
-        "url": "https://www.youtube.com/channel/UCF12AuT-beSk-61H8sxA0vw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-02-20",
-      "viewCount": "1089万",
-      "likeCount": "4万",
-      "commentCount": "1847",
-      "increment_d1": "3673"
+      "increment_d1": "357"
     },
     {
       "rank": 3103,
@@ -66,8 +66,8 @@
       "publishedAt": "2016-04-11",
       "viewCount": "1088万",
       "likeCount": "11万",
-      "commentCount": "3177",
-      "increment_d1": "855"
+      "commentCount": "3178",
+      "increment_d1": "794"
     },
     {
       "rank": 3104,
@@ -89,34 +89,11 @@
       "publishedAt": "2023-12-18",
       "viewCount": "1088万",
       "likeCount": "9.2万",
-      "commentCount": "3096",
-      "increment_d1": "3972"
+      "commentCount": "3101",
+      "increment_d1": "4072"
     },
     {
       "rank": 3105,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/4HaG6yshADA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=4HaG6yshADA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【借金替え歌】うっせぇわ【粗品】",
-        "url": "https://www.youtube.com/watch?v=4HaG6yshADA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "粗品 Official Channel",
-        "url": "https://www.youtube.com/channel/UC1H5dv45x2aFKk-6JZLSWIQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-02-11",
-      "viewCount": "1087万",
-      "likeCount": "21.2万",
-      "commentCount": "6496",
-      "increment_d1": "267"
-    },
-    {
-      "rank": 3106,
       "thumb": {
         "img": "https://i.ytimg.com/vi/67K6oXHyf_Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=67K6oXHyf_Q",
@@ -136,10 +113,10 @@
       "viewCount": "1087万",
       "likeCount": "6.1万",
       "commentCount": "3218",
-      "increment_d1": "2306"
+      "increment_d1": "2519"
     },
     {
-      "rank": 3107,
+      "rank": 3106,
       "thumb": {
         "img": "https://i.ytimg.com/vi/s0X311VDUeg/default.jpg",
         "url": "https://www.youtube.com/watch?v=s0X311VDUeg",
@@ -158,8 +135,31 @@
       "publishedAt": "2020-08-06",
       "viewCount": "1087万",
       "likeCount": "4.4万",
-      "commentCount": "1994",
-      "increment_d1": "1631"
+      "commentCount": "1995",
+      "increment_d1": "1856"
+    },
+    {
+      "rank": 3107,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/4HaG6yshADA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=4HaG6yshADA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【借金替え歌】うっせぇわ【粗品】",
+        "url": "https://www.youtube.com/watch?v=4HaG6yshADA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "粗品 Official Channel",
+        "url": "https://www.youtube.com/channel/UC1H5dv45x2aFKk-6JZLSWIQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-02-11",
+      "viewCount": "1087万",
+      "likeCount": "21.2万",
+      "commentCount": "6496",
+      "increment_d1": "285"
     },
     {
       "rank": 3108,
@@ -182,7 +182,7 @@
       "viewCount": "1086万",
       "likeCount": "2.3万",
       "commentCount": "922",
-      "increment_d1": "1308"
+      "increment_d1": "1560"
     },
     {
       "rank": 3109,
@@ -202,10 +202,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-21",
-      "viewCount": "1085万",
+      "viewCount": "1086万",
       "likeCount": "17.9万",
       "commentCount": "4115",
-      "increment_d1": "3126"
+      "increment_d1": "2944"
     },
     {
       "rank": 3110,
@@ -225,10 +225,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-09-16",
-      "viewCount": "1085万",
+      "viewCount": "1086万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "3068"
+      "increment_d1": "3358"
     },
     {
       "rank": 3111,
@@ -249,9 +249,9 @@
       },
       "publishedAt": "2014-06-30",
       "viewCount": "1084万",
-      "likeCount": "7.1万",
-      "commentCount": "1031",
-      "increment_d1": "981"
+      "likeCount": "7.2万",
+      "commentCount": "1032",
+      "increment_d1": "960"
     },
     {
       "rank": 3112,
@@ -274,10 +274,33 @@
       "viewCount": "1084万",
       "likeCount": "16.3万",
       "commentCount": "3107",
-      "increment_d1": "1511"
+      "increment_d1": "1460"
     },
     {
       "rank": 3113,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1RoRf-AinSY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1RoRf-AinSY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[091] 【timelesz project】「RUN」パフォーマンス動画【6次(ファイナル)審査】",
+        "url": "https://www.youtube.com/watch?v=1RoRf-AinSY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "timelesz [タイムレス]",
+        "url": "https://www.youtube.com/channel/UCgXJMvOBqHk5wJFRKZfIgWQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-02-16",
+      "viewCount": "1084万",
+      "likeCount": "9.3万",
+      "commentCount": "8863",
+      "increment_d1": "1.12万"
+    },
+    {
+      "rank": 3114,
       "thumb": {
         "img": "https://i.ytimg.com/vi/2-c0DFt6vK4/default.jpg",
         "url": "https://www.youtube.com/watch?v=2-c0DFt6vK4",
@@ -294,33 +317,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-22",
-      "viewCount": "1083万",
+      "viewCount": "1084万",
       "likeCount": "13.8万",
       "commentCount": "2608",
-      "increment_d1": "2221"
-    },
-    {
-      "rank": 3114,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/YPGupG0ZgVM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=YPGupG0ZgVM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "東京事変 - 遭難",
-        "url": "https://www.youtube.com/watch?v=YPGupG0ZgVM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "TokyoIncidentsVEVO",
-        "url": "https://www.youtube.com/channel/UCMFNa5Yzq6AXjPix8ijHS6A",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-05-27",
-      "viewCount": "1082万",
-      "likeCount": "3.9万",
-      "commentCount": "867",
-      "increment_d1": "1506"
+      "increment_d1": "2306"
     },
     {
       "rank": 3115,
@@ -340,33 +340,33 @@
         "target": "_blank"
       },
       "publishedAt": "2025-05-05",
-      "viewCount": "1082万",
+      "viewCount": "1083万",
       "likeCount": "3.9万",
-      "commentCount": "1172",
-      "increment_d1": "4117"
+      "commentCount": "1173",
+      "increment_d1": "4611"
     },
     {
       "rank": 3116,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/1RoRf-AinSY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1RoRf-AinSY",
+        "img": "https://i.ytimg.com/vi/YPGupG0ZgVM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=YPGupG0ZgVM",
         "target": "_blank"
       },
       "title": {
-        "text": "[091] 【timelesz project】「RUN」パフォーマンス動画【6次(ファイナル)審査】",
-        "url": "https://www.youtube.com/watch?v=1RoRf-AinSY",
+        "text": "東京事変 - 遭難",
+        "url": "https://www.youtube.com/watch?v=YPGupG0ZgVM",
         "target": "_blank"
       },
       "channel": {
-        "text": "timelesz [タイムレス]",
-        "url": "https://www.youtube.com/channel/UCgXJMvOBqHk5wJFRKZfIgWQ",
+        "text": "TokyoIncidentsVEVO",
+        "url": "https://www.youtube.com/channel/UCMFNa5Yzq6AXjPix8ijHS6A",
         "target": "_blank"
       },
-      "publishedAt": "2025-02-16",
-      "viewCount": "1081万",
-      "likeCount": "9.3万",
-      "commentCount": "8851",
-      "increment_d1": "1.48万"
+      "publishedAt": "2013-05-27",
+      "viewCount": "1083万",
+      "likeCount": "3.9万",
+      "commentCount": "867",
+      "increment_d1": "1601"
     },
     {
       "rank": 3117,
@@ -386,10 +386,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-12-18",
-      "viewCount": "1081万",
+      "viewCount": "1082万",
       "likeCount": "10万",
-      "commentCount": "1523",
-      "increment_d1": "3136"
+      "commentCount": "1524",
+      "increment_d1": "3032"
     },
     {
       "rank": 3118,
@@ -412,33 +412,10 @@
       "viewCount": "1081万",
       "likeCount": "15.2万",
       "commentCount": "4499",
-      "increment_d1": "1024"
+      "increment_d1": "1163"
     },
     {
       "rank": 3119,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ja1ymJQt1z0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ja1ymJQt1z0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "小比類巻かほる - Hold On Me (Official Video)",
-        "url": "https://www.youtube.com/watch?v=ja1ymJQt1z0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kahoru Kohiruimaki",
-        "url": "https://www.youtube.com/channel/UCFZ0rVh9Z8lchPq9y6NO8UA",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-11-13",
-      "viewCount": "1080万",
-      "likeCount": "-",
-      "commentCount": "1424",
-      "increment_d1": "737"
-    },
-    {
-      "rank": 3120,
       "thumb": {
         "img": "https://i.ytimg.com/vi/gQnG_T7kbtY/default.jpg",
         "url": "https://www.youtube.com/watch?v=gQnG_T7kbtY",
@@ -455,36 +432,36 @@
         "target": "_blank"
       },
       "publishedAt": "2019-09-26",
-      "viewCount": "1080万",
+      "viewCount": "1081万",
       "likeCount": "19.6万",
       "commentCount": "9815",
-      "increment_d1": "1894"
+      "increment_d1": "1842"
     },
     {
-      "rank": 3121,
+      "rank": 3120,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/oYWaZcqVnbM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=oYWaZcqVnbM",
+        "img": "https://i.ytimg.com/vi/ja1ymJQt1z0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ja1ymJQt1z0",
         "target": "_blank"
       },
       "title": {
-        "text": "Mr.Children「Marshmallow day」Mr.Children［(an imitation) blood orange］Tour",
-        "url": "https://www.youtube.com/watch?v=oYWaZcqVnbM",
+        "text": "小比類巻かほる - Hold On Me (Official Video)",
+        "url": "https://www.youtube.com/watch?v=ja1ymJQt1z0",
         "target": "_blank"
       },
       "channel": {
-        "text": "Mr.Children Official Channel",
-        "url": "https://www.youtube.com/channel/UCXteDRy5qB0IjA8WPusCJ7w",
+        "text": "Kahoru Kohiruimaki",
+        "url": "https://www.youtube.com/channel/UCFZ0rVh9Z8lchPq9y6NO8UA",
         "target": "_blank"
       },
-      "publishedAt": "2013-12-24",
-      "viewCount": "1079万",
-      "likeCount": "2.6万",
-      "commentCount": "1083",
-      "increment_d1": "878"
+      "publishedAt": "2015-11-13",
+      "viewCount": "1081万",
+      "likeCount": "-",
+      "commentCount": "1425",
+      "increment_d1": "907"
     },
     {
-      "rank": 3122,
+      "rank": 3121,
       "thumb": {
         "img": "https://i.ytimg.com/vi/UBmBGKjFuRQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=UBmBGKjFuRQ",
@@ -501,10 +478,33 @@
         "target": "_blank"
       },
       "publishedAt": "2016-10-14",
-      "viewCount": "1079万",
+      "viewCount": "1080万",
       "likeCount": "8.6万",
-      "commentCount": "3819",
-      "increment_d1": "1281"
+      "commentCount": "3821",
+      "increment_d1": "1452"
+    },
+    {
+      "rank": 3122,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/oYWaZcqVnbM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=oYWaZcqVnbM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mr.Children「Marshmallow day」Mr.Children［(an imitation) blood orange］Tour",
+        "url": "https://www.youtube.com/watch?v=oYWaZcqVnbM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mr.Children Official Channel",
+        "url": "https://www.youtube.com/channel/UCXteDRy5qB0IjA8WPusCJ7w",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-12-24",
+      "viewCount": "1080万",
+      "likeCount": "2.6万",
+      "commentCount": "1083",
+      "increment_d1": "1023"
     },
     {
       "rank": 3123,
@@ -524,33 +524,33 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-05",
-      "viewCount": "1078万",
+      "viewCount": "1079万",
       "likeCount": "-",
-      "commentCount": "8632",
-      "increment_d1": "3904"
+      "commentCount": "8635",
+      "increment_d1": "3064"
     },
     {
       "rank": 3124,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/yR0KgP7OrSw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=yR0KgP7OrSw",
+        "img": "https://i.ytimg.com/vi/qM_FepDsJ-Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=qM_FepDsJ-Q",
         "target": "_blank"
       },
       "title": {
-        "text": "My Hair is Bad – 告白　(Official Music Video)",
-        "url": "https://www.youtube.com/watch?v=yR0KgP7OrSw",
+        "text": "Folder 5 / Believe Music Video",
+        "url": "https://www.youtube.com/watch?v=qM_FepDsJ-Q",
         "target": "_blank"
       },
       "channel": {
-        "text": "My Hair is Bad",
-        "url": "https://www.youtube.com/channel/UCYgA-dCbtiGdyIwadjcNgpg",
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
         "target": "_blank"
       },
-      "publishedAt": "2016-09-28",
-      "viewCount": "1077万",
-      "likeCount": "7.2万",
-      "commentCount": "1065",
-      "increment_d1": "650"
+      "publishedAt": "2022-09-27",
+      "viewCount": "1078万",
+      "likeCount": "6.2万",
+      "commentCount": "3561",
+      "increment_d1": "8275"
     },
     {
       "rank": 3125,
@@ -570,13 +570,36 @@
         "target": "_blank"
       },
       "publishedAt": "2010-07-23",
-      "viewCount": "1077万",
+      "viewCount": "1078万",
       "likeCount": "4.4万",
-      "commentCount": "2019",
-      "increment_d1": "752"
+      "commentCount": "2020",
+      "increment_d1": "812"
     },
     {
       "rank": 3126,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/yR0KgP7OrSw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=yR0KgP7OrSw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "My Hair is Bad – 告白　(Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=yR0KgP7OrSw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "My Hair is Bad",
+        "url": "https://www.youtube.com/channel/UCYgA-dCbtiGdyIwadjcNgpg",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-09-28",
+      "viewCount": "1078万",
+      "likeCount": "7.2万",
+      "commentCount": "1065",
+      "increment_d1": "762"
+    },
+    {
+      "rank": 3127,
       "thumb": {
         "img": "https://i.ytimg.com/vi/FMrqlo_L-gY/default.jpg",
         "url": "https://www.youtube.com/watch?v=FMrqlo_L-gY",
@@ -593,33 +616,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-03-11",
-      "viewCount": "1077万",
+      "viewCount": "1078万",
       "likeCount": "-",
       "commentCount": "1.5万",
-      "increment_d1": "579"
-    },
-    {
-      "rank": 3127,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/qM_FepDsJ-Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=qM_FepDsJ-Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Folder 5 / Believe Music Video",
-        "url": "https://www.youtube.com/watch?v=qM_FepDsJ-Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-09-27",
-      "viewCount": "1076万",
-      "likeCount": "6.2万",
-      "commentCount": "3550",
-      "increment_d1": "7535"
+      "increment_d1": "682"
     },
     {
       "rank": 3128,
@@ -639,10 +639,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-07",
-      "viewCount": "1076万",
+      "viewCount": "1077万",
       "likeCount": "12.3万",
       "commentCount": "2.6万",
-      "increment_d1": "2623"
+      "increment_d1": "2250"
     },
     {
       "rank": 3129,
@@ -665,7 +665,7 @@
       "viewCount": "1076万",
       "likeCount": "4.1万",
       "commentCount": "1347",
-      "increment_d1": "313"
+      "increment_d1": "299"
     },
     {
       "rank": 3130,
@@ -688,7 +688,7 @@
       "viewCount": "1074万",
       "likeCount": "-",
       "commentCount": "1万",
-      "increment_d1": "1421"
+      "increment_d1": "1378"
     },
     {
       "rank": 3131,
@@ -710,8 +710,8 @@
       "publishedAt": "2021-02-23",
       "viewCount": "1074万",
       "likeCount": "11.1万",
-      "commentCount": "2755",
-      "increment_d1": "1881"
+      "commentCount": "2753",
+      "increment_d1": "1936"
     },
     {
       "rank": 3132,
@@ -734,10 +734,33 @@
       "viewCount": "1072万",
       "likeCount": "1.8万",
       "commentCount": "380",
-      "increment_d1": "81"
+      "increment_d1": "78"
     },
     {
       "rank": 3133,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/cknuQVvF05o/default.jpg",
+        "url": "https://www.youtube.com/watch?v=cknuQVvF05o",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "サイレント・イヴ /辛島美登里",
+        "url": "https://www.youtube.com/watch?v=cknuQVvF05o",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Midori Karashima Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCqB-QDzn8HL9BFQZ-DSZjng",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-11-27",
+      "viewCount": "1071万",
+      "likeCount": "3.7万",
+      "commentCount": "1845",
+      "increment_d1": "5444"
+    },
+    {
+      "rank": 3134,
       "thumb": {
         "img": "https://i.ytimg.com/vi/O59q5UB6B38/default.jpg",
         "url": "https://www.youtube.com/watch?v=O59q5UB6B38",
@@ -757,10 +780,10 @@
       "viewCount": "1070万",
       "likeCount": "10.8万",
       "commentCount": "-",
-      "increment_d1": "429"
+      "increment_d1": "426"
     },
     {
-      "rank": 3134,
+      "rank": 3135,
       "thumb": {
         "img": "https://i.ytimg.com/vi/J1kiP_XB9-Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=J1kiP_XB9-Q",
@@ -780,30 +803,7 @@
       "viewCount": "1070万",
       "likeCount": "35.1万",
       "commentCount": "1.3万",
-      "increment_d1": "76"
-    },
-    {
-      "rank": 3135,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/cknuQVvF05o/default.jpg",
-        "url": "https://www.youtube.com/watch?v=cknuQVvF05o",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "サイレント・イヴ /辛島美登里",
-        "url": "https://www.youtube.com/watch?v=cknuQVvF05o",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Midori Karashima Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCqB-QDzn8HL9BFQZ-DSZjng",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-11-27",
-      "viewCount": "1070万",
-      "likeCount": "3.7万",
-      "commentCount": "1841",
-      "increment_d1": "4541"
+      "increment_d1": "79"
     },
     {
       "rank": 3136,
@@ -823,10 +823,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-08-22",
-      "viewCount": "1069万",
+      "viewCount": "1070万",
       "likeCount": "1.1万",
       "commentCount": "-",
-      "increment_d1": "2220"
+      "increment_d1": "2711"
     },
     {
       "rank": 3137,
@@ -846,10 +846,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-30",
-      "viewCount": "1069万",
-      "likeCount": "9678",
+      "viewCount": "1070万",
+      "likeCount": "9675",
       "commentCount": "-",
-      "increment_d1": "4193"
+      "increment_d1": "4329"
     },
     {
       "rank": 3138,
@@ -869,33 +869,33 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-14",
-      "viewCount": "1068万",
+      "viewCount": "1069万",
       "likeCount": "8.4万",
-      "commentCount": "3052",
-      "increment_d1": "5040"
+      "commentCount": "3057",
+      "increment_d1": "5004"
     },
     {
       "rank": 3139,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/OPzgl2C7cZY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=OPzgl2C7cZY",
+        "img": "https://i.ytimg.com/vi/8dywenCWPI0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=8dywenCWPI0",
         "target": "_blank"
       },
       "title": {
-        "text": "ONE OK ROCK - Be the light [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=OPzgl2C7cZY",
+        "text": "シネマ / Ayase (self cover)",
+        "url": "https://www.youtube.com/watch?v=8dywenCWPI0",
         "target": "_blank"
       },
       "channel": {
-        "text": "ONE OK ROCK",
-        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
+        "text": "Ayase / YOASOBI",
+        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
         "target": "_blank"
       },
-      "publishedAt": "2013-03-11",
+      "publishedAt": "2022-09-29",
       "viewCount": "1068万",
-      "likeCount": "6.3万",
-      "commentCount": "2457",
-      "increment_d1": "67"
+      "likeCount": "14.5万",
+      "commentCount": "1784",
+      "increment_d1": "2751"
     },
     {
       "rank": 3140,
@@ -917,34 +917,57 @@
       "publishedAt": "2013-05-28",
       "viewCount": "1068万",
       "likeCount": "2.5万",
-      "commentCount": "1456",
-      "increment_d1": "1524"
+      "commentCount": "1459",
+      "increment_d1": "1668"
     },
     {
       "rank": 3141,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/8dywenCWPI0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=8dywenCWPI0",
+        "img": "https://i.ytimg.com/vi/OPzgl2C7cZY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=OPzgl2C7cZY",
         "target": "_blank"
       },
       "title": {
-        "text": "シネマ / Ayase (self cover)",
-        "url": "https://www.youtube.com/watch?v=8dywenCWPI0",
+        "text": "ONE OK ROCK - Be the light [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=OPzgl2C7cZY",
         "target": "_blank"
       },
       "channel": {
-        "text": "Ayase / YOASOBI",
-        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
+        "text": "ONE OK ROCK",
+        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
         "target": "_blank"
       },
-      "publishedAt": "2022-09-29",
+      "publishedAt": "2013-03-11",
       "viewCount": "1068万",
-      "likeCount": "14.5万",
-      "commentCount": "1784",
-      "increment_d1": "2918"
+      "likeCount": "6.3万",
+      "commentCount": "2457",
+      "increment_d1": "90"
     },
     {
       "rank": 3142,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/hSoD1fcc_Bg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=hSoD1fcc_Bg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "V6 / TAKE ME HIGHER（YouTube Ver.）",
+        "url": "https://www.youtube.com/watch?v=hSoD1fcc_Bg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-05-05",
+      "viewCount": "1067万",
+      "likeCount": "-",
+      "commentCount": "-",
+      "increment_d1": "4512"
+    },
+    {
+      "rank": 3143,
       "thumb": {
         "img": "https://i.ytimg.com/vi/_CKbNJkcwe0/default.jpg",
         "url": "https://www.youtube.com/watch?v=_CKbNJkcwe0",
@@ -964,30 +987,7 @@
       "viewCount": "1067万",
       "likeCount": "6.8万",
       "commentCount": "5394",
-      "increment_d1": "1183"
-    },
-    {
-      "rank": 3143,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/hSoD1fcc_Bg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=hSoD1fcc_Bg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "V6 / TAKE ME HIGHER（YouTube Ver.）",
-        "url": "https://www.youtube.com/watch?v=hSoD1fcc_Bg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-05-05",
-      "viewCount": "1066万",
-      "likeCount": "-",
-      "commentCount": "-",
-      "increment_d1": "4417"
+      "increment_d1": "1213"
     },
     {
       "rank": 3144,
@@ -1010,7 +1010,7 @@
       "viewCount": "1066万",
       "likeCount": "4.4万",
       "commentCount": "1417",
-      "increment_d1": "531"
+      "increment_d1": "488"
     },
     {
       "rank": 3145,
@@ -1033,7 +1033,7 @@
       "viewCount": "1065万",
       "likeCount": "12.2万",
       "commentCount": "3278",
-      "increment_d1": "831"
+      "increment_d1": "724"
     },
     {
       "rank": 3146,
@@ -1056,7 +1056,7 @@
       "viewCount": "1065万",
       "likeCount": "7.5万",
       "commentCount": "4270",
-      "increment_d1": "1487"
+      "increment_d1": "1532"
     },
     {
       "rank": 3147,
@@ -1079,7 +1079,7 @@
       "viewCount": "1065万",
       "likeCount": "2.1万",
       "commentCount": "602",
-      "increment_d1": "454"
+      "increment_d1": "489"
     },
     {
       "rank": 3148,
@@ -1102,7 +1102,7 @@
       "viewCount": "1064万",
       "likeCount": "6.5万",
       "commentCount": "2321",
-      "increment_d1": "1159"
+      "increment_d1": "1111"
     },
     {
       "rank": 3149,
@@ -1125,7 +1125,7 @@
       "viewCount": "1063万",
       "likeCount": "30万",
       "commentCount": "1.3万",
-      "increment_d1": "957"
+      "increment_d1": "790"
     },
     {
       "rank": 3150,
@@ -1148,7 +1148,7 @@
       "viewCount": "1063万",
       "likeCount": "1.8万",
       "commentCount": "-",
-      "increment_d1": "47"
+      "increment_d1": "46"
     }
   ]
 }

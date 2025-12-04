@@ -1,26 +1,26 @@
 {
   "rows": [
     {
-      "rank": 1600,
+      "rank": 1601,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/m4vjI6InDJM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=m4vjI6InDJM",
+        "img": "https://i.ytimg.com/vi/C6SX7B1o-w4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=C6SX7B1o-w4",
         "target": "_blank"
       },
       "title": {
-        "text": "オーイシマサヨシ - uni-verse [Official Video]",
-        "url": "https://www.youtube.com/watch?v=m4vjI6InDJM",
+        "text": "Mrs. GREEN APPLE – インフェルノ 【LIVE from M-ON!】",
+        "url": "https://www.youtube.com/watch?v=C6SX7B1o-w4",
         "target": "_blank"
       },
       "channel": {
-        "text": "オーイシマサヨシ",
-        "url": "https://www.youtube.com/channel/UC6FmznwRG0CpdjtNyHucmTA",
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
         "target": "_blank"
       },
-      "publishedAt": "2023-03-26",
-      "viewCount": "1212万",
-      "likeCount": "10.1万",
-      "commentCount": "5502"
+      "publishedAt": "2020-05-07",
+      "viewCount": "1834万",
+      "likeCount": "16万",
+      "commentCount": "5501"
     },
     {
       "rank": 1602,
@@ -42,7 +42,7 @@
       "publishedAt": "2019-11-14",
       "viewCount": "2132万",
       "likeCount": "7.8万",
-      "commentCount": "5490"
+      "commentCount": "5492"
     },
     {
       "rank": 1603,
@@ -62,12 +62,56 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-18",
-      "viewCount": "1606万",
+      "viewCount": "1607万",
       "likeCount": "22.8万",
-      "commentCount": "5481"
+      "commentCount": "5482"
     },
     {
-      "rank": 1604,
+      "rank": 1603,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/evtoG-4dLM4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=evtoG-4dLM4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "YOASOBI「Watch me!」Official Music Video",
+        "url": "https://www.youtube.com/watch?v=evtoG-4dLM4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ayase / YOASOBI",
+        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-05-18",
+      "viewCount": "1556万",
+      "likeCount": "21.7万",
+      "commentCount": "5482"
+    },
+    {
+      "rank": 1605,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/BWmO6SCYhRc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=BWmO6SCYhRc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MY FIRST STORY - REVIVER -【Official Video】",
+        "url": "https://www.youtube.com/watch?v=BWmO6SCYhRc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "JMS BASE",
+        "url": "https://www.youtube.com/channel/UCj8RXhnU4RR9wnRUYQoyLqw",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-07-13",
+      "viewCount": "4612万",
+      "likeCount": "27.8万",
+      "commentCount": "5479"
+    },
+    {
+      "rank": 1606,
       "thumb": {
         "img": "https://i.ytimg.com/vi/43wWe7_SztA/default.jpg",
         "url": "https://www.youtube.com/watch?v=43wWe7_SztA",
@@ -86,76 +130,10 @@
       "publishedAt": "2019-05-07",
       "viewCount": "1447万",
       "likeCount": "12.1万",
-      "commentCount": "5479"
-    },
-    {
-      "rank": 1605,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/evtoG-4dLM4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=evtoG-4dLM4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "YOASOBI「Watch me!」Official Music Video",
-        "url": "https://www.youtube.com/watch?v=evtoG-4dLM4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ayase / YOASOBI",
-        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-05-18",
-      "viewCount": "1551万",
-      "likeCount": "21.7万",
       "commentCount": "5478"
     },
     {
-      "rank": 1606,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/BWmO6SCYhRc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=BWmO6SCYhRc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MY FIRST STORY - REVIVER -【Official Video】",
-        "url": "https://www.youtube.com/watch?v=BWmO6SCYhRc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "JMS BASE",
-        "url": "https://www.youtube.com/channel/UCj8RXhnU4RR9wnRUYQoyLqw",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-07-13",
-      "viewCount": "4608万",
-      "likeCount": "27.8万",
-      "commentCount": "5477"
-    },
-    {
       "rank": 1607,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Vi_asBY5UX8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Vi_asBY5UX8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "完全放棄宣言 / ナナヲアカリ",
-        "url": "https://www.youtube.com/watch?v=Vi_asBY5UX8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ナナヲアカリ OFFICIAL",
-        "url": "https://www.youtube.com/channel/UCrrNHoXQ1uTYsR6v41pDalQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-09-07",
-      "viewCount": "1780万",
-      "likeCount": "16.4万",
-      "commentCount": "5460"
-    },
-    {
-      "rank": 1608,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ih6_xNsensA/default.jpg",
         "url": "https://www.youtube.com/watch?v=ih6_xNsensA",
@@ -172,9 +150,31 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-19",
-      "viewCount": "5276万",
+      "viewCount": "5282万",
       "likeCount": "15.9万",
-      "commentCount": "5455"
+      "commentCount": "5461"
+    },
+    {
+      "rank": 1608,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Vi_asBY5UX8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Vi_asBY5UX8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "完全放棄宣言 / ナナヲアカリ",
+        "url": "https://www.youtube.com/watch?v=Vi_asBY5UX8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ナナヲアカリ OFFICIAL",
+        "url": "https://www.youtube.com/channel/UCrrNHoXQ1uTYsR6v41pDalQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-09-07",
+      "viewCount": "1781万",
+      "likeCount": "16.4万",
+      "commentCount": "5460"
     },
     {
       "rank": 1609,
@@ -194,9 +194,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-11-19",
-      "viewCount": "2632万",
+      "viewCount": "2633万",
       "likeCount": "17.5万",
-      "commentCount": "5452"
+      "commentCount": "5450"
     },
     {
       "rank": 1610,
@@ -223,6 +223,28 @@
     {
       "rank": 1611,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/QJ8P-81gYA8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=QJ8P-81gYA8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Cö shu Nie – give it back (Official Video) / TVアニメ『呪術廻戦』第2クール エンディング主題歌",
+        "url": "https://www.youtube.com/watch?v=QJ8P-81gYA8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Cö shu Nie Official Channel",
+        "url": "https://www.youtube.com/channel/UCWIfHAlwe1kELZDqUmD8oRg",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-01-29",
+      "viewCount": "1972万",
+      "likeCount": "24.9万",
+      "commentCount": "5442"
+    },
+    {
+      "rank": 1612,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/lD4gwbH1jiA/default.jpg",
         "url": "https://www.youtube.com/watch?v=lD4gwbH1jiA",
         "target": "_blank"
@@ -243,7 +265,7 @@
       "commentCount": "5440"
     },
     {
-      "rank": 1612,
+      "rank": 1613,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3tPBEjxqEc4/default.jpg",
         "url": "https://www.youtube.com/watch?v=3tPBEjxqEc4",
@@ -260,31 +282,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-29",
-      "viewCount": "3246万",
+      "viewCount": "3248万",
       "likeCount": "30.5万",
       "commentCount": "5439"
-    },
-    {
-      "rank": 1613,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/QJ8P-81gYA8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=QJ8P-81gYA8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Cö shu Nie – give it back (Official Video) / TVアニメ『呪術廻戦』第2クール エンディング主題歌",
-        "url": "https://www.youtube.com/watch?v=QJ8P-81gYA8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Cö shu Nie Official Channel",
-        "url": "https://www.youtube.com/channel/UCWIfHAlwe1kELZDqUmD8oRg",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-01-29",
-      "viewCount": "1970万",
-      "likeCount": "24.9万",
-      "commentCount": "5435"
     },
     {
       "rank": 1614,
@@ -304,31 +304,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-31",
-      "viewCount": "3735万",
+      "viewCount": "3737万",
       "likeCount": "24.5万",
       "commentCount": "5429"
-    },
-    {
-      "rank": 1615,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/rYyk3kgE3mY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=rYyk3kgE3mY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "B’z Live from AVACO STUDIO “Calling”",
-        "url": "https://www.youtube.com/watch?v=rYyk3kgE3mY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Bz",
-        "url": "https://www.youtube.com/channel/UCpEEcJhBig2GqUFxcXjqiLg",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-07-02",
-      "viewCount": "1579万",
-      "likeCount": "8.6万",
-      "commentCount": "5426"
     },
     {
       "rank": 1615,
@@ -348,8 +326,30 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-24",
-      "viewCount": "2425万",
+      "viewCount": "2427万",
       "likeCount": "21.7万",
+      "commentCount": "5427"
+    },
+    {
+      "rank": 1616,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/rYyk3kgE3mY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=rYyk3kgE3mY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "B’z Live from AVACO STUDIO “Calling”",
+        "url": "https://www.youtube.com/watch?v=rYyk3kgE3mY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Bz",
+        "url": "https://www.youtube.com/channel/UCpEEcJhBig2GqUFxcXjqiLg",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-07-02",
+      "viewCount": "1580万",
+      "likeCount": "8.6万",
       "commentCount": "5426"
     },
     {
@@ -370,7 +370,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-31",
-      "viewCount": "1409万",
+      "viewCount": "1410万",
       "likeCount": "-",
       "commentCount": "5420"
     },
@@ -392,9 +392,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-02",
-      "viewCount": "3472万",
+      "viewCount": "3474万",
       "likeCount": "25.1万",
-      "commentCount": "5410"
+      "commentCount": "5413"
     },
     {
       "rank": 1619,
@@ -436,9 +436,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-19",
-      "viewCount": "1515万",
+      "viewCount": "1516万",
       "likeCount": "17.9万",
-      "commentCount": "5388"
+      "commentCount": "5387"
     },
     {
       "rank": 1621,
@@ -458,9 +458,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-19",
-      "viewCount": "2870万",
+      "viewCount": "2874万",
       "likeCount": "13.5万",
-      "commentCount": "5384"
+      "commentCount": "5386"
     },
     {
       "rank": 1622,
@@ -502,7 +502,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-03-27",
-      "viewCount": "1691万",
+      "viewCount": "1692万",
       "likeCount": "14.1万",
       "commentCount": "5365"
     },
@@ -524,9 +524,9 @@
         "target": "_blank"
       },
       "publishedAt": "2016-10-07",
-      "viewCount": "3149万",
+      "viewCount": "3151万",
       "likeCount": "17.4万",
-      "commentCount": "5364"
+      "commentCount": "5363"
     },
     {
       "rank": 1625,
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2011-09-28",
-      "viewCount": "2199万",
+      "viewCount": "2200万",
       "likeCount": "11.3万",
       "commentCount": "5362"
     },
@@ -573,7 +573,7 @@
       "commentCount": "5351"
     },
     {
-      "rank": 1626,
+      "rank": 1627,
       "thumb": {
         "img": "https://i.ytimg.com/vi/kHHUulGxZww/default.jpg",
         "url": "https://www.youtube.com/watch?v=kHHUulGxZww",
@@ -592,7 +592,7 @@
       "publishedAt": "2019-03-05",
       "viewCount": "2528万",
       "likeCount": "12.4万",
-      "commentCount": "5351"
+      "commentCount": "5350"
     },
     {
       "rank": 1628,
@@ -613,8 +613,8 @@
       },
       "publishedAt": "2021-06-11",
       "viewCount": "1621万",
-      "likeCount": "9.3万",
-      "commentCount": "5348"
+      "likeCount": "9.4万",
+      "commentCount": "5349"
     },
     {
       "rank": 1629,
@@ -636,7 +636,7 @@
       "publishedAt": "2011-02-18",
       "viewCount": "2465万",
       "likeCount": "8.1万",
-      "commentCount": "5342"
+      "commentCount": "5345"
     },
     {
       "rank": 1630,
@@ -656,9 +656,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-04",
-      "viewCount": "1741万",
+      "viewCount": "1742万",
       "likeCount": "20万",
-      "commentCount": "5336"
+      "commentCount": "5337"
     },
     {
       "rank": 1631,
@@ -678,7 +678,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-21",
-      "viewCount": "1663万",
+      "viewCount": "1665万",
       "likeCount": "21.5万",
       "commentCount": "5334"
     },
@@ -700,12 +700,12 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-08",
-      "viewCount": "4912万",
+      "viewCount": "4916万",
       "likeCount": "24.4万",
-      "commentCount": "5314"
+      "commentCount": "5315"
     },
     {
-      "rank": 1632,
+      "rank": 1633,
       "thumb": {
         "img": "https://i.ytimg.com/vi/D_tyCTZT-a0/default.jpg",
         "url": "https://www.youtube.com/watch?v=D_tyCTZT-a0",
@@ -744,12 +744,12 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-19",
-      "viewCount": "2001万",
+      "viewCount": "2003万",
       "likeCount": "27.1万",
-      "commentCount": "5309"
+      "commentCount": "5310"
     },
     {
-      "rank": 1634,
+      "rank": 1635,
       "thumb": {
         "img": "https://i.ytimg.com/vi/lw51UR6Qoy8/default.jpg",
         "url": "https://www.youtube.com/watch?v=lw51UR6Qoy8",
@@ -766,7 +766,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-24",
-      "viewCount": "1666万",
+      "viewCount": "1667万",
       "likeCount": "30.5万",
       "commentCount": "5309"
     },
@@ -790,7 +790,7 @@
       "publishedAt": "2015-07-23",
       "viewCount": "4031万",
       "likeCount": "10.7万",
-      "commentCount": "5304"
+      "commentCount": "5305"
     },
     {
       "rank": 1637,
@@ -812,7 +812,7 @@
       "publishedAt": "2018-07-05",
       "viewCount": "2366万",
       "likeCount": "9.9万",
-      "commentCount": "5303"
+      "commentCount": "5304"
     },
     {
       "rank": 1638,
@@ -834,7 +834,7 @@
       "publishedAt": "2011-12-21",
       "viewCount": "1824万",
       "likeCount": "7.3万",
-      "commentCount": "5298"
+      "commentCount": "5300"
     },
     {
       "rank": 1639,
@@ -854,9 +854,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-27",
-      "viewCount": "3733万",
+      "viewCount": "3736万",
       "likeCount": "28.6万",
-      "commentCount": "5297"
+      "commentCount": "5299"
     },
     {
       "rank": 1640,
@@ -876,31 +876,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-11-12",
-      "viewCount": "1681万",
+      "viewCount": "1682万",
       "likeCount": "18万",
-      "commentCount": "5296"
-    },
-    {
-      "rank": 1640,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/AeMRXJtg500/default.jpg",
-        "url": "https://www.youtube.com/watch?v=AeMRXJtg500",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "スキマスイッチ - 「ボクノート」Music Video：SUKIMASWITCH - BOKU NOOTO Music Video",
-        "url": "https://www.youtube.com/watch?v=AeMRXJtg500",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SukimaSwitchVEVO",
-        "url": "https://www.youtube.com/channel/UCK3avWTCKdXZyYiHUEsCzNQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2008-12-08",
-      "viewCount": "3625万",
-      "likeCount": "12.1万",
-      "commentCount": "5296"
+      "commentCount": "5297"
     },
     {
       "rank": 1640,
@@ -920,9 +898,31 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-13",
-      "viewCount": "3464万",
+      "viewCount": "3465万",
       "likeCount": "20万",
-      "commentCount": "5296"
+      "commentCount": "5297"
+    },
+    {
+      "rank": 1642,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/AeMRXJtg500/default.jpg",
+        "url": "https://www.youtube.com/watch?v=AeMRXJtg500",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "スキマスイッチ - 「ボクノート」Music Video：SUKIMASWITCH - BOKU NOOTO Music Video",
+        "url": "https://www.youtube.com/watch?v=AeMRXJtg500",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SukimaSwitchVEVO",
+        "url": "https://www.youtube.com/channel/UCK3avWTCKdXZyYiHUEsCzNQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2008-12-08",
+      "viewCount": "3627万",
+      "likeCount": "12.1万",
+      "commentCount": "5295"
     },
     {
       "rank": 1643,
@@ -942,9 +942,31 @@
         "target": "_blank"
       },
       "publishedAt": "2021-05-17",
-      "viewCount": "1638万",
+      "viewCount": "1639万",
       "likeCount": "13.3万",
-      "commentCount": "5293"
+      "commentCount": "5291"
+    },
+    {
+      "rank": 1644,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/B--iJ2pNvLU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=B--iJ2pNvLU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BUMP OF CHICKEN「クロノスタシス」",
+        "url": "https://www.youtube.com/watch?v=B--iJ2pNvLU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BUMP OF CHICKEN",
+        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-04-17",
+      "viewCount": "2369万",
+      "likeCount": "18.7万",
+      "commentCount": "5288"
     },
     {
       "rank": 1644,
@@ -964,31 +986,9 @@
         "target": "_blank"
       },
       "publishedAt": "2009-07-01",
-      "viewCount": "3113万",
+      "viewCount": "3114万",
       "likeCount": "13万",
-      "commentCount": "5287"
-    },
-    {
-      "rank": 1645,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/B--iJ2pNvLU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=B--iJ2pNvLU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BUMP OF CHICKEN「クロノスタシス」",
-        "url": "https://www.youtube.com/watch?v=B--iJ2pNvLU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BUMP OF CHICKEN",
-        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-04-17",
-      "viewCount": "2368万",
-      "likeCount": "18.7万",
-      "commentCount": "5285"
+      "commentCount": "5288"
     },
     {
       "rank": 1646,
@@ -1008,7 +1008,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-06",
-      "viewCount": "2710万",
+      "viewCount": "2711万",
       "likeCount": "24.6万",
       "commentCount": "5278"
     },
@@ -1030,12 +1030,12 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-07",
-      "viewCount": "1771万",
-      "likeCount": "17.1万",
-      "commentCount": "5277"
+      "viewCount": "1773万",
+      "likeCount": "17.2万",
+      "commentCount": "5276"
     },
     {
-      "rank": 1648,
+      "rank": 1647,
       "thumb": {
         "img": "https://i.ytimg.com/vi/E6A7l1l6kKE/default.jpg",
         "url": "https://www.youtube.com/watch?v=E6A7l1l6kKE",
@@ -1074,9 +1074,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-02-03",
-      "viewCount": "2120万",
+      "viewCount": "2121万",
       "likeCount": "19.8万",
-      "commentCount": "5271"
+      "commentCount": "5270"
     },
     {
       "rank": 1650,
@@ -1096,7 +1096,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-09",
-      "viewCount": "5991万",
+      "viewCount": "5995万",
       "likeCount": "32.2万",
       "commentCount": "5263"
     }
