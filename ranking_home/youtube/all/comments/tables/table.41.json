@@ -1,25 +1,25 @@
 {
   "rows": [
     {
-      "rank": 2001,
+      "rank": 2000,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/wJ6FMjZkbMI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=wJ6FMjZkbMI",
+        "img": "https://i.ytimg.com/vi/Jtw5S12-ZeI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Jtw5S12-ZeI",
         "target": "_blank"
       },
       "title": {
-        "text": "ONE OK ROCK - Broken Heart of Gold Japanese Version [OFFICIAL MUSIC VIDEO]",
-        "url": "https://www.youtube.com/watch?v=wJ6FMjZkbMI",
+        "text": "[MV] サンプラザ中野くん「Runner (平成30年 Ver.)」〔フルver.〕",
+        "url": "https://www.youtube.com/watch?v=Jtw5S12-ZeI",
         "target": "_blank"
       },
       "channel": {
-        "text": "ONE OK ROCK",
-        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
+        "text": "サンプラザ中野くん",
+        "url": "https://www.youtube.com/channel/UCdF9vW3tAchSqMTQhYgBRxg",
         "target": "_blank"
       },
-      "publishedAt": "2021-08-13",
-      "viewCount": "1125万",
-      "likeCount": "17万",
+      "publishedAt": "2018-07-06",
+      "viewCount": "1500万",
+      "likeCount": "6.7万",
       "commentCount": "3757"
     },
     {
@@ -40,9 +40,53 @@
         "target": "_blank"
       },
       "publishedAt": "2018-12-29",
-      "viewCount": "1939万",
+      "viewCount": "1940万",
       "likeCount": "13.6万",
       "commentCount": "3755"
+    },
+    {
+      "rank": 2003,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Sfz5TpCRSiI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Sfz5TpCRSiI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ずっと真夜中でいいのに。『猫リセット』MV (ZUTOMAYO – Neko Reset)",
+        "url": "https://www.youtube.com/watch?v=Sfz5TpCRSiI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ずっと真夜中でいいのに。 ZUTOMAYO",
+        "url": "https://www.youtube.com/channel/UCv6P5nsS9rP4tDtFlqLU_QQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-12-02",
+      "viewCount": "1107万",
+      "likeCount": "14.6万",
+      "commentCount": "3753"
+    },
+    {
+      "rank": 2003,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/kiTn9pgnj8I/default.jpg",
+        "url": "https://www.youtube.com/watch?v=kiTn9pgnj8I",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "indigo la End「チューリップ」",
+        "url": "https://www.youtube.com/watch?v=kiTn9pgnj8I",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "indigo la End Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXKSbzihU5cu0U4qbbjB3GA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-03-26",
+      "viewCount": "1453万",
+      "likeCount": "16万",
+      "commentCount": "3753"
     },
     {
       "rank": 2003,
@@ -67,50 +111,6 @@
       "commentCount": "3753"
     },
     {
-      "rank": 2004,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Sfz5TpCRSiI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Sfz5TpCRSiI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ずっと真夜中でいいのに。『猫リセット』MV (ZUTOMAYO – Neko Reset)",
-        "url": "https://www.youtube.com/watch?v=Sfz5TpCRSiI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ずっと真夜中でいいのに。 ZUTOMAYO",
-        "url": "https://www.youtube.com/channel/UCv6P5nsS9rP4tDtFlqLU_QQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-12-02",
-      "viewCount": "1107万",
-      "likeCount": "14.6万",
-      "commentCount": "3752"
-    },
-    {
-      "rank": 2004,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/kiTn9pgnj8I/default.jpg",
-        "url": "https://www.youtube.com/watch?v=kiTn9pgnj8I",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "indigo la End「チューリップ」",
-        "url": "https://www.youtube.com/watch?v=kiTn9pgnj8I",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "indigo la End Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXKSbzihU5cu0U4qbbjB3GA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-03-26",
-      "viewCount": "1452万",
-      "likeCount": "16万",
-      "commentCount": "3752"
-    },
-    {
       "rank": 2006,
       "thumb": {
         "img": "https://i.ytimg.com/vi/6OC92oxs4gA/default.jpg",
@@ -128,7 +128,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-20",
-      "viewCount": "3409万",
+      "viewCount": "3411万",
       "likeCount": "29.2万",
       "commentCount": "3750"
     },
@@ -155,7 +155,7 @@
       "commentCount": "3742"
     },
     {
-      "rank": 2007,
+      "rank": 2008,
       "thumb": {
         "img": "https://i.ytimg.com/vi/FrUKGoBkVvI/default.jpg",
         "url": "https://www.youtube.com/watch?v=FrUKGoBkVvI",
@@ -172,9 +172,9 @@
         "target": "_blank"
       },
       "publishedAt": "2017-09-01",
-      "viewCount": "1797万",
+      "viewCount": "1798万",
       "likeCount": "14.9万",
-      "commentCount": "3742"
+      "commentCount": "3741"
     },
     {
       "rank": 2009,
@@ -218,32 +218,10 @@
       "publishedAt": "2017-12-20",
       "viewCount": "1569万",
       "likeCount": "9.9万",
-      "commentCount": "3732"
+      "commentCount": "3731"
     },
     {
       "rank": 2011,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Oy7fhdAWvpk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Oy7fhdAWvpk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "悲しみは雪のように (ON THE ROAD 2011 \"The Last Weekend\")",
-        "url": "https://www.youtube.com/watch?v=Oy7fhdAWvpk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "浜田省吾 Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCS4Rrb_cE8F_Jo1XI4bNQdA",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-08-24",
-      "viewCount": "4044万",
-      "likeCount": "7.5万",
-      "commentCount": "3726"
-    },
-    {
-      "rank": 2012,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Z22loO5hY4A/default.jpg",
         "url": "https://www.youtube.com/watch?v=Z22loO5hY4A",
@@ -260,9 +238,31 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-26",
-      "viewCount": "1270万",
+      "viewCount": "1271万",
       "likeCount": "10.2万",
-      "commentCount": "3725"
+      "commentCount": "3729"
+    },
+    {
+      "rank": 2012,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Oy7fhdAWvpk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Oy7fhdAWvpk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "悲しみは雪のように (ON THE ROAD 2011 \"The Last Weekend\")",
+        "url": "https://www.youtube.com/watch?v=Oy7fhdAWvpk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "浜田省吾 Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCS4Rrb_cE8F_Jo1XI4bNQdA",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-08-24",
+      "viewCount": "4045万",
+      "likeCount": "7.5万",
+      "commentCount": "3726"
     },
     {
       "rank": 2013,
@@ -331,29 +331,7 @@
       "commentCount": "3720"
     },
     {
-      "rank": 2016,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/es-TULCdfvQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=es-TULCdfvQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "DISH// - 猫 [Official Live Video 2019]",
-        "url": "https://www.youtube.com/watch?v=es-TULCdfvQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "DISH// official YouTube channel",
-        "url": "https://www.youtube.com/channel/UCU6KkThusZwJccr_FQV9kvg",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-04-07",
-      "viewCount": "4639万",
-      "likeCount": "16.8万",
-      "commentCount": "3718"
-    },
-    {
-      "rank": 2017,
+      "rank": 2014,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vSOLtBy-xas/default.jpg",
         "url": "https://www.youtube.com/watch?v=vSOLtBy-xas",
@@ -370,9 +348,31 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-29",
-      "viewCount": "1450万",
+      "viewCount": "1451万",
       "likeCount": "7.2万",
-      "commentCount": "3717"
+      "commentCount": "3720"
+    },
+    {
+      "rank": 2017,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/es-TULCdfvQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=es-TULCdfvQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "DISH// - 猫 [Official Live Video 2019]",
+        "url": "https://www.youtube.com/watch?v=es-TULCdfvQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "DISH// official YouTube channel",
+        "url": "https://www.youtube.com/channel/UCU6KkThusZwJccr_FQV9kvg",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-04-07",
+      "viewCount": "4640万",
+      "likeCount": "16.8万",
+      "commentCount": "3718"
     },
     {
       "rank": 2018,
@@ -392,9 +392,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-13",
-      "viewCount": "1133万",
+      "viewCount": "1134万",
       "likeCount": "8.9万",
-      "commentCount": "3715"
+      "commentCount": "3716"
     },
     {
       "rank": 2019,
@@ -414,9 +414,53 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-14",
-      "viewCount": "3623万",
-      "likeCount": "17.4万",
+      "viewCount": "3624万",
+      "likeCount": "17.5万",
       "commentCount": "3711"
+    },
+    {
+      "rank": 2020,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/y6swyQ9bF7w/default.jpg",
+        "url": "https://www.youtube.com/watch?v=y6swyQ9bF7w",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ONE OK ROCK - Taking Off [Studio Jam Session]",
+        "url": "https://www.youtube.com/watch?v=y6swyQ9bF7w",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ONE OK ROCK",
+        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-12-01",
+      "viewCount": "1273万",
+      "likeCount": "12.8万",
+      "commentCount": "3709"
+    },
+    {
+      "rank": 2020,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/W0C_VJqjtpw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=W0C_VJqjtpw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "RADWIMPS - うるうびと [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=W0C_VJqjtpw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "RADWIMPS",
+        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-03-12",
+      "viewCount": "1847万",
+      "likeCount": "20.1万",
+      "commentCount": "3709"
     },
     {
       "rank": 2020,
@@ -436,53 +480,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-03",
-      "viewCount": "1153万",
+      "viewCount": "1154万",
       "likeCount": "12万",
       "commentCount": "3709"
-    },
-    {
-      "rank": 2021,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/y6swyQ9bF7w/default.jpg",
-        "url": "https://www.youtube.com/watch?v=y6swyQ9bF7w",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ONE OK ROCK - Taking Off [Studio Jam Session]",
-        "url": "https://www.youtube.com/watch?v=y6swyQ9bF7w",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ONE OK ROCK",
-        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-12-01",
-      "viewCount": "1272万",
-      "likeCount": "12.8万",
-      "commentCount": "3708"
-    },
-    {
-      "rank": 2021,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/W0C_VJqjtpw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=W0C_VJqjtpw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "RADWIMPS - うるうびと [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=W0C_VJqjtpw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "RADWIMPS",
-        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-03-12",
-      "viewCount": "1846万",
-      "likeCount": "20.1万",
-      "commentCount": "3708"
     },
     {
       "rank": 2023,
@@ -502,9 +502,31 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-17",
-      "viewCount": "1047万",
+      "viewCount": "1048万",
       "likeCount": "-",
       "commentCount": "3705"
+    },
+    {
+      "rank": 2024,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/IWC2sfwdK40/default.jpg",
+        "url": "https://www.youtube.com/watch?v=IWC2sfwdK40",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "AJR 「World's Smallest Violin」【日本語字幕Ver】",
+        "url": "https://www.youtube.com/watch?v=IWC2sfwdK40",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-07-16",
+      "viewCount": "2306万",
+      "likeCount": "22万",
+      "commentCount": "3701"
     },
     {
       "rank": 2024,
@@ -524,34 +546,12 @@
         "target": "_blank"
       },
       "publishedAt": "2017-05-12",
-      "viewCount": "2224万",
+      "viewCount": "2225万",
       "likeCount": "16.1万",
       "commentCount": "3701"
     },
     {
-      "rank": 2025,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/IWC2sfwdK40/default.jpg",
-        "url": "https://www.youtube.com/watch?v=IWC2sfwdK40",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "AJR 「World's Smallest Violin」【日本語字幕Ver】",
-        "url": "https://www.youtube.com/watch?v=IWC2sfwdK40",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-07-16",
-      "viewCount": "2304万",
-      "likeCount": "22万",
-      "commentCount": "3700"
-    },
-    {
-      "rank": 2025,
+      "rank": 2026,
       "thumb": {
         "img": "https://i.ytimg.com/vi/5e7IVcfmUTw/default.jpg",
         "url": "https://www.youtube.com/watch?v=5e7IVcfmUTw",
@@ -590,12 +590,12 @@
         "target": "_blank"
       },
       "publishedAt": "2012-01-06",
-      "viewCount": "1762万",
+      "viewCount": "1763万",
       "likeCount": "8.9万",
       "commentCount": "3697"
     },
     {
-      "rank": 2028,
+      "rank": 2027,
       "thumb": {
         "img": "https://i.ytimg.com/vi/maKok2RItxM/default.jpg",
         "url": "https://www.youtube.com/watch?v=maKok2RItxM",
@@ -612,9 +612,9 @@
         "target": "_blank"
       },
       "publishedAt": "2017-01-10",
-      "viewCount": "5966万",
+      "viewCount": "5967万",
       "likeCount": "42.8万",
-      "commentCount": "3696"
+      "commentCount": "3697"
     },
     {
       "rank": 2029,
@@ -641,6 +641,28 @@
     {
       "rank": 2030,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/jFQi8x3bZnU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=jFQi8x3bZnU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Premium】BLACKPINK - WHISTLE (Acoustic Ver.)  [LIVE](（MAKUHARI MESSE EVENT HALL[2018.08.26] ))",
+        "url": "https://www.youtube.com/watch?v=jFQi8x3bZnU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-12-18",
+      "viewCount": "1306万",
+      "likeCount": "25.2万",
+      "commentCount": "3688"
+    },
+    {
+      "rank": 2030,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/xsEsyWA2ve8/default.jpg",
         "url": "https://www.youtube.com/watch?v=xsEsyWA2ve8",
         "target": "_blank"
@@ -661,26 +683,26 @@
       "commentCount": "3688"
     },
     {
-      "rank": 2031,
+      "rank": 2032,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/jFQi8x3bZnU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=jFQi8x3bZnU",
+        "img": "https://i.ytimg.com/vi/4Pls29qqg6Y/default.jpg",
+        "url": "https://www.youtube.com/watch?v=4Pls29qqg6Y",
         "target": "_blank"
       },
       "title": {
-        "text": "【Premium】BLACKPINK - WHISTLE (Acoustic Ver.)  [LIVE](（MAKUHARI MESSE EVENT HALL[2018.08.26] ))",
-        "url": "https://www.youtube.com/watch?v=jFQi8x3bZnU",
+        "text": "なとり - フライデー・ナイト",
+        "url": "https://www.youtube.com/watch?v=4Pls29qqg6Y",
         "target": "_blank"
       },
       "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "text": "なとり / natori",
+        "url": "https://www.youtube.com/channel/UC4GXMHCwmONp6XFRB5SayAg",
         "target": "_blank"
       },
-      "publishedAt": "2018-12-18",
-      "viewCount": "1306万",
-      "likeCount": "25.2万",
-      "commentCount": "3687"
+      "publishedAt": "2023-03-31",
+      "viewCount": "3819万",
+      "likeCount": "33.6万",
+      "commentCount": "3684"
     },
     {
       "rank": 2032,
@@ -705,28 +727,6 @@
       "commentCount": "3684"
     },
     {
-      "rank": 2032,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/4Pls29qqg6Y/default.jpg",
-        "url": "https://www.youtube.com/watch?v=4Pls29qqg6Y",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "なとり - フライデー・ナイト",
-        "url": "https://www.youtube.com/watch?v=4Pls29qqg6Y",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "なとり / natori",
-        "url": "https://www.youtube.com/channel/UC4GXMHCwmONp6XFRB5SayAg",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-03-31",
-      "viewCount": "3817万",
-      "likeCount": "33.6万",
-      "commentCount": "3684"
-    },
-    {
       "rank": 2034,
       "thumb": {
         "img": "https://i.ytimg.com/vi/GWDzKel_vuQ/default.jpg",
@@ -744,9 +744,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-08-06",
-      "viewCount": "1216万",
+      "viewCount": "1217万",
       "likeCount": "12.6万",
-      "commentCount": "3682"
+      "commentCount": "3681"
     },
     {
       "rank": 2035,
@@ -766,7 +766,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-18",
-      "viewCount": "2846万",
+      "viewCount": "2847万",
       "likeCount": "20.6万",
       "commentCount": "3680"
     },
@@ -810,7 +810,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-06-13",
-      "viewCount": "1633万",
+      "viewCount": "1634万",
       "likeCount": "25.4万",
       "commentCount": "3672"
     },
@@ -837,7 +837,29 @@
       "commentCount": "3665"
     },
     {
-      "rank": 2038,
+      "rank": 2039,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/-ZpQmBhxOT0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=-ZpQmBhxOT0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "松任谷由実 - リフレインが叫んでる",
+        "url": "https://www.youtube.com/watch?v=-ZpQmBhxOT0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "松任谷由実",
+        "url": "https://www.youtube.com/channel/UCDD7BcoKphATW57_46mPFLg",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-08-23",
+      "viewCount": "1624万",
+      "likeCount": "5万",
+      "commentCount": "3664"
+    },
+    {
+      "rank": 2039,
       "thumb": {
         "img": "https://i.ytimg.com/vi/CetVGsV6g44/default.jpg",
         "url": "https://www.youtube.com/watch?v=CetVGsV6g44",
@@ -856,28 +878,6 @@
       "publishedAt": "2009-07-02",
       "viewCount": "1914万",
       "likeCount": "9.3万",
-      "commentCount": "3665"
-    },
-    {
-      "rank": 2040,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/-ZpQmBhxOT0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=-ZpQmBhxOT0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "松任谷由実 - リフレインが叫んでる",
-        "url": "https://www.youtube.com/watch?v=-ZpQmBhxOT0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "松任谷由実",
-        "url": "https://www.youtube.com/channel/UCDD7BcoKphATW57_46mPFLg",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-08-23",
-      "viewCount": "1623万",
-      "likeCount": "5万",
       "commentCount": "3664"
     },
     {
@@ -898,9 +898,9 @@
         "target": "_blank"
       },
       "publishedAt": "2017-09-07",
-      "viewCount": "1410万",
+      "viewCount": "1411万",
       "likeCount": "8.6万",
-      "commentCount": "3661"
+      "commentCount": "3663"
     },
     {
       "rank": 2042,
@@ -964,7 +964,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-30",
-      "viewCount": "3460万",
+      "viewCount": "3461万",
       "likeCount": "21.4万",
       "commentCount": "3655"
     },
@@ -986,9 +986,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-07",
-      "viewCount": "2509万",
+      "viewCount": "2511万",
       "likeCount": "11.4万",
-      "commentCount": "3652"
+      "commentCount": "3654"
     },
     {
       "rank": 2046,
@@ -1008,7 +1008,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-03-20",
-      "viewCount": "1598万",
+      "viewCount": "1599万",
       "likeCount": "4.6万",
       "commentCount": "3651"
     },
@@ -1030,7 +1030,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-22",
-      "viewCount": "1338万",
+      "viewCount": "1339万",
       "likeCount": "18.3万",
       "commentCount": "3643"
     },
@@ -1052,7 +1052,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-08-14",
-      "viewCount": "1142万",
+      "viewCount": "1143万",
       "likeCount": "16.6万",
       "commentCount": "3643"
     },
@@ -1076,7 +1076,7 @@
       "publishedAt": "2010-04-06",
       "viewCount": "2828万",
       "likeCount": "5.7万",
-      "commentCount": "3641"
+      "commentCount": "3642"
     },
     {
       "rank": 2050,

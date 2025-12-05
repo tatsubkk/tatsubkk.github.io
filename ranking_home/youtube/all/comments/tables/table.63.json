@@ -47,6 +47,28 @@
     {
       "rank": 3103,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/msSGCeCrJos/default.jpg",
+        "url": "https://www.youtube.com/watch?v=msSGCeCrJos",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "RADWIMPS - ラストバージン [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=msSGCeCrJos",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "RADWIMPS",
+        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-11-13",
+      "viewCount": "1482万",
+      "likeCount": "9.2万",
+      "commentCount": "38"
+    },
+    {
+      "rank": 3104,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/MquT2X5NEY8/default.jpg",
         "url": "https://www.youtube.com/watch?v=MquT2X5NEY8",
         "target": "_blank"
@@ -67,28 +89,6 @@
       "commentCount": "34"
     },
     {
-      "rank": 3104,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/msSGCeCrJos/default.jpg",
-        "url": "https://www.youtube.com/watch?v=msSGCeCrJos",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "RADWIMPS - ラストバージン [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=msSGCeCrJos",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "RADWIMPS",
-        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-11-13",
-      "viewCount": "1481万",
-      "likeCount": "9.2万",
-      "commentCount": "30"
-    },
-    {
       "rank": 3105,
       "thumb": {
         "img": "https://i.ytimg.com/vi/7pPb5fmumNo/default.jpg",
@@ -106,7 +106,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-06-02",
-      "viewCount": "2273万",
+      "viewCount": "2275万",
       "likeCount": "34.3万",
       "commentCount": "2"
     }
