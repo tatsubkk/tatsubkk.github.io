@@ -3,6 +3,52 @@
     {
       "rank": 2701,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/Z22loO5hY4A/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Z22loO5hY4A",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "いきものがかり 『笑顔』Music Video",
+        "url": "https://www.youtube.com/watch?v=Z22loO5hY4A",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "いきものがかり",
+        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-03-26",
+      "viewCount": "1271万",
+      "likeCount": "10.2万",
+      "commentCount": "3735",
+      "increment_d1": "6300"
+    },
+    {
+      "rank": 2702,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/VFSeESRAPKU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=VFSeESRAPKU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "浜崎あゆみ / Dearest",
+        "url": "https://www.youtube.com/watch?v=VFSeESRAPKU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ayu",
+        "url": "https://www.youtube.com/channel/UC7eXWU3oN-w5tNtP7sgeeNg",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-10-02",
+      "viewCount": "1271万",
+      "likeCount": "-",
+      "commentCount": "-",
+      "increment_d1": "9784"
+    },
+    {
+      "rank": 2703,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/sr0CLdJnjnI/default.jpg",
         "url": "https://www.youtube.com/watch?v=sr0CLdJnjnI",
         "target": "_blank"
@@ -21,56 +67,79 @@
       "viewCount": "1271万",
       "likeCount": "2.9万",
       "commentCount": "578",
-      "increment_d1": "626"
-    },
-    {
-      "rank": 2702,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Z22loO5hY4A/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Z22loO5hY4A",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "いきものがかり 『笑顔』Music Video",
-        "url": "https://www.youtube.com/watch?v=Z22loO5hY4A",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "いきものがかり",
-        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-03-26",
-      "viewCount": "1271万",
-      "likeCount": "10.2万",
-      "commentCount": "3729",
-      "increment_d1": "6216"
-    },
-    {
-      "rank": 2703,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/VFSeESRAPKU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=VFSeESRAPKU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "浜崎あゆみ / Dearest",
-        "url": "https://www.youtube.com/watch?v=VFSeESRAPKU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ayu",
-        "url": "https://www.youtube.com/channel/UC7eXWU3oN-w5tNtP7sgeeNg",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-10-02",
-      "viewCount": "1270万",
-      "likeCount": "-",
-      "commentCount": "-",
-      "increment_d1": "9014"
+      "increment_d1": "691"
     },
     {
       "rank": 2704,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/rFlsY2F7K-M/default.jpg",
+        "url": "https://www.youtube.com/watch?v=rFlsY2F7K-M",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ホワイトキス - 鈴木鈴木【Official Music Video】",
+        "url": "https://www.youtube.com/watch?v=rFlsY2F7K-M",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "鈴木鈴木(suzukisuzuki)ch",
+        "url": "https://www.youtube.com/channel/UC4s6P1q8l1zznc4Yk6WAX-A",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-11-18",
+      "viewCount": "1271万",
+      "likeCount": "9.9万",
+      "commentCount": "1914",
+      "increment_d1": "1.05万"
+    },
+    {
+      "rank": 2705,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/2qJnqZenIFY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=2qJnqZenIFY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "松任谷由実 - あの日にかえりたい (Yumi Arai The Concert with old Friends)",
+        "url": "https://www.youtube.com/watch?v=2qJnqZenIFY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "松任谷由実",
+        "url": "https://www.youtube.com/channel/UCDD7BcoKphATW57_46mPFLg",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-11-08",
+      "viewCount": "1270万",
+      "likeCount": "3.4万",
+      "commentCount": "1731",
+      "increment_d1": "8487"
+    },
+    {
+      "rank": 2706,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/zejYD43HyQo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=zejYD43HyQo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "FLOW「GO!!!」MUSIC VIDEO (TVアニメ『NARUTO -ナルト-』OPテーマ)",
+        "url": "https://www.youtube.com/watch?v=zejYD43HyQo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "FLOW Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCLakaKEelmUdqQISLjwIRmg",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-02-26",
+      "viewCount": "1270万",
+      "likeCount": "8.7万",
+      "commentCount": "1136",
+      "increment_d1": "7778"
+    },
+    {
+      "rank": 2707,
       "thumb": {
         "img": "https://i.ytimg.com/vi/YVqZKflL4PY/default.jpg",
         "url": "https://www.youtube.com/watch?v=YVqZKflL4PY",
@@ -89,34 +158,11 @@
       "publishedAt": "2009-04-23",
       "viewCount": "1270万",
       "likeCount": "4.2万",
-      "commentCount": "1875",
-      "increment_d1": "2333"
+      "commentCount": "1877",
+      "increment_d1": "2834"
     },
     {
-      "rank": 2705,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/rFlsY2F7K-M/default.jpg",
-        "url": "https://www.youtube.com/watch?v=rFlsY2F7K-M",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ホワイトキス - 鈴木鈴木【Official Music Video】",
-        "url": "https://www.youtube.com/watch?v=rFlsY2F7K-M",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "鈴木鈴木(suzukisuzuki)ch",
-        "url": "https://www.youtube.com/channel/UC4s6P1q8l1zznc4Yk6WAX-A",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-18",
-      "viewCount": "1270万",
-      "likeCount": "9.9万",
-      "commentCount": "1914",
-      "increment_d1": "1.01万"
-    },
-    {
-      "rank": 2706,
+      "rank": 2708,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3YwwPX8gxZ0/default.jpg",
         "url": "https://www.youtube.com/watch?v=3YwwPX8gxZ0",
@@ -133,56 +179,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-26",
-      "viewCount": "1269万",
+      "viewCount": "1270万",
       "likeCount": "6.5万",
       "commentCount": "1934",
-      "increment_d1": "3232"
-    },
-    {
-      "rank": 2707,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/2qJnqZenIFY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=2qJnqZenIFY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "松任谷由実 - あの日にかえりたい (Yumi Arai The Concert with old Friends)",
-        "url": "https://www.youtube.com/watch?v=2qJnqZenIFY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "松任谷由実",
-        "url": "https://www.youtube.com/channel/UCDD7BcoKphATW57_46mPFLg",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-11-08",
-      "viewCount": "1269万",
-      "likeCount": "3.4万",
-      "commentCount": "1729",
-      "increment_d1": "7557"
-    },
-    {
-      "rank": 2708,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/zejYD43HyQo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=zejYD43HyQo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "FLOW「GO!!!」MUSIC VIDEO (TVアニメ『NARUTO -ナルト-』OPテーマ)",
-        "url": "https://www.youtube.com/watch?v=zejYD43HyQo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "FLOW Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCLakaKEelmUdqQISLjwIRmg",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-02-26",
-      "viewCount": "1269万",
-      "likeCount": "8.7万",
-      "commentCount": "1134",
-      "increment_d1": "7555"
+      "increment_d1": "3377"
     },
     {
       "rank": 2709,
@@ -205,10 +205,33 @@
       "viewCount": "1269万",
       "likeCount": "9.1万",
       "commentCount": "1618",
-      "increment_d1": "1171"
+      "increment_d1": "1287"
     },
     {
       "rank": 2710,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/lTMSvyYOVjA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=lTMSvyYOVjA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "timelesz ｢ワンアンドオンリー｣ (YouTube Ver.)",
+        "url": "https://www.youtube.com/watch?v=lTMSvyYOVjA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "timelesz [タイムレス]",
+        "url": "https://www.youtube.com/channel/UCgXJMvOBqHk5wJFRKZfIgWQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-05-05",
+      "viewCount": "1268万",
+      "likeCount": "11.5万",
+      "commentCount": "1.8万",
+      "increment_d1": "1.21万"
+    },
+    {
+      "rank": 2711,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ApLnpIQXsIA/default.jpg",
         "url": "https://www.youtube.com/watch?v=ApLnpIQXsIA",
@@ -228,10 +251,33 @@
       "viewCount": "1268万",
       "likeCount": "5.1万",
       "commentCount": "6014",
-      "increment_d1": "823"
+      "increment_d1": "966"
     },
     {
-      "rank": 2711,
+      "rank": 2712,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/5Crs4En8Knw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=5Crs4En8Knw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【ののちゃん】はんぶんごっこ／ののちゃん(村方乃々佳)",
+        "url": "https://www.youtube.com/watch?v=5Crs4En8Knw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "コロムビアキッズ TV",
+        "url": "https://www.youtube.com/channel/UCY23ZWAoiQk_JrJfmV0l4fw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-08-20",
+      "viewCount": "1268万",
+      "likeCount": "6350",
+      "commentCount": "-",
+      "increment_d1": "5443"
+    },
+    {
+      "rank": 2713,
       "thumb": {
         "img": "https://i.ytimg.com/vi/RJJAJwJttiY/default.jpg",
         "url": "https://www.youtube.com/watch?v=RJJAJwJttiY",
@@ -251,10 +297,10 @@
       "viewCount": "1268万",
       "likeCount": "8.9万",
       "commentCount": "4.1万",
-      "increment_d1": "667"
+      "increment_d1": "652"
     },
     {
-      "rank": 2712,
+      "rank": 2714,
       "thumb": {
         "img": "https://i.ytimg.com/vi/LgrpIobzFSE/default.jpg",
         "url": "https://www.youtube.com/watch?v=LgrpIobzFSE",
@@ -274,53 +320,7 @@
       "viewCount": "1268万",
       "likeCount": "10.3万",
       "commentCount": "5046",
-      "increment_d1": "240"
-    },
-    {
-      "rank": 2713,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/5Crs4En8Knw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=5Crs4En8Knw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【ののちゃん】はんぶんごっこ／ののちゃん(村方乃々佳)",
-        "url": "https://www.youtube.com/watch?v=5Crs4En8Knw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "コロムビアキッズ TV",
-        "url": "https://www.youtube.com/channel/UCY23ZWAoiQk_JrJfmV0l4fw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-08-20",
-      "viewCount": "1267万",
-      "likeCount": "6345",
-      "commentCount": "-",
-      "increment_d1": "5304"
-    },
-    {
-      "rank": 2714,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/lTMSvyYOVjA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=lTMSvyYOVjA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "timelesz ｢ワンアンドオンリー｣ (YouTube Ver.)",
-        "url": "https://www.youtube.com/watch?v=lTMSvyYOVjA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "timelesz [タイムレス]",
-        "url": "https://www.youtube.com/channel/UCgXJMvOBqHk5wJFRKZfIgWQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-05-05",
-      "viewCount": "1267万",
-      "likeCount": "11.5万",
-      "commentCount": "1.8万",
-      "increment_d1": "1.2万"
+      "increment_d1": "232"
     },
     {
       "rank": 2715,
@@ -343,7 +343,7 @@
       "viewCount": "1266万",
       "likeCount": "6.2万",
       "commentCount": "3089",
-      "increment_d1": "987"
+      "increment_d1": "932"
     },
     {
       "rank": 2716,
@@ -366,7 +366,7 @@
       "viewCount": "1265万",
       "likeCount": "17.1万",
       "commentCount": "8107",
-      "increment_d1": "717"
+      "increment_d1": "650"
     },
     {
       "rank": 2717,
@@ -389,7 +389,7 @@
       "viewCount": "1265万",
       "likeCount": "7.3万",
       "commentCount": "2146",
-      "increment_d1": "1626"
+      "increment_d1": "1794"
     },
     {
       "rank": 2718,
@@ -412,7 +412,7 @@
       "viewCount": "1265万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "548"
+      "increment_d1": "542"
     },
     {
       "rank": 2719,
@@ -435,7 +435,7 @@
       "viewCount": "1263万",
       "likeCount": "2.9万",
       "commentCount": "1586",
-      "increment_d1": "1991"
+      "increment_d1": "1942"
     },
     {
       "rank": 2720,
@@ -457,8 +457,8 @@
       "publishedAt": "2020-04-28",
       "viewCount": "1263万",
       "likeCount": "14.7万",
-      "commentCount": "7241",
-      "increment_d1": "1078"
+      "commentCount": "7242",
+      "increment_d1": "1026"
     },
     {
       "rank": 2721,
@@ -481,7 +481,7 @@
       "viewCount": "1263万",
       "likeCount": "2.3万",
       "commentCount": "823",
-      "increment_d1": "122"
+      "increment_d1": "89"
     },
     {
       "rank": 2722,
@@ -501,10 +501,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-11-07",
-      "viewCount": "1262万",
+      "viewCount": "1263万",
       "likeCount": "4.2万",
-      "commentCount": "2219",
-      "increment_d1": "3084"
+      "commentCount": "2221",
+      "increment_d1": "3403"
     },
     {
       "rank": 2723,
@@ -526,8 +526,8 @@
       "publishedAt": "2023-05-25",
       "viewCount": "1262万",
       "likeCount": "8.7万",
-      "commentCount": "431",
-      "increment_d1": "3405"
+      "commentCount": "433",
+      "increment_d1": "3339"
     },
     {
       "rank": 2724,
@@ -547,10 +547,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-04-09",
-      "viewCount": "1260万",
+      "viewCount": "1261万",
       "likeCount": "15.9万",
-      "commentCount": "2981",
-      "increment_d1": "4500"
+      "commentCount": "2982",
+      "increment_d1": "4778"
     },
     {
       "rank": 2725,
@@ -573,7 +573,7 @@
       "viewCount": "1260万",
       "likeCount": "5.6万",
       "commentCount": "8276",
-      "increment_d1": "982"
+      "increment_d1": "863"
     },
     {
       "rank": 2726,
@@ -596,10 +596,33 @@
       "viewCount": "1259万",
       "likeCount": "8.1万",
       "commentCount": "2454",
-      "increment_d1": "3791"
+      "increment_d1": "4038"
     },
     {
       "rank": 2727,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/07SWfNXgKGo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=07SWfNXgKGo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "三原色",
+        "url": "https://www.youtube.com/watch?v=07SWfNXgKGo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-11-30",
+      "viewCount": "1258万",
+      "likeCount": "5.2万",
+      "commentCount": "106",
+      "increment_d1": "7023"
+    },
+    {
+      "rank": 2728,
       "thumb": {
         "img": "https://i.ytimg.com/vi/EJ1znwnhj68/default.jpg",
         "url": "https://www.youtube.com/watch?v=EJ1znwnhj68",
@@ -618,57 +641,11 @@
       "publishedAt": "2022-06-29",
       "viewCount": "1257万",
       "likeCount": "6.7万",
-      "commentCount": "1572",
-      "increment_d1": "5350"
-    },
-    {
-      "rank": 2728,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/07SWfNXgKGo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=07SWfNXgKGo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "三原色",
-        "url": "https://www.youtube.com/watch?v=07SWfNXgKGo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-30",
-      "viewCount": "1257万",
-      "likeCount": "5.2万",
-      "commentCount": "106",
-      "increment_d1": "7293"
+      "commentCount": "1573",
+      "increment_d1": "5211"
     },
     {
       "rank": 2729,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/6OU50pLDlYA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=6OU50pLDlYA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow Man「君の彼氏になりたい。」振り付け講座",
-        "url": "https://www.youtube.com/watch?v=6OU50pLDlYA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Snow Man",
-        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-10-24",
-      "viewCount": "1256万",
-      "likeCount": "-",
-      "commentCount": "1.7万",
-      "increment_d1": "2008"
-    },
-    {
-      "rank": 2730,
       "thumb": {
         "img": "https://i.ytimg.com/vi/lRAc3Q_foH0/default.jpg",
         "url": "https://www.youtube.com/watch?v=lRAc3Q_foH0",
@@ -685,10 +662,33 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-05",
-      "viewCount": "1256万",
+      "viewCount": "1257万",
       "likeCount": "2.5万",
       "commentCount": "1169",
-      "increment_d1": "2167"
+      "increment_d1": "2100"
+    },
+    {
+      "rank": 2730,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/6OU50pLDlYA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=6OU50pLDlYA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow Man「君の彼氏になりたい。」振り付け講座",
+        "url": "https://www.youtube.com/watch?v=6OU50pLDlYA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Snow Man",
+        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-10-24",
+      "viewCount": "1257万",
+      "likeCount": "-",
+      "commentCount": "1.7万",
+      "increment_d1": "1863"
     },
     {
       "rank": 2731,
@@ -710,8 +710,8 @@
       "publishedAt": "2022-05-06",
       "viewCount": "1256万",
       "likeCount": "21.4万",
-      "commentCount": "6599",
-      "increment_d1": "3627"
+      "commentCount": "6602",
+      "increment_d1": "3483"
     },
     {
       "rank": 2732,
@@ -734,7 +734,7 @@
       "viewCount": "1256万",
       "likeCount": "-",
       "commentCount": "4310",
-      "increment_d1": "2537"
+      "increment_d1": "2469"
     },
     {
       "rank": 2733,
@@ -757,7 +757,7 @@
       "viewCount": "1256万",
       "likeCount": "-",
       "commentCount": "7083",
-      "increment_d1": "473"
+      "increment_d1": "565"
     },
     {
       "rank": 2734,
@@ -777,10 +777,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-07-29",
-      "viewCount": "1254万",
+      "viewCount": "1255万",
       "likeCount": "4.3万",
-      "commentCount": "4040",
-      "increment_d1": "442"
+      "commentCount": "4039",
+      "increment_d1": "425"
     },
     {
       "rank": 2735,
@@ -803,7 +803,7 @@
       "viewCount": "1254万",
       "likeCount": "-",
       "commentCount": "2万",
-      "increment_d1": "1869"
+      "increment_d1": "1900"
     },
     {
       "rank": 2736,
@@ -826,7 +826,7 @@
       "viewCount": "1253万",
       "likeCount": "4.9万",
       "commentCount": "2834",
-      "increment_d1": "6404"
+      "increment_d1": "7225"
     },
     {
       "rank": 2737,
@@ -849,7 +849,7 @@
       "viewCount": "1253万",
       "likeCount": "2.8万",
       "commentCount": "1053",
-      "increment_d1": "306"
+      "increment_d1": "212"
     },
     {
       "rank": 2738,
@@ -872,7 +872,7 @@
       "viewCount": "1251万",
       "likeCount": "20.6万",
       "commentCount": "5960",
-      "increment_d1": "875"
+      "increment_d1": "790"
     },
     {
       "rank": 2739,
@@ -892,13 +892,36 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-28",
-      "viewCount": "1248万",
+      "viewCount": "1249万",
       "likeCount": "3.3万",
       "commentCount": "1659",
-      "increment_d1": "4145"
+      "increment_d1": "4313"
     },
     {
       "rank": 2740,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/e9FaggHTDM4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=e9FaggHTDM4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow Man 'SBY' Dance Practice",
+        "url": "https://www.youtube.com/watch?v=e9FaggHTDM4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Snow Man",
+        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-01-04",
+      "viewCount": "1249万",
+      "likeCount": "12.9万",
+      "commentCount": "6805",
+      "increment_d1": "1.28万"
+    },
+    {
+      "rank": 2741,
       "thumb": {
         "img": "https://i.ytimg.com/vi/8EjPGFGlRq0/default.jpg",
         "url": "https://www.youtube.com/watch?v=8EjPGFGlRq0",
@@ -918,10 +941,10 @@
       "viewCount": "1248万",
       "likeCount": "8.7万",
       "commentCount": "1180",
-      "increment_d1": "247"
+      "increment_d1": "215"
     },
     {
-      "rank": 2741,
+      "rank": 2742,
       "thumb": {
         "img": "https://i.ytimg.com/vi/GEau2ZJLobQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=GEau2ZJLobQ",
@@ -938,33 +961,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-27",
-      "viewCount": "1247万",
+      "viewCount": "1248万",
       "likeCount": "10.6万",
-      "commentCount": "2794",
-      "increment_d1": "3003"
-    },
-    {
-      "rank": 2742,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/e9FaggHTDM4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=e9FaggHTDM4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow Man 'SBY' Dance Practice",
-        "url": "https://www.youtube.com/watch?v=e9FaggHTDM4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Snow Man",
-        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-01-04",
-      "viewCount": "1247万",
-      "likeCount": "12.9万",
-      "commentCount": "6804",
-      "increment_d1": "1.36万"
+      "commentCount": "2796",
+      "increment_d1": "2986"
     },
     {
       "rank": 2743,
@@ -986,8 +986,8 @@
       "publishedAt": "2021-03-21",
       "viewCount": "1247万",
       "likeCount": "3.8万",
-      "commentCount": "1440",
-      "increment_d1": "5116"
+      "commentCount": "1441",
+      "increment_d1": "5719"
     },
     {
       "rank": 2744,
@@ -1010,7 +1010,7 @@
       "viewCount": "1246万",
       "likeCount": "4.9万",
       "commentCount": "1456",
-      "increment_d1": "1694"
+      "increment_d1": "1727"
     },
     {
       "rank": 2745,
@@ -1033,7 +1033,7 @@
       "viewCount": "1246万",
       "likeCount": "17.7万",
       "commentCount": "4599",
-      "increment_d1": "2285"
+      "increment_d1": "2303"
     },
     {
       "rank": 2746,
@@ -1056,7 +1056,7 @@
       "viewCount": "1246万",
       "likeCount": "26.4万",
       "commentCount": "4765",
-      "increment_d1": "2408"
+      "increment_d1": "2473"
     },
     {
       "rank": 2747,
@@ -1078,8 +1078,8 @@
       "publishedAt": "2021-02-16",
       "viewCount": "1244万",
       "likeCount": "7.1万",
-      "commentCount": "7467",
-      "increment_d1": "3315"
+      "commentCount": "7469",
+      "increment_d1": "3492"
     },
     {
       "rank": 2748,
@@ -1101,8 +1101,8 @@
       "publishedAt": "2021-11-23",
       "viewCount": "1244万",
       "likeCount": "12.6万",
-      "commentCount": "3017",
-      "increment_d1": "4223"
+      "commentCount": "3015",
+      "increment_d1": "4173"
     },
     {
       "rank": 2749,
@@ -1122,10 +1122,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-23",
-      "viewCount": "1243万",
+      "viewCount": "1244万",
       "likeCount": "5.2万",
       "commentCount": "1991",
-      "increment_d1": "2901"
+      "increment_d1": "2894"
     },
     {
       "rank": 2750,
@@ -1145,10 +1145,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-01-10",
-      "viewCount": "1242万",
+      "viewCount": "1243万",
       "likeCount": "6.4万",
       "commentCount": "1216",
-      "increment_d1": "3381"
+      "increment_d1": "3390"
     }
   ]
 }
