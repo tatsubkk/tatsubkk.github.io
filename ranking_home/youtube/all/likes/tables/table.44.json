@@ -3,28 +3,6 @@
     {
       "rank": 2151,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/onPP2wIB0DA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=onPP2wIB0DA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "中 孝介 『花』Music Video 2016ver.",
-        "url": "https://www.youtube.com/watch?v=onPP2wIB0DA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "中孝介 Official Channel",
-        "url": "https://www.youtube.com/channel/UC_oIAhHk_bAb7gTOCu8syEg",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-10-28",
-      "viewCount": "1610万",
-      "likeCount": "7.95万",
-      "commentCount": "3783"
-    },
-    {
-      "rank": 2152,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/2I25AFSBm2g/default.jpg",
         "url": "https://www.youtube.com/watch?v=2I25AFSBm2g",
         "target": "_blank"
@@ -40,12 +18,12 @@
         "target": "_blank"
       },
       "publishedAt": "2015-09-26",
-      "viewCount": "1901万",
+      "viewCount": "1902万",
       "likeCount": "7.95万",
-      "commentCount": "527"
+      "commentCount": "531"
     },
     {
-      "rank": 2153,
+      "rank": 2152,
       "thumb": {
         "img": "https://i.ytimg.com/vi/E3UDqofqcc4/default.jpg",
         "url": "https://www.youtube.com/watch?v=E3UDqofqcc4",
@@ -62,9 +40,31 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-21",
-      "viewCount": "1126万",
+      "viewCount": "1127万",
       "likeCount": "7.95万",
       "commentCount": "2700"
+    },
+    {
+      "rank": 2153,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/onPP2wIB0DA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=onPP2wIB0DA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "中 孝介 『花』Music Video 2016ver.",
+        "url": "https://www.youtube.com/watch?v=onPP2wIB0DA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "中孝介 Official Channel",
+        "url": "https://www.youtube.com/channel/UC_oIAhHk_bAb7gTOCu8syEg",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-10-28",
+      "viewCount": "1611万",
+      "likeCount": "7.95万",
+      "commentCount": "3783"
     },
     {
       "rank": 2154,
@@ -150,9 +150,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-30",
-      "viewCount": "1399万",
-      "likeCount": "7.9万",
-      "commentCount": "8039"
+      "viewCount": "1400万",
+      "likeCount": "7.91万",
+      "commentCount": "8048"
     },
     {
       "rank": 2158,
@@ -172,7 +172,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-13",
-      "viewCount": "1121万",
+      "viewCount": "1122万",
       "likeCount": "7.87万",
       "commentCount": "1204"
     },
@@ -216,9 +216,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-08",
-      "viewCount": "2632万",
+      "viewCount": "2633万",
       "likeCount": "7.87万",
-      "commentCount": "6218"
+      "commentCount": "6219"
     },
     {
       "rank": 2161,
@@ -262,7 +262,7 @@
       "publishedAt": "2010-09-08",
       "viewCount": "2346万",
       "likeCount": "7.85万",
-      "commentCount": "6930"
+      "commentCount": "6931"
     },
     {
       "rank": 2163,
@@ -350,7 +350,7 @@
       "publishedAt": "2015-12-31",
       "viewCount": "2967万",
       "likeCount": "7.83万",
-      "commentCount": "4725"
+      "commentCount": "4724"
     },
     {
       "rank": 2167,
@@ -372,32 +372,10 @@
       "publishedAt": "2011-03-25",
       "viewCount": "2301万",
       "likeCount": "7.82万",
-      "commentCount": "2359"
+      "commentCount": "2360"
     },
     {
       "rank": 2168,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/byThUoq0TaU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=byThUoq0TaU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【LIVE】W/X/Y feat.優里【コラボ】",
-        "url": "https://www.youtube.com/watch?v=byThUoq0TaU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Tani Yuuki",
-        "url": "https://www.youtube.com/channel/UCkPhQEwdob-Dc539qnJASvg",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-01-10",
-      "viewCount": "2207万",
-      "likeCount": "7.8万",
-      "commentCount": "1436"
-    },
-    {
-      "rank": 2169,
       "thumb": {
         "img": "https://i.ytimg.com/vi/j9rax18IghI/default.jpg",
         "url": "https://www.youtube.com/watch?v=j9rax18IghI",
@@ -415,8 +393,30 @@
       },
       "publishedAt": "2020-04-14",
       "viewCount": "2387万",
-      "likeCount": "7.79万",
+      "likeCount": "7.8万",
       "commentCount": "1259"
+    },
+    {
+      "rank": 2169,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/byThUoq0TaU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=byThUoq0TaU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【LIVE】W/X/Y feat.優里【コラボ】",
+        "url": "https://www.youtube.com/watch?v=byThUoq0TaU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Tani Yuuki",
+        "url": "https://www.youtube.com/channel/UCkPhQEwdob-Dc539qnJASvg",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-01-10",
+      "viewCount": "2208万",
+      "likeCount": "7.8万",
+      "commentCount": "1440"
     },
     {
       "rank": 2170,
@@ -465,6 +465,28 @@
     {
       "rank": 2172,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/J2Ya8mWfulU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=J2Ya8mWfulU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "清水翔太『HOME』MV",
+        "url": "https://www.youtube.com/watch?v=J2Ya8mWfulU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "清水翔太 / Shota Shimizu",
+        "url": "https://www.youtube.com/channel/UCv3cmuTwVzTXROJdaT7xw6w",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-03-23",
+      "viewCount": "3132万",
+      "likeCount": "7.78万",
+      "commentCount": "777"
+    },
+    {
+      "rank": 2173,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/9n3h2DAgeno/default.jpg",
         "url": "https://www.youtube.com/watch?v=9n3h2DAgeno",
         "target": "_blank"
@@ -485,28 +507,6 @@
       "commentCount": "3041"
     },
     {
-      "rank": 2173,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/J2Ya8mWfulU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=J2Ya8mWfulU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "清水翔太『HOME』MV",
-        "url": "https://www.youtube.com/watch?v=J2Ya8mWfulU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "清水翔太 / Shota Shimizu",
-        "url": "https://www.youtube.com/channel/UCv3cmuTwVzTXROJdaT7xw6w",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-03-23",
-      "viewCount": "3131万",
-      "likeCount": "7.78万",
-      "commentCount": "777"
-    },
-    {
       "rank": 2174,
       "thumb": {
         "img": "https://i.ytimg.com/vi/PG8xpE7Fl-I/default.jpg",
@@ -524,9 +524,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-14",
-      "viewCount": "1867万",
+      "viewCount": "1868万",
       "likeCount": "7.78万",
-      "commentCount": "1813"
+      "commentCount": "1819"
     },
     {
       "rank": 2175,
@@ -592,7 +592,7 @@
       "publishedAt": "2012-05-23",
       "viewCount": "2213万",
       "likeCount": "7.75万",
-      "commentCount": "5801"
+      "commentCount": "5800"
     },
     {
       "rank": 2178,
@@ -612,9 +612,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-01-18",
-      "viewCount": "1916万",
+      "viewCount": "1917万",
       "likeCount": "7.74万",
-      "commentCount": "2238"
+      "commentCount": "2239"
     },
     {
       "rank": 2179,
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2011-06-21",
-      "viewCount": "1679万",
+      "viewCount": "1680万",
       "likeCount": "7.72万",
       "commentCount": "147"
     },
@@ -700,8 +700,8 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-09",
-      "viewCount": "1316万",
-      "likeCount": "7.7万",
+      "viewCount": "1317万",
+      "likeCount": "7.71万",
       "commentCount": "1776"
     },
     {
@@ -751,28 +751,6 @@
     {
       "rank": 2185,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/53wnNn8K8sc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=53wnNn8K8sc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "三代目 J SOUL BROTHERS from EXILE TRIBE / J.S.B.DREAM",
-        "url": "https://www.youtube.com/watch?v=53wnNn8K8sc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-05-06",
-      "viewCount": "3314万",
-      "likeCount": "7.69万",
-      "commentCount": "3808"
-    },
-    {
-      "rank": 2185,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/WXk69QJ-Wr4/default.jpg",
         "url": "https://www.youtube.com/watch?v=WXk69QJ-Wr4",
         "target": "_blank"
@@ -788,9 +766,31 @@
         "target": "_blank"
       },
       "publishedAt": "2016-06-23",
-      "viewCount": "2430万",
+      "viewCount": "2431万",
       "likeCount": "7.69万",
       "commentCount": "2452"
+    },
+    {
+      "rank": 2186,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/53wnNn8K8sc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=53wnNn8K8sc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "三代目 J SOUL BROTHERS from EXILE TRIBE / J.S.B.DREAM",
+        "url": "https://www.youtube.com/watch?v=53wnNn8K8sc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-05-06",
+      "viewCount": "3315万",
+      "likeCount": "7.69万",
+      "commentCount": "3809"
     },
     {
       "rank": 2187,
@@ -810,9 +810,9 @@
         "target": "_blank"
       },
       "publishedAt": "2014-12-03",
-      "viewCount": "1372万",
-      "likeCount": "7.68万",
-      "commentCount": "2680"
+      "viewCount": "1373万",
+      "likeCount": "7.69万",
+      "commentCount": "2681"
     },
     {
       "rank": 2188,
@@ -854,34 +854,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-09",
-      "viewCount": "2106万",
+      "viewCount": "2108万",
       "likeCount": "7.65万",
       "commentCount": "206"
     },
     {
       "rank": 2190,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/x-_yZKI7EhE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=x-_yZKI7EhE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "プリンセス プリンセス　『世界でいちばん熱い夏』",
-        "url": "https://www.youtube.com/watch?v=x-_yZKI7EhE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "プリンセス プリンセス official YouTube channel",
-        "url": "https://www.youtube.com/channel/UCns9dyhvV-ySaSBeGyusf7Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-11-18",
-      "viewCount": "2493万",
-      "likeCount": "7.64万",
-      "commentCount": "4226"
-    },
-    {
-      "rank": 2191,
       "thumb": {
         "img": "https://i.ytimg.com/vi/wZlgIGsT-Ns/default.jpg",
         "url": "https://www.youtube.com/watch?v=wZlgIGsT-Ns",
@@ -898,9 +876,31 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-28",
-      "viewCount": "3761万",
-      "likeCount": "7.64万",
+      "viewCount": "3762万",
+      "likeCount": "7.65万",
       "commentCount": "3152"
+    },
+    {
+      "rank": 2191,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/x-_yZKI7EhE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=x-_yZKI7EhE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "プリンセス プリンセス　『世界でいちばん熱い夏』",
+        "url": "https://www.youtube.com/watch?v=x-_yZKI7EhE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "プリンセス プリンセス official YouTube channel",
+        "url": "https://www.youtube.com/channel/UCns9dyhvV-ySaSBeGyusf7Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-11-18",
+      "viewCount": "2495万",
+      "likeCount": "7.65万",
+      "commentCount": "4232"
     },
     {
       "rank": 2192,
@@ -942,7 +942,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-06-08",
-      "viewCount": "1144万",
+      "viewCount": "1145万",
       "likeCount": "7.63万",
       "commentCount": "2185"
     },
@@ -987,7 +987,7 @@
       },
       "publishedAt": "2017-12-21",
       "viewCount": "1641万",
-      "likeCount": "7.62万",
+      "likeCount": "7.63万",
       "commentCount": "2412"
     },
     {
@@ -1059,6 +1059,28 @@
     {
       "rank": 2199,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/vMk81-Y_cYU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=vMk81-Y_cYU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "JUJU　『この夜を止めてよ』",
+        "url": "https://www.youtube.com/watch?v=vMk81-Y_cYU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "JUJU Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UC6XufPOPYUXtBKJCFgkPkVA",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-11-07",
+      "viewCount": "3629万",
+      "likeCount": "7.61万",
+      "commentCount": "2851"
+    },
+    {
+      "rank": 2200,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/pnbeGTeZCpg/default.jpg",
         "url": "https://www.youtube.com/watch?v=pnbeGTeZCpg",
         "target": "_blank"
@@ -1077,28 +1099,6 @@
       "viewCount": "3780万",
       "likeCount": "7.61万",
       "commentCount": "3934"
-    },
-    {
-      "rank": 2200,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/vMk81-Y_cYU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=vMk81-Y_cYU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "JUJU　『この夜を止めてよ』",
-        "url": "https://www.youtube.com/watch?v=vMk81-Y_cYU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "JUJU Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UC6XufPOPYUXtBKJCFgkPkVA",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-11-07",
-      "viewCount": "3629万",
-      "likeCount": "7.61万",
-      "commentCount": "2853"
     }
   ]
 }

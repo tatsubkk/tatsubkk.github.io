@@ -21,7 +21,7 @@
       "viewCount": "1216万",
       "likeCount": "2.8万",
       "commentCount": "555",
-      "increment_d1": "639"
+      "increment_d1": "699"
     },
     {
       "rank": 2802,
@@ -44,7 +44,7 @@
       "viewCount": "1215万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "762"
+      "increment_d1": "717"
     },
     {
       "rank": 2803,
@@ -67,7 +67,7 @@
       "viewCount": "1215万",
       "likeCount": "6.3万",
       "commentCount": "2115",
-      "increment_d1": "684"
+      "increment_d1": "718"
     },
     {
       "rank": 2804,
@@ -90,7 +90,7 @@
       "viewCount": "1215万",
       "likeCount": "12万",
       "commentCount": "5871",
-      "increment_d1": "739"
+      "increment_d1": "815"
     },
     {
       "rank": 2805,
@@ -110,10 +110,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-26",
-      "viewCount": "1214万",
+      "viewCount": "1215万",
       "likeCount": "10.1万",
-      "commentCount": "5505",
-      "increment_d1": "5506"
+      "commentCount": "5504",
+      "increment_d1": "5634"
     },
     {
       "rank": 2806,
@@ -136,7 +136,7 @@
       "viewCount": "1214万",
       "likeCount": "7.8万",
       "commentCount": "1056",
-      "increment_d1": "1326"
+      "increment_d1": "1656"
     },
     {
       "rank": 2807,
@@ -156,10 +156,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-05-07",
-      "viewCount": "1213万",
+      "viewCount": "1214万",
       "likeCount": "20.9万",
       "commentCount": "1.3万",
-      "increment_d1": "838"
+      "increment_d1": "871"
     },
     {
       "rank": 2808,
@@ -182,7 +182,7 @@
       "viewCount": "1213万",
       "likeCount": "23.6万",
       "commentCount": "7956",
-      "increment_d1": "1138"
+      "increment_d1": "986"
     },
     {
       "rank": 2809,
@@ -205,7 +205,7 @@
       "viewCount": "1213万",
       "likeCount": "-",
       "commentCount": "5911",
-      "increment_d1": "2119"
+      "increment_d1": "2234"
     },
     {
       "rank": 2810,
@@ -228,33 +228,10 @@
       "viewCount": "1211万",
       "likeCount": "7.1万",
       "commentCount": "3049",
-      "increment_d1": "1457"
+      "increment_d1": "1575"
     },
     {
       "rank": 2811,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/YMErhJXZhp0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=YMErhJXZhp0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "King & Prince「TraceTrace」MV - Dance ver. - YouTube Edit",
-        "url": "https://www.youtube.com/watch?v=YMErhJXZhp0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "King & Prince",
-        "url": "https://www.youtube.com/channel/UCSxwcQnzA5K6DvofvBn6ATA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-09-05",
-      "viewCount": "1210万",
-      "likeCount": "-",
-      "commentCount": "7741",
-      "increment_d1": "718"
-    },
-    {
-      "rank": 2812,
       "thumb": {
         "img": "https://i.ytimg.com/vi/hgyGhu49sGc/default.jpg",
         "url": "https://www.youtube.com/watch?v=hgyGhu49sGc",
@@ -271,13 +248,13 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-24",
-      "viewCount": "1210万",
+      "viewCount": "1211万",
       "likeCount": "17.2万",
       "commentCount": "2468",
-      "increment_d1": "7956"
+      "increment_d1": "8007"
     },
     {
-      "rank": 2813,
+      "rank": 2812,
       "thumb": {
         "img": "https://i.ytimg.com/vi/UA33zQ-DY1w/default.jpg",
         "url": "https://www.youtube.com/watch?v=UA33zQ-DY1w",
@@ -296,8 +273,31 @@
       "publishedAt": "2012-10-17",
       "viewCount": "1210万",
       "likeCount": "4.5万",
-      "commentCount": "1972",
-      "increment_d1": "3886"
+      "commentCount": "1976",
+      "increment_d1": "4160"
+    },
+    {
+      "rank": 2813,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/YMErhJXZhp0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=YMErhJXZhp0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "King & Prince「TraceTrace」MV - Dance ver. - YouTube Edit",
+        "url": "https://www.youtube.com/watch?v=YMErhJXZhp0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "King & Prince",
+        "url": "https://www.youtube.com/channel/UCSxwcQnzA5K6DvofvBn6ATA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-09-05",
+      "viewCount": "1210万",
+      "likeCount": "-",
+      "commentCount": "7748",
+      "increment_d1": "857"
     },
     {
       "rank": 2814,
@@ -320,7 +320,7 @@
       "viewCount": "1210万",
       "likeCount": "8.6万",
       "commentCount": "3675",
-      "increment_d1": "1036"
+      "increment_d1": "1105"
     },
     {
       "rank": 2815,
@@ -343,7 +343,7 @@
       "viewCount": "1210万",
       "likeCount": "16.5万",
       "commentCount": "6746",
-      "increment_d1": "725"
+      "increment_d1": "823"
     },
     {
       "rank": 2816,
@@ -363,10 +363,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-06-06",
-      "viewCount": "1208万",
+      "viewCount": "1209万",
       "likeCount": "17.2万",
       "commentCount": "7697",
-      "increment_d1": "729"
+      "increment_d1": "721"
     },
     {
       "rank": 2817,
@@ -388,8 +388,8 @@
       "publishedAt": "2024-04-10",
       "viewCount": "1208万",
       "likeCount": "9万",
-      "commentCount": "4445",
-      "increment_d1": "5910"
+      "commentCount": "4446",
+      "increment_d1": "6552"
     },
     {
       "rank": 2818,
@@ -411,8 +411,8 @@
       "publishedAt": "2020-05-11",
       "viewCount": "1208万",
       "likeCount": "9.2万",
-      "commentCount": "8426",
-      "increment_d1": "1642"
+      "commentCount": "8436",
+      "increment_d1": "2253"
     },
     {
       "rank": 2819,
@@ -435,7 +435,7 @@
       "viewCount": "1207万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "392"
+      "increment_d1": "381"
     },
     {
       "rank": 2820,
@@ -458,7 +458,7 @@
       "viewCount": "1207万",
       "likeCount": "13.8万",
       "commentCount": "1.8万",
-      "increment_d1": "1237"
+      "increment_d1": "1317"
     },
     {
       "rank": 2821,
@@ -480,8 +480,8 @@
       "publishedAt": "2014-12-27",
       "viewCount": "1205万",
       "likeCount": "8.8万",
-      "commentCount": "2644",
-      "increment_d1": "374"
+      "commentCount": "2645",
+      "increment_d1": "383"
     },
     {
       "rank": 2822,
@@ -503,8 +503,8 @@
       "publishedAt": "2014-06-09",
       "viewCount": "1205万",
       "likeCount": "3.9万",
-      "commentCount": "1317",
-      "increment_d1": "102"
+      "commentCount": "1318",
+      "increment_d1": "131"
     },
     {
       "rank": 2823,
@@ -527,10 +527,33 @@
       "viewCount": "1205万",
       "likeCount": "10.8万",
       "commentCount": "42",
-      "increment_d1": "622"
+      "increment_d1": "624"
     },
     {
       "rank": 2824,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/LwIm_TSvhyQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=LwIm_TSvhyQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ニャーKB with ツチノコパンダ / アイドルはウーニャニャの件",
+        "url": "https://www.youtube.com/watch?v=LwIm_TSvhyQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-03-23",
+      "viewCount": "1204万",
+      "likeCount": "11.3万",
+      "commentCount": "7480",
+      "increment_d1": "8292"
+    },
+    {
+      "rank": 2825,
       "thumb": {
         "img": "https://i.ytimg.com/vi/8FDxco2VFS4/default.jpg",
         "url": "https://www.youtube.com/watch?v=8FDxco2VFS4",
@@ -550,10 +573,33 @@
       "viewCount": "1204万",
       "likeCount": "11.5万",
       "commentCount": "2263",
-      "increment_d1": "798"
+      "increment_d1": "879"
     },
     {
-      "rank": 2825,
+      "rank": 2826,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/3SR57oeegws/default.jpg",
+        "url": "https://www.youtube.com/watch?v=3SR57oeegws",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Vaundy LIVE \"しわあわせ\" \"怪獣の花唄\" |  one man live tour “HINODE”@ Zepp Tokyo (JAPAN/TOKYO)",
+        "url": "https://www.youtube.com/watch?v=3SR57oeegws",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Vaundy",
+        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-12-23",
+      "viewCount": "1204万",
+      "likeCount": "7.5万",
+      "commentCount": "1369",
+      "increment_d1": "7313"
+    },
+    {
+      "rank": 2827,
       "thumb": {
         "img": "https://i.ytimg.com/vi/6euDFWUngQ0/default.jpg",
         "url": "https://www.youtube.com/watch?v=6euDFWUngQ0",
@@ -572,34 +618,34 @@
       "publishedAt": "2022-06-27",
       "viewCount": "1204万",
       "likeCount": "-",
-      "commentCount": "5996",
-      "increment_d1": "1227"
+      "commentCount": "5995",
+      "increment_d1": "1394"
     },
     {
-      "rank": 2826,
+      "rank": 2828,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/LwIm_TSvhyQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=LwIm_TSvhyQ",
+        "img": "https://i.ytimg.com/vi/q_8ulbgIF5w/default.jpg",
+        "url": "https://www.youtube.com/watch?v=q_8ulbgIF5w",
         "target": "_blank"
       },
       "title": {
-        "text": "ニャーKB with ツチノコパンダ / アイドルはウーニャニャの件",
-        "url": "https://www.youtube.com/watch?v=LwIm_TSvhyQ",
+        "text": "ポルノグラフィティ『アポロ』MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=q_8ulbgIF5w",
         "target": "_blank"
       },
       "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "text": "ポルノグラフィティ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCJeCKqR6uqrdCw6021WuWlA",
         "target": "_blank"
       },
-      "publishedAt": "2015-03-23",
+      "publishedAt": "2021-09-03",
       "viewCount": "1204万",
-      "likeCount": "11.3万",
-      "commentCount": "7477",
-      "increment_d1": "6975"
+      "likeCount": "9.5万",
+      "commentCount": "2570",
+      "increment_d1": "8673"
     },
     {
-      "rank": 2827,
+      "rank": 2829,
       "thumb": {
         "img": "https://i.ytimg.com/vi/mlA-Z7zSLHU/default.jpg",
         "url": "https://www.youtube.com/watch?v=mlA-Z7zSLHU",
@@ -619,76 +665,30 @@
       "viewCount": "1203万",
       "likeCount": "14万",
       "commentCount": "4478",
-      "increment_d1": "1189"
-    },
-    {
-      "rank": 2828,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/3SR57oeegws/default.jpg",
-        "url": "https://www.youtube.com/watch?v=3SR57oeegws",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Vaundy LIVE \"しわあわせ\" \"怪獣の花唄\" |  one man live tour “HINODE”@ Zepp Tokyo (JAPAN/TOKYO)",
-        "url": "https://www.youtube.com/watch?v=3SR57oeegws",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Vaundy",
-        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-12-23",
-      "viewCount": "1203万",
-      "likeCount": "7.5万",
-      "commentCount": "1369",
-      "increment_d1": "6363"
-    },
-    {
-      "rank": 2829,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/rkyK5VD-vDk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=rkyK5VD-vDk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "西野カナ　『We Don't Stop MV(Short Ver.)』",
-        "url": "https://www.youtube.com/watch?v=rkyK5VD-vDk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-05-02",
-      "viewCount": "1203万",
-      "likeCount": "2万",
-      "commentCount": "586",
-      "increment_d1": "105"
+      "increment_d1": "1284"
     },
     {
       "rank": 2830,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/q_8ulbgIF5w/default.jpg",
-        "url": "https://www.youtube.com/watch?v=q_8ulbgIF5w",
+        "img": "https://i.ytimg.com/vi/TELFpTs29Ag/default.jpg",
+        "url": "https://www.youtube.com/watch?v=TELFpTs29Ag",
         "target": "_blank"
       },
       "title": {
-        "text": "ポルノグラフィティ『アポロ』MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=q_8ulbgIF5w",
+        "text": "Fujii Kaze Stadium Live “Feelin' Good” [day1]",
+        "url": "https://www.youtube.com/watch?v=TELFpTs29Ag",
         "target": "_blank"
       },
       "channel": {
-        "text": "ポルノグラフィティ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCJeCKqR6uqrdCw6021WuWlA",
+        "text": "Fujii Kaze",
+        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
         "target": "_blank"
       },
-      "publishedAt": "2021-09-03",
+      "publishedAt": "2024-08-24",
       "viewCount": "1203万",
-      "likeCount": "9.5万",
-      "commentCount": "2567",
-      "increment_d1": "7488"
+      "likeCount": "22.2万",
+      "commentCount": "1.7万",
+      "increment_d1": "1.16万"
     },
     {
       "rank": 2831,
@@ -711,30 +711,30 @@
       "viewCount": "1203万",
       "likeCount": "2.5万",
       "commentCount": "1505",
-      "increment_d1": "1521"
+      "increment_d1": "1679"
     },
     {
       "rank": 2832,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/TELFpTs29Ag/default.jpg",
-        "url": "https://www.youtube.com/watch?v=TELFpTs29Ag",
+        "img": "https://i.ytimg.com/vi/rkyK5VD-vDk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=rkyK5VD-vDk",
         "target": "_blank"
       },
       "title": {
-        "text": "Fujii Kaze Stadium Live “Feelin' Good” [day1]",
-        "url": "https://www.youtube.com/watch?v=TELFpTs29Ag",
+        "text": "西野カナ　『We Don't Stop MV(Short Ver.)』",
+        "url": "https://www.youtube.com/watch?v=rkyK5VD-vDk",
         "target": "_blank"
       },
       "channel": {
-        "text": "Fujii Kaze",
-        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
         "target": "_blank"
       },
-      "publishedAt": "2024-08-24",
-      "viewCount": "1202万",
-      "likeCount": "22.2万",
-      "commentCount": "1.7万",
-      "increment_d1": "8989"
+      "publishedAt": "2014-05-02",
+      "viewCount": "1203万",
+      "likeCount": "2万",
+      "commentCount": "586",
+      "increment_d1": "128"
     },
     {
       "rank": 2833,
@@ -757,7 +757,7 @@
       "viewCount": "1202万",
       "likeCount": "6.9万",
       "commentCount": "5823",
-      "increment_d1": "526"
+      "increment_d1": "552"
     },
     {
       "rank": 2834,
@@ -780,7 +780,7 @@
       "viewCount": "1202万",
       "likeCount": "4.8万",
       "commentCount": "2306",
-      "increment_d1": "1702"
+      "increment_d1": "1598"
     },
     {
       "rank": 2835,
@@ -803,7 +803,7 @@
       "viewCount": "1201万",
       "likeCount": "6.4万",
       "commentCount": "2410",
-      "increment_d1": "1583"
+      "increment_d1": "1684"
     },
     {
       "rank": 2836,
@@ -825,34 +825,11 @@
       "publishedAt": "2017-01-15",
       "viewCount": "1201万",
       "likeCount": "9.1万",
-      "commentCount": "9861",
-      "increment_d1": "832"
+      "commentCount": "9862",
+      "increment_d1": "797"
     },
     {
       "rank": 2837,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/aipq7JTWYBo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=aipq7JTWYBo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "#84【潜入】俺はパスがなくて入れなかったのでカメラだけ放り投げてみた。前編。",
-        "url": "https://www.youtube.com/watch?v=aipq7JTWYBo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "よにのちゃんねる",
-        "url": "https://www.youtube.com/channel/UC2alHD2WkakOiTxCxF-uMAg",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-01-02",
-      "viewCount": "1200万",
-      "likeCount": "-",
-      "commentCount": "1.2万",
-      "increment_d1": "1435"
-    },
-    {
-      "rank": 2838,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ytQhhgHGj_s/default.jpg",
         "url": "https://www.youtube.com/watch?v=ytQhhgHGj_s",
@@ -869,10 +846,33 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-01",
-      "viewCount": "1200万",
+      "viewCount": "1201万",
       "likeCount": "8万",
-      "commentCount": "1795",
-      "increment_d1": "8286"
+      "commentCount": "1796",
+      "increment_d1": "9128"
+    },
+    {
+      "rank": 2838,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/aipq7JTWYBo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=aipq7JTWYBo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "#84【潜入】俺はパスがなくて入れなかったのでカメラだけ放り投げてみた。前編。",
+        "url": "https://www.youtube.com/watch?v=aipq7JTWYBo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "よにのちゃんねる",
+        "url": "https://www.youtube.com/channel/UC2alHD2WkakOiTxCxF-uMAg",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-01-02",
+      "viewCount": "1201万",
+      "likeCount": "-",
+      "commentCount": "1.2万",
+      "increment_d1": "1489"
     },
     {
       "rank": 2839,
@@ -894,11 +894,57 @@
       "publishedAt": "2022-06-03",
       "viewCount": "1200万",
       "likeCount": "12.1万",
-      "commentCount": "1069",
-      "increment_d1": "3947"
+      "commentCount": "1070",
+      "increment_d1": "3730"
     },
     {
       "rank": 2840,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/0nzgi6dz8VY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=0nzgi6dz8VY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Official髭男dism - LADY［Official Video］",
+        "url": "https://www.youtube.com/watch?v=0nzgi6dz8VY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Official髭男dism",
+        "url": "https://www.youtube.com/channel/UC3vg17IZ1IV73xx069jG44w",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-09-29",
+      "viewCount": "1199万",
+      "likeCount": "6.2万",
+      "commentCount": "2314",
+      "increment_d1": "1976"
+    },
+    {
+      "rank": 2841,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/iyU1t8G0LZw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=iyU1t8G0LZw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Fujii Kaze - Feelin’ Go(o)d",
+        "url": "https://www.youtube.com/watch?v=iyU1t8G0LZw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Fujii Kaze",
+        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-07-25",
+      "viewCount": "1199万",
+      "likeCount": "16.8万",
+      "commentCount": "8103",
+      "increment_d1": "7681"
+    },
+    {
+      "rank": 2842,
       "thumb": {
         "img": "https://i.ytimg.com/vi/2ukU1meKcD0/default.jpg",
         "url": "https://www.youtube.com/watch?v=2ukU1meKcD0",
@@ -918,53 +964,7 @@
       "viewCount": "1199万",
       "likeCount": "11.7万",
       "commentCount": "5819",
-      "increment_d1": "757"
-    },
-    {
-      "rank": 2841,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/0nzgi6dz8VY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=0nzgi6dz8VY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Official髭男dism - LADY［Official Video］",
-        "url": "https://www.youtube.com/watch?v=0nzgi6dz8VY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Official髭男dism",
-        "url": "https://www.youtube.com/channel/UC3vg17IZ1IV73xx069jG44w",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-09-29",
-      "viewCount": "1199万",
-      "likeCount": "6.2万",
-      "commentCount": "2313",
-      "increment_d1": "1788"
-    },
-    {
-      "rank": 2842,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/iyU1t8G0LZw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=iyU1t8G0LZw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Fujii Kaze - Feelin’ Go(o)d",
-        "url": "https://www.youtube.com/watch?v=iyU1t8G0LZw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Fujii Kaze",
-        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-07-25",
-      "viewCount": "1199万",
-      "likeCount": "16.8万",
-      "commentCount": "8102",
-      "increment_d1": "7056"
+      "increment_d1": "925"
     },
     {
       "rank": 2843,
@@ -987,7 +987,7 @@
       "viewCount": "1197万",
       "likeCount": "13.5万",
       "commentCount": "3829",
-      "increment_d1": "3864"
+      "increment_d1": "3740"
     },
     {
       "rank": 2844,
@@ -1010,7 +1010,7 @@
       "viewCount": "1197万",
       "likeCount": "16.7万",
       "commentCount": "3513",
-      "increment_d1": "1929"
+      "increment_d1": "1853"
     },
     {
       "rank": 2845,
@@ -1032,8 +1032,8 @@
       "publishedAt": "2020-07-11",
       "viewCount": "1196万",
       "likeCount": "15.8万",
-      "commentCount": "5238",
-      "increment_d1": "1352"
+      "commentCount": "5239",
+      "increment_d1": "1309"
     },
     {
       "rank": 2846,
@@ -1056,7 +1056,7 @@
       "viewCount": "1196万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "643"
+      "increment_d1": "865"
     },
     {
       "rank": 2847,
@@ -1076,10 +1076,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-09",
-      "viewCount": "1195万",
+      "viewCount": "1196万",
       "likeCount": "11.9万",
-      "commentCount": "2943",
-      "increment_d1": "4157"
+      "commentCount": "2942",
+      "increment_d1": "4645"
     },
     {
       "rank": 2848,
@@ -1099,10 +1099,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-23",
-      "viewCount": "1194万",
+      "viewCount": "1195万",
       "likeCount": "24.5万",
-      "commentCount": "4885",
-      "increment_d1": "9814"
+      "commentCount": "4887",
+      "increment_d1": "1.08万"
     },
     {
       "rank": 2849,
@@ -1125,7 +1125,7 @@
       "viewCount": "1194万",
       "likeCount": "12.6万",
       "commentCount": "1万",
-      "increment_d1": "810"
+      "increment_d1": "706"
     },
     {
       "rank": 2850,
@@ -1148,7 +1148,7 @@
       "viewCount": "1193万",
       "likeCount": "11.8万",
       "commentCount": "6895",
-      "increment_d1": "2260"
+      "increment_d1": "2322"
     }
   ]
 }

@@ -20,8 +20,8 @@
       "publishedAt": "2017-02-06",
       "viewCount": "3016万",
       "likeCount": "18.7万",
-      "commentCount": "7331",
-      "increment_d1": "2372"
+      "commentCount": "7330",
+      "increment_d1": "2584"
     },
     {
       "rank": 1152,
@@ -41,10 +41,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-11-07",
-      "viewCount": "3014万",
+      "viewCount": "3015万",
       "likeCount": "15.8万",
       "commentCount": "3383",
-      "increment_d1": "3159"
+      "increment_d1": "3283"
     },
     {
       "rank": 1153,
@@ -64,10 +64,10 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-07",
-      "viewCount": "3011万",
+      "viewCount": "3012万",
       "likeCount": "8.1万",
-      "commentCount": "3043",
-      "increment_d1": "3760"
+      "commentCount": "3046",
+      "increment_d1": "3907"
     },
     {
       "rank": 1154,
@@ -90,7 +90,7 @@
       "viewCount": "3011万",
       "likeCount": "13.3万",
       "commentCount": "8228",
-      "increment_d1": "1208"
+      "increment_d1": "1294"
     },
     {
       "rank": 1155,
@@ -110,10 +110,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-21",
-      "viewCount": "3008万",
+      "viewCount": "3010万",
       "likeCount": "16.6万",
-      "commentCount": "5799",
-      "increment_d1": "1.7万"
+      "commentCount": "5798",
+      "increment_d1": "1.86万"
     },
     {
       "rank": 1156,
@@ -133,13 +133,36 @@
         "target": "_blank"
       },
       "publishedAt": "2012-01-06",
-      "viewCount": "3006万",
+      "viewCount": "3007万",
       "likeCount": "8.7万",
       "commentCount": "2824",
-      "increment_d1": "5350"
+      "increment_d1": "5772"
     },
     {
       "rank": 1157,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/FLs2faYqoNU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=FLs2faYqoNU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "いきものがかり 『熱情のスペクトラム』Music Video",
+        "url": "https://www.youtube.com/watch?v=FLs2faYqoNU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "いきものがかり",
+        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-08-24",
+      "viewCount": "3000万",
+      "likeCount": "42万",
+      "commentCount": "6651",
+      "increment_d1": "1.62万"
+    },
+    {
+      "rank": 1158,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vG_rgBD6uwk/default.jpg",
         "url": "https://www.youtube.com/watch?v=vG_rgBD6uwk",
@@ -159,56 +182,10 @@
       "viewCount": "3000万",
       "likeCount": "6.1万",
       "commentCount": "4492",
-      "increment_d1": "771"
-    },
-    {
-      "rank": 1158,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/FLs2faYqoNU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=FLs2faYqoNU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "いきものがかり 『熱情のスペクトラム』Music Video",
-        "url": "https://www.youtube.com/watch?v=FLs2faYqoNU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "いきものがかり",
-        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-08-24",
-      "viewCount": "2998万",
-      "likeCount": "42万",
-      "commentCount": "6647",
-      "increment_d1": "1.63万"
+      "increment_d1": "798"
     },
     {
       "rank": 1159,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/kQvT37OzkP8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=kQvT37OzkP8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Fujii Kaze - Seishun Sick (Official Video)",
-        "url": "https://www.youtube.com/watch?v=kQvT37OzkP8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Fujii Kaze",
-        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-12-11",
-      "viewCount": "2998万",
-      "likeCount": "21.9万",
-      "commentCount": "8659",
-      "increment_d1": "7875"
-    },
-    {
-      "rank": 1160,
       "thumb": {
         "img": "https://i.ytimg.com/vi/2IZbzRj3CJk/default.jpg",
         "url": "https://www.youtube.com/watch?v=2IZbzRj3CJk",
@@ -225,10 +202,33 @@
         "target": "_blank"
       },
       "publishedAt": "2013-01-25",
-      "viewCount": "2998万",
+      "viewCount": "2999万",
       "likeCount": "17.7万",
       "commentCount": "1.1万",
-      "increment_d1": "1.07万"
+      "increment_d1": "1.13万"
+    },
+    {
+      "rank": 1160,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/kQvT37OzkP8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=kQvT37OzkP8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Fujii Kaze - Seishun Sick (Official Video)",
+        "url": "https://www.youtube.com/watch?v=kQvT37OzkP8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Fujii Kaze",
+        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-12-11",
+      "viewCount": "2999万",
+      "likeCount": "21.9万",
+      "commentCount": "8660",
+      "increment_d1": "8877"
     },
     {
       "rank": 1161,
@@ -248,10 +248,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-07-09",
-      "viewCount": "2995万",
+      "viewCount": "2996万",
       "likeCount": "18.8万",
-      "commentCount": "6147",
-      "increment_d1": "4205"
+      "commentCount": "6148",
+      "increment_d1": "4094"
     },
     {
       "rank": 1162,
@@ -271,13 +271,36 @@
         "target": "_blank"
       },
       "publishedAt": "2009-10-02",
-      "viewCount": "2995万",
+      "viewCount": "2996万",
       "likeCount": "12.5万",
-      "commentCount": "3628",
-      "increment_d1": "7724"
+      "commentCount": "3629",
+      "increment_d1": "7473"
     },
     {
       "rank": 1163,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/KhTxlm4REQc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=KhTxlm4REQc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "m.o.v.e / Gamble Rumble",
+        "url": "https://www.youtube.com/watch?v=KhTxlm4REQc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-06-27",
+      "viewCount": "2994万",
+      "likeCount": "12.9万",
+      "commentCount": "6299",
+      "increment_d1": "8245"
+    },
+    {
+      "rank": 1164,
       "thumb": {
         "img": "https://i.ytimg.com/vi/7njC5lgL61c/default.jpg",
         "url": "https://www.youtube.com/watch?v=7njC5lgL61c",
@@ -297,30 +320,7 @@
       "viewCount": "2993万",
       "likeCount": "13.5万",
       "commentCount": "2万",
-      "increment_d1": "2257"
-    },
-    {
-      "rank": 1164,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/KhTxlm4REQc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=KhTxlm4REQc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "m.o.v.e / Gamble Rumble",
-        "url": "https://www.youtube.com/watch?v=KhTxlm4REQc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-06-27",
-      "viewCount": "2993万",
-      "likeCount": "12.9万",
-      "commentCount": "6299",
-      "increment_d1": "8157"
+      "increment_d1": "2161"
     },
     {
       "rank": 1165,
@@ -342,8 +342,8 @@
       "publishedAt": "2019-08-16",
       "viewCount": "2992万",
       "likeCount": "19.7万",
-      "commentCount": "4112",
-      "increment_d1": "6319"
+      "commentCount": "4113",
+      "increment_d1": "7204"
     },
     {
       "rank": 1166,
@@ -363,10 +363,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-18",
-      "viewCount": "2990万",
+      "viewCount": "2991万",
       "likeCount": "-",
       "commentCount": "1.4万",
-      "increment_d1": "5025"
+      "increment_d1": "7174"
     },
     {
       "rank": 1167,
@@ -389,7 +389,7 @@
       "viewCount": "2986万",
       "likeCount": "4.7万",
       "commentCount": "1342",
-      "increment_d1": "354"
+      "increment_d1": "481"
     },
     {
       "rank": 1168,
@@ -409,10 +409,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-07",
-      "viewCount": "2983万",
+      "viewCount": "2984万",
       "likeCount": "-",
       "commentCount": "3.4万",
-      "increment_d1": "3178"
+      "increment_d1": "3972"
     },
     {
       "rank": 1169,
@@ -432,10 +432,10 @@
         "target": "_blank"
       },
       "publishedAt": "2025-03-24",
-      "viewCount": "2979万",
+      "viewCount": "2980万",
       "likeCount": "13.6万",
       "commentCount": "11.8万",
-      "increment_d1": "6697"
+      "increment_d1": "7961"
     },
     {
       "rank": 1170,
@@ -455,10 +455,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-05-27",
-      "viewCount": "2974万",
+      "viewCount": "2975万",
       "likeCount": "36.8万",
       "commentCount": "1万",
-      "increment_d1": "6789"
+      "increment_d1": "7359"
     },
     {
       "rank": 1171,
@@ -481,7 +481,7 @@
       "viewCount": "2974万",
       "likeCount": "26.1万",
       "commentCount": "1.8万",
-      "increment_d1": "862"
+      "increment_d1": "785"
     },
     {
       "rank": 1172,
@@ -504,7 +504,7 @@
       "viewCount": "2973万",
       "likeCount": "11.4万",
       "commentCount": "1.5万",
-      "increment_d1": "1783"
+      "increment_d1": "1885"
     },
     {
       "rank": 1173,
@@ -527,7 +527,7 @@
       "viewCount": "2971万",
       "likeCount": "17.1万",
       "commentCount": "5560",
-      "increment_d1": "2307"
+      "increment_d1": "2392"
     },
     {
       "rank": 1174,
@@ -547,10 +547,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-10-06",
-      "viewCount": "2970万",
+      "viewCount": "2971万",
       "likeCount": "6.8万",
       "commentCount": "1538",
-      "increment_d1": "1175"
+      "increment_d1": "1167"
     },
     {
       "rank": 1175,
@@ -572,8 +572,8 @@
       "publishedAt": "2015-12-31",
       "viewCount": "2967万",
       "likeCount": "7.8万",
-      "commentCount": "4725",
-      "increment_d1": "1440"
+      "commentCount": "4724",
+      "increment_d1": "1573"
     },
     {
       "rank": 1176,
@@ -596,10 +596,33 @@
       "viewCount": "2966万",
       "likeCount": "19.6万",
       "commentCount": "4693",
-      "increment_d1": "3776"
+      "increment_d1": "4112"
     },
     {
       "rank": 1177,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/9JPpdDo0o6U/default.jpg",
+        "url": "https://www.youtube.com/watch?v=9JPpdDo0o6U",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – 青と夏(第75回NHK紅白歌合戦 歌唱曲)【LIVE from ゼンジン未到とヴェルトラウム〜銘銘編〜】",
+        "url": "https://www.youtube.com/watch?v=9JPpdDo0o6U",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-12-31",
+      "viewCount": "2966万",
+      "likeCount": "10.3万",
+      "commentCount": "2489",
+      "increment_d1": "5.27万"
+    },
+    {
+      "rank": 1178,
       "thumb": {
         "img": "https://i.ytimg.com/vi/VSnXfcjJ8qk/default.jpg",
         "url": "https://www.youtube.com/watch?v=VSnXfcjJ8qk",
@@ -616,13 +639,13 @@
         "target": "_blank"
       },
       "publishedAt": "2021-04-27",
-      "viewCount": "2964万",
+      "viewCount": "2965万",
       "likeCount": "16.8万",
       "commentCount": "-",
-      "increment_d1": "1.06万"
+      "increment_d1": "1.19万"
     },
     {
-      "rank": 1178,
+      "rank": 1179,
       "thumb": {
         "img": "https://i.ytimg.com/vi/0M3HoC2uGhM/default.jpg",
         "url": "https://www.youtube.com/watch?v=0M3HoC2uGhM",
@@ -642,10 +665,10 @@
       "viewCount": "2962万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "1714"
+      "increment_d1": "1797"
     },
     {
-      "rank": 1179,
+      "rank": 1180,
       "thumb": {
         "img": "https://i.ytimg.com/vi/76-U4b5MKHg/default.jpg",
         "url": "https://www.youtube.com/watch?v=76-U4b5MKHg",
@@ -662,33 +685,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-12-25",
-      "viewCount": "2961万",
+      "viewCount": "2962万",
       "likeCount": "8.1万",
-      "commentCount": "3611",
-      "increment_d1": "4564"
-    },
-    {
-      "rank": 1180,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/9JPpdDo0o6U/default.jpg",
-        "url": "https://www.youtube.com/watch?v=9JPpdDo0o6U",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – 青と夏(第75回NHK紅白歌合戦 歌唱曲)【LIVE from ゼンジン未到とヴェルトラウム〜銘銘編〜】",
-        "url": "https://www.youtube.com/watch?v=9JPpdDo0o6U",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-12-31",
-      "viewCount": "2961万",
-      "likeCount": "10.3万",
-      "commentCount": "2487",
-      "increment_d1": "4.5万"
+      "commentCount": "3620",
+      "increment_d1": "5297"
     },
     {
       "rank": 1181,
@@ -711,7 +711,7 @@
       "viewCount": "2959万",
       "likeCount": "-",
       "commentCount": "4万",
-      "increment_d1": "3462"
+      "increment_d1": "4187"
     },
     {
       "rank": 1182,
@@ -734,7 +734,7 @@
       "viewCount": "2958万",
       "likeCount": "22万",
       "commentCount": "1.1万",
-      "increment_d1": "3022"
+      "increment_d1": "3226"
     },
     {
       "rank": 1183,
@@ -754,10 +754,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-07",
-      "viewCount": "2957万",
+      "viewCount": "2958万",
       "likeCount": "10.6万",
       "commentCount": "2467",
-      "increment_d1": "7530"
+      "increment_d1": "7836"
     },
     {
       "rank": 1184,
@@ -777,10 +777,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-12-19",
-      "viewCount": "2951万",
+      "viewCount": "2952万",
       "likeCount": "13万",
-      "commentCount": "5222",
-      "increment_d1": "9179"
+      "commentCount": "5225",
+      "increment_d1": "1.06万"
     },
     {
       "rank": 1185,
@@ -803,7 +803,7 @@
       "viewCount": "2946万",
       "likeCount": "13.1万",
       "commentCount": "7412",
-      "increment_d1": "312"
+      "increment_d1": "332"
     },
     {
       "rank": 1186,
@@ -826,7 +826,7 @@
       "viewCount": "2945万",
       "likeCount": "10.8万",
       "commentCount": "9284",
-      "increment_d1": "1192"
+      "increment_d1": "1168"
     },
     {
       "rank": 1187,
@@ -849,7 +849,7 @@
       "viewCount": "2942万",
       "likeCount": "32.5万",
       "commentCount": "8370",
-      "increment_d1": "2227"
+      "increment_d1": "1990"
     },
     {
       "rank": 1188,
@@ -872,7 +872,7 @@
       "viewCount": "2942万",
       "likeCount": "-",
       "commentCount": "2.4万",
-      "increment_d1": "4676"
+      "increment_d1": "5461"
     },
     {
       "rank": 1189,
@@ -892,10 +892,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-02",
-      "viewCount": "2939万",
+      "viewCount": "2940万",
       "likeCount": "30.9万",
       "commentCount": "8263",
-      "increment_d1": "7910"
+      "increment_d1": "8134"
     },
     {
       "rank": 1190,
@@ -915,10 +915,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-30",
-      "viewCount": "2937万",
-      "likeCount": "54.7万",
+      "viewCount": "2938万",
+      "likeCount": "54.8万",
       "commentCount": "1万",
-      "increment_d1": "6543"
+      "increment_d1": "6307"
     },
     {
       "rank": 1191,
@@ -941,7 +941,7 @@
       "viewCount": "2934万",
       "likeCount": "43.4万",
       "commentCount": "21.3万",
-      "increment_d1": "956"
+      "increment_d1": "793"
     },
     {
       "rank": 1192,
@@ -964,10 +964,33 @@
       "viewCount": "2932万",
       "likeCount": "13.1万",
       "commentCount": "1万",
-      "increment_d1": "654"
+      "increment_d1": "746"
     },
     {
       "rank": 1193,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/svbfMJJk_90/default.jpg",
+        "url": "https://www.youtube.com/watch?v=svbfMJJk_90",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "もういいよ / こっちのけんと MV",
+        "url": "https://www.youtube.com/watch?v=svbfMJJk_90",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "こっちのけんと",
+        "url": "https://www.youtube.com/channel/UC1laSZHo_6VBXU9FmfGNwFA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-10-14",
+      "viewCount": "2932万",
+      "likeCount": "32.2万",
+      "commentCount": "1.1万",
+      "increment_d1": "1.2万"
+    },
+    {
+      "rank": 1194,
       "thumb": {
         "img": "https://i.ytimg.com/vi/LZKNYwvlEII/default.jpg",
         "url": "https://www.youtube.com/watch?v=LZKNYwvlEII",
@@ -986,31 +1009,8 @@
       "publishedAt": "2013-12-27",
       "viewCount": "2932万",
       "likeCount": "10.1万",
-      "commentCount": "452",
-      "increment_d1": "1481"
-    },
-    {
-      "rank": 1194,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/svbfMJJk_90/default.jpg",
-        "url": "https://www.youtube.com/watch?v=svbfMJJk_90",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "もういいよ / こっちのけんと MV",
-        "url": "https://www.youtube.com/watch?v=svbfMJJk_90",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "こっちのけんと",
-        "url": "https://www.youtube.com/channel/UC1laSZHo_6VBXU9FmfGNwFA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-10-14",
-      "viewCount": "2931万",
-      "likeCount": "32.2万",
-      "commentCount": "1.1万",
-      "increment_d1": "1.03万"
+      "commentCount": "451",
+      "increment_d1": "1635"
     },
     {
       "rank": 1195,
@@ -1032,8 +1032,8 @@
       "publishedAt": "2019-06-20",
       "viewCount": "2927万",
       "likeCount": "29.8万",
-      "commentCount": "6607",
-      "increment_d1": "5085"
+      "commentCount": "6608",
+      "increment_d1": "5497"
     },
     {
       "rank": 1196,
@@ -1053,10 +1053,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-10-08",
-      "viewCount": "2923万",
+      "viewCount": "2924万",
       "likeCount": "47.6万",
       "commentCount": "2万",
-      "increment_d1": "1.28万"
+      "increment_d1": "1.48万"
     },
     {
       "rank": 1197,
@@ -1079,7 +1079,7 @@
       "viewCount": "2921万",
       "likeCount": "-",
       "commentCount": "2万",
-      "increment_d1": "1378"
+      "increment_d1": "1308"
     },
     {
       "rank": 1198,
@@ -1099,10 +1099,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-15",
-      "viewCount": "2919万",
+      "viewCount": "2920万",
       "likeCount": "30.1万",
-      "commentCount": "7224",
-      "increment_d1": "9893"
+      "commentCount": "7223",
+      "increment_d1": "1.03万"
     },
     {
       "rank": 1199,
@@ -1122,10 +1122,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-04",
-      "viewCount": "2916万",
+      "viewCount": "2918万",
       "likeCount": "11.5万",
-      "commentCount": "3554",
-      "increment_d1": "1.71万"
+      "commentCount": "3555",
+      "increment_d1": "1.77万"
     },
     {
       "rank": 1200,
@@ -1148,7 +1148,7 @@
       "viewCount": "2914万",
       "likeCount": "10.1万",
       "commentCount": "4112",
-      "increment_d1": "1284"
+      "increment_d1": "1268"
     }
   ]
 }

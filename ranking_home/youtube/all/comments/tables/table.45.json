@@ -25,6 +25,28 @@
     {
       "rank": 2202,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/ji99kh-GzTQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ji99kh-GzTQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE - Attitude",
+        "url": "https://www.youtube.com/watch?v=ji99kh-GzTQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-10-05",
+      "viewCount": "2494万",
+      "likeCount": "19.7万",
+      "commentCount": "3143"
+    },
+    {
+      "rank": 2203,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/TSlpJaWLcC8/default.jpg",
         "url": "https://www.youtube.com/watch?v=TSlpJaWLcC8",
         "target": "_blank"
@@ -45,7 +67,7 @@
       "commentCount": "3142"
     },
     {
-      "rank": 2202,
+      "rank": 2203,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3hPI3xjsNKE/default.jpg",
         "url": "https://www.youtube.com/watch?v=3hPI3xjsNKE",
@@ -62,12 +84,12 @@
         "target": "_blank"
       },
       "publishedAt": "2018-11-01",
-      "viewCount": "3372万",
+      "viewCount": "3373万",
       "likeCount": "19.3万",
       "commentCount": "3142"
     },
     {
-      "rank": 2204,
+      "rank": 2205,
       "thumb": {
         "img": "https://i.ytimg.com/vi/NOjmN-ZHlBQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=NOjmN-ZHlBQ",
@@ -86,28 +108,6 @@
       "publishedAt": "2012-06-14",
       "viewCount": "1900万",
       "likeCount": "11.6万",
-      "commentCount": "3141"
-    },
-    {
-      "rank": 2205,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ji99kh-GzTQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ji99kh-GzTQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE - Attitude",
-        "url": "https://www.youtube.com/watch?v=ji99kh-GzTQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-10-05",
-      "viewCount": "2493万",
-      "likeCount": "19.7万",
       "commentCount": "3140"
     },
     {
@@ -130,7 +130,7 @@
       "publishedAt": "2010-09-08",
       "viewCount": "1402万",
       "likeCount": "4.1万",
-      "commentCount": "3129"
+      "commentCount": "3130"
     },
     {
       "rank": 2207,
@@ -152,32 +152,10 @@
       "publishedAt": "2017-07-22",
       "viewCount": "1669万",
       "likeCount": "11.7万",
-      "commentCount": "3128"
+      "commentCount": "3129"
     },
     {
-      "rank": 2207,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/v1ynPdEqjO0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=v1ynPdEqjO0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "三代目 J SOUL BROTHERS from EXILE TRIBE / 「C.O.S.M.O.S. ～秋桜～」Music Video",
-        "url": "https://www.youtube.com/watch?v=v1ynPdEqjO0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-09-09",
-      "viewCount": "4893万",
-      "likeCount": "8.8万",
-      "commentCount": "3128"
-    },
-    {
-      "rank": 2209,
+      "rank": 2208,
       "thumb": {
         "img": "https://i.ytimg.com/vi/tToiJveylxA/default.jpg",
         "url": "https://www.youtube.com/watch?v=tToiJveylxA",
@@ -194,9 +172,31 @@
         "target": "_blank"
       },
       "publishedAt": "2023-02-08",
-      "viewCount": "2256万",
+      "viewCount": "2257万",
       "likeCount": "18.6万",
-      "commentCount": "3127"
+      "commentCount": "3128"
+    },
+    {
+      "rank": 2208,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/v1ynPdEqjO0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=v1ynPdEqjO0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "三代目 J SOUL BROTHERS from EXILE TRIBE / 「C.O.S.M.O.S. ～秋桜～」Music Video",
+        "url": "https://www.youtube.com/watch?v=v1ynPdEqjO0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-09-09",
+      "viewCount": "4894万",
+      "likeCount": "8.8万",
+      "commentCount": "3128"
     },
     {
       "rank": 2210,
@@ -238,31 +238,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-09",
-      "viewCount": "3112万",
+      "viewCount": "3113万",
       "likeCount": "9.2万",
-      "commentCount": "3110"
-    },
-    {
-      "rank": 2212,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/HTjiTJm7jjg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=HTjiTJm7jjg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "mol-74 - エイプリル【MV】",
-        "url": "https://www.youtube.com/watch?v=HTjiTJm7jjg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "mol-74",
-        "url": "https://www.youtube.com/channel/UCnBnBkAEbtR1-s87GZhUQtg",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-04-01",
-      "viewCount": "1084万",
-      "likeCount": "16.3万",
-      "commentCount": "3108"
+      "commentCount": "3111"
     },
     {
       "rank": 2212,
@@ -284,6 +262,28 @@
       "publishedAt": "2017-06-18",
       "viewCount": "1125万",
       "likeCount": "6.1万",
+      "commentCount": "3109"
+    },
+    {
+      "rank": 2213,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/HTjiTJm7jjg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=HTjiTJm7jjg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "mol-74 - エイプリル【MV】",
+        "url": "https://www.youtube.com/watch?v=HTjiTJm7jjg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "mol-74",
+        "url": "https://www.youtube.com/channel/UCnBnBkAEbtR1-s87GZhUQtg",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-04-01",
+      "viewCount": "1085万",
+      "likeCount": "16.3万",
       "commentCount": "3108"
     },
     {
@@ -370,7 +370,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-12-18",
-      "viewCount": "1089万",
+      "viewCount": "1090万",
       "likeCount": "9.2万",
       "commentCount": "3100"
     },
@@ -392,31 +392,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-10-08",
-      "viewCount": "1609万",
+      "viewCount": "1611万",
       "likeCount": "14.5万",
-      "commentCount": "3097"
-    },
-    {
-      "rank": 2219,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/M_4nGY9at9M/default.jpg",
-        "url": "https://www.youtube.com/watch?v=M_4nGY9at9M",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "E-girls / RYDEEN 〜Dance All Night〜 (Music Video)",
-        "url": "https://www.youtube.com/watch?v=M_4nGY9at9M",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-03-04",
-      "viewCount": "1626万",
-      "likeCount": "4万",
-      "commentCount": "3095"
+      "commentCount": "3099"
     },
     {
       "rank": 2219,
@@ -436,8 +414,30 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-10",
-      "viewCount": "2183万",
+      "viewCount": "2184万",
       "likeCount": "21.1万",
+      "commentCount": "3098"
+    },
+    {
+      "rank": 2220,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/M_4nGY9at9M/default.jpg",
+        "url": "https://www.youtube.com/watch?v=M_4nGY9at9M",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "E-girls / RYDEEN 〜Dance All Night〜 (Music Video)",
+        "url": "https://www.youtube.com/watch?v=M_4nGY9at9M",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-03-04",
+      "viewCount": "1626万",
+      "likeCount": "4万",
       "commentCount": "3095"
     },
     {
@@ -460,7 +460,7 @@
       "publishedAt": "2014-11-19",
       "viewCount": "1633万",
       "likeCount": "10.4万",
-      "commentCount": "3093"
+      "commentCount": "3094"
     },
     {
       "rank": 2222,
@@ -482,7 +482,7 @@
       "publishedAt": "2017-11-21",
       "viewCount": "1266万",
       "likeCount": "6.2万",
-      "commentCount": "3089"
+      "commentCount": "3088"
     },
     {
       "rank": 2223,
@@ -502,9 +502,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-18",
-      "viewCount": "2593万",
+      "viewCount": "2594万",
       "likeCount": "10.5万",
-      "commentCount": "3081"
+      "commentCount": "3082"
     },
     {
       "rank": 2224,
@@ -526,7 +526,7 @@
       "publishedAt": "2014-10-10",
       "viewCount": "1614万",
       "likeCount": "16.2万",
-      "commentCount": "3080"
+      "commentCount": "3081"
     },
     {
       "rank": 2225,
@@ -568,9 +568,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-11-02",
-      "viewCount": "2190万",
+      "viewCount": "2192万",
       "likeCount": "5.5万",
-      "commentCount": "3075"
+      "commentCount": "3076"
     },
     {
       "rank": 2227,
@@ -592,10 +592,32 @@
       "publishedAt": "2015-11-12",
       "viewCount": "1378万",
       "likeCount": "6.2万",
-      "commentCount": "3070"
+      "commentCount": "3069"
     },
     {
       "rank": 2228,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/at3CEJvdg2I/default.jpg",
+        "url": "https://www.youtube.com/watch?v=at3CEJvdg2I",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – lovin’【LIVE from “ゼンジン未到とヴェルトラウム〜銘銘編〜”】",
+        "url": "https://www.youtube.com/watch?v=at3CEJvdg2I",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-02-25",
+      "viewCount": "1457万",
+      "likeCount": "10.2万",
+      "commentCount": "3067"
+    },
+    {
+      "rank": 2229,
       "thumb": {
         "img": "https://i.ytimg.com/vi/4n1BiYoDccc/default.jpg",
         "url": "https://www.youtube.com/watch?v=4n1BiYoDccc",
@@ -617,29 +639,7 @@
       "commentCount": "3066"
     },
     {
-      "rank": 2229,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/at3CEJvdg2I/default.jpg",
-        "url": "https://www.youtube.com/watch?v=at3CEJvdg2I",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – lovin’【LIVE from “ゼンジン未到とヴェルトラウム〜銘銘編〜”】",
-        "url": "https://www.youtube.com/watch?v=at3CEJvdg2I",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-02-25",
-      "viewCount": "1453万",
-      "likeCount": "10.2万",
-      "commentCount": "3064"
-    },
-    {
-      "rank": 2229,
+      "rank": 2230,
       "thumb": {
         "img": "https://i.ytimg.com/vi/oZE9IDY2IXM/default.jpg",
         "url": "https://www.youtube.com/watch?v=oZE9IDY2IXM",
@@ -663,28 +663,6 @@
     {
       "rank": 2231,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/pHdJmDFYqTU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=pHdJmDFYqTU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ヨルシカ - 都落ち（OFFICIAL VIDEO）",
-        "url": "https://www.youtube.com/watch?v=pHdJmDFYqTU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ヨルシカ / n-buna Official",
-        "url": "https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-04-05",
-      "viewCount": "1402万",
-      "likeCount": "13.2万",
-      "commentCount": "3059"
-    },
-    {
-      "rank": 2232,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/WcwYTUNdZsY/default.jpg",
         "url": "https://www.youtube.com/watch?v=WcwYTUNdZsY",
         "target": "_blank"
@@ -700,9 +678,31 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-14",
-      "viewCount": "1070万",
+      "viewCount": "1071万",
       "likeCount": "8.4万",
-      "commentCount": "3058"
+      "commentCount": "3060"
+    },
+    {
+      "rank": 2232,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/pHdJmDFYqTU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=pHdJmDFYqTU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ヨルシカ - 都落ち（OFFICIAL VIDEO）",
+        "url": "https://www.youtube.com/watch?v=pHdJmDFYqTU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ヨルシカ / n-buna Official",
+        "url": "https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-04-05",
+      "viewCount": "1403万",
+      "likeCount": "13.2万",
+      "commentCount": "3059"
     },
     {
       "rank": 2233,
@@ -722,12 +722,12 @@
         "target": "_blank"
       },
       "publishedAt": "2017-10-14",
-      "viewCount": "2511万",
+      "viewCount": "2512万",
       "likeCount": "10.2万",
       "commentCount": "3054"
     },
     {
-      "rank": 2233,
+      "rank": 2234,
       "thumb": {
         "img": "https://i.ytimg.com/vi/bKn_lz6NoBA/default.jpg",
         "url": "https://www.youtube.com/watch?v=bKn_lz6NoBA",
@@ -746,7 +746,7 @@
       "publishedAt": "2020-06-02",
       "viewCount": "1496万",
       "likeCount": "8.3万",
-      "commentCount": "3054"
+      "commentCount": "3053"
     },
     {
       "rank": 2235,
@@ -790,10 +790,32 @@
       "publishedAt": "2021-11-22",
       "viewCount": "1231万",
       "likeCount": "-",
-      "commentCount": "3046"
+      "commentCount": "3047"
     },
     {
       "rank": 2237,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/x9S9oygUEW0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=x9S9oygUEW0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BUMP OF CHICKEN『車輪の唄』",
+        "url": "https://www.youtube.com/watch?v=x9S9oygUEW0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BUMP OF CHICKEN",
+        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-04-07",
+      "viewCount": "3012万",
+      "likeCount": "8.1万",
+      "commentCount": "3046"
+    },
+    {
+      "rank": 2238,
       "thumb": {
         "img": "https://i.ytimg.com/vi/F3tnfgZhJME/default.jpg",
         "url": "https://www.youtube.com/watch?v=F3tnfgZhJME",
@@ -813,28 +835,6 @@
       "viewCount": "2034万",
       "likeCount": "16.8万",
       "commentCount": "3044"
-    },
-    {
-      "rank": 2238,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/x9S9oygUEW0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=x9S9oygUEW0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BUMP OF CHICKEN『車輪の唄』",
-        "url": "https://www.youtube.com/watch?v=x9S9oygUEW0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BUMP OF CHICKEN",
-        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-04-07",
-      "viewCount": "3011万",
-      "likeCount": "8.1万",
-      "commentCount": "3043"
     },
     {
       "rank": 2239,
@@ -900,7 +900,7 @@
       "publishedAt": "2017-05-18",
       "viewCount": "3457万",
       "likeCount": "15.8万",
-      "commentCount": "3036"
+      "commentCount": "3037"
     },
     {
       "rank": 2242,
@@ -942,7 +942,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-30",
-      "viewCount": "1736万",
+      "viewCount": "1737万",
       "likeCount": "14.2万",
       "commentCount": "3028"
     },
@@ -966,7 +966,7 @@
       "publishedAt": "2011-03-19",
       "viewCount": "1940万",
       "likeCount": "4.8万",
-      "commentCount": "3023"
+      "commentCount": "3024"
     },
     {
       "rank": 2245,
@@ -1010,10 +1010,10 @@
       "publishedAt": "2020-11-01",
       "viewCount": "1346万",
       "likeCount": "-",
-      "commentCount": "3009"
+      "commentCount": "3010"
     },
     {
-      "rank": 2246,
+      "rank": 2247,
       "thumb": {
         "img": "https://i.ytimg.com/vi/adI0F9wWZ_8/default.jpg",
         "url": "https://www.youtube.com/watch?v=adI0F9wWZ_8",
@@ -1032,7 +1032,7 @@
       "publishedAt": "2010-04-16",
       "viewCount": "1330万",
       "likeCount": "4.6万",
-      "commentCount": "3009"
+      "commentCount": "3008"
     },
     {
       "rank": 2248,
@@ -1052,7 +1052,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-02-12",
-      "viewCount": "8570万",
+      "viewCount": "8572万",
       "likeCount": "38.5万",
       "commentCount": "3006"
     },
@@ -1074,9 +1074,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-06-13",
-      "viewCount": "3684万",
+      "viewCount": "3685万",
       "likeCount": "9.9万",
-      "commentCount": "2992"
+      "commentCount": "2995"
     },
     {
       "rank": 2250,
@@ -1096,7 +1096,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-29",
-      "viewCount": "2063万",
+      "viewCount": "2064万",
       "likeCount": "25万",
       "commentCount": "2990"
     }

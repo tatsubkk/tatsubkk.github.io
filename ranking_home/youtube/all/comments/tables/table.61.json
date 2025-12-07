@@ -62,9 +62,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-27",
-      "viewCount": "1586万",
+      "viewCount": "1587万",
       "likeCount": "10.8万",
-      "commentCount": "779"
+      "commentCount": "780"
     },
     {
       "rank": 3004,
@@ -84,7 +84,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-03-23",
-      "viewCount": "3131万",
+      "viewCount": "3132万",
       "likeCount": "7.8万",
       "commentCount": "777"
     },
@@ -128,7 +128,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-09-26",
-      "viewCount": "1287万",
+      "viewCount": "1288万",
       "likeCount": "6.8万",
       "commentCount": "760"
     },
@@ -150,9 +150,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-05",
-      "viewCount": "1億2160万",
+      "viewCount": "1億2166万",
       "likeCount": "43.7万",
-      "commentCount": "753"
+      "commentCount": "754"
     },
     {
       "rank": 3008,
@@ -194,9 +194,31 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
-      "viewCount": "5240万",
+      "viewCount": "5243万",
       "likeCount": "37.9万",
       "commentCount": "732"
+    },
+    {
+      "rank": 3010,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/QdVWtHc2_LU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=QdVWtHc2_LU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MISIA - 果てなく続くストーリー（Official HD Music Video）",
+        "url": "https://www.youtube.com/watch?v=QdVWtHc2_LU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "MISIA",
+        "url": "https://www.youtube.com/channel/UCzPBIyFM_VyXgG9At-1Il4Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2008-12-16",
+      "viewCount": "1053万",
+      "likeCount": "2.2万",
+      "commentCount": "722"
     },
     {
       "rank": 3010,
@@ -218,28 +240,6 @@
       "publishedAt": "2021-06-11",
       "viewCount": "3574万",
       "likeCount": "4.4万",
-      "commentCount": "723"
-    },
-    {
-      "rank": 3011,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/QdVWtHc2_LU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=QdVWtHc2_LU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MISIA - 果てなく続くストーリー（Official HD Music Video）",
-        "url": "https://www.youtube.com/watch?v=QdVWtHc2_LU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "MISIA",
-        "url": "https://www.youtube.com/channel/UCzPBIyFM_VyXgG9At-1Il4Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2008-12-16",
-      "viewCount": "1053万",
-      "likeCount": "2.2万",
       "commentCount": "722"
     },
     {
@@ -304,7 +304,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-05",
-      "viewCount": "1484万",
+      "viewCount": "1487万",
       "likeCount": "3.9万",
       "commentCount": "709"
     },
@@ -399,28 +399,6 @@
     {
       "rank": 3019,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/AV-gYE_eKFM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=AV-gYE_eKFM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "一期一会 / 中島みゆき [公式]",
-        "url": "https://www.youtube.com/watch?v=AV-gYE_eKFM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "中島みゆき公式チャンネル",
-        "url": "https://www.youtube.com/channel/UChmEixJeXYHpboT5ZuXzP-A",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-09-29",
-      "viewCount": "1109万",
-      "likeCount": "2万",
-      "commentCount": "671"
-    },
-    {
-      "rank": 3019,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/3xywnD8Nru4/default.jpg",
         "url": "https://www.youtube.com/watch?v=3xywnD8Nru4",
         "target": "_blank"
@@ -438,6 +416,28 @@
       "publishedAt": "2013-01-21",
       "viewCount": "1102万",
       "likeCount": "3.8万",
+      "commentCount": "671"
+    },
+    {
+      "rank": 3019,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/AV-gYE_eKFM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=AV-gYE_eKFM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "一期一会 / 中島みゆき [公式]",
+        "url": "https://www.youtube.com/watch?v=AV-gYE_eKFM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "中島みゆき公式チャンネル",
+        "url": "https://www.youtube.com/channel/UChmEixJeXYHpboT5ZuXzP-A",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-09-29",
+      "viewCount": "1109万",
+      "likeCount": "2万",
       "commentCount": "671"
     },
     {
@@ -482,7 +482,7 @@
       "publishedAt": "2015-09-26",
       "viewCount": "1402万",
       "likeCount": "8.5万",
-      "commentCount": "659"
+      "commentCount": "661"
     },
     {
       "rank": 3023,
@@ -551,7 +551,7 @@
       "commentCount": "633"
     },
     {
-      "rank": 3026,
+      "rank": 3025,
       "thumb": {
         "img": "https://i.ytimg.com/vi/8lx0vLTH_yg/default.jpg",
         "url": "https://www.youtube.com/watch?v=8lx0vLTH_yg",
@@ -570,7 +570,7 @@
       "publishedAt": "2016-10-28",
       "viewCount": "3675万",
       "likeCount": "15.8万",
-      "commentCount": "630"
+      "commentCount": "633"
     },
     {
       "rank": 3027,
@@ -590,8 +590,8 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-05",
-      "viewCount": "6810万",
-      "likeCount": "38.2万",
+      "viewCount": "6815万",
+      "likeCount": "38.3万",
       "commentCount": "628"
     },
     {
@@ -612,9 +612,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-03",
-      "viewCount": "5078万",
+      "viewCount": "5084万",
       "likeCount": "21.4万",
-      "commentCount": "623"
+      "commentCount": "624"
     },
     {
       "rank": 3029,
@@ -678,7 +678,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-17",
-      "viewCount": "1762万",
+      "viewCount": "1763万",
       "likeCount": "8.5万",
       "commentCount": "610"
     },
@@ -724,7 +724,7 @@
       "publishedAt": "2024-10-21",
       "viewCount": "1662万",
       "likeCount": "12.9万",
-      "commentCount": "600"
+      "commentCount": "601"
     },
     {
       "rank": 3034,
@@ -795,6 +795,28 @@
     {
       "rank": 3037,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/OzGVz1ClxIc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=OzGVz1ClxIc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow halation",
+        "url": "https://www.youtube.com/watch?v=OzGVz1ClxIc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "μ's - Topic",
+        "url": "https://www.youtube.com/channel/UCLLrOsGIMTOVN8pbXvMGz4g",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-09-17",
+      "viewCount": "1152万",
+      "likeCount": "6.6万",
+      "commentCount": "581"
+    },
+    {
+      "rank": 3037,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/nLgOXQ0vJKA/default.jpg",
         "url": "https://www.youtube.com/watch?v=nLgOXQ0vJKA",
         "target": "_blank"
@@ -812,10 +834,10 @@
       "publishedAt": "2009-04-08",
       "viewCount": "1174万",
       "likeCount": "1.8万",
-      "commentCount": "580"
+      "commentCount": "581"
     },
     {
-      "rank": 3038,
+      "rank": 3039,
       "thumb": {
         "img": "https://i.ytimg.com/vi/sr0CLdJnjnI/default.jpg",
         "url": "https://www.youtube.com/watch?v=sr0CLdJnjnI",
@@ -834,28 +856,6 @@
       "publishedAt": "2014-12-02",
       "viewCount": "1271万",
       "likeCount": "2.9万",
-      "commentCount": "578"
-    },
-    {
-      "rank": 3038,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/OzGVz1ClxIc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=OzGVz1ClxIc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow halation",
-        "url": "https://www.youtube.com/watch?v=OzGVz1ClxIc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "μ's - Topic",
-        "url": "https://www.youtube.com/channel/UCLLrOsGIMTOVN8pbXvMGz4g",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-09-17",
-      "viewCount": "1150万",
-      "likeCount": "6.6万",
       "commentCount": "578"
     },
     {
@@ -920,7 +920,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-09-26",
-      "viewCount": "1310万",
+      "viewCount": "1311万",
       "likeCount": "6.8万",
       "commentCount": "552"
     },
@@ -986,7 +986,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-02",
-      "viewCount": "3380万",
+      "viewCount": "3381万",
       "likeCount": "-",
       "commentCount": "545"
     },
@@ -1010,7 +1010,7 @@
       "publishedAt": "2009-08-04",
       "viewCount": "1035万",
       "likeCount": "1.7万",
-      "commentCount": "533"
+      "commentCount": "534"
     },
     {
       "rank": 3047,
@@ -1030,9 +1030,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-09-26",
-      "viewCount": "1901万",
-      "likeCount": "7.9万",
-      "commentCount": "527"
+      "viewCount": "1902万",
+      "likeCount": "8万",
+      "commentCount": "531"
     },
     {
       "rank": 3048,

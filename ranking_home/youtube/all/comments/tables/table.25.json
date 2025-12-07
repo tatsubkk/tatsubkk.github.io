@@ -20,7 +20,7 @@
       "publishedAt": "2021-05-24",
       "viewCount": "1987万",
       "likeCount": "-",
-      "commentCount": "8136"
+      "commentCount": "8135"
     },
     {
       "rank": 1202,
@@ -42,10 +42,32 @@
       "publishedAt": "2020-02-05",
       "viewCount": "1408万",
       "likeCount": "23.4万",
-      "commentCount": "8121"
+      "commentCount": "8122"
     },
     {
       "rank": 1203,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/gPcPseeICjs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=gPcPseeICjs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "GLAY / HOWEVER",
+        "url": "https://www.youtube.com/watch?v=gPcPseeICjs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "GLAY",
+        "url": "https://www.youtube.com/channel/UC1DqlLj1onQhBfxW81OgQTw",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-04-05",
+      "viewCount": "7819万",
+      "likeCount": "16.1万",
+      "commentCount": "8110"
+    },
+    {
+      "rank": 1204,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vkISTgA3DZs/default.jpg",
         "url": "https://www.youtube.com/watch?v=vkISTgA3DZs",
@@ -67,28 +89,6 @@
       "commentCount": "8107"
     },
     {
-      "rank": 1204,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/gPcPseeICjs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=gPcPseeICjs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "GLAY / HOWEVER",
-        "url": "https://www.youtube.com/watch?v=gPcPseeICjs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "GLAY",
-        "url": "https://www.youtube.com/channel/UC1DqlLj1onQhBfxW81OgQTw",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-04-05",
-      "viewCount": "7816万",
-      "likeCount": "16.1万",
-      "commentCount": "8104"
-    },
-    {
       "rank": 1205,
       "thumb": {
         "img": "https://i.ytimg.com/vi/iyU1t8G0LZw/default.jpg",
@@ -108,7 +108,7 @@
       "publishedAt": "2024-07-25",
       "viewCount": "1199万",
       "likeCount": "16.8万",
-      "commentCount": "8102"
+      "commentCount": "8103"
     },
     {
       "rank": 1206,
@@ -128,9 +128,9 @@
         "target": "_blank"
       },
       "publishedAt": "2008-12-16",
-      "viewCount": "9391万",
-      "likeCount": "21.2万",
-      "commentCount": "8083"
+      "viewCount": "9393万",
+      "likeCount": "21.3万",
+      "commentCount": "8086"
     },
     {
       "rank": 1207,
@@ -150,9 +150,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-15",
-      "viewCount": "2028万",
+      "viewCount": "2029万",
       "likeCount": "-",
-      "commentCount": "8079"
+      "commentCount": "8082"
     },
     {
       "rank": 1208,
@@ -174,32 +174,10 @@
       "publishedAt": "2014-11-10",
       "viewCount": "2045万",
       "likeCount": "15.1万",
-      "commentCount": "8076"
+      "commentCount": "8077"
     },
     {
       "rank": 1209,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/XicdpSmxuT0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=XicdpSmxuT0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "TVアニメ「パリピ孔明」OPテーマ「チキチキバンバン」ノンテロップ映像",
-        "url": "https://www.youtube.com/watch?v=XicdpSmxuT0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex pictures",
-        "url": "https://www.youtube.com/channel/UCKlXiCjg_VI0eZ9kKBeNJgw",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-04-12",
-      "viewCount": "2033万",
-      "likeCount": "26.3万",
-      "commentCount": "8074"
-    },
-    {
-      "rank": 1210,
       "thumb": {
         "img": "https://i.ytimg.com/vi/hM4f37uRyKc/default.jpg",
         "url": "https://www.youtube.com/watch?v=hM4f37uRyKc",
@@ -216,9 +194,31 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-28",
-      "viewCount": "3405万",
+      "viewCount": "3406万",
       "likeCount": "35.2万",
-      "commentCount": "8072"
+      "commentCount": "8073"
+    },
+    {
+      "rank": 1210,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/XicdpSmxuT0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=XicdpSmxuT0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "TVアニメ「パリピ孔明」OPテーマ「チキチキバンバン」ノンテロップ映像",
+        "url": "https://www.youtube.com/watch?v=XicdpSmxuT0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex pictures",
+        "url": "https://www.youtube.com/channel/UCKlXiCjg_VI0eZ9kKBeNJgw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-04-12",
+      "viewCount": "2034万",
+      "likeCount": "26.3万",
+      "commentCount": "8071"
     },
     {
       "rank": 1211,
@@ -262,7 +262,7 @@
       "publishedAt": "2020-03-20",
       "viewCount": "1115万",
       "likeCount": "-",
-      "commentCount": "8053"
+      "commentCount": "8054"
     },
     {
       "rank": 1213,
@@ -282,9 +282,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-30",
-      "viewCount": "1399万",
+      "viewCount": "1400万",
       "likeCount": "7.9万",
-      "commentCount": "8039"
+      "commentCount": "8048"
     },
     {
       "rank": 1214,
@@ -304,9 +304,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-29",
-      "viewCount": "7001万",
+      "viewCount": "7002万",
       "likeCount": "35.5万",
-      "commentCount": "8029"
+      "commentCount": "8031"
     },
     {
       "rank": 1215,
@@ -348,7 +348,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-07-22",
-      "viewCount": "9004万",
+      "viewCount": "9007万",
       "likeCount": "22.9万",
       "commentCount": "7999"
     },
@@ -370,9 +370,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-26",
-      "viewCount": "4618万",
+      "viewCount": "4620万",
       "likeCount": "22.7万",
-      "commentCount": "7978"
+      "commentCount": "7985"
     },
     {
       "rank": 1218,
@@ -416,7 +416,7 @@
       "publishedAt": "2023-08-08",
       "viewCount": "1096万",
       "likeCount": "-",
-      "commentCount": "7940"
+      "commentCount": "7941"
     },
     {
       "rank": 1220,
@@ -480,9 +480,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-23",
-      "viewCount": "3550万",
+      "viewCount": "3551万",
       "likeCount": "32.5万",
-      "commentCount": "7922"
+      "commentCount": "7923"
     },
     {
       "rank": 1223,
@@ -502,9 +502,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-16",
-      "viewCount": "1300万",
+      "viewCount": "1301万",
       "likeCount": "16.9万",
-      "commentCount": "7909"
+      "commentCount": "7908"
     },
     {
       "rank": 1224,
@@ -524,9 +524,9 @@
         "target": "_blank"
       },
       "publishedAt": "2017-01-25",
-      "viewCount": "1853万",
+      "viewCount": "1854万",
       "likeCount": "20.2万",
-      "commentCount": "7907"
+      "commentCount": "7906"
     },
     {
       "rank": 1225,
@@ -568,7 +568,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-26",
-      "viewCount": "1612万",
+      "viewCount": "1613万",
       "likeCount": "-",
       "commentCount": "7899"
     },
@@ -590,9 +590,31 @@
         "target": "_blank"
       },
       "publishedAt": "2021-10-29",
-      "viewCount": "3115万",
+      "viewCount": "3116万",
       "likeCount": "-",
       "commentCount": "7895"
+    },
+    {
+      "rank": 1228,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/gNUyc4mIRws/default.jpg",
+        "url": "https://www.youtube.com/watch?v=gNUyc4mIRws",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow Man「ドレス&タキシード」Rec Ver.",
+        "url": "https://www.youtube.com/watch?v=gNUyc4mIRws",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Snow Man",
+        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-07-24",
+      "viewCount": "1298万",
+      "likeCount": "12.1万",
+      "commentCount": "7872"
     },
     {
       "rank": 1228,
@@ -612,12 +634,12 @@
         "target": "_blank"
       },
       "publishedAt": "2018-04-18",
-      "viewCount": "5802万",
+      "viewCount": "5803万",
       "likeCount": "51.8万",
       "commentCount": "7872"
     },
     {
-      "rank": 1229,
+      "rank": 1230,
       "thumb": {
         "img": "https://i.ytimg.com/vi/JJaCwW4HyVs/default.jpg",
         "url": "https://www.youtube.com/watch?v=JJaCwW4HyVs",
@@ -634,34 +656,12 @@
         "target": "_blank"
       },
       "publishedAt": "2018-08-13",
-      "viewCount": "4963万",
+      "viewCount": "4964万",
       "likeCount": "34.1万",
       "commentCount": "7871"
     },
     {
-      "rank": 1229,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/gNUyc4mIRws/default.jpg",
-        "url": "https://www.youtube.com/watch?v=gNUyc4mIRws",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow Man「ドレス&タキシード」Rec Ver.",
-        "url": "https://www.youtube.com/watch?v=gNUyc4mIRws",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Snow Man",
-        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-07-24",
-      "viewCount": "1298万",
-      "likeCount": "12.1万",
-      "commentCount": "7871"
-    },
-    {
-      "rank": 1231,
+      "rank": 1230,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qIcIpSyHcyM/default.jpg",
         "url": "https://www.youtube.com/watch?v=qIcIpSyHcyM",
@@ -678,9 +678,9 @@
         "target": "_blank"
       },
       "publishedAt": "2025-04-18",
-      "viewCount": "2477万",
+      "viewCount": "2480万",
       "likeCount": "21.6万",
-      "commentCount": "7870"
+      "commentCount": "7871"
     },
     {
       "rank": 1232,
@@ -700,9 +700,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-10-29",
-      "viewCount": "4852万",
+      "viewCount": "4854万",
       "likeCount": "25.9万",
-      "commentCount": "7863"
+      "commentCount": "7865"
     },
     {
       "rank": 1233,
@@ -724,7 +724,7 @@
       "publishedAt": "2020-07-21",
       "viewCount": "1919万",
       "likeCount": "-",
-      "commentCount": "7825"
+      "commentCount": "7826"
     },
     {
       "rank": 1234,
@@ -810,7 +810,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-06",
-      "viewCount": "3419万",
+      "viewCount": "3420万",
       "likeCount": "33.3万",
       "commentCount": "7777"
     },
@@ -834,7 +834,7 @@
       "publishedAt": "2019-06-23",
       "viewCount": "1058万",
       "likeCount": "18.9万",
-      "commentCount": "7773"
+      "commentCount": "7774"
     },
     {
       "rank": 1239,
@@ -854,12 +854,12 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-28",
-      "viewCount": "3343万",
+      "viewCount": "3344万",
       "likeCount": "-",
       "commentCount": "7766"
     },
     {
-      "rank": 1240,
+      "rank": 1239,
       "thumb": {
         "img": "https://i.ytimg.com/vi/-MKfbxHy_NA/default.jpg",
         "url": "https://www.youtube.com/watch?v=-MKfbxHy_NA",
@@ -876,9 +876,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-30",
-      "viewCount": "4292万",
+      "viewCount": "4293万",
       "likeCount": "22万",
-      "commentCount": "7765"
+      "commentCount": "7766"
     },
     {
       "rank": 1241,
@@ -898,9 +898,9 @@
         "target": "_blank"
       },
       "publishedAt": "2025-01-24",
-      "viewCount": "2156万",
+      "viewCount": "2160万",
       "likeCount": "31.5万",
-      "commentCount": "7756"
+      "commentCount": "7755"
     },
     {
       "rank": 1242,
@@ -920,34 +920,12 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-09",
-      "viewCount": "8003万",
+      "viewCount": "8005万",
       "likeCount": "50.3万",
-      "commentCount": "7748"
+      "commentCount": "7750"
     },
     {
       "rank": 1243,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/0hYX0sgXshI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=0hYX0sgXshI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "なにわ男子 - Soda Pop Love（なにわ男子 First Arena Tour 2021 #なにわ男子しか勝たん）",
-        "url": "https://www.youtube.com/watch?v=0hYX0sgXshI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "なにわ男子",
-        "url": "https://www.youtube.com/channel/UCDtVdj7sm41Ysg3XSiSUH3w",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-01-26",
-      "viewCount": "3067万",
-      "likeCount": "-",
-      "commentCount": "7742"
-    },
-    {
-      "rank": 1244,
       "thumb": {
         "img": "https://i.ytimg.com/vi/YMErhJXZhp0/default.jpg",
         "url": "https://www.youtube.com/watch?v=YMErhJXZhp0",
@@ -966,7 +944,29 @@
       "publishedAt": "2022-09-05",
       "viewCount": "1210万",
       "likeCount": "-",
-      "commentCount": "7741"
+      "commentCount": "7748"
+    },
+    {
+      "rank": 1244,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/0hYX0sgXshI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=0hYX0sgXshI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "なにわ男子 - Soda Pop Love（なにわ男子 First Arena Tour 2021 #なにわ男子しか勝たん）",
+        "url": "https://www.youtube.com/watch?v=0hYX0sgXshI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "なにわ男子",
+        "url": "https://www.youtube.com/channel/UCDtVdj7sm41Ysg3XSiSUH3w",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-01-26",
+      "viewCount": "3068万",
+      "likeCount": "-",
+      "commentCount": "7742"
     },
     {
       "rank": 1245,
@@ -986,9 +986,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-06-30",
-      "viewCount": "3940万",
+      "viewCount": "3942万",
       "likeCount": "16.8万",
-      "commentCount": "7736"
+      "commentCount": "7735"
     },
     {
       "rank": 1246,
@@ -1008,7 +1008,7 @@
         "target": "_blank"
       },
       "publishedAt": "2009-07-02",
-      "viewCount": "5974万",
+      "viewCount": "5975万",
       "likeCount": "20.1万",
       "commentCount": "7733"
     },
@@ -1030,7 +1030,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-08-21",
-      "viewCount": "4614万",
+      "viewCount": "4615万",
       "likeCount": "14.3万",
       "commentCount": "7724"
     },

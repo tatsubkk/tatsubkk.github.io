@@ -1,7 +1,7 @@
 {
   "rows": [
     {
-      "rank": 2000,
+      "rank": 2001,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Jtw5S12-ZeI/default.jpg",
         "url": "https://www.youtube.com/watch?v=Jtw5S12-ZeI",
@@ -40,12 +40,12 @@
         "target": "_blank"
       },
       "publishedAt": "2018-12-29",
-      "viewCount": "1941万",
+      "viewCount": "1942万",
       "likeCount": "13.6万",
-      "commentCount": "3755"
+      "commentCount": "3756"
     },
     {
-      "rank": 2003,
+      "rank": 2002,
       "thumb": {
         "img": "https://i.ytimg.com/vi/6OC92oxs4gA/default.jpg",
         "url": "https://www.youtube.com/watch?v=6OC92oxs4gA",
@@ -62,9 +62,31 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-20",
-      "viewCount": "3412万",
+      "viewCount": "3413万",
       "likeCount": "29.2万",
-      "commentCount": "3754"
+      "commentCount": "3756"
+    },
+    {
+      "rank": 2004,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Sfz5TpCRSiI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Sfz5TpCRSiI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ずっと真夜中でいいのに。『猫リセット』MV (ZUTOMAYO – Neko Reset)",
+        "url": "https://www.youtube.com/watch?v=Sfz5TpCRSiI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ずっと真夜中でいいのに。 ZUTOMAYO",
+        "url": "https://www.youtube.com/channel/UCv6P5nsS9rP4tDtFlqLU_QQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-12-02",
+      "viewCount": "1108万",
+      "likeCount": "14.6万",
+      "commentCount": "3753"
     },
     {
       "rank": 2004,
@@ -84,12 +106,12 @@
         "target": "_blank"
       },
       "publishedAt": "2017-02-04",
-      "viewCount": "4908万",
+      "viewCount": "4909万",
       "likeCount": "36万",
       "commentCount": "3753"
     },
     {
-      "rank": 2004,
+      "rank": 2006,
       "thumb": {
         "img": "https://i.ytimg.com/vi/kiTn9pgnj8I/default.jpg",
         "url": "https://www.youtube.com/watch?v=kiTn9pgnj8I",
@@ -108,28 +130,6 @@
       "publishedAt": "2020-03-26",
       "viewCount": "1453万",
       "likeCount": "16万",
-      "commentCount": "3753"
-    },
-    {
-      "rank": 2006,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Sfz5TpCRSiI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Sfz5TpCRSiI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ずっと真夜中でいいのに。『猫リセット』MV (ZUTOMAYO – Neko Reset)",
-        "url": "https://www.youtube.com/watch?v=Sfz5TpCRSiI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ずっと真夜中でいいのに。 ZUTOMAYO",
-        "url": "https://www.youtube.com/channel/UCv6P5nsS9rP4tDtFlqLU_QQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-12-02",
-      "viewCount": "1108万",
-      "likeCount": "14.6万",
       "commentCount": "3752"
     },
     {
@@ -179,28 +179,6 @@
     {
       "rank": 2009,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/vrBXu-VbB-Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=vrBXu-VbB-Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【OFFICIAL】Shuta Sueyoshi feat. ISSA / Over “Quartzer”",
-        "url": "https://www.youtube.com/watch?v=vrBXu-VbB-Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-09-01",
-      "viewCount": "1160万",
-      "likeCount": "6.8万",
-      "commentCount": "3737"
-    },
-    {
-      "rank": 2010,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/Z22loO5hY4A/default.jpg",
         "url": "https://www.youtube.com/watch?v=Z22loO5hY4A",
         "target": "_blank"
@@ -216,9 +194,31 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-26",
-      "viewCount": "1271万",
+      "viewCount": "1272万",
       "likeCount": "10.2万",
-      "commentCount": "3735"
+      "commentCount": "3739"
+    },
+    {
+      "rank": 2010,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/vrBXu-VbB-Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=vrBXu-VbB-Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【OFFICIAL】Shuta Sueyoshi feat. ISSA / Over “Quartzer”",
+        "url": "https://www.youtube.com/watch?v=vrBXu-VbB-Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-09-01",
+      "viewCount": "1161万",
+      "likeCount": "6.8万",
+      "commentCount": "3737"
     },
     {
       "rank": 2011,
@@ -238,9 +238,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-08-24",
-      "viewCount": "4046万",
+      "viewCount": "4047万",
       "likeCount": "7.5万",
-      "commentCount": "3733"
+      "commentCount": "3735"
     },
     {
       "rank": 2012,
@@ -267,6 +267,28 @@
     {
       "rank": 2013,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/vSOLtBy-xas/default.jpg",
+        "url": "https://www.youtube.com/watch?v=vSOLtBy-xas",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MOON CHILD / ESCAPE",
+        "url": "https://www.youtube.com/watch?v=vSOLtBy-xas",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-08-29",
+      "viewCount": "1454万",
+      "likeCount": "7.2万",
+      "commentCount": "3723"
+    },
+    {
+      "rank": 2014,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/7G0ovtPqHnI/default.jpg",
         "url": "https://www.youtube.com/watch?v=7G0ovtPqHnI",
         "target": "_blank"
@@ -284,32 +306,10 @@
       "publishedAt": "2023-03-21",
       "viewCount": "1946万",
       "likeCount": "25.7万",
-      "commentCount": "3721"
+      "commentCount": "3720"
     },
     {
-      "rank": 2013,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/vSOLtBy-xas/default.jpg",
-        "url": "https://www.youtube.com/watch?v=vSOLtBy-xas",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MOON CHILD / ESCAPE",
-        "url": "https://www.youtube.com/watch?v=vSOLtBy-xas",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-08-29",
-      "viewCount": "1453万",
-      "likeCount": "7.2万",
-      "commentCount": "3721"
-    },
-    {
-      "rank": 2015,
+      "rank": 2014,
       "thumb": {
         "img": "https://i.ytimg.com/vi/cat8ItnQxbA/default.jpg",
         "url": "https://www.youtube.com/watch?v=cat8ItnQxbA",
@@ -331,7 +331,7 @@
       "commentCount": "3720"
     },
     {
-      "rank": 2015,
+      "rank": 2014,
       "thumb": {
         "img": "https://i.ytimg.com/vi/kmPgjr0EL64/default.jpg",
         "url": "https://www.youtube.com/watch?v=kmPgjr0EL64",
@@ -353,7 +353,7 @@
       "commentCount": "3720"
     },
     {
-      "rank": 2017,
+      "rank": 2014,
       "thumb": {
         "img": "https://i.ytimg.com/vi/es-TULCdfvQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=es-TULCdfvQ",
@@ -372,7 +372,7 @@
       "publishedAt": "2020-04-07",
       "viewCount": "4640万",
       "likeCount": "16.8万",
-      "commentCount": "3719"
+      "commentCount": "3720"
     },
     {
       "rank": 2018,
@@ -392,9 +392,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-13",
-      "viewCount": "1134万",
+      "viewCount": "1135万",
       "likeCount": "8.9万",
-      "commentCount": "3716"
+      "commentCount": "3718"
     },
     {
       "rank": 2019,
@@ -414,12 +414,56 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-14",
-      "viewCount": "3624万",
+      "viewCount": "3625万",
       "likeCount": "17.5万",
       "commentCount": "3711"
     },
     {
       "rank": 2020,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1RnBDQJyQdI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1RnBDQJyQdI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MONKEY MAJIK - Around The World【Official Music Video】",
+        "url": "https://www.youtube.com/watch?v=1RnBDQJyQdI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "MONKEY MAJIK OFFICIAL CHANNEL",
+        "url": "https://www.youtube.com/channel/UCs9MYqANhxyLZJSkLGNx8FQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-04-03",
+      "viewCount": "1155万",
+      "likeCount": "12万",
+      "commentCount": "3710"
+    },
+    {
+      "rank": 2021,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/W0C_VJqjtpw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=W0C_VJqjtpw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "RADWIMPS - うるうびと [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=W0C_VJqjtpw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "RADWIMPS",
+        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-03-12",
+      "viewCount": "1848万",
+      "likeCount": "20.1万",
+      "commentCount": "3709"
+    },
+    {
+      "rank": 2021,
       "thumb": {
         "img": "https://i.ytimg.com/vi/y6swyQ9bF7w/default.jpg",
         "url": "https://www.youtube.com/watch?v=y6swyQ9bF7w",
@@ -441,51 +485,29 @@
       "commentCount": "3709"
     },
     {
-      "rank": 2020,
+      "rank": 2021,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/W0C_VJqjtpw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=W0C_VJqjtpw",
+        "img": "https://i.ytimg.com/vi/IWC2sfwdK40/default.jpg",
+        "url": "https://www.youtube.com/watch?v=IWC2sfwdK40",
         "target": "_blank"
       },
       "title": {
-        "text": "RADWIMPS - うるうびと [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=W0C_VJqjtpw",
+        "text": "AJR 「World's Smallest Violin」【日本語字幕Ver】",
+        "url": "https://www.youtube.com/watch?v=IWC2sfwdK40",
         "target": "_blank"
       },
       "channel": {
-        "text": "RADWIMPS",
-        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
         "target": "_blank"
       },
-      "publishedAt": "2022-03-12",
-      "viewCount": "1847万",
-      "likeCount": "20.1万",
+      "publishedAt": "2022-07-16",
+      "viewCount": "2310万",
+      "likeCount": "22万",
       "commentCount": "3709"
     },
     {
-      "rank": 2020,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1RnBDQJyQdI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1RnBDQJyQdI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MONKEY MAJIK - Around The World【Official Music Video】",
-        "url": "https://www.youtube.com/watch?v=1RnBDQJyQdI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "MONKEY MAJIK OFFICIAL CHANNEL",
-        "url": "https://www.youtube.com/channel/UCs9MYqANhxyLZJSkLGNx8FQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-04-03",
-      "viewCount": "1154万",
-      "likeCount": "12万",
-      "commentCount": "3709"
-    },
-    {
-      "rank": 2023,
+      "rank": 2024,
       "thumb": {
         "img": "https://i.ytimg.com/vi/pFmEZoinEAQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=pFmEZoinEAQ",
@@ -507,28 +529,6 @@
       "commentCount": "3705"
     },
     {
-      "rank": 2024,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/IWC2sfwdK40/default.jpg",
-        "url": "https://www.youtube.com/watch?v=IWC2sfwdK40",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "AJR 「World's Smallest Violin」【日本語字幕Ver】",
-        "url": "https://www.youtube.com/watch?v=IWC2sfwdK40",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-07-16",
-      "viewCount": "2308万",
-      "likeCount": "22万",
-      "commentCount": "3703"
-    },
-    {
       "rank": 2025,
       "thumb": {
         "img": "https://i.ytimg.com/vi/5jKwQDiwPLY/default.jpg",
@@ -548,7 +548,7 @@
       "publishedAt": "2017-05-12",
       "viewCount": "2225万",
       "likeCount": "16.1万",
-      "commentCount": "3701"
+      "commentCount": "3702"
     },
     {
       "rank": 2026,
@@ -590,7 +590,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-01-06",
-      "viewCount": "1763万",
+      "viewCount": "1764万",
       "likeCount": "8.9万",
       "commentCount": "3698"
     },
@@ -612,9 +612,9 @@
         "target": "_blank"
       },
       "publishedAt": "2017-01-10",
-      "viewCount": "5968万",
+      "viewCount": "5969万",
       "likeCount": "42.9万",
-      "commentCount": "3697"
+      "commentCount": "3696"
     },
     {
       "rank": 2029,
@@ -636,29 +636,7 @@
       "publishedAt": "2016-09-20",
       "viewCount": "1588万",
       "likeCount": "12.3万",
-      "commentCount": "3691"
-    },
-    {
-      "rank": 2030,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/xsEsyWA2ve8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=xsEsyWA2ve8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "桑田佳祐 feat. 佐野元春, 世良公則, Char, 野口五郎 - 時代遅れのRock’n’Roll Band（Full ver.）",
-        "url": "https://www.youtube.com/watch?v=xsEsyWA2ve8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "桑田佳祐",
-        "url": "https://www.youtube.com/channel/UCaZ17KNeiVkQkeG7i2WDOnQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-06-06",
-      "viewCount": "1407万",
-      "likeCount": "12.7万",
-      "commentCount": "3688"
+      "commentCount": "3690"
     },
     {
       "rank": 2030,
@@ -680,6 +658,28 @@
       "publishedAt": "2018-12-18",
       "viewCount": "1307万",
       "likeCount": "25.2万",
+      "commentCount": "3689"
+    },
+    {
+      "rank": 2031,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/xsEsyWA2ve8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=xsEsyWA2ve8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "桑田佳祐 feat. 佐野元春, 世良公則, Char, 野口五郎 - 時代遅れのRock’n’Roll Band（Full ver.）",
+        "url": "https://www.youtube.com/watch?v=xsEsyWA2ve8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "桑田佳祐",
+        "url": "https://www.youtube.com/channel/UCaZ17KNeiVkQkeG7i2WDOnQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-06-06",
+      "viewCount": "1407万",
+      "likeCount": "12.7万",
       "commentCount": "3688"
     },
     {
@@ -700,12 +700,34 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-31",
-      "viewCount": "3822万",
+      "viewCount": "3824万",
       "likeCount": "33.6万",
-      "commentCount": "3686"
+      "commentCount": "3687"
     },
     {
       "rank": 2033,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/GWDzKel_vuQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=GWDzKel_vuQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "YOASOBI「舞台に立って」Official Music Video",
+        "url": "https://www.youtube.com/watch?v=GWDzKel_vuQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ayase / YOASOBI",
+        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-08-06",
+      "viewCount": "1220万",
+      "likeCount": "12.6万",
+      "commentCount": "3685"
+    },
+    {
+      "rank": 2034,
       "thumb": {
         "img": "https://i.ytimg.com/vi/xQjfv_SHBQI/default.jpg",
         "url": "https://www.youtube.com/watch?v=xQjfv_SHBQI",
@@ -727,26 +749,26 @@
       "commentCount": "3684"
     },
     {
-      "rank": 2034,
+      "rank": 2035,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/GWDzKel_vuQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=GWDzKel_vuQ",
+        "img": "https://i.ytimg.com/vi/EIunkyaaRII/default.jpg",
+        "url": "https://www.youtube.com/watch?v=EIunkyaaRII",
         "target": "_blank"
       },
       "title": {
-        "text": "YOASOBI「舞台に立って」Official Music Video",
-        "url": "https://www.youtube.com/watch?v=GWDzKel_vuQ",
+        "text": "Dream Ami / トライ・エヴリシング (Dream Ami version)",
+        "url": "https://www.youtube.com/watch?v=EIunkyaaRII",
         "target": "_blank"
       },
       "channel": {
-        "text": "Ayase / YOASOBI",
-        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
         "target": "_blank"
       },
-      "publishedAt": "2024-08-06",
-      "viewCount": "1219万",
-      "likeCount": "12.6万",
-      "commentCount": "3683"
+      "publishedAt": "2016-03-31",
+      "viewCount": "3045万",
+      "likeCount": "9.1万",
+      "commentCount": "3681"
     },
     {
       "rank": 2035,
@@ -766,12 +788,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-18",
-      "viewCount": "2849万",
+      "viewCount": "2850万",
       "likeCount": "20.6万",
       "commentCount": "3681"
     },
     {
-      "rank": 2036,
+      "rank": 2037,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ChfQ7iqyOnA/default.jpg",
         "url": "https://www.youtube.com/watch?v=ChfQ7iqyOnA",
@@ -793,7 +815,7 @@
       "commentCount": "3675"
     },
     {
-      "rank": 2037,
+      "rank": 2038,
       "thumb": {
         "img": "https://i.ytimg.com/vi/-A0ICz6rVvU/default.jpg",
         "url": "https://www.youtube.com/watch?v=-A0ICz6rVvU",
@@ -810,12 +832,34 @@
         "target": "_blank"
       },
       "publishedAt": "2023-06-13",
-      "viewCount": "1634万",
+      "viewCount": "1635万",
       "likeCount": "25.4万",
       "commentCount": "3672"
     },
     {
-      "rank": 2038,
+      "rank": 2039,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/-ZpQmBhxOT0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=-ZpQmBhxOT0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "松任谷由実 - リフレインが叫んでる",
+        "url": "https://www.youtube.com/watch?v=-ZpQmBhxOT0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "松任谷由実",
+        "url": "https://www.youtube.com/channel/UCDD7BcoKphATW57_46mPFLg",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-08-23",
+      "viewCount": "1625万",
+      "likeCount": "5万",
+      "commentCount": "3666"
+    },
+    {
+      "rank": 2039,
       "thumb": {
         "img": "https://i.ytimg.com/vi/CetVGsV6g44/default.jpg",
         "url": "https://www.youtube.com/watch?v=CetVGsV6g44",
@@ -832,12 +876,12 @@
         "target": "_blank"
       },
       "publishedAt": "2009-07-02",
-      "viewCount": "1914万",
+      "viewCount": "1915万",
       "likeCount": "9.3万",
       "commentCount": "3666"
     },
     {
-      "rank": 2039,
+      "rank": 2041,
       "thumb": {
         "img": "https://i.ytimg.com/vi/BPrslgZKkRI/default.jpg",
         "url": "https://www.youtube.com/watch?v=BPrslgZKkRI",
@@ -857,50 +901,6 @@
       "viewCount": "3121万",
       "likeCount": "9.9万",
       "commentCount": "3665"
-    },
-    {
-      "rank": 2040,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/EIunkyaaRII/default.jpg",
-        "url": "https://www.youtube.com/watch?v=EIunkyaaRII",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Dream Ami / トライ・エヴリシング (Dream Ami version)",
-        "url": "https://www.youtube.com/watch?v=EIunkyaaRII",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-03-31",
-      "viewCount": "3043万",
-      "likeCount": "9万",
-      "commentCount": "3664"
-    },
-    {
-      "rank": 2040,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/-ZpQmBhxOT0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=-ZpQmBhxOT0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "松任谷由実 - リフレインが叫んでる",
-        "url": "https://www.youtube.com/watch?v=-ZpQmBhxOT0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "松任谷由実",
-        "url": "https://www.youtube.com/channel/UCDD7BcoKphATW57_46mPFLg",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-08-23",
-      "viewCount": "1624万",
-      "likeCount": "5万",
-      "commentCount": "3664"
     },
     {
       "rank": 2042,
@@ -969,7 +969,7 @@
       "commentCount": "3657"
     },
     {
-      "rank": 2045,
+      "rank": 2044,
       "thumb": {
         "img": "https://i.ytimg.com/vi/0HS3ZvAiiTU/default.jpg",
         "url": "https://www.youtube.com/watch?v=0HS3ZvAiiTU",
@@ -986,9 +986,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-30",
-      "viewCount": "3463万",
+      "viewCount": "3464万",
       "likeCount": "21.4万",
-      "commentCount": "3656"
+      "commentCount": "3657"
     },
     {
       "rank": 2046,
@@ -1008,7 +1008,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-07",
-      "viewCount": "2514万",
+      "viewCount": "2516万",
       "likeCount": "11.4万",
       "commentCount": "3655"
     },
@@ -1052,12 +1052,12 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-22",
-      "viewCount": "1339万",
+      "viewCount": "1340万",
       "likeCount": "18.4万",
-      "commentCount": "3643"
+      "commentCount": "3646"
     },
     {
-      "rank": 2048,
+      "rank": 2049,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qhPLK1Tn1GQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=qhPLK1Tn1GQ",
@@ -1076,7 +1076,7 @@
       "publishedAt": "2013-08-14",
       "viewCount": "1143万",
       "likeCount": "16.6万",
-      "commentCount": "3643"
+      "commentCount": "3644"
     },
     {
       "rank": 2050,

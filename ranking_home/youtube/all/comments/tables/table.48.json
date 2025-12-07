@@ -1,7 +1,7 @@
 {
   "rows": [
     {
-      "rank": 2351,
+      "rank": 2349,
       "thumb": {
         "img": "https://i.ytimg.com/vi/DXo_xX_Hqro/default.jpg",
         "url": "https://www.youtube.com/watch?v=DXo_xX_Hqro",
@@ -18,31 +18,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-04",
-      "viewCount": "1605万",
+      "viewCount": "1606万",
       "likeCount": "13.3万",
-      "commentCount": "2681"
-    },
-    {
-      "rank": 2352,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/3J_7BEHLRTE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=3J_7BEHLRTE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MAN WITH A MISSION 『Dark Crow』",
-        "url": "https://www.youtube.com/watch?v=3J_7BEHLRTE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-10-12",
-      "viewCount": "1220万",
-      "likeCount": "11.2万",
-      "commentCount": "2680"
+      "commentCount": "2684"
     },
     {
       "rank": 2352,
@@ -62,8 +40,30 @@
         "target": "_blank"
       },
       "publishedAt": "2014-12-03",
-      "viewCount": "1372万",
+      "viewCount": "1373万",
       "likeCount": "7.7万",
+      "commentCount": "2681"
+    },
+    {
+      "rank": 2353,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/3J_7BEHLRTE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=3J_7BEHLRTE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MAN WITH A MISSION 『Dark Crow』",
+        "url": "https://www.youtube.com/watch?v=3J_7BEHLRTE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-10-12",
+      "viewCount": "1220万",
+      "likeCount": "11.2万",
       "commentCount": "2680"
     },
     {
@@ -106,7 +106,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-08",
-      "viewCount": "2123万",
+      "viewCount": "2124万",
       "likeCount": "23万",
       "commentCount": "2676"
     },
@@ -128,12 +128,34 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-23",
-      "viewCount": "2799万",
+      "viewCount": "2800万",
       "likeCount": "12.9万",
       "commentCount": "2672"
     },
     {
       "rank": 2357,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/sUJERrJO2wE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=sUJERrJO2wE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【公式】J-WALK「何も言えなくて・・・夏」",
+        "url": "https://www.youtube.com/watch?v=sUJERrJO2wE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "TOKUMAJAPAN",
+        "url": "https://www.youtube.com/channel/UCAtDg_mnvPE7BLkCTuce47g",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-08-12",
+      "viewCount": "1569万",
+      "likeCount": "4.6万",
+      "commentCount": "2670"
+    },
+    {
+      "rank": 2358,
       "thumb": {
         "img": "https://i.ytimg.com/vi/rOAEAlEcXEU/default.jpg",
         "url": "https://www.youtube.com/watch?v=rOAEAlEcXEU",
@@ -152,29 +174,7 @@
       "publishedAt": "2012-08-09",
       "viewCount": "1768万",
       "likeCount": "3.7万",
-      "commentCount": "2668"
-    },
-    {
-      "rank": 2358,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/sUJERrJO2wE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=sUJERrJO2wE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【公式】J-WALK「何も言えなくて・・・夏」",
-        "url": "https://www.youtube.com/watch?v=sUJERrJO2wE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "TOKUMAJAPAN",
-        "url": "https://www.youtube.com/channel/UCAtDg_mnvPE7BLkCTuce47g",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-08-12",
-      "viewCount": "1568万",
-      "likeCount": "4.6万",
-      "commentCount": "2666"
+      "commentCount": "2669"
     },
     {
       "rank": 2359,
@@ -196,7 +196,7 @@
       "publishedAt": "2018-03-24",
       "viewCount": "1109万",
       "likeCount": "4.3万",
-      "commentCount": "2656"
+      "commentCount": "2658"
     },
     {
       "rank": 2360,
@@ -216,9 +216,9 @@
         "target": "_blank"
       },
       "publishedAt": "2016-12-07",
-      "viewCount": "1471万",
+      "viewCount": "1472万",
       "likeCount": "16.1万",
-      "commentCount": "2655"
+      "commentCount": "2654"
     },
     {
       "rank": 2361,
@@ -238,7 +238,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-11",
-      "viewCount": "2649万",
+      "viewCount": "2651万",
       "likeCount": "20.1万",
       "commentCount": "2652"
     },
@@ -284,10 +284,32 @@
       "publishedAt": "2022-11-13",
       "viewCount": "1418万",
       "likeCount": "14.4万",
-      "commentCount": "2648"
+      "commentCount": "2649"
     },
     {
-      "rank": 2364,
+      "rank": 2363,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/XOBjOWELu1o/default.jpg",
+        "url": "https://www.youtube.com/watch?v=XOBjOWELu1o",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SEAMO 『マタアイマショウ』15th Anniversary ver. Music Video（フル）",
+        "url": "https://www.youtube.com/watch?v=XOBjOWELu1o",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-12-18",
+      "viewCount": "1836万",
+      "likeCount": "5.5万",
+      "commentCount": "2649"
+    },
+    {
+      "rank": 2365,
       "thumb": {
         "img": "https://i.ytimg.com/vi/lSQMiBTBUOI/default.jpg",
         "url": "https://www.youtube.com/watch?v=lSQMiBTBUOI",
@@ -306,29 +328,7 @@
       "publishedAt": "2022-12-27",
       "viewCount": "1742万",
       "likeCount": "14.6万",
-      "commentCount": "2646"
-    },
-    {
-      "rank": 2364,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/XOBjOWELu1o/default.jpg",
-        "url": "https://www.youtube.com/watch?v=XOBjOWELu1o",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SEAMO 『マタアイマショウ』15th Anniversary ver. Music Video（フル）",
-        "url": "https://www.youtube.com/watch?v=XOBjOWELu1o",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-12-18",
-      "viewCount": "1835万",
-      "likeCount": "5.5万",
-      "commentCount": "2646"
+      "commentCount": "2647"
     },
     {
       "rank": 2366,
@@ -350,7 +350,7 @@
       "publishedAt": "2014-12-27",
       "viewCount": "1205万",
       "likeCount": "8.8万",
-      "commentCount": "2644"
+      "commentCount": "2645"
     },
     {
       "rank": 2367,
@@ -414,12 +414,12 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-12",
-      "viewCount": "3134万",
+      "viewCount": "3135万",
       "likeCount": "17.3万",
       "commentCount": "2632"
     },
     {
-      "rank": 2369,
+      "rank": 2370,
       "thumb": {
         "img": "https://i.ytimg.com/vi/CLZW7ijX7ek/default.jpg",
         "url": "https://www.youtube.com/watch?v=CLZW7ijX7ek",
@@ -436,9 +436,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-26",
-      "viewCount": "1510万",
+      "viewCount": "1511万",
       "likeCount": "13.4万",
-      "commentCount": "2632"
+      "commentCount": "2631"
     },
     {
       "rank": 2371,
@@ -463,29 +463,7 @@
       "commentCount": "2626"
     },
     {
-      "rank": 2372,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/yxYRJEeN6Gg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=yxYRJEeN6Gg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "東京スカパラダイスオーケストラ / 美しく燃える森",
-        "url": "https://www.youtube.com/watch?v=yxYRJEeN6Gg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "TOKYO SKA PARADISE ORCHESTRA OFFICIAL",
-        "url": "https://www.youtube.com/channel/UC5RmUAcm_w5K9cxtQSj7W7g",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-06-18",
-      "viewCount": "2651万",
-      "likeCount": "8.9万",
-      "commentCount": "2625"
-    },
-    {
-      "rank": 2372,
+      "rank": 2371,
       "thumb": {
         "img": "https://i.ytimg.com/vi/35hCo_grAqw/default.jpg",
         "url": "https://www.youtube.com/watch?v=35hCo_grAqw",
@@ -504,10 +482,54 @@
       "publishedAt": "2010-09-23",
       "viewCount": "1282万",
       "likeCount": "-",
+      "commentCount": "2626"
+    },
+    {
+      "rank": 2373,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/yxYRJEeN6Gg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=yxYRJEeN6Gg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "東京スカパラダイスオーケストラ / 美しく燃える森",
+        "url": "https://www.youtube.com/watch?v=yxYRJEeN6Gg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "TOKYO SKA PARADISE ORCHESTRA OFFICIAL",
+        "url": "https://www.youtube.com/channel/UC5RmUAcm_w5K9cxtQSj7W7g",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-06-18",
+      "viewCount": "2652万",
+      "likeCount": "8.9万",
       "commentCount": "2625"
     },
     {
       "rank": 2374,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/6Ul-wFnquno/default.jpg",
+        "url": "https://www.youtube.com/watch?v=6Ul-wFnquno",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – umbrella【LIVE from “Atlantis”】",
+        "url": "https://www.youtube.com/watch?v=6Ul-wFnquno",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-01-12",
+      "viewCount": "1401万",
+      "likeCount": "8.7万",
+      "commentCount": "2622"
+    },
+    {
+      "rank": 2375,
       "thumb": {
         "img": "https://i.ytimg.com/vi/-sXVjsijbcY/default.jpg",
         "url": "https://www.youtube.com/watch?v=-sXVjsijbcY",
@@ -529,7 +551,7 @@
       "commentCount": "2621"
     },
     {
-      "rank": 2375,
+      "rank": 2376,
       "thumb": {
         "img": "https://i.ytimg.com/vi/VolCXD33PoQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=VolCXD33PoQ",
@@ -551,7 +573,7 @@
       "commentCount": "2617"
     },
     {
-      "rank": 2376,
+      "rank": 2377,
       "thumb": {
         "img": "https://i.ytimg.com/vi/_Sj2hunOGow/default.jpg",
         "url": "https://www.youtube.com/watch?v=_Sj2hunOGow",
@@ -568,12 +590,12 @@
         "target": "_blank"
       },
       "publishedAt": "2024-04-21",
-      "viewCount": "2835万",
+      "viewCount": "2836万",
       "likeCount": "9.2万",
       "commentCount": "2613"
     },
     {
-      "rank": 2377,
+      "rank": 2378,
       "thumb": {
         "img": "https://i.ytimg.com/vi/lYc5fbFkpok/default.jpg",
         "url": "https://www.youtube.com/watch?v=lYc5fbFkpok",
@@ -593,50 +615,6 @@
       "viewCount": "1871万",
       "likeCount": "4.4万",
       "commentCount": "2612"
-    },
-    {
-      "rank": 2377,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/6Ul-wFnquno/default.jpg",
-        "url": "https://www.youtube.com/watch?v=6Ul-wFnquno",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – umbrella【LIVE from “Atlantis”】",
-        "url": "https://www.youtube.com/watch?v=6Ul-wFnquno",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-01-12",
-      "viewCount": "1399万",
-      "likeCount": "8.7万",
-      "commentCount": "2612"
-    },
-    {
-      "rank": 2379,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/qeHzi2ydHwg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=qeHzi2ydHwg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "『I'm a mess』 acoustic ver. 優里×Hiro【MY FIRST STORY】",
-        "url": "https://www.youtube.com/watch?v=qeHzi2ydHwg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "優里ちゃんねる【公式】",
-        "url": "https://www.youtube.com/channel/UC7MvTslTWkE1HKNYkXiGv1Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-05-13",
-      "viewCount": "2332万",
-      "likeCount": "13.8万",
-      "commentCount": "2608"
     },
     {
       "rank": 2379,
@@ -659,6 +637,28 @@
       "viewCount": "1084万",
       "likeCount": "13.8万",
       "commentCount": "2608"
+    },
+    {
+      "rank": 2380,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/qeHzi2ydHwg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=qeHzi2ydHwg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "『I'm a mess』 acoustic ver. 優里×Hiro【MY FIRST STORY】",
+        "url": "https://www.youtube.com/watch?v=qeHzi2ydHwg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "優里ちゃんねる【公式】",
+        "url": "https://www.youtube.com/channel/UC7MvTslTWkE1HKNYkXiGv1Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-05-13",
+      "viewCount": "2333万",
+      "likeCount": "13.8万",
+      "commentCount": "2607"
     },
     {
       "rank": 2381,
@@ -707,28 +707,6 @@
     {
       "rank": 2383,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/nBqXV3fAMNo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=nBqXV3fAMNo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ONE OK ROCK  「C.h.a.o.s.m.y.t.h.」",
-        "url": "https://www.youtube.com/watch?v=nBqXV3fAMNo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "A-Sketch MUSIC LABEL",
-        "url": "https://www.youtube.com/channel/UCdIGbKA_8trRiOq7eGZ7oSA",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-10-03",
-      "viewCount": "1506万",
-      "likeCount": "5.7万",
-      "commentCount": "2594"
-    },
-    {
-      "rank": 2383,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/gFr4TyKsZwM/default.jpg",
         "url": "https://www.youtube.com/watch?v=gFr4TyKsZwM",
         "target": "_blank"
@@ -746,6 +724,28 @@
       "publishedAt": "2025-04-11",
       "viewCount": "1049万",
       "likeCount": "11.6万",
+      "commentCount": "2595"
+    },
+    {
+      "rank": 2384,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/nBqXV3fAMNo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=nBqXV3fAMNo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ONE OK ROCK  「C.h.a.o.s.m.y.t.h.」",
+        "url": "https://www.youtube.com/watch?v=nBqXV3fAMNo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "A-Sketch MUSIC LABEL",
+        "url": "https://www.youtube.com/channel/UCdIGbKA_8trRiOq7eGZ7oSA",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-10-03",
+      "viewCount": "1506万",
+      "likeCount": "5.7万",
       "commentCount": "2594"
     },
     {
@@ -771,7 +771,7 @@
       "commentCount": "2590"
     },
     {
-      "rank": 2386,
+      "rank": 2385,
       "thumb": {
         "img": "https://i.ytimg.com/vi/M8LwhRkNaSQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=M8LwhRkNaSQ",
@@ -788,9 +788,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-04-29",
-      "viewCount": "1472万",
+      "viewCount": "1473万",
       "likeCount": "19.9万",
-      "commentCount": "2589"
+      "commentCount": "2590"
     },
     {
       "rank": 2387,
@@ -810,9 +810,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-09",
-      "viewCount": "2342万",
+      "viewCount": "2343万",
       "likeCount": "14万",
-      "commentCount": "2587"
+      "commentCount": "2588"
     },
     {
       "rank": 2388,
@@ -832,9 +832,9 @@
         "target": "_blank"
       },
       "publishedAt": "2014-04-01",
-      "viewCount": "1357万",
+      "viewCount": "1358万",
       "likeCount": "4.7万",
-      "commentCount": "2582"
+      "commentCount": "2583"
     },
     {
       "rank": 2389,
@@ -854,9 +854,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-12-21",
-      "viewCount": "1347万",
+      "viewCount": "1349万",
       "likeCount": "8.8万",
-      "commentCount": "2581"
+      "commentCount": "2582"
     },
     {
       "rank": 2390,
@@ -878,7 +878,7 @@
       "publishedAt": "2023-01-27",
       "viewCount": "2041万",
       "likeCount": "20.1万",
-      "commentCount": "2578"
+      "commentCount": "2580"
     },
     {
       "rank": 2391,
@@ -903,7 +903,29 @@
       "commentCount": "2570"
     },
     {
-      "rank": 2392,
+      "rank": 2391,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/q_8ulbgIF5w/default.jpg",
+        "url": "https://www.youtube.com/watch?v=q_8ulbgIF5w",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ポルノグラフィティ『アポロ』MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=q_8ulbgIF5w",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ポルノグラフィティ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCJeCKqR6uqrdCw6021WuWlA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-09-03",
+      "viewCount": "1204万",
+      "likeCount": "9.5万",
+      "commentCount": "2570"
+    },
+    {
+      "rank": 2393,
       "thumb": {
         "img": "https://i.ytimg.com/vi/XiA3OcZLpok/default.jpg",
         "url": "https://www.youtube.com/watch?v=XiA3OcZLpok",
@@ -925,7 +947,7 @@
       "commentCount": "2568"
     },
     {
-      "rank": 2393,
+      "rank": 2394,
       "thumb": {
         "img": "https://i.ytimg.com/vi/oCRlKdMnPLI/default.jpg",
         "url": "https://www.youtube.com/watch?v=oCRlKdMnPLI",
@@ -947,28 +969,6 @@
       "commentCount": "2567"
     },
     {
-      "rank": 2393,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/q_8ulbgIF5w/default.jpg",
-        "url": "https://www.youtube.com/watch?v=q_8ulbgIF5w",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ポルノグラフィティ『アポロ』MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=q_8ulbgIF5w",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ポルノグラフィティ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCJeCKqR6uqrdCw6021WuWlA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-09-03",
-      "viewCount": "1203万",
-      "likeCount": "9.5万",
-      "commentCount": "2567"
-    },
-    {
       "rank": 2395,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Jsc6bPHe4tM/default.jpg",
@@ -986,7 +986,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-23",
-      "viewCount": "1189万",
+      "viewCount": "1190万",
       "likeCount": "14.7万",
       "commentCount": "2566"
     },
@@ -1008,9 +1008,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-02-27",
-      "viewCount": "2846万",
+      "viewCount": "2848万",
       "likeCount": "28.9万",
-      "commentCount": "2559"
+      "commentCount": "2560"
     },
     {
       "rank": 2397,
@@ -1030,7 +1030,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-15",
-      "viewCount": "2453万",
+      "viewCount": "2456万",
       "likeCount": "36.9万",
       "commentCount": "2552"
     },
@@ -1052,9 +1052,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-01-26",
-      "viewCount": "1706万",
+      "viewCount": "1707万",
       "likeCount": "19.5万",
-      "commentCount": "2551"
+      "commentCount": "2550"
     },
     {
       "rank": 2399,
@@ -1074,30 +1074,30 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-25",
-      "viewCount": "1158万",
+      "viewCount": "1159万",
       "likeCount": "7.5万",
-      "commentCount": "2547"
+      "commentCount": "2548"
     },
     {
-      "rank": 2399,
+      "rank": 2400,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/lYLa6zyjhSI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=lYLa6zyjhSI",
+        "img": "https://i.ytimg.com/vi/dFC3Qorbvgo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=dFC3Qorbvgo",
         "target": "_blank"
       },
       "title": {
-        "text": "Vaundy LIVE \"怪獣の花唄\" (第73回NHK紅白歌合戦 歌唱曲) | 2022.09.09 one man live at BUDOKAN \"深呼吸” (JAPAN/TOKYO)",
-        "url": "https://www.youtube.com/watch?v=lYLa6zyjhSI",
+        "text": "【Official】Uru 『それを愛と呼ぶなら』 LIVE “Uru Tour 2023「contrast」” on WOWOWプラス",
+        "url": "https://www.youtube.com/watch?v=dFC3Qorbvgo",
         "target": "_blank"
       },
       "channel": {
-        "text": "Vaundy",
-        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
+        "text": "Uru Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
         "target": "_blank"
       },
-      "publishedAt": "2022-12-22",
-      "viewCount": "2386万",
-      "likeCount": "13.1万",
+      "publishedAt": "2023-10-27",
+      "viewCount": "2567万",
+      "likeCount": "7.2万",
       "commentCount": "2547"
     }
   ]

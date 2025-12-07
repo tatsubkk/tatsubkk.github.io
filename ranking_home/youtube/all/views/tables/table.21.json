@@ -21,7 +21,7 @@
       "viewCount": "3447万",
       "likeCount": "44.2万",
       "commentCount": "1.5万",
-      "increment_d1": "4809"
+      "increment_d1": "4637"
     },
     {
       "rank": 1002,
@@ -44,7 +44,7 @@
       "viewCount": "3446万",
       "likeCount": "27万",
       "commentCount": "9755",
-      "increment_d1": "2164"
+      "increment_d1": "2351"
     },
     {
       "rank": 1003,
@@ -67,7 +67,7 @@
       "viewCount": "3446万",
       "likeCount": "8.6万",
       "commentCount": "1.2万",
-      "increment_d1": "726"
+      "increment_d1": "814"
     },
     {
       "rank": 1004,
@@ -87,13 +87,36 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-09",
-      "viewCount": "3438万",
+      "viewCount": "3440万",
       "likeCount": "89.9万",
       "commentCount": "3万",
-      "increment_d1": "1.97万"
+      "increment_d1": "2.1万"
     },
     {
       "rank": 1005,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Dsylo684yWA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Dsylo684yWA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE「ナハトムジーク」Official Music Video",
+        "url": "https://www.youtube.com/watch?v=Dsylo684yWA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-01-16",
+      "viewCount": "3433万",
+      "likeCount": "25.3万",
+      "commentCount": "1万",
+      "increment_d1": "2.06万"
+    },
+    {
+      "rank": 1006,
       "thumb": {
         "img": "https://i.ytimg.com/vi/bRWQckbQ9tQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=bRWQckbQ9tQ",
@@ -113,30 +136,7 @@
       "viewCount": "3432万",
       "likeCount": "16.3万",
       "commentCount": "8162",
-      "increment_d1": "3767"
-    },
-    {
-      "rank": 1006,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Dsylo684yWA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Dsylo684yWA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE「ナハトムジーク」Official Music Video",
-        "url": "https://www.youtube.com/watch?v=Dsylo684yWA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-01-16",
-      "viewCount": "3431万",
-      "likeCount": "25.3万",
-      "commentCount": "1万",
-      "increment_d1": "1.87万"
+      "increment_d1": "3963"
     },
     {
       "rank": 1007,
@@ -156,10 +156,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-24",
-      "viewCount": "3421万",
+      "viewCount": "3422万",
       "likeCount": "13.4万",
-      "commentCount": "8170",
-      "increment_d1": "6685"
+      "commentCount": "8172",
+      "increment_d1": "7424"
     },
     {
       "rank": 1008,
@@ -182,7 +182,7 @@
       "viewCount": "3420万",
       "likeCount": "-",
       "commentCount": "2.8万",
-      "increment_d1": "817"
+      "increment_d1": "820"
     },
     {
       "rank": 1009,
@@ -202,10 +202,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-06",
-      "viewCount": "3419万",
+      "viewCount": "3420万",
       "likeCount": "33.3万",
       "commentCount": "7777",
-      "increment_d1": "3795"
+      "increment_d1": "4225"
     },
     {
       "rank": 1010,
@@ -227,8 +227,8 @@
       "publishedAt": "2019-01-11",
       "viewCount": "3418万",
       "likeCount": "17.9万",
-      "commentCount": "6722",
-      "increment_d1": "3376"
+      "commentCount": "6721",
+      "increment_d1": "3408"
     },
     {
       "rank": 1011,
@@ -248,10 +248,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-20",
-      "viewCount": "3412万",
+      "viewCount": "3413万",
       "likeCount": "29.2万",
-      "commentCount": "3754",
-      "increment_d1": "1.18万"
+      "commentCount": "3756",
+      "increment_d1": "1.14万"
     },
     {
       "rank": 1012,
@@ -271,10 +271,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-14",
-      "viewCount": "3408万",
+      "viewCount": "3410万",
       "likeCount": "12.9万",
-      "commentCount": "3509",
-      "increment_d1": "1.96万"
+      "commentCount": "3513",
+      "increment_d1": "2.06万"
     },
     {
       "rank": 1013,
@@ -294,10 +294,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-08-01",
-      "viewCount": "3408万",
+      "viewCount": "3409万",
       "likeCount": "7.5万",
-      "commentCount": "4778",
-      "increment_d1": "1.32万"
+      "commentCount": "4780",
+      "increment_d1": "1.37万"
     },
     {
       "rank": 1014,
@@ -317,10 +317,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-16",
-      "viewCount": "3405万",
+      "viewCount": "3409万",
       "likeCount": "-",
-      "commentCount": "9829",
-      "increment_d1": "2.92万"
+      "commentCount": "9830",
+      "increment_d1": "3.35万"
     },
     {
       "rank": 1015,
@@ -340,59 +340,13 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-28",
-      "viewCount": "3405万",
+      "viewCount": "3406万",
       "likeCount": "35.2万",
-      "commentCount": "8072",
-      "increment_d1": "8572"
+      "commentCount": "8073",
+      "increment_d1": "1.02万"
     },
     {
       "rank": 1016,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/0lASG1aB5lE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=0lASG1aB5lE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Saucy Dog「あぁ、もう。」Music Video",
-        "url": "https://www.youtube.com/watch?v=0lASG1aB5lE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Saucy Dog",
-        "url": "https://www.youtube.com/channel/UCs8nP5mUR3pwJmgixsul8Hw",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-12-16",
-      "viewCount": "3404万",
-      "likeCount": "22.1万",
-      "commentCount": "4789",
-      "increment_d1": "1.08万"
-    },
-    {
-      "rank": 1017,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/W_IkBXSyC_4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=W_IkBXSyC_4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "當山みれい 『願い～あの頃のキミへ～』",
-        "url": "https://www.youtube.com/watch?v=W_IkBXSyC_4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "當山みれい / MIREI",
-        "url": "https://www.youtube.com/channel/UCLMYRi83dsYs83prGn0tByw",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-07-02",
-      "viewCount": "3404万",
-      "likeCount": "19.1万",
-      "commentCount": "3274",
-      "increment_d1": "7699"
-    },
-    {
-      "rank": 1018,
       "thumb": {
         "img": "https://i.ytimg.com/vi/HUTbH6ywrXk/default.jpg",
         "url": "https://www.youtube.com/watch?v=HUTbH6ywrXk",
@@ -409,13 +363,82 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-14",
-      "viewCount": "3404万",
+      "viewCount": "3406万",
       "likeCount": "10万",
       "commentCount": "1837",
-      "increment_d1": "1.81万"
+      "increment_d1": "1.92万"
+    },
+    {
+      "rank": 1017,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/0lASG1aB5lE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=0lASG1aB5lE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Saucy Dog「あぁ、もう。」Music Video",
+        "url": "https://www.youtube.com/watch?v=0lASG1aB5lE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Saucy Dog",
+        "url": "https://www.youtube.com/channel/UCs8nP5mUR3pwJmgixsul8Hw",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-12-16",
+      "viewCount": "3405万",
+      "likeCount": "22.2万",
+      "commentCount": "4790",
+      "increment_d1": "1.24万"
+    },
+    {
+      "rank": 1018,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/W_IkBXSyC_4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=W_IkBXSyC_4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "當山みれい 『願い～あの頃のキミへ～』",
+        "url": "https://www.youtube.com/watch?v=W_IkBXSyC_4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "當山みれい / MIREI",
+        "url": "https://www.youtube.com/channel/UCLMYRi83dsYs83prGn0tByw",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-07-02",
+      "viewCount": "3405万",
+      "likeCount": "19.1万",
+      "commentCount": "3277",
+      "increment_d1": "7162"
     },
     {
       "rank": 1019,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/5P9WQMWm6kQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=5P9WQMWm6kQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow Man「君は僕のもの」Music Video YouTube Ver.",
+        "url": "https://www.youtube.com/watch?v=5P9WQMWm6kQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Snow Man",
+        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-06-26",
+      "viewCount": "3402万",
+      "likeCount": "18.4万",
+      "commentCount": "1.8万",
+      "increment_d1": "1.23万"
+    },
+    {
+      "rank": 1020,
       "thumb": {
         "img": "https://i.ytimg.com/vi/HIRfc3ybbPg/default.jpg",
         "url": "https://www.youtube.com/watch?v=HIRfc3ybbPg",
@@ -435,30 +458,7 @@
       "viewCount": "3401万",
       "likeCount": "11.6万",
       "commentCount": "4071",
-      "increment_d1": "2699"
-    },
-    {
-      "rank": 1020,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/5P9WQMWm6kQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=5P9WQMWm6kQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow Man「君は僕のもの」Music Video YouTube Ver.",
-        "url": "https://www.youtube.com/watch?v=5P9WQMWm6kQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Snow Man",
-        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-06-26",
-      "viewCount": "3400万",
-      "likeCount": "18.4万",
-      "commentCount": "1.8万",
-      "increment_d1": "1万"
+      "increment_d1": "2796"
     },
     {
       "rank": 1021,
@@ -478,10 +478,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-05",
-      "viewCount": "3399万",
+      "viewCount": "3400万",
       "likeCount": "12万",
       "commentCount": "4374",
-      "increment_d1": "7055"
+      "increment_d1": "6901"
     },
     {
       "rank": 1022,
@@ -501,10 +501,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-10-28",
-      "viewCount": "3393万",
+      "viewCount": "3394万",
       "likeCount": "-",
       "commentCount": "1.8万",
-      "increment_d1": "3404"
+      "increment_d1": "4073"
     },
     {
       "rank": 1023,
@@ -524,10 +524,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-17",
-      "viewCount": "3391万",
+      "viewCount": "3393万",
       "likeCount": "21.4万",
-      "commentCount": "3840",
-      "increment_d1": "1.74万"
+      "commentCount": "3842",
+      "increment_d1": "1.77万"
     },
     {
       "rank": 1024,
@@ -550,7 +550,7 @@
       "viewCount": "3385万",
       "likeCount": "17.5万",
       "commentCount": "4万",
-      "increment_d1": "4279"
+      "increment_d1": "4582"
     },
     {
       "rank": 1025,
@@ -573,7 +573,7 @@
       "viewCount": "3382万",
       "likeCount": "22.5万",
       "commentCount": "1047",
-      "increment_d1": "3149"
+      "increment_d1": "3636"
     },
     {
       "rank": 1026,
@@ -593,36 +593,13 @@
         "target": "_blank"
       },
       "publishedAt": "2018-10-01",
-      "viewCount": "3381万",
+      "viewCount": "3382万",
       "likeCount": "26.8万",
-      "commentCount": "9505",
-      "increment_d1": "4215"
+      "commentCount": "9506",
+      "increment_d1": "4519"
     },
     {
       "rank": 1027,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Hx045zhgiqI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Hx045zhgiqI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ゆず「OLA!!」",
-        "url": "https://www.youtube.com/watch?v=Hx045zhgiqI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "yuzuofficial",
-        "url": "https://www.youtube.com/channel/UCOd_Yr1ws9PHKE54pfJrBKQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-04-14",
-      "viewCount": "3380万",
-      "likeCount": "13.8万",
-      "commentCount": "5196",
-      "increment_d1": "4224"
-    },
-    {
-      "rank": 1028,
       "thumb": {
         "img": "https://i.ytimg.com/vi/KAbFJ-cJgIY/default.jpg",
         "url": "https://www.youtube.com/watch?v=KAbFJ-cJgIY",
@@ -639,13 +616,59 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-02",
-      "viewCount": "3380万",
+      "viewCount": "3381万",
       "likeCount": "-",
       "commentCount": "545",
-      "increment_d1": "9663"
+      "increment_d1": "1万"
+    },
+    {
+      "rank": 1028,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Hx045zhgiqI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Hx045zhgiqI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ゆず「OLA!!」",
+        "url": "https://www.youtube.com/watch?v=Hx045zhgiqI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "yuzuofficial",
+        "url": "https://www.youtube.com/channel/UCOd_Yr1ws9PHKE54pfJrBKQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-04-14",
+      "viewCount": "3381万",
+      "likeCount": "13.8万",
+      "commentCount": "5196",
+      "increment_d1": "4925"
     },
     {
       "rank": 1029,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/W_fHWaoQwkw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=W_fHWaoQwkw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Ado】クラクラ",
+        "url": "https://www.youtube.com/watch?v=W_fHWaoQwkw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ado",
+        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-10-07",
+      "viewCount": "3380万",
+      "likeCount": "33.7万",
+      "commentCount": "4982",
+      "increment_d1": "1.66万"
+    },
+    {
+      "rank": 1030,
       "thumb": {
         "img": "https://i.ytimg.com/vi/aMOa320erOQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=aMOa320erOQ",
@@ -665,30 +688,7 @@
       "viewCount": "3378万",
       "likeCount": "6.6万",
       "commentCount": "1.7万",
-      "increment_d1": "728"
-    },
-    {
-      "rank": 1030,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/W_fHWaoQwkw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=W_fHWaoQwkw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Ado】クラクラ",
-        "url": "https://www.youtube.com/watch?v=W_fHWaoQwkw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ado",
-        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-10-07",
-      "viewCount": "3378万",
-      "likeCount": "33.7万",
-      "commentCount": "4982",
-      "increment_d1": "1.65万"
+      "increment_d1": "748"
     },
     {
       "rank": 1031,
@@ -708,10 +708,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-11-01",
-      "viewCount": "3372万",
+      "viewCount": "3373万",
       "likeCount": "19.3万",
       "commentCount": "3142",
-      "increment_d1": "8160"
+      "increment_d1": "9077"
     },
     {
       "rank": 1032,
@@ -734,7 +734,7 @@
       "viewCount": "3370万",
       "likeCount": "35.9万",
       "commentCount": "6552",
-      "increment_d1": "2128"
+      "increment_d1": "2471"
     },
     {
       "rank": 1033,
@@ -756,8 +756,8 @@
       "publishedAt": "2020-02-08",
       "viewCount": "3363万",
       "likeCount": "25.3万",
-      "commentCount": "5189",
-      "increment_d1": "6682"
+      "commentCount": "5190",
+      "increment_d1": "6737"
     },
     {
       "rank": 1034,
@@ -780,7 +780,7 @@
       "viewCount": "3362万",
       "likeCount": "24万",
       "commentCount": "6825",
-      "increment_d1": "2891"
+      "increment_d1": "2884"
     },
     {
       "rank": 1035,
@@ -802,8 +802,8 @@
       "publishedAt": "2012-01-18",
       "viewCount": "3360万",
       "likeCount": "12.8万",
-      "commentCount": "4423",
-      "increment_d1": "7088"
+      "commentCount": "4424",
+      "increment_d1": "7071"
     },
     {
       "rank": 1036,
@@ -826,7 +826,7 @@
       "viewCount": "3359万",
       "likeCount": "28.4万",
       "commentCount": "1.2万",
-      "increment_d1": "4416"
+      "increment_d1": "4029"
     },
     {
       "rank": 1037,
@@ -846,13 +846,36 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-26",
-      "viewCount": "3349万",
+      "viewCount": "3351万",
       "likeCount": "56.5万",
       "commentCount": "1.9万",
-      "increment_d1": "2.08万"
+      "increment_d1": "2.49万"
     },
     {
       "rank": 1038,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Ht6lcYg9Zfo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Ht6lcYg9Zfo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ヨルシカ Live「花人局 / 春泥棒」",
+        "url": "https://www.youtube.com/watch?v=Ht6lcYg9Zfo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ヨルシカ / n-buna Official",
+        "url": "https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-03-19",
+      "viewCount": "3349万",
+      "likeCount": "25.6万",
+      "commentCount": "7039",
+      "increment_d1": "1.21万"
+    },
+    {
+      "rank": 1039,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vn7vfza-6fQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=vn7vfza-6fQ",
@@ -872,10 +895,10 @@
       "viewCount": "3349万",
       "likeCount": "31万",
       "commentCount": "1万",
-      "increment_d1": "3102"
+      "increment_d1": "2978"
     },
     {
-      "rank": 1039,
+      "rank": 1040,
       "thumb": {
         "img": "https://i.ytimg.com/vi/nDqaTXqCN-Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=nDqaTXqCN-Q",
@@ -892,33 +915,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-11-26",
-      "viewCount": "3348万",
+      "viewCount": "3349万",
       "likeCount": "30.4万",
       "commentCount": "1.7万",
-      "increment_d1": "5206"
-    },
-    {
-      "rank": 1040,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Ht6lcYg9Zfo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Ht6lcYg9Zfo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ヨルシカ Live「花人局 / 春泥棒」",
-        "url": "https://www.youtube.com/watch?v=Ht6lcYg9Zfo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ヨルシカ / n-buna Official",
-        "url": "https://www.youtube.com/channel/UCRIgIJQWuBJ0Cv_VlU3USNA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-03-19",
-      "viewCount": "3348万",
-      "likeCount": "25.5万",
-      "commentCount": "7038",
-      "increment_d1": "1.07万"
+      "increment_d1": "5617"
     },
     {
       "rank": 1041,
@@ -938,36 +938,13 @@
         "target": "_blank"
       },
       "publishedAt": "2021-05-28",
-      "viewCount": "3346万",
+      "viewCount": "3347万",
       "likeCount": "-",
       "commentCount": "1.1万",
-      "increment_d1": "6852"
+      "increment_d1": "7810"
     },
     {
       "rank": 1042,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/uP8CtPMAd5Q/default.jpg",
-        "url": "https://www.youtube.com/watch?v=uP8CtPMAd5Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "もう一度 - Tani Yuuki【MV】",
-        "url": "https://www.youtube.com/watch?v=uP8CtPMAd5Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Tani Yuuki",
-        "url": "https://www.youtube.com/channel/UCkPhQEwdob-Dc539qnJASvg",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-09-21",
-      "viewCount": "3343万",
-      "likeCount": "21.6万",
-      "commentCount": "3946",
-      "increment_d1": "6975"
-    },
-    {
-      "rank": 1043,
       "thumb": {
         "img": "https://i.ytimg.com/vi/R_ipNv527rE/default.jpg",
         "url": "https://www.youtube.com/watch?v=R_ipNv527rE",
@@ -984,10 +961,33 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-28",
-      "viewCount": "3343万",
+      "viewCount": "3344万",
       "likeCount": "-",
       "commentCount": "7766",
-      "increment_d1": "1.21万"
+      "increment_d1": "1.37万"
+    },
+    {
+      "rank": 1043,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/uP8CtPMAd5Q/default.jpg",
+        "url": "https://www.youtube.com/watch?v=uP8CtPMAd5Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "もう一度 - Tani Yuuki【MV】",
+        "url": "https://www.youtube.com/watch?v=uP8CtPMAd5Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Tani Yuuki",
+        "url": "https://www.youtube.com/channel/UCkPhQEwdob-Dc539qnJASvg",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-09-21",
+      "viewCount": "3344万",
+      "likeCount": "21.6万",
+      "commentCount": "3947",
+      "increment_d1": "7710"
     },
     {
       "rank": 1044,
@@ -1009,11 +1009,34 @@
       "publishedAt": "2018-04-12",
       "viewCount": "3343万",
       "likeCount": "76.4万",
-      "commentCount": "8979",
-      "increment_d1": "4132"
+      "commentCount": "8980",
+      "increment_d1": "4580"
     },
     {
       "rank": 1045,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/HSNWJbkIsmo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=HSNWJbkIsmo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Kenshi Yonezu - KICK BACK（Live with Daiki Tsuneta）\"Chainsaw Man\" OP",
+        "url": "https://www.youtube.com/watch?v=HSNWJbkIsmo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-11-22",
+      "viewCount": "3341万",
+      "likeCount": "47万",
+      "commentCount": "1.1万",
+      "increment_d1": "1.74万"
+    },
+    {
+      "rank": 1046,
       "thumb": {
         "img": "https://i.ytimg.com/vi/dDn04KCpdR0/default.jpg",
         "url": "https://www.youtube.com/watch?v=dDn04KCpdR0",
@@ -1033,30 +1056,7 @@
       "viewCount": "3341万",
       "likeCount": "10.4万",
       "commentCount": "5108",
-      "increment_d1": "1176"
-    },
-    {
-      "rank": 1046,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/HSNWJbkIsmo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=HSNWJbkIsmo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Kenshi Yonezu - KICK BACK（Live with Daiki Tsuneta）\"Chainsaw Man\" OP",
-        "url": "https://www.youtube.com/watch?v=HSNWJbkIsmo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-11-22",
-      "viewCount": "3339万",
-      "likeCount": "46.9万",
-      "commentCount": "1.1万",
-      "increment_d1": "1.66万"
+      "increment_d1": "1230"
     },
     {
       "rank": 1047,
@@ -1076,10 +1076,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-04-01",
-      "viewCount": "3335万",
+      "viewCount": "3337万",
       "likeCount": "12.2万",
-      "commentCount": "7509",
-      "increment_d1": "1.32万"
+      "commentCount": "7514",
+      "increment_d1": "1.39万"
     },
     {
       "rank": 1048,
@@ -1099,10 +1099,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-13",
-      "viewCount": "3333万",
+      "viewCount": "3334万",
       "likeCount": "-",
       "commentCount": "1.1万",
-      "increment_d1": "7073"
+      "increment_d1": "7902"
     },
     {
       "rank": 1049,
@@ -1122,10 +1122,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-03-25",
-      "viewCount": "3332万",
+      "viewCount": "3333万",
       "likeCount": "27.1万",
       "commentCount": "4万",
-      "increment_d1": "3532"
+      "increment_d1": "4043"
     },
     {
       "rank": 1050,
@@ -1145,10 +1145,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-16",
-      "viewCount": "3328万",
+      "viewCount": "3329万",
       "likeCount": "-",
-      "commentCount": "8960",
-      "increment_d1": "7314"
+      "commentCount": "8959",
+      "increment_d1": "8284"
     }
   ]
 }
