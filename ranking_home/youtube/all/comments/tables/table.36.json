@@ -1,7 +1,7 @@
 {
   "rows": [
     {
-      "rank": 1750,
+      "rank": 1751,
       "thumb": {
         "img": "https://i.ytimg.com/vi/hVFY4Yvv3ho/default.jpg",
         "url": "https://www.youtube.com/watch?v=hVFY4Yvv3ho",
@@ -62,7 +62,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-12-25",
-      "viewCount": "1919万",
+      "viewCount": "1920万",
       "likeCount": "6.5万",
       "commentCount": "4785"
     },
@@ -84,7 +84,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-08-01",
-      "viewCount": "3409万",
+      "viewCount": "3410万",
       "likeCount": "7.5万",
       "commentCount": "4780"
     },
@@ -108,7 +108,7 @@
       "publishedAt": "2010-11-05",
       "viewCount": "1391万",
       "likeCount": "-",
-      "commentCount": "4777"
+      "commentCount": "4776"
     },
     {
       "rank": 1756,
@@ -128,7 +128,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-10-03",
-      "viewCount": "1566万",
+      "viewCount": "1567万",
       "likeCount": "18.3万",
       "commentCount": "4773"
     },
@@ -177,7 +177,29 @@
       "commentCount": "4767"
     },
     {
-      "rank": 1759,
+      "rank": 1758,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/drSMZgnmJjk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=drSMZgnmJjk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ONE OK ROCK - Be the light [Official Music Video / English subtitles]",
+        "url": "https://www.youtube.com/watch?v=drSMZgnmJjk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ONE OK ROCK",
+        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-03-11",
+      "viewCount": "3715万",
+      "likeCount": "18.3万",
+      "commentCount": "4767"
+    },
+    {
+      "rank": 1760,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Vao7eDMtrro/default.jpg",
         "url": "https://www.youtube.com/watch?v=Vao7eDMtrro",
@@ -199,29 +221,29 @@
       "commentCount": "4765"
     },
     {
-      "rank": 1760,
+      "rank": 1761,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/drSMZgnmJjk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=drSMZgnmJjk",
+        "img": "https://i.ytimg.com/vi/ru6i9lo4zBE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ru6i9lo4zBE",
         "target": "_blank"
       },
       "title": {
-        "text": "ONE OK ROCK - Be the light [Official Music Video / English subtitles]",
-        "url": "https://www.youtube.com/watch?v=drSMZgnmJjk",
+        "text": "back number - ブルーアンバー 【カンテレ・フジテレビ系月10ドラマ『あなたを奪ったその日から』主題歌】",
+        "url": "https://www.youtube.com/watch?v=ru6i9lo4zBE",
         "target": "_blank"
       },
       "channel": {
-        "text": "ONE OK ROCK",
-        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
+        "text": "back number",
+        "url": "https://www.youtube.com/channel/UCgipy6-EqjT-1BCDndXX1PA",
         "target": "_blank"
       },
-      "publishedAt": "2013-03-11",
-      "viewCount": "3715万",
-      "likeCount": "18.3万",
-      "commentCount": "4762"
+      "publishedAt": "2025-04-28",
+      "viewCount": "2306万",
+      "likeCount": "14万",
+      "commentCount": "4757"
     },
     {
-      "rank": 1761,
+      "rank": 1762,
       "thumb": {
         "img": "https://i.ytimg.com/vi/l9t0a5CiBBo/default.jpg",
         "url": "https://www.youtube.com/watch?v=l9t0a5CiBBo",
@@ -240,28 +262,6 @@
       "publishedAt": "2019-08-03",
       "viewCount": "1981万",
       "likeCount": "16.2万",
-      "commentCount": "4753"
-    },
-    {
-      "rank": 1761,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ru6i9lo4zBE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ru6i9lo4zBE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "back number - ブルーアンバー 【カンテレ・フジテレビ系月10ドラマ『あなたを奪ったその日から』主題歌】",
-        "url": "https://www.youtube.com/watch?v=ru6i9lo4zBE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "back number",
-        "url": "https://www.youtube.com/channel/UCgipy6-EqjT-1BCDndXX1PA",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-04-28",
-      "viewCount": "2299万",
-      "likeCount": "14万",
       "commentCount": "4753"
     },
     {
@@ -304,9 +304,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-05-31",
-      "viewCount": "1859万",
+      "viewCount": "1861万",
       "likeCount": "29.9万",
-      "commentCount": "4743"
+      "commentCount": "4744"
     },
     {
       "rank": 1765,
@@ -328,7 +328,7 @@
       "publishedAt": "2023-05-09",
       "viewCount": "1046万",
       "likeCount": "17.6万",
-      "commentCount": "4734"
+      "commentCount": "4733"
     },
     {
       "rank": 1766,
@@ -348,7 +348,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-05-24",
-      "viewCount": "6755万",
+      "viewCount": "6757万",
       "likeCount": "14.8万",
       "commentCount": "4725"
     },
@@ -397,7 +397,7 @@
       "commentCount": "4722"
     },
     {
-      "rank": 1769,
+      "rank": 1768,
       "thumb": {
         "img": "https://i.ytimg.com/vi/_1NU-YkY3dk/default.jpg",
         "url": "https://www.youtube.com/watch?v=_1NU-YkY3dk",
@@ -416,10 +416,10 @@
       "publishedAt": "2016-11-14",
       "viewCount": "2790万",
       "likeCount": "17.3万",
-      "commentCount": "4720"
+      "commentCount": "4722"
     },
     {
-      "rank": 1769,
+      "rank": 1770,
       "thumb": {
         "img": "https://i.ytimg.com/vi/wKKqOYt3gH0/default.jpg",
         "url": "https://www.youtube.com/watch?v=wKKqOYt3gH0",
@@ -458,7 +458,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-18",
-      "viewCount": "2836万",
+      "viewCount": "2837万",
       "likeCount": "16.9万",
       "commentCount": "4716"
     },
@@ -482,10 +482,10 @@
       "publishedAt": "2013-10-11",
       "viewCount": "1541万",
       "likeCount": "6.7万",
-      "commentCount": "4714"
+      "commentCount": "4715"
     },
     {
-      "rank": 1772,
+      "rank": 1773,
       "thumb": {
         "img": "https://i.ytimg.com/vi/-7YJkt-4R1A/default.jpg",
         "url": "https://www.youtube.com/watch?v=-7YJkt-4R1A",
@@ -504,7 +504,7 @@
       "publishedAt": "2012-02-14",
       "viewCount": "1644万",
       "likeCount": "4.6万",
-      "commentCount": "4714"
+      "commentCount": "4713"
     },
     {
       "rank": 1774,
@@ -524,9 +524,31 @@
         "target": "_blank"
       },
       "publishedAt": "2019-11-02",
-      "viewCount": "1149万",
+      "viewCount": "1150万",
       "likeCount": "15.8万",
       "commentCount": "4711"
+    },
+    {
+      "rank": 1775,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/zGUWVqTZS_U/default.jpg",
+        "url": "https://www.youtube.com/watch?v=zGUWVqTZS_U",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "山猿” 名前の無い歌” (Official Music Video)PAC DA RECORDZ",
+        "url": "https://www.youtube.com/watch?v=zGUWVqTZS_U",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "山猿 Official YouTube チャンネル　PAC DA RECORDZ",
+        "url": "https://www.youtube.com/channel/UCFb0y5JkApk781JgT6zVoRQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-04-25",
+      "viewCount": "2967万",
+      "likeCount": "19.6万",
+      "commentCount": "4693"
     },
     {
       "rank": 1775,
@@ -551,28 +573,6 @@
       "commentCount": "4693"
     },
     {
-      "rank": 1775,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/zGUWVqTZS_U/default.jpg",
-        "url": "https://www.youtube.com/watch?v=zGUWVqTZS_U",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "山猿” 名前の無い歌” (Official Music Video)PAC DA RECORDZ",
-        "url": "https://www.youtube.com/watch?v=zGUWVqTZS_U",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "山猿 Official YouTube チャンネル　PAC DA RECORDZ",
-        "url": "https://www.youtube.com/channel/UCFb0y5JkApk781JgT6zVoRQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-04-25",
-      "viewCount": "2966万",
-      "likeCount": "19.6万",
-      "commentCount": "4693"
-    },
-    {
       "rank": 1777,
       "thumb": {
         "img": "https://i.ytimg.com/vi/5MZo9otAWAw/default.jpg",
@@ -590,9 +590,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-03-23",
-      "viewCount": "1951万",
+      "viewCount": "1952万",
       "likeCount": "19.2万",
-      "commentCount": "4684"
+      "commentCount": "4686"
     },
     {
       "rank": 1778,
@@ -612,9 +612,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-04",
-      "viewCount": "3316万",
+      "viewCount": "3318万",
       "likeCount": "24.3万",
-      "commentCount": "4666"
+      "commentCount": "4665"
     },
     {
       "rank": 1779,
@@ -658,7 +658,7 @@
       "publishedAt": "2011-07-13",
       "viewCount": "2213万",
       "likeCount": "6.8万",
-      "commentCount": "4653"
+      "commentCount": "4654"
     },
     {
       "rank": 1781,
@@ -702,7 +702,7 @@
       "publishedAt": "2017-03-13",
       "viewCount": "1171万",
       "likeCount": "4.4万",
-      "commentCount": "4642"
+      "commentCount": "4641"
     },
     {
       "rank": 1783,
@@ -766,7 +766,7 @@
         "target": "_blank"
       },
       "publishedAt": "2011-01-13",
-      "viewCount": "3971万",
+      "viewCount": "3972万",
       "likeCount": "13.9万",
       "commentCount": "4622"
     },
@@ -788,9 +788,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-10-09",
-      "viewCount": "6066万",
+      "viewCount": "6068万",
       "likeCount": "16.2万",
-      "commentCount": "4605"
+      "commentCount": "4607"
     },
     {
       "rank": 1787,
@@ -839,6 +839,28 @@
     {
       "rank": 1789,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/r105CzDvoo0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=r105CzDvoo0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "milet「Anytime Anywhere」MUSIC VIDEO (TVアニメ『葬送のフリーレン』エンディングテーマ)",
+        "url": "https://www.youtube.com/watch?v=r105CzDvoo0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "milet Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCpgxgkifUGSKg9dNFE5Vo7Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-10-06",
+      "viewCount": "3055万",
+      "likeCount": "22.1万",
+      "commentCount": "4594"
+    },
+    {
+      "rank": 1790,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/ePBjUMEeqBw/default.jpg",
         "url": "https://www.youtube.com/watch?v=ePBjUMEeqBw",
         "target": "_blank"
@@ -859,28 +881,6 @@
       "commentCount": "4593"
     },
     {
-      "rank": 1790,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/r105CzDvoo0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=r105CzDvoo0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "milet「Anytime Anywhere」MUSIC VIDEO (TVアニメ『葬送のフリーレン』エンディングテーマ)",
-        "url": "https://www.youtube.com/watch?v=r105CzDvoo0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "milet Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCpgxgkifUGSKg9dNFE5Vo7Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-10-06",
-      "viewCount": "3053万",
-      "likeCount": "22.1万",
-      "commentCount": "4592"
-    },
-    {
       "rank": 1791,
       "thumb": {
         "img": "https://i.ytimg.com/vi/I0kytvnHG-Q/default.jpg",
@@ -898,7 +898,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-12",
-      "viewCount": "2856万",
+      "viewCount": "2857万",
       "likeCount": "30.7万",
       "commentCount": "4587"
     },
@@ -944,7 +944,7 @@
       "publishedAt": "2009-06-27",
       "viewCount": "1767万",
       "likeCount": "8.9万",
-      "commentCount": "4578"
+      "commentCount": "4579"
     },
     {
       "rank": 1794,
@@ -964,7 +964,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-04",
-      "viewCount": "4875万",
+      "viewCount": "4877万",
       "likeCount": "30.3万",
       "commentCount": "4576"
     },
@@ -986,7 +986,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-26",
-      "viewCount": "2202万",
+      "viewCount": "2203万",
       "likeCount": "17.7万",
       "commentCount": "4573"
     },
@@ -1008,34 +1008,12 @@
         "target": "_blank"
       },
       "publishedAt": "2010-10-18",
-      "viewCount": "1876万",
+      "viewCount": "1877万",
       "likeCount": "6.3万",
       "commentCount": "4568"
     },
     {
-      "rank": 1796,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/8KwqvUKYkPg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=8KwqvUKYkPg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【第75回紅白歌合戦歌唱曲】『EYES ON YOU』MV Full",
-        "url": "https://www.youtube.com/watch?v=8KwqvUKYkPg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-07-12",
-      "viewCount": "1425万",
-      "likeCount": "9.5万",
-      "commentCount": "4568"
-    },
-    {
-      "rank": 1798,
+      "rank": 1797,
       "thumb": {
         "img": "https://i.ytimg.com/vi/OUAlgSvZkqU/default.jpg",
         "url": "https://www.youtube.com/watch?v=OUAlgSvZkqU",
@@ -1057,6 +1035,28 @@
       "commentCount": "4566"
     },
     {
+      "rank": 1798,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/8KwqvUKYkPg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=8KwqvUKYkPg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【第75回紅白歌合戦歌唱曲】『EYES ON YOU』MV Full",
+        "url": "https://www.youtube.com/watch?v=8KwqvUKYkPg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-07-12",
+      "viewCount": "1426万",
+      "likeCount": "9.5万",
+      "commentCount": "4565"
+    },
+    {
       "rank": 1799,
       "thumb": {
         "img": "https://i.ytimg.com/vi/XjuHFHxwvGI/default.jpg",
@@ -1076,29 +1076,29 @@
       "publishedAt": "2012-04-28",
       "viewCount": "2332万",
       "likeCount": "5万",
-      "commentCount": "4549"
+      "commentCount": "4550"
     },
     {
       "rank": 1800,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/NyddMMiViZc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=NyddMMiViZc",
+        "img": "https://i.ytimg.com/vi/IvMFMA89Yi8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=IvMFMA89Yi8",
         "target": "_blank"
       },
       "title": {
-        "text": "くるり - 琥珀色の街、上海蟹の朝",
-        "url": "https://www.youtube.com/watch?v=NyddMMiViZc",
+        "text": "YOASOBI「アイドル」from『劇場版YOASOBI 5th ANNIVERSARY DOME LIVE 2024 \"超現実\"』／ 絶賛公開中！",
+        "url": "https://www.youtube.com/watch?v=IvMFMA89Yi8",
         "target": "_blank"
       },
       "channel": {
-        "text": "くるり",
-        "url": "https://www.youtube.com/channel/UCeFOrJM5jWE1uhJtt7wIH2g",
+        "text": "Ayase / YOASOBI",
+        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
         "target": "_blank"
       },
-      "publishedAt": "2016-11-21",
-      "viewCount": "3174万",
-      "likeCount": "24万",
-      "commentCount": "4543"
+      "publishedAt": "2025-02-25",
+      "viewCount": "1953万",
+      "likeCount": "25万",
+      "commentCount": "4546"
     }
   ]
 }
