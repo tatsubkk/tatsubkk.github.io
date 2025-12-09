@@ -1,7 +1,7 @@
 {
   "rows": [
     {
-      "rank": 3100,
+      "rank": 3101,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qWJTH8b-KyU/default.jpg",
         "url": "https://www.youtube.com/watch?v=qWJTH8b-KyU",
@@ -23,7 +23,29 @@
       "commentCount": "42"
     },
     {
-      "rank": 3102,
+      "rank": 3101,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Wxy0fBsfh_0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Wxy0fBsfh_0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ラブレター",
+        "url": "https://www.youtube.com/watch?v=Wxy0fBsfh_0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-08-08",
+      "viewCount": "1205万",
+      "likeCount": "10.8万",
+      "commentCount": "42"
+    },
+    {
+      "rank": 3103,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ip4ZNVHj_BU/default.jpg",
         "url": "https://www.youtube.com/watch?v=ip4ZNVHj_BU",
@@ -42,28 +64,6 @@
       "publishedAt": "2021-07-01",
       "viewCount": "1968万",
       "likeCount": "8.2万",
-      "commentCount": "39"
-    },
-    {
-      "rank": 3102,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/msSGCeCrJos/default.jpg",
-        "url": "https://www.youtube.com/watch?v=msSGCeCrJos",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "RADWIMPS - ラストバージン [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=msSGCeCrJos",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "RADWIMPS",
-        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-11-13",
-      "viewCount": "1487万",
-      "likeCount": "9.3万",
       "commentCount": "39"
     },
     {
@@ -106,7 +106,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-06-02",
-      "viewCount": "2280万",
+      "viewCount": "2282万",
       "likeCount": "34.4万",
       "commentCount": "2"
     }
