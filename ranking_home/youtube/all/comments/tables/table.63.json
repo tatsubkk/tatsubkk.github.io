@@ -1,9 +1,9 @@
 {
   "rows": [
     {
-      "rank": 3101,
+      "rank": 3100,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/qWJTH8b-KyU/default.jpg",
+        "img": "https://i.ytimg.com/vi/qWJTH8b-KyU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=qWJTH8b-KyU",
         "target": "_blank"
       },
@@ -23,31 +23,9 @@
       "commentCount": "42"
     },
     {
-      "rank": 3101,
+      "rank": 3102,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/Wxy0fBsfh_0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Wxy0fBsfh_0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ラブレター",
-        "url": "https://www.youtube.com/watch?v=Wxy0fBsfh_0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-08-08",
-      "viewCount": "1205万",
-      "likeCount": "10.8万",
-      "commentCount": "42"
-    },
-    {
-      "rank": 3103,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ip4ZNVHj_BU/default.jpg",
+        "img": "https://i.ytimg.com/vi/ip4ZNVHj_BU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ip4ZNVHj_BU",
         "target": "_blank"
       },
@@ -67,9 +45,9 @@
       "commentCount": "39"
     },
     {
-      "rank": 3104,
+      "rank": 3103,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/MquT2X5NEY8/default.jpg",
+        "img": "https://i.ytimg.com/vi/MquT2X5NEY8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=MquT2X5NEY8",
         "target": "_blank"
       },
@@ -89,9 +67,9 @@
       "commentCount": "34"
     },
     {
-      "rank": 3105,
+      "rank": 3104,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/7pPb5fmumNo/default.jpg",
+        "img": "https://i.ytimg.com/vi/7pPb5fmumNo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=7pPb5fmumNo",
         "target": "_blank"
       },
@@ -106,7 +84,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-06-02",
-      "viewCount": "2282万",
+      "viewCount": "2285万",
       "likeCount": "34.4万",
       "commentCount": "2"
     }
