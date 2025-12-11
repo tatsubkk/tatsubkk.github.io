@@ -1,7 +1,29 @@
 {
   "rows": [
     {
-      "rank": 1251,
+      "rank": 1250,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/8KXbNShp8rs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8KXbNShp8rs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "なにわ男子 - Poppin' Hoppin' Lovin' [Official Music Video] YouTube ver.",
+        "url": "https://www.youtube.com/watch?v=8KXbNShp8rs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "なにわ男子",
+        "url": "https://www.youtube.com/channel/UCDtVdj7sm41Ysg3XSiSUH3w",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-06-06",
+      "viewCount": "2012万",
+      "likeCount": "-",
+      "commentCount": "7714"
+    },
+    {
+      "rank": 1252,
       "thumb": {
         "img": "https://i.ytimg.com/vi/BydbhAzmAzg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=BydbhAzmAzg",
@@ -18,12 +40,12 @@
         "target": "_blank"
       },
       "publishedAt": "2025-04-11",
-      "viewCount": "1166万",
+      "viewCount": "1167万",
       "likeCount": "22.1万",
-      "commentCount": "7709"
+      "commentCount": "7712"
     },
     {
-      "rank": 1252,
+      "rank": 1253,
       "thumb": {
         "img": "https://i.ytimg.com/vi/75GL-BYZFfY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=75GL-BYZFfY",
@@ -45,28 +67,6 @@
       "commentCount": "7698"
     },
     {
-      "rank": 1253,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/iQhRmQWwDYs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=iQhRmQWwDYs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "宮本浩次－冬の花",
-        "url": "https://www.youtube.com/watch?v=iQhRmQWwDYs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "宮本浩次",
-        "url": "https://www.youtube.com/channel/UCcUcK64JLSZAPUfG07s-Wew",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-02-11",
-      "viewCount": "2614万",
-      "likeCount": "19.1万",
-      "commentCount": "7695"
-    },
-    {
       "rank": 1254,
       "thumb": {
         "img": "https://i.ytimg.com/vi/TDpJAuxpfMs/hqdefault.jpg",
@@ -84,31 +84,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-09-13",
-      "viewCount": "1765万",
+      "viewCount": "1766万",
       "likeCount": "24.7万",
-      "commentCount": "7693"
-    },
-    {
-      "rank": 1255,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ljDRzQz3ULE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ljDRzQz3ULE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Official髭男dism - 115万キロのフィルム［Official Live Video］",
-        "url": "https://www.youtube.com/watch?v=ljDRzQz3ULE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Official髭男dism",
-        "url": "https://www.youtube.com/channel/UC3vg17IZ1IV73xx069jG44w",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-04-05",
-      "viewCount": "6112万",
-      "likeCount": "26.6万",
-      "commentCount": "7682"
+      "commentCount": "7694"
     },
     {
       "rank": 1255,
@@ -128,9 +106,31 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-17",
-      "viewCount": "2137万",
+      "viewCount": "2138万",
       "likeCount": "35.7万",
-      "commentCount": "7682"
+      "commentCount": "7683"
+    },
+    {
+      "rank": 1255,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ljDRzQz3ULE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ljDRzQz3ULE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Official髭男dism - 115万キロのフィルム［Official Live Video］",
+        "url": "https://www.youtube.com/watch?v=ljDRzQz3ULE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Official髭男dism",
+        "url": "https://www.youtube.com/channel/UC3vg17IZ1IV73xx069jG44w",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-04-05",
+      "viewCount": "6113万",
+      "likeCount": "26.6万",
+      "commentCount": "7683"
     },
     {
       "rank": 1257,
@@ -172,7 +172,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-04-30",
-      "viewCount": "7928万",
+      "viewCount": "7929万",
       "likeCount": "38.6万",
       "commentCount": "7660"
     },
@@ -194,7 +194,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-12-31",
-      "viewCount": "2709万",
+      "viewCount": "2710万",
       "likeCount": "22.8万",
       "commentCount": "7650"
     },
@@ -216,7 +216,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-12-12",
-      "viewCount": "1611万",
+      "viewCount": "1612万",
       "likeCount": "12.7万",
       "commentCount": "7629"
     },
@@ -238,7 +238,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-16",
-      "viewCount": "4195万",
+      "viewCount": "4196万",
       "likeCount": "49.7万",
       "commentCount": "7610"
     },
@@ -260,7 +260,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-11-02",
-      "viewCount": "3923万",
+      "viewCount": "3924万",
       "likeCount": "-",
       "commentCount": "7597"
     },
@@ -282,7 +282,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-27",
-      "viewCount": "1167万",
+      "viewCount": "1168万",
       "likeCount": "16万",
       "commentCount": "7596"
     },
@@ -306,29 +306,7 @@
       "publishedAt": "2018-08-17",
       "viewCount": "1145万",
       "likeCount": "19.2万",
-      "commentCount": "7588"
-    },
-    {
-      "rank": 1265,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/fj6iDHciEmA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fj6iDHciEmA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV full】ハイテンション / AKB48[公式]",
-        "url": "https://www.youtube.com/watch?v=fj6iDHciEmA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "AKB48",
-        "url": "https://www.youtube.com/channel/UCxjXU89x6owat9dA8Z-bzdw",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-10-24",
-      "viewCount": "2375万",
-      "likeCount": "11.4万",
-      "commentCount": "7583"
+      "commentCount": "7589"
     },
     {
       "rank": 1265,
@@ -348,8 +326,30 @@
         "target": "_blank"
       },
       "publishedAt": "2014-03-06",
-      "viewCount": "6224万",
+      "viewCount": "6226万",
       "likeCount": "22.9万",
+      "commentCount": "7586"
+    },
+    {
+      "rank": 1266,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/fj6iDHciEmA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fj6iDHciEmA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV full】ハイテンション / AKB48[公式]",
+        "url": "https://www.youtube.com/watch?v=fj6iDHciEmA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "AKB48",
+        "url": "https://www.youtube.com/channel/UCxjXU89x6owat9dA8Z-bzdw",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-10-24",
+      "viewCount": "2376万",
+      "likeCount": "11.4万",
       "commentCount": "7583"
     },
     {
@@ -372,7 +372,7 @@
       "publishedAt": "2023-11-05",
       "viewCount": "1059万",
       "likeCount": "25.9万",
-      "commentCount": "7571"
+      "commentCount": "7572"
     },
     {
       "rank": 1268,
@@ -414,7 +414,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-09-07",
-      "viewCount": "4111万",
+      "viewCount": "4112万",
       "likeCount": "7.2万",
       "commentCount": "7532"
     },
@@ -436,9 +436,9 @@
         "target": "_blank"
       },
       "publishedAt": "2014-04-01",
-      "viewCount": "3341万",
+      "viewCount": "3342万",
       "likeCount": "12.2万",
-      "commentCount": "7525"
+      "commentCount": "7528"
     },
     {
       "rank": 1271,
@@ -458,9 +458,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-05-18",
-      "viewCount": "6948万",
+      "viewCount": "6949万",
       "likeCount": "48.7万",
-      "commentCount": "7524"
+      "commentCount": "7525"
     },
     {
       "rank": 1272,
@@ -502,34 +502,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-06-21",
-      "viewCount": "1561万",
+      "viewCount": "1562万",
       "likeCount": "-",
-      "commentCount": "7513"
+      "commentCount": "7511"
     },
     {
       "rank": 1274,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/w6G7Yfp1pVE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=w6G7Yfp1pVE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "YOKU - Eve MV",
-        "url": "https://www.youtube.com/watch?v=w6G7Yfp1pVE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Eve",
-        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-03-18",
-      "viewCount": "1712万",
-      "likeCount": "50.8万",
-      "commentCount": "7491"
-    },
-    {
-      "rank": 1275,
       "thumb": {
         "img": "https://i.ytimg.com/vi/LwIm_TSvhyQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=LwIm_TSvhyQ",
@@ -546,9 +524,31 @@
         "target": "_blank"
       },
       "publishedAt": "2015-03-23",
-      "viewCount": "1207万",
+      "viewCount": "1208万",
       "likeCount": "11.4万",
-      "commentCount": "7490"
+      "commentCount": "7492"
+    },
+    {
+      "rank": 1275,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/w6G7Yfp1pVE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=w6G7Yfp1pVE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "YOKU - Eve MV",
+        "url": "https://www.youtube.com/watch?v=w6G7Yfp1pVE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Eve",
+        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-03-18",
+      "viewCount": "1713万",
+      "likeCount": "50.8万",
+      "commentCount": "7491"
     },
     {
       "rank": 1276,
@@ -568,12 +568,12 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-17",
-      "viewCount": "4157万",
+      "viewCount": "4158万",
       "likeCount": "24.1万",
-      "commentCount": "7484"
+      "commentCount": "7487"
     },
     {
-      "rank": 1276,
+      "rank": 1277,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ARwVe1MYAUA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ARwVe1MYAUA",
@@ -590,7 +590,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-08-16",
-      "viewCount": "1億612万",
+      "viewCount": "1億613万",
       "likeCount": "37.4万",
       "commentCount": "7484"
     },
@@ -641,6 +641,28 @@
     {
       "rank": 1280,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/z80Eu4z44go/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=z80Eu4z44go",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "wacci 『大丈夫』Music Video",
+        "url": "https://www.youtube.com/watch?v=z80Eu4z44go",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "wacci OFFICIAL YouTube CHANNEL",
+        "url": "https://www.youtube.com/channel/UCNMn4Nhl-E3iaSMab0Y_b4A",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-07-30",
+      "viewCount": "2530万",
+      "likeCount": "16.3万",
+      "commentCount": "7466"
+    },
+    {
+      "rank": 1281,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/V8kXFEWNTYc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=V8kXFEWNTYc",
         "target": "_blank"
@@ -661,28 +683,6 @@
       "commentCount": "7465"
     },
     {
-      "rank": 1281,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/z80Eu4z44go/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=z80Eu4z44go",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "wacci 『大丈夫』Music Video",
-        "url": "https://www.youtube.com/watch?v=z80Eu4z44go",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "wacci OFFICIAL YouTube CHANNEL",
-        "url": "https://www.youtube.com/channel/UCNMn4Nhl-E3iaSMab0Y_b4A",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-07-30",
-      "viewCount": "2529万",
-      "likeCount": "16.3万",
-      "commentCount": "7464"
-    },
-    {
       "rank": 1282,
       "thumb": {
         "img": "https://i.ytimg.com/vi/-qoVeoG8XuU/hqdefault.jpg",
@@ -700,34 +700,12 @@
         "target": "_blank"
       },
       "publishedAt": "2014-12-09",
-      "viewCount": "2171万",
+      "viewCount": "2172万",
       "likeCount": "9.9万",
-      "commentCount": "7458"
+      "commentCount": "7459"
     },
     {
       "rank": 1283,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/zKBCSBfP9TI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zKBCSBfP9TI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "東京事変 - 永遠の不在証明",
-        "url": "https://www.youtube.com/watch?v=zKBCSBfP9TI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "東京事変",
-        "url": "https://www.youtube.com/channel/UCqoUKpMpv8hz64ckrRWBbUw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-04-01",
-      "viewCount": "1637万",
-      "likeCount": "17.9万",
-      "commentCount": "7447"
-    },
-    {
-      "rank": 1284,
       "thumb": {
         "img": "https://i.ytimg.com/vi/QchSzsfTGWs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=QchSzsfTGWs",
@@ -746,7 +724,29 @@
       "publishedAt": "2024-01-29",
       "viewCount": "1580万",
       "likeCount": "14.6万",
-      "commentCount": "7446"
+      "commentCount": "7449"
+    },
+    {
+      "rank": 1284,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/zKBCSBfP9TI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zKBCSBfP9TI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "東京事変 - 永遠の不在証明",
+        "url": "https://www.youtube.com/watch?v=zKBCSBfP9TI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "東京事変",
+        "url": "https://www.youtube.com/channel/UCqoUKpMpv8hz64ckrRWBbUw",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-04-01",
+      "viewCount": "1638万",
+      "likeCount": "17.9万",
+      "commentCount": "7447"
     },
     {
       "rank": 1285,
@@ -788,7 +788,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-12",
-      "viewCount": "4409万",
+      "viewCount": "4410万",
       "likeCount": "13.4万",
       "commentCount": "7431"
     },
@@ -834,7 +834,7 @@
       "publishedAt": "2010-09-08",
       "viewCount": "2702万",
       "likeCount": "6.4万",
-      "commentCount": "7350"
+      "commentCount": "7351"
     },
     {
       "rank": 1289,
@@ -854,7 +854,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-03-15",
-      "viewCount": "1855万",
+      "viewCount": "1856万",
       "likeCount": "13万",
       "commentCount": "7330"
     },
@@ -900,7 +900,7 @@
       "publishedAt": "2020-03-07",
       "viewCount": "1295万",
       "likeCount": "10.8万",
-      "commentCount": "7327"
+      "commentCount": "7329"
     },
     {
       "rank": 1292,
@@ -944,7 +944,7 @@
       "publishedAt": "2010-09-08",
       "viewCount": "2198万",
       "likeCount": "12.5万",
-      "commentCount": "7316"
+      "commentCount": "7319"
     },
     {
       "rank": 1294,
@@ -964,7 +964,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-13",
-      "viewCount": "1億882万",
+      "viewCount": "1億884万",
       "likeCount": "50.9万",
       "commentCount": "7310"
     },
@@ -988,7 +988,7 @@
       "publishedAt": "2019-03-10",
       "viewCount": "2729万",
       "likeCount": "9.9万",
-      "commentCount": "7304"
+      "commentCount": "7306"
     },
     {
       "rank": 1296,
@@ -1030,9 +1030,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-11-16",
-      "viewCount": "4078万",
+      "viewCount": "4079万",
       "likeCount": "36万",
-      "commentCount": "7293"
+      "commentCount": "7295"
     },
     {
       "rank": 1298,
@@ -1052,9 +1052,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-18",
-      "viewCount": "6801万",
+      "viewCount": "6803万",
       "likeCount": "41.4万",
-      "commentCount": "7270"
+      "commentCount": "7271"
     },
     {
       "rank": 1299,
@@ -1074,9 +1074,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-03",
-      "viewCount": "3593万",
+      "viewCount": "3596万",
       "likeCount": "52.3万",
-      "commentCount": "7269"
+      "commentCount": "7270"
     },
     {
       "rank": 1300,
@@ -1098,7 +1098,7 @@
       "publishedAt": "2020-03-11",
       "viewCount": "1616万",
       "likeCount": "-",
-      "commentCount": "7264"
+      "commentCount": "7265"
     }
   ]
 }

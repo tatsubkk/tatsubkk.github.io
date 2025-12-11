@@ -3,28 +3,6 @@
     {
       "rank": 1801,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/K1Tz2yNmamI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=K1Tz2yNmamI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "YOASOBI「もう少しだけ」Official Music Video",
-        "url": "https://www.youtube.com/watch?v=K1Tz2yNmamI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ayase / YOASOBI",
-        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-21",
-      "viewCount": "3192万",
-      "likeCount": "25.2万",
-      "commentCount": "4540"
-    },
-    {
-      "rank": 1801,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/Xnws-1Oz4kM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Xnws-1Oz4kM",
         "target": "_blank"
@@ -40,8 +18,30 @@
         "target": "_blank"
       },
       "publishedAt": "2012-11-07",
-      "viewCount": "2373万",
+      "viewCount": "2374万",
       "likeCount": "7.6万",
+      "commentCount": "4541"
+    },
+    {
+      "rank": 1802,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/K1Tz2yNmamI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=K1Tz2yNmamI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "YOASOBI「もう少しだけ」Official Music Video",
+        "url": "https://www.youtube.com/watch?v=K1Tz2yNmamI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ayase / YOASOBI",
+        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-11-21",
+      "viewCount": "3193万",
+      "likeCount": "25.2万",
       "commentCount": "4540"
     },
     {
@@ -84,7 +84,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-02",
-      "viewCount": "1914万",
+      "viewCount": "1915万",
       "likeCount": "26.3万",
       "commentCount": "4536"
     },
@@ -128,7 +128,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-11-29",
-      "viewCount": "1238万",
+      "viewCount": "1239万",
       "likeCount": "12.5万",
       "commentCount": "4529"
     },
@@ -150,7 +150,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-30",
-      "viewCount": "1231万",
+      "viewCount": "1232万",
       "likeCount": "15.3万",
       "commentCount": "4527"
     },
@@ -172,34 +172,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-19",
-      "viewCount": "1489万",
+      "viewCount": "1490万",
       "likeCount": "9.2万",
-      "commentCount": "4518"
+      "commentCount": "4519"
     },
     {
       "rank": 1809,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/OFquPzLWJ5Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OFquPzLWJ5Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "KANA-BOON 『バトンロード』Music Video",
-        "url": "https://www.youtube.com/watch?v=OFquPzLWJ5Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-07-01",
-      "viewCount": "1593万",
-      "likeCount": "15.2万",
-      "commentCount": "4516"
-    },
-    {
-      "rank": 1810,
       "thumb": {
         "img": "https://i.ytimg.com/vi/xl1Ms2VnaYM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=xl1Ms2VnaYM",
@@ -221,6 +199,28 @@
       "commentCount": "4514"
     },
     {
+      "rank": 1810,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/OFquPzLWJ5Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OFquPzLWJ5Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "KANA-BOON 『バトンロード』Music Video",
+        "url": "https://www.youtube.com/watch?v=OFquPzLWJ5Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-07-01",
+      "viewCount": "1593万",
+      "likeCount": "15.2万",
+      "commentCount": "4513"
+    },
+    {
       "rank": 1811,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ZgRPDC4xE4A/hqdefault.jpg",
@@ -238,9 +238,9 @@
         "target": "_blank"
       },
       "publishedAt": "2025-01-10",
-      "viewCount": "1850万",
+      "viewCount": "1855万",
       "likeCount": "8.8万",
-      "commentCount": "4509"
+      "commentCount": "4508"
     },
     {
       "rank": 1812,
@@ -262,7 +262,7 @@
       "publishedAt": "2020-04-23",
       "viewCount": "1217万",
       "likeCount": "16.6万",
-      "commentCount": "4506"
+      "commentCount": "4507"
     },
     {
       "rank": 1813,
@@ -306,7 +306,7 @@
       "publishedAt": "2018-03-31",
       "viewCount": "1082万",
       "likeCount": "15.2万",
-      "commentCount": "4497"
+      "commentCount": "4498"
     },
     {
       "rank": 1815,
@@ -328,7 +328,7 @@
       "publishedAt": "2023-06-20",
       "viewCount": "1556万",
       "likeCount": "17.7万",
-      "commentCount": "4495"
+      "commentCount": "4496"
     },
     {
       "rank": 1816,
@@ -414,7 +414,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-06-15",
-      "viewCount": "1762万",
+      "viewCount": "1763万",
       "likeCount": "6.6万",
       "commentCount": "4481"
     },
@@ -480,7 +480,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-21",
-      "viewCount": "1797万",
+      "viewCount": "1798万",
       "likeCount": "10.4万",
       "commentCount": "4474"
     },
@@ -526,7 +526,7 @@
       "publishedAt": "2013-01-25",
       "viewCount": "1568万",
       "likeCount": "6.4万",
-      "commentCount": "4470"
+      "commentCount": "4472"
     },
     {
       "rank": 1825,
@@ -548,7 +548,7 @@
       "publishedAt": "2013-02-05",
       "viewCount": "2676万",
       "likeCount": "8.3万",
-      "commentCount": "4467"
+      "commentCount": "4469"
     },
     {
       "rank": 1826,
@@ -592,7 +592,7 @@
       "publishedAt": "2021-02-08",
       "viewCount": "1737万",
       "likeCount": "-",
-      "commentCount": "4459"
+      "commentCount": "4461"
     },
     {
       "rank": 1828,
@@ -612,9 +612,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-04-10",
-      "viewCount": "1211万",
+      "viewCount": "1212万",
       "likeCount": "9.1万",
-      "commentCount": "4454"
+      "commentCount": "4456"
     },
     {
       "rank": 1829,
@@ -663,49 +663,27 @@
     {
       "rank": 1831,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/uA832zpafis/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=uA832zpafis",
+        "img": "https://i.ytimg.com/vi/fGlDHwlq5SQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fGlDHwlq5SQ",
         "target": "_blank"
       },
       "title": {
-        "text": "ONE OK ROCK - Let Me Let You Go [Live Documentary Video]",
-        "url": "https://www.youtube.com/watch?v=uA832zpafis",
+        "text": "GLAY / 誘惑",
+        "url": "https://www.youtube.com/watch?v=fGlDHwlq5SQ",
         "target": "_blank"
       },
       "channel": {
-        "text": "ONE OK ROCK",
-        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
+        "text": "GLAY",
+        "url": "https://www.youtube.com/channel/UC1DqlLj1onQhBfxW81OgQTw",
         "target": "_blank"
       },
-      "publishedAt": "2022-08-29",
-      "viewCount": "2041万",
-      "likeCount": "17.2万",
-      "commentCount": "4434"
+      "publishedAt": "2010-04-07",
+      "viewCount": "3818万",
+      "likeCount": "10.7万",
+      "commentCount": "4442"
     },
     {
       "rank": 1832,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/TLvMXOEXi_k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TLvMXOEXi_k",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "17さいのうた。 / 『ユイカ』【MV】",
-        "url": "https://www.youtube.com/watch?v=TLvMXOEXi_k",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "『ユイカ』",
-        "url": "https://www.youtube.com/channel/UC2iRI4qf-H_BdpsS8mMEjZQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-05-29",
-      "viewCount": "2423万",
-      "likeCount": "25.9万",
-      "commentCount": "4430"
-    },
-    {
-      "rank": 1833,
       "thumb": {
         "img": "https://i.ytimg.com/vi/n9hNT5ezcnc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=n9hNT5ezcnc",
@@ -722,12 +700,56 @@
         "target": "_blank"
       },
       "publishedAt": "2011-01-14",
-      "viewCount": "1564万",
+      "viewCount": "1565万",
       "likeCount": "6.5万",
-      "commentCount": "4429"
+      "commentCount": "4438"
+    },
+    {
+      "rank": 1833,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/uA832zpafis/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=uA832zpafis",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ONE OK ROCK - Let Me Let You Go [Live Documentary Video]",
+        "url": "https://www.youtube.com/watch?v=uA832zpafis",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ONE OK ROCK",
+        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-08-29",
+      "viewCount": "2042万",
+      "likeCount": "17.2万",
+      "commentCount": "4435"
     },
     {
       "rank": 1834,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/TLvMXOEXi_k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TLvMXOEXi_k",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "17さいのうた。 / 『ユイカ』【MV】",
+        "url": "https://www.youtube.com/watch?v=TLvMXOEXi_k",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "『ユイカ』",
+        "url": "https://www.youtube.com/channel/UC2iRI4qf-H_BdpsS8mMEjZQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-05-29",
+      "viewCount": "2424万",
+      "likeCount": "25.9万",
+      "commentCount": "4434"
+    },
+    {
+      "rank": 1835,
       "thumb": {
         "img": "https://i.ytimg.com/vi/cr8magEp0Ho/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=cr8magEp0Ho",
@@ -744,12 +766,34 @@
         "target": "_blank"
       },
       "publishedAt": "2012-01-18",
-      "viewCount": "3363万",
+      "viewCount": "3364万",
       "likeCount": "12.8万",
-      "commentCount": "4428"
+      "commentCount": "4431"
     },
     {
-      "rank": 1835,
+      "rank": 1836,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/WIdWXhV33vs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=WIdWXhV33vs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV full】 UZA -Dance ver.- / AKB48[公式]",
+        "url": "https://www.youtube.com/watch?v=WIdWXhV33vs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "AKB48",
+        "url": "https://www.youtube.com/channel/UCxjXU89x6owat9dA8Z-bzdw",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-12-05",
+      "viewCount": "1887万",
+      "likeCount": "6.7万",
+      "commentCount": "4425"
+    },
+    {
+      "rank": 1837,
       "thumb": {
         "img": "https://i.ytimg.com/vi/FodIcZ6TLxg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=FodIcZ6TLxg",
@@ -771,50 +815,6 @@
       "commentCount": "4424"
     },
     {
-      "rank": 1835,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/WIdWXhV33vs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=WIdWXhV33vs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV full】 UZA -Dance ver.- / AKB48[公式]",
-        "url": "https://www.youtube.com/watch?v=WIdWXhV33vs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "AKB48",
-        "url": "https://www.youtube.com/channel/UCxjXU89x6owat9dA8Z-bzdw",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-12-05",
-      "viewCount": "1887万",
-      "likeCount": "6.7万",
-      "commentCount": "4424"
-    },
-    {
-      "rank": 1837,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/fGlDHwlq5SQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fGlDHwlq5SQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "GLAY / 誘惑",
-        "url": "https://www.youtube.com/watch?v=fGlDHwlq5SQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "GLAY",
-        "url": "https://www.youtube.com/channel/UC1DqlLj1onQhBfxW81OgQTw",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-04-07",
-      "viewCount": "3817万",
-      "likeCount": "10.7万",
-      "commentCount": "4422"
-    },
-    {
       "rank": 1838,
       "thumb": {
         "img": "https://i.ytimg.com/vi/4KHHWYIlHpE/hqdefault.jpg",
@@ -834,7 +834,7 @@
       "publishedAt": "2021-10-15",
       "viewCount": "1476万",
       "likeCount": "17.3万",
-      "commentCount": "4419"
+      "commentCount": "4420"
     },
     {
       "rank": 1839,
@@ -856,7 +856,7 @@
       "publishedAt": "2013-03-14",
       "viewCount": "1996万",
       "likeCount": "11.9万",
-      "commentCount": "4414"
+      "commentCount": "4413"
     },
     {
       "rank": 1840,
@@ -876,7 +876,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-23",
-      "viewCount": "4845万",
+      "viewCount": "4847万",
       "likeCount": "16.2万",
       "commentCount": "4408"
     },
@@ -920,9 +920,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-14",
-      "viewCount": "4650万",
+      "viewCount": "4651万",
       "likeCount": "-",
-      "commentCount": "4405"
+      "commentCount": "4404"
     },
     {
       "rank": 1843,
@@ -964,7 +964,7 @@
         "target": "_blank"
       },
       "publishedAt": "2011-01-25",
-      "viewCount": "1050万",
+      "viewCount": "1051万",
       "likeCount": "7.4万",
       "commentCount": "4399"
     },
@@ -986,9 +986,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-03",
-      "viewCount": "3549万",
-      "likeCount": "27.2万",
-      "commentCount": "4395"
+      "viewCount": "3551万",
+      "likeCount": "27.3万",
+      "commentCount": "4397"
     },
     {
       "rank": 1846,
