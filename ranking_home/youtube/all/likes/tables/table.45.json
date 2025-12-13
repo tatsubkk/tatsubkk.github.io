@@ -3,6 +3,28 @@
     {
       "rank": 2201,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/ajJKtzg--5g/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ajJKtzg--5g",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Official髭男dism - ラストソング［Studio Live Session］",
+        "url": "https://www.youtube.com/watch?v=ajJKtzg--5g",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Official髭男dism",
+        "url": "https://www.youtube.com/channel/UC3vg17IZ1IV73xx069jG44w",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-08-22",
+      "viewCount": "1279万",
+      "likeCount": "7.61万",
+      "commentCount": "3828"
+    },
+    {
+      "rank": 2202,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/pnbeGTeZCpg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=pnbeGTeZCpg",
         "target": "_blank"
@@ -21,28 +43,6 @@
       "viewCount": "3782万",
       "likeCount": "7.61万",
       "commentCount": "3938"
-    },
-    {
-      "rank": 2202,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ajJKtzg--5g/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ajJKtzg--5g",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Official髭男dism - ラストソング［Studio Live Session］",
-        "url": "https://www.youtube.com/watch?v=ajJKtzg--5g",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Official髭男dism",
-        "url": "https://www.youtube.com/channel/UC3vg17IZ1IV73xx069jG44w",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-08-22",
-      "viewCount": "1278万",
-      "likeCount": "7.61万",
-      "commentCount": "3827"
     },
     {
       "rank": 2203,
@@ -64,7 +64,7 @@
       "publishedAt": "2012-11-07",
       "viewCount": "2375万",
       "likeCount": "7.6万",
-      "commentCount": "4541"
+      "commentCount": "4540"
     },
     {
       "rank": 2204,
@@ -128,9 +128,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-29",
-      "viewCount": "2216万",
+      "viewCount": "2217万",
       "likeCount": "7.57万",
-      "commentCount": "2055"
+      "commentCount": "2056"
     },
     {
       "rank": 2207,
@@ -150,7 +150,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-08-22",
-      "viewCount": "1682万",
+      "viewCount": "1683万",
       "likeCount": "7.56万",
       "commentCount": "3566"
     },
@@ -172,9 +172,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-25",
-      "viewCount": "1164万",
+      "viewCount": "1165万",
       "likeCount": "7.56万",
-      "commentCount": "2559"
+      "commentCount": "2562"
     },
     {
       "rank": 2209,
@@ -195,33 +195,11 @@
       },
       "publishedAt": "2021-12-23",
       "viewCount": "1208万",
-      "likeCount": "7.54万",
+      "likeCount": "7.55万",
       "commentCount": "1370"
     },
     {
       "rank": 2210,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/qWJTH8b-KyU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qWJTH8b-KyU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ミスター",
-        "url": "https://www.youtube.com/watch?v=qWJTH8b-KyU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-02-15",
-      "viewCount": "1158万",
-      "likeCount": "7.54万",
-      "commentCount": "42"
-    },
-    {
-      "rank": 2211,
       "thumb": {
         "img": "https://i.ytimg.com/vi/DCwynUEaHuw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=DCwynUEaHuw",
@@ -243,6 +221,28 @@
       "commentCount": "2336"
     },
     {
+      "rank": 2211,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/qWJTH8b-KyU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qWJTH8b-KyU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ミスター",
+        "url": "https://www.youtube.com/watch?v=qWJTH8b-KyU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-02-15",
+      "viewCount": "1158万",
+      "likeCount": "7.54万",
+      "commentCount": "42"
+    },
+    {
       "rank": 2212,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Oy7fhdAWvpk/hqdefault.jpg",
@@ -260,9 +260,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-08-24",
-      "viewCount": "4052万",
+      "viewCount": "4053万",
       "likeCount": "7.53万",
-      "commentCount": "3748"
+      "commentCount": "3749"
     },
     {
       "rank": 2213,
@@ -284,7 +284,7 @@
       "publishedAt": "2009-11-27",
       "viewCount": "1066万",
       "likeCount": "7.51万",
-      "commentCount": "4272"
+      "commentCount": "4273"
     },
     {
       "rank": 2214,
@@ -304,9 +304,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-06-13",
-      "viewCount": "2521万",
+      "viewCount": "2522万",
       "likeCount": "7.5万",
-      "commentCount": "1603"
+      "commentCount": "1604"
     },
     {
       "rank": 2215,
@@ -348,9 +348,9 @@
         "target": "_blank"
       },
       "publishedAt": "2014-08-01",
-      "viewCount": "3416万",
+      "viewCount": "3417万",
       "likeCount": "7.48万",
-      "commentCount": "4786"
+      "commentCount": "4788"
     },
     {
       "rank": 2217,
@@ -370,7 +370,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-05",
-      "viewCount": "3564万",
+      "viewCount": "3565万",
       "likeCount": "7.48万",
       "commentCount": "3185"
     },
@@ -414,9 +414,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-15",
-      "viewCount": "1128万",
+      "viewCount": "1129万",
       "likeCount": "7.47万",
-      "commentCount": "2167"
+      "commentCount": "2166"
     },
     {
       "rank": 2220,
@@ -480,7 +480,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-08",
-      "viewCount": "4359万",
+      "viewCount": "4360万",
       "likeCount": "7.46万",
       "commentCount": "2189"
     },
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-11-15",
-      "viewCount": "1776万",
+      "viewCount": "1777万",
       "likeCount": "7.36万",
       "commentCount": "2745"
     },
@@ -746,7 +746,7 @@
       "publishedAt": "2011-12-21",
       "viewCount": "1827万",
       "likeCount": "7.34万",
-      "commentCount": "5304"
+      "commentCount": "5308"
     },
     {
       "rank": 2235,
@@ -788,9 +788,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-29",
-      "viewCount": "1944万",
+      "viewCount": "1945万",
       "likeCount": "7.3万",
-      "commentCount": "2882"
+      "commentCount": "2883"
     },
     {
       "rank": 2237,
@@ -832,12 +832,34 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-26",
-      "viewCount": "1345万",
+      "viewCount": "1346万",
       "likeCount": "7.29万",
-      "commentCount": "2522"
+      "commentCount": "2523"
     },
     {
       "rank": 2239,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/dFC3Qorbvgo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dFC3Qorbvgo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Official】Uru 『それを愛と呼ぶなら』 LIVE “Uru Tour 2023「contrast」” on WOWOWプラス",
+        "url": "https://www.youtube.com/watch?v=dFC3Qorbvgo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Uru Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-10-27",
+      "viewCount": "2586万",
+      "likeCount": "7.28万",
+      "commentCount": "2572"
+    },
+    {
+      "rank": 2240,
       "thumb": {
         "img": "https://i.ytimg.com/vi/WSUGASFlypY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=WSUGASFlypY",
@@ -856,10 +878,10 @@
       "publishedAt": "2017-01-31",
       "viewCount": "1351万",
       "likeCount": "7.28万",
-      "commentCount": "3175"
+      "commentCount": "3176"
     },
     {
-      "rank": 2240,
+      "rank": 2241,
       "thumb": {
         "img": "https://i.ytimg.com/vi/jQU8jUyX5q4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=jQU8jUyX5q4",
@@ -881,7 +903,7 @@
       "commentCount": "2149"
     },
     {
-      "rank": 2241,
+      "rank": 2242,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Dh695gSiwo8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Dh695gSiwo8",
@@ -898,31 +920,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-10-18",
-      "viewCount": "2359万",
+      "viewCount": "2360万",
       "likeCount": "7.28万",
       "commentCount": "4260"
-    },
-    {
-      "rank": 2242,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/dFC3Qorbvgo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dFC3Qorbvgo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Official】Uru 『それを愛と呼ぶなら』 LIVE “Uru Tour 2023「contrast」” on WOWOWプラス",
-        "url": "https://www.youtube.com/watch?v=dFC3Qorbvgo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Uru Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-10-27",
-      "viewCount": "2583万",
-      "likeCount": "7.28万",
-      "commentCount": "2570"
     },
     {
       "rank": 2243,
@@ -949,6 +949,28 @@
     {
       "rank": 2244,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/vSOLtBy-xas/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vSOLtBy-xas",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MOON CHILD / ESCAPE",
+        "url": "https://www.youtube.com/watch?v=vSOLtBy-xas",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-08-29",
+      "viewCount": "1463万",
+      "likeCount": "7.27万",
+      "commentCount": "3742"
+    },
+    {
+      "rank": 2245,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/G7JClBRVjSQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=G7JClBRVjSQ",
         "target": "_blank"
@@ -967,28 +989,6 @@
       "viewCount": "1765万",
       "likeCount": "7.27万",
       "commentCount": "4633"
-    },
-    {
-      "rank": 2245,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/vSOLtBy-xas/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vSOLtBy-xas",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MOON CHILD / ESCAPE",
-        "url": "https://www.youtube.com/watch?v=vSOLtBy-xas",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-08-29",
-      "viewCount": "1461万",
-      "likeCount": "7.27万",
-      "commentCount": "3735"
     },
     {
       "rank": 2246,
@@ -1076,7 +1076,7 @@
       "publishedAt": "2018-05-08",
       "viewCount": "1854万",
       "likeCount": "7.24万",
-      "commentCount": "5684"
+      "commentCount": "5682"
     },
     {
       "rank": 2250,

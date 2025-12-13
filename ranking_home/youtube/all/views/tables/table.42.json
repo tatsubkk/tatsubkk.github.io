@@ -21,7 +21,7 @@
       "viewCount": "1702万",
       "likeCount": "11.9万",
       "commentCount": "4447",
-      "increment_d1": "180"
+      "increment_d1": "231"
     },
     {
       "rank": 2052,
@@ -44,7 +44,7 @@
       "viewCount": "1701万",
       "likeCount": "31.1万",
       "commentCount": "1.4万",
-      "increment_d1": "1796"
+      "increment_d1": "1904"
     },
     {
       "rank": 2053,
@@ -66,8 +66,8 @@
       "publishedAt": "2021-06-28",
       "viewCount": "1701万",
       "likeCount": "-",
-      "commentCount": "8384",
-      "increment_d1": "808"
+      "commentCount": "8385",
+      "increment_d1": "813"
     },
     {
       "rank": 2054,
@@ -87,10 +87,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-03-20",
-      "viewCount": "1699万",
+      "viewCount": "1700万",
       "likeCount": "11.5万",
       "commentCount": "1973",
-      "increment_d1": "617"
+      "increment_d1": "562"
     },
     {
       "rank": 2055,
@@ -110,10 +110,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-02-20",
-      "viewCount": "1698万",
+      "viewCount": "1699万",
       "likeCount": "5.6万",
-      "commentCount": "4336",
-      "increment_d1": "6231"
+      "commentCount": "4340",
+      "increment_d1": "6131"
     },
     {
       "rank": 2056,
@@ -136,7 +136,7 @@
       "viewCount": "1698万",
       "likeCount": "14.3万",
       "commentCount": "4424",
-      "increment_d1": "784"
+      "increment_d1": "711"
     },
     {
       "rank": 2057,
@@ -159,7 +159,7 @@
       "viewCount": "1697万",
       "likeCount": "12.7万",
       "commentCount": "3212",
-      "increment_d1": "6690"
+      "increment_d1": "6497"
     },
     {
       "rank": 2058,
@@ -182,7 +182,7 @@
       "viewCount": "1696万",
       "likeCount": "-",
       "commentCount": "6698",
-      "increment_d1": "999"
+      "increment_d1": "1073"
     },
     {
       "rank": 2059,
@@ -205,33 +205,10 @@
       "viewCount": "1693万",
       "likeCount": "14.4万",
       "commentCount": "2513",
-      "increment_d1": "2258"
+      "increment_d1": "2424"
     },
     {
       "rank": 2060,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/M46FRJsB0Qw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=M46FRJsB0Qw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "IZ*ONE (아이즈원) - 'Buenos Aires' MV",
-        "url": "https://www.youtube.com/watch?v=M46FRJsB0Qw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "official IZ*ONE",
-        "url": "https://www.youtube.com/channel/UCe_oTYByLWQYCUmgmOMU_xw",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-06-13",
-      "viewCount": "1693万",
-      "likeCount": "38.1万",
-      "commentCount": "3万",
-      "increment_d1": "434"
-    },
-    {
-      "rank": 2061,
       "thumb": {
         "img": "https://i.ytimg.com/vi/-KOeQapXsx8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=-KOeQapXsx8",
@@ -251,10 +228,56 @@
       "viewCount": "1693万",
       "likeCount": "17.2万",
       "commentCount": "3381",
-      "increment_d1": "697"
+      "increment_d1": "732"
+    },
+    {
+      "rank": 2061,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/gixbnMuquhA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gixbnMuquhA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "西野カナ『トリセツ』 Live on Just LOVE Tour-Kana Nishino “Torisetsu”",
+        "url": "https://www.youtube.com/watch?v=gixbnMuquhA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-09-09",
+      "viewCount": "1693万",
+      "likeCount": "5.7万",
+      "commentCount": "1222",
+      "increment_d1": "4429"
     },
     {
       "rank": 2062,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/M46FRJsB0Qw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=M46FRJsB0Qw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "IZ*ONE (아이즈원) - 'Buenos Aires' MV",
+        "url": "https://www.youtube.com/watch?v=M46FRJsB0Qw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "official IZ*ONE",
+        "url": "https://www.youtube.com/channel/UCe_oTYByLWQYCUmgmOMU_xw",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-06-13",
+      "viewCount": "1693万",
+      "likeCount": "38.1万",
+      "commentCount": "3万",
+      "increment_d1": "444"
+    },
+    {
+      "rank": 2063,
       "thumb": {
         "img": "https://i.ytimg.com/vi/yc6SdtjIYCE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=yc6SdtjIYCE",
@@ -274,30 +297,7 @@
       "viewCount": "1693万",
       "likeCount": "-",
       "commentCount": "5936",
-      "increment_d1": "1606"
-    },
-    {
-      "rank": 2063,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/gixbnMuquhA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gixbnMuquhA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "西野カナ『トリセツ』 Live on Just LOVE Tour-Kana Nishino “Torisetsu”",
-        "url": "https://www.youtube.com/watch?v=gixbnMuquhA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-09-09",
-      "viewCount": "1693万",
-      "likeCount": "5.7万",
-      "commentCount": "1220",
-      "increment_d1": "3918"
+      "increment_d1": "1602"
     },
     {
       "rank": 2064,
@@ -320,7 +320,7 @@
       "viewCount": "1693万",
       "likeCount": "14.1万",
       "commentCount": "5366",
-      "increment_d1": "881"
+      "increment_d1": "1100"
     },
     {
       "rank": 2065,
@@ -342,8 +342,8 @@
       "publishedAt": "2012-02-29",
       "viewCount": "1691万",
       "likeCount": "21.9万",
-      "commentCount": "6629",
-      "increment_d1": "1241"
+      "commentCount": "6628",
+      "increment_d1": "1499"
     },
     {
       "rank": 2066,
@@ -366,7 +366,7 @@
       "viewCount": "1690万",
       "likeCount": "13.7万",
       "commentCount": "3716",
-      "increment_d1": "1084"
+      "increment_d1": "1072"
     },
     {
       "rank": 2067,
@@ -386,13 +386,59 @@
         "target": "_blank"
       },
       "publishedAt": "2023-01-19",
-      "viewCount": "1689万",
+      "viewCount": "1690万",
       "likeCount": "11.7万",
-      "commentCount": "1165",
-      "increment_d1": "6112"
+      "commentCount": "1166",
+      "increment_d1": "5941"
     },
     {
       "rank": 2068,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/gAFgaI5D3Gc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gAFgaI5D3Gc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MISAMO「Marshmallow」Music Video",
+        "url": "https://www.youtube.com/watch?v=gAFgaI5D3Gc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "TWICE JAPAN OFFICIAL YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCCRb6nYKaT8tzLA8CwDdUtw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-06-15",
+      "viewCount": "1689万",
+      "likeCount": "64.3万",
+      "commentCount": "3.3万",
+      "increment_d1": "3563"
+    },
+    {
+      "rank": 2069,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/GfDXqY-V0EY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GfDXqY-V0EY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ずっと真夜中でいいのに。『嘘じゃない』MV (ZUTOMAYO – Truth In Lies)",
+        "url": "https://www.youtube.com/watch?v=GfDXqY-V0EY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ずっと真夜中でいいのに。 ZUTOMAYO",
+        "url": "https://www.youtube.com/channel/UCv6P5nsS9rP4tDtFlqLU_QQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-05-23",
+      "viewCount": "1689万",
+      "likeCount": "20.4万",
+      "commentCount": "5611",
+      "increment_d1": "7168"
+    },
+    {
+      "rank": 2070,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Z8_aiEDLoY4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Z8_aiEDLoY4",
@@ -412,33 +458,10 @@
       "viewCount": "1689万",
       "likeCount": "29.5万",
       "commentCount": "8012",
-      "increment_d1": "634"
+      "increment_d1": "708"
     },
     {
-      "rank": 2069,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/gAFgaI5D3Gc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gAFgaI5D3Gc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MISAMO「Marshmallow」Music Video",
-        "url": "https://www.youtube.com/watch?v=gAFgaI5D3Gc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "TWICE JAPAN OFFICIAL YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCCRb6nYKaT8tzLA8CwDdUtw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-06-15",
-      "viewCount": "1688万",
-      "likeCount": "64.3万",
-      "commentCount": "3.3万",
-      "increment_d1": "3563"
-    },
-    {
-      "rank": 2070,
+      "rank": 2071,
       "thumb": {
         "img": "https://i.ytimg.com/vi/YWL9ClaTm6E/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=YWL9ClaTm6E",
@@ -458,30 +481,7 @@
       "viewCount": "1688万",
       "likeCount": "42.8万",
       "commentCount": "2.3万",
-      "increment_d1": "445"
-    },
-    {
-      "rank": 2071,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/GfDXqY-V0EY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GfDXqY-V0EY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ずっと真夜中でいいのに。『嘘じゃない』MV (ZUTOMAYO – Truth In Lies)",
-        "url": "https://www.youtube.com/watch?v=GfDXqY-V0EY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ずっと真夜中でいいのに。 ZUTOMAYO",
-        "url": "https://www.youtube.com/channel/UCv6P5nsS9rP4tDtFlqLU_QQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-05-23",
-      "viewCount": "1688万",
-      "likeCount": "20.4万",
-      "commentCount": "5612",
-      "increment_d1": "7151"
+      "increment_d1": "508"
     },
     {
       "rank": 2072,
@@ -504,10 +504,33 @@
       "viewCount": "1688万",
       "likeCount": "21.7万",
       "commentCount": "2218",
-      "increment_d1": "1489"
+      "increment_d1": "1582"
     },
     {
       "rank": 2073,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/hu6y1ol9yUg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hu6y1ol9yUg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "back number - 冬と春",
+        "url": "https://www.youtube.com/watch?v=hu6y1ol9yUg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "back number",
+        "url": "https://www.youtube.com/channel/UCgipy6-EqjT-1BCDndXX1PA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-01-24",
+      "viewCount": "1687万",
+      "likeCount": "11.2万",
+      "commentCount": "3220",
+      "increment_d1": "1.87万"
+    },
+    {
+      "rank": 2074,
       "thumb": {
         "img": "https://i.ytimg.com/vi/WKfolJv6Kx8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=WKfolJv6Kx8",
@@ -527,10 +550,10 @@
       "viewCount": "1687万",
       "likeCount": "23.6万",
       "commentCount": "1万",
-      "increment_d1": "831"
+      "increment_d1": "1044"
     },
     {
-      "rank": 2074,
+      "rank": 2075,
       "thumb": {
         "img": "https://i.ytimg.com/vi/_2hwblQ_I20/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=_2hwblQ_I20",
@@ -547,13 +570,13 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-23",
-      "viewCount": "1686万",
+      "viewCount": "1687万",
       "likeCount": "12.4万",
-      "commentCount": "1898",
-      "increment_d1": "9089"
+      "commentCount": "1899",
+      "increment_d1": "8938"
     },
     {
-      "rank": 2075,
+      "rank": 2076,
       "thumb": {
         "img": "https://i.ytimg.com/vi/TmwCl9wUrC8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=TmwCl9wUrC8",
@@ -570,33 +593,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-12",
-      "viewCount": "1686万",
+      "viewCount": "1687万",
       "likeCount": "22.9万",
       "commentCount": "8776",
-      "increment_d1": "1.01万"
-    },
-    {
-      "rank": 2076,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/hu6y1ol9yUg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hu6y1ol9yUg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "back number - 冬と春",
-        "url": "https://www.youtube.com/watch?v=hu6y1ol9yUg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "back number",
-        "url": "https://www.youtube.com/channel/UCgipy6-EqjT-1BCDndXX1PA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-01-24",
-      "viewCount": "1685万",
-      "likeCount": "11.2万",
-      "commentCount": "3219",
-      "increment_d1": "1.79万"
+      "increment_d1": "9827"
     },
     {
       "rank": 2077,
@@ -616,10 +616,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-11-12",
-      "viewCount": "1684万",
+      "viewCount": "1685万",
       "likeCount": "18万",
       "commentCount": "5298",
-      "increment_d1": "2779"
+      "increment_d1": "2858"
     },
     {
       "rank": 2078,
@@ -639,10 +639,10 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-01",
-      "viewCount": "1682万",
+      "viewCount": "1683万",
       "likeCount": "3.2万",
       "commentCount": "2801",
-      "increment_d1": "5093"
+      "increment_d1": "4791"
     },
     {
       "rank": 2079,
@@ -662,10 +662,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-08-22",
-      "viewCount": "1682万",
+      "viewCount": "1683万",
       "likeCount": "7.6万",
       "commentCount": "3566",
-      "increment_d1": "1421"
+      "increment_d1": "1478"
     },
     {
       "rank": 2080,
@@ -688,7 +688,7 @@
       "viewCount": "1682万",
       "likeCount": "5万",
       "commentCount": "2733",
-      "increment_d1": "754"
+      "increment_d1": "672"
     },
     {
       "rank": 2081,
@@ -711,7 +711,7 @@
       "viewCount": "1681万",
       "likeCount": "6.3万",
       "commentCount": "2094",
-      "increment_d1": "118"
+      "increment_d1": "116"
     },
     {
       "rank": 2082,
@@ -731,10 +731,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-02",
-      "viewCount": "1680万",
+      "viewCount": "1681万",
       "likeCount": "17.3万",
       "commentCount": "5100",
-      "increment_d1": "4119"
+      "increment_d1": "3865"
     },
     {
       "rank": 2083,
@@ -757,7 +757,7 @@
       "viewCount": "1680万",
       "likeCount": "7.7万",
       "commentCount": "147",
-      "increment_d1": "1227"
+      "increment_d1": "1203"
     },
     {
       "rank": 2084,
@@ -779,8 +779,8 @@
       "publishedAt": "2019-05-03",
       "viewCount": "1680万",
       "likeCount": "15万",
-      "commentCount": "2569",
-      "increment_d1": "870"
+      "commentCount": "2568",
+      "increment_d1": "936"
     },
     {
       "rank": 2085,
@@ -803,7 +803,7 @@
       "viewCount": "1679万",
       "likeCount": "22.9万",
       "commentCount": "1万",
-      "increment_d1": "2423"
+      "increment_d1": "2338"
     },
     {
       "rank": 2086,
@@ -823,13 +823,36 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-23",
-      "viewCount": "1678万",
+      "viewCount": "1679万",
       "likeCount": "10.6万",
       "commentCount": "3987",
-      "increment_d1": "4435"
+      "increment_d1": "4815"
     },
     {
       "rank": 2087,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/yMatGl4PySY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yMatGl4PySY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "なとり - Overdose(Acoustic)",
+        "url": "https://www.youtube.com/watch?v=yMatGl4PySY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "なとり / natori",
+        "url": "https://www.youtube.com/channel/UC4GXMHCwmONp6XFRB5SayAg",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-04-28",
+      "viewCount": "1675万",
+      "likeCount": "21.9万",
+      "commentCount": "1864",
+      "increment_d1": "2.11万"
+    },
+    {
+      "rank": 2088,
       "thumb": {
         "img": "https://i.ytimg.com/vi/KsWTbuB4xH4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=KsWTbuB4xH4",
@@ -849,56 +872,10 @@
       "viewCount": "1673万",
       "likeCount": "3.8万",
       "commentCount": "1491",
-      "increment_d1": "4886"
-    },
-    {
-      "rank": 2088,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/yMatGl4PySY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yMatGl4PySY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "なとり - Overdose(Acoustic)",
-        "url": "https://www.youtube.com/watch?v=yMatGl4PySY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "なとり / natori",
-        "url": "https://www.youtube.com/channel/UC4GXMHCwmONp6XFRB5SayAg",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-04-28",
-      "viewCount": "1672万",
-      "likeCount": "21.9万",
-      "commentCount": "1864",
-      "increment_d1": "2.38万"
+      "increment_d1": "4925"
     },
     {
       "rank": 2089,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/eYh7prKmMio/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=eYh7prKmMio",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "I Don't Like Mondays.  / PAINT (TVアニメ「ONE PIECE」主題歌)",
-        "url": "https://www.youtube.com/watch?v=eYh7prKmMio",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "I Don't Like Mondays.",
-        "url": "https://www.youtube.com/channel/UCPFQ7ao1TbzJUuITXsG0oww",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-01-09",
-      "viewCount": "1671万",
-      "likeCount": "5.6万",
-      "commentCount": "1604",
-      "increment_d1": "1667"
-    },
-    {
-      "rank": 2090,
       "thumb": {
         "img": "https://i.ytimg.com/vi/akHMQOgGrd8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=akHMQOgGrd8",
@@ -915,10 +892,33 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-21",
-      "viewCount": "1671万",
+      "viewCount": "1672万",
       "likeCount": "21.5万",
       "commentCount": "5336",
-      "increment_d1": "7020"
+      "increment_d1": "7125"
+    },
+    {
+      "rank": 2090,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/eYh7prKmMio/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=eYh7prKmMio",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "I Don't Like Mondays.  / PAINT (TVアニメ「ONE PIECE」主題歌)",
+        "url": "https://www.youtube.com/watch?v=eYh7prKmMio",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "I Don't Like Mondays.",
+        "url": "https://www.youtube.com/channel/UCPFQ7ao1TbzJUuITXsG0oww",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-01-09",
+      "viewCount": "1672万",
+      "likeCount": "5.6万",
+      "commentCount": "1604",
+      "increment_d1": "1705"
     },
     {
       "rank": 2091,
@@ -941,10 +941,33 @@
       "viewCount": "1671万",
       "likeCount": "5.6万",
       "commentCount": "1252",
-      "increment_d1": "3810"
+      "increment_d1": "4148"
     },
     {
       "rank": 2092,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/4ZIHvP6ZGE8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=4ZIHvP6ZGE8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "NiziU 「Chopstick」 Dance Performance Video",
+        "url": "https://www.youtube.com/watch?v=4ZIHvP6ZGE8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "NiziU Official",
+        "url": "https://www.youtube.com/channel/UCHp2q2i85qt_9nn2H7AvGOw",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-12-02",
+      "viewCount": "1671万",
+      "likeCount": "13万",
+      "commentCount": "6664",
+      "increment_d1": "1176"
+    },
+    {
+      "rank": 2093,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vHm0RWaf0FE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=vHm0RWaf0FE",
@@ -964,53 +987,30 @@
       "viewCount": "1671万",
       "likeCount": "10万",
       "commentCount": "-",
-      "increment_d1": "534"
-    },
-    {
-      "rank": 2093,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/4ZIHvP6ZGE8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=4ZIHvP6ZGE8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "NiziU 「Chopstick」 Dance Performance Video",
-        "url": "https://www.youtube.com/watch?v=4ZIHvP6ZGE8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "NiziU Official",
-        "url": "https://www.youtube.com/channel/UCHp2q2i85qt_9nn2H7AvGOw",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-12-02",
-      "viewCount": "1670万",
-      "likeCount": "13万",
-      "commentCount": "6664",
-      "increment_d1": "1085"
+      "increment_d1": "430"
     },
     {
       "rank": 2094,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/r1AE6bmdUSk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=r1AE6bmdUSk",
+        "img": "https://i.ytimg.com/vi/fmDB-HyPNYc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=fmDB-HyPNYc",
         "target": "_blank"
       },
       "title": {
-        "text": "Awich - WHORU? feat. ANARCHY (Prod. Chaki Zulu)",
-        "url": "https://www.youtube.com/watch?v=r1AE6bmdUSk",
+        "text": "幾田りら 「Answer」 Official Music Video",
+        "url": "https://www.youtube.com/watch?v=fmDB-HyPNYc",
         "target": "_blank"
       },
       "channel": {
-        "text": "YENTOWN",
-        "url": "https://www.youtube.com/channel/UCSVUraoC0p7x_HwMlMcvsPA",
+        "text": "幾田りら Official",
+        "url": "https://www.youtube.com/channel/UCztEY6czNyJKjRWMwuur9bg",
         "target": "_blank"
       },
-      "publishedAt": "2017-07-22",
-      "viewCount": "1669万",
-      "likeCount": "11.7万",
-      "commentCount": "3131",
-      "increment_d1": "1244"
+      "publishedAt": "2023-03-25",
+      "viewCount": "1670万",
+      "likeCount": "12.3万",
+      "commentCount": "1810",
+      "increment_d1": "9822"
     },
     {
       "rank": 2095,
@@ -1030,33 +1030,33 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-14",
-      "viewCount": "1669万",
+      "viewCount": "1670万",
       "likeCount": "25.2万",
       "commentCount": "4943",
-      "increment_d1": "5730"
+      "increment_d1": "5625"
     },
     {
       "rank": 2096,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/fmDB-HyPNYc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=fmDB-HyPNYc",
+        "img": "https://i.ytimg.com/vi/r1AE6bmdUSk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=r1AE6bmdUSk",
         "target": "_blank"
       },
       "title": {
-        "text": "幾田りら 「Answer」 Official Music Video",
-        "url": "https://www.youtube.com/watch?v=fmDB-HyPNYc",
+        "text": "Awich - WHORU? feat. ANARCHY (Prod. Chaki Zulu)",
+        "url": "https://www.youtube.com/watch?v=r1AE6bmdUSk",
         "target": "_blank"
       },
       "channel": {
-        "text": "幾田りら Official",
-        "url": "https://www.youtube.com/channel/UCztEY6czNyJKjRWMwuur9bg",
+        "text": "YENTOWN",
+        "url": "https://www.youtube.com/channel/UCSVUraoC0p7x_HwMlMcvsPA",
         "target": "_blank"
       },
-      "publishedAt": "2023-03-25",
-      "viewCount": "1669万",
-      "likeCount": "12.3万",
-      "commentCount": "1810",
-      "increment_d1": "9533"
+      "publishedAt": "2017-07-22",
+      "viewCount": "1670万",
+      "likeCount": "11.7万",
+      "commentCount": "3131",
+      "increment_d1": "1198"
     },
     {
       "rank": 2097,
@@ -1078,8 +1078,8 @@
       "publishedAt": "2021-12-24",
       "viewCount": "1669万",
       "likeCount": "30.5万",
-      "commentCount": "5309",
-      "increment_d1": "2344"
+      "commentCount": "5307",
+      "increment_d1": "2313"
     },
     {
       "rank": 2098,
@@ -1102,7 +1102,7 @@
       "viewCount": "1669万",
       "likeCount": "2.8万",
       "commentCount": "623",
-      "increment_d1": "77"
+      "increment_d1": "68"
     },
     {
       "rank": 2099,
@@ -1125,7 +1125,7 @@
       "viewCount": "1669万",
       "likeCount": "3.4万",
       "commentCount": "1208",
-      "increment_d1": "1997"
+      "increment_d1": "2292"
     },
     {
       "rank": 2100,
@@ -1145,10 +1145,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-10-11",
-      "viewCount": "1667万",
+      "viewCount": "1668万",
       "likeCount": "17.5万",
       "commentCount": "6449",
-      "increment_d1": "3015"
+      "increment_d1": "2973"
     }
   ]
 }

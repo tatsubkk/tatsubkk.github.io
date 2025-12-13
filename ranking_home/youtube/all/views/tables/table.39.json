@@ -21,7 +21,7 @@
       "viewCount": "1825万",
       "likeCount": "3.9万",
       "commentCount": "1675",
-      "increment_d1": "258"
+      "increment_d1": "232"
     },
     {
       "rank": 1902,
@@ -41,10 +41,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-12-22",
-      "viewCount": "1823万",
+      "viewCount": "1824万",
       "likeCount": "28.6万",
-      "commentCount": "9287",
-      "increment_d1": "5470"
+      "commentCount": "9290",
+      "increment_d1": "6692"
     },
     {
       "rank": 1903,
@@ -66,8 +66,8 @@
       "publishedAt": "2019-09-25",
       "viewCount": "1821万",
       "likeCount": "8.3万",
-      "commentCount": "3819",
-      "increment_d1": "5520"
+      "commentCount": "3820",
+      "increment_d1": "5446"
     },
     {
       "rank": 1904,
@@ -90,7 +90,7 @@
       "viewCount": "1820万",
       "likeCount": "8.3万",
       "commentCount": "3304",
-      "increment_d1": "3724"
+      "increment_d1": "3803"
     },
     {
       "rank": 1905,
@@ -110,10 +110,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-23",
-      "viewCount": "1819万",
+      "viewCount": "1820万",
       "likeCount": "4.5万",
-      "commentCount": "1697",
-      "increment_d1": "9404"
+      "commentCount": "1699",
+      "increment_d1": "9996"
     },
     {
       "rank": 1906,
@@ -136,7 +136,7 @@
       "viewCount": "1818万",
       "likeCount": "12.7万",
       "commentCount": "3627",
-      "increment_d1": "2563"
+      "increment_d1": "2809"
     },
     {
       "rank": 1907,
@@ -156,10 +156,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-04-09",
-      "viewCount": "1816万",
+      "viewCount": "1817万",
       "likeCount": "17.8万",
       "commentCount": "6870",
-      "increment_d1": "5141"
+      "increment_d1": "5809"
     },
     {
       "rank": 1908,
@@ -182,7 +182,7 @@
       "viewCount": "1816万",
       "likeCount": "6.9万",
       "commentCount": "69",
-      "increment_d1": "92"
+      "increment_d1": "100"
     },
     {
       "rank": 1909,
@@ -205,7 +205,7 @@
       "viewCount": "1814万",
       "likeCount": "2.8万",
       "commentCount": "1600",
-      "increment_d1": "611"
+      "increment_d1": "699"
     },
     {
       "rank": 1910,
@@ -225,10 +225,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-02-28",
-      "viewCount": "1813万",
+      "viewCount": "1814万",
       "likeCount": "5.2万",
-      "commentCount": "3600",
-      "increment_d1": "941"
+      "commentCount": "3603",
+      "increment_d1": "1190"
     },
     {
       "rank": 1911,
@@ -251,33 +251,10 @@
       "viewCount": "1812万",
       "likeCount": "12.8万",
       "commentCount": "10.2万",
-      "increment_d1": "1484"
+      "increment_d1": "1480"
     },
     {
       "rank": 1912,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/oCRlKdMnPLI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oCRlKdMnPLI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【ももクロMV】Z伝説～終わりなき革命～ / ももいろクローバーZ（MOMOIRO CLOVER Z／Z DENSETSU -OWARINAKI KAKUMEI-）",
-        "url": "https://www.youtube.com/watch?v=oCRlKdMnPLI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "stardustdigital",
-        "url": "https://www.youtube.com/channel/UCvy4XUrowYvliS5rpLSAMuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-06-20",
-      "viewCount": "1812万",
-      "likeCount": "2.3万",
-      "commentCount": "2571",
-      "increment_d1": "343"
-    },
-    {
-      "rank": 1913,
       "thumb": {
         "img": "https://i.ytimg.com/vi/4g9ZlGhN7oU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=4g9ZlGhN7oU",
@@ -297,7 +274,30 @@
       "viewCount": "1812万",
       "likeCount": "2.7万",
       "commentCount": "1190",
-      "increment_d1": "1270"
+      "increment_d1": "1697"
+    },
+    {
+      "rank": 1913,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/oCRlKdMnPLI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oCRlKdMnPLI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【ももクロMV】Z伝説～終わりなき革命～ / ももいろクローバーZ（MOMOIRO CLOVER Z／Z DENSETSU -OWARINAKI KAKUMEI-）",
+        "url": "https://www.youtube.com/watch?v=oCRlKdMnPLI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "stardustdigital",
+        "url": "https://www.youtube.com/channel/UCvy4XUrowYvliS5rpLSAMuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-06-20",
+      "viewCount": "1812万",
+      "likeCount": "2.3万",
+      "commentCount": "2570",
+      "increment_d1": "400"
     },
     {
       "rank": 1914,
@@ -320,7 +320,7 @@
       "viewCount": "1812万",
       "likeCount": "-",
       "commentCount": "1.2万",
-      "increment_d1": "2359"
+      "increment_d1": "1926"
     },
     {
       "rank": 1915,
@@ -340,13 +340,59 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-17",
-      "viewCount": "1811万",
+      "viewCount": "1812万",
       "likeCount": "10.7万",
       "commentCount": "2195",
-      "increment_d1": "7285"
+      "increment_d1": "7903"
     },
     {
       "rank": 1916,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/35nV_M3asRs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=35nV_M3asRs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "インソムニア (INSOMNIA) – Eve Music Video",
+        "url": "https://www.youtube.com/watch?v=35nV_M3asRs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Eve",
+        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-06-09",
+      "viewCount": "1811万",
+      "likeCount": "36.7万",
+      "commentCount": "6306",
+      "increment_d1": "9216"
+    },
+    {
+      "rank": 1917,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/LH3op7GECSk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=LH3op7GECSk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "酒井法子「碧いうさぎ」Music Video",
+        "url": "https://www.youtube.com/watch?v=LH3op7GECSk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Victor Entertainment",
+        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-02-04",
+      "viewCount": "1811万",
+      "likeCount": "5万",
+      "commentCount": "2884",
+      "increment_d1": "1.18万"
+    },
+    {
+      "rank": 1918,
       "thumb": {
         "img": "https://i.ytimg.com/vi/G6s8HF1WsJY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=G6s8HF1WsJY",
@@ -366,53 +412,7 @@
       "viewCount": "1810万",
       "likeCount": "10.1万",
       "commentCount": "1.1万",
-      "increment_d1": "1684"
-    },
-    {
-      "rank": 1917,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/35nV_M3asRs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=35nV_M3asRs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "インソムニア (INSOMNIA) – Eve Music Video",
-        "url": "https://www.youtube.com/watch?v=35nV_M3asRs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Eve",
-        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-06-09",
-      "viewCount": "1810万",
-      "likeCount": "36.7万",
-      "commentCount": "6305",
-      "increment_d1": "1.01万"
-    },
-    {
-      "rank": 1918,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/LH3op7GECSk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=LH3op7GECSk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "酒井法子「碧いうさぎ」Music Video",
-        "url": "https://www.youtube.com/watch?v=LH3op7GECSk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Victor Entertainment",
-        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-02-04",
-      "viewCount": "1809万",
-      "likeCount": "5万",
-      "commentCount": "2882",
-      "increment_d1": "1.23万"
+      "increment_d1": "1748"
     },
     {
       "rank": 1919,
@@ -435,7 +435,7 @@
       "viewCount": "1808万",
       "likeCount": "24万",
       "commentCount": "8476",
-      "increment_d1": "155"
+      "increment_d1": "152"
     },
     {
       "rank": 1920,
@@ -458,10 +458,33 @@
       "viewCount": "1807万",
       "likeCount": "4.2万",
       "commentCount": "687",
-      "increment_d1": "948"
+      "increment_d1": "1002"
     },
     {
       "rank": 1921,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ngrBbLTvjN4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ngrBbLTvjN4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Aimer「星の消えた夜に -rit. ver.-」MUSIC VIDEO(new album『星の消えた夜に』now on sale）",
+        "url": "https://www.youtube.com/watch?v=ngrBbLTvjN4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Aimer Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCR1zT1s524Hbc85bdvno_8w",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-01-23",
+      "viewCount": "1807万",
+      "likeCount": "9.2万",
+      "commentCount": "974",
+      "increment_d1": "1.55万"
+    },
+    {
+      "rank": 1922,
       "thumb": {
         "img": "https://i.ytimg.com/vi/wVk69pbqyLA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=wVk69pbqyLA",
@@ -481,30 +504,7 @@
       "viewCount": "1806万",
       "likeCount": "15.9万",
       "commentCount": "1.4万",
-      "increment_d1": "778"
-    },
-    {
-      "rank": 1922,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ngrBbLTvjN4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ngrBbLTvjN4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Aimer「星の消えた夜に -rit. ver.-」MUSIC VIDEO(new album『星の消えた夜に』now on sale）",
-        "url": "https://www.youtube.com/watch?v=ngrBbLTvjN4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Aimer Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCR1zT1s524Hbc85bdvno_8w",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-01-23",
-      "viewCount": "1805万",
-      "likeCount": "9.2万",
-      "commentCount": "974",
-      "increment_d1": "1.7万"
+      "increment_d1": "745"
     },
     {
       "rank": 1923,
@@ -527,7 +527,7 @@
       "viewCount": "1803万",
       "likeCount": "30.6万",
       "commentCount": "1.2万",
-      "increment_d1": "2537"
+      "increment_d1": "2275"
     },
     {
       "rank": 1924,
@@ -550,7 +550,7 @@
       "viewCount": "1802万",
       "likeCount": "6.6万",
       "commentCount": "2569",
-      "increment_d1": "4566"
+      "increment_d1": "4582"
     },
     {
       "rank": 1925,
@@ -573,7 +573,7 @@
       "viewCount": "1800万",
       "likeCount": "8.8万",
       "commentCount": "3066",
-      "increment_d1": "1206"
+      "increment_d1": "1209"
     },
     {
       "rank": 1926,
@@ -596,7 +596,7 @@
       "viewCount": "1800万",
       "likeCount": "-",
       "commentCount": "5684",
-      "increment_d1": "1931"
+      "increment_d1": "1982"
     },
     {
       "rank": 1927,
@@ -618,11 +618,34 @@
       "publishedAt": "2013-05-27",
       "viewCount": "1799万",
       "likeCount": "5.9万",
-      "commentCount": "1429",
-      "increment_d1": "2599"
+      "commentCount": "1430",
+      "increment_d1": "2513"
     },
     {
       "rank": 1928,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ygyOtMnNvCg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ygyOtMnNvCg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "B’z Live from AVACO STUDIO “ultra soul”",
+        "url": "https://www.youtube.com/watch?v=ygyOtMnNvCg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Bz",
+        "url": "https://www.youtube.com/channel/UCpEEcJhBig2GqUFxcXjqiLg",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-07-21",
+      "viewCount": "1799万",
+      "likeCount": "10.4万",
+      "commentCount": "4475",
+      "increment_d1": "5266"
+    },
+    {
+      "rank": 1929,
       "thumb": {
         "img": "https://i.ytimg.com/vi/q_8bLygFaxs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=q_8bLygFaxs",
@@ -641,11 +664,11 @@
       "publishedAt": "2012-04-06",
       "viewCount": "1799万",
       "likeCount": "11.8万",
-      "commentCount": "6257",
-      "increment_d1": "1617"
+      "commentCount": "6258",
+      "increment_d1": "1905"
     },
     {
-      "rank": 1929,
+      "rank": 1930,
       "thumb": {
         "img": "https://i.ytimg.com/vi/FrUKGoBkVvI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=FrUKGoBkVvI",
@@ -665,30 +688,7 @@
       "viewCount": "1799万",
       "likeCount": "14.9万",
       "commentCount": "3741",
-      "increment_d1": "1244"
-    },
-    {
-      "rank": 1930,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ygyOtMnNvCg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ygyOtMnNvCg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "B’z Live from AVACO STUDIO “ultra soul”",
-        "url": "https://www.youtube.com/watch?v=ygyOtMnNvCg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Bz",
-        "url": "https://www.youtube.com/channel/UCpEEcJhBig2GqUFxcXjqiLg",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-07-21",
-      "viewCount": "1798万",
-      "likeCount": "10.4万",
-      "commentCount": "4474",
-      "increment_d1": "5130"
+      "increment_d1": "1398"
     },
     {
       "rank": 1931,
@@ -711,7 +711,7 @@
       "viewCount": "1798万",
       "likeCount": "21.2万",
       "commentCount": "5797",
-      "increment_d1": "2318"
+      "increment_d1": "2646"
     },
     {
       "rank": 1932,
@@ -731,10 +731,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-03-25",
-      "viewCount": "1795万",
+      "viewCount": "1796万",
       "likeCount": "10.8万",
       "commentCount": "5683",
-      "increment_d1": "1035"
+      "increment_d1": "957"
     },
     {
       "rank": 1933,
@@ -754,10 +754,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-12",
-      "viewCount": "1793万",
+      "viewCount": "1794万",
       "likeCount": "9万",
       "commentCount": "1.6万",
-      "increment_d1": "5460"
+      "increment_d1": "5834"
     },
     {
       "rank": 1934,
@@ -777,10 +777,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-31",
-      "viewCount": "1789万",
+      "viewCount": "1790万",
       "likeCount": "-",
       "commentCount": "9541",
-      "increment_d1": "2922"
+      "increment_d1": "3259"
     },
     {
       "rank": 1935,
@@ -803,33 +803,10 @@
       "viewCount": "1788万",
       "likeCount": "15.3万",
       "commentCount": "2229",
-      "increment_d1": "2010"
+      "increment_d1": "1944"
     },
     {
       "rank": 1936,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ON4NXPUx-E8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ON4NXPUx-E8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "B'z / LOVE PHANTOM",
-        "url": "https://www.youtube.com/watch?v=ON4NXPUx-E8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Bz",
-        "url": "https://www.youtube.com/channel/UCpEEcJhBig2GqUFxcXjqiLg",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-03-24",
-      "viewCount": "1786万",
-      "likeCount": "6.6万",
-      "commentCount": "3325",
-      "increment_d1": "5920"
-    },
-    {
-      "rank": 1937,
       "thumb": {
         "img": "https://i.ytimg.com/vi/CPt077N8g_w/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=CPt077N8g_w",
@@ -846,10 +823,33 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-23",
-      "viewCount": "1786万",
+      "viewCount": "1787万",
       "likeCount": "10.1万",
-      "commentCount": "2427",
-      "increment_d1": "1.21万"
+      "commentCount": "2428",
+      "increment_d1": "1.25万"
+    },
+    {
+      "rank": 1937,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ON4NXPUx-E8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ON4NXPUx-E8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "B'z / LOVE PHANTOM",
+        "url": "https://www.youtube.com/watch?v=ON4NXPUx-E8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Bz",
+        "url": "https://www.youtube.com/channel/UCpEEcJhBig2GqUFxcXjqiLg",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-03-24",
+      "viewCount": "1787万",
+      "likeCount": "6.6万",
+      "commentCount": "3325",
+      "increment_d1": "5904"
     },
     {
       "rank": 1938,
@@ -872,7 +872,7 @@
       "viewCount": "1783万",
       "likeCount": "13万",
       "commentCount": "2407",
-      "increment_d1": "3029"
+      "increment_d1": "3358"
     },
     {
       "rank": 1939,
@@ -894,57 +894,11 @@
       "publishedAt": "2010-09-08",
       "viewCount": "1783万",
       "likeCount": "5.6万",
-      "commentCount": "2869",
-      "increment_d1": "3564"
+      "commentCount": "2870",
+      "increment_d1": "3605"
     },
     {
       "rank": 1940,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Vi_asBY5UX8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Vi_asBY5UX8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "完全放棄宣言 / ナナヲアカリ",
-        "url": "https://www.youtube.com/watch?v=Vi_asBY5UX8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ナナヲアカリ OFFICIAL",
-        "url": "https://www.youtube.com/channel/UCrrNHoXQ1uTYsR6v41pDalQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-09-07",
-      "viewCount": "1782万",
-      "likeCount": "16.4万",
-      "commentCount": "5461",
-      "increment_d1": "2091"
-    },
-    {
-      "rank": 1941,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/2Fq2cwZf7pc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2Fq2cwZf7pc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "CLUB PRINCE / LOVEドッきゅん",
-        "url": "https://www.youtube.com/watch?v=2Fq2cwZf7pc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-02-03",
-      "viewCount": "1782万",
-      "likeCount": "-",
-      "commentCount": "-",
-      "increment_d1": "1629"
-    },
-    {
-      "rank": 1942,
       "thumb": {
         "img": "https://i.ytimg.com/vi/rLKqcYWb15w/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=rLKqcYWb15w",
@@ -961,10 +915,56 @@
         "target": "_blank"
       },
       "publishedAt": "2025-03-21",
-      "viewCount": "1781万",
+      "viewCount": "1783万",
       "likeCount": "18.1万",
       "commentCount": "2.3万",
-      "increment_d1": "1.64万"
+      "increment_d1": "1.87万"
+    },
+    {
+      "rank": 1941,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Vi_asBY5UX8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Vi_asBY5UX8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "完全放棄宣言 / ナナヲアカリ",
+        "url": "https://www.youtube.com/watch?v=Vi_asBY5UX8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ナナヲアカリ OFFICIAL",
+        "url": "https://www.youtube.com/channel/UCrrNHoXQ1uTYsR6v41pDalQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-09-07",
+      "viewCount": "1783万",
+      "likeCount": "16.4万",
+      "commentCount": "5460",
+      "increment_d1": "1883"
+    },
+    {
+      "rank": 1942,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/2Fq2cwZf7pc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2Fq2cwZf7pc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "CLUB PRINCE / LOVEドッきゅん",
+        "url": "https://www.youtube.com/watch?v=2Fq2cwZf7pc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-02-03",
+      "viewCount": "1783万",
+      "likeCount": "-",
+      "commentCount": "-",
+      "increment_d1": "1596"
     },
     {
       "rank": 1943,
@@ -984,10 +984,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-27",
-      "viewCount": "1779万",
+      "viewCount": "1780万",
       "likeCount": "45.4万",
-      "commentCount": "6222",
-      "increment_d1": "8689"
+      "commentCount": "6227",
+      "increment_d1": "7992"
     },
     {
       "rank": 1944,
@@ -1007,36 +1007,13 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-07",
-      "viewCount": "1778万",
+      "viewCount": "1779万",
       "likeCount": "17.2万",
-      "commentCount": "5274",
-      "increment_d1": "6664"
+      "commentCount": "5275",
+      "increment_d1": "6261"
     },
     {
       "rank": 1945,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/MqfNcXPse6w/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MqfNcXPse6w",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "WANIMA「ヒューマン」OFFICIAL MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=MqfNcXPse6w",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "WANIMA",
-        "url": "https://www.youtube.com/channel/UCVvaL0oaZbvWNTa-xPeTxNw",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-11-15",
-      "viewCount": "1776万",
-      "likeCount": "7.4万",
-      "commentCount": "2745",
-      "increment_d1": "934"
-    },
-    {
-      "rank": 1946,
       "thumb": {
         "img": "https://i.ytimg.com/vi/z7eCaRQK918/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=z7eCaRQK918",
@@ -1053,10 +1030,33 @@
         "target": "_blank"
       },
       "publishedAt": "2024-12-31",
-      "viewCount": "1776万",
+      "viewCount": "1777万",
       "likeCount": "-",
       "commentCount": "1.1万",
-      "increment_d1": "1.08万"
+      "increment_d1": "1.26万"
+    },
+    {
+      "rank": 1946,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/MqfNcXPse6w/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MqfNcXPse6w",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "WANIMA「ヒューマン」OFFICIAL MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=MqfNcXPse6w",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "WANIMA",
+        "url": "https://www.youtube.com/channel/UCVvaL0oaZbvWNTa-xPeTxNw",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-11-15",
+      "viewCount": "1777万",
+      "likeCount": "7.4万",
+      "commentCount": "2745",
+      "increment_d1": "967"
     },
     {
       "rank": 1947,
@@ -1079,7 +1079,7 @@
       "viewCount": "1775万",
       "likeCount": "12万",
       "commentCount": "8306",
-      "increment_d1": "2726"
+      "increment_d1": "2849"
     },
     {
       "rank": 1948,
@@ -1101,8 +1101,8 @@
       "publishedAt": "2019-07-11",
       "viewCount": "1775万",
       "likeCount": "12.9万",
-      "commentCount": "426",
-      "increment_d1": "5409"
+      "commentCount": "429",
+      "increment_d1": "5313"
     },
     {
       "rank": 1949,
@@ -1125,7 +1125,7 @@
       "viewCount": "1774万",
       "likeCount": "8.3万",
       "commentCount": "3843",
-      "increment_d1": "4951"
+      "increment_d1": "5054"
     },
     {
       "rank": 1950,
@@ -1145,10 +1145,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-26",
-      "viewCount": "1773万",
+      "viewCount": "1774万",
       "likeCount": "12.3万",
       "commentCount": "3322",
-      "increment_d1": "9415"
+      "increment_d1": "1.02万"
     }
   ]
 }
