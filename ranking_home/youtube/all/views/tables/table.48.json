@@ -3,6 +3,29 @@
     {
       "rank": 2351,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/msSGCeCrJos/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=msSGCeCrJos",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "RADWIMPS - ラストバージン [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=msSGCeCrJos",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "RADWIMPS",
+        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-11-13",
+      "viewCount": "1498万",
+      "likeCount": "9.3万",
+      "commentCount": "64",
+      "increment_d1": "1.31万"
+    },
+    {
+      "rank": 2352,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/xQjfv_SHBQI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=xQjfv_SHBQI",
         "target": "_blank"
@@ -20,31 +43,8 @@
       "publishedAt": "2015-03-04",
       "viewCount": "1498万",
       "likeCount": "7.3万",
-      "commentCount": "3684",
-      "increment_d1": "336"
-    },
-    {
-      "rank": 2352,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/msSGCeCrJos/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=msSGCeCrJos",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "RADWIMPS - ラストバージン [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=msSGCeCrJos",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "RADWIMPS",
-        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-11-13",
-      "viewCount": "1497万",
-      "likeCount": "9.3万",
-      "commentCount": "62",
-      "increment_d1": "1.45万"
+      "commentCount": "3685",
+      "increment_d1": "343"
     },
     {
       "rank": 2353,
@@ -66,8 +66,8 @@
       "publishedAt": "2021-02-17",
       "viewCount": "1496万",
       "likeCount": "-",
-      "commentCount": "3574",
-      "increment_d1": "1334"
+      "commentCount": "3575",
+      "increment_d1": "1158"
     },
     {
       "rank": 2354,
@@ -89,8 +89,8 @@
       "publishedAt": "2019-09-10",
       "viewCount": "1495万",
       "likeCount": "8.8万",
-      "commentCount": "4805",
-      "increment_d1": "1498"
+      "commentCount": "4806",
+      "increment_d1": "1347"
     },
     {
       "rank": 2355,
@@ -113,33 +113,10 @@
       "viewCount": "1494万",
       "likeCount": "40万",
       "commentCount": "5.2万",
-      "increment_d1": "236"
+      "increment_d1": "231"
     },
     {
       "rank": 2356,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/XfEZzUtdINI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XfEZzUtdINI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "IVE 'ELEVEN -Japanese ver.-'Music Video",
-        "url": "https://www.youtube.com/watch?v=XfEZzUtdINI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-09-18",
-      "viewCount": "1493万",
-      "likeCount": "33.9万",
-      "commentCount": "8905",
-      "increment_d1": "1126"
-    },
-    {
-      "rank": 2357,
       "thumb": {
         "img": "https://i.ytimg.com/vi/LbtQM793jn8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=LbtQM793jn8",
@@ -156,10 +133,33 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-19",
-      "viewCount": "1493万",
+      "viewCount": "1494万",
       "likeCount": "9.2万",
-      "commentCount": "4507",
-      "increment_d1": "8689"
+      "commentCount": "4508",
+      "increment_d1": "8508"
+    },
+    {
+      "rank": 2357,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/XfEZzUtdINI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XfEZzUtdINI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "IVE 'ELEVEN -Japanese ver.-'Music Video",
+        "url": "https://www.youtube.com/watch?v=XfEZzUtdINI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-09-18",
+      "viewCount": "1494万",
+      "likeCount": "33.9万",
+      "commentCount": "8906",
+      "increment_d1": "1029"
     },
     {
       "rank": 2358,
@@ -181,8 +181,8 @@
       "publishedAt": "2016-06-10",
       "viewCount": "1492万",
       "likeCount": "9.9万",
-      "commentCount": "2197",
-      "increment_d1": "2008"
+      "commentCount": "2196",
+      "increment_d1": "1691"
     },
     {
       "rank": 2359,
@@ -205,33 +205,10 @@
       "viewCount": "1490万",
       "likeCount": "5.4万",
       "commentCount": "2711",
-      "increment_d1": "1528"
+      "increment_d1": "1428"
     },
     {
       "rank": 2360,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/IG7w7vBJuU0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IG7w7vBJuU0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "三代目 J SOUL BROTHERS from EXILE TRIBE / SO RIGHT",
-        "url": "https://www.youtube.com/watch?v=IG7w7vBJuU0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-11-21",
-      "viewCount": "1489万",
-      "likeCount": "2.3万",
-      "commentCount": "1031",
-      "increment_d1": "486"
-    },
-    {
-      "rank": 2361,
       "thumb": {
         "img": "https://i.ytimg.com/vi/93SHmWI5lFE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=93SHmWI5lFE",
@@ -251,7 +228,30 @@
       "viewCount": "1489万",
       "likeCount": "-",
       "commentCount": "686",
-      "increment_d1": "5419"
+      "increment_d1": "5254"
+    },
+    {
+      "rank": 2361,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/IG7w7vBJuU0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IG7w7vBJuU0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "三代目 J SOUL BROTHERS from EXILE TRIBE / SO RIGHT",
+        "url": "https://www.youtube.com/watch?v=IG7w7vBJuU0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-11-21",
+      "viewCount": "1489万",
+      "likeCount": "2.3万",
+      "commentCount": "1031",
+      "increment_d1": "547"
     },
     {
       "rank": 2362,
@@ -271,10 +271,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-11-10",
-      "viewCount": "1488万",
+      "viewCount": "1489万",
       "likeCount": "12.8万",
-      "commentCount": "2882",
-      "increment_d1": "3378"
+      "commentCount": "2883",
+      "increment_d1": "3280"
     },
     {
       "rank": 2363,
@@ -297,7 +297,7 @@
       "viewCount": "1487万",
       "likeCount": "-",
       "commentCount": "1.1万",
-      "increment_d1": "1879"
+      "increment_d1": "1987"
     },
     {
       "rank": 2364,
@@ -320,10 +320,33 @@
       "viewCount": "1486万",
       "likeCount": "8.5万",
       "commentCount": "1.7万",
-      "increment_d1": "6292"
+      "increment_d1": "6361"
     },
     {
       "rank": 2365,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/at3CEJvdg2I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=at3CEJvdg2I",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – lovin’【LIVE from “ゼンジン未到とヴェルトラウム〜銘銘編〜”】",
+        "url": "https://www.youtube.com/watch?v=at3CEJvdg2I",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-02-25",
+      "viewCount": "1486万",
+      "likeCount": "10.2万",
+      "commentCount": "3091",
+      "increment_d1": "3.09万"
+    },
+    {
+      "rank": 2366,
       "thumb": {
         "img": "https://i.ytimg.com/vi/xkGZJbXEhAM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=xkGZJbXEhAM",
@@ -343,30 +366,7 @@
       "viewCount": "1485万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "1232"
-    },
-    {
-      "rank": 2366,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/at3CEJvdg2I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=at3CEJvdg2I",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – lovin’【LIVE from “ゼンジン未到とヴェルトラウム〜銘銘編〜”】",
-        "url": "https://www.youtube.com/watch?v=at3CEJvdg2I",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-02-25",
-      "viewCount": "1483万",
-      "likeCount": "10.2万",
-      "commentCount": "3090",
-      "increment_d1": "3.24万"
+      "increment_d1": "1182"
     },
     {
       "rank": 2367,
@@ -386,10 +386,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-31",
-      "viewCount": "1483万",
+      "viewCount": "1484万",
       "likeCount": "24万",
       "commentCount": "5033",
-      "increment_d1": "5645"
+      "increment_d1": "5532"
     },
     {
       "rank": 2368,
@@ -412,7 +412,7 @@
       "viewCount": "1482万",
       "likeCount": "16.8万",
       "commentCount": "4064",
-      "increment_d1": "1452"
+      "increment_d1": "1351"
     },
     {
       "rank": 2369,
@@ -435,7 +435,7 @@
       "viewCount": "1482万",
       "likeCount": "3.1万",
       "commentCount": "4244",
-      "increment_d1": "1060"
+      "increment_d1": "935"
     },
     {
       "rank": 2370,
@@ -458,7 +458,7 @@
       "viewCount": "1481万",
       "likeCount": "4.4万",
       "commentCount": "2815",
-      "increment_d1": "522"
+      "increment_d1": "624"
     },
     {
       "rank": 2371,
@@ -481,7 +481,7 @@
       "viewCount": "1481万",
       "likeCount": "14.3万",
       "commentCount": "2.9万",
-      "increment_d1": "790"
+      "increment_d1": "876"
     },
     {
       "rank": 2372,
@@ -504,7 +504,7 @@
       "viewCount": "1479万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "184"
+      "increment_d1": "169"
     },
     {
       "rank": 2373,
@@ -527,7 +527,7 @@
       "viewCount": "1478万",
       "likeCount": "-",
       "commentCount": "5207",
-      "increment_d1": "1088"
+      "increment_d1": "962"
     },
     {
       "rank": 2374,
@@ -547,10 +547,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-10-15",
-      "viewCount": "1477万",
+      "viewCount": "1478万",
       "likeCount": "17.4万",
       "commentCount": "4423",
-      "increment_d1": "3944"
+      "increment_d1": "3021"
     },
     {
       "rank": 2375,
@@ -570,10 +570,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-04-29",
-      "viewCount": "1475万",
+      "viewCount": "1476万",
       "likeCount": "20万",
       "commentCount": "2591",
-      "increment_d1": "3481"
+      "increment_d1": "3458"
     },
     {
       "rank": 2376,
@@ -596,10 +596,33 @@
       "viewCount": "1475万",
       "likeCount": "21.9万",
       "commentCount": "3637",
-      "increment_d1": "790"
+      "increment_d1": "1071"
     },
     {
       "rank": 2377,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/G8oY6pC0kgA/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=G8oY6pC0kgA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SixTONES – ここに帰ってきて [YouTube ver.]",
+        "url": "https://www.youtube.com/watch?v=G8oY6pC0kgA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SixTONES",
+        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-05-10",
+      "viewCount": "1474万",
+      "likeCount": "10.2万",
+      "commentCount": "1.4万",
+      "increment_d1": "2986"
+    },
+    {
+      "rank": 2378,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3_52f2_DioQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=3_52f2_DioQ",
@@ -619,30 +642,7 @@
       "viewCount": "1474万",
       "likeCount": "-",
       "commentCount": "3326",
-      "increment_d1": "1038"
-    },
-    {
-      "rank": 2378,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/G8oY6pC0kgA/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=G8oY6pC0kgA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SixTONES – ここに帰ってきて [YouTube ver.]",
-        "url": "https://www.youtube.com/watch?v=G8oY6pC0kgA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SixTONES",
-        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-05-10",
-      "viewCount": "1473万",
-      "likeCount": "10.2万",
-      "commentCount": "1.4万",
-      "increment_d1": "2925"
+      "increment_d1": "1099"
     },
     {
       "rank": 2379,
@@ -662,10 +662,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-01-18",
-      "viewCount": "1473万",
+      "viewCount": "1474万",
       "likeCount": "13万",
       "commentCount": "4021",
-      "increment_d1": "876"
+      "increment_d1": "648"
     },
     {
       "rank": 2380,
@@ -688,33 +688,10 @@
       "viewCount": "1473万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "846"
+      "increment_d1": "931"
     },
     {
       "rank": 2381,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/EFUSUcbLHK0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EFUSUcbLHK0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "『劇場版「 #鬼滅の刃 」無限列車編』公開中PV第2弾",
-        "url": "https://www.youtube.com/watch?v=EFUSUcbLHK0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アニプレックス チャンネル",
-        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-12-20",
-      "viewCount": "1473万",
-      "likeCount": "14.5万",
-      "commentCount": "-",
-      "increment_d1": "218"
-    },
-    {
-      "rank": 2382,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ZYwDEkO9sYk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ZYwDEkO9sYk",
@@ -734,7 +711,30 @@
       "viewCount": "1473万",
       "likeCount": "16.1万",
       "commentCount": "2654",
-      "increment_d1": "1302"
+      "increment_d1": "1192"
+    },
+    {
+      "rank": 2382,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/EFUSUcbLHK0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=EFUSUcbLHK0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "『劇場版「 #鬼滅の刃 」無限列車編』公開中PV第2弾",
+        "url": "https://www.youtube.com/watch?v=EFUSUcbLHK0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "アニプレックス チャンネル",
+        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-12-20",
+      "viewCount": "1473万",
+      "likeCount": "14.5万",
+      "commentCount": "-",
+      "increment_d1": "131"
     },
     {
       "rank": 2383,
@@ -754,10 +754,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-11",
-      "viewCount": "1470万",
+      "viewCount": "1472万",
       "likeCount": "52.6万",
       "commentCount": "1.6万",
-      "increment_d1": "1.74万"
+      "increment_d1": "1.36万"
     },
     {
       "rank": 2384,
@@ -779,34 +779,11 @@
       "publishedAt": "2020-03-31",
       "viewCount": "1470万",
       "likeCount": "23万",
-      "commentCount": "5561",
-      "increment_d1": "1514"
+      "commentCount": "5562",
+      "increment_d1": "1749"
     },
     {
       "rank": 2385,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/30XOQJrpMP8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=30XOQJrpMP8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "三代目 J SOUL BROTHERS from EXILE TRIBE / STORM RIDERS feat.SLASH",
-        "url": "https://www.youtube.com/watch?v=30XOQJrpMP8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-04-06",
-      "viewCount": "1468万",
-      "likeCount": "3.5万",
-      "commentCount": "1250",
-      "increment_d1": "145"
-    },
-    {
-      "rank": 2386,
       "thumb": {
         "img": "https://i.ytimg.com/vi/5whFTc6SaI8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=5whFTc6SaI8",
@@ -826,7 +803,30 @@
       "viewCount": "1468万",
       "likeCount": "14.3万",
       "commentCount": "3211",
-      "increment_d1": "2520"
+      "increment_d1": "2418"
+    },
+    {
+      "rank": 2386,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/30XOQJrpMP8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=30XOQJrpMP8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "三代目 J SOUL BROTHERS from EXILE TRIBE / STORM RIDERS feat.SLASH",
+        "url": "https://www.youtube.com/watch?v=30XOQJrpMP8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-04-06",
+      "viewCount": "1468万",
+      "likeCount": "3.5万",
+      "commentCount": "1250",
+      "increment_d1": "161"
     },
     {
       "rank": 2387,
@@ -846,10 +846,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-29",
-      "viewCount": "1464万",
+      "viewCount": "1465万",
       "likeCount": "7.3万",
-      "commentCount": "3745",
-      "increment_d1": "1.12万"
+      "commentCount": "3749",
+      "increment_d1": "1.14万"
     },
     {
       "rank": 2388,
@@ -872,7 +872,7 @@
       "viewCount": "1463万",
       "likeCount": "26.2万",
       "commentCount": "4514",
-      "increment_d1": "1388"
+      "increment_d1": "1112"
     },
     {
       "rank": 2389,
@@ -894,8 +894,8 @@
       "publishedAt": "2015-12-01",
       "viewCount": "1462万",
       "likeCount": "5.3万",
-      "commentCount": "3456",
-      "increment_d1": "1167"
+      "commentCount": "3455",
+      "increment_d1": "940"
     },
     {
       "rank": 2390,
@@ -918,7 +918,7 @@
       "viewCount": "1462万",
       "likeCount": "28.3万",
       "commentCount": "566",
-      "increment_d1": "488"
+      "increment_d1": "527"
     },
     {
       "rank": 2391,
@@ -941,7 +941,7 @@
       "viewCount": "1461万",
       "likeCount": "-",
       "commentCount": "1.5万",
-      "increment_d1": "1252"
+      "increment_d1": "1194"
     },
     {
       "rank": 2392,
@@ -964,10 +964,33 @@
       "viewCount": "1461万",
       "likeCount": "4.1万",
       "commentCount": "1472",
-      "increment_d1": "466"
+      "increment_d1": "502"
     },
     {
       "rank": 2393,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Zf59GBy4564/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Zf59GBy4564",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "JO1｜'With Us' Official MV",
+        "url": "https://www.youtube.com/watch?v=Zf59GBy4564",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "JO1",
+        "url": "https://www.youtube.com/channel/UCsmXiDP8S40uBeJYxvyulmA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-05-03",
+      "viewCount": "1461万",
+      "likeCount": "7.6万",
+      "commentCount": "8万",
+      "increment_d1": "813"
+    },
+    {
+      "rank": 2394,
       "thumb": {
         "img": "https://i.ytimg.com/vi/2hTnAKvnDrA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2hTnAKvnDrA",
@@ -987,30 +1010,7 @@
       "viewCount": "1460万",
       "likeCount": "4.6万",
       "commentCount": "2443",
-      "increment_d1": "340"
-    },
-    {
-      "rank": 2394,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Zf59GBy4564/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Zf59GBy4564",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "JO1｜'With Us' Official MV",
-        "url": "https://www.youtube.com/watch?v=Zf59GBy4564",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "JO1",
-        "url": "https://www.youtube.com/channel/UCsmXiDP8S40uBeJYxvyulmA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-05-03",
-      "viewCount": "1460万",
-      "likeCount": "7.6万",
-      "commentCount": "8万",
-      "increment_d1": "926"
+      "increment_d1": "337"
     },
     {
       "rank": 2395,
@@ -1033,7 +1033,7 @@
       "viewCount": "1460万",
       "likeCount": "5.4万",
       "commentCount": "1308",
-      "increment_d1": "2512"
+      "increment_d1": "2482"
     },
     {
       "rank": 2396,
@@ -1055,8 +1055,8 @@
       "publishedAt": "2017-05-11",
       "viewCount": "1459万",
       "likeCount": "6.6万",
-      "commentCount": "4025",
-      "increment_d1": "517"
+      "commentCount": "4024",
+      "increment_d1": "528"
     },
     {
       "rank": 2397,
@@ -1079,7 +1079,7 @@
       "viewCount": "1458万",
       "likeCount": "13.8万",
       "commentCount": "3561",
-      "increment_d1": "1482"
+      "increment_d1": "1514"
     },
     {
       "rank": 2398,
@@ -1102,7 +1102,7 @@
       "viewCount": "1457万",
       "likeCount": "22.2万",
       "commentCount": "5004",
-      "increment_d1": "2445"
+      "increment_d1": "2557"
     },
     {
       "rank": 2399,
@@ -1124,31 +1124,31 @@
       "publishedAt": "2019-02-25",
       "viewCount": "1457万",
       "likeCount": "13.1万",
-      "commentCount": "5099",
-      "increment_d1": "1106"
+      "commentCount": "5098",
+      "increment_d1": "1122"
     },
     {
       "rank": 2400,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/StkLx0e4f6c/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=StkLx0e4f6c",
+        "img": "https://i.ytimg.com/vi/kiTn9pgnj8I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=kiTn9pgnj8I",
         "target": "_blank"
       },
       "title": {
-        "text": "YeYe - ゆらゆら（Official Music Video）",
-        "url": "https://www.youtube.com/watch?v=StkLx0e4f6c",
+        "text": "indigo la End「チューリップ」",
+        "url": "https://www.youtube.com/watch?v=kiTn9pgnj8I",
         "target": "_blank"
       },
       "channel": {
-        "text": "RALLYE LABEL",
-        "url": "https://www.youtube.com/channel/UCwqmdvPrbfKpW9rovY_AbKw",
+        "text": "indigo la End Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXKSbzihU5cu0U4qbbjB3GA",
         "target": "_blank"
       },
-      "publishedAt": "2017-08-31",
+      "publishedAt": "2020-03-26",
       "viewCount": "1456万",
-      "likeCount": "45.7万",
-      "commentCount": "7183",
-      "increment_d1": "1083"
+      "likeCount": "16万",
+      "commentCount": "3756",
+      "increment_d1": "3071"
     }
   ]
 }

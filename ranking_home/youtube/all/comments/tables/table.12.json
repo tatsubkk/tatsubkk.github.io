@@ -18,7 +18,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-14",
-      "viewCount": "1億4282万",
+      "viewCount": "1億4285万",
       "likeCount": "73.3万",
       "commentCount": "1.81万"
     },
@@ -40,7 +40,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-06-28",
-      "viewCount": "9530万",
+      "viewCount": "9532万",
       "likeCount": "84.4万",
       "commentCount": "1.81万"
     },
@@ -150,7 +150,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-08-19",
-      "viewCount": "8291万",
+      "viewCount": "8294万",
       "likeCount": "45万",
       "commentCount": "1.8万"
     },
@@ -172,12 +172,34 @@
         "target": "_blank"
       },
       "publishedAt": "2017-08-22",
-      "viewCount": "7206万",
+      "viewCount": "7207万",
       "likeCount": "52.5万",
       "commentCount": "1.79万"
     },
     {
       "rank": 559,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Xs0Lxif1u9E/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Xs0Lxif1u9E",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "RADWIMPS - すずめ feat.十明 [Official Lyric Video]",
+        "url": "https://www.youtube.com/watch?v=Xs0Lxif1u9E",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "RADWIMPS",
+        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-10-05",
+      "viewCount": "1億858万",
+      "likeCount": "121万",
+      "commentCount": "1.79万"
+    },
+    {
+      "rank": 560,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qGNO0Hkgd00/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=qGNO0Hkgd00",
@@ -199,51 +221,7 @@
       "commentCount": "1.79万"
     },
     {
-      "rank": 560,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Xs0Lxif1u9E/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Xs0Lxif1u9E",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "RADWIMPS - すずめ feat.十明 [Official Lyric Video]",
-        "url": "https://www.youtube.com/watch?v=Xs0Lxif1u9E",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "RADWIMPS",
-        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-10-05",
-      "viewCount": "1億851万",
-      "likeCount": "121万",
-      "commentCount": "1.79万"
-    },
-    {
       "rank": 561,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/rpIsjz-oLOQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rpIsjz-oLOQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ヒロイン育成計画 feat. 涼海ひより（CV：水瀬いのり）／ HoneyWorks",
-        "url": "https://www.youtube.com/watch?v=rpIsjz-oLOQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "HoneyWorks OFFICIAL",
-        "url": "https://www.youtube.com/channel/UCAaGaynFpku5cAx6OOSrW-w",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-01-15",
-      "viewCount": "5769万",
-      "likeCount": "60.8万",
-      "commentCount": "1.79万"
-    },
-    {
-      "rank": 562,
       "thumb": {
         "img": "https://i.ytimg.com/vi/L262NKlSl4s/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=L262NKlSl4s",
@@ -260,8 +238,30 @@
         "target": "_blank"
       },
       "publishedAt": "2025-01-20",
-      "viewCount": "5974万",
-      "likeCount": "37.3万",
+      "viewCount": "5982万",
+      "likeCount": "37.4万",
+      "commentCount": "1.79万"
+    },
+    {
+      "rank": 562,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/rpIsjz-oLOQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rpIsjz-oLOQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ヒロイン育成計画 feat. 涼海ひより（CV：水瀬いのり）／ HoneyWorks",
+        "url": "https://www.youtube.com/watch?v=rpIsjz-oLOQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "HoneyWorks OFFICIAL",
+        "url": "https://www.youtube.com/channel/UCAaGaynFpku5cAx6OOSrW-w",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-01-15",
+      "viewCount": "5770万",
+      "likeCount": "60.8万",
       "commentCount": "1.79万"
     },
     {
@@ -282,7 +282,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-12-26",
-      "viewCount": "1億1209万",
+      "viewCount": "1億1211万",
       "likeCount": "64.6万",
       "commentCount": "1.79万"
     },
@@ -304,7 +304,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-16",
-      "viewCount": "1億9104万",
+      "viewCount": "1億9107万",
       "likeCount": "51.7万",
       "commentCount": "1.78万"
     },
@@ -328,7 +328,7 @@
       "publishedAt": "2017-12-04",
       "viewCount": "3321万",
       "likeCount": "28.5万",
-      "commentCount": "1.77万"
+      "commentCount": "1.78万"
     },
     {
       "rank": 566,
@@ -370,7 +370,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-09",
-      "viewCount": "6339万",
+      "viewCount": "6340万",
       "likeCount": "-",
       "commentCount": "1.77万"
     },
@@ -392,7 +392,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-07-30",
-      "viewCount": "2974万",
+      "viewCount": "2975万",
       "likeCount": "26.1万",
       "commentCount": "1.77万"
     },
@@ -414,8 +414,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-07",
-      "viewCount": "5878万",
-      "likeCount": "67万",
+      "viewCount": "5882万",
+      "likeCount": "67.1万",
       "commentCount": "1.77万"
     },
     {
@@ -458,7 +458,7 @@
         "target": "_blank"
       },
       "publishedAt": "2011-06-24",
-      "viewCount": "1億679万",
+      "viewCount": "1億682万",
       "likeCount": "29.4万",
       "commentCount": "1.76万"
     },
@@ -502,12 +502,34 @@
         "target": "_blank"
       },
       "publishedAt": "2025-05-05",
-      "viewCount": "1278万",
+      "viewCount": "1279万",
       "likeCount": "11.6万",
       "commentCount": "1.75万"
     },
     {
       "rank": 574,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/2eOg5DoYuwU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=2eOg5DoYuwU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ファイトソング (Fight Song) - Eve Music Video",
+        "url": "https://www.youtube.com/watch?v=2eOg5DoYuwU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Eve",
+        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-12-28",
+      "viewCount": "7164万",
+      "likeCount": "104万",
+      "commentCount": "1.75万"
+    },
+    {
+      "rank": 575,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3_r9KsfdgpU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=3_r9KsfdgpU",
@@ -529,28 +551,6 @@
       "commentCount": "1.75万"
     },
     {
-      "rank": 574,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/2eOg5DoYuwU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=2eOg5DoYuwU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ファイトソング (Fight Song) - Eve Music Video",
-        "url": "https://www.youtube.com/watch?v=2eOg5DoYuwU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Eve",
-        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-12-28",
-      "viewCount": "7160万",
-      "likeCount": "104万",
-      "commentCount": "1.75万"
-    },
-    {
       "rank": 576,
       "thumb": {
         "img": "https://i.ytimg.com/vi/p-o_bMkzOW0/hqdefault.jpg",
@@ -568,7 +568,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-03-09",
-      "viewCount": "9127万",
+      "viewCount": "9128万",
       "likeCount": "77.1万",
       "commentCount": "1.74万"
     },
@@ -634,7 +634,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-14",
-      "viewCount": "1521万",
+      "viewCount": "1522万",
       "likeCount": "9.7万",
       "commentCount": "1.74万"
     },
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-10",
-      "viewCount": "1億67万",
+      "viewCount": "1億69万",
       "likeCount": "54.4万",
       "commentCount": "1.73万"
     },
@@ -678,7 +678,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-17",
-      "viewCount": "3838万",
+      "viewCount": "3839万",
       "likeCount": "-",
       "commentCount": "1.73万"
     },
@@ -722,7 +722,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-02",
-      "viewCount": "1億6825万",
+      "viewCount": "1億6832万",
       "likeCount": "74.1万",
       "commentCount": "1.73万"
     },
@@ -744,7 +744,7 @@
         "target": "_blank"
       },
       "publishedAt": "2011-04-11",
-      "viewCount": "5947万",
+      "viewCount": "5948万",
       "likeCount": "25.9万",
       "commentCount": "1.72万"
     },
@@ -788,7 +788,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-13",
-      "viewCount": "1億1522万",
+      "viewCount": "1億1525万",
       "likeCount": "65.6万",
       "commentCount": "1.71万"
     },
@@ -810,7 +810,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-08-24",
-      "viewCount": "1211万",
+      "viewCount": "1212万",
       "likeCount": "22.2万",
       "commentCount": "1.71万"
     },
@@ -854,7 +854,7 @@
         "target": "_blank"
       },
       "publishedAt": "2025-02-09",
-      "viewCount": "2197万",
+      "viewCount": "2199万",
       "likeCount": "33.3万",
       "commentCount": "1.71万"
     },
@@ -876,7 +876,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-18",
-      "viewCount": "8882万",
+      "viewCount": "8885万",
       "likeCount": "61.6万",
       "commentCount": "1.71万"
     },
@@ -898,7 +898,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-05-27",
-      "viewCount": "1億645万",
+      "viewCount": "1億651万",
       "likeCount": "71.7万",
       "commentCount": "1.71万"
     },
@@ -920,7 +920,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-14",
-      "viewCount": "2627万",
+      "viewCount": "2628万",
       "likeCount": "42.6万",
       "commentCount": "1.71万"
     },
@@ -964,7 +964,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-12",
-      "viewCount": "4217万",
+      "viewCount": "4218万",
       "likeCount": "-",
       "commentCount": "1.7万"
     },
@@ -986,7 +986,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-10-24",
-      "viewCount": "1258万",
+      "viewCount": "1259万",
       "likeCount": "-",
       "commentCount": "1.7万"
     },
@@ -1030,7 +1030,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-04-30",
-      "viewCount": "3089万",
+      "viewCount": "3090万",
       "likeCount": "56.8万",
       "commentCount": "1.69万"
     },
@@ -1096,8 +1096,8 @@
         "target": "_blank"
       },
       "publishedAt": "2011-07-15",
-      "viewCount": "1億267万",
-      "likeCount": "21.4万",
+      "viewCount": "1億269万",
+      "likeCount": "21.5万",
       "commentCount": "1.68万"
     }
   ]

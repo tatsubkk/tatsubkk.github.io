@@ -3,6 +3,28 @@
     {
       "rank": 1701,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/iLnX9s0EJhU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iLnX9s0EJhU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "AAA / 「Lil' Infinity」Music Video",
+        "url": "https://www.youtube.com/watch?v=iLnX9s0EJhU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-02-13",
+      "viewCount": "3576万",
+      "likeCount": "10.9万",
+      "commentCount": "5049"
+    },
+    {
+      "rank": 1701,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/URo8ZdIRCmw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=URo8ZdIRCmw",
         "target": "_blank"
@@ -21,28 +43,6 @@
       "viewCount": "1350万",
       "likeCount": "-",
       "commentCount": "5049"
-    },
-    {
-      "rank": 1702,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/iLnX9s0EJhU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=iLnX9s0EJhU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "AAA / 「Lil' Infinity」Music Video",
-        "url": "https://www.youtube.com/watch?v=iLnX9s0EJhU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-02-13",
-      "viewCount": "3576万",
-      "likeCount": "10.9万",
-      "commentCount": "5048"
     },
     {
       "rank": 1703,
@@ -64,7 +64,7 @@
       "publishedAt": "2019-09-18",
       "viewCount": "1268万",
       "likeCount": "10.3万",
-      "commentCount": "5046"
+      "commentCount": "5045"
     },
     {
       "rank": 1704,
@@ -106,7 +106,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-31",
-      "viewCount": "1483万",
+      "viewCount": "1484万",
       "likeCount": "24万",
       "commentCount": "5033"
     },
@@ -152,7 +152,7 @@
       "publishedAt": "2020-09-27",
       "viewCount": "1185万",
       "likeCount": "14.8万",
-      "commentCount": "5031"
+      "commentCount": "5032"
     },
     {
       "rank": 1708,
@@ -172,31 +172,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-10",
-      "viewCount": "2570万",
+      "viewCount": "2571万",
       "likeCount": "27万",
-      "commentCount": "5023"
-    },
-    {
-      "rank": 1709,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/b5lsuPxMFmw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=b5lsuPxMFmw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BURNOUT SYNDROMES 『PHOENIX』Music Video（TVアニメ「ハイキュー!! TO THE TOP」オープニングテーマ）",
-        "url": "https://www.youtube.com/watch?v=b5lsuPxMFmw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BURNOUT SYNDROMES Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXos4VWtLz_TNjLZy6F8mdw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-01-31",
-      "viewCount": "2091万",
-      "likeCount": "25万",
-      "commentCount": "5020"
+      "commentCount": "5026"
     },
     {
       "rank": 1709,
@@ -216,8 +194,30 @@
         "target": "_blank"
       },
       "publishedAt": "2017-05-09",
-      "viewCount": "5857万",
+      "viewCount": "5858万",
       "likeCount": "10.6万",
+      "commentCount": "5021"
+    },
+    {
+      "rank": 1710,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/b5lsuPxMFmw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=b5lsuPxMFmw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BURNOUT SYNDROMES 『PHOENIX』Music Video（TVアニメ「ハイキュー!! TO THE TOP」オープニングテーマ）",
+        "url": "https://www.youtube.com/watch?v=b5lsuPxMFmw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BURNOUT SYNDROMES Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXos4VWtLz_TNjLZy6F8mdw",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-01-31",
+      "viewCount": "2091万",
+      "likeCount": "25万",
       "commentCount": "5020"
     },
     {
@@ -240,7 +240,7 @@
       "publishedAt": "2022-01-26",
       "viewCount": "1865万",
       "likeCount": "-",
-      "commentCount": "5011"
+      "commentCount": "5012"
     },
     {
       "rank": 1712,
@@ -304,9 +304,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-09",
-      "viewCount": "1507万",
+      "viewCount": "1508万",
       "likeCount": "9.9万",
-      "commentCount": "4999"
+      "commentCount": "5000"
     },
     {
       "rank": 1715,
@@ -326,9 +326,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-07",
-      "viewCount": "3392万",
+      "viewCount": "3393万",
       "likeCount": "33.8万",
-      "commentCount": "4992"
+      "commentCount": "4993"
     },
     {
       "rank": 1716,
@@ -350,7 +350,7 @@
       "publishedAt": "2015-10-05",
       "viewCount": "2620万",
       "likeCount": "10.3万",
-      "commentCount": "4990"
+      "commentCount": "4991"
     },
     {
       "rank": 1717,
@@ -370,12 +370,12 @@
         "target": "_blank"
       },
       "publishedAt": "2013-12-17",
-      "viewCount": "6864万",
+      "viewCount": "6865万",
       "likeCount": "10.8万",
-      "commentCount": "4982"
+      "commentCount": "4983"
     },
     {
-      "rank": 1717,
+      "rank": 1718,
       "thumb": {
         "img": "https://i.ytimg.com/vi/P_VJ_flgEVo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=P_VJ_flgEVo",
@@ -502,31 +502,9 @@
         "target": "_blank"
       },
       "publishedAt": "2018-01-30",
-      "viewCount": "2369万",
+      "viewCount": "2370万",
       "likeCount": "23.1万",
       "commentCount": "4951"
-    },
-    {
-      "rank": 1724,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/t9aH2sZJpP8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=t9aH2sZJpP8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV】しなこワールド🌷💜 /  あぃりDX・しなこ",
-        "url": "https://www.youtube.com/watch?v=t9aH2sZJpP8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "しなこ Shinako / ASMR",
-        "url": "https://www.youtube.com/channel/UCSPkmZyeHlDNE-6YMSg5Fbg",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-03-11",
-      "viewCount": "4174万",
-      "likeCount": "10.7万",
-      "commentCount": "4942"
     },
     {
       "rank": 1724,
@@ -546,12 +524,12 @@
         "target": "_blank"
       },
       "publishedAt": "2010-12-13",
-      "viewCount": "4219万",
+      "viewCount": "4220万",
       "likeCount": "10.6万",
-      "commentCount": "4942"
+      "commentCount": "4945"
     },
     {
-      "rank": 1724,
+      "rank": 1725,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ZHAnZTVF_10/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ZHAnZTVF_10",
@@ -570,7 +548,29 @@
       "publishedAt": "2022-03-14",
       "viewCount": "1671万",
       "likeCount": "25.2万",
-      "commentCount": "4942"
+      "commentCount": "4941"
+    },
+    {
+      "rank": 1726,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/t9aH2sZJpP8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=t9aH2sZJpP8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV】しなこワールド🌷💜 /  あぃりDX・しなこ",
+        "url": "https://www.youtube.com/watch?v=t9aH2sZJpP8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "しなこ Shinako / ASMR",
+        "url": "https://www.youtube.com/channel/UCSPkmZyeHlDNE-6YMSg5Fbg",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-03-11",
+      "viewCount": "4177万",
+      "likeCount": "10.7万",
+      "commentCount": "4940"
     },
     {
       "rank": 1727,
@@ -590,9 +590,9 @@
         "target": "_blank"
       },
       "publishedAt": "2025-01-24",
-      "viewCount": "1864万",
+      "viewCount": "1867万",
       "likeCount": "23.7万",
-      "commentCount": "4930"
+      "commentCount": "4932"
     },
     {
       "rank": 1728,
@@ -634,9 +634,31 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-03",
-      "viewCount": "2736万",
+      "viewCount": "2737万",
       "likeCount": "14.7万",
       "commentCount": "4911"
+    },
+    {
+      "rank": 1730,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Zy_KuTFwot4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Zy_KuTFwot4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "平井 大 / Stand by me, Stand by you.（Lyric Video）",
+        "url": "https://www.youtube.com/watch?v=Zy_KuTFwot4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "平井 大",
+        "url": "https://www.youtube.com/channel/UCOXlVW6fGmawr3LR154FlEg",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-09-09",
+      "viewCount": "8823万",
+      "likeCount": "33.3万",
+      "commentCount": "4908"
     },
     {
       "rank": 1730,
@@ -656,30 +678,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-02-01",
-      "viewCount": "3643万",
-      "likeCount": "27.9万",
-      "commentCount": "4910"
-    },
-    {
-      "rank": 1731,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Zy_KuTFwot4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Zy_KuTFwot4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "平井 大 / Stand by me, Stand by you.（Lyric Video）",
-        "url": "https://www.youtube.com/watch?v=Zy_KuTFwot4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "平井 大",
-        "url": "https://www.youtube.com/channel/UCOXlVW6fGmawr3LR154FlEg",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-09-09",
-      "viewCount": "8822万",
-      "likeCount": "33.3万",
+      "viewCount": "3645万",
+      "likeCount": "28万",
       "commentCount": "4908"
     },
     {
@@ -722,9 +722,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-11-11",
-      "viewCount": "3826万",
+      "viewCount": "3827万",
       "likeCount": "11.5万",
-      "commentCount": "4903"
+      "commentCount": "4904"
     },
     {
       "rank": 1734,
@@ -744,9 +744,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-23",
-      "viewCount": "1203万",
+      "viewCount": "1204万",
       "likeCount": "24.5万",
-      "commentCount": "4895"
+      "commentCount": "4896"
     },
     {
       "rank": 1735,
@@ -766,9 +766,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-08-22",
-      "viewCount": "4991万",
+      "viewCount": "4992万",
       "likeCount": "10.8万",
-      "commentCount": "4889"
+      "commentCount": "4890"
     },
     {
       "rank": 1736,
@@ -790,7 +790,7 @@
       "publishedAt": "2018-09-19",
       "viewCount": "2528万",
       "likeCount": "21.7万",
-      "commentCount": "4887"
+      "commentCount": "4889"
     },
     {
       "rank": 1737,
@@ -810,9 +810,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-13",
-      "viewCount": "2807万",
+      "viewCount": "2808万",
       "likeCount": "15.8万",
-      "commentCount": "4883"
+      "commentCount": "4884"
     },
     {
       "rank": 1738,
@@ -832,9 +832,9 @@
         "target": "_blank"
       },
       "publishedAt": "2014-08-23",
-      "viewCount": "3049万",
+      "viewCount": "3050万",
       "likeCount": "10.8万",
-      "commentCount": "4879"
+      "commentCount": "4880"
     },
     {
       "rank": 1739,
@@ -878,7 +878,7 @@
       "publishedAt": "2010-12-10",
       "viewCount": "3062万",
       "likeCount": "9万",
-      "commentCount": "4855"
+      "commentCount": "4856"
     },
     {
       "rank": 1741,
@@ -898,7 +898,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-07-09",
-      "viewCount": "2857万",
+      "viewCount": "2858万",
       "likeCount": "9.5万",
       "commentCount": "4843"
     },
@@ -925,7 +925,7 @@
       "commentCount": "4840"
     },
     {
-      "rank": 1743,
+      "rank": 1742,
       "thumb": {
         "img": "https://i.ytimg.com/vi/N4F3bjlL_H4/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=N4F3bjlL_H4",
@@ -944,7 +944,7 @@
       "publishedAt": "2022-03-02",
       "viewCount": "1450万",
       "likeCount": "28.3万",
-      "commentCount": "4839"
+      "commentCount": "4840"
     },
     {
       "rank": 1744,
@@ -964,12 +964,34 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-07",
-      "viewCount": "2079万",
+      "viewCount": "2080万",
       "likeCount": "19.1万",
       "commentCount": "4827"
     },
     {
       "rank": 1745,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ru6i9lo4zBE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ru6i9lo4zBE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "back number - ブルーアンバー 【カンテレ・フジテレビ系月10ドラマ『あなたを奪ったその日から』主題歌】",
+        "url": "https://www.youtube.com/watch?v=ru6i9lo4zBE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "back number",
+        "url": "https://www.youtube.com/channel/UCgipy6-EqjT-1BCDndXX1PA",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-04-28",
+      "viewCount": "2371万",
+      "likeCount": "14.3万",
+      "commentCount": "4821"
+    },
+    {
+      "rank": 1746,
       "thumb": {
         "img": "https://i.ytimg.com/vi/t6o2TpzpPGU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=t6o2TpzpPGU",
@@ -991,28 +1013,6 @@
       "commentCount": "4820"
     },
     {
-      "rank": 1746,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ru6i9lo4zBE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ru6i9lo4zBE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "back number - ブルーアンバー 【カンテレ・フジテレビ系月10ドラマ『あなたを奪ったその日から』主題歌】",
-        "url": "https://www.youtube.com/watch?v=ru6i9lo4zBE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "back number",
-        "url": "https://www.youtube.com/channel/UCgipy6-EqjT-1BCDndXX1PA",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-04-28",
-      "viewCount": "2363万",
-      "likeCount": "14.2万",
-      "commentCount": "4813"
-    },
-    {
       "rank": 1747,
       "thumb": {
         "img": "https://i.ytimg.com/vi/U8pJgoOhiDs/hqdefault.jpg",
@@ -1030,7 +1030,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-18",
-      "viewCount": "2918万",
+      "viewCount": "2919万",
       "likeCount": "15.4万",
       "commentCount": "4810"
     },
@@ -1054,7 +1054,7 @@
       "publishedAt": "2019-09-10",
       "viewCount": "1495万",
       "likeCount": "8.8万",
-      "commentCount": "4805"
+      "commentCount": "4806"
     },
     {
       "rank": 1749,
@@ -1074,7 +1074,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-16",
-      "viewCount": "3414万",
+      "viewCount": "3416万",
       "likeCount": "22.2万",
       "commentCount": "4798"
     },

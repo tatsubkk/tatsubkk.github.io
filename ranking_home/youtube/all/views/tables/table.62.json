@@ -21,7 +21,7 @@
       "viewCount": "1110万",
       "likeCount": "3.1万",
       "commentCount": "656",
-      "increment_d1": "163"
+      "increment_d1": "237"
     },
     {
       "rank": 3052,
@@ -44,7 +44,7 @@
       "viewCount": "1109万",
       "likeCount": "-",
       "commentCount": "2260",
-      "increment_d1": "965"
+      "increment_d1": "718"
     },
     {
       "rank": 3053,
@@ -67,7 +67,7 @@
       "viewCount": "1109万",
       "likeCount": "-",
       "commentCount": "339",
-      "increment_d1": "625"
+      "increment_d1": "601"
     },
     {
       "rank": 3054,
@@ -90,7 +90,7 @@
       "viewCount": "1109万",
       "likeCount": "4.2万",
       "commentCount": "2306",
-      "increment_d1": "1733"
+      "increment_d1": "1677"
     },
     {
       "rank": 3055,
@@ -113,10 +113,33 @@
       "viewCount": "1108万",
       "likeCount": "-",
       "commentCount": "6899",
-      "increment_d1": "2174"
+      "increment_d1": "1557"
     },
     {
       "rank": 3056,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/IqKqNcW2-b4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IqKqNcW2-b4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "いきものがかり 『ホタルノヒカリ』Music Video",
+        "url": "https://www.youtube.com/watch?v=IqKqNcW2-b4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "いきものがかり",
+        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-08-22",
+      "viewCount": "1108万",
+      "likeCount": "13.7万",
+      "commentCount": "2492",
+      "increment_d1": "6115"
+    },
+    {
+      "rank": 3057,
       "thumb": {
         "img": "https://i.ytimg.com/vi/iRcRbxeWt3Y/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=iRcRbxeWt3Y",
@@ -134,58 +157,12 @@
       },
       "publishedAt": "2010-12-21",
       "viewCount": "1108万",
-      "likeCount": "9727",
+      "likeCount": "9728",
       "commentCount": "303",
-      "increment_d1": "367"
-    },
-    {
-      "rank": 3057,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/IqKqNcW2-b4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IqKqNcW2-b4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "いきものがかり 『ホタルノヒカリ』Music Video",
-        "url": "https://www.youtube.com/watch?v=IqKqNcW2-b4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "いきものがかり",
-        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-08-22",
-      "viewCount": "1107万",
-      "likeCount": "13.7万",
-      "commentCount": "2492",
-      "increment_d1": "6160"
+      "increment_d1": "340"
     },
     {
       "rank": 3058,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/CzRqaoq_4Nw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CzRqaoq_4Nw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "XG - MASCARA (Performance Video)",
-        "url": "https://www.youtube.com/watch?v=CzRqaoq_4Nw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "XG",
-        "url": "https://www.youtube.com/channel/UC12HMtO5MYph9dCZZ7yygng",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-08-01",
-      "viewCount": "1107万",
-      "likeCount": "23.7万",
-      "commentCount": "3266",
-      "increment_d1": "1862"
-    },
-    {
-      "rank": 3059,
       "thumb": {
         "img": "https://i.ytimg.com/vi/t7q1ORpl_7k/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=t7q1ORpl_7k",
@@ -205,7 +182,30 @@
       "viewCount": "1107万",
       "likeCount": "-",
       "commentCount": "4312",
-      "increment_d1": "5462"
+      "increment_d1": "4729"
+    },
+    {
+      "rank": 3059,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/CzRqaoq_4Nw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CzRqaoq_4Nw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "XG - MASCARA (Performance Video)",
+        "url": "https://www.youtube.com/watch?v=CzRqaoq_4Nw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "XG",
+        "url": "https://www.youtube.com/channel/UC12HMtO5MYph9dCZZ7yygng",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-08-01",
+      "viewCount": "1107万",
+      "likeCount": "23.7万",
+      "commentCount": "3266",
+      "increment_d1": "1802"
     },
     {
       "rank": 3060,
@@ -228,7 +228,7 @@
       "viewCount": "1107万",
       "likeCount": "1.7万",
       "commentCount": "2128",
-      "increment_d1": "181"
+      "increment_d1": "189"
     },
     {
       "rank": 3061,
@@ -248,10 +248,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-06-18",
-      "viewCount": "1106万",
+      "viewCount": "1107万",
       "likeCount": "3.9万",
       "commentCount": "1759",
-      "increment_d1": "880"
+      "increment_d1": "910"
     },
     {
       "rank": 3062,
@@ -274,7 +274,7 @@
       "viewCount": "1106万",
       "likeCount": "5.4万",
       "commentCount": "2871",
-      "increment_d1": "81"
+      "increment_d1": "61"
     },
     {
       "rank": 3063,
@@ -297,7 +297,7 @@
       "viewCount": "1106万",
       "likeCount": "5.8万",
       "commentCount": "1249",
-      "increment_d1": "2192"
+      "increment_d1": "2341"
     },
     {
       "rank": 3064,
@@ -320,7 +320,7 @@
       "viewCount": "1106万",
       "likeCount": "5.8万",
       "commentCount": "1171",
-      "increment_d1": "1995"
+      "increment_d1": "2225"
     },
     {
       "rank": 3065,
@@ -343,7 +343,7 @@
       "viewCount": "1106万",
       "likeCount": "-",
       "commentCount": "6693",
-      "increment_d1": "957"
+      "increment_d1": "877"
     },
     {
       "rank": 3066,
@@ -365,8 +365,8 @@
       "publishedAt": "2019-04-23",
       "viewCount": "1105万",
       "likeCount": "16.7万",
-      "commentCount": "7155",
-      "increment_d1": "4479"
+      "commentCount": "7156",
+      "increment_d1": "4163"
     },
     {
       "rank": 3067,
@@ -389,7 +389,7 @@
       "viewCount": "1105万",
       "likeCount": "-",
       "commentCount": "1.7万",
-      "increment_d1": "724"
+      "increment_d1": "595"
     },
     {
       "rank": 3068,
@@ -412,7 +412,7 @@
       "viewCount": "1105万",
       "likeCount": "17.3万",
       "commentCount": "2969",
-      "increment_d1": "1787"
+      "increment_d1": "1444"
     },
     {
       "rank": 3069,
@@ -435,7 +435,7 @@
       "viewCount": "1104万",
       "likeCount": "4万",
       "commentCount": "2016",
-      "increment_d1": "2176"
+      "increment_d1": "2145"
     },
     {
       "rank": 3070,
@@ -458,7 +458,7 @@
       "viewCount": "1102万",
       "likeCount": "3.8万",
       "commentCount": "671",
-      "increment_d1": "365"
+      "increment_d1": "461"
     },
     {
       "rank": 3071,
@@ -481,7 +481,7 @@
       "viewCount": "1102万",
       "likeCount": "3.7万",
       "commentCount": "1749",
-      "increment_d1": "1823"
+      "increment_d1": "2108"
     },
     {
       "rank": 3072,
@@ -501,10 +501,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-27",
-      "viewCount": "1101万",
+      "viewCount": "1102万",
       "likeCount": "9.2万",
       "commentCount": "2683",
-      "increment_d1": "454"
+      "increment_d1": "413"
     },
     {
       "rank": 3073,
@@ -527,7 +527,7 @@
       "viewCount": "1101万",
       "likeCount": "7.4万",
       "commentCount": "1384",
-      "increment_d1": "767"
+      "increment_d1": "784"
     },
     {
       "rank": 3074,
@@ -550,7 +550,7 @@
       "viewCount": "1101万",
       "likeCount": "2.6万",
       "commentCount": "734",
-      "increment_d1": "608"
+      "increment_d1": "641"
     },
     {
       "rank": 3075,
@@ -570,10 +570,10 @@
         "target": "_blank"
       },
       "publishedAt": "2008-12-08",
-      "viewCount": "1100万",
+      "viewCount": "1101万",
       "likeCount": "3.2万",
-      "commentCount": "1186",
-      "increment_d1": "1673"
+      "commentCount": "1187",
+      "increment_d1": "1553"
     },
     {
       "rank": 3076,
@@ -595,8 +595,8 @@
       "publishedAt": "2010-09-14",
       "viewCount": "1099万",
       "likeCount": "2.5万",
-      "commentCount": "1596",
-      "increment_d1": "897"
+      "commentCount": "1597",
+      "increment_d1": "882"
     },
     {
       "rank": 3077,
@@ -619,10 +619,33 @@
       "viewCount": "1099万",
       "likeCount": "2.7万",
       "commentCount": "1200",
-      "increment_d1": "226"
+      "increment_d1": "216"
     },
     {
       "rank": 3078,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/0UfJLVmrChw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0UfJLVmrChw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "なにわ男子 - Make Up Day [Official Music Video] YouTube ver.",
+        "url": "https://www.youtube.com/watch?v=0UfJLVmrChw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "なにわ男子",
+        "url": "https://www.youtube.com/channel/UCDtVdj7sm41Ysg3XSiSUH3w",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-08-08",
+      "viewCount": "1098万",
+      "likeCount": "-",
+      "commentCount": "7946",
+      "increment_d1": "1894"
+    },
+    {
+      "rank": 3079,
       "thumb": {
         "img": "https://i.ytimg.com/vi/peG_RXliLPE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=peG_RXliLPE",
@@ -642,56 +665,10 @@
       "viewCount": "1098万",
       "likeCount": "4.6万",
       "commentCount": "2358",
-      "increment_d1": "138"
-    },
-    {
-      "rank": 3079,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/0UfJLVmrChw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0UfJLVmrChw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "なにわ男子 - Make Up Day [Official Music Video] YouTube ver.",
-        "url": "https://www.youtube.com/watch?v=0UfJLVmrChw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "なにわ男子",
-        "url": "https://www.youtube.com/channel/UCDtVdj7sm41Ysg3XSiSUH3w",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-08-08",
-      "viewCount": "1098万",
-      "likeCount": "-",
-      "commentCount": "7944",
-      "increment_d1": "2447"
+      "increment_d1": "179"
     },
     {
       "rank": 3080,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/-Ch8P5G8MzU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-Ch8P5G8MzU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "西野カナ　『たとえ どんなに...(short ver.)』",
-        "url": "https://www.youtube.com/watch?v=-Ch8P5G8MzU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-07-01",
-      "viewCount": "1098万",
-      "likeCount": "1.9万",
-      "commentCount": "1063",
-      "increment_d1": "134"
-    },
-    {
-      "rank": 3081,
       "thumb": {
         "img": "https://i.ytimg.com/vi/li2FgMhPbug/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=li2FgMhPbug",
@@ -711,7 +688,30 @@
       "viewCount": "1098万",
       "likeCount": "18.1万",
       "commentCount": "1808",
-      "increment_d1": "1320"
+      "increment_d1": "1234"
+    },
+    {
+      "rank": 3081,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/-Ch8P5G8MzU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-Ch8P5G8MzU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "西野カナ　『たとえ どんなに...(short ver.)』",
+        "url": "https://www.youtube.com/watch?v=-Ch8P5G8MzU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-07-01",
+      "viewCount": "1098万",
+      "likeCount": "1.9万",
+      "commentCount": "1063",
+      "increment_d1": "146"
     },
     {
       "rank": 3082,
@@ -734,7 +734,7 @@
       "viewCount": "1098万",
       "likeCount": "14.8万",
       "commentCount": "3287",
-      "increment_d1": "207"
+      "increment_d1": "220"
     },
     {
       "rank": 3083,
@@ -756,8 +756,8 @@
       "publishedAt": "2014-03-11",
       "viewCount": "1098万",
       "likeCount": "8.1万",
-      "commentCount": "2854",
-      "increment_d1": "1823"
+      "commentCount": "2855",
+      "increment_d1": "1762"
     },
     {
       "rank": 3084,
@@ -779,11 +779,34 @@
       "publishedAt": "2022-04-06",
       "viewCount": "1097万",
       "likeCount": "-",
-      "commentCount": "4022",
-      "increment_d1": "1378"
+      "commentCount": "4021",
+      "increment_d1": "1172"
     },
     {
       "rank": 3085,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1RoRf-AinSY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1RoRf-AinSY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[091] 【timelesz project】「RUN」パフォーマンス動画【6次(ファイナル)審査】",
+        "url": "https://www.youtube.com/watch?v=1RoRf-AinSY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "timelesz [タイムレス]",
+        "url": "https://www.youtube.com/channel/UCgXJMvOBqHk5wJFRKZfIgWQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-02-16",
+      "viewCount": "1097万",
+      "likeCount": "9.4万",
+      "commentCount": "8891",
+      "increment_d1": "7720"
+    },
+    {
+      "rank": 3086,
       "thumb": {
         "img": "https://i.ytimg.com/vi/pDvuwOEzZKo/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=pDvuwOEzZKo",
@@ -803,10 +826,10 @@
       "viewCount": "1097万",
       "likeCount": "2.6万",
       "commentCount": "1531",
-      "increment_d1": "480"
+      "increment_d1": "384"
     },
     {
-      "rank": 3086,
+      "rank": 3087,
       "thumb": {
         "img": "https://i.ytimg.com/vi/s-WwbFyD98w/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=s-WwbFyD98w",
@@ -826,30 +849,7 @@
       "viewCount": "1097万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "904"
-    },
-    {
-      "rank": 3087,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1RoRf-AinSY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1RoRf-AinSY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[091] 【timelesz project】「RUN」パフォーマンス動画【6次(ファイナル)審査】",
-        "url": "https://www.youtube.com/watch?v=1RoRf-AinSY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "timelesz [タイムレス]",
-        "url": "https://www.youtube.com/channel/UCgXJMvOBqHk5wJFRKZfIgWQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-02-16",
-      "viewCount": "1096万",
-      "likeCount": "9.4万",
-      "commentCount": "8891",
-      "increment_d1": "9585"
+      "increment_d1": "993"
     },
     {
       "rank": 3088,
@@ -872,7 +872,7 @@
       "viewCount": "1096万",
       "likeCount": "2.7万",
       "commentCount": "1241",
-      "increment_d1": "135"
+      "increment_d1": "119"
     },
     {
       "rank": 3089,
@@ -895,7 +895,7 @@
       "viewCount": "1096万",
       "likeCount": "3.6万",
       "commentCount": "1158",
-      "increment_d1": "787"
+      "increment_d1": "794"
     },
     {
       "rank": 3090,
@@ -917,8 +917,8 @@
       "publishedAt": "2021-12-19",
       "viewCount": "1096万",
       "likeCount": "14.1万",
-      "commentCount": "1748",
-      "increment_d1": "2733"
+      "commentCount": "1749",
+      "increment_d1": "2570"
     },
     {
       "rank": 3091,
@@ -938,10 +938,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-06-18",
-      "viewCount": "1095万",
+      "viewCount": "1096万",
       "likeCount": "3万",
       "commentCount": "695",
-      "increment_d1": "558"
+      "increment_d1": "477"
     },
     {
       "rank": 3092,
@@ -964,7 +964,7 @@
       "viewCount": "1095万",
       "likeCount": "4万",
       "commentCount": "1856",
-      "increment_d1": "4090"
+      "increment_d1": "3726"
     },
     {
       "rank": 3093,
@@ -987,7 +987,7 @@
       "viewCount": "1095万",
       "likeCount": "8.6万",
       "commentCount": "2221",
-      "increment_d1": "1702"
+      "increment_d1": "1709"
     },
     {
       "rank": 3094,
@@ -1010,7 +1010,7 @@
       "viewCount": "1094万",
       "likeCount": "2.4万",
       "commentCount": "1249",
-      "increment_d1": "276"
+      "increment_d1": "293"
     },
     {
       "rank": 3095,
@@ -1033,7 +1033,7 @@
       "viewCount": "1094万",
       "likeCount": "7.7万",
       "commentCount": "2303",
-      "increment_d1": "644"
+      "increment_d1": "788"
     },
     {
       "rank": 3096,
@@ -1055,8 +1055,8 @@
       "publishedAt": "2017-03-22",
       "viewCount": "1094万",
       "likeCount": "4.6万",
-      "commentCount": "1999",
-      "increment_d1": "412"
+      "commentCount": "1998",
+      "increment_d1": "306"
     },
     {
       "rank": 3097,
@@ -1076,13 +1076,36 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-24",
-      "viewCount": "1093万",
+      "viewCount": "1094万",
       "likeCount": "3.3万",
       "commentCount": "1980",
-      "increment_d1": "2515"
+      "increment_d1": "2349"
     },
     {
       "rank": 3098,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/BNguaY5exIk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BNguaY5exIk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SEKAI NO OWARI「最高到達点」",
+        "url": "https://www.youtube.com/watch?v=BNguaY5exIk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SEKAI NO OWARI",
+        "url": "https://www.youtube.com/channel/UCKudwfXQgNM7Gkjv95qRI9w",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-12-18",
+      "viewCount": "1093万",
+      "likeCount": "9.2万",
+      "commentCount": "3103",
+      "increment_d1": "3725"
+    },
+    {
+      "rank": 3099,
       "thumb": {
         "img": "https://i.ytimg.com/vi/MquT2X5NEY8/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=MquT2X5NEY8",
@@ -1102,30 +1125,7 @@
       "viewCount": "1093万",
       "likeCount": "7.4万",
       "commentCount": "34",
-      "increment_d1": "460"
-    },
-    {
-      "rank": 3099,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/BNguaY5exIk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BNguaY5exIk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SEKAI NO OWARI「最高到達点」",
-        "url": "https://www.youtube.com/watch?v=BNguaY5exIk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SEKAI NO OWARI",
-        "url": "https://www.youtube.com/channel/UCKudwfXQgNM7Gkjv95qRI9w",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-12-18",
-      "viewCount": "1093万",
-      "likeCount": "9.2万",
-      "commentCount": "3102",
-      "increment_d1": "4772"
+      "increment_d1": "504"
     },
     {
       "rank": 3100,
@@ -1147,8 +1147,8 @@
       "publishedAt": "2017-07-19",
       "viewCount": "1092万",
       "likeCount": "8.8万",
-      "commentCount": "170",
-      "increment_d1": "838"
+      "commentCount": "171",
+      "increment_d1": "906"
     }
   ]
 }
