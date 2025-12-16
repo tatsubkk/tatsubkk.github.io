@@ -3,6 +3,29 @@
     {
       "rank": 101,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/x2rvSf0STBM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=x2rvSf0STBM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE「ダンスホール」Official Music Video",
+        "url": "https://www.youtube.com/watch?v=x2rvSf0STBM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-06-28",
+      "viewCount": "1億5299万",
+      "likeCount": "62.2万",
+      "commentCount": "1.3万",
+      "increment_d30": "174万"
+    },
+    {
+      "rank": 102,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/K4xLi8IF1FM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=K4xLi8IF1FM",
         "target": "_blank"
@@ -18,13 +41,13 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-18",
-      "viewCount": "1億7287万",
+      "viewCount": "1億7292万",
       "likeCount": "135万",
       "commentCount": "3.2万",
-      "increment_d30": "173万"
+      "increment_d30": "172万"
     },
     {
-      "rank": 102,
+      "rank": 103,
       "thumb": {
         "img": "https://i.ytimg.com/vi/-NFhRWhkp7I/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=-NFhRWhkp7I",
@@ -41,33 +64,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-04",
-      "viewCount": "4366万",
+      "viewCount": "4371万",
       "likeCount": "17.1万",
-      "commentCount": "3857",
-      "increment_d30": "173万"
-    },
-    {
-      "rank": 103,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/pvqvBAA-0AE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pvqvBAA-0AE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "桑田佳祐 – 白い恋人達（Full ver.）",
-        "url": "https://www.youtube.com/watch?v=pvqvBAA-0AE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "桑田佳祐",
-        "url": "https://www.youtube.com/channel/UCaZ17KNeiVkQkeG7i2WDOnQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-05-03",
-      "viewCount": "6276万",
-      "likeCount": "21万",
-      "commentCount": "2337",
-      "increment_d30": "172万"
+      "commentCount": "3856",
+      "increment_d30": "171万"
     },
     {
       "rank": 104,
@@ -87,36 +87,13 @@
         "target": "_blank"
       },
       "publishedAt": "2024-05-21",
-      "viewCount": "9003万",
+      "viewCount": "9008万",
       "likeCount": "153万",
       "commentCount": "4.8万",
       "increment_d30": "170万"
     },
     {
       "rank": 105,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/UFQEttrn6CQ/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UFQEttrn6CQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "米津玄師 - 感電   Kenshi Yonezu - KANDEN",
-        "url": "https://www.youtube.com/watch?v=UFQEttrn6CQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-07-10",
-      "viewCount": "2億5364万",
-      "likeCount": "122万",
-      "commentCount": "10.4万",
-      "increment_d30": "167万"
-    },
-    {
-      "rank": 106,
       "thumb": {
         "img": "https://i.ytimg.com/vi/8iuLXODzL04/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=8iuLXODzL04",
@@ -133,10 +110,33 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-20",
-      "viewCount": "1億5781万",
+      "viewCount": "1億5786万",
       "likeCount": "163万",
       "commentCount": "2.2万",
-      "increment_d30": "167万"
+      "increment_d30": "166万"
+    },
+    {
+      "rank": 106,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/UFQEttrn6CQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=UFQEttrn6CQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "米津玄師 - 感電   Kenshi Yonezu - KANDEN",
+        "url": "https://www.youtube.com/watch?v=UFQEttrn6CQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-07-10",
+      "viewCount": "2億5369万",
+      "likeCount": "122万",
+      "commentCount": "10.4万",
+      "increment_d30": "166万"
     },
     {
       "rank": 107,
@@ -156,10 +156,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-06-09",
-      "viewCount": "1億4475万",
+      "viewCount": "1億4480万",
       "likeCount": "261万",
       "commentCount": "48.3万",
-      "increment_d30": "166万"
+      "increment_d30": "165万"
     },
     {
       "rank": 108,
@@ -179,82 +179,13 @@
         "target": "_blank"
       },
       "publishedAt": "2016-08-19",
-      "viewCount": "3億4607万",
+      "viewCount": "3億4611万",
       "likeCount": "159万",
       "commentCount": "11.3万",
-      "increment_d30": "166万"
+      "increment_d30": "165万"
     },
     {
       "rank": 109,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/F38EuG2dAyM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=F38EuG2dAyM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "イガク - 重音テト",
-        "url": "https://www.youtube.com/watch?v=F38EuG2dAyM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "原口沙輔",
-        "url": "https://www.youtube.com/channel/UC8W5jDneAuOeFNDAB9-8lmQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-02-28",
-      "viewCount": "5015万",
-      "likeCount": "51.5万",
-      "commentCount": "1.2万",
-      "increment_d30": "166万"
-    },
-    {
-      "rank": 110,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/GUTHk7IjI6A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=GUTHk7IjI6A",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ドレミファ アンパンマン （テレビサイズver.）［公式エンディングテーマ］",
-        "url": "https://www.youtube.com/watch?v=GUTHk7IjI6A",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "VAP OFFICIAL MUSIC CHANNEL",
-        "url": "https://www.youtube.com/channel/UCIDd5lVNKs7N0V3dvm1wj2w",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-03-24",
-      "viewCount": "4215万",
-      "likeCount": "-",
-      "commentCount": "-",
-      "increment_d30": "166万"
-    },
-    {
-      "rank": 111,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/sOiMD45QGLs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sOiMD45QGLs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Ado】ギラギラ",
-        "url": "https://www.youtube.com/watch?v=sOiMD45QGLs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ado",
-        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-02-14",
-      "viewCount": "2億540万",
-      "likeCount": "135万",
-      "commentCount": "4.5万",
-      "increment_d30": "166万"
-    },
-    {
-      "rank": 112,
       "thumb": {
         "img": "https://i.ytimg.com/vi/SIuF37EWaLU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=SIuF37EWaLU",
@@ -271,13 +202,36 @@
         "target": "_blank"
       },
       "publishedAt": "2019-09-27",
-      "viewCount": "1億858万",
+      "viewCount": "1億864万",
       "likeCount": "71.6万",
       "commentCount": "1.5万",
       "increment_d30": "165万"
     },
     {
-      "rank": 113,
+      "rank": 110,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/F38EuG2dAyM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=F38EuG2dAyM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "イガク - 重音テト",
+        "url": "https://www.youtube.com/watch?v=F38EuG2dAyM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "原口沙輔",
+        "url": "https://www.youtube.com/channel/UC8W5jDneAuOeFNDAB9-8lmQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-02-28",
+      "viewCount": "5020万",
+      "likeCount": "51.5万",
+      "commentCount": "1.2万",
+      "increment_d30": "165万"
+    },
+    {
+      "rank": 111,
       "thumb": {
         "img": "https://i.ytimg.com/vi/51CH3dPaWXc/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=51CH3dPaWXc",
@@ -294,13 +248,36 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-16",
-      "viewCount": "2億514万",
-      "likeCount": "54.1万",
+      "viewCount": "2億520万",
+      "likeCount": "54.2万",
       "commentCount": "3.8万",
       "increment_d30": "164万"
     },
     {
-      "rank": 114,
+      "rank": 112,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/sOiMD45QGLs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sOiMD45QGLs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Ado】ギラギラ",
+        "url": "https://www.youtube.com/watch?v=sOiMD45QGLs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ado",
+        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-02-14",
+      "viewCount": "2億545万",
+      "likeCount": "135万",
+      "commentCount": "4.5万",
+      "increment_d30": "164万"
+    },
+    {
+      "rank": 113,
       "thumb": {
         "img": "https://i.ytimg.com/vi/J5Z7tIq7bco/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=J5Z7tIq7bco",
@@ -317,9 +294,32 @@
         "target": "_blank"
       },
       "publishedAt": "2008-12-08",
-      "viewCount": "2億586万",
+      "viewCount": "2億591万",
       "likeCount": "45.6万",
       "commentCount": "1.6万",
+      "increment_d30": "163万"
+    },
+    {
+      "rank": 114,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/GUTHk7IjI6A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=GUTHk7IjI6A",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ドレミファ アンパンマン （テレビサイズver.）［公式エンディングテーマ］",
+        "url": "https://www.youtube.com/watch?v=GUTHk7IjI6A",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "VAP OFFICIAL MUSIC CHANNEL",
+        "url": "https://www.youtube.com/channel/UCIDd5lVNKs7N0V3dvm1wj2w",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-03-24",
+      "viewCount": "4220万",
+      "likeCount": "-",
+      "commentCount": "-",
       "increment_d30": "163万"
     },
     {
@@ -340,7 +340,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-29",
-      "viewCount": "2億5143万",
+      "viewCount": "2億5148万",
       "likeCount": "252万",
       "commentCount": "8.1万",
       "increment_d30": "161万"
@@ -363,7 +363,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-10-11",
-      "viewCount": "2億956万",
+      "viewCount": "2億961万",
       "likeCount": "163万",
       "commentCount": "3.9万",
       "increment_d30": "160万"
@@ -386,10 +386,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-16",
-      "viewCount": "8861万",
+      "viewCount": "8866万",
       "likeCount": "117万",
       "commentCount": "2.2万",
-      "increment_d30": "158万"
+      "increment_d30": "157万"
     },
     {
       "rank": 118,
@@ -409,10 +409,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-10",
-      "viewCount": "1億5534万",
+      "viewCount": "1億5538万",
       "likeCount": "215万",
       "commentCount": "7.4万",
-      "increment_d30": "157万"
+      "increment_d30": "156万"
     },
     {
       "rank": 119,
@@ -432,10 +432,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-14",
-      "viewCount": "2億8400万",
+      "viewCount": "2億8405万",
       "likeCount": "134万",
       "commentCount": "2.2万",
-      "increment_d30": "156万"
+      "increment_d30": "155万"
     },
     {
       "rank": 120,
@@ -455,59 +455,13 @@
         "target": "_blank"
       },
       "publishedAt": "2014-03-31",
-      "viewCount": "3億6713万",
+      "viewCount": "3億6717万",
       "likeCount": "134万",
       "commentCount": "6.3万",
-      "increment_d30": "156万"
+      "increment_d30": "155万"
     },
     {
       "rank": 121,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ERLEeGVWYxg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ERLEeGVWYxg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "UNISON SQUARE GARDEN「シュガーソングとビターステップ」MV",
-        "url": "https://www.youtube.com/watch?v=ERLEeGVWYxg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "unisonsgofficial",
-        "url": "https://www.youtube.com/channel/UC1uZYgOfncA-Gnk0GsLVK5A",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-05-14",
-      "viewCount": "6144万",
-      "likeCount": "33.4万",
-      "commentCount": "5133",
-      "increment_d30": "154万"
-    },
-    {
-      "rank": 122,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/0Z_YqhYHhpg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0Z_YqhYHhpg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Ado】ルル (RuLe)",
-        "url": "https://www.youtube.com/watch?v=0Z_YqhYHhpg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ado",
-        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-07-05",
-      "viewCount": "4867万",
-      "likeCount": "56.9万",
-      "commentCount": "1.6万",
-      "increment_d30": "154万"
-    },
-    {
-      "rank": 123,
       "thumb": {
         "img": "https://i.ytimg.com/vi/KpsJWFuVTdI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=KpsJWFuVTdI",
@@ -524,10 +478,56 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-21",
-      "viewCount": "8502万",
+      "viewCount": "8507万",
       "likeCount": "103万",
       "commentCount": "2万",
       "increment_d30": "154万"
+    },
+    {
+      "rank": 122,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ERLEeGVWYxg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ERLEeGVWYxg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "UNISON SQUARE GARDEN「シュガーソングとビターステップ」MV",
+        "url": "https://www.youtube.com/watch?v=ERLEeGVWYxg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "unisonsgofficial",
+        "url": "https://www.youtube.com/channel/UC1uZYgOfncA-Gnk0GsLVK5A",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-05-14",
+      "viewCount": "6149万",
+      "likeCount": "33.4万",
+      "commentCount": "5136",
+      "increment_d30": "154万"
+    },
+    {
+      "rank": 123,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/0Z_YqhYHhpg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0Z_YqhYHhpg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Ado】ルル (RuLe)",
+        "url": "https://www.youtube.com/watch?v=0Z_YqhYHhpg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ado",
+        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-07-05",
+      "viewCount": "4871万",
+      "likeCount": "56.9万",
+      "commentCount": "1.6万",
+      "increment_d30": "153万"
     },
     {
       "rank": 124,
@@ -547,36 +547,13 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-11",
-      "viewCount": "1億744万",
+      "viewCount": "1億749万",
       "likeCount": "43.3万",
       "commentCount": "1万",
       "increment_d30": "153万"
     },
     {
       "rank": 125,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/SR89b0qqRAg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=SR89b0qqRAg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SEKAI NO OWARI「最高到達点」ONE PIECE リリックMV",
-        "url": "https://www.youtube.com/watch?v=SR89b0qqRAg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SEKAI NO OWARI",
-        "url": "https://www.youtube.com/channel/UCKudwfXQgNM7Gkjv95qRI9w",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-10-14",
-      "viewCount": "8745万",
-      "likeCount": "42.9万",
-      "commentCount": "9945",
-      "increment_d30": "153万"
-    },
-    {
-      "rank": 126,
       "thumb": {
         "img": "https://i.ytimg.com/vi/EXxaBXKjl6Q/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=EXxaBXKjl6Q",
@@ -593,10 +570,33 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-28",
-      "viewCount": "1億1024万",
+      "viewCount": "1億1029万",
       "likeCount": "25.2万",
       "commentCount": "1万",
-      "increment_d30": "152万"
+      "increment_d30": "151万"
+    },
+    {
+      "rank": 126,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/SR89b0qqRAg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=SR89b0qqRAg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SEKAI NO OWARI「最高到達点」ONE PIECE リリックMV",
+        "url": "https://www.youtube.com/watch?v=SR89b0qqRAg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SEKAI NO OWARI",
+        "url": "https://www.youtube.com/channel/UCKudwfXQgNM7Gkjv95qRI9w",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-10-14",
+      "viewCount": "8749万",
+      "likeCount": "42.9万",
+      "commentCount": "9945",
+      "increment_d30": "151万"
     },
     {
       "rank": 127,
@@ -616,151 +616,13 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-20",
-      "viewCount": "1億1086万",
+      "viewCount": "1億1091万",
       "likeCount": "106万",
       "commentCount": "2.5万",
-      "increment_d30": "149万"
+      "increment_d30": "148万"
     },
     {
       "rank": 128,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Gbz2C2gQREI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Gbz2C2gQREI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "不可幸力 / Vaundy ：MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=Gbz2C2gQREI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Vaundy",
-        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-11-09",
-      "viewCount": "1億3749万",
-      "likeCount": "88.9万",
-      "commentCount": "1.9万",
-      "increment_d30": "147万"
-    },
-    {
-      "rank": 129,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/rgNdeflYdYw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=rgNdeflYdYw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "たぶん",
-        "url": "https://www.youtube.com/watch?v=rgNdeflYdYw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-01-05",
-      "viewCount": "6855万",
-      "likeCount": "38.5万",
-      "commentCount": "634",
-      "increment_d30": "147万"
-    },
-    {
-      "rank": 130,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/vkPfKnUaq5k/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vkPfKnUaq5k",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Fujii Kaze - Garden (Not a MV)",
-        "url": "https://www.youtube.com/watch?v=vkPfKnUaq5k",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Fujii Kaze",
-        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-06-13",
-      "viewCount": "5419万",
-      "likeCount": "40.4万",
-      "commentCount": "1万",
-      "increment_d30": "146万"
-    },
-    {
-      "rank": 131,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/gt-v_YCkaMY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gt-v_YCkaMY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Ado】逆光（ウタ from ONE PIECE FILM RED）",
-        "url": "https://www.youtube.com/watch?v=gt-v_YCkaMY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ado",
-        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-07-06",
-      "viewCount": "1億5826万",
-      "likeCount": "130万",
-      "commentCount": "2.1万",
-      "increment_d30": "146万"
-    },
-    {
-      "rank": 132,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/BBj3SCImk_A/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=BBj3SCImk_A",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "真夜中のドア/Stay With Me",
-        "url": "https://www.youtube.com/watch?v=BBj3SCImk_A",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Miki Matsubara - Topic",
-        "url": "https://www.youtube.com/channel/UCT77P4HLpV7B2sbmuxa_djQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-04-15",
-      "viewCount": "5902万",
-      "likeCount": "82万",
-      "commentCount": "2451",
-      "increment_d30": "145万"
-    },
-    {
-      "rank": 133,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/8tQiWHXSGN0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8tQiWHXSGN0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ファタール / GEMN - Fatal / GEMN",
-        "url": "https://www.youtube.com/watch?v=8tQiWHXSGN0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "キタニタツヤ / Tatsuya Kitani",
-        "url": "https://www.youtube.com/channel/UCgP3GbgbuVzAhlctGU5yuPA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-07-05",
-      "viewCount": "6844万",
-      "likeCount": "48.8万",
-      "commentCount": "1.3万",
-      "increment_d30": "145万"
-    },
-    {
-      "rank": 134,
       "thumb": {
         "img": "https://i.ytimg.com/vi/YapsFDcGe_s/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=YapsFDcGe_s",
@@ -777,13 +639,128 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-16",
-      "viewCount": "9086万",
+      "viewCount": "9093万",
       "likeCount": "26.5万",
       "commentCount": "1.1万",
-      "increment_d30": "144万"
+      "increment_d30": "147万"
     },
     {
-      "rank": 135,
+      "rank": 129,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Gbz2C2gQREI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Gbz2C2gQREI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "不可幸力 / Vaundy ：MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=Gbz2C2gQREI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Vaundy",
+        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-11-09",
+      "viewCount": "1億3754万",
+      "likeCount": "88.9万",
+      "commentCount": "1.9万",
+      "increment_d30": "146万"
+    },
+    {
+      "rank": 130,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/rgNdeflYdYw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=rgNdeflYdYw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "たぶん",
+        "url": "https://www.youtube.com/watch?v=rgNdeflYdYw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-01-05",
+      "viewCount": "6860万",
+      "likeCount": "38.5万",
+      "commentCount": "635",
+      "increment_d30": "146万"
+    },
+    {
+      "rank": 131,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/BBj3SCImk_A/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=BBj3SCImk_A",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "真夜中のドア/Stay With Me",
+        "url": "https://www.youtube.com/watch?v=BBj3SCImk_A",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Miki Matsubara - Topic",
+        "url": "https://www.youtube.com/channel/UCT77P4HLpV7B2sbmuxa_djQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-04-15",
+      "viewCount": "5907万",
+      "likeCount": "82.1万",
+      "commentCount": "2456",
+      "increment_d30": "146万"
+    },
+    {
+      "rank": 132,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/vkPfKnUaq5k/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vkPfKnUaq5k",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Fujii Kaze - Garden (Not a MV)",
+        "url": "https://www.youtube.com/watch?v=vkPfKnUaq5k",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Fujii Kaze",
+        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-06-13",
+      "viewCount": "5423万",
+      "likeCount": "40.4万",
+      "commentCount": "1万",
+      "increment_d30": "145万"
+    },
+    {
+      "rank": 133,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/gt-v_YCkaMY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gt-v_YCkaMY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Ado】逆光（ウタ from ONE PIECE FILM RED）",
+        "url": "https://www.youtube.com/watch?v=gt-v_YCkaMY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ado",
+        "url": "https://www.youtube.com/channel/UCln9P4Qm3-EAY4aiEPmRwEA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-07-06",
+      "viewCount": "1億5831万",
+      "likeCount": "130万",
+      "commentCount": "2.1万",
+      "increment_d30": "145万"
+    },
+    {
+      "rank": 134,
       "thumb": {
         "img": "https://i.ytimg.com/vi/DC6JppqHkaM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=DC6JppqHkaM",
@@ -800,10 +777,33 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-16",
-      "viewCount": "1億8316万",
+      "viewCount": "1億8321万",
       "likeCount": "142万",
       "commentCount": "2.9万",
-      "increment_d30": "144万"
+      "increment_d30": "143万"
+    },
+    {
+      "rank": 135,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/8tQiWHXSGN0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8tQiWHXSGN0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ファタール / GEMN - Fatal / GEMN",
+        "url": "https://www.youtube.com/watch?v=8tQiWHXSGN0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "キタニタツヤ / Tatsuya Kitani",
+        "url": "https://www.youtube.com/channel/UCgP3GbgbuVzAhlctGU5yuPA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-07-05",
+      "viewCount": "6848万",
+      "likeCount": "48.9万",
+      "commentCount": "1.3万",
+      "increment_d30": "143万"
     },
     {
       "rank": 136,
@@ -823,10 +823,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-15",
-      "viewCount": "2億2746万",
+      "viewCount": "2億2751万",
       "likeCount": "92.7万",
       "commentCount": "4.1万",
-      "increment_d30": "143万"
+      "increment_d30": "142万"
     },
     {
       "rank": 137,
@@ -846,10 +846,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-29",
-      "viewCount": "7248万",
+      "viewCount": "7252万",
       "likeCount": "157万",
       "commentCount": "7.5万",
-      "increment_d30": "141万"
+      "increment_d30": "140万"
     },
     {
       "rank": 138,
@@ -869,10 +869,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-18",
-      "viewCount": "1億4429万",
+      "viewCount": "1億4433万",
       "likeCount": "112万",
       "commentCount": "2.1万",
-      "increment_d30": "141万"
+      "increment_d30": "140万"
     },
     {
       "rank": 139,
@@ -892,7 +892,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-02-27",
-      "viewCount": "8556万",
+      "viewCount": "8561万",
       "likeCount": "154万",
       "commentCount": "3.1万",
       "increment_d30": "140万"
@@ -915,36 +915,13 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-28",
-      "viewCount": "7164万",
+      "viewCount": "7168万",
       "likeCount": "104万",
       "commentCount": "1.7万",
-      "increment_d30": "140万"
+      "increment_d30": "139万"
     },
     {
       "rank": 141,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/wTc3jXDTNBo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wTc3jXDTNBo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "RADWIMPS - 正解 [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=wTc3jXDTNBo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "RADWIMPS",
-        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-02-22",
-      "viewCount": "3629万",
-      "likeCount": "28.3万",
-      "commentCount": "1.1万",
-      "increment_d30": "140万"
-    },
-    {
-      "rank": 142,
       "thumb": {
         "img": "https://i.ytimg.com/vi/OxzdMNTJXmg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=OxzdMNTJXmg",
@@ -961,36 +938,36 @@
         "target": "_blank"
       },
       "publishedAt": "2018-08-30",
-      "viewCount": "6895万",
+      "viewCount": "6900万",
       "likeCount": "58.6万",
       "commentCount": "1.6万",
       "increment_d30": "139万"
     },
     {
-      "rank": 143,
+      "rank": 142,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/v-WcMQbXbKY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=v-WcMQbXbKY",
+        "img": "https://i.ytimg.com/vi/wTc3jXDTNBo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wTc3jXDTNBo",
         "target": "_blank"
       },
       "title": {
-        "text": "緑黄色社会『花になって』Official Video / Ryokuoushoku Shakai – Be a flower",
-        "url": "https://www.youtube.com/watch?v=v-WcMQbXbKY",
+        "text": "RADWIMPS - 正解 [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=wTc3jXDTNBo",
         "target": "_blank"
       },
       "channel": {
-        "text": "緑黄色社会",
-        "url": "https://www.youtube.com/channel/UC_1GPhYlXI2ka2ji5gnqWFQ",
+        "text": "RADWIMPS",
+        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
         "target": "_blank"
       },
-      "publishedAt": "2023-11-15",
-      "viewCount": "6763万",
-      "likeCount": "48.8万",
-      "commentCount": "5714",
+      "publishedAt": "2024-02-22",
+      "viewCount": "3633万",
+      "likeCount": "28.3万",
+      "commentCount": "1.1万",
       "increment_d30": "139万"
     },
     {
-      "rank": 144,
+      "rank": 143,
       "thumb": {
         "img": "https://i.ytimg.com/vi/KTZ-y85Erus/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=KTZ-y85Erus",
@@ -1007,33 +984,56 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-05",
-      "viewCount": "2億433万",
+      "viewCount": "2億438万",
       "likeCount": "128万",
       "commentCount": "3万",
       "increment_d30": "138万"
     },
     {
-      "rank": 145,
+      "rank": 144,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/Mi9uNu35Gmk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Mi9uNu35Gmk",
+        "img": "https://i.ytimg.com/vi/v-WcMQbXbKY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=v-WcMQbXbKY",
         "target": "_blank"
       },
       "title": {
-        "text": "SEKAI NO OWARI「RPG」",
-        "url": "https://www.youtube.com/watch?v=Mi9uNu35Gmk",
+        "text": "緑黄色社会『花になって』Official Video / Ryokuoushoku Shakai – Be a flower",
+        "url": "https://www.youtube.com/watch?v=v-WcMQbXbKY",
         "target": "_blank"
       },
       "channel": {
-        "text": "sekainoowarijp",
-        "url": "https://www.youtube.com/channel/UCOYmRdtvvcQPspSmW8QsJhQ",
+        "text": "緑黄色社会",
+        "url": "https://www.youtube.com/channel/UC_1GPhYlXI2ka2ji5gnqWFQ",
         "target": "_blank"
       },
-      "publishedAt": "2013-04-22",
-      "viewCount": "2億6594万",
-      "likeCount": "85.3万",
-      "commentCount": "7.3万",
-      "increment_d30": "137万"
+      "publishedAt": "2023-11-15",
+      "viewCount": "6768万",
+      "likeCount": "48.8万",
+      "commentCount": "5718",
+      "increment_d30": "138万"
+    },
+    {
+      "rank": 145,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/EsJGbHJyXYc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=EsJGbHJyXYc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "10-FEET – 第ゼロ感（映画『THE FIRST SLAM DUNK』エンディング主題歌）",
+        "url": "https://www.youtube.com/watch?v=EsJGbHJyXYc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "10-FEET",
+        "url": "https://www.youtube.com/channel/UCmQakL41jbAhpQhqhyszF2g",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-12-14",
+      "viewCount": "9133万",
+      "likeCount": "42万",
+      "commentCount": "1万",
+      "increment_d30": "136万"
     },
     {
       "rank": 146,
@@ -1053,33 +1053,33 @@
         "target": "_blank"
       },
       "publishedAt": "2017-04-01",
-      "viewCount": "1億9624万",
+      "viewCount": "1億9628万",
       "likeCount": "240万",
       "commentCount": "12.3万",
-      "increment_d30": "137万"
+      "increment_d30": "136万"
     },
     {
       "rank": 147,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/EsJGbHJyXYc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EsJGbHJyXYc",
+        "img": "https://i.ytimg.com/vi/Mi9uNu35Gmk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=Mi9uNu35Gmk",
         "target": "_blank"
       },
       "title": {
-        "text": "10-FEET – 第ゼロ感（映画『THE FIRST SLAM DUNK』エンディング主題歌）",
-        "url": "https://www.youtube.com/watch?v=EsJGbHJyXYc",
+        "text": "SEKAI NO OWARI「RPG」",
+        "url": "https://www.youtube.com/watch?v=Mi9uNu35Gmk",
         "target": "_blank"
       },
       "channel": {
-        "text": "10-FEET",
-        "url": "https://www.youtube.com/channel/UCmQakL41jbAhpQhqhyszF2g",
+        "text": "sekainoowarijp",
+        "url": "https://www.youtube.com/channel/UCOYmRdtvvcQPspSmW8QsJhQ",
         "target": "_blank"
       },
-      "publishedAt": "2022-12-14",
-      "viewCount": "9128万",
-      "likeCount": "42万",
-      "commentCount": "1万",
-      "increment_d30": "137万"
+      "publishedAt": "2013-04-22",
+      "viewCount": "2億6598万",
+      "likeCount": "85.3万",
+      "commentCount": "7.3万",
+      "increment_d30": "136万"
     },
     {
       "rank": 148,
@@ -1099,10 +1099,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-10",
-      "viewCount": "1億3362万",
+      "viewCount": "1億3367万",
       "likeCount": "79.5万",
       "commentCount": "1.9万",
-      "increment_d30": "137万"
+      "increment_d30": "136万"
     },
     {
       "rank": 149,
@@ -1122,10 +1122,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-12-04",
-      "viewCount": "1億8777万",
+      "viewCount": "1億8782万",
       "likeCount": "86.7万",
       "commentCount": "3.9万",
-      "increment_d30": "136万"
+      "increment_d30": "135万"
     },
     {
       "rank": 150,
@@ -1145,7 +1145,7 @@
         "target": "_blank"
       },
       "publishedAt": "2025-08-10",
-      "viewCount": "2938万",
+      "viewCount": "2943万",
       "likeCount": "10.7万",
       "commentCount": "4.6万",
       "increment_d30": "135万"

@@ -21,7 +21,7 @@
       "viewCount": "1172万",
       "likeCount": "6.8万",
       "commentCount": "9544",
-      "increment_d1": "4291"
+      "increment_d1": "4308"
     },
     {
       "rank": 2902,
@@ -44,7 +44,7 @@
       "viewCount": "1172万",
       "likeCount": "4.4万",
       "commentCount": "4648",
-      "increment_d1": "375"
+      "increment_d1": "378"
     },
     {
       "rank": 2903,
@@ -67,7 +67,7 @@
       "viewCount": "1171万",
       "likeCount": "8.7万",
       "commentCount": "1.3万",
-      "increment_d1": "2108"
+      "increment_d1": "2011"
     },
     {
       "rank": 2904,
@@ -90,7 +90,7 @@
       "viewCount": "1170万",
       "likeCount": "21.5万",
       "commentCount": "1万",
-      "increment_d1": "1254"
+      "increment_d1": "1226"
     },
     {
       "rank": 2905,
@@ -112,8 +112,8 @@
       "publishedAt": "2019-07-19",
       "viewCount": "1169万",
       "likeCount": "4.7万",
-      "commentCount": "1709",
-      "increment_d1": "2923"
+      "commentCount": "1710",
+      "increment_d1": "3275"
     },
     {
       "rank": 2906,
@@ -133,10 +133,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-27",
-      "viewCount": "1168万",
+      "viewCount": "1169万",
       "likeCount": "16万",
       "commentCount": "7597",
-      "increment_d1": "1718"
+      "increment_d1": "1680"
     },
     {
       "rank": 2907,
@@ -159,56 +159,10 @@
       "viewCount": "1168万",
       "likeCount": "8.8万",
       "commentCount": "1.3万",
-      "increment_d1": "3880"
+      "increment_d1": "3505"
     },
     {
       "rank": 2908,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/YAucVHl6ags/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=YAucVHl6ags",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【すてきな帽子屋さん】ケロポンズ・パネルシアター",
-        "url": "https://www.youtube.com/watch?v=YAucVHl6ags",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ケロポンズ&プッピーズ",
-        "url": "https://www.youtube.com/channel/UCk_ZQUhYa0vjIAYWzZk6tLQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-06-02",
-      "viewCount": "1168万",
-      "likeCount": "-",
-      "commentCount": "-",
-      "increment_d1": "1212"
-    },
-    {
-      "rank": 2909,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/_6o3KZNhDBI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_6o3KZNhDBI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "DUSTCELL - Caffeine",
-        "url": "https://www.youtube.com/watch?v=_6o3KZNhDBI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "DUSTCELL",
-        "url": "https://www.youtube.com/channel/UCJSzxbt4Acel9JdeLiY7tJQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-05-16",
-      "viewCount": "1168万",
-      "likeCount": "3.3万",
-      "commentCount": "370",
-      "increment_d1": "983"
-    },
-    {
-      "rank": 2910,
       "thumb": {
         "img": "https://i.ytimg.com/vi/_PecUdX2j1A/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=_PecUdX2j1A",
@@ -228,10 +182,79 @@
       "viewCount": "1168万",
       "likeCount": "9万",
       "commentCount": "1.2万",
-      "increment_d1": "2767"
+      "increment_d1": "2579"
+    },
+    {
+      "rank": 2909,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/YAucVHl6ags/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=YAucVHl6ags",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【すてきな帽子屋さん】ケロポンズ・パネルシアター",
+        "url": "https://www.youtube.com/watch?v=YAucVHl6ags",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ケロポンズ&プッピーズ",
+        "url": "https://www.youtube.com/channel/UCk_ZQUhYa0vjIAYWzZk6tLQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-06-02",
+      "viewCount": "1168万",
+      "likeCount": "-",
+      "commentCount": "-",
+      "increment_d1": "1181"
+    },
+    {
+      "rank": 2910,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/_6o3KZNhDBI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_6o3KZNhDBI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "DUSTCELL - Caffeine",
+        "url": "https://www.youtube.com/watch?v=_6o3KZNhDBI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "DUSTCELL",
+        "url": "https://www.youtube.com/channel/UCJSzxbt4Acel9JdeLiY7tJQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-05-16",
+      "viewCount": "1168万",
+      "likeCount": "3.3万",
+      "commentCount": "370",
+      "increment_d1": "961"
     },
     {
       "rank": 2911,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/tHk4thfcL9Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=tHk4thfcL9Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Janne Da Arc - 月光花",
+        "url": "https://www.youtube.com/watch?v=tHk4thfcL9Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-01-25",
+      "viewCount": "1168万",
+      "likeCount": "7.6万",
+      "commentCount": "2569",
+      "increment_d1": "7896"
+    },
+    {
+      "rank": 2912,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ispTakQnfiI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ispTakQnfiI",
@@ -251,33 +274,33 @@
       "viewCount": "1167万",
       "likeCount": "8.8万",
       "commentCount": "788",
-      "increment_d1": "2948"
-    },
-    {
-      "rank": 2912,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/tHk4thfcL9Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=tHk4thfcL9Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Janne Da Arc - 月光花",
-        "url": "https://www.youtube.com/watch?v=tHk4thfcL9Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-01-25",
-      "viewCount": "1167万",
-      "likeCount": "7.6万",
-      "commentCount": "2567",
-      "increment_d1": "7821"
+      "increment_d1": "2933"
     },
     {
       "rank": 2913,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/OzGVz1ClxIc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OzGVz1ClxIc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow halation",
+        "url": "https://www.youtube.com/watch?v=OzGVz1ClxIc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "μ's - Topic",
+        "url": "https://www.youtube.com/channel/UCLLrOsGIMTOVN8pbXvMGz4g",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-09-17",
+      "viewCount": "1167万",
+      "likeCount": "6.7万",
+      "commentCount": "606",
+      "increment_d1": "1.59万"
+    },
+    {
+      "rank": 2914,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vgEVzGcr89w/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=vgEVzGcr89w",
@@ -297,10 +320,10 @@
       "viewCount": "1166万",
       "likeCount": "8.1万",
       "commentCount": "1.5万",
-      "increment_d1": "1489"
+      "increment_d1": "1314"
     },
     {
-      "rank": 2914,
+      "rank": 2915,
       "thumb": {
         "img": "https://i.ytimg.com/vi/9ZbLT4INFpw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=9ZbLT4INFpw",
@@ -320,10 +343,10 @@
       "viewCount": "1166万",
       "likeCount": "1.8万",
       "commentCount": "774",
-      "increment_d1": "164"
+      "increment_d1": "176"
     },
     {
-      "rank": 2915,
+      "rank": 2916,
       "thumb": {
         "img": "https://i.ytimg.com/vi/A5BFjVUDKPs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=A5BFjVUDKPs",
@@ -343,10 +366,33 @@
       "viewCount": "1166万",
       "likeCount": "12.5万",
       "commentCount": "3584",
-      "increment_d1": "998"
+      "increment_d1": "992"
     },
     {
-      "rank": 2916,
+      "rank": 2917,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/DNgjoJVnTvs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DNgjoJVnTvs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "B'z / イチブトゼンブ",
+        "url": "https://www.youtube.com/watch?v=DNgjoJVnTvs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Bz",
+        "url": "https://www.youtube.com/channel/UCpEEcJhBig2GqUFxcXjqiLg",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-03-24",
+      "viewCount": "1166万",
+      "likeCount": "3.8万",
+      "commentCount": "1116",
+      "increment_d1": "3129"
+    },
+    {
+      "rank": 2918,
       "thumb": {
         "img": "https://i.ytimg.com/vi/CUxIykX4hfw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=CUxIykX4hfw",
@@ -366,10 +412,10 @@
       "viewCount": "1166万",
       "likeCount": "6万",
       "commentCount": "1197",
-      "increment_d1": "1697"
+      "increment_d1": "1825"
     },
     {
-      "rank": 2917,
+      "rank": 2919,
       "thumb": {
         "img": "https://i.ytimg.com/vi/_7UIC72D8II/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=_7UIC72D8II",
@@ -389,33 +435,10 @@
       "viewCount": "1166万",
       "likeCount": "6.9万",
       "commentCount": "3.8万",
-      "increment_d1": "636"
+      "increment_d1": "671"
     },
     {
-      "rank": 2918,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/DNgjoJVnTvs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=DNgjoJVnTvs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "B'z / イチブトゼンブ",
-        "url": "https://www.youtube.com/watch?v=DNgjoJVnTvs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Bz",
-        "url": "https://www.youtube.com/channel/UCpEEcJhBig2GqUFxcXjqiLg",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-03-24",
-      "viewCount": "1166万",
-      "likeCount": "3.7万",
-      "commentCount": "1116",
-      "increment_d1": "3006"
-    },
-    {
-      "rank": 2919,
+      "rank": 2920,
       "thumb": {
         "img": "https://i.ytimg.com/vi/VYVROyKDjyE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=VYVROyKDjyE",
@@ -435,30 +458,7 @@
       "viewCount": "1165万",
       "likeCount": "2.7万",
       "commentCount": "1962",
-      "increment_d1": "273"
-    },
-    {
-      "rank": 2920,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/OzGVz1ClxIc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OzGVz1ClxIc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow halation",
-        "url": "https://www.youtube.com/watch?v=OzGVz1ClxIc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "μ's - Topic",
-        "url": "https://www.youtube.com/channel/UCLLrOsGIMTOVN8pbXvMGz4g",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-09-17",
-      "viewCount": "1165万",
-      "likeCount": "6.7万",
-      "commentCount": "604",
-      "increment_d1": "1.56万"
+      "increment_d1": "280"
     },
     {
       "rank": 2921,
@@ -478,10 +478,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-11-07",
-      "viewCount": "1164万",
+      "viewCount": "1165万",
       "likeCount": "3.5万",
       "commentCount": "925",
-      "increment_d1": "1086"
+      "increment_d1": "1058"
     },
     {
       "rank": 2922,
@@ -504,7 +504,7 @@
       "viewCount": "1164万",
       "likeCount": "-",
       "commentCount": "904",
-      "increment_d1": "1910"
+      "increment_d1": "1812"
     },
     {
       "rank": 2923,
@@ -527,10 +527,33 @@
       "viewCount": "1164万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "1949"
+      "increment_d1": "1886"
     },
     {
       "rank": 2924,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/OqEVEShYOv8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=OqEVEShYOv8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE「我逢人」Official Stage Mix",
+        "url": "https://www.youtube.com/watch?v=OqEVEShYOv8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-07-07",
+      "viewCount": "1163万",
+      "likeCount": "10.4万",
+      "commentCount": "3392",
+      "increment_d1": "1.32万"
+    },
+    {
+      "rank": 2925,
       "thumb": {
         "img": "https://i.ytimg.com/vi/-Vx0Sn16ykA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=-Vx0Sn16ykA",
@@ -550,30 +573,7 @@
       "viewCount": "1163万",
       "likeCount": "6万",
       "commentCount": "2.5万",
-      "increment_d1": "2106"
-    },
-    {
-      "rank": 2925,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/OqEVEShYOv8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=OqEVEShYOv8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE「我逢人」Official Stage Mix",
-        "url": "https://www.youtube.com/watch?v=OqEVEShYOv8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-07-07",
-      "viewCount": "1162万",
-      "likeCount": "10.4万",
-      "commentCount": "3389",
-      "increment_d1": "1.28万"
+      "increment_d1": "2215"
     },
     {
       "rank": 2926,
@@ -596,7 +596,7 @@
       "viewCount": "1162万",
       "likeCount": "3.9万",
       "commentCount": "77",
-      "increment_d1": "181"
+      "increment_d1": "142"
     },
     {
       "rank": 2927,
@@ -619,7 +619,7 @@
       "viewCount": "1162万",
       "likeCount": "4.4万",
       "commentCount": "1876",
-      "increment_d1": "1170"
+      "increment_d1": "1189"
     },
     {
       "rank": 2928,
@@ -642,7 +642,7 @@
       "viewCount": "1161万",
       "likeCount": "13万",
       "commentCount": "3244",
-      "increment_d1": "2199"
+      "increment_d1": "2132"
     },
     {
       "rank": 2929,
@@ -665,7 +665,7 @@
       "viewCount": "1161万",
       "likeCount": "6.8万",
       "commentCount": "3738",
-      "increment_d1": "423"
+      "increment_d1": "432"
     },
     {
       "rank": 2930,
@@ -688,7 +688,7 @@
       "viewCount": "1160万",
       "likeCount": "5.9万",
       "commentCount": "3533",
-      "increment_d1": "390"
+      "increment_d1": "402"
     },
     {
       "rank": 2931,
@@ -711,7 +711,7 @@
       "viewCount": "1160万",
       "likeCount": "7.5万",
       "commentCount": "7251",
-      "increment_d1": "948"
+      "increment_d1": "1146"
     },
     {
       "rank": 2932,
@@ -734,7 +734,7 @@
       "viewCount": "1160万",
       "likeCount": "2.5万",
       "commentCount": "991",
-      "increment_d1": "1026"
+      "increment_d1": "902"
     },
     {
       "rank": 2933,
@@ -756,8 +756,8 @@
       "publishedAt": "2015-07-04",
       "viewCount": "1160万",
       "likeCount": "10.6万",
-      "commentCount": "9040",
-      "increment_d1": "1195"
+      "commentCount": "9041",
+      "increment_d1": "1279"
     },
     {
       "rank": 2934,
@@ -780,7 +780,7 @@
       "viewCount": "1160万",
       "likeCount": "7.4万",
       "commentCount": "2084",
-      "increment_d1": "1396"
+      "increment_d1": "1232"
     },
     {
       "rank": 2935,
@@ -800,13 +800,36 @@
         "target": "_blank"
       },
       "publishedAt": "2018-03-12",
-      "viewCount": "1159万",
+      "viewCount": "1160万",
       "likeCount": "7.9万",
       "commentCount": "2955",
-      "increment_d1": "1695"
+      "increment_d1": "1548"
     },
     {
       "rank": 2936,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1RnBDQJyQdI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=1RnBDQJyQdI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MONKEY MAJIK - Around The World【Official Music Video】",
+        "url": "https://www.youtube.com/watch?v=1RnBDQJyQdI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "MONKEY MAJIK OFFICIAL CHANNEL",
+        "url": "https://www.youtube.com/channel/UCs9MYqANhxyLZJSkLGNx8FQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-04-03",
+      "viewCount": "1159万",
+      "likeCount": "12万",
+      "commentCount": "3721",
+      "increment_d1": "4915"
+    },
+    {
+      "rank": 2937,
       "thumb": {
         "img": "https://i.ytimg.com/vi/GAaRoZ1pJAg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=GAaRoZ1pJAg",
@@ -826,30 +849,7 @@
       "viewCount": "1159万",
       "likeCount": "2.7万",
       "commentCount": "978",
-      "increment_d1": "565"
-    },
-    {
-      "rank": 2937,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1RnBDQJyQdI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=1RnBDQJyQdI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MONKEY MAJIK - Around The World【Official Music Video】",
-        "url": "https://www.youtube.com/watch?v=1RnBDQJyQdI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "MONKEY MAJIK OFFICIAL CHANNEL",
-        "url": "https://www.youtube.com/channel/UCs9MYqANhxyLZJSkLGNx8FQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-04-03",
-      "viewCount": "1159万",
-      "likeCount": "12万",
-      "commentCount": "3720",
-      "increment_d1": "4738"
+      "increment_d1": "631"
     },
     {
       "rank": 2938,
@@ -872,7 +872,7 @@
       "viewCount": "1159万",
       "likeCount": "43.6万",
       "commentCount": "1.8万",
-      "increment_d1": "482"
+      "increment_d1": "538"
     },
     {
       "rank": 2939,
@@ -895,7 +895,7 @@
       "viewCount": "1159万",
       "likeCount": "7.5万",
       "commentCount": "42",
-      "increment_d1": "588"
+      "increment_d1": "529"
     },
     {
       "rank": 2940,
@@ -918,7 +918,7 @@
       "viewCount": "1158万",
       "likeCount": "2万",
       "commentCount": "669",
-      "increment_d1": "571"
+      "increment_d1": "662"
     },
     {
       "rank": 2941,
@@ -941,7 +941,7 @@
       "viewCount": "1158万",
       "likeCount": "16.3万",
       "commentCount": "2416",
-      "increment_d1": "1530"
+      "increment_d1": "1476"
     },
     {
       "rank": 2942,
@@ -964,7 +964,7 @@
       "viewCount": "1158万",
       "likeCount": "-",
       "commentCount": "3775",
-      "increment_d1": "429"
+      "increment_d1": "472"
     },
     {
       "rank": 2943,
@@ -987,7 +987,7 @@
       "viewCount": "1157万",
       "likeCount": "2.8万",
       "commentCount": "519",
-      "increment_d1": "705"
+      "increment_d1": "634"
     },
     {
       "rank": 2944,
@@ -1010,30 +1010,30 @@
       "viewCount": "1157万",
       "likeCount": "3.8万",
       "commentCount": "1460",
-      "increment_d1": "683"
+      "increment_d1": "685"
     },
     {
       "rank": 2945,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/zjyP7CxUaDs/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=zjyP7CxUaDs",
+        "img": "https://i.ytimg.com/vi/DvAwGsPX-_0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=DvAwGsPX-_0",
         "target": "_blank"
       },
       "title": {
-        "text": "SixTONES - \"Laugh\" In the LIFE (FocusCam @ Osaka-Jo Hall \"CHANGE THE ERA -201ix-\")",
-        "url": "https://www.youtube.com/watch?v=zjyP7CxUaDs",
+        "text": "優しい彗星",
+        "url": "https://www.youtube.com/watch?v=DvAwGsPX-_0",
         "target": "_blank"
       },
       "channel": {
-        "text": "SixTONES",
-        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
         "target": "_blank"
       },
-      "publishedAt": "2019-08-11",
+      "publishedAt": "2021-11-30",
       "viewCount": "1156万",
-      "likeCount": "-",
-      "commentCount": "6884",
-      "increment_d1": "988"
+      "likeCount": "2.9万",
+      "commentCount": "69",
+      "increment_d1": "1.04万"
     },
     {
       "rank": 2946,
@@ -1056,7 +1056,7 @@
       "viewCount": "1156万",
       "likeCount": "4.1万",
       "commentCount": "2.6万",
-      "increment_d1": "4439"
+      "increment_d1": "3059"
     },
     {
       "rank": 2947,
@@ -1079,7 +1079,7 @@
       "viewCount": "1156万",
       "likeCount": "3.1万",
       "commentCount": "1492",
-      "increment_d1": "2606"
+      "increment_d1": "2822"
     },
     {
       "rank": 2948,
@@ -1102,10 +1102,33 @@
       "viewCount": "1156万",
       "likeCount": "3.3万",
       "commentCount": "97",
-      "increment_d1": "6392"
+      "increment_d1": "6283"
     },
     {
       "rank": 2949,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/zjyP7CxUaDs/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=zjyP7CxUaDs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SixTONES - \"Laugh\" In the LIFE (FocusCam @ Osaka-Jo Hall \"CHANGE THE ERA -201ix-\")",
+        "url": "https://www.youtube.com/watch?v=zjyP7CxUaDs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SixTONES",
+        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-08-11",
+      "viewCount": "1156万",
+      "likeCount": "-",
+      "commentCount": "6885",
+      "increment_d1": "795"
+    },
+    {
+      "rank": 2950,
       "thumb": {
         "img": "https://i.ytimg.com/vi/nDOPNLzEFH0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=nDOPNLzEFH0",
@@ -1125,30 +1148,7 @@
       "viewCount": "1155万",
       "likeCount": "-",
       "commentCount": "4139",
-      "increment_d1": "170"
-    },
-    {
-      "rank": 2950,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/DvAwGsPX-_0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=DvAwGsPX-_0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "優しい彗星",
-        "url": "https://www.youtube.com/watch?v=DvAwGsPX-_0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-30",
-      "viewCount": "1155万",
-      "likeCount": "2.9万",
-      "commentCount": "69",
-      "increment_d1": "1.07万"
+      "increment_d1": "205"
     }
   ]
 }

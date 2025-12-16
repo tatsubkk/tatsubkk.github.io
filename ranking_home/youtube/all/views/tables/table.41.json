@@ -3,6 +3,29 @@
     {
       "rank": 2001,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/cZFPVAOrdXQ/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=cZFPVAOrdXQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "水樹奈々「ETERNAL BLAZE」（NANA MIZUKI LIVE CIRCUS 2013 in 西武ドーム）",
+        "url": "https://www.youtube.com/watch?v=cZFPVAOrdXQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "水樹奈々",
+        "url": "https://www.youtube.com/channel/UCLUUU-gAiTWdi67Vv1MOCRA",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-05-15",
+      "viewCount": "1741万",
+      "likeCount": "7万",
+      "commentCount": "2344",
+      "increment_d1": "1215"
+    },
+    {
+      "rank": 2002,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/JjIiK9VcIsA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=JjIiK9VcIsA",
         "target": "_blank"
@@ -18,33 +41,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-01-11",
-      "viewCount": "1740万",
+      "viewCount": "1741万",
       "likeCount": "12.2万",
       "commentCount": "3105",
-      "increment_d1": "1144"
-    },
-    {
-      "rank": 2002,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/CW-Dbbuk0uE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CW-Dbbuk0uE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SARM - BONBON GiRL (Lyric Video)",
-        "url": "https://www.youtube.com/watch?v=CW-Dbbuk0uE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SARM Official YouTube",
-        "url": "https://www.youtube.com/channel/UCFjmEqKVGqWv_WG-ctnb8zA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-10-10",
-      "viewCount": "1740万",
-      "likeCount": "12.5万",
-      "commentCount": "904",
-      "increment_d1": "7773"
+      "increment_d1": "1278"
     },
     {
       "rank": 2003,
@@ -66,11 +66,34 @@
       "publishedAt": "2020-07-22",
       "viewCount": "1740万",
       "likeCount": "16.4万",
-      "commentCount": "5738",
-      "increment_d1": "5025"
+      "commentCount": "5713",
+      "increment_d1": "5382"
     },
     {
       "rank": 2004,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/6FGZnDHoCMU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6FGZnDHoCMU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "東京スプリングセッション feat. 瀬戸口優・榎本夏樹・望月蒼太・早坂あかり・芹沢春輝・合田美桜（CV：神谷浩史・戸松遥・梶裕貴・阿澄佳奈・鈴村健一・豊崎愛生） ／ HoneyWorks",
+        "url": "https://www.youtube.com/watch?v=6FGZnDHoCMU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "HoneyWorks OFFICIAL",
+        "url": "https://www.youtube.com/channel/UCAaGaynFpku5cAx6OOSrW-w",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-11-10",
+      "viewCount": "1739万",
+      "likeCount": "33.6万",
+      "commentCount": "1.8万",
+      "increment_d1": "2854"
+    },
+    {
+      "rank": 2005,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vBfMhaT3feM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=vBfMhaT3feM",
@@ -90,30 +113,7 @@
       "viewCount": "1738万",
       "likeCount": "40.8万",
       "commentCount": "1.9万",
-      "increment_d1": "878"
-    },
-    {
-      "rank": 2005,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/6FGZnDHoCMU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6FGZnDHoCMU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "東京スプリングセッション feat. 瀬戸口優・榎本夏樹・望月蒼太・早坂あかり・芹沢春輝・合田美桜（CV：神谷浩史・戸松遥・梶裕貴・阿澄佳奈・鈴村健一・豊崎愛生） ／ HoneyWorks",
-        "url": "https://www.youtube.com/watch?v=6FGZnDHoCMU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "HoneyWorks OFFICIAL",
-        "url": "https://www.youtube.com/channel/UCAaGaynFpku5cAx6OOSrW-w",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-10",
-      "viewCount": "1738万",
-      "likeCount": "33.6万",
-      "commentCount": "1.8万",
-      "increment_d1": "2792"
+      "increment_d1": "851"
     },
     {
       "rank": 2006,
@@ -136,7 +136,7 @@
       "viewCount": "1738万",
       "likeCount": "6.1万",
       "commentCount": "2748",
-      "increment_d1": "444"
+      "increment_d1": "585"
     },
     {
       "rank": 2007,
@@ -159,7 +159,7 @@
       "viewCount": "1738万",
       "likeCount": "11.5万",
       "commentCount": "4531",
-      "increment_d1": "678"
+      "increment_d1": "673"
     },
     {
       "rank": 2008,
@@ -181,8 +181,8 @@
       "publishedAt": "2020-04-22",
       "viewCount": "1738万",
       "likeCount": "17.1万",
-      "commentCount": "4722",
-      "increment_d1": "2196"
+      "commentCount": "4723",
+      "increment_d1": "2094"
     },
     {
       "rank": 2009,
@@ -204,8 +204,8 @@
       "publishedAt": "2021-02-08",
       "viewCount": "1737万",
       "likeCount": "-",
-      "commentCount": "4465",
-      "increment_d1": "1173"
+      "commentCount": "4466",
+      "increment_d1": "1120"
     },
     {
       "rank": 2010,
@@ -225,13 +225,36 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-16",
-      "viewCount": "1734万",
+      "viewCount": "1735万",
       "likeCount": "3.6万",
       "commentCount": "1459",
-      "increment_d1": "5817"
+      "increment_d1": "5735"
     },
     {
       "rank": 2011,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/TS5DBE95CcU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TS5DBE95CcU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【童謡】いぬのおまわりさん / 横山だいすけ",
+        "url": "https://www.youtube.com/watch?v=TS5DBE95CcU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "横山だいすけチャンネル",
+        "url": "https://www.youtube.com/channel/UCp62WC9ESpa8Rwqph2XO6Zw",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-07-29",
+      "viewCount": "1733万",
+      "likeCount": "1万",
+      "commentCount": "-",
+      "increment_d1": "1.09万"
+    },
+    {
+      "rank": 2012,
       "thumb": {
         "img": "https://i.ytimg.com/vi/MJeqcGPtTqQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=MJeqcGPtTqQ",
@@ -251,30 +274,7 @@
       "viewCount": "1732万",
       "likeCount": "13.7万",
       "commentCount": "5246",
-      "increment_d1": "4169"
-    },
-    {
-      "rank": 2012,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/TS5DBE95CcU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TS5DBE95CcU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【童謡】いぬのおまわりさん / 横山だいすけ",
-        "url": "https://www.youtube.com/watch?v=TS5DBE95CcU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "横山だいすけチャンネル",
-        "url": "https://www.youtube.com/channel/UCp62WC9ESpa8Rwqph2XO6Zw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-07-29",
-      "viewCount": "1732万",
-      "likeCount": "1万",
-      "commentCount": "-",
-      "increment_d1": "9792"
+      "increment_d1": "4113"
     },
     {
       "rank": 2013,
@@ -294,10 +294,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-12",
-      "viewCount": "1731万",
+      "viewCount": "1732万",
       "likeCount": "10.6万",
       "commentCount": "2746",
-      "increment_d1": "1.18万"
+      "increment_d1": "1.12万"
     },
     {
       "rank": 2014,
@@ -320,7 +320,7 @@
       "viewCount": "1730万",
       "likeCount": "-",
       "commentCount": "1.1万",
-      "increment_d1": "2309"
+      "increment_d1": "2597"
     },
     {
       "rank": 2015,
@@ -343,10 +343,33 @@
       "viewCount": "1728万",
       "likeCount": "5.4万",
       "commentCount": "2237",
-      "increment_d1": "2887"
+      "increment_d1": "2902"
     },
     {
       "rank": 2016,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/sYMaoGflrug/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=sYMaoGflrug",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – Dear【LIVE from ゼンジン未到とヴェルトラウム〜銘銘編〜】",
+        "url": "https://www.youtube.com/watch?v=sYMaoGflrug",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-08-21",
+      "viewCount": "1727万",
+      "likeCount": "8.9万",
+      "commentCount": "3336",
+      "increment_d1": "1.99万"
+    },
+    {
+      "rank": 2017,
       "thumb": {
         "img": "https://i.ytimg.com/vi/r-qhj3sJ5qs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=r-qhj3sJ5qs",
@@ -366,33 +389,33 @@
       "viewCount": "1727万",
       "likeCount": "-",
       "commentCount": "5771",
-      "increment_d1": "904"
-    },
-    {
-      "rank": 2017,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/sYMaoGflrug/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=sYMaoGflrug",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – Dear【LIVE from ゼンジン未到とヴェルトラウム〜銘銘編〜】",
-        "url": "https://www.youtube.com/watch?v=sYMaoGflrug",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-08-21",
-      "viewCount": "1725万",
-      "likeCount": "8.9万",
-      "commentCount": "3336",
-      "increment_d1": "2万"
+      "increment_d1": "944"
     },
     {
       "rank": 2018,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/oBE4lGvGUVg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=oBE4lGvGUVg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "篠原涼子 with t.komuro / 恋しさと せつなさと 心強さと 2023 ミュージックビデオ",
+        "url": "https://www.youtube.com/watch?v=oBE4lGvGUVg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-12-09",
+      "viewCount": "1726万",
+      "likeCount": "8.2万",
+      "commentCount": "4198",
+      "increment_d1": "1.58万"
+    },
+    {
+      "rank": 2019,
       "thumb": {
         "img": "https://i.ytimg.com/vi/AgfUewgwPOw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=AgfUewgwPOw",
@@ -412,30 +435,7 @@
       "viewCount": "1725万",
       "likeCount": "7.5万",
       "commentCount": "2736",
-      "increment_d1": "1114"
-    },
-    {
-      "rank": 2019,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/oBE4lGvGUVg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=oBE4lGvGUVg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "篠原涼子 with t.komuro / 恋しさと せつなさと 心強さと 2023 ミュージックビデオ",
-        "url": "https://www.youtube.com/watch?v=oBE4lGvGUVg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-12-09",
-      "viewCount": "1724万",
-      "likeCount": "8.2万",
-      "commentCount": "4192",
-      "increment_d1": "1.56万"
+      "increment_d1": "1102"
     },
     {
       "rank": 2020,
@@ -455,10 +455,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-28",
-      "viewCount": "1722万",
+      "viewCount": "1723万",
       "likeCount": "4.2万",
       "commentCount": "1594",
-      "increment_d1": "3537"
+      "increment_d1": "3820"
     },
     {
       "rank": 2021,
@@ -480,8 +480,8 @@
       "publishedAt": "2016-09-02",
       "viewCount": "1721万",
       "likeCount": "7.7万",
-      "commentCount": "2937",
-      "increment_d1": "2638"
+      "commentCount": "2936",
+      "increment_d1": "2679"
     },
     {
       "rank": 2022,
@@ -504,33 +504,10 @@
       "viewCount": "1720万",
       "likeCount": "3.4万",
       "commentCount": "1016",
-      "increment_d1": "2651"
+      "increment_d1": "2795"
     },
     {
       "rank": 2023,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/-oj-9QqpQ4s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-oj-9QqpQ4s",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "XG - LEFT RIGHT (XG SHOOTING STAR LIVE STAGE)",
-        "url": "https://www.youtube.com/watch?v=-oj-9QqpQ4s",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "XG",
-        "url": "https://www.youtube.com/channel/UC12HMtO5MYph9dCZZ7yygng",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-01-27",
-      "viewCount": "1718万",
-      "likeCount": "29.6万",
-      "commentCount": "6821",
-      "increment_d1": "2323"
-    },
-    {
-      "rank": 2024,
       "thumb": {
         "img": "https://i.ytimg.com/vi/p8FDl_tMs4Y/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=p8FDl_tMs4Y",
@@ -547,13 +524,59 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-31",
-      "viewCount": "1718万",
+      "viewCount": "1719万",
       "likeCount": "33.2万",
-      "commentCount": "5236",
-      "increment_d1": "5811"
+      "commentCount": "5238",
+      "increment_d1": "6001"
+    },
+    {
+      "rank": 2024,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/-oj-9QqpQ4s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-oj-9QqpQ4s",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "XG - LEFT RIGHT (XG SHOOTING STAR LIVE STAGE)",
+        "url": "https://www.youtube.com/watch?v=-oj-9QqpQ4s",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "XG",
+        "url": "https://www.youtube.com/channel/UC12HMtO5MYph9dCZZ7yygng",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-01-27",
+      "viewCount": "1719万",
+      "likeCount": "29.6万",
+      "commentCount": "6820",
+      "increment_d1": "2389"
     },
     {
       "rank": 2025,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/FEkgOG5lg7s/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=FEkgOG5lg7s",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "globe / Love again",
+        "url": "https://www.youtube.com/watch?v=FEkgOG5lg7s",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "globe",
+        "url": "https://www.youtube.com/channel/UCKcuHCV3VN8mJ3qQj7Xr42Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-09-01",
+      "viewCount": "1718万",
+      "likeCount": "4万",
+      "commentCount": "2805",
+      "increment_d1": "1.05万"
+    },
+    {
+      "rank": 2026,
       "thumb": {
         "img": "https://i.ytimg.com/vi/pCFBijViryA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=pCFBijViryA",
@@ -570,13 +593,13 @@
         "target": "_blank"
       },
       "publishedAt": "2015-08-31",
-      "viewCount": "1717万",
+      "viewCount": "1718万",
       "likeCount": "4.1万",
       "commentCount": "1716",
-      "increment_d1": "522"
+      "increment_d1": "583"
     },
     {
-      "rank": 2026,
+      "rank": 2027,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qVYZFxp9Sv0/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=qVYZFxp9Sv0",
@@ -595,57 +618,11 @@
       "publishedAt": "2018-08-14",
       "viewCount": "1717万",
       "likeCount": "7.1万",
-      "commentCount": "2241",
-      "increment_d1": "2723"
-    },
-    {
-      "rank": 2027,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/FEkgOG5lg7s/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=FEkgOG5lg7s",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "globe / Love again",
-        "url": "https://www.youtube.com/watch?v=FEkgOG5lg7s",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "globe",
-        "url": "https://www.youtube.com/channel/UCKcuHCV3VN8mJ3qQj7Xr42Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-09-01",
-      "viewCount": "1717万",
-      "likeCount": "4万",
-      "commentCount": "2786",
-      "increment_d1": "8736"
+      "commentCount": "2242",
+      "increment_d1": "2794"
     },
     {
       "rank": 2028,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/wHkZfsQHaJo/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wHkZfsQHaJo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – 僕のこと【LIVE】from「GYAO!&J-WAVE present LIVE INTIMATE」",
-        "url": "https://www.youtube.com/watch?v=wHkZfsQHaJo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "UNIVERSAL MUSIC JAPAN",
-        "url": "https://www.youtube.com/channel/UCl2aT0nRejTCQO_LHZAftBw",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-07-10",
-      "viewCount": "1716万",
-      "likeCount": "11.1万",
-      "commentCount": "5068",
-      "increment_d1": "2282"
-    },
-    {
-      "rank": 2029,
       "thumb": {
         "img": "https://i.ytimg.com/vi/pfYvJACb9cs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=pfYvJACb9cs",
@@ -662,10 +639,33 @@
         "target": "_blank"
       },
       "publishedAt": "2020-10-05",
-      "viewCount": "1716万",
-      "likeCount": "8083",
+      "viewCount": "1717万",
+      "likeCount": "8084",
       "commentCount": "-",
-      "increment_d1": "8276"
+      "increment_d1": "8821"
+    },
+    {
+      "rank": 2029,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/wHkZfsQHaJo/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wHkZfsQHaJo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – 僕のこと【LIVE】from「GYAO!&J-WAVE present LIVE INTIMATE」",
+        "url": "https://www.youtube.com/watch?v=wHkZfsQHaJo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "UNIVERSAL MUSIC JAPAN",
+        "url": "https://www.youtube.com/channel/UCl2aT0nRejTCQO_LHZAftBw",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-07-10",
+      "viewCount": "1717万",
+      "likeCount": "11.1万",
+      "commentCount": "5068",
+      "increment_d1": "2469"
     },
     {
       "rank": 2030,
@@ -688,30 +688,30 @@
       "viewCount": "1716万",
       "likeCount": "7.5万",
       "commentCount": "2170",
-      "increment_d1": "1059"
+      "increment_d1": "990"
     },
     {
       "rank": 2031,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/0ls3T69eV2o/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0ls3T69eV2o",
+        "img": "https://i.ytimg.com/vi/pXtP_U1NHhc/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=pXtP_U1NHhc",
         "target": "_blank"
       },
       "title": {
-        "text": "AAA / 「涙のない世界」Music Video (short ver.)",
-        "url": "https://www.youtube.com/watch?v=0ls3T69eV2o",
+        "text": "SixTONES – 音色 [YouTube ver.]",
+        "url": "https://www.youtube.com/watch?v=pXtP_U1NHhc",
         "target": "_blank"
       },
       "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "text": "SixTONES",
+        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
         "target": "_blank"
       },
-      "publishedAt": "2016-09-14",
+      "publishedAt": "2024-04-05",
       "viewCount": "1715万",
-      "likeCount": "6万",
-      "commentCount": "3529",
-      "increment_d1": "319"
+      "likeCount": "12.4万",
+      "commentCount": "2万",
+      "increment_d1": "4778"
     },
     {
       "rank": 2032,
@@ -732,32 +732,32 @@
       },
       "publishedAt": "2021-08-12",
       "viewCount": "1715万",
-      "likeCount": "26.3万",
+      "likeCount": "26.4万",
       "commentCount": "8296",
-      "increment_d1": "2846"
+      "increment_d1": "2700"
     },
     {
       "rank": 2033,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/pXtP_U1NHhc/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=pXtP_U1NHhc",
+        "img": "https://i.ytimg.com/vi/0ls3T69eV2o/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0ls3T69eV2o",
         "target": "_blank"
       },
       "title": {
-        "text": "SixTONES – 音色 [YouTube ver.]",
-        "url": "https://www.youtube.com/watch?v=pXtP_U1NHhc",
+        "text": "AAA / 「涙のない世界」Music Video (short ver.)",
+        "url": "https://www.youtube.com/watch?v=0ls3T69eV2o",
         "target": "_blank"
       },
       "channel": {
-        "text": "SixTONES",
-        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
         "target": "_blank"
       },
-      "publishedAt": "2024-04-05",
+      "publishedAt": "2016-09-14",
       "viewCount": "1715万",
-      "likeCount": "12.4万",
-      "commentCount": "2万",
-      "increment_d1": "4803"
+      "likeCount": "6万",
+      "commentCount": "3529",
+      "increment_d1": "315"
     },
     {
       "rank": 2034,
@@ -779,8 +779,8 @@
       "publishedAt": "2022-03-18",
       "viewCount": "1714万",
       "likeCount": "50.8万",
-      "commentCount": "7491",
-      "increment_d1": "2831"
+      "commentCount": "7492",
+      "increment_d1": "2852"
     },
     {
       "rank": 2035,
@@ -803,7 +803,7 @@
       "viewCount": "1714万",
       "likeCount": "-",
       "commentCount": "6453",
-      "increment_d1": "1267"
+      "increment_d1": "1385"
     },
     {
       "rank": 2036,
@@ -825,8 +825,8 @@
       "publishedAt": "2015-08-26",
       "viewCount": "1713万",
       "likeCount": "12.6万",
-      "commentCount": "8909",
-      "increment_d1": "1042"
+      "commentCount": "8910",
+      "increment_d1": "923"
     },
     {
       "rank": 2037,
@@ -849,10 +849,33 @@
       "viewCount": "1713万",
       "likeCount": "19.5万",
       "commentCount": "2554",
-      "increment_d1": "6060"
+      "increment_d1": "5904"
     },
     {
       "rank": 2038,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/MAn9ni-drZw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MAn9ni-drZw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "西野カナ『 if 』MV Full",
+        "url": "https://www.youtube.com/watch?v=MAn9ni-drZw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-07-07",
+      "viewCount": "1713万",
+      "likeCount": "8.4万",
+      "commentCount": "2195",
+      "increment_d1": "1.74万"
+    },
+    {
+      "rank": 2039,
       "thumb": {
         "img": "https://i.ytimg.com/vi/GiuxvmiULhI/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=GiuxvmiULhI",
@@ -872,10 +895,10 @@
       "viewCount": "1713万",
       "likeCount": "5.6万",
       "commentCount": "3468",
-      "increment_d1": "2194"
+      "increment_d1": "2290"
     },
     {
-      "rank": 2039,
+      "rank": 2040,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Q3n6wMdqnhk/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Q3n6wMdqnhk",
@@ -895,10 +918,10 @@
       "viewCount": "1712万",
       "likeCount": "-",
       "commentCount": "1.1万",
-      "increment_d1": "287"
+      "increment_d1": "400"
     },
     {
-      "rank": 2040,
+      "rank": 2041,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ng08QQvjV0U/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ng08QQvjV0U",
@@ -915,33 +938,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-01",
-      "viewCount": "1711万",
+      "viewCount": "1712万",
       "likeCount": "23.2万",
-      "commentCount": "3623",
-      "increment_d1": "2738"
-    },
-    {
-      "rank": 2041,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/MAn9ni-drZw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MAn9ni-drZw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "西野カナ『 if 』MV Full",
-        "url": "https://www.youtube.com/watch?v=MAn9ni-drZw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-07-07",
-      "viewCount": "1711万",
-      "likeCount": "8.4万",
-      "commentCount": "2195",
-      "increment_d1": "1.69万"
+      "commentCount": "3624",
+      "increment_d1": "2834"
     },
     {
       "rank": 2042,
@@ -964,7 +964,7 @@
       "viewCount": "1711万",
       "likeCount": "13.5万",
       "commentCount": "2.1万",
-      "increment_d1": "655"
+      "increment_d1": "671"
     },
     {
       "rank": 2043,
@@ -987,7 +987,7 @@
       "viewCount": "1710万",
       "likeCount": "16.8万",
       "commentCount": "1.3万",
-      "increment_d1": "885"
+      "increment_d1": "891"
     },
     {
       "rank": 2044,
@@ -1010,7 +1010,7 @@
       "viewCount": "1708万",
       "likeCount": "29.8万",
       "commentCount": "1.6万",
-      "increment_d1": "601"
+      "increment_d1": "551"
     },
     {
       "rank": 2045,
@@ -1033,7 +1033,7 @@
       "viewCount": "1708万",
       "likeCount": "1.4万",
       "commentCount": "311",
-      "increment_d1": "108"
+      "increment_d1": "125"
     },
     {
       "rank": 2046,
@@ -1056,7 +1056,7 @@
       "viewCount": "1708万",
       "likeCount": "12.3万",
       "commentCount": "3194",
-      "increment_d1": "708"
+      "increment_d1": "768"
     },
     {
       "rank": 2047,
@@ -1076,36 +1076,13 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-27",
-      "viewCount": "1706万",
+      "viewCount": "1707万",
       "likeCount": "-",
       "commentCount": "1.1万",
-      "increment_d1": "1479"
+      "increment_d1": "1730"
     },
     {
       "rank": 2048,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/TIokp4MonxE/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TIokp4MonxE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【ももクロMV】猛烈宇宙交響曲・第七楽章「無限の愛」 / ももいろクローバーZ（MOURETSU UCHUU KOUKYOUKYOKU DAI NANA GAKUSHOU \"MUGEN NO AI”）",
-        "url": "https://www.youtube.com/watch?v=TIokp4MonxE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "stardustdigital",
-        "url": "https://www.youtube.com/channel/UCvy4XUrowYvliS5rpLSAMuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-02-25",
-      "viewCount": "1706万",
-      "likeCount": "3.6万",
-      "commentCount": "3433",
-      "increment_d1": "440"
-    },
-    {
-      "rank": 2049,
       "thumb": {
         "img": "https://i.ytimg.com/vi/wbQsxWKfTSU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=wbQsxWKfTSU",
@@ -1125,7 +1102,30 @@
       "viewCount": "1706万",
       "likeCount": "40万",
       "commentCount": "4.2万",
-      "increment_d1": "1993"
+      "increment_d1": "1995"
+    },
+    {
+      "rank": 2049,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/TIokp4MonxE/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TIokp4MonxE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【ももクロMV】猛烈宇宙交響曲・第七楽章「無限の愛」 / ももいろクローバーZ（MOURETSU UCHUU KOUKYOUKYOKU DAI NANA GAKUSHOU \"MUGEN NO AI”）",
+        "url": "https://www.youtube.com/watch?v=TIokp4MonxE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "stardustdigital",
+        "url": "https://www.youtube.com/channel/UCvy4XUrowYvliS5rpLSAMuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-02-25",
+      "viewCount": "1706万",
+      "likeCount": "3.6万",
+      "commentCount": "3433",
+      "increment_d1": "473"
     },
     {
       "rank": 2050,
@@ -1147,8 +1147,8 @@
       "publishedAt": "2023-08-30",
       "viewCount": "1705万",
       "likeCount": "-",
-      "commentCount": "9837",
-      "increment_d1": "4955"
+      "commentCount": "9836",
+      "increment_d1": "5107"
     }
   ]
 }
