@@ -20,8 +20,8 @@
       "publishedAt": "2018-08-09",
       "viewCount": "1499万",
       "likeCount": "7.1万",
-      "commentCount": "4310",
-      "increment_d1": "742"
+      "commentCount": "4311",
+      "increment_d1": "686"
     },
     {
       "rank": 2352,
@@ -44,7 +44,7 @@
       "viewCount": "1498万",
       "likeCount": "7.3万",
       "commentCount": "3685",
-      "increment_d1": "307"
+      "increment_d1": "320"
     },
     {
       "rank": 2353,
@@ -67,7 +67,7 @@
       "viewCount": "1496万",
       "likeCount": "-",
       "commentCount": "3575",
-      "increment_d1": "1344"
+      "increment_d1": "1298"
     },
     {
       "rank": 2354,
@@ -88,9 +88,9 @@
       },
       "publishedAt": "2019-09-10",
       "viewCount": "1495万",
-      "likeCount": "8.8万",
+      "likeCount": "8.9万",
       "commentCount": "4806",
-      "increment_d1": "1677"
+      "increment_d1": "1621"
     },
     {
       "rank": 2355,
@@ -110,10 +110,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-19",
-      "viewCount": "1494万",
+      "viewCount": "1495万",
       "likeCount": "9.2万",
       "commentCount": "4508",
-      "increment_d1": "8522"
+      "increment_d1": "8821"
     },
     {
       "rank": 2356,
@@ -136,7 +136,7 @@
       "viewCount": "1494万",
       "likeCount": "40万",
       "commentCount": "5.2万",
-      "increment_d1": "240"
+      "increment_d1": "217"
     },
     {
       "rank": 2357,
@@ -158,11 +158,34 @@
       "publishedAt": "2022-09-18",
       "viewCount": "1494万",
       "likeCount": "33.9万",
-      "commentCount": "8905",
-      "increment_d1": "1022"
+      "commentCount": "8903",
+      "increment_d1": "1080"
     },
     {
       "rank": 2358,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/at3CEJvdg2I/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=at3CEJvdg2I",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE – lovin’【LIVE from “ゼンジン未到とヴェルトラウム〜銘銘編〜”】",
+        "url": "https://www.youtube.com/watch?v=at3CEJvdg2I",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-02-25",
+      "viewCount": "1493万",
+      "likeCount": "10.2万",
+      "commentCount": "3092",
+      "increment_d1": "3.23万"
+    },
+    {
+      "rank": 2359,
       "thumb": {
         "img": "https://i.ytimg.com/vi/1zKo_I8VhkA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=1zKo_I8VhkA",
@@ -182,10 +205,10 @@
       "viewCount": "1493万",
       "likeCount": "9.9万",
       "commentCount": "2197",
-      "increment_d1": "1696"
+      "increment_d1": "2006"
     },
     {
-      "rank": 2359,
+      "rank": 2360,
       "thumb": {
         "img": "https://i.ytimg.com/vi/EBwx7GBy2oM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=EBwx7GBy2oM",
@@ -205,10 +228,10 @@
       "viewCount": "1490万",
       "likeCount": "5.4万",
       "commentCount": "2711",
-      "increment_d1": "1348"
+      "increment_d1": "1546"
     },
     {
-      "rank": 2360,
+      "rank": 2361,
       "thumb": {
         "img": "https://i.ytimg.com/vi/93SHmWI5lFE/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=93SHmWI5lFE",
@@ -231,53 +254,7 @@
       "increment_d1": "4935"
     },
     {
-      "rank": 2361,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/at3CEJvdg2I/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=at3CEJvdg2I",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE – lovin’【LIVE from “ゼンジン未到とヴェルトラウム〜銘銘編〜”】",
-        "url": "https://www.youtube.com/watch?v=at3CEJvdg2I",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-02-25",
-      "viewCount": "1490万",
-      "likeCount": "10.2万",
-      "commentCount": "3092",
-      "increment_d1": "3.11万"
-    },
-    {
       "rank": 2362,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/IG7w7vBJuU0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IG7w7vBJuU0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "三代目 J SOUL BROTHERS from EXILE TRIBE / SO RIGHT",
-        "url": "https://www.youtube.com/watch?v=IG7w7vBJuU0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-11-21",
-      "viewCount": "1489万",
-      "likeCount": "2.3万",
-      "commentCount": "1031",
-      "increment_d1": "541"
-    },
-    {
-      "rank": 2363,
       "thumb": {
         "img": "https://i.ytimg.com/vi/W16ICI0MthM/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=W16ICI0MthM",
@@ -297,7 +274,30 @@
       "viewCount": "1489万",
       "likeCount": "12.8万",
       "commentCount": "2883",
-      "increment_d1": "3240"
+      "increment_d1": "3281"
+    },
+    {
+      "rank": 2363,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/IG7w7vBJuU0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IG7w7vBJuU0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "三代目 J SOUL BROTHERS from EXILE TRIBE / SO RIGHT",
+        "url": "https://www.youtube.com/watch?v=IG7w7vBJuU0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-11-21",
+      "viewCount": "1489万",
+      "likeCount": "2.3万",
+      "commentCount": "1031",
+      "increment_d1": "497"
     },
     {
       "rank": 2364,
@@ -317,10 +317,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-12-01",
-      "viewCount": "1487万",
+      "viewCount": "1488万",
       "likeCount": "8.5万",
       "commentCount": "1.7万",
-      "increment_d1": "6389"
+      "increment_d1": "5895"
     },
     {
       "rank": 2365,
@@ -343,7 +343,7 @@
       "viewCount": "1487万",
       "likeCount": "-",
       "commentCount": "1.1万",
-      "increment_d1": "1842"
+      "increment_d1": "1767"
     },
     {
       "rank": 2366,
@@ -366,7 +366,7 @@
       "viewCount": "1486万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "1219"
+      "increment_d1": "1323"
     },
     {
       "rank": 2367,
@@ -386,10 +386,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-31",
-      "viewCount": "1484万",
+      "viewCount": "1485万",
       "likeCount": "24万",
       "commentCount": "5035",
-      "increment_d1": "5527"
+      "increment_d1": "5548"
     },
     {
       "rank": 2368,
@@ -412,7 +412,7 @@
       "viewCount": "1482万",
       "likeCount": "16.8万",
       "commentCount": "4066",
-      "increment_d1": "1281"
+      "increment_d1": "1341"
     },
     {
       "rank": 2369,
@@ -435,7 +435,7 @@
       "viewCount": "1482万",
       "likeCount": "3.1万",
       "commentCount": "4244",
-      "increment_d1": "900"
+      "increment_d1": "847"
     },
     {
       "rank": 2370,
@@ -458,7 +458,7 @@
       "viewCount": "1481万",
       "likeCount": "4.4万",
       "commentCount": "2815",
-      "increment_d1": "556"
+      "increment_d1": "607"
     },
     {
       "rank": 2371,
@@ -481,7 +481,7 @@
       "viewCount": "1481万",
       "likeCount": "14.3万",
       "commentCount": "2.9万",
-      "increment_d1": "794"
+      "increment_d1": "892"
     },
     {
       "rank": 2372,
@@ -504,7 +504,7 @@
       "viewCount": "1479万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "170"
+      "increment_d1": "178"
     },
     {
       "rank": 2373,
@@ -527,7 +527,7 @@
       "viewCount": "1478万",
       "likeCount": "-",
       "commentCount": "5207",
-      "increment_d1": "958"
+      "increment_d1": "1143"
     },
     {
       "rank": 2374,
@@ -550,7 +550,7 @@
       "viewCount": "1478万",
       "likeCount": "17.4万",
       "commentCount": "4423",
-      "increment_d1": "3087"
+      "increment_d1": "3607"
     },
     {
       "rank": 2375,
@@ -573,7 +573,7 @@
       "viewCount": "1476万",
       "likeCount": "20万",
       "commentCount": "2591",
-      "increment_d1": "3497"
+      "increment_d1": "3579"
     },
     {
       "rank": 2376,
@@ -593,10 +593,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-08-30",
-      "viewCount": "1475万",
+      "viewCount": "1476万",
       "likeCount": "21.9万",
       "commentCount": "3637",
-      "increment_d1": "826"
+      "increment_d1": "881"
     },
     {
       "rank": 2377,
@@ -619,10 +619,33 @@
       "viewCount": "1474万",
       "likeCount": "10.2万",
       "commentCount": "1.4万",
-      "increment_d1": "2553"
+      "increment_d1": "2840"
     },
     {
       "rank": 2378,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/EYGGd2NKwtI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=EYGGd2NKwtI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "手嶌葵 - 森の小さなレストラン（Official Audio）",
+        "url": "https://www.youtube.com/watch?v=EYGGd2NKwtI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "手嶌葵",
+        "url": "https://www.youtube.com/channel/UCydOdaFQun43tPMSiSbbd_Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-04-11",
+      "viewCount": "1474万",
+      "likeCount": "52.7万",
+      "commentCount": "1.6万",
+      "increment_d1": "1.33万"
+    },
+    {
+      "rank": 2379,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3_52f2_DioQ/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=3_52f2_DioQ",
@@ -642,10 +665,10 @@
       "viewCount": "1474万",
       "likeCount": "-",
       "commentCount": "3326",
-      "increment_d1": "1071"
+      "increment_d1": "1141"
     },
     {
-      "rank": 2379,
+      "rank": 2380,
       "thumb": {
         "img": "https://i.ytimg.com/vi/EyI_xZKisUw/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=EyI_xZKisUw",
@@ -665,10 +688,10 @@
       "viewCount": "1474万",
       "likeCount": "13万",
       "commentCount": "4021",
-      "increment_d1": "700"
+      "increment_d1": "819"
     },
     {
-      "rank": 2380,
+      "rank": 2381,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Wg0sFQ9Q3-Y/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Wg0sFQ9Q3-Y",
@@ -688,30 +711,7 @@
       "viewCount": "1473万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "878"
-    },
-    {
-      "rank": 2381,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/EYGGd2NKwtI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=EYGGd2NKwtI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "手嶌葵 - 森の小さなレストラン（Official Audio）",
-        "url": "https://www.youtube.com/watch?v=EYGGd2NKwtI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "手嶌葵",
-        "url": "https://www.youtube.com/channel/UCydOdaFQun43tPMSiSbbd_Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-04-11",
-      "viewCount": "1473万",
-      "likeCount": "52.6万",
-      "commentCount": "1.6万",
-      "increment_d1": "1.36万"
+      "increment_d1": "1024"
     },
     {
       "rank": 2382,
@@ -734,7 +734,7 @@
       "viewCount": "1473万",
       "likeCount": "16.1万",
       "commentCount": "2654",
-      "increment_d1": "1090"
+      "increment_d1": "1183"
     },
     {
       "rank": 2383,
@@ -757,7 +757,7 @@
       "viewCount": "1473万",
       "likeCount": "14.5万",
       "commentCount": "-",
-      "increment_d1": "149"
+      "increment_d1": "140"
     },
     {
       "rank": 2384,
@@ -780,7 +780,7 @@
       "viewCount": "1470万",
       "likeCount": "23万",
       "commentCount": "5564",
-      "increment_d1": "1657"
+      "increment_d1": "1678"
     },
     {
       "rank": 2385,
@@ -803,7 +803,7 @@
       "viewCount": "1468万",
       "likeCount": "14.3万",
       "commentCount": "3211",
-      "increment_d1": "2365"
+      "increment_d1": "2285"
     },
     {
       "rank": 2386,
@@ -826,7 +826,7 @@
       "viewCount": "1468万",
       "likeCount": "3.5万",
       "commentCount": "1250",
-      "increment_d1": "170"
+      "increment_d1": "173"
     },
     {
       "rank": 2387,
@@ -846,10 +846,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-29",
-      "viewCount": "1466万",
+      "viewCount": "1468万",
       "likeCount": "7.3万",
-      "commentCount": "3750",
-      "increment_d1": "1.19万"
+      "commentCount": "3754",
+      "increment_d1": "1.23万"
     },
     {
       "rank": 2388,
@@ -871,8 +871,8 @@
       "publishedAt": "2022-03-27",
       "viewCount": "1463万",
       "likeCount": "26.2万",
-      "commentCount": "4514",
-      "increment_d1": "1225"
+      "commentCount": "4515",
+      "increment_d1": "1138"
     },
     {
       "rank": 2389,
@@ -895,7 +895,7 @@
       "viewCount": "1462万",
       "likeCount": "5.3万",
       "commentCount": "3455",
-      "increment_d1": "864"
+      "increment_d1": "877"
     },
     {
       "rank": 2390,
@@ -918,7 +918,7 @@
       "viewCount": "1462万",
       "likeCount": "28.3万",
       "commentCount": "566",
-      "increment_d1": "518"
+      "increment_d1": "482"
     },
     {
       "rank": 2391,
@@ -941,7 +941,7 @@
       "viewCount": "1461万",
       "likeCount": "-",
       "commentCount": "1.5万",
-      "increment_d1": "1091"
+      "increment_d1": "1174"
     },
     {
       "rank": 2392,
@@ -964,10 +964,33 @@
       "viewCount": "1461万",
       "likeCount": "4.1万",
       "commentCount": "1472",
-      "increment_d1": "452"
+      "increment_d1": "518"
     },
     {
       "rank": 2393,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/8Bbao7u6DH8/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8Bbao7u6DH8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MAN WITH A MISSION　『When My Devil Rises』",
+        "url": "https://www.youtube.com/watch?v=8Bbao7u6DH8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-07-23",
+      "viewCount": "1461万",
+      "likeCount": "5.4万",
+      "commentCount": "1308",
+      "increment_d1": "2676"
+    },
+    {
+      "rank": 2394,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Zf59GBy4564/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Zf59GBy4564",
@@ -987,10 +1010,10 @@
       "viewCount": "1461万",
       "likeCount": "7.6万",
       "commentCount": "8万",
-      "increment_d1": "682"
+      "increment_d1": "852"
     },
     {
-      "rank": 2394,
+      "rank": 2395,
       "thumb": {
         "img": "https://i.ytimg.com/vi/2hTnAKvnDrA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2hTnAKvnDrA",
@@ -1010,30 +1033,7 @@
       "viewCount": "1461万",
       "likeCount": "4.6万",
       "commentCount": "2443",
-      "increment_d1": "335"
-    },
-    {
-      "rank": 2395,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/8Bbao7u6DH8/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8Bbao7u6DH8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MAN WITH A MISSION　『When My Devil Rises』",
-        "url": "https://www.youtube.com/watch?v=8Bbao7u6DH8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-07-23",
-      "viewCount": "1460万",
-      "likeCount": "5.4万",
-      "commentCount": "1308",
-      "increment_d1": "2578"
+      "increment_d1": "327"
     },
     {
       "rank": 2396,
@@ -1053,13 +1053,36 @@
         "target": "_blank"
       },
       "publishedAt": "2017-05-11",
-      "viewCount": "1459万",
+      "viewCount": "1460万",
       "likeCount": "6.6万",
-      "commentCount": "4024",
-      "increment_d1": "489"
+      "commentCount": "4025",
+      "increment_d1": "452"
     },
     {
       "rank": 2397,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/KQZ75gaTktU/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=KQZ75gaTktU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "西野カナ『もっと…』MV Full",
+        "url": "https://www.youtube.com/watch?v=KQZ75gaTktU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-08-27",
+      "viewCount": "1459万",
+      "likeCount": "6.1万",
+      "commentCount": "1112",
+      "increment_d1": "1.83万"
+    },
+    {
+      "rank": 2398,
       "thumb": {
         "img": "https://i.ytimg.com/vi/FNn6E_fkxFg/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=FNn6E_fkxFg",
@@ -1079,10 +1102,10 @@
       "viewCount": "1459万",
       "likeCount": "13.8万",
       "commentCount": "3561",
-      "increment_d1": "1358"
+      "increment_d1": "1577"
     },
     {
-      "rank": 2398,
+      "rank": 2399,
       "thumb": {
         "img": "https://i.ytimg.com/vi/vrnn9aUT2Ag/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=vrnn9aUT2Ag",
@@ -1102,10 +1125,10 @@
       "viewCount": "1458万",
       "likeCount": "22.2万",
       "commentCount": "5004",
-      "increment_d1": "2623"
+      "increment_d1": "2591"
     },
     {
-      "rank": 2399,
+      "rank": 2400,
       "thumb": {
         "img": "https://i.ytimg.com/vi/mDj6FQgOY8E/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=mDj6FQgOY8E",
@@ -1126,29 +1149,6 @@
       "likeCount": "13.1万",
       "commentCount": "5099",
       "increment_d1": "1211"
-    },
-    {
-      "rank": 2400,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/KQZ75gaTktU/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=KQZ75gaTktU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "西野カナ『もっと…』MV Full",
-        "url": "https://www.youtube.com/watch?v=KQZ75gaTktU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-08-27",
-      "viewCount": "1457万",
-      "likeCount": "6.1万",
-      "commentCount": "1110",
-      "increment_d1": "1.73万"
     }
   ]
 }
