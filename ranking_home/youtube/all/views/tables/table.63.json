@@ -20,8 +20,8 @@
       "publishedAt": "2017-07-19",
       "viewCount": "1093万",
       "likeCount": "8.8万",
-      "commentCount": "171",
-      "increment_d1": "790"
+      "commentCount": "172",
+      "increment_d1": "1108"
     },
     {
       "rank": 3102,
@@ -44,7 +44,7 @@
       "viewCount": "1092万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "3843"
+      "increment_d1": "3538"
     },
     {
       "rank": 3103,
@@ -67,7 +67,7 @@
       "viewCount": "1091万",
       "likeCount": "1.9万",
       "commentCount": "1816",
-      "increment_d1": "232"
+      "increment_d1": "235"
     },
     {
       "rank": 3104,
@@ -89,8 +89,8 @@
       "publishedAt": "2009-06-27",
       "viewCount": "1091万",
       "likeCount": "6.2万",
-      "commentCount": "3230",
-      "increment_d1": "2493"
+      "commentCount": "3231",
+      "increment_d1": "2358"
     },
     {
       "rank": 3105,
@@ -112,80 +112,11 @@
       "publishedAt": "2023-05-21",
       "viewCount": "1090万",
       "likeCount": "18万",
-      "commentCount": "4115",
-      "increment_d1": "2704"
+      "commentCount": "4114",
+      "increment_d1": "2871"
     },
     {
       "rank": 3106,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/x0dNpGO1pCk/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=x0dNpGO1pCk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Poppy - Moshi Moshi (Official Video)",
-        "url": "https://www.youtube.com/watch?v=x0dNpGO1pCk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Poppy",
-        "url": "https://www.youtube.com/channel/UC8JE00xTMBOqKs7o0grFTfQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-11-10",
-      "viewCount": "1090万",
-      "likeCount": "23.1万",
-      "commentCount": "1.9万",
-      "increment_d1": "370"
-    },
-    {
-      "rank": 3107,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/s0X311VDUeg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=s0X311VDUeg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BAD HOP - Bayside Dream feat. T-Pablow, Tiji Jojo & Benjazzy (Official Video)",
-        "url": "https://www.youtube.com/watch?v=s0X311VDUeg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BAD HOP",
-        "url": "https://www.youtube.com/channel/UCcb0Ixexedx7eXLzgYZh6bg",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-08-06",
-      "viewCount": "1090万",
-      "likeCount": "4.4万",
-      "commentCount": "1998",
-      "increment_d1": "1686"
-    },
-    {
-      "rank": 3108,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/6IKqsDuUqWw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=6IKqsDuUqWw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[MV]立ち入り禁止／まふまふ【オリジナル曲】",
-        "url": "https://www.youtube.com/watch?v=6IKqsDuUqWw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "まふまふちゃんねる",
-        "url": "https://www.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-04-11",
-      "viewCount": "1090万",
-      "likeCount": "11.1万",
-      "commentCount": "3177",
-      "increment_d1": "837"
-    },
-    {
-      "rank": 3109,
       "thumb": {
         "img": "https://i.ytimg.com/vi/x4aWXNWPrtY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=x4aWXNWPrtY",
@@ -205,7 +136,76 @@
       "viewCount": "1090万",
       "likeCount": "3.9万",
       "commentCount": "1177",
-      "increment_d1": "6063"
+      "increment_d1": "5679"
+    },
+    {
+      "rank": 3107,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/x0dNpGO1pCk/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=x0dNpGO1pCk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Poppy - Moshi Moshi (Official Video)",
+        "url": "https://www.youtube.com/watch?v=x0dNpGO1pCk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Poppy",
+        "url": "https://www.youtube.com/channel/UC8JE00xTMBOqKs7o0grFTfQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-11-10",
+      "viewCount": "1090万",
+      "likeCount": "23.1万",
+      "commentCount": "1.9万",
+      "increment_d1": "341"
+    },
+    {
+      "rank": 3108,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/s0X311VDUeg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=s0X311VDUeg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BAD HOP - Bayside Dream feat. T-Pablow, Tiji Jojo & Benjazzy (Official Video)",
+        "url": "https://www.youtube.com/watch?v=s0X311VDUeg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BAD HOP",
+        "url": "https://www.youtube.com/channel/UCcb0Ixexedx7eXLzgYZh6bg",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-08-06",
+      "viewCount": "1090万",
+      "likeCount": "4.4万",
+      "commentCount": "1998",
+      "increment_d1": "1894"
+    },
+    {
+      "rank": 3109,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/6IKqsDuUqWw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=6IKqsDuUqWw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[MV]立ち入り禁止／まふまふ【オリジナル曲】",
+        "url": "https://www.youtube.com/watch?v=6IKqsDuUqWw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "まふまふちゃんねる",
+        "url": "https://www.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-04-11",
+      "viewCount": "1090万",
+      "likeCount": "11.1万",
+      "commentCount": "3177",
+      "increment_d1": "818"
     },
     {
       "rank": 3110,
@@ -227,8 +227,8 @@
       "publishedAt": "2022-09-27",
       "viewCount": "1089万",
       "likeCount": "6.3万",
-      "commentCount": "3597",
-      "increment_d1": "7283"
+      "commentCount": "3595",
+      "increment_d1": "7143"
     },
     {
       "rank": 3111,
@@ -250,8 +250,8 @@
       "publishedAt": "2013-05-28",
       "viewCount": "1088万",
       "likeCount": "2.3万",
-      "commentCount": "925",
-      "increment_d1": "1553"
+      "commentCount": "924",
+      "increment_d1": "1658"
     },
     {
       "rank": 3112,
@@ -274,7 +274,7 @@
       "viewCount": "1088万",
       "likeCount": "21.2万",
       "commentCount": "6497",
-      "increment_d1": "467"
+      "increment_d1": "412"
     },
     {
       "rank": 3113,
@@ -297,7 +297,7 @@
       "viewCount": "1087万",
       "likeCount": "13.8万",
       "commentCount": "2609",
-      "increment_d1": "2169"
+      "increment_d1": "2120"
     },
     {
       "rank": 3114,
@@ -320,7 +320,7 @@
       "viewCount": "1086万",
       "likeCount": "16.3万",
       "commentCount": "3108",
-      "increment_d1": "1575"
+      "increment_d1": "1506"
     },
     {
       "rank": 3115,
@@ -343,7 +343,7 @@
       "viewCount": "1086万",
       "likeCount": "10万",
       "commentCount": "1529",
-      "increment_d1": "2965"
+      "increment_d1": "3138"
     },
     {
       "rank": 3116,
@@ -366,7 +366,7 @@
       "viewCount": "1086万",
       "likeCount": "7.2万",
       "commentCount": "1030",
-      "increment_d1": "892"
+      "increment_d1": "934"
     },
     {
       "rank": 3117,
@@ -389,7 +389,7 @@
       "viewCount": "1085万",
       "likeCount": "-",
       "commentCount": "8653",
-      "increment_d1": "3075"
+      "increment_d1": "3305"
     },
     {
       "rank": 3118,
@@ -412,7 +412,7 @@
       "viewCount": "1085万",
       "likeCount": "3.9万",
       "commentCount": "871",
-      "increment_d1": "1449"
+      "increment_d1": "1495"
     },
     {
       "rank": 3119,
@@ -432,10 +432,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-09-26",
-      "viewCount": "1083万",
+      "viewCount": "1084万",
       "likeCount": "19.6万",
       "commentCount": "9807",
-      "increment_d1": "2070"
+      "increment_d1": "1907"
     },
     {
       "rank": 3120,
@@ -458,7 +458,7 @@
       "viewCount": "1083万",
       "likeCount": "15.2万",
       "commentCount": "4499",
-      "increment_d1": "1045"
+      "increment_d1": "990"
     },
     {
       "rank": 3121,
@@ -481,7 +481,7 @@
       "viewCount": "1082万",
       "likeCount": "-",
       "commentCount": "1427",
-      "increment_d1": "885"
+      "increment_d1": "1117"
     },
     {
       "rank": 3122,
@@ -504,7 +504,7 @@
       "viewCount": "1082万",
       "likeCount": "8.6万",
       "commentCount": "3827",
-      "increment_d1": "1379"
+      "increment_d1": "1138"
     },
     {
       "rank": 3123,
@@ -526,8 +526,8 @@
       "publishedAt": "2013-12-24",
       "viewCount": "1081万",
       "likeCount": "2.7万",
-      "commentCount": "1078",
-      "increment_d1": "889"
+      "commentCount": "1079",
+      "increment_d1": "1325"
     },
     {
       "rank": 3124,
@@ -547,10 +547,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-11-27",
-      "viewCount": "1080万",
+      "viewCount": "1081万",
       "likeCount": "3.7万",
-      "commentCount": "1874",
-      "increment_d1": "7363"
+      "commentCount": "1875",
+      "increment_d1": "7854"
     },
     {
       "rank": 3125,
@@ -573,7 +573,7 @@
       "viewCount": "1080万",
       "likeCount": "12.3万",
       "commentCount": "2.6万",
-      "increment_d1": "2282"
+      "increment_d1": "2180"
     },
     {
       "rank": 3126,
@@ -596,33 +596,10 @@
       "viewCount": "1079万",
       "likeCount": "4.4万",
       "commentCount": "2025",
-      "increment_d1": "763"
+      "increment_d1": "767"
     },
     {
       "rank": 3127,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/yR0KgP7OrSw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=yR0KgP7OrSw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "My Hair is Bad – 告白　(Official Music Video)",
-        "url": "https://www.youtube.com/watch?v=yR0KgP7OrSw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "My Hair is Bad",
-        "url": "https://www.youtube.com/channel/UCYgA-dCbtiGdyIwadjcNgpg",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-09-28",
-      "viewCount": "1078万",
-      "likeCount": "7.2万",
-      "commentCount": "1065",
-      "increment_d1": "668"
-    },
-    {
-      "rank": 3128,
       "thumb": {
         "img": "https://i.ytimg.com/vi/FMrqlo_L-gY/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=FMrqlo_L-gY",
@@ -639,10 +616,33 @@
         "target": "_blank"
       },
       "publishedAt": "2018-03-11",
-      "viewCount": "1078万",
+      "viewCount": "1079万",
       "likeCount": "-",
       "commentCount": "1.5万",
-      "increment_d1": "645"
+      "increment_d1": "723"
+    },
+    {
+      "rank": 3128,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/yR0KgP7OrSw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=yR0KgP7OrSw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "My Hair is Bad – 告白　(Official Music Video)",
+        "url": "https://www.youtube.com/watch?v=yR0KgP7OrSw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "My Hair is Bad",
+        "url": "https://www.youtube.com/channel/UCYgA-dCbtiGdyIwadjcNgpg",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-09-28",
+      "viewCount": "1079万",
+      "likeCount": "7.2万",
+      "commentCount": "1065",
+      "increment_d1": "586"
     },
     {
       "rank": 3129,
@@ -662,10 +662,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-02-23",
-      "viewCount": "1077万",
+      "viewCount": "1078万",
       "likeCount": "11.1万",
       "commentCount": "2753",
-      "increment_d1": "2491"
+      "increment_d1": "2425"
     },
     {
       "rank": 3130,
@@ -688,7 +688,7 @@
       "viewCount": "1077万",
       "likeCount": "-",
       "commentCount": "1万",
-      "increment_d1": "1524"
+      "increment_d1": "1478"
     },
     {
       "rank": 3131,
@@ -710,11 +710,57 @@
       "publishedAt": "2020-07-14",
       "viewCount": "1077万",
       "likeCount": "8.4万",
-      "commentCount": "3066",
-      "increment_d1": "5352"
+      "commentCount": "3069",
+      "increment_d1": "5479"
     },
     {
       "rank": 3132,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/nhT7uzv6uxI/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=nhT7uzv6uxI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【ののちゃん】ドレミのかいだん／ののちゃん(村方乃々佳)",
+        "url": "https://www.youtube.com/watch?v=nhT7uzv6uxI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "コロムビアキッズ TV",
+        "url": "https://www.youtube.com/channel/UCY23ZWAoiQk_JrJfmV0l4fw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-05-30",
+      "viewCount": "1077万",
+      "likeCount": "9728",
+      "commentCount": "-",
+      "increment_d1": "4264"
+    },
+    {
+      "rank": 3133,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/hSoD1fcc_Bg/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=hSoD1fcc_Bg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "V6 / TAKE ME HIGHER（YouTube Ver.）",
+        "url": "https://www.youtube.com/watch?v=hSoD1fcc_Bg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-05-05",
+      "viewCount": "1077万",
+      "likeCount": "-",
+      "commentCount": "-",
+      "increment_d1": "6052"
+    },
+    {
+      "rank": 3134,
       "thumb": {
         "img": "https://i.ytimg.com/vi/IPw_qU2kYHs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=IPw_qU2kYHs",
@@ -734,53 +780,7 @@
       "viewCount": "1076万",
       "likeCount": "4.1万",
       "commentCount": "1347",
-      "increment_d1": "426"
-    },
-    {
-      "rank": 3133,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/nhT7uzv6uxI/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=nhT7uzv6uxI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【ののちゃん】ドレミのかいだん／ののちゃん(村方乃々佳)",
-        "url": "https://www.youtube.com/watch?v=nhT7uzv6uxI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "コロムビアキッズ TV",
-        "url": "https://www.youtube.com/channel/UCY23ZWAoiQk_JrJfmV0l4fw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-05-30",
-      "viewCount": "1076万",
-      "likeCount": "9724",
-      "commentCount": "-",
-      "increment_d1": "4291"
-    },
-    {
-      "rank": 3134,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/hSoD1fcc_Bg/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=hSoD1fcc_Bg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "V6 / TAKE ME HIGHER（YouTube Ver.）",
-        "url": "https://www.youtube.com/watch?v=hSoD1fcc_Bg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-05-05",
-      "viewCount": "1076万",
-      "likeCount": "-",
-      "commentCount": "-",
-      "increment_d1": "5878"
+      "increment_d1": "310"
     },
     {
       "rank": 3135,
@@ -803,7 +803,7 @@
       "viewCount": "1073万",
       "likeCount": "1.1万",
       "commentCount": "-",
-      "increment_d1": "2314"
+      "increment_d1": "2138"
     },
     {
       "rank": 3136,
@@ -826,7 +826,7 @@
       "viewCount": "1072万",
       "likeCount": "1.8万",
       "commentCount": "380",
-      "increment_d1": "484"
+      "increment_d1": "618"
     },
     {
       "rank": 3137,
@@ -849,7 +849,7 @@
       "viewCount": "1072万",
       "likeCount": "14.5万",
       "commentCount": "1782",
-      "increment_d1": "2282"
+      "increment_d1": "2309"
     },
     {
       "rank": 3138,
@@ -871,8 +871,8 @@
       "publishedAt": "2013-05-28",
       "viewCount": "1071万",
       "likeCount": "2.5万",
-      "commentCount": "1465",
-      "increment_d1": "1699"
+      "commentCount": "1464",
+      "increment_d1": "1691"
     },
     {
       "rank": 3139,
@@ -895,7 +895,7 @@
       "viewCount": "1071万",
       "likeCount": "10.8万",
       "commentCount": "-",
-      "increment_d1": "370"
+      "increment_d1": "304"
     },
     {
       "rank": 3140,
@@ -918,7 +918,7 @@
       "viewCount": "1070万",
       "likeCount": "35.1万",
       "commentCount": "1.3万",
-      "increment_d1": "57"
+      "increment_d1": "87"
     },
     {
       "rank": 3141,
@@ -941,7 +941,7 @@
       "viewCount": "1069万",
       "likeCount": "6.8万",
       "commentCount": "5396",
-      "increment_d1": "1148"
+      "increment_d1": "1187"
     },
     {
       "rank": 3142,
@@ -964,7 +964,7 @@
       "viewCount": "1068万",
       "likeCount": "6.3万",
       "commentCount": "2457",
-      "increment_d1": "69"
+      "increment_d1": "88"
     },
     {
       "rank": 3143,
@@ -987,7 +987,7 @@
       "viewCount": "1067万",
       "likeCount": "4.4万",
       "commentCount": "1420",
-      "increment_d1": "846"
+      "increment_d1": "752"
     },
     {
       "rank": 3144,
@@ -1010,7 +1010,7 @@
       "viewCount": "1067万",
       "likeCount": "7.5万",
       "commentCount": "4273",
-      "increment_d1": "1632"
+      "increment_d1": "1426"
     },
     {
       "rank": 3145,
@@ -1032,8 +1032,8 @@
       "publishedAt": "2015-11-02",
       "viewCount": "1066万",
       "likeCount": "12.2万",
-      "commentCount": "3278",
-      "increment_d1": "745"
+      "commentCount": "3277",
+      "increment_d1": "737"
     },
     {
       "rank": 3146,
@@ -1056,7 +1056,7 @@
       "viewCount": "1066万",
       "likeCount": "6.5万",
       "commentCount": "2311",
-      "increment_d1": "1115"
+      "increment_d1": "1083"
     },
     {
       "rank": 3147,
@@ -1079,7 +1079,7 @@
       "viewCount": "1065万",
       "likeCount": "2.1万",
       "commentCount": "603",
-      "increment_d1": "452"
+      "increment_d1": "356"
     },
     {
       "rank": 3148,
@@ -1101,8 +1101,8 @@
       "publishedAt": "2018-07-29",
       "viewCount": "1064万",
       "likeCount": "5.8万",
-      "commentCount": "1732",
-      "increment_d1": "1473"
+      "commentCount": "1731",
+      "increment_d1": "1434"
     },
     {
       "rank": 3149,
@@ -1125,7 +1125,7 @@
       "viewCount": "1064万",
       "likeCount": "30万",
       "commentCount": "1.3万",
-      "increment_d1": "652"
+      "increment_d1": "630"
     },
     {
       "rank": 3150,
@@ -1147,8 +1147,8 @@
       "publishedAt": "2011-04-06",
       "viewCount": "1064万",
       "likeCount": "16.8万",
-      "commentCount": "9101",
-      "increment_d1": "3554"
+      "commentCount": "9105",
+      "increment_d1": "2329"
     }
   ]
 }

@@ -21,7 +21,7 @@
       "viewCount": "1130万",
       "likeCount": "17万",
       "commentCount": "3761",
-      "increment_d1": "2960"
+      "increment_d1": "3187"
     },
     {
       "rank": 3002,
@@ -44,7 +44,7 @@
       "viewCount": "1129万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "4457"
+      "increment_d1": "4358"
     },
     {
       "rank": 3003,
@@ -66,8 +66,8 @@
       "publishedAt": "2023-11-13",
       "viewCount": "1129万",
       "likeCount": "7.9万",
-      "commentCount": "1213",
-      "increment_d1": "6108"
+      "commentCount": "1214",
+      "increment_d1": "6086"
     },
     {
       "rank": 3004,
@@ -90,7 +90,7 @@
       "viewCount": "1128万",
       "likeCount": "9.6万",
       "commentCount": "2590",
-      "increment_d1": "331"
+      "increment_d1": "324"
     },
     {
       "rank": 3005,
@@ -113,7 +113,7 @@
       "viewCount": "1126万",
       "likeCount": "6.1万",
       "commentCount": "3107",
-      "increment_d1": "853"
+      "increment_d1": "737"
     },
     {
       "rank": 3006,
@@ -136,7 +136,7 @@
       "viewCount": "1126万",
       "likeCount": "29.2万",
       "commentCount": "2.1万",
-      "increment_d1": "889"
+      "increment_d1": "901"
     },
     {
       "rank": 3007,
@@ -156,10 +156,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-12",
-      "viewCount": "1125万",
+      "viewCount": "1126万",
       "likeCount": "9.2万",
       "commentCount": "2.2万",
-      "increment_d1": "1132"
+      "increment_d1": "1124"
     },
     {
       "rank": 3008,
@@ -182,7 +182,7 @@
       "viewCount": "1125万",
       "likeCount": "3.8万",
       "commentCount": "853",
-      "increment_d1": "2446"
+      "increment_d1": "2595"
     },
     {
       "rank": 3009,
@@ -205,7 +205,7 @@
       "viewCount": "1125万",
       "likeCount": "1.1万",
       "commentCount": "-",
-      "increment_d1": "986"
+      "increment_d1": "969"
     },
     {
       "rank": 3010,
@@ -228,7 +228,7 @@
       "viewCount": "1125万",
       "likeCount": "13.3万",
       "commentCount": "3111",
-      "increment_d1": "3261"
+      "increment_d1": "3330"
     },
     {
       "rank": 3011,
@@ -251,10 +251,33 @@
       "viewCount": "1124万",
       "likeCount": "3.2万",
       "commentCount": "702",
-      "increment_d1": "67"
+      "increment_d1": "57"
     },
     {
       "rank": 3012,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/CSgG6wPB0Kw/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=CSgG6wPB0Kw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ラブレター",
+        "url": "https://www.youtube.com/watch?v=CSgG6wPB0Kw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-11-30",
+      "viewCount": "1123万",
+      "likeCount": "4.7万",
+      "commentCount": "103",
+      "increment_d1": "6893"
+    },
+    {
+      "rank": 3013,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Q6pTQd24iLs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Q6pTQd24iLs",
@@ -274,10 +297,10 @@
       "viewCount": "1123万",
       "likeCount": "6.8万",
       "commentCount": "2634",
-      "increment_d1": "233"
+      "increment_d1": "307"
     },
     {
-      "rank": 3013,
+      "rank": 3014,
       "thumb": {
         "img": "https://i.ytimg.com/vi/pKEOgP5ARXU/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=pKEOgP5ARXU",
@@ -297,30 +320,7 @@
       "viewCount": "1123万",
       "likeCount": "12.8万",
       "commentCount": "2090",
-      "increment_d1": "1598"
-    },
-    {
-      "rank": 3014,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/mbINajwhMs0/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=mbINajwhMs0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "平井 大 /  For The Future from「OHANA」",
-        "url": "https://www.youtube.com/watch?v=mbINajwhMs0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "LastrumMusic",
-        "url": "https://www.youtube.com/channel/UCpjk4srT6-kS3xHysmQGZWQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-05-01",
-      "viewCount": "1123万",
-      "likeCount": "3.9万",
-      "commentCount": "1113",
-      "increment_d1": "488"
+      "increment_d1": "1427"
     },
     {
       "rank": 3015,
@@ -342,31 +342,31 @@
       "publishedAt": "2012-04-09",
       "viewCount": "1123万",
       "likeCount": "9.4万",
-      "commentCount": "2179",
-      "increment_d1": "869"
+      "commentCount": "2180",
+      "increment_d1": "975"
     },
     {
       "rank": 3016,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/CSgG6wPB0Kw/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CSgG6wPB0Kw",
+        "img": "https://i.ytimg.com/vi/mbINajwhMs0/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=mbINajwhMs0",
         "target": "_blank"
       },
       "title": {
-        "text": "ラブレター",
-        "url": "https://www.youtube.com/watch?v=CSgG6wPB0Kw",
+        "text": "平井 大 /  For The Future from「OHANA」",
+        "url": "https://www.youtube.com/watch?v=mbINajwhMs0",
         "target": "_blank"
       },
       "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "text": "LastrumMusic",
+        "url": "https://www.youtube.com/channel/UCpjk4srT6-kS3xHysmQGZWQ",
         "target": "_blank"
       },
-      "publishedAt": "2021-11-30",
+      "publishedAt": "2011-05-01",
       "viewCount": "1123万",
-      "likeCount": "4.7万",
-      "commentCount": "103",
-      "increment_d1": "7149"
+      "likeCount": "3.9万",
+      "commentCount": "1113",
+      "increment_d1": "515"
     },
     {
       "rank": 3017,
@@ -412,7 +412,7 @@
       "viewCount": "1121万",
       "likeCount": "2.7万",
       "commentCount": "1162",
-      "increment_d1": "1881"
+      "increment_d1": "1705"
     },
     {
       "rank": 3019,
@@ -432,36 +432,13 @@
         "target": "_blank"
       },
       "publishedAt": "2025-06-02",
-      "viewCount": "1120万",
+      "viewCount": "1121万",
       "likeCount": "11.5万",
       "commentCount": "2.9万",
-      "increment_d1": "2922"
+      "increment_d1": "2687"
     },
     {
       "rank": 3020,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/MYjJIfBbbMY/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=MYjJIfBbbMY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BACK-ON / 「STRIKE BACK」MUSIC VIDEO(Short Ver.)",
-        "url": "https://www.youtube.com/watch?v=MYjJIfBbbMY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-07-05",
-      "viewCount": "1120万",
-      "likeCount": "9.5万",
-      "commentCount": "3880",
-      "increment_d1": "1039"
-    },
-    {
-      "rank": 3021,
       "thumb": {
         "img": "https://i.ytimg.com/vi/0l-qw9yRFOA/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=0l-qw9yRFOA",
@@ -481,7 +458,30 @@
       "viewCount": "1120万",
       "likeCount": "31.3万",
       "commentCount": "1.1万",
-      "increment_d1": "1806"
+      "increment_d1": "1788"
+    },
+    {
+      "rank": 3021,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/MYjJIfBbbMY/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=MYjJIfBbbMY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BACK-ON / 「STRIKE BACK」MUSIC VIDEO(Short Ver.)",
+        "url": "https://www.youtube.com/watch?v=MYjJIfBbbMY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-07-05",
+      "viewCount": "1120万",
+      "likeCount": "9.5万",
+      "commentCount": "3880",
+      "increment_d1": "1103"
     },
     {
       "rank": 3022,
@@ -504,7 +504,7 @@
       "viewCount": "1120万",
       "likeCount": "3.1万",
       "commentCount": "1763",
-      "increment_d1": "127"
+      "increment_d1": "120"
     },
     {
       "rank": 3023,
@@ -524,10 +524,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-11-16",
-      "viewCount": "1119万",
+      "viewCount": "1120万",
       "likeCount": "5.5万",
       "commentCount": "3107",
-      "increment_d1": "1614"
+      "increment_d1": "1408"
     },
     {
       "rank": 3024,
@@ -550,7 +550,7 @@
       "viewCount": "1119万",
       "likeCount": "3.8万",
       "commentCount": "1342",
-      "increment_d1": "771"
+      "increment_d1": "755"
     },
     {
       "rank": 3025,
@@ -573,7 +573,7 @@
       "viewCount": "1119万",
       "likeCount": "10.2万",
       "commentCount": "2711",
-      "increment_d1": "1144"
+      "increment_d1": "1123"
     },
     {
       "rank": 3026,
@@ -596,7 +596,7 @@
       "viewCount": "1119万",
       "likeCount": "18.1万",
       "commentCount": "1056",
-      "increment_d1": "636"
+      "increment_d1": "568"
     },
     {
       "rank": 3027,
@@ -619,7 +619,7 @@
       "viewCount": "1117万",
       "likeCount": "12.1万",
       "commentCount": "3080",
-      "increment_d1": "1279"
+      "increment_d1": "1224"
     },
     {
       "rank": 3028,
@@ -642,7 +642,7 @@
       "viewCount": "1117万",
       "likeCount": "10.3万",
       "commentCount": "4638",
-      "increment_d1": "1773"
+      "increment_d1": "1778"
     },
     {
       "rank": 3029,
@@ -664,8 +664,8 @@
       "publishedAt": "2018-07-18",
       "viewCount": "1116万",
       "likeCount": "7.4万",
-      "commentCount": "1997",
-      "increment_d1": "876"
+      "commentCount": "1995",
+      "increment_d1": "979"
     },
     {
       "rank": 3030,
@@ -688,7 +688,7 @@
       "viewCount": "1116万",
       "likeCount": "-",
       "commentCount": "8056",
-      "increment_d1": "619"
+      "increment_d1": "695"
     },
     {
       "rank": 3031,
@@ -711,7 +711,7 @@
       "viewCount": "1116万",
       "likeCount": "10.7万",
       "commentCount": "3407",
-      "increment_d1": "615"
+      "increment_d1": "581"
     },
     {
       "rank": 3032,
@@ -731,10 +731,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-02-06",
-      "viewCount": "1115万",
+      "viewCount": "1116万",
       "likeCount": "4.8万",
       "commentCount": "1.3万",
-      "increment_d1": "1747"
+      "increment_d1": "1751"
     },
     {
       "rank": 3033,
@@ -757,10 +757,33 @@
       "viewCount": "1115万",
       "likeCount": "-",
       "commentCount": "1.2万",
-      "increment_d1": "995"
+      "increment_d1": "1000"
     },
     {
       "rank": 3034,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/_EeYxtAeaX4/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=_EeYxtAeaX4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[Official Video] Yousei Teikoku - Astral Dogma - 妖精帝國",
+        "url": "https://www.youtube.com/watch?v=_EeYxtAeaX4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Lantis Global Channel",
+        "url": "https://www.youtube.com/channel/UCjR6YoI3EYrJXoQlEHt4HfQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-12-09",
+      "viewCount": "1115万",
+      "likeCount": "15.7万",
+      "commentCount": "3560",
+      "increment_d1": "833"
+    },
+    {
+      "rank": 3035,
       "thumb": {
         "img": "https://i.ytimg.com/vi/DoB_rOLZSHs/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=DoB_rOLZSHs",
@@ -780,30 +803,7 @@
       "viewCount": "1115万",
       "likeCount": "1.7万",
       "commentCount": "1421",
-      "increment_d1": "44"
-    },
-    {
-      "rank": 3035,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/_EeYxtAeaX4/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_EeYxtAeaX4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[Official Video] Yousei Teikoku - Astral Dogma - 妖精帝國",
-        "url": "https://www.youtube.com/watch?v=_EeYxtAeaX4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Lantis Global Channel",
-        "url": "https://www.youtube.com/channel/UCjR6YoI3EYrJXoQlEHt4HfQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-12-09",
-      "viewCount": "1115万",
-      "likeCount": "15.7万",
-      "commentCount": "3561",
-      "increment_d1": "843"
+      "increment_d1": "47"
     },
     {
       "rank": 3036,
@@ -826,7 +826,7 @@
       "viewCount": "1114万",
       "likeCount": "-",
       "commentCount": "1.4万",
-      "increment_d1": "1344"
+      "increment_d1": "1427"
     },
     {
       "rank": 3037,
@@ -849,10 +849,33 @@
       "viewCount": "1114万",
       "likeCount": "4.3万",
       "commentCount": "2283",
-      "increment_d1": "293"
+      "increment_d1": "297"
     },
     {
       "rank": 3038,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/o-JkzX3gJNM/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=o-JkzX3gJNM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE「Hug」Official Lyric Video",
+        "url": "https://www.youtube.com/watch?v=o-JkzX3gJNM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-07-07",
+      "viewCount": "1114万",
+      "likeCount": "11.3万",
+      "commentCount": "3203",
+      "increment_d1": "1.01万"
+    },
+    {
+      "rank": 3039,
       "thumb": {
         "img": "https://i.ytimg.com/vi/_53QwBl9m88/hqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=_53QwBl9m88",
@@ -872,30 +895,7 @@
       "viewCount": "1113万",
       "likeCount": "30.3万",
       "commentCount": "1.4万",
-      "increment_d1": "235"
-    },
-    {
-      "rank": 3039,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/8oBp3OLXQ8Q/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=8oBp3OLXQ8Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[MV] 朧月／まふまふ [オリジナル曲]",
-        "url": "https://www.youtube.com/watch?v=8oBp3OLXQ8Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "まふまふちゃんねる",
-        "url": "https://www.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-02-17",
-      "viewCount": "1113万",
-      "likeCount": "14.6万",
-      "commentCount": "6508",
-      "increment_d1": "763"
+      "increment_d1": "242"
     },
     {
       "rank": 3040,
@@ -917,31 +917,31 @@
       "publishedAt": "2013-06-18",
       "viewCount": "1113万",
       "likeCount": "4.7万",
-      "commentCount": "1256",
-      "increment_d1": "2423"
+      "commentCount": "1257",
+      "increment_d1": "2719"
     },
     {
       "rank": 3041,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/o-JkzX3gJNM/hqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=o-JkzX3gJNM",
+        "img": "https://i.ytimg.com/vi/8oBp3OLXQ8Q/hqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=8oBp3OLXQ8Q",
         "target": "_blank"
       },
       "title": {
-        "text": "Mrs. GREEN APPLE「Hug」Official Lyric Video",
-        "url": "https://www.youtube.com/watch?v=o-JkzX3gJNM",
+        "text": "[MV] 朧月／まふまふ [オリジナル曲]",
+        "url": "https://www.youtube.com/watch?v=8oBp3OLXQ8Q",
         "target": "_blank"
       },
       "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "text": "まふまふちゃんねる",
+        "url": "https://www.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg",
         "target": "_blank"
       },
-      "publishedAt": "2021-07-07",
+      "publishedAt": "2018-02-17",
       "viewCount": "1113万",
-      "likeCount": "11.3万",
-      "commentCount": "3199",
-      "increment_d1": "9689"
+      "likeCount": "14.6万",
+      "commentCount": "6507",
+      "increment_d1": "799"
     },
     {
       "rank": 3042,
@@ -963,8 +963,8 @@
       "publishedAt": "2021-10-18",
       "viewCount": "1112万",
       "likeCount": "10.4万",
-      "commentCount": "1480",
-      "increment_d1": "2865"
+      "commentCount": "1479",
+      "increment_d1": "2570"
     },
     {
       "rank": 3043,
@@ -987,7 +987,7 @@
       "viewCount": "1112万",
       "likeCount": "-",
       "commentCount": "6950",
-      "increment_d1": "662"
+      "increment_d1": "593"
     },
     {
       "rank": 3044,
@@ -1007,10 +1007,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-01",
-      "viewCount": "1111万",
+      "viewCount": "1112万",
       "likeCount": "-",
       "commentCount": "4001",
-      "increment_d1": "2260"
+      "increment_d1": "2139"
     },
     {
       "rank": 3045,
@@ -1033,7 +1033,7 @@
       "viewCount": "1111万",
       "likeCount": "10.8万",
       "commentCount": "2843",
-      "increment_d1": "643"
+      "increment_d1": "750"
     },
     {
       "rank": 3046,
@@ -1056,7 +1056,7 @@
       "viewCount": "1111万",
       "likeCount": "14.7万",
       "commentCount": "3751",
-      "increment_d1": "2606"
+      "increment_d1": "2565"
     },
     {
       "rank": 3047,
@@ -1079,7 +1079,7 @@
       "viewCount": "1111万",
       "likeCount": "4.4万",
       "commentCount": "2659",
-      "increment_d1": "1559"
+      "increment_d1": "1278"
     },
     {
       "rank": 3048,
@@ -1099,10 +1099,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-04-08",
-      "viewCount": "1110万",
+      "viewCount": "1111万",
       "likeCount": "6.3万",
       "commentCount": "2532",
-      "increment_d1": "1170"
+      "increment_d1": "1246"
     },
     {
       "rank": 3049,
@@ -1125,7 +1125,7 @@
       "viewCount": "1110万",
       "likeCount": "2万",
       "commentCount": "615",
-      "increment_d1": "71"
+      "increment_d1": "59"
     },
     {
       "rank": 3050,
@@ -1148,7 +1148,7 @@
       "viewCount": "1110万",
       "likeCount": "2万",
       "commentCount": "673",
-      "increment_d1": "1030"
+      "increment_d1": "974"
     }
   ]
 }
