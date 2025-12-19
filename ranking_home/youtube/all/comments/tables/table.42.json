@@ -3,6 +3,28 @@
     {
       "rank": 2051,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/qhPLK1Tn1GQ/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qhPLK1Tn1GQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "シシド・カフカ ／ ラヴコリーダ",
+        "url": "https://www.youtube.com/watch?v=qhPLK1Tn1GQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "TeichikuMusicChannel",
+        "url": "https://www.youtube.com/channel/UCIj8P8FF_rIxQdpZU32CSVg",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-08-14",
+      "viewCount": "1143万",
+      "likeCount": "16.6万",
+      "commentCount": "3644"
+    },
+    {
+      "rank": 2052,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/02x7mh7io_8/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=02x7mh7io_8",
         "target": "_blank"
@@ -23,7 +45,7 @@
       "commentCount": "3643"
     },
     {
-      "rank": 2052,
+      "rank": 2053,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Uhjws9V9PMo/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Uhjws9V9PMo",
@@ -45,7 +67,7 @@
       "commentCount": "3637"
     },
     {
-      "rank": 2053,
+      "rank": 2054,
       "thumb": {
         "img": "https://i.ytimg.com/vi/e7GvXNOxhng/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=e7GvXNOxhng",
@@ -67,28 +89,6 @@
       "commentCount": "3635"
     },
     {
-      "rank": 2054,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/76-U4b5MKHg/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=76-U4b5MKHg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BEGIN／三線の花",
-        "url": "https://www.youtube.com/watch?v=76-U4b5MKHg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BEGIN ch",
-        "url": "https://www.youtube.com/channel/UCkn4RZNbITpBEHWdS_pzGEg",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-12-25",
-      "viewCount": "2967万",
-      "likeCount": "8.2万",
-      "commentCount": "3632"
-    },
-    {
       "rank": 2055,
       "thumb": {
         "img": "https://i.ytimg.com/vi/QA_p90T6oy4/mqdefault.jpg",
@@ -108,7 +108,7 @@
       "publishedAt": "2014-04-23",
       "viewCount": "2002万",
       "likeCount": "8.6万",
-      "commentCount": "3630"
+      "commentCount": "3632"
     },
     {
       "rank": 2056,
@@ -130,7 +130,7 @@
       "publishedAt": "2015-04-08",
       "viewCount": "1820万",
       "likeCount": "12.7万",
-      "commentCount": "3628"
+      "commentCount": "3629"
     },
     {
       "rank": 2057,
@@ -150,12 +150,34 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-01",
-      "viewCount": "1712万",
+      "viewCount": "1713万",
       "likeCount": "23.2万",
       "commentCount": "3624"
     },
     {
       "rank": 2058,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ukyRC_fNEP0/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ukyRC_fNEP0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "UVERworld　『THE OVER』",
+        "url": "https://www.youtube.com/watch?v=ukyRC_fNEP0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "UVERworld Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCnziFQs4Ihms4UtxmVZP6cg",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-09-06",
+      "viewCount": "1929万",
+      "likeCount": "9.2万",
+      "commentCount": "3620"
+    },
+    {
+      "rank": 2059,
       "thumb": {
         "img": "https://i.ytimg.com/vi/4rn1adrUu-E/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=4rn1adrUu-E",
@@ -175,28 +197,6 @@
       "viewCount": "1773万",
       "likeCount": "3.8万",
       "commentCount": "3619"
-    },
-    {
-      "rank": 2059,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ukyRC_fNEP0/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ukyRC_fNEP0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "UVERworld　『THE OVER』",
-        "url": "https://www.youtube.com/watch?v=ukyRC_fNEP0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "UVERworld Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCnziFQs4Ihms4UtxmVZP6cg",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-09-06",
-      "viewCount": "1929万",
-      "likeCount": "9.2万",
-      "commentCount": "3618"
     },
     {
       "rank": 2060,
@@ -238,8 +238,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-01-25",
-      "viewCount": "3948万",
-      "likeCount": "37.4万",
+      "viewCount": "3950万",
+      "likeCount": "37.5万",
       "commentCount": "3616"
     },
     {
@@ -262,7 +262,7 @@
       "publishedAt": "2011-02-16",
       "viewCount": "1518万",
       "likeCount": "3.6万",
-      "commentCount": "3611"
+      "commentCount": "3614"
     },
     {
       "rank": 2063,
@@ -304,9 +304,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-06",
-      "viewCount": "2836万",
+      "viewCount": "2837万",
       "likeCount": "5.7万",
-      "commentCount": "3605"
+      "commentCount": "3606"
     },
     {
       "rank": 2065,
@@ -350,7 +350,7 @@
       "publishedAt": "2010-04-13",
       "viewCount": "1875万",
       "likeCount": "4.6万",
-      "commentCount": "3601"
+      "commentCount": "3603"
     },
     {
       "rank": 2067,
@@ -370,9 +370,31 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-10",
-      "viewCount": "1970万",
+      "viewCount": "1972万",
       "likeCount": "4.9万",
-      "commentCount": "3598"
+      "commentCount": "3601"
+    },
+    {
+      "rank": 2068,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/qM_FepDsJ-Q/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=qM_FepDsJ-Q",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Folder 5 / Believe Music Video",
+        "url": "https://www.youtube.com/watch?v=qM_FepDsJ-Q",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-09-27",
+      "viewCount": "1090万",
+      "likeCount": "6.3万",
+      "commentCount": "3597"
     },
     {
       "rank": 2068,
@@ -392,31 +414,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-24",
-      "viewCount": "2514万",
+      "viewCount": "2515万",
       "likeCount": "19.6万",
       "commentCount": "3597"
-    },
-    {
-      "rank": 2069,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/qM_FepDsJ-Q/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=qM_FepDsJ-Q",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Folder 5 / Believe Music Video",
-        "url": "https://www.youtube.com/watch?v=qM_FepDsJ-Q",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-09-27",
-      "viewCount": "1089万",
-      "likeCount": "6.3万",
-      "commentCount": "3595"
     },
     {
       "rank": 2070,
@@ -436,9 +436,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-28",
-      "viewCount": "5311万",
+      "viewCount": "5313万",
       "likeCount": "10.5万",
-      "commentCount": "3593"
+      "commentCount": "3595"
     },
     {
       "rank": 2071,
@@ -460,7 +460,7 @@
       "publishedAt": "2016-09-27",
       "viewCount": "1004万",
       "likeCount": "5.1万",
-      "commentCount": "3588"
+      "commentCount": "3587"
     },
     {
       "rank": 2072,
@@ -487,28 +487,6 @@
     {
       "rank": 2073,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/AUeRiPyjFH4/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=AUeRiPyjFH4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "マキシマム ザ ホルモン 『恋のスペルマ』 Music Video 野外フェス映像ver.",
-        "url": "https://www.youtube.com/watch?v=AUeRiPyjFH4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "マキシマム ザ ホルモン公式",
-        "url": "https://www.youtube.com/channel/UCbb9FsCRA83-6vdgXn2KSyA",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-06-26",
-      "viewCount": "2038万",
-      "likeCount": "9万",
-      "commentCount": "3580"
-    },
-    {
-      "rank": 2073,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/5TR1wJCimyk/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=5TR1wJCimyk",
         "target": "_blank"
@@ -524,8 +502,30 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-04",
-      "viewCount": "2937万",
+      "viewCount": "2938万",
       "likeCount": "11.6万",
+      "commentCount": "3581"
+    },
+    {
+      "rank": 2074,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/AUeRiPyjFH4/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=AUeRiPyjFH4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "マキシマム ザ ホルモン 『恋のスペルマ』 Music Video 野外フェス映像ver.",
+        "url": "https://www.youtube.com/watch?v=AUeRiPyjFH4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "マキシマム ザ ホルモン公式",
+        "url": "https://www.youtube.com/channel/UCbb9FsCRA83-6vdgXn2KSyA",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-06-26",
+      "viewCount": "2039万",
+      "likeCount": "9万",
       "commentCount": "3580"
     },
     {
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-21",
-      "viewCount": "3767万",
+      "viewCount": "3769万",
       "likeCount": "10.7万",
       "commentCount": "3579"
     },
@@ -570,7 +570,7 @@
       "publishedAt": "2021-02-17",
       "viewCount": "1496万",
       "likeCount": "-",
-      "commentCount": "3575"
+      "commentCount": "3576"
     },
     {
       "rank": 2077,
@@ -592,7 +592,7 @@
       "publishedAt": "2009-04-09",
       "viewCount": "1617万",
       "likeCount": "6.8万",
-      "commentCount": "3574"
+      "commentCount": "3575"
     },
     {
       "rank": 2078,
@@ -612,7 +612,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-04-21",
-      "viewCount": "4923万",
+      "viewCount": "4924万",
       "likeCount": "23.5万",
       "commentCount": "3571"
     },
@@ -639,7 +639,7 @@
       "commentCount": "3567"
     },
     {
-      "rank": 2080,
+      "rank": 2079,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Q5JytNgQzqk/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=Q5JytNgQzqk",
@@ -656,9 +656,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-22",
-      "viewCount": "6714万",
+      "viewCount": "6718万",
       "likeCount": "25.2万",
-      "commentCount": "3565"
+      "commentCount": "3567"
     },
     {
       "rank": 2081,
@@ -744,7 +744,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-10",
-      "viewCount": "2375万",
+      "viewCount": "2377万",
       "likeCount": "19.3万",
       "commentCount": "3547"
     },
@@ -766,7 +766,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-24",
-      "viewCount": "4754万",
+      "viewCount": "4756万",
       "likeCount": "17.2万",
       "commentCount": "3543"
     },
@@ -793,7 +793,29 @@
       "commentCount": "3543"
     },
     {
-      "rank": 2087,
+      "rank": 2085,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/wp2U40KI63A/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wp2U40KI63A",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "aiko- 『カブトムシ』music video",
+        "url": "https://www.youtube.com/watch?v=wp2U40KI63A",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "aikoOfficial",
+        "url": "https://www.youtube.com/channel/UCtLQyS4toPOarqufGUxTtIQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-02-25",
+      "viewCount": "3999万",
+      "likeCount": "-",
+      "commentCount": "3543"
+    },
+    {
+      "rank": 2088,
       "thumb": {
         "img": "https://i.ytimg.com/vi/rJJYXzHmcyA/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=rJJYXzHmcyA",
@@ -815,7 +837,7 @@
       "commentCount": "3541"
     },
     {
-      "rank": 2088,
+      "rank": 2089,
       "thumb": {
         "img": "https://i.ytimg.com/vi/iYXt3NU1Vao/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=iYXt3NU1Vao",
@@ -837,28 +859,6 @@
       "commentCount": "3540"
     },
     {
-      "rank": 2089,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/wp2U40KI63A/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wp2U40KI63A",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "aiko- 『カブトムシ』music video",
-        "url": "https://www.youtube.com/watch?v=wp2U40KI63A",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "aikoOfficial",
-        "url": "https://www.youtube.com/channel/UCtLQyS4toPOarqufGUxTtIQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-02-25",
-      "viewCount": "3998万",
-      "likeCount": "-",
-      "commentCount": "3539"
-    },
-    {
       "rank": 2090,
       "thumb": {
         "img": "https://i.ytimg.com/vi/cBGzxjmRhTU/mqdefault.jpg",
@@ -876,9 +876,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-14",
-      "viewCount": "2482万",
+      "viewCount": "2484万",
       "likeCount": "11.9万",
-      "commentCount": "3537"
+      "commentCount": "3539"
     },
     {
       "rank": 2091,
@@ -964,9 +964,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-14",
-      "viewCount": "3432万",
+      "viewCount": "3434万",
       "likeCount": "13万",
-      "commentCount": "3524"
+      "commentCount": "3527"
     },
     {
       "rank": 2095,
@@ -986,9 +986,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-09-28",
-      "viewCount": "1888万",
+      "viewCount": "1889万",
       "likeCount": "3.6万",
-      "commentCount": "3523"
+      "commentCount": "3524"
     },
     {
       "rank": 2096,
@@ -1008,9 +1008,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-25",
-      "viewCount": "2293万",
-      "likeCount": "31.4万",
-      "commentCount": "3521"
+      "viewCount": "2295万",
+      "likeCount": "31.5万",
+      "commentCount": "3523"
     },
     {
       "rank": 2097,
@@ -1030,7 +1030,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-07-16",
-      "viewCount": "2575万",
+      "viewCount": "2576万",
       "likeCount": "8.9万",
       "commentCount": "3518"
     },
@@ -1098,7 +1098,7 @@
       "publishedAt": "2012-04-06",
       "viewCount": "2679万",
       "likeCount": "11.5万",
-      "commentCount": "3507"
+      "commentCount": "3508"
     }
   ]
 }

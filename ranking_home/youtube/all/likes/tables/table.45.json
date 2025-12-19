@@ -18,7 +18,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-03-04",
-      "viewCount": "5735万",
+      "viewCount": "5736万",
       "likeCount": "7.62万",
       "commentCount": "-"
     },
@@ -42,7 +42,7 @@
       "publishedAt": "2011-02-03",
       "viewCount": "3784万",
       "likeCount": "7.62万",
-      "commentCount": "3937"
+      "commentCount": "3938"
     },
     {
       "rank": 2203,
@@ -62,7 +62,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-11-07",
-      "viewCount": "2378万",
+      "viewCount": "2379万",
       "likeCount": "7.61万",
       "commentCount": "4544"
     },
@@ -106,9 +106,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-29",
-      "viewCount": "2222万",
+      "viewCount": "2223万",
       "likeCount": "7.59万",
-      "commentCount": "2062"
+      "commentCount": "2066"
     },
     {
       "rank": 2206,
@@ -128,7 +128,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-25",
-      "viewCount": "1169万",
+      "viewCount": "1170万",
       "likeCount": "7.58万",
       "commentCount": "2577"
     },
@@ -194,7 +194,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-23",
-      "viewCount": "1212万",
+      "viewCount": "1213万",
       "likeCount": "7.56万",
       "commentCount": "1371"
     },
@@ -216,7 +216,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-05-24",
-      "viewCount": "1446万",
+      "viewCount": "1447万",
       "likeCount": "7.55万",
       "commentCount": "2335"
     },
@@ -260,9 +260,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-08-24",
-      "viewCount": "4058万",
+      "viewCount": "4059万",
       "likeCount": "7.54万",
-      "commentCount": "3754"
+      "commentCount": "3756"
     },
     {
       "rank": 2213,
@@ -282,7 +282,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-06-13",
-      "viewCount": "2526万",
+      "viewCount": "2527万",
       "likeCount": "7.52万",
       "commentCount": "1607"
     },
@@ -326,7 +326,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-29",
-      "viewCount": "1226万",
+      "viewCount": "1227万",
       "likeCount": "7.5万",
       "commentCount": "1546"
     },
@@ -348,7 +348,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-08-01",
-      "viewCount": "3423万",
+      "viewCount": "3424万",
       "likeCount": "7.5万",
       "commentCount": "4796"
     },
@@ -370,7 +370,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-05",
-      "viewCount": "3567万",
+      "viewCount": "3568万",
       "likeCount": "7.49万",
       "commentCount": "3191"
     },
@@ -436,12 +436,34 @@
         "target": "_blank"
       },
       "publishedAt": "2014-10-29",
-      "viewCount": "1568万",
+      "viewCount": "1569万",
       "likeCount": "7.47万",
       "commentCount": "2796"
     },
     {
       "rank": 2221,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/NshFw-eUj4c/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=NshFw-eUj4c",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "コブクロ - 流星",
+        "url": "https://www.youtube.com/watch?v=NshFw-eUj4c",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "コブクロ 公式チャンネル",
+        "url": "https://www.youtube.com/channel/UC73Cla79COot99ltD8wuH0w",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-11-08",
+      "viewCount": "4366万",
+      "likeCount": "7.46万",
+      "commentCount": "2189"
+    },
+    {
+      "rank": 2222,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ZWhGin6T2LE/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=ZWhGin6T2LE",
@@ -461,28 +483,6 @@
       "viewCount": "1716万",
       "likeCount": "7.46万",
       "commentCount": "2170"
-    },
-    {
-      "rank": 2222,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/NshFw-eUj4c/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=NshFw-eUj4c",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "コブクロ - 流星",
-        "url": "https://www.youtube.com/watch?v=NshFw-eUj4c",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "コブクロ 公式チャンネル",
-        "url": "https://www.youtube.com/channel/UC73Cla79COot99ltD8wuH0w",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-11-08",
-      "viewCount": "4365万",
-      "likeCount": "7.46万",
-      "commentCount": "2189"
     },
     {
       "rank": 2223,
@@ -526,7 +526,7 @@
       "publishedAt": "2020-04-19",
       "viewCount": "1161万",
       "likeCount": "7.45万",
-      "commentCount": "7250"
+      "commentCount": "7255"
     },
     {
       "rank": 2225,
@@ -592,7 +592,7 @@
       "publishedAt": "2011-01-09",
       "viewCount": "2100万",
       "likeCount": "7.39万",
-      "commentCount": "3950"
+      "commentCount": "3954"
     },
     {
       "rank": 2228,
@@ -679,7 +679,7 @@
       },
       "publishedAt": "2015-06-03",
       "viewCount": "1913万",
-      "likeCount": "7.35万",
+      "likeCount": "7.36万",
       "commentCount": "1868"
     },
     {
@@ -722,9 +722,9 @@
         "target": "_blank"
       },
       "publishedAt": "2011-12-21",
-      "viewCount": "1828万",
+      "viewCount": "1829万",
       "likeCount": "7.35万",
-      "commentCount": "5313"
+      "commentCount": "5312"
     },
     {
       "rank": 2234,
@@ -744,12 +744,34 @@
         "target": "_blank"
       },
       "publishedAt": "2013-12-05",
-      "viewCount": "2466万",
+      "viewCount": "2467万",
       "likeCount": "7.34万",
       "commentCount": "2347"
     },
     {
       "rank": 2235,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/dFC3Qorbvgo/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=dFC3Qorbvgo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Official】Uru 『それを愛と呼ぶなら』 LIVE “Uru Tour 2023「contrast」” on WOWOWプラス",
+        "url": "https://www.youtube.com/watch?v=dFC3Qorbvgo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Uru Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-10-27",
+      "viewCount": "2603万",
+      "likeCount": "7.32万",
+      "commentCount": "2607"
+    },
+    {
+      "rank": 2236,
       "thumb": {
         "img": "https://i.ytimg.com/vi/m28FSsyWXBw/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=m28FSsyWXBw",
@@ -771,28 +793,6 @@
       "commentCount": "2.5万"
     },
     {
-      "rank": 2236,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/dFC3Qorbvgo/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=dFC3Qorbvgo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Official】Uru 『それを愛と呼ぶなら』 LIVE “Uru Tour 2023「contrast」” on WOWOWプラス",
-        "url": "https://www.youtube.com/watch?v=dFC3Qorbvgo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Uru Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-10-27",
-      "viewCount": "2600万",
-      "likeCount": "7.32万",
-      "commentCount": "2600"
-    },
-    {
       "rank": 2237,
       "thumb": {
         "img": "https://i.ytimg.com/vi/nGY19DwskCg/mqdefault.jpg",
@@ -811,8 +811,8 @@
       },
       "publishedAt": "2019-12-29",
       "viewCount": "1947万",
-      "likeCount": "7.3万",
-      "commentCount": "2887"
+      "likeCount": "7.31万",
+      "commentCount": "2888"
     },
     {
       "rank": 2238,
@@ -834,10 +834,32 @@
       "publishedAt": "2013-10-16",
       "viewCount": "1590万",
       "likeCount": "7.3万",
-      "commentCount": "1596"
+      "commentCount": "1597"
     },
     {
       "rank": 2239,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/vSOLtBy-xas/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=vSOLtBy-xas",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MOON CHILD / ESCAPE",
+        "url": "https://www.youtube.com/watch?v=vSOLtBy-xas",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-08-29",
+      "viewCount": "1470万",
+      "likeCount": "7.29万",
+      "commentCount": "3758"
+    },
+    {
+      "rank": 2240,
       "thumb": {
         "img": "https://i.ytimg.com/vi/GOIuU0ejpzc/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=GOIuU0ejpzc",
@@ -856,29 +878,7 @@
       "publishedAt": "2021-07-26",
       "viewCount": "1347万",
       "likeCount": "7.29万",
-      "commentCount": "2524"
-    },
-    {
-      "rank": 2240,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/vSOLtBy-xas/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=vSOLtBy-xas",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MOON CHILD / ESCAPE",
-        "url": "https://www.youtube.com/watch?v=vSOLtBy-xas",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-08-29",
-      "viewCount": "1469万",
-      "likeCount": "7.29万",
-      "commentCount": "3755"
+      "commentCount": "2523"
     },
     {
       "rank": 2241,
@@ -921,11 +921,33 @@
       },
       "publishedAt": "2014-03-02",
       "viewCount": "1267万",
-      "likeCount": "7.28万",
+      "likeCount": "7.29万",
       "commentCount": "2150"
     },
     {
       "rank": 2243,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/XAdBNPQ77Ig/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=XAdBNPQ77Ig",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ISSA×SoulJa+ROLA / i hate u",
+        "url": "https://www.youtube.com/watch?v=XAdBNPQ77Ig",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-09-22",
+      "viewCount": "3314万",
+      "likeCount": "7.28万",
+      "commentCount": "3482"
+    },
+    {
+      "rank": 2244,
       "thumb": {
         "img": "https://i.ytimg.com/vi/WSUGASFlypY/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=WSUGASFlypY",
@@ -945,28 +967,6 @@
       "viewCount": "1351万",
       "likeCount": "7.28万",
       "commentCount": "3176"
-    },
-    {
-      "rank": 2244,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/XAdBNPQ77Ig/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=XAdBNPQ77Ig",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ISSA×SoulJa+ROLA / i hate u",
-        "url": "https://www.youtube.com/watch?v=XAdBNPQ77Ig",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-09-22",
-      "viewCount": "3313万",
-      "likeCount": "7.28万",
-      "commentCount": "3475"
     },
     {
       "rank": 2245,
@@ -1054,7 +1054,7 @@
       "publishedAt": "2016-05-02",
       "viewCount": "1771万",
       "likeCount": "7.25万",
-      "commentCount": "6028"
+      "commentCount": "6029"
     },
     {
       "rank": 2249,

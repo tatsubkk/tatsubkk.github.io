@@ -20,8 +20,8 @@
       "publishedAt": "2019-01-04",
       "viewCount": "1217万",
       "likeCount": "24.1万",
-      "commentCount": "9327",
-      "increment_d1": "656"
+      "commentCount": "9326",
+      "increment_d1": "810"
     },
     {
       "rank": 2802,
@@ -44,10 +44,33 @@
       "viewCount": "1217万",
       "likeCount": "2.8万",
       "commentCount": "555",
-      "increment_d1": "618"
+      "increment_d1": "552"
     },
     {
       "rank": 2803,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/IxVDygTDmVU/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IxVDygTDmVU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow Man「Two」Music Video - Shota Watanabe / Ren Meguro",
+        "url": "https://www.youtube.com/watch?v=IxVDygTDmVU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Snow Man",
+        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-04-10",
+      "viewCount": "1216万",
+      "likeCount": "9.1万",
+      "commentCount": "4463",
+      "increment_d1": "5923"
+    },
+    {
+      "rank": 2804,
       "thumb": {
         "img": "https://i.ytimg.com/vi/sOfieyM0SrA/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=sOfieyM0SrA",
@@ -67,10 +90,10 @@
       "viewCount": "1216万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "647"
+      "increment_d1": "724"
     },
     {
-      "rank": 2804,
+      "rank": 2805,
       "thumb": {
         "img": "https://i.ytimg.com/vi/BA835e3VYx0/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=BA835e3VYx0",
@@ -90,56 +113,10 @@
       "viewCount": "1216万",
       "likeCount": "7.8万",
       "commentCount": "1058",
-      "increment_d1": "1526"
-    },
-    {
-      "rank": 2805,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/-UJdQMpnUDg/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-UJdQMpnUDg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Nissy(西島隆弘) / 「ワガママ」Music Video",
-        "url": "https://www.youtube.com/watch?v=-UJdQMpnUDg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-11-30",
-      "viewCount": "1216万",
-      "likeCount": "6.3万",
-      "commentCount": "2116",
-      "increment_d1": "641"
+      "increment_d1": "1596"
     },
     {
       "rank": 2806,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/IxVDygTDmVU/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IxVDygTDmVU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow Man「Two」Music Video - Shota Watanabe / Ren Meguro",
-        "url": "https://www.youtube.com/watch?v=IxVDygTDmVU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Snow Man",
-        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-04-10",
-      "viewCount": "1216万",
-      "likeCount": "9.1万",
-      "commentCount": "4462",
-      "increment_d1": "6472"
-    },
-    {
-      "rank": 2807,
       "thumb": {
         "img": "https://i.ytimg.com/vi/AXtfzKaKr4I/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=AXtfzKaKr4I",
@@ -159,7 +136,30 @@
       "viewCount": "1216万",
       "likeCount": "-",
       "commentCount": "5912",
-      "increment_d1": "2018"
+      "increment_d1": "2071"
+    },
+    {
+      "rank": 2807,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/-UJdQMpnUDg/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=-UJdQMpnUDg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Nissy(西島隆弘) / 「ワガママ」Music Video",
+        "url": "https://www.youtube.com/watch?v=-UJdQMpnUDg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-11-30",
+      "viewCount": "1216万",
+      "likeCount": "6.3万",
+      "commentCount": "2116",
+      "increment_d1": "590"
     },
     {
       "rank": 2808,
@@ -182,7 +182,7 @@
       "viewCount": "1216万",
       "likeCount": "12万",
       "commentCount": "5871",
-      "increment_d1": "844"
+      "increment_d1": "685"
     },
     {
       "rank": 2809,
@@ -204,11 +204,34 @@
       "publishedAt": "2012-10-17",
       "viewCount": "1215万",
       "likeCount": "4.5万",
-      "commentCount": "1988",
-      "increment_d1": "3306"
+      "commentCount": "1989",
+      "increment_d1": "3607"
     },
     {
       "rank": 2810,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/TELFpTs29Ag/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=TELFpTs29Ag",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Fujii Kaze Stadium Live “Feelin' Good” [day1]",
+        "url": "https://www.youtube.com/watch?v=TELFpTs29Ag",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Fujii Kaze",
+        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-08-24",
+      "viewCount": "1215万",
+      "likeCount": "22.3万",
+      "commentCount": "1.7万",
+      "increment_d1": "8493"
+    },
+    {
+      "rank": 2811,
       "thumb": {
         "img": "https://i.ytimg.com/vi/X8TCB9s1kRs/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=X8TCB9s1kRs",
@@ -228,10 +251,10 @@
       "viewCount": "1215万",
       "likeCount": "23.6万",
       "commentCount": "7958",
-      "increment_d1": "901"
+      "increment_d1": "904"
     },
     {
-      "rank": 2811,
+      "rank": 2812,
       "thumb": {
         "img": "https://i.ytimg.com/vi/1ce456Nnkt8/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=1ce456Nnkt8",
@@ -248,36 +271,36 @@
         "target": "_blank"
       },
       "publishedAt": "2018-05-07",
-      "viewCount": "1214万",
+      "viewCount": "1215万",
       "likeCount": "20.9万",
       "commentCount": "1.3万",
-      "increment_d1": "858"
-    },
-    {
-      "rank": 2812,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/TELFpTs29Ag/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=TELFpTs29Ag",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Fujii Kaze Stadium Live “Feelin' Good” [day1]",
-        "url": "https://www.youtube.com/watch?v=TELFpTs29Ag",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Fujii Kaze",
-        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-08-24",
-      "viewCount": "1214万",
-      "likeCount": "22.3万",
-      "commentCount": "1.7万",
-      "increment_d1": "7790"
+      "increment_d1": "915"
     },
     {
       "rank": 2813,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ytQhhgHGj_s/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=ytQhhgHGj_s",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "優里『クリスマスイブ』Official Music Video",
+        "url": "https://www.youtube.com/watch?v=ytQhhgHGj_s",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "優里 Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCBNVZPlWoR7oArfzJNrK9yw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-12-01",
+      "viewCount": "1214万",
+      "likeCount": "8.1万",
+      "commentCount": "1819",
+      "increment_d1": "1.01万"
+    },
+    {
+      "rank": 2814,
       "thumb": {
         "img": "https://i.ytimg.com/vi/XQN9uygMr-o/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=XQN9uygMr-o",
@@ -297,56 +320,10 @@
       "viewCount": "1213万",
       "likeCount": "7.1万",
       "commentCount": "3055",
-      "increment_d1": "1648"
-    },
-    {
-      "rank": 2814,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ytQhhgHGj_s/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=ytQhhgHGj_s",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "優里『クリスマスイブ』Official Music Video",
-        "url": "https://www.youtube.com/watch?v=ytQhhgHGj_s",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "優里 Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCBNVZPlWoR7oArfzJNrK9yw",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-12-01",
-      "viewCount": "1213万",
-      "likeCount": "8.1万",
-      "commentCount": "1819",
-      "increment_d1": "1.02万"
+      "increment_d1": "1642"
     },
     {
       "rank": 2815,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/q_8ulbgIF5w/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=q_8ulbgIF5w",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ポルノグラフィティ『アポロ』MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=q_8ulbgIF5w",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ポルノグラフィティ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCJeCKqR6uqrdCw6021WuWlA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-09-03",
-      "viewCount": "1212万",
-      "likeCount": "9.6万",
-      "commentCount": "2588",
-      "increment_d1": "7257"
-    },
-    {
-      "rank": 2816,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3SR57oeegws/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=3SR57oeegws",
@@ -363,10 +340,33 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-23",
-      "viewCount": "1212万",
+      "viewCount": "1213万",
       "likeCount": "7.6万",
       "commentCount": "1371",
-      "increment_d1": "7891"
+      "increment_d1": "8456"
+    },
+    {
+      "rank": 2816,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/q_8ulbgIF5w/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=q_8ulbgIF5w",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ポルノグラフィティ『アポロ』MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=q_8ulbgIF5w",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ポルノグラフィティ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCJeCKqR6uqrdCw6021WuWlA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-09-03",
+      "viewCount": "1213万",
+      "likeCount": "9.6万",
+      "commentCount": "2588",
+      "increment_d1": "7359"
     },
     {
       "rank": 2817,
@@ -389,7 +389,7 @@
       "viewCount": "1212万",
       "likeCount": "11.4万",
       "commentCount": "7512",
-      "increment_d1": "3915"
+      "increment_d1": "3917"
     },
     {
       "rank": 2818,
@@ -412,7 +412,7 @@
       "viewCount": "1211万",
       "likeCount": "8.6万",
       "commentCount": "3678",
-      "increment_d1": "1128"
+      "increment_d1": "1032"
     },
     {
       "rank": 2819,
@@ -435,7 +435,7 @@
       "viewCount": "1211万",
       "likeCount": "-",
       "commentCount": "7751",
-      "increment_d1": "794"
+      "increment_d1": "720"
     },
     {
       "rank": 2820,
@@ -458,7 +458,7 @@
       "viewCount": "1211万",
       "likeCount": "16.5万",
       "commentCount": "6746",
-      "increment_d1": "621"
+      "increment_d1": "666"
     },
     {
       "rank": 2821,
@@ -480,8 +480,8 @@
       "publishedAt": "2020-05-11",
       "viewCount": "1210万",
       "likeCount": "9.2万",
-      "commentCount": "8509",
-      "increment_d1": "1540"
+      "commentCount": "8508",
+      "increment_d1": "1724"
     },
     {
       "rank": 2822,
@@ -504,7 +504,7 @@
       "viewCount": "1209万",
       "likeCount": "17.2万",
       "commentCount": "7698",
-      "increment_d1": "580"
+      "increment_d1": "594"
     },
     {
       "rank": 2823,
@@ -527,10 +527,33 @@
       "viewCount": "1208万",
       "likeCount": "13.8万",
       "commentCount": "1.8万",
-      "increment_d1": "1247"
+      "increment_d1": "1283"
     },
     {
       "rank": 2824,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/iyU1t8G0LZw/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=iyU1t8G0LZw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Fujii Kaze - Feelin’ Go(o)d",
+        "url": "https://www.youtube.com/watch?v=iyU1t8G0LZw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Fujii Kaze",
+        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-07-25",
+      "viewCount": "1208万",
+      "likeCount": "16.8万",
+      "commentCount": "8116",
+      "increment_d1": "6114"
+    },
+    {
+      "rank": 2825,
       "thumb": {
         "img": "https://i.ytimg.com/vi/VEOKSpViv3s/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=VEOKSpViv3s",
@@ -550,30 +573,7 @@
       "viewCount": "1207万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "313"
-    },
-    {
-      "rank": 2825,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/iyU1t8G0LZw/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=iyU1t8G0LZw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Fujii Kaze - Feelin’ Go(o)d",
-        "url": "https://www.youtube.com/watch?v=iyU1t8G0LZw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Fujii Kaze",
-        "url": "https://www.youtube.com/channel/UCNIy6zQyP7SuLEIaiwymfUA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-07-25",
-      "viewCount": "1207万",
-      "likeCount": "16.8万",
-      "commentCount": "8116",
-      "increment_d1": "5862"
+      "increment_d1": "326"
     },
     {
       "rank": 2826,
@@ -593,10 +593,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-23",
-      "viewCount": "1206万",
-      "likeCount": "24.5万",
-      "commentCount": "4895",
-      "increment_d1": "9876"
+      "viewCount": "1207万",
+      "likeCount": "24.6万",
+      "commentCount": "4896",
+      "increment_d1": "9881"
     },
     {
       "rank": 2827,
@@ -619,7 +619,7 @@
       "viewCount": "1206万",
       "likeCount": "8.8万",
       "commentCount": "2641",
-      "increment_d1": "340"
+      "increment_d1": "324"
     },
     {
       "rank": 2828,
@@ -642,7 +642,7 @@
       "viewCount": "1206万",
       "likeCount": "3.9万",
       "commentCount": "1317",
-      "increment_d1": "111"
+      "increment_d1": "86"
     },
     {
       "rank": 2829,
@@ -665,7 +665,7 @@
       "viewCount": "1205万",
       "likeCount": "10.8万",
       "commentCount": "42",
-      "increment_d1": "596"
+      "increment_d1": "666"
     },
     {
       "rank": 2830,
@@ -687,8 +687,8 @@
       "publishedAt": "2022-06-27",
       "viewCount": "1205万",
       "likeCount": "-",
-      "commentCount": "5997",
-      "increment_d1": "1315"
+      "commentCount": "5998",
+      "increment_d1": "1147"
     },
     {
       "rank": 2831,
@@ -711,10 +711,33 @@
       "viewCount": "1205万",
       "likeCount": "11.5万",
       "commentCount": "2266",
-      "increment_d1": "890"
+      "increment_d1": "873"
     },
     {
       "rank": 2832,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/S2UcVZQugSo/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=S2UcVZQugSo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "DUSTCELL - 足りない / Missing",
+        "url": "https://www.youtube.com/watch?v=S2UcVZQugSo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "DUSTCELL",
+        "url": "https://www.youtube.com/channel/UCJSzxbt4Acel9JdeLiY7tJQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-06-03",
+      "viewCount": "1205万",
+      "likeCount": "12.1万",
+      "commentCount": "1073",
+      "increment_d1": "3607"
+    },
+    {
+      "rank": 2833,
       "thumb": {
         "img": "https://i.ytimg.com/vi/mlA-Z7zSLHU/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=mlA-Z7zSLHU",
@@ -734,30 +757,7 @@
       "viewCount": "1205万",
       "likeCount": "14万",
       "commentCount": "4473",
-      "increment_d1": "1290"
-    },
-    {
-      "rank": 2833,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/S2UcVZQugSo/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=S2UcVZQugSo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "DUSTCELL - 足りない / Missing",
-        "url": "https://www.youtube.com/watch?v=S2UcVZQugSo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "DUSTCELL",
-        "url": "https://www.youtube.com/channel/UCJSzxbt4Acel9JdeLiY7tJQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-06-03",
-      "viewCount": "1205万",
-      "likeCount": "12.1万",
-      "commentCount": "1072",
-      "increment_d1": "3642"
+      "increment_d1": "1313"
     },
     {
       "rank": 2834,
@@ -779,8 +779,8 @@
       "publishedAt": "2012-05-25",
       "viewCount": "1205万",
       "likeCount": "2.5万",
-      "commentCount": "1505",
-      "increment_d1": "1596"
+      "commentCount": "1506",
+      "increment_d1": "1524"
     },
     {
       "rank": 2835,
@@ -803,7 +803,7 @@
       "viewCount": "1204万",
       "likeCount": "4.8万",
       "commentCount": "2307",
-      "increment_d1": "1405"
+      "increment_d1": "1432"
     },
     {
       "rank": 2836,
@@ -823,10 +823,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-07-23",
-      "viewCount": "1203万",
+      "viewCount": "1204万",
       "likeCount": "6.4万",
       "commentCount": "2411",
-      "increment_d1": "1694"
+      "increment_d1": "1525"
     },
     {
       "rank": 2837,
@@ -849,7 +849,7 @@
       "viewCount": "1203万",
       "likeCount": "2万",
       "commentCount": "585",
-      "increment_d1": "101"
+      "increment_d1": "112"
     },
     {
       "rank": 2838,
@@ -869,10 +869,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-01-02",
-      "viewCount": "1202万",
+      "viewCount": "1203万",
       "likeCount": "-",
       "commentCount": "1.2万",
-      "increment_d1": "1156"
+      "increment_d1": "1092"
     },
     {
       "rank": 2839,
@@ -892,10 +892,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-07-07",
-      "viewCount": "1202万",
+      "viewCount": "1203万",
       "likeCount": "6.9万",
       "commentCount": "5823",
-      "increment_d1": "542"
+      "increment_d1": "474"
     },
     {
       "rank": 2840,
@@ -918,33 +918,10 @@
       "viewCount": "1202万",
       "likeCount": "9.1万",
       "commentCount": "9859",
-      "increment_d1": "722"
+      "increment_d1": "752"
     },
     {
       "rank": 2841,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/0nzgi6dz8VY/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=0nzgi6dz8VY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Official髭男dism - LADY［Official Video］",
-        "url": "https://www.youtube.com/watch?v=0nzgi6dz8VY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Official髭男dism",
-        "url": "https://www.youtube.com/channel/UC3vg17IZ1IV73xx069jG44w",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-09-29",
-      "viewCount": "1202万",
-      "likeCount": "6.2万",
-      "commentCount": "2304",
-      "increment_d1": "2052"
-    },
-    {
-      "rank": 2842,
       "thumb": {
         "img": "https://i.ytimg.com/vi/u2YSzzXb2I4/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=u2YSzzXb2I4",
@@ -964,10 +941,56 @@
       "viewCount": "1202万",
       "likeCount": "13.5万",
       "commentCount": "3831",
-      "increment_d1": "3456"
+      "increment_d1": "3402"
+    },
+    {
+      "rank": 2842,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/0nzgi6dz8VY/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=0nzgi6dz8VY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Official髭男dism - LADY［Official Video］",
+        "url": "https://www.youtube.com/watch?v=0nzgi6dz8VY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Official髭男dism",
+        "url": "https://www.youtube.com/channel/UC3vg17IZ1IV73xx069jG44w",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-09-29",
+      "viewCount": "1202万",
+      "likeCount": "6.2万",
+      "commentCount": "2303",
+      "increment_d1": "1865"
     },
     {
       "rank": 2843,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/gUPbZaxe1sA/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=gUPbZaxe1sA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "もう少しだけ",
+        "url": "https://www.youtube.com/watch?v=gUPbZaxe1sA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-11-30",
+      "viewCount": "1201万",
+      "likeCount": "3.5万",
+      "commentCount": "129",
+      "increment_d1": "8199"
+    },
+    {
+      "rank": 2844,
       "thumb": {
         "img": "https://i.ytimg.com/vi/VxR_BYPG7v4/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=VxR_BYPG7v4",
@@ -987,10 +1010,10 @@
       "viewCount": "1201万",
       "likeCount": "11.9万",
       "commentCount": "2944",
-      "increment_d1": "4019"
+      "increment_d1": "4122"
     },
     {
-      "rank": 2844,
+      "rank": 2845,
       "thumb": {
         "img": "https://i.ytimg.com/vi/2ukU1meKcD0/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=2ukU1meKcD0",
@@ -1010,33 +1033,33 @@
       "viewCount": "1200万",
       "likeCount": "11.7万",
       "commentCount": "5820",
-      "increment_d1": "754"
-    },
-    {
-      "rank": 2845,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/gUPbZaxe1sA/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gUPbZaxe1sA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "もう少しだけ",
-        "url": "https://www.youtube.com/watch?v=gUPbZaxe1sA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-30",
-      "viewCount": "1200万",
-      "likeCount": "3.5万",
-      "commentCount": "129",
-      "increment_d1": "8184"
+      "increment_d1": "900"
     },
     {
       "rank": 2846,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/wW4VchHUbws/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=wW4VchHUbws",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "RADWIMPS - 狭心症 [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=wW4VchHUbws",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "RADWIMPS",
+        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-02-07",
+      "viewCount": "1199万",
+      "likeCount": "8.4万",
+      "commentCount": "5834",
+      "increment_d1": "6250"
+    },
+    {
+      "rank": 2847,
       "thumb": {
         "img": "https://i.ytimg.com/vi/VrOOigt76K0/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=VrOOigt76K0",
@@ -1056,30 +1079,7 @@
       "viewCount": "1199万",
       "likeCount": "16.7万",
       "commentCount": "3514",
-      "increment_d1": "1844"
-    },
-    {
-      "rank": 2847,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/wW4VchHUbws/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wW4VchHUbws",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "RADWIMPS - 狭心症 [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=wW4VchHUbws",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "RADWIMPS",
-        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-02-07",
-      "viewCount": "1199万",
-      "likeCount": "8.4万",
-      "commentCount": "5833",
-      "increment_d1": "6783"
+      "increment_d1": "1895"
     },
     {
       "rank": 2848,
@@ -1099,13 +1099,36 @@
         "target": "_blank"
       },
       "publishedAt": "2022-06-01",
-      "viewCount": "1198万",
+      "viewCount": "1199万",
       "likeCount": "14万",
       "commentCount": "1017",
-      "increment_d1": "5291"
+      "increment_d1": "5245"
     },
     {
       "rank": 2849,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/IuSAC8ZDf1A/mqdefault.jpg",
+        "url": "https://www.youtube.com/watch?v=IuSAC8ZDf1A",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "TVアニメ「WIND BREAKER」ノンクレジットオープニング映像『絶対零度』なとり｜2024.04.04 ON AIR",
+        "url": "https://www.youtube.com/watch?v=IuSAC8ZDf1A",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "アニプレックス チャンネル",
+        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-04-10",
+      "viewCount": "1198万",
+      "likeCount": "13.6万",
+      "commentCount": "2079",
+      "increment_d1": "8011"
+    },
+    {
+      "rank": 2850,
       "thumb": {
         "img": "https://i.ytimg.com/vi/haCJtSnfNEg/mqdefault.jpg",
         "url": "https://www.youtube.com/watch?v=haCJtSnfNEg",
@@ -1125,30 +1148,7 @@
       "viewCount": "1198万",
       "likeCount": "15.8万",
       "commentCount": "5238",
-      "increment_d1": "1288"
-    },
-    {
-      "rank": 2850,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/IuSAC8ZDf1A/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IuSAC8ZDf1A",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "TVアニメ「WIND BREAKER」ノンクレジットオープニング映像『絶対零度』なとり｜2024.04.04 ON AIR",
-        "url": "https://www.youtube.com/watch?v=IuSAC8ZDf1A",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アニプレックス チャンネル",
-        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-04-10",
-      "viewCount": "1197万",
-      "likeCount": "13.6万",
-      "commentCount": "2078",
-      "increment_d1": "7624"
+      "increment_d1": "1311"
     }
   ]
 }
