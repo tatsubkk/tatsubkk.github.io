@@ -4,11 +4,11 @@
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width,initial-scale=1"/>
   <title>邦楽　Youtube再生回数ランキング[歴代]</title>
-  <link rel="stylesheet" href="../../../ranking_common/layout.css"/>
-  <link rel="stylesheet" href="../../../ranking_common/logo.css"/>
-  <link rel="stylesheet" href="../../youtube_common/entrycontent.css"/>
-  <link rel="stylesheet" href="../../youtube_common/table.css"/>
-  <link rel="stylesheet" href="../../youtube_common/buttons.css"/>
+  <link rel="stylesheet" href="../../../common/layout.css"/>
+  <link rel="stylesheet" href="../../../common/logo.css"/>
+  <link rel="stylesheet" href="../../music_common/entrycontent.css"/>
+  <link rel="stylesheet" href="../../music_common/buttons.css"/>
+  <link rel="stylesheet" href="../../music_common/table.css"/>
 </head>
 <body>
 
@@ -33,15 +33,16 @@
 
   <div class="layout">
     <main class="content">
+
       <div class="entrycontent">
         <div class="entrycontent__top">
           <div class="entrycontent__eyebrow">Minnano Charts</div>
-          <h1 id="entrycontent_title" data-from="meta1" data-bind="title">タイトルを入力</h1>
+          <h1 id="entrycontent_title">邦楽　YouTube再生回数ランキング</h1>
           <div class="entrycontent__meta">
             <time
               id="entrycontent_date"
               class="badge-date badge-date--refresh"
-              data-from="meta2" data-bind="date"
+              data-from="meta" data-bind="date"
               title="最終更新日">日付を入力</time>
           </div>
         </div>
@@ -99,10 +100,10 @@
     </div>
   </nav>
 
-  <script defer src="../../../ranking_common/common.js"></script>
-  <script defer src="../../youtube_common/meta.js"></script>
-  <script defer src="../../youtube_common/buttons.js"></script>
-  <script defer src="../../youtube_common/pager.js"></script>
+  <script defer src="../../../common/common.js"></script>
+  <script defer src="../../music_common/date.js"></script>
+  <script defer src="../../music_common/buttons_switchbar.js"></script>
+  <script defer src="../../music_common/buttons_pager.js"></script>
   <script defer src="table.js"></script>
   
 </body>

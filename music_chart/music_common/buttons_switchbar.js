@@ -1,10 +1,11 @@
-/* ============================================
+/* ============================================ *\
    Switchbar link builder + current marker (path mode, robust)
    - data-template="/ranking_home/youtube/{genre}/{type}/"
    - .switchbar--genre : <a data-genre>
    - .switchbar--rtype : <a data-type>
    - Handles leading/trailing slashes, index.html, subpath hosting, fallbacks
-   ============================================ */
+\* ============================================ */
+
 (() => {
   // ===== Config =====
   const GENRES = [

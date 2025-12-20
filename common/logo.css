@@ -1,0 +1,100 @@
+/* =========================
+   Logo: base
+   ========================= */
+   .logo{
+    --accent:#2563eb;
+    --accent2:#a855f7;
+    --ink:#0b1220;
+    display:inline-block;
+    width:32px; height:32px; border-radius:8px;
+    position:relative; overflow:hidden; isolation:isolate;
+    background:
+      radial-gradient(120% 120% at 10% 120%, #0ea5e9 0 45%, #0b1220 55%),
+      radial-gradient(120% 120% at 110% -20%, #a855f7 0 40%, transparent 45%);
+    box-shadow:0 4px 12px rgba(0,0,0,.18), inset 0 1px 0 rgba(255,255,255,.15);
+  }
+  
+  /* shimmer (common) */
+  .logo::after{
+    content:"";
+    position:absolute; inset:-40% -60% auto auto; width:60%; height:200%;
+    background:linear-gradient(120deg, transparent 45%, rgba(255,255,255,.7) 50%, transparent 55%);
+    transform:translateX(-140%) rotate(20deg);
+    mix-blend-mode:screen; pointer-events:none;
+    transition:transform .6s ease;
+  }
+  .logo:hover::after{ transform:translateX(20%) rotate(20deg); }
+  
+  /* =========================
+     Variant 1: Bars (ranking bars)
+     ========================= */
+  .logo--bars{
+    background:linear-gradient(180deg, #0b1220, #141a2a);
+  }
+  .logo--bars::before{
+    content:"";
+    position:absolute; inset:6px 7px 6px 7px; border-radius:4px;
+    /* three bars layered */
+    background:
+      linear-gradient(to top, #60a5fa 0 70%, transparent 70%) left 0 top / 6px 100% no-repeat,
+      linear-gradient(to top, #a78bfa 0 55%, transparent 55%) left 10px top / 6px 100% no-repeat,
+      linear-gradient(to top, #34d399 0 85%, transparent 85%) right 0 top / 6px 100% no-repeat;
+    box-shadow:inset 0 0 0 1px rgba(255,255,255,.06), inset 0 -1px 0 rgba(0,0,0,.3);
+  }
+  
+  /* =========================
+     Variant 2: Starburst (conic + inner disk)
+     ========================= */
+  .logo--burst{
+    background:conic-gradient(from 210deg, #f59e0b, #ef4444, #8b5cf6, #22c55e, #f59e0b);
+    filter:saturate(1.1);
+  }
+  .logo--burst::before{
+    content:"";
+    position:absolute; inset:5px; border-radius:50%;
+    background:radial-gradient(circle at 35% 30%, #111827, #0b1220 60%, #020617 100%);
+    box-shadow:0 0 0 2px rgba(255,255,255,.08), inset 0 -4px 12px rgba(0,0,0,.4);
+  }
+  
+  /* =========================
+     Variant 3: Trophy (emoji with glow)
+     ========================= */
+  .logo--trophy{
+    background:radial-gradient(100% 100% at 50% 20%, #1f2937, #0b1220);
+  }
+  .logo--trophy::before{
+    content:"🏆";
+    position:absolute; inset:0; display:grid; place-items:center;
+    font-size:20px;
+    filter:drop-shadow(0 2px 0 rgba(0,0,0,.25)) drop-shadow(0 6px 10px rgba(0,0,0,.25));
+  }
+  
+  /* =========================
+     Variant 4: Crown (clip-path)
+     ========================= */
+  .logo--crown{
+    background:linear-gradient(180deg, #111827 0, #0b1220 100%);
+  }
+  .logo--crown::before{
+    content:"";
+    position:absolute; left:4px; right:4px; bottom:5px; height:18px;
+    background:linear-gradient(180deg, #facc15, #f59e0b);
+    clip-path:polygon(0% 100%, 0% 40%, 18% 60%, 33% 25%, 50% 60%, 67% 25%, 82% 60%, 100% 40%, 100% 100%);
+    box-shadow:0 2px 0 #a16207, 0 6px 12px rgba(0,0,0,.35);
+  }
+  
+  /* =========================
+     Variant 5: Ring (badge ring)
+     ========================= */
+  .logo--ring{
+    background:conic-gradient(from 90deg, #22c55e, #06b6d4, #8b5cf6, #22c55e);
+  }
+  .logo--ring::before{
+    content:"";
+    position:absolute; inset:4px; border-radius:50%;
+    background:
+      radial-gradient(circle at 60% 35%, rgba(255,255,255,.18), transparent 35%),
+      radial-gradient(circle at 50% 50%, #0b1220 0 60%, transparent 61%);
+    box-shadow:inset 0 0 0 2px rgba(255,255,255,.18), inset 0 8px 16px rgba(0,0,0,.45);
+  }
+  

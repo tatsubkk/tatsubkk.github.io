@@ -1,158 +1,104 @@
-/* =========================
+/* ========================= *\
    Entry Content (hero block)
-   ========================= */
-   .entrycontent{
-    padding:20px 20px 8px;
-    margin:8px 0 16px;
-    border-radius:16px;
-    background:
-      radial-gradient(120% 140% at 10% 0%, color-mix(in oklab, var(--accent) 12%, transparent) 0%, transparent 55%),
-      radial-gradient(120% 140% at 100% 0%, color-mix(in oklab, #a855f7 12%, transparent) 0%, transparent 55%),
-      var(--panel);
-    box-shadow:var(--shadow);
-  }
+\* ========================= */
+
+.entrycontent{
+  padding:20px 20px 8px;
+  margin:8px 0 16px;
+  border-radius:16px;
+  background:
+    radial-gradient(120% 140% at 10% 0%, color-mix(in oklab, var(--accent) 12%, transparent) 0%, transparent 55%),
+    radial-gradient(120% 140% at 100% 0%, color-mix(in oklab, #a855f7 12%, transparent) 0%, transparent 55%),
+    var(--panel);
+  box-shadow:var(--shadow);
+}
   
-  /* top row: eyebrow + title + date badge */
-  .entrycontent__top{
-    display:flex; align-items:flex-end; gap:12px; flex-wrap:wrap;
-  }
+/* top row: eyebrow + title + date badge */
+.entrycontent__top{
+  display:flex; align-items:flex-end; gap:12px; flex-wrap:wrap;
+}
   
-  /* eyebrow */
-  .entrycontent__eyebrow{
-    font-size:.78rem; letter-spacing:.12em; text-transform:uppercase;
-    font-weight:700;
-    background:linear-gradient(90deg, #60a5fa, #a78bfa);
-    -webkit-background-clip:text; background-clip:text; color:transparent;
-  }
+/* eyebrow */
+.entrycontent__eyebrow{
+  font-size:.78rem; letter-spacing:.12em; text-transform:uppercase;
+  font-weight:700;
+  background:linear-gradient(90deg, #60a5fa, #a78bfa);
+  -webkit-background-clip:text; background-clip:text; color:transparent;
+}
   
-  /* title */
-  .entrycontent h1{
-    margin:2px 0 0; line-height:1.2;
-    font-size:clamp(1.25rem, 2.3vw + .5rem, 1.8rem);
-    font-weight:800; color:var(--ink);
-  }
+/* title */
+.entrycontent h1{
+  margin:2px 0 0; line-height:1.2;
+  font-size:clamp(1.25rem, 2.3vw + .5rem, 1.8rem);
+  font-weight:800; color:var(--ink);
+}
   
-  /* right-side meta (date badge) */
-  .entrycontent__meta{
-    display:flex; gap:8px; align-items:center; margin-left:auto;
-  }
+/* right-side meta (date badge) */
+.entrycontent__meta{
+  display:flex; gap:8px; align-items:center; margin-left:auto;
+}
   
-  /* date badge */
-  .badge-date{
-    display:inline-block; padding:6px 10px; border-radius:999px;
-    font-size:.85rem; font-variant-numeric:tabular-nums;
-    color:#0f172a; background:#e8f0ff; border:1px solid #cfe0ff;
-  }
-  
-  /* description (preserve line breaks) */
-  .entrycontent__desc,
-  #entrycontent_explain{
-    margin:10px 0 16px; color:#1f2937; line-height:1.7; white-space:pre-line;
-  }
-  
-  /* “related pages” headline */
-  .entrycontent_headmenu{
-    margin-top:8px; margin-bottom:6px;
-    font-weight:700; color:#111827; letter-spacing:.02em;
-  }
-  
-  /* quick links row */
-  .entrycontent__links{
-    display:flex; flex-wrap:wrap; gap:10px; margin-bottom:14px;
-  }
-  .chip-link{
-    display:inline-block; padding:8px 12px; border-radius:999px;
-    background:var(--panel); color:#111827; text-decoration:none;
-    border:1px solid var(--line);
-    box-shadow:0 1px 0 rgba(16,24,40,.05);
-    transition:background .15s ease, border-color .15s ease, transform .02s ease;
-  }
-  .chip-link:hover{ background:var(--card); border-color:#cbd2e0; }
-  .chip-link:active{ transform:translateY(1px); }
-  
-  /* sectional header (e.g., period chips) */
-  .entrycontent__sectionhead{
-    margin-top:6px; margin-bottom:6px; font-weight:700; color:#111827;
-  }
-  
-  /* segment pills */
-  .entrycontent__segments{
-    display:flex; flex-wrap:wrap; gap:8px; margin-bottom:8px;
-  }
-  .seg-pill{
-    display:inline-block; padding:7px 12px; border-radius:12px;
-    background:#0b1220; color:#e5e7eb; text-decoration:none;
-    border:1px solid #111827;
-    box-shadow:inset 0 1px 0 rgba(255,255,255,.06), 0 6px 12px rgba(0,0,0,.1);
-    transition:background .15s ease, transform .02s ease, color .15s ease, border-color .15s ease;
-  }
-  .seg-pill:hover{ background:#111827; color:#fff; }
-  .seg-pill:active{ transform:translateY(1px); }
-  .seg-pill.is-current,
-  .seg-pill[aria-current="page"]{ background:var(--accent); border-color:var(--accent); color:#fff; }
-  
-  /* =========================
-     Responsive tweaks
-     ========================= */
-  @media (max-width:520px){
-    .entrycontent{ padding:16px; border-radius:14px; }
-    .badge-date{ font-size:.82rem; }
-  }
-  
-  /* =========================
-     Dark mode (OS or site palette)
-     ========================= */
-  @media (prefers-color-scheme: dark){
-    :root:not([data-theme="light"]) .entrycontent{
-      background:
-        radial-gradient(120% 140% at 10% 0%, color-mix(in oklab, var(--accent) 22%, transparent) 0%, transparent 55%),
-        radial-gradient(120% 140% at 100% 0%, color-mix(in oklab, #a855f7 18%, transparent) 0%, transparent 55%),
-        var(--bg);
-      box-shadow:0 6px 24px rgba(0,0,0,.35);
-    }
-    :root:not([data-theme="light"]) .entrycontent h1{ color:#e5e7eb; }
-    :root:not([data-theme="light"]) .entrycontent__desc,
-    :root:not([data-theme="light"]) #entrycontent_explain{ color:#cbd5e1; }
-    :root:not([data-theme="light"]) .entrycontent_headmenu,
-    :root:not([data-theme="light"]) .entrycontent__sectionhead{ color:#e5e7eb; }
-    :root:not([data-theme="light"]) .chip-link{
-      background:#0b1220; color:#e5e7eb; border-color:#253047;
-    }
-    :root:not([data-theme="light"]) .chip-link:hover{ background:#111728; border-color:#334155; }
-    :root:not([data-theme="light"]) .badge-date{
-      background:#0f172a; color:#e2e8f0; border-color:#233049;
-    }
-  }
-  /* site-forced dark (overrides OS) */
-  :root[data-theme="dark"] .entrycontent{
+/* date badge */
+.badge-date{
+  display:inline-block; padding:6px 10px; border-radius:999px;
+  font-size:.85rem; font-variant-numeric:tabular-nums;
+  color:#0f172a; background:#e8f0ff; border:1px solid #cfe0ff;
+}
+
+
+/* ========================= *\
+  Responsive tweaks
+\* ========================= */
+
+@media (max-width:520px){
+  .entrycontent{ padding:16px; border-radius:14px; }
+  .badge-date{ font-size:.82rem; }
+}
+
+
+/* ========================= *\
+  Dark mode (OS or site palette)
+\* ========================= */
+
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme="light"]) .entrycontent{
     background:
       radial-gradient(120% 140% at 10% 0%, color-mix(in oklab, var(--accent) 22%, transparent) 0%, transparent 55%),
       radial-gradient(120% 140% at 100% 0%, color-mix(in oklab, #a855f7 18%, transparent) 0%, transparent 55%),
       var(--bg);
     box-shadow:0 6px 24px rgba(0,0,0,.35);
   }
-  :root[data-theme="dark"] .entrycontent h1{ color:#e5e7eb; }
-  :root[data-theme="dark"] .entrycontent__desc,
-  :root[data-theme="dark"] #entrycontent_explain{ color:#cbd5e1; }
-  :root[data-theme="dark"] .entrycontent_headmenu,
-  :root[data-theme="dark"] .entrycontent__sectionhead{ color:#e5e7eb; }
-  :root[data-theme="dark"] .chip-link{
-    background:#0b1220; color:#e5e7eb; border-color:#253047;
-  }
-  :root[data-theme="dark"] .chip-link:hover{ background:#111728; border-color:#334155; }
-  :root[data-theme="dark"] .badge-date{
+  :root:not([data-theme="light"]) .entrycontent h1{ color:#e5e7eb; }
+  :root:not([data-theme="light"]) .badge-date{
     background:#0f172a; color:#e2e8f0; border-color:#233049;
   }
-  
-  /* =========================
-     Date badge: “refresh” icon variant
-     ========================= */
-  .badge-date.badge-date--refresh{
-    position:relative; padding-left:28px;
-  }
-  .badge-date.badge-date--refresh::before{
-    content:"↻";
-    position:absolute; left:10px; top:50%; translate:0 -50%;
-    font-size:.95em; line-height:1; opacity:.9; display:inline-block; transform-origin:50% 50%;
-  }
+}
+
+/* site-forced dark (overrides OS) */
+:root[data-theme="dark"] .entrycontent{
+  background:
+    radial-gradient(120% 140% at 10% 0%, color-mix(in oklab, var(--accent) 22%, transparent) 0%, transparent 55%),
+    radial-gradient(120% 140% at 100% 0%, color-mix(in oklab, #a855f7 18%, transparent) 0%, transparent 55%),
+    var(--bg);
+  box-shadow:0 6px 24px rgba(0,0,0,.35);
+}
+:root[data-theme="dark"] .entrycontent h1{ color:#e5e7eb; }
+:root[data-theme="dark"] .entrycontent__desc,
+:root[data-theme="dark"] .badge-date{
+  background:#0f172a; color:#e2e8f0; border-color:#233049;
+}
+
+
+/* ========================= *\
+  Date badge: “refresh” icon variant
+\* ========================= */
+
+.badge-date.badge-date--refresh{
+  position:relative; padding-left:28px;
+}
+.badge-date.badge-date--refresh::before{
+  content:"↻";
+  position:absolute; left:10px; top:50%; translate:0 -50%;
+  font-size:.95em; line-height:1; opacity:.9; display:inline-block; transform-origin:50% 50%;
+}
   
