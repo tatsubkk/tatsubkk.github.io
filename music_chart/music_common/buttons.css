@@ -1,0 +1,152 @@
+/* =========================
+ Switchbar (category buttons)
+========================= */
+.switchbar{
+  display:flex;
+  flex-wrap:wrap;
+  gap:10px;
+  margin:12px 0 10px;
+}
+  
+/* base pill */
+.switchbar__btn{
+  display:inline-block;
+  min-width:2.25rem;
+  padding:10px 14px;
+  border:1px solid var(--line);
+  border-radius:999px;
+  background:var(--panel);
+  color:var(--ink);
+  text-decoration:none;
+  line-height:1;
+  text-align:center;
+  box-shadow:0 1px 0 rgba(16,24,40,.04);
+  transition:
+    transform .02s ease,
+    background .15s ease,
+    border-color .15s ease,
+    color .15s ease;
+  font-weight:600;
+}
+  
+/* hover / active */
+.switchbar__btn:hover{
+  background:var(--card);
+  border-color:color-mix(in oklab, var(--line) 80%, var(--ink) 20%);
+}
+.switchbar__btn:active{
+  transform:translateY(1px);
+}
+  
+/* current (uses palette tokens set elsewhere) */
+.switchbar__btn.is-current,
+.switchbar__btn[aria-current="page"]{
+  background:var(--pill-current-bg);
+  color:var(--pill-current-fg);
+  border-color:var(--pill-current-border);
+  box-shadow:var(--pill-current-shadow);
+}
+  
+/* responsive */
+@media (max-width:520px){
+  .switchbar__btn{ padding:10px 12px; }
+}
+  
+  
+/* =========================
+ Pager (numeric nav buttons)
+========================= */
+.pager{
+  display:flex;
+  flex-wrap:wrap;
+  gap:8px;
+  align-items:center;
+  justify-content:center;
+  margin:16px 0 24px;
+  user-select:none;
+}
+  
+/* number / arrow buttons */
+.pager a{
+  display:inline-block;
+  min-width:2.25rem;
+  padding:8px 12px;
+  border:1px solid var(--line);
+  border-radius:999px;
+  background:var(--panel);
+  color:var(--ink);
+  text-decoration:none;
+  line-height:1;
+  text-align:center;
+  box-shadow:0 1px 0 rgba(16,24,40,.04);
+  transition:
+    transform .02s ease,
+    background .15s ease,
+    border-color .15s ease,
+    color .15s ease;
+}
+  
+/* hover / active */
+.pager a:hover{
+  background:var(--card);
+  border-color:color-mix(in oklab, var(--line) 80%, var(--ink) 20%);
+}
+.pager a:active{
+  transform:translateY(1px);
+}
+  
+/* current page (LIGHT default) */
+.pager a.is-current{
+  background:var(--ink);
+  color:#fff;
+  border-color:var(--ink);
+  cursor:default;
+}
+  
+/* disabled state */
+.pager a.is-disabled,
+.pager a[aria-disabled="true"]{
+  opacity:.45;
+  pointer-events:none;
+}
+  
+/* ellipsis "…" */
+.pager .gap{
+  display:inline-block;
+  min-width:2.25rem;
+  text-align:center;
+  color:var(--muted);
+}
+  
+/* focus ring (a11y) */
+.pager a:focus-visible{
+  outline:3px solid var(--accent);
+  outline-offset:2px;
+  border-color:var(--accent);
+}
+  
+/* responsive */
+@media (max-width:520px){
+  .pager a{
+    min-width:2.2rem;
+    padding:10px 12px;
+  }
+}
+  
+/* current page (DARK: explicit toggle via data-theme) */
+:root[data-theme="dark"] .pager a.is-current{
+  background:#fff;        /* white bg */
+  color:var(--bg);        /* use dark palette bg (navy-ish) as text color */
+  border-color:var(--bg);
+  font-weight:700;
+}
+  
+/* current page (DARK: follow OS when data-theme is not set) */
+@media (prefers-color-scheme: dark){
+  :root:not([data-theme]) .pager a.is-current{
+    background:#fff;
+    color:var(--bg);
+    border-color:var(--bg);
+    font-weight:700;
+  }
+}

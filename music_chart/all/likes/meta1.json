@@ -1,0 +1,10 @@
+{
+  "title": "邦楽　YouTubeいいね数ランキング",
+  "explain": "邦楽　Youtubeいいね数ランキングです\n毎日自動更新",
+  "pager": {
+    "max_numbers": 7,
+    "mobile_max_numbers": 3,
+    "show_prev_next": false,
+    "show_first_last": false
+  }
+}
