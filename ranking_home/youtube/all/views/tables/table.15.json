@@ -3,7 +3,7 @@
     {
       "rank": 701,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/ZNu10SawQgc/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/ZNu10SawQgc/default.jpg",
         "url": "https://www.youtube.com/watch?v=ZNu10SawQgc",
         "target": "_blank"
       },
@@ -18,15 +18,15 @@
         "target": "_blank"
       },
       "publishedAt": "2015-04-04",
-      "viewCount": "4730万",
-      "likeCount": "24.4万",
-      "commentCount": "9290",
-      "increment_d1": "1.14万"
+      "viewCount": "4731万",
+      "likeCount": "24.5万",
+      "commentCount": "9291",
+      "increment_d1": "1.17万"
     },
     {
       "rank": 702,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/DZZanv_vKRc/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/DZZanv_vKRc/default.jpg",
         "url": "https://www.youtube.com/watch?v=DZZanv_vKRc",
         "target": "_blank"
       },
@@ -44,12 +44,12 @@
       "viewCount": "4715万",
       "likeCount": "18.2万",
       "commentCount": "2.2万",
-      "increment_d1": "814"
+      "increment_d1": "890"
     },
     {
       "rank": 703,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/GewWg-T29Js/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/GewWg-T29Js/default.jpg",
         "url": "https://www.youtube.com/watch?v=GewWg-T29Js",
         "target": "_blank"
       },
@@ -64,15 +64,15 @@
         "target": "_blank"
       },
       "publishedAt": "2012-05-24",
-      "viewCount": "4704万",
+      "viewCount": "4705万",
       "likeCount": "14.9万",
       "commentCount": "1.2万",
-      "increment_d1": "7475"
+      "increment_d1": "8280"
     },
     {
       "rank": 704,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/L2dKjnmWRkk/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/L2dKjnmWRkk/default.jpg",
         "url": "https://www.youtube.com/watch?v=L2dKjnmWRkk",
         "target": "_blank"
       },
@@ -87,15 +87,15 @@
         "target": "_blank"
       },
       "publishedAt": "2013-06-21",
-      "viewCount": "4701万",
+      "viewCount": "4702万",
       "likeCount": "24.5万",
       "commentCount": "7524",
-      "increment_d1": "6554"
+      "increment_d1": "6557"
     },
     {
       "rank": 705,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/2pZ-UpjtlXY/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/2pZ-UpjtlXY/default.jpg",
         "url": "https://www.youtube.com/watch?v=2pZ-UpjtlXY",
         "target": "_blank"
       },
@@ -113,35 +113,12 @@
       "viewCount": "4700万",
       "likeCount": "25.9万",
       "commentCount": "2万",
-      "increment_d1": "2361"
+      "increment_d1": "2312"
     },
     {
       "rank": 706,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/-YP_I9C7i4o/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=-YP_I9C7i4o",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SixTONES - Strawberry Breakfast",
-        "url": "https://www.youtube.com/watch?v=-YP_I9C7i4o",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SixTONES",
-        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-05-11",
-      "viewCount": "4697万",
-      "likeCount": "-",
-      "commentCount": "4.6万",
-      "increment_d1": "6241"
-    },
-    {
-      "rank": 707,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/AOfaWrBwo7I/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/AOfaWrBwo7I/default.jpg",
         "url": "https://www.youtube.com/watch?v=AOfaWrBwo7I",
         "target": "_blank"
       },
@@ -156,15 +133,38 @@
         "target": "_blank"
       },
       "publishedAt": "2024-08-09",
-      "viewCount": "4690万",
-      "likeCount": "46.2万",
-      "commentCount": "6700",
-      "increment_d1": "8.22万"
+      "viewCount": "4699万",
+      "likeCount": "46.3万",
+      "commentCount": "6705",
+      "increment_d1": "9.19万"
+    },
+    {
+      "rank": 707,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/-YP_I9C7i4o/default.jpg",
+        "url": "https://www.youtube.com/watch?v=-YP_I9C7i4o",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SixTONES - Strawberry Breakfast",
+        "url": "https://www.youtube.com/watch?v=-YP_I9C7i4o",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SixTONES",
+        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-05-11",
+      "viewCount": "4698万",
+      "likeCount": "-",
+      "commentCount": "4.6万",
+      "increment_d1": "6522"
     },
     {
       "rank": 708,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/a5RAx7qNaAE/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/a5RAx7qNaAE/default.jpg",
         "url": "https://www.youtube.com/watch?v=a5RAx7qNaAE",
         "target": "_blank"
       },
@@ -179,15 +179,15 @@
         "target": "_blank"
       },
       "publishedAt": "2025-01-26",
-      "viewCount": "4686万",
+      "viewCount": "4689万",
       "likeCount": "15.2万",
       "commentCount": "15.6万",
-      "increment_d1": "3.75万"
+      "increment_d1": "3.53万"
     },
     {
       "rank": 709,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/LVju0yUg7Sk/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/LVju0yUg7Sk/default.jpg",
         "url": "https://www.youtube.com/watch?v=LVju0yUg7Sk",
         "target": "_blank"
       },
@@ -205,35 +205,12 @@
       "viewCount": "4672万",
       "likeCount": "-",
       "commentCount": "2.6万",
-      "increment_d1": "5600"
+      "increment_d1": "6062"
     },
     {
       "rank": 710,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/UC_qla6FQwM/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UC_qla6FQwM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "[MV] REOL - ヒビカセ / Hibikase",
-        "url": "https://www.youtube.com/watch?v=UC_qla6FQwM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Reol Official",
-        "url": "https://www.youtube.com/channel/UCB6pJFaFByws3dQj4AdLdyA",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-09-23",
-      "viewCount": "4663万",
-      "likeCount": "38.8万",
-      "commentCount": "7794",
-      "increment_d1": "4077"
-    },
-    {
-      "rank": 711,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/rSYoIuyks8g/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/rSYoIuyks8g/default.jpg",
         "url": "https://www.youtube.com/watch?v=rSYoIuyks8g",
         "target": "_blank"
       },
@@ -248,15 +225,38 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-09",
-      "viewCount": "4663万",
+      "viewCount": "4665万",
       "likeCount": "52.2万",
       "commentCount": "2.3万",
-      "increment_d1": "2.11万"
+      "increment_d1": "2.15万"
+    },
+    {
+      "rank": 711,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/UC_qla6FQwM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=UC_qla6FQwM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "[MV] REOL - ヒビカセ / Hibikase",
+        "url": "https://www.youtube.com/watch?v=UC_qla6FQwM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Reol Official",
+        "url": "https://www.youtube.com/channel/UCB6pJFaFByws3dQj4AdLdyA",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-09-23",
+      "viewCount": "4664万",
+      "likeCount": "38.8万",
+      "commentCount": "7794",
+      "increment_d1": "3841"
     },
     {
       "rank": 712,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/JqmlNApoAcA/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/JqmlNApoAcA/default.jpg",
         "url": "https://www.youtube.com/watch?v=JqmlNApoAcA",
         "target": "_blank"
       },
@@ -271,15 +271,15 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-14",
-      "viewCount": "4661万",
+      "viewCount": "4663万",
       "likeCount": "-",
       "commentCount": "4404",
-      "increment_d1": "1.23万"
+      "increment_d1": "1.36万"
     },
     {
       "rank": 713,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/caF6nJxTejc/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/caF6nJxTejc/default.jpg",
         "url": "https://www.youtube.com/watch?v=caF6nJxTejc",
         "target": "_blank"
       },
@@ -294,15 +294,15 @@
         "target": "_blank"
       },
       "publishedAt": "2015-08-12",
-      "viewCount": "4659万",
+      "viewCount": "4660万",
       "likeCount": "20.6万",
       "commentCount": "6033",
-      "increment_d1": "3216"
+      "increment_d1": "2704"
     },
     {
       "rank": 714,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/Q9qAyt0G-jM/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/Q9qAyt0G-jM/default.jpg",
         "url": "https://www.youtube.com/watch?v=Q9qAyt0G-jM",
         "target": "_blank"
       },
@@ -317,38 +317,15 @@
         "target": "_blank"
       },
       "publishedAt": "2014-04-01",
-      "viewCount": "4657万",
+      "viewCount": "4659万",
       "likeCount": "16.8万",
       "commentCount": "1.1万",
-      "increment_d1": "1.75万"
+      "increment_d1": "1.82万"
     },
     {
       "rank": 715,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/es-TULCdfvQ/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=es-TULCdfvQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "DISH// - 猫 [Official Live Video 2019]",
-        "url": "https://www.youtube.com/watch?v=es-TULCdfvQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "DISH// official YouTube channel",
-        "url": "https://www.youtube.com/channel/UCU6KkThusZwJccr_FQV9kvg",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-04-07",
-      "viewCount": "4646万",
-      "likeCount": "16.8万",
-      "commentCount": "3723",
-      "increment_d1": "4585"
-    },
-    {
-      "rank": 716,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/BWmO6SCYhRc/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/BWmO6SCYhRc/default.jpg",
         "url": "https://www.youtube.com/watch?v=BWmO6SCYhRc",
         "target": "_blank"
       },
@@ -363,15 +340,38 @@
         "target": "_blank"
       },
       "publishedAt": "2017-07-13",
-      "viewCount": "4645万",
+      "viewCount": "4647万",
       "likeCount": "27.9万",
-      "commentCount": "5487",
-      "increment_d1": "2.03万"
+      "commentCount": "5488",
+      "increment_d1": "1.93万"
+    },
+    {
+      "rank": 716,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/es-TULCdfvQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=es-TULCdfvQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "DISH// - 猫 [Official Live Video 2019]",
+        "url": "https://www.youtube.com/watch?v=es-TULCdfvQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "DISH// official YouTube channel",
+        "url": "https://www.youtube.com/channel/UCU6KkThusZwJccr_FQV9kvg",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-04-07",
+      "viewCount": "4647万",
+      "likeCount": "16.8万",
+      "commentCount": "3724",
+      "increment_d1": "4756"
     },
     {
       "rank": 717,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/lz8frtP6_kk/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/lz8frtP6_kk/default.jpg",
         "url": "https://www.youtube.com/watch?v=lz8frtP6_kk",
         "target": "_blank"
       },
@@ -386,15 +386,15 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-26",
-      "viewCount": "4642万",
+      "viewCount": "4643万",
       "likeCount": "22.8万",
-      "commentCount": "8067",
-      "increment_d1": "1.8万"
+      "commentCount": "8076",
+      "increment_d1": "1.87万"
     },
     {
       "rank": 718,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/jMKPYg0uhCI/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/jMKPYg0uhCI/default.jpg",
         "url": "https://www.youtube.com/watch?v=jMKPYg0uhCI",
         "target": "_blank"
       },
@@ -409,15 +409,15 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-21",
-      "viewCount": "4638万",
+      "viewCount": "4640万",
       "likeCount": "41.5万",
-      "commentCount": "7149",
-      "increment_d1": "1.87万"
+      "commentCount": "7151",
+      "increment_d1": "1.97万"
     },
     {
       "rank": 719,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/mHrjM6oVez0/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/mHrjM6oVez0/default.jpg",
         "url": "https://www.youtube.com/watch?v=mHrjM6oVez0",
         "target": "_blank"
       },
@@ -432,15 +432,15 @@
         "target": "_blank"
       },
       "publishedAt": "2018-05-16",
-      "viewCount": "4627万",
+      "viewCount": "4628万",
       "likeCount": "32.8万",
       "commentCount": "4324",
-      "increment_d1": "8458"
+      "increment_d1": "9021"
     },
     {
       "rank": 720,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/F6_zbnfxoBA/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/F6_zbnfxoBA/default.jpg",
         "url": "https://www.youtube.com/watch?v=F6_zbnfxoBA",
         "target": "_blank"
       },
@@ -455,15 +455,15 @@
         "target": "_blank"
       },
       "publishedAt": "2019-05-28",
-      "viewCount": "4623万",
+      "viewCount": "4624万",
       "likeCount": "39.1万",
       "commentCount": "8303",
-      "increment_d1": "1.1万"
+      "increment_d1": "1.11万"
     },
     {
       "rank": 721,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/naJcqMBbAn4/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/naJcqMBbAn4/default.jpg",
         "url": "https://www.youtube.com/watch?v=naJcqMBbAn4",
         "target": "_blank"
       },
@@ -478,15 +478,38 @@
         "target": "_blank"
       },
       "publishedAt": "2015-08-21",
-      "viewCount": "4618万",
+      "viewCount": "4619万",
       "likeCount": "14.3万",
-      "commentCount": "7728",
+      "commentCount": "7731",
       "increment_d1": "2855"
     },
     {
       "rank": 722,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/GivkxpAVVC4/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/_dAzUOzWvrk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=_dAzUOzWvrk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV】Creepy Nuts - かつて天才だった俺たちへ",
+        "url": "https://www.youtube.com/watch?v=_dAzUOzWvrk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Creepy Nuts",
+        "url": "https://www.youtube.com/channel/UCEc1YzMOSKKtJD7H-q71HgQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-08-19",
+      "viewCount": "4617万",
+      "likeCount": "32.6万",
+      "commentCount": "1万",
+      "increment_d1": "1.16万"
+    },
+    {
+      "rank": 723,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/GivkxpAVVC4/default.jpg",
         "url": "https://www.youtube.com/watch?v=GivkxpAVVC4",
         "target": "_blank"
       },
@@ -504,35 +527,12 @@
       "viewCount": "4616万",
       "likeCount": "22.6万",
       "commentCount": "1.5万",
-      "increment_d1": "2825"
-    },
-    {
-      "rank": 723,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/_dAzUOzWvrk/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_dAzUOzWvrk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV】Creepy Nuts - かつて天才だった俺たちへ",
-        "url": "https://www.youtube.com/watch?v=_dAzUOzWvrk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Creepy Nuts",
-        "url": "https://www.youtube.com/channel/UCEc1YzMOSKKtJD7H-q71HgQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-08-19",
-      "viewCount": "4616万",
-      "likeCount": "32.6万",
-      "commentCount": "1万",
-      "increment_d1": "1.13万"
+      "increment_d1": "3148"
     },
     {
       "rank": 724,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/ilnLczvLGAY/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/ilnLczvLGAY/default.jpg",
         "url": "https://www.youtube.com/watch?v=ilnLczvLGAY",
         "target": "_blank"
       },
@@ -547,15 +547,15 @@
         "target": "_blank"
       },
       "publishedAt": "2021-05-30",
-      "viewCount": "4610万",
+      "viewCount": "4611万",
       "likeCount": "26.1万",
-      "commentCount": "8731",
-      "increment_d1": "1.4万"
+      "commentCount": "8732",
+      "increment_d1": "1.44万"
     },
     {
       "rank": 725,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/gD2mhJ3ByGQ/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/gD2mhJ3ByGQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=gD2mhJ3ByGQ",
         "target": "_blank"
       },
@@ -572,13 +572,13 @@
       "publishedAt": "2013-05-27",
       "viewCount": "4598万",
       "likeCount": "17.2万",
-      "commentCount": "6368",
-      "increment_d1": "8080"
+      "commentCount": "6369",
+      "increment_d1": "8359"
     },
     {
       "rank": 726,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/5mLape5F0Fw/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/5mLape5F0Fw/default.jpg",
         "url": "https://www.youtube.com/watch?v=5mLape5F0Fw",
         "target": "_blank"
       },
@@ -593,15 +593,38 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-24",
-      "viewCount": "4567万",
+      "viewCount": "4571万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "3.24万"
+      "increment_d1": "4.17万"
     },
     {
       "rank": 727,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/0HL7QlHyceI/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/PwhKGjv4Yjc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=PwhKGjv4Yjc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "「Time goes by」MUSIC VIDEO / Every Little Thing",
+        "url": "https://www.youtube.com/watch?v=PwhKGjv4Yjc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ELTV",
+        "url": "https://www.youtube.com/channel/UCjjqnLtqDDAY02a_dsgdoog",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-12-10",
+      "viewCount": "4563万",
+      "likeCount": "11.9万",
+      "commentCount": "5136",
+      "increment_d1": "3.43万"
+    },
+    {
+      "rank": 728,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/0HL7QlHyceI/default.jpg",
         "url": "https://www.youtube.com/watch?v=0HL7QlHyceI",
         "target": "_blank"
       },
@@ -619,81 +642,12 @@
       "viewCount": "4562万",
       "likeCount": "-",
       "commentCount": "9261",
-      "increment_d1": "6718"
-    },
-    {
-      "rank": 728,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/PwhKGjv4Yjc/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=PwhKGjv4Yjc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "「Time goes by」MUSIC VIDEO / Every Little Thing",
-        "url": "https://www.youtube.com/watch?v=PwhKGjv4Yjc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ELTV",
-        "url": "https://www.youtube.com/channel/UCjjqnLtqDDAY02a_dsgdoog",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-12-10",
-      "viewCount": "4559万",
-      "likeCount": "11.9万",
-      "commentCount": "5133",
-      "increment_d1": "3.23万"
+      "increment_d1": "7256"
     },
     {
       "rank": 729,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/wvE8rk2dlIY/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=wvE8rk2dlIY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "AK-69 - And I Love You So",
-        "url": "https://www.youtube.com/watch?v=wvE8rk2dlIY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "MusicSecurities",
-        "url": "https://www.youtube.com/channel/UCU3So1DWPqQ9QrzfyX0WeiQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-09-01",
-      "viewCount": "4532万",
-      "likeCount": "-",
-      "commentCount": "-",
-      "increment_d1": "6245"
-    },
-    {
-      "rank": 730,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/_6h1UACCeIU/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_6h1UACCeIU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Rake　『100万回の「I love you」』",
-        "url": "https://www.youtube.com/watch?v=_6h1UACCeIU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-01-27",
-      "viewCount": "4530万",
-      "likeCount": "15.5万",
-      "commentCount": "4018",
-      "increment_d1": "4638"
-    },
-    {
-      "rank": 731,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/VDdLF1YubI0/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/VDdLF1YubI0/default.jpg",
         "url": "https://www.youtube.com/watch?v=VDdLF1YubI0",
         "target": "_blank"
       },
@@ -708,15 +662,61 @@
         "target": "_blank"
       },
       "publishedAt": "2025-06-06",
-      "viewCount": "4529万",
-      "likeCount": "48万",
-      "commentCount": "6058",
-      "increment_d1": "22.41万"
+      "viewCount": "4554万",
+      "likeCount": "48.1万",
+      "commentCount": "6081",
+      "increment_d1": "24.99万"
+    },
+    {
+      "rank": 730,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/wvE8rk2dlIY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=wvE8rk2dlIY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "AK-69 - And I Love You So",
+        "url": "https://www.youtube.com/watch?v=wvE8rk2dlIY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "MusicSecurities",
+        "url": "https://www.youtube.com/channel/UCU3So1DWPqQ9QrzfyX0WeiQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-09-01",
+      "viewCount": "4533万",
+      "likeCount": "-",
+      "commentCount": "-",
+      "increment_d1": "6792"
+    },
+    {
+      "rank": 731,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/_6h1UACCeIU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=_6h1UACCeIU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Rake　『100万回の「I love you」』",
+        "url": "https://www.youtube.com/watch?v=_6h1UACCeIU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-01-27",
+      "viewCount": "4531万",
+      "likeCount": "15.5万",
+      "commentCount": "4018",
+      "increment_d1": "5051"
     },
     {
       "rank": 732,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/aeM6VF2XOn0/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/aeM6VF2XOn0/default.jpg",
         "url": "https://www.youtube.com/watch?v=aeM6VF2XOn0",
         "target": "_blank"
       },
@@ -734,12 +734,12 @@
       "viewCount": "4525万",
       "likeCount": "22万",
       "commentCount": "3.7万",
-      "increment_d1": "1949"
+      "increment_d1": "2095"
     },
     {
       "rank": 733,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/h063XLqxLUk/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/h063XLqxLUk/default.jpg",
         "url": "https://www.youtube.com/watch?v=h063XLqxLUk",
         "target": "_blank"
       },
@@ -754,15 +754,15 @@
         "target": "_blank"
       },
       "publishedAt": "2014-08-26",
-      "viewCount": "4519万",
+      "viewCount": "4520万",
       "likeCount": "10.2万",
-      "commentCount": "4132",
-      "increment_d1": "2286"
+      "commentCount": "4133",
+      "increment_d1": "2148"
     },
     {
       "rank": 734,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/Y2mFDFUTKzQ/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/Y2mFDFUTKzQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=Y2mFDFUTKzQ",
         "target": "_blank"
       },
@@ -780,12 +780,12 @@
       "viewCount": "4517万",
       "likeCount": "10.1万",
       "commentCount": "-",
-      "increment_d1": "2419"
+      "increment_d1": "3291"
     },
     {
       "rank": 735,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/lzyDD8bMDKs/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/lzyDD8bMDKs/default.jpg",
         "url": "https://www.youtube.com/watch?v=lzyDD8bMDKs",
         "target": "_blank"
       },
@@ -800,15 +800,15 @@
         "target": "_blank"
       },
       "publishedAt": "2019-06-22",
-      "viewCount": "4514万",
+      "viewCount": "4515万",
       "likeCount": "54.2万",
       "commentCount": "1.3万",
-      "increment_d1": "7374"
+      "increment_d1": "7568"
     },
     {
       "rank": 736,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/HIRiduzNLzQ/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/HIRiduzNLzQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=HIRiduzNLzQ",
         "target": "_blank"
       },
@@ -826,12 +826,12 @@
       "viewCount": "4505万",
       "likeCount": "46.8万",
       "commentCount": "9373",
-      "increment_d1": "3712"
+      "increment_d1": "3776"
     },
     {
       "rank": 737,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/evCrxxtslVU/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/evCrxxtslVU/default.jpg",
         "url": "https://www.youtube.com/watch?v=evCrxxtslVU",
         "target": "_blank"
       },
@@ -846,15 +846,15 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-09",
-      "viewCount": "4503万",
+      "viewCount": "4505万",
       "likeCount": "-",
       "commentCount": "2.7万",
-      "increment_d1": "1.36万"
+      "increment_d1": "1.52万"
     },
     {
       "rank": 738,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/1a3b7ZpUcn4/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/1a3b7ZpUcn4/default.jpg",
         "url": "https://www.youtube.com/watch?v=1a3b7ZpUcn4",
         "target": "_blank"
       },
@@ -869,15 +869,15 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-23",
-      "viewCount": "4482万",
+      "viewCount": "4486万",
       "likeCount": "28.2万",
       "commentCount": "1.1万",
-      "increment_d1": "3.48万"
+      "increment_d1": "3.7万"
     },
     {
       "rank": 739,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/FYhxYcXfhYA/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/FYhxYcXfhYA/default.jpg",
         "url": "https://www.youtube.com/watch?v=FYhxYcXfhYA",
         "target": "_blank"
       },
@@ -892,15 +892,15 @@
         "target": "_blank"
       },
       "publishedAt": "2024-08-19",
-      "viewCount": "4481万",
+      "viewCount": "4484万",
       "likeCount": "23.3万",
-      "commentCount": "8970",
-      "increment_d1": "2.9万"
+      "commentCount": "8965",
+      "increment_d1": "3.4万"
     },
     {
       "rank": 740,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/94uxNQqmknk/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/94uxNQqmknk/default.jpg",
         "url": "https://www.youtube.com/watch?v=94uxNQqmknk",
         "target": "_blank"
       },
@@ -915,15 +915,15 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-16",
-      "viewCount": "4479万",
+      "viewCount": "4480万",
       "likeCount": "14.8万",
-      "commentCount": "6499",
-      "increment_d1": "8483"
+      "commentCount": "6502",
+      "increment_d1": "9428"
     },
     {
       "rank": 741,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/nDbNRb9gOr4/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/nDbNRb9gOr4/default.jpg",
         "url": "https://www.youtube.com/watch?v=nDbNRb9gOr4",
         "target": "_blank"
       },
@@ -938,15 +938,15 @@
         "target": "_blank"
       },
       "publishedAt": "2016-01-03",
-      "viewCount": "4477万",
+      "viewCount": "4478万",
       "likeCount": "38.9万",
       "commentCount": "1万",
-      "increment_d1": "1.21万"
+      "increment_d1": "1.19万"
     },
     {
       "rank": 742,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/8etBhO7i7bM/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/8etBhO7i7bM/default.jpg",
         "url": "https://www.youtube.com/watch?v=8etBhO7i7bM",
         "target": "_blank"
       },
@@ -961,15 +961,15 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-09",
-      "viewCount": "4460万",
+      "viewCount": "4461万",
       "likeCount": "-",
       "commentCount": "1.9万",
-      "increment_d1": "1.43万"
+      "increment_d1": "1.48万"
     },
     {
       "rank": 743,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/qX7pFYH9O04/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/qX7pFYH9O04/default.jpg",
         "url": "https://www.youtube.com/watch?v=qX7pFYH9O04",
         "target": "_blank"
       },
@@ -984,15 +984,15 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-23",
-      "viewCount": "4459万",
+      "viewCount": "4461万",
       "likeCount": "23.1万",
       "commentCount": "1万",
-      "increment_d1": "1.96万"
+      "increment_d1": "2.04万"
     },
     {
       "rank": 744,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/MslES96hLeo/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/MslES96hLeo/default.jpg",
         "url": "https://www.youtube.com/watch?v=MslES96hLeo",
         "target": "_blank"
       },
@@ -1010,12 +1010,12 @@
       "viewCount": "4456万",
       "likeCount": "20.1万",
       "commentCount": "1万",
-      "increment_d1": "2133"
+      "increment_d1": "2393"
     },
     {
       "rank": 745,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/_QnW6gWUDUU/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/_QnW6gWUDUU/default.jpg",
         "url": "https://www.youtube.com/watch?v=_QnW6gWUDUU",
         "target": "_blank"
       },
@@ -1030,15 +1030,15 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-01",
-      "viewCount": "4454万",
+      "viewCount": "4456万",
       "likeCount": "-",
       "commentCount": "2.2万",
-      "increment_d1": "1.25万"
+      "increment_d1": "1.45万"
     },
     {
       "rank": 746,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/IeyCdm9WwXM/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/IeyCdm9WwXM/default.jpg",
         "url": "https://www.youtube.com/watch?v=IeyCdm9WwXM",
         "target": "_blank"
       },
@@ -1053,38 +1053,15 @@
         "target": "_blank"
       },
       "publishedAt": "2024-12-05",
-      "viewCount": "4452万",
+      "viewCount": "4455万",
       "likeCount": "27.1万",
       "commentCount": "3237",
-      "increment_d1": "3.87万"
+      "increment_d1": "3.88万"
     },
     {
       "rank": 747,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/UVaZf3GliDs/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=UVaZf3GliDs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Creepy Nuts(R-指定＆DJ松永) / 合法的トビ方ノススメ 【MV】 Clean Ver.",
-        "url": "https://www.youtube.com/watch?v=UVaZf3GliDs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Creepy Nuts",
-        "url": "https://www.youtube.com/channel/UCEc1YzMOSKKtJD7H-q71HgQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-12-25",
-      "viewCount": "4451万",
-      "likeCount": "34.7万",
-      "commentCount": "1.2万",
-      "increment_d1": "1.1万"
-    },
-    {
-      "rank": 748,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/B7BxrAAXl94/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/B7BxrAAXl94/default.jpg",
         "url": "https://www.youtube.com/watch?v=B7BxrAAXl94",
         "target": "_blank"
       },
@@ -1099,15 +1076,38 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-05",
-      "viewCount": "4451万",
+      "viewCount": "4452万",
       "likeCount": "38.1万",
-      "commentCount": "8837",
-      "increment_d1": "1.2万"
+      "commentCount": "8833",
+      "increment_d1": "1.23万"
+    },
+    {
+      "rank": 748,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/UVaZf3GliDs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=UVaZf3GliDs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Creepy Nuts(R-指定＆DJ松永) / 合法的トビ方ノススメ 【MV】 Clean Ver.",
+        "url": "https://www.youtube.com/watch?v=UVaZf3GliDs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Creepy Nuts",
+        "url": "https://www.youtube.com/channel/UCEc1YzMOSKKtJD7H-q71HgQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-12-25",
+      "viewCount": "4452万",
+      "likeCount": "34.7万",
+      "commentCount": "1.2万",
+      "increment_d1": "1.14万"
     },
     {
       "rank": 749,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/pSp2AAGB27M/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/pSp2AAGB27M/default.jpg",
         "url": "https://www.youtube.com/watch?v=pSp2AAGB27M",
         "target": "_blank"
       },
@@ -1122,15 +1122,15 @@
         "target": "_blank"
       },
       "publishedAt": "2024-12-27",
-      "viewCount": "4443万",
+      "viewCount": "4445万",
       "likeCount": "17.9万",
       "commentCount": "1.7万",
-      "increment_d1": "1.76万"
+      "increment_d1": "1.97万"
     },
     {
       "rank": 750,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/B4cbjIMz6DY/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/B4cbjIMz6DY/default.jpg",
         "url": "https://www.youtube.com/watch?v=B4cbjIMz6DY",
         "target": "_blank"
       },
@@ -1145,10 +1145,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-28",
-      "viewCount": "4438万",
+      "viewCount": "4439万",
       "likeCount": "20.9万",
-      "commentCount": "3286",
-      "increment_d1": "1.3万"
+      "commentCount": "3288",
+      "increment_d1": "1.46万"
     }
   ]
 }

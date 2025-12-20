@@ -3,7 +3,7 @@
     {
       "rank": 3001,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/wJ6FMjZkbMI/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/wJ6FMjZkbMI/default.jpg",
         "url": "https://www.youtube.com/watch?v=wJ6FMjZkbMI",
         "target": "_blank"
       },
@@ -18,38 +18,15 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-13",
-      "viewCount": "1130万",
+      "viewCount": "1131万",
       "likeCount": "17万",
       "commentCount": "3761",
-      "increment_d1": "3216"
+      "increment_d1": "3092"
     },
     {
       "rank": 3002,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/_WNuc7Im4V8/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=_WNuc7Im4V8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "TRF / 寒い夜だから",
-        "url": "https://www.youtube.com/watch?v=_WNuc7Im4V8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "TRF ",
-        "url": "https://www.youtube.com/channel/UCyPk5oaOSwn7w5_h-CJ0xQQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-09-28",
-      "viewCount": "1130万",
-      "likeCount": "-",
-      "commentCount": "-",
-      "increment_d1": "4410"
-    },
-    {
-      "rank": 3003,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/EZZx5VkZtw8/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/EZZx5VkZtw8/default.jpg",
         "url": "https://www.youtube.com/watch?v=EZZx5VkZtw8",
         "target": "_blank"
       },
@@ -67,12 +44,35 @@
       "viewCount": "1130万",
       "likeCount": "7.9万",
       "commentCount": "1214",
-      "increment_d1": "6034"
+      "increment_d1": "6832"
+    },
+    {
+      "rank": 3003,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/_WNuc7Im4V8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=_WNuc7Im4V8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "TRF / 寒い夜だから",
+        "url": "https://www.youtube.com/watch?v=_WNuc7Im4V8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "TRF ",
+        "url": "https://www.youtube.com/channel/UCyPk5oaOSwn7w5_h-CJ0xQQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-09-28",
+      "viewCount": "1130万",
+      "likeCount": "-",
+      "commentCount": "-",
+      "increment_d1": "4732"
     },
     {
       "rank": 3004,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/IYIOr_1G7y0/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/IYIOr_1G7y0/default.jpg",
         "url": "https://www.youtube.com/watch?v=IYIOr_1G7y0",
         "target": "_blank"
       },
@@ -90,12 +90,12 @@
       "viewCount": "1128万",
       "likeCount": "9.6万",
       "commentCount": "2590",
-      "increment_d1": "415"
+      "increment_d1": "383"
     },
     {
       "rank": 3005,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/wFKvOPQyVL0/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/wFKvOPQyVL0/default.jpg",
         "url": "https://www.youtube.com/watch?v=wFKvOPQyVL0",
         "target": "_blank"
       },
@@ -113,12 +113,35 @@
       "viewCount": "1126万",
       "likeCount": "6.1万",
       "commentCount": "3107",
-      "increment_d1": "717"
+      "increment_d1": "919"
     },
     {
       "rank": 3006,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/gMHP8ZXvuMM/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/gErh5d3gpVk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=gErh5d3gpVk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "UVERworld　『Colors of the Heart』",
+        "url": "https://www.youtube.com/watch?v=gErh5d3gpVk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "UVERworld Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCnziFQs4Ihms4UtxmVZP6cg",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-04-11",
+      "viewCount": "1126万",
+      "likeCount": "3.8万",
+      "commentCount": "855",
+      "increment_d1": "2530"
+    },
+    {
+      "rank": 3007,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/gMHP8ZXvuMM/default.jpg",
         "url": "https://www.youtube.com/watch?v=gMHP8ZXvuMM",
         "target": "_blank"
       },
@@ -136,12 +159,12 @@
       "viewCount": "1126万",
       "likeCount": "29.2万",
       "commentCount": "2.1万",
-      "increment_d1": "891"
+      "increment_d1": "750"
     },
     {
-      "rank": 3007,
+      "rank": 3008,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/drCopBcrxRM/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/drCopBcrxRM/default.jpg",
         "url": "https://www.youtube.com/watch?v=drCopBcrxRM",
         "target": "_blank"
       },
@@ -159,35 +182,12 @@
       "viewCount": "1126万",
       "likeCount": "9.2万",
       "commentCount": "2.2万",
-      "increment_d1": "1104"
-    },
-    {
-      "rank": 3008,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/gErh5d3gpVk/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=gErh5d3gpVk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "UVERworld　『Colors of the Heart』",
-        "url": "https://www.youtube.com/watch?v=gErh5d3gpVk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "UVERworld Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCnziFQs4Ihms4UtxmVZP6cg",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-04-11",
-      "viewCount": "1126万",
-      "likeCount": "3.8万",
-      "commentCount": "854",
-      "increment_d1": "2574"
+      "increment_d1": "1218"
     },
     {
       "rank": 3009,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/gdHO7yobgUk/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/gdHO7yobgUk/default.jpg",
         "url": "https://www.youtube.com/watch?v=gdHO7yobgUk",
         "target": "_blank"
       },
@@ -202,15 +202,15 @@
         "target": "_blank"
       },
       "publishedAt": "2016-11-24",
-      "viewCount": "1125万",
+      "viewCount": "1126万",
       "likeCount": "13.3万",
-      "commentCount": "3111",
-      "increment_d1": "3207"
+      "commentCount": "3110",
+      "increment_d1": "3212"
     },
     {
       "rank": 3010,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/PTGWtHKafqU/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/PTGWtHKafqU/default.jpg",
         "url": "https://www.youtube.com/watch?v=PTGWtHKafqU",
         "target": "_blank"
       },
@@ -228,12 +228,35 @@
       "viewCount": "1125万",
       "likeCount": "1.1万",
       "commentCount": "-",
-      "increment_d1": "922"
+      "increment_d1": "1300"
     },
     {
       "rank": 3011,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/WUcJ92RJ9fU/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/CSgG6wPB0Kw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=CSgG6wPB0Kw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ラブレター",
+        "url": "https://www.youtube.com/watch?v=CSgG6wPB0Kw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-11-30",
+      "viewCount": "1125万",
+      "likeCount": "4.7万",
+      "commentCount": "104",
+      "increment_d1": "5964"
+    },
+    {
+      "rank": 3012,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/WUcJ92RJ9fU/default.jpg",
         "url": "https://www.youtube.com/watch?v=WUcJ92RJ9fU",
         "target": "_blank"
       },
@@ -251,58 +274,12 @@
       "viewCount": "1124万",
       "likeCount": "3.2万",
       "commentCount": "702",
-      "increment_d1": "24"
-    },
-    {
-      "rank": 3012,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/CSgG6wPB0Kw/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=CSgG6wPB0Kw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ラブレター",
-        "url": "https://www.youtube.com/watch?v=CSgG6wPB0Kw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-30",
-      "viewCount": "1124万",
-      "likeCount": "4.7万",
-      "commentCount": "103",
-      "increment_d1": "6909"
+      "increment_d1": "67"
     },
     {
       "rank": 3013,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/Q6pTQd24iLs/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=Q6pTQd24iLs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Sia 『アライヴ feat. 土屋太鳳 / Alive feat. Tao Tsuchiya』",
-        "url": "https://www.youtube.com/watch?v=Q6pTQd24iLs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-03-08",
-      "viewCount": "1123万",
-      "likeCount": "6.8万",
-      "commentCount": "2634",
-      "increment_d1": "285"
-    },
-    {
-      "rank": 3014,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/pKEOgP5ARXU/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/pKEOgP5ARXU/default.jpg",
         "url": "https://www.youtube.com/watch?v=pKEOgP5ARXU",
         "target": "_blank"
       },
@@ -320,12 +297,35 @@
       "viewCount": "1123万",
       "likeCount": "12.8万",
       "commentCount": "2090",
-      "increment_d1": "1495"
+      "increment_d1": "1387"
+    },
+    {
+      "rank": 3014,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Q6pTQd24iLs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Q6pTQd24iLs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Sia 『アライヴ feat. 土屋太鳳 / Alive feat. Tao Tsuchiya』",
+        "url": "https://www.youtube.com/watch?v=Q6pTQd24iLs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-03-08",
+      "viewCount": "1123万",
+      "likeCount": "6.8万",
+      "commentCount": "2634",
+      "increment_d1": "303"
     },
     {
       "rank": 3015,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/SAHvDE9FFAE/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/SAHvDE9FFAE/default.jpg",
         "url": "https://www.youtube.com/watch?v=SAHvDE9FFAE",
         "target": "_blank"
       },
@@ -343,12 +343,12 @@
       "viewCount": "1123万",
       "likeCount": "9.4万",
       "commentCount": "2179",
-      "increment_d1": "920"
+      "increment_d1": "969"
     },
     {
       "rank": 3016,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/mbINajwhMs0/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/mbINajwhMs0/default.jpg",
         "url": "https://www.youtube.com/watch?v=mbINajwhMs0",
         "target": "_blank"
       },
@@ -366,12 +366,12 @@
       "viewCount": "1123万",
       "likeCount": "3.9万",
       "commentCount": "1114",
-      "increment_d1": "500"
+      "increment_d1": "526"
     },
     {
       "rank": 3017,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/Gou49bzZrvo/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/Gou49bzZrvo/default.jpg",
         "url": "https://www.youtube.com/watch?v=Gou49bzZrvo",
         "target": "_blank"
       },
@@ -389,12 +389,12 @@
       "viewCount": "1122万",
       "likeCount": "9.2万",
       "commentCount": "2910",
-      "increment_d1": "1545"
+      "increment_d1": "1519"
     },
     {
       "rank": 3018,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/GRFwFjgDmus/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/GRFwFjgDmus/default.jpg",
         "url": "https://www.youtube.com/watch?v=GRFwFjgDmus",
         "target": "_blank"
       },
@@ -409,15 +409,15 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-08",
-      "viewCount": "1121万",
+      "viewCount": "1122万",
       "likeCount": "2.7万",
       "commentCount": "1162",
-      "increment_d1": "1685"
+      "increment_d1": "1595"
     },
     {
       "rank": 3019,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/1NY-tAGiW5M/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/1NY-tAGiW5M/default.jpg",
         "url": "https://www.youtube.com/watch?v=1NY-tAGiW5M",
         "target": "_blank"
       },
@@ -435,12 +435,12 @@
       "viewCount": "1121万",
       "likeCount": "11.5万",
       "commentCount": "2.9万",
-      "increment_d1": "2523"
+      "increment_d1": "2877"
     },
     {
       "rank": 3020,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/0l-qw9yRFOA/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/0l-qw9yRFOA/default.jpg",
         "url": "https://www.youtube.com/watch?v=0l-qw9yRFOA",
         "target": "_blank"
       },
@@ -458,12 +458,12 @@
       "viewCount": "1121万",
       "likeCount": "31.3万",
       "commentCount": "1.1万",
-      "increment_d1": "1731"
+      "increment_d1": "1847"
     },
     {
       "rank": 3021,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/MYjJIfBbbMY/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/MYjJIfBbbMY/default.jpg",
         "url": "https://www.youtube.com/watch?v=MYjJIfBbbMY",
         "target": "_blank"
       },
@@ -481,12 +481,12 @@
       "viewCount": "1121万",
       "likeCount": "9.5万",
       "commentCount": "3879",
-      "increment_d1": "1213"
+      "increment_d1": "1121"
     },
     {
       "rank": 3022,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/YiPJkEZiIsQ/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/YiPJkEZiIsQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=YiPJkEZiIsQ",
         "target": "_blank"
       },
@@ -504,12 +504,12 @@
       "viewCount": "1120万",
       "likeCount": "3.1万",
       "commentCount": "1763",
-      "increment_d1": "132"
+      "increment_d1": "118"
     },
     {
       "rank": 3023,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/54QvPwLXJ2s/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/54QvPwLXJ2s/default.jpg",
         "url": "https://www.youtube.com/watch?v=54QvPwLXJ2s",
         "target": "_blank"
       },
@@ -526,13 +526,13 @@
       "publishedAt": "2019-11-16",
       "viewCount": "1120万",
       "likeCount": "5.5万",
-      "commentCount": "3107",
-      "increment_d1": "1707"
+      "commentCount": "3108",
+      "increment_d1": "1534"
     },
     {
       "rank": 3024,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/mORyYinMBdg/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/mORyYinMBdg/default.jpg",
         "url": "https://www.youtube.com/watch?v=mORyYinMBdg",
         "target": "_blank"
       },
@@ -550,12 +550,12 @@
       "viewCount": "1119万",
       "likeCount": "3.8万",
       "commentCount": "1342",
-      "increment_d1": "735"
+      "increment_d1": "820"
     },
     {
       "rank": 3025,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/ViqPBSUt59g/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/ViqPBSUt59g/default.jpg",
         "url": "https://www.youtube.com/watch?v=ViqPBSUt59g",
         "target": "_blank"
       },
@@ -573,12 +573,12 @@
       "viewCount": "1119万",
       "likeCount": "10.2万",
       "commentCount": "2711",
-      "increment_d1": "1191"
+      "increment_d1": "1225"
     },
     {
       "rank": 3026,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/cHcD1LcmxfA/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/cHcD1LcmxfA/default.jpg",
         "url": "https://www.youtube.com/watch?v=cHcD1LcmxfA",
         "target": "_blank"
       },
@@ -596,12 +596,12 @@
       "viewCount": "1119万",
       "likeCount": "18.1万",
       "commentCount": "1056",
-      "increment_d1": "546"
+      "increment_d1": "557"
     },
     {
       "rank": 3027,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/WVCJ91RHwe8/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/WVCJ91RHwe8/default.jpg",
         "url": "https://www.youtube.com/watch?v=WVCJ91RHwe8",
         "target": "_blank"
       },
@@ -616,15 +616,15 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-22",
-      "viewCount": "1117万",
+      "viewCount": "1118万",
       "likeCount": "12.1万",
       "commentCount": "3080",
-      "increment_d1": "1026"
+      "increment_d1": "1032"
     },
     {
       "rank": 3028,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/sem3UU-EQJs/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/sem3UU-EQJs/default.jpg",
         "url": "https://www.youtube.com/watch?v=sem3UU-EQJs",
         "target": "_blank"
       },
@@ -641,13 +641,13 @@
       "publishedAt": "2018-10-17",
       "viewCount": "1117万",
       "likeCount": "10.3万",
-      "commentCount": "4638",
-      "increment_d1": "1874"
+      "commentCount": "4639",
+      "increment_d1": "1882"
     },
     {
       "rank": 3029,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/kU8yTuvbmq8/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/kU8yTuvbmq8/default.jpg",
         "url": "https://www.youtube.com/watch?v=kU8yTuvbmq8",
         "target": "_blank"
       },
@@ -665,35 +665,12 @@
       "viewCount": "1116万",
       "likeCount": "7.4万",
       "commentCount": "1995",
-      "increment_d1": "860"
+      "increment_d1": "955"
     },
     {
       "rank": 3030,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/juXD8vr5_r8/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=juXD8vr5_r8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SixTONES - NEW WORLD -自撮りワンカットMV",
-        "url": "https://www.youtube.com/watch?v=juXD8vr5_r8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SixTONES",
-        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-03-20",
-      "viewCount": "1116万",
-      "likeCount": "-",
-      "commentCount": "8056",
-      "increment_d1": "623"
-    },
-    {
-      "rank": 3031,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/HUT81VaUeyY/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/HUT81VaUeyY/default.jpg",
         "url": "https://www.youtube.com/watch?v=HUT81VaUeyY",
         "target": "_blank"
       },
@@ -711,12 +688,35 @@
       "viewCount": "1116万",
       "likeCount": "4.8万",
       "commentCount": "1.3万",
-      "increment_d1": "1649"
+      "increment_d1": "1586"
+    },
+    {
+      "rank": 3031,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/juXD8vr5_r8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=juXD8vr5_r8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SixTONES - NEW WORLD -自撮りワンカットMV",
+        "url": "https://www.youtube.com/watch?v=juXD8vr5_r8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SixTONES",
+        "url": "https://www.youtube.com/channel/UCwjAKjycHHT1QzHrQN5Stww",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-03-20",
+      "viewCount": "1116万",
+      "likeCount": "-",
+      "commentCount": "8056",
+      "increment_d1": "571"
     },
     {
       "rank": 3032,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/WJW7kS9AAI4/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/WJW7kS9AAI4/default.jpg",
         "url": "https://www.youtube.com/watch?v=WJW7kS9AAI4",
         "target": "_blank"
       },
@@ -734,12 +734,35 @@
       "viewCount": "1116万",
       "likeCount": "10.7万",
       "commentCount": "3407",
-      "increment_d1": "584"
+      "increment_d1": "456"
     },
     {
       "rank": 3033,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/9tZmObfsfls/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/o-JkzX3gJNM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=o-JkzX3gJNM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Mrs. GREEN APPLE「Hug」Official Lyric Video",
+        "url": "https://www.youtube.com/watch?v=o-JkzX3gJNM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-07-07",
+      "viewCount": "1116万",
+      "likeCount": "11.3万",
+      "commentCount": "3209",
+      "increment_d1": "9978"
+    },
+    {
+      "rank": 3034,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/9tZmObfsfls/default.jpg",
         "url": "https://www.youtube.com/watch?v=9tZmObfsfls",
         "target": "_blank"
       },
@@ -757,12 +780,12 @@
       "viewCount": "1115万",
       "likeCount": "-",
       "commentCount": "1.2万",
-      "increment_d1": "1010"
+      "increment_d1": "985"
     },
     {
-      "rank": 3034,
+      "rank": 3035,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/_EeYxtAeaX4/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/_EeYxtAeaX4/default.jpg",
         "url": "https://www.youtube.com/watch?v=_EeYxtAeaX4",
         "target": "_blank"
       },
@@ -780,35 +803,12 @@
       "viewCount": "1115万",
       "likeCount": "15.7万",
       "commentCount": "3560",
-      "increment_d1": "825"
-    },
-    {
-      "rank": 3035,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/o-JkzX3gJNM/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=o-JkzX3gJNM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE「Hug」Official Lyric Video",
-        "url": "https://www.youtube.com/watch?v=o-JkzX3gJNM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-07-07",
-      "viewCount": "1115万",
-      "likeCount": "11.3万",
-      "commentCount": "3208",
-      "increment_d1": "9788"
+      "increment_d1": "791"
     },
     {
       "rank": 3036,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/DoB_rOLZSHs/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/DoB_rOLZSHs/default.jpg",
         "url": "https://www.youtube.com/watch?v=DoB_rOLZSHs",
         "target": "_blank"
       },
@@ -826,12 +826,12 @@
       "viewCount": "1115万",
       "likeCount": "1.7万",
       "commentCount": "1421",
-      "increment_d1": "45"
+      "increment_d1": "52"
     },
     {
       "rank": 3037,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/ObJ7NI83Lzk/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/ObJ7NI83Lzk/default.jpg",
         "url": "https://www.youtube.com/watch?v=ObJ7NI83Lzk",
         "target": "_blank"
       },
@@ -846,15 +846,15 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-26",
-      "viewCount": "1114万",
+      "viewCount": "1115万",
       "likeCount": "-",
       "commentCount": "1.4万",
-      "increment_d1": "1327"
+      "increment_d1": "1430"
     },
     {
       "rank": 3038,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/Vw0vhiRtLkw/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/Vw0vhiRtLkw/default.jpg",
         "url": "https://www.youtube.com/watch?v=Vw0vhiRtLkw",
         "target": "_blank"
       },
@@ -872,12 +872,12 @@
       "viewCount": "1114万",
       "likeCount": "4.3万",
       "commentCount": "2283",
-      "increment_d1": "299"
+      "increment_d1": "332"
     },
     {
       "rank": 3039,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/Xhkvge0rrss/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/Xhkvge0rrss/default.jpg",
         "url": "https://www.youtube.com/watch?v=Xhkvge0rrss",
         "target": "_blank"
       },
@@ -895,12 +895,12 @@
       "viewCount": "1114万",
       "likeCount": "4.7万",
       "commentCount": "1258",
-      "increment_d1": "2561"
+      "increment_d1": "2501"
     },
     {
       "rank": 3040,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/_53QwBl9m88/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/_53QwBl9m88/default.jpg",
         "url": "https://www.youtube.com/watch?v=_53QwBl9m88",
         "target": "_blank"
       },
@@ -918,12 +918,12 @@
       "viewCount": "1113万",
       "likeCount": "30.3万",
       "commentCount": "1.4万",
-      "increment_d1": "270"
+      "increment_d1": "242"
     },
     {
       "rank": 3041,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/8oBp3OLXQ8Q/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/8oBp3OLXQ8Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=8oBp3OLXQ8Q",
         "target": "_blank"
       },
@@ -941,12 +941,12 @@
       "viewCount": "1113万",
       "likeCount": "14.6万",
       "commentCount": "6507",
-      "increment_d1": "795"
+      "increment_d1": "768"
     },
     {
       "rank": 3042,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/XQTM2M5iD_I/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/XQTM2M5iD_I/default.jpg",
         "url": "https://www.youtube.com/watch?v=XQTM2M5iD_I",
         "target": "_blank"
       },
@@ -964,12 +964,12 @@
       "viewCount": "1112万",
       "likeCount": "10.4万",
       "commentCount": "1479",
-      "increment_d1": "3120"
+      "increment_d1": "2826"
     },
     {
       "rank": 3043,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/wQbVEC5ttEA/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/wQbVEC5ttEA/default.jpg",
         "url": "https://www.youtube.com/watch?v=wQbVEC5ttEA",
         "target": "_blank"
       },
@@ -986,13 +986,13 @@
       "publishedAt": "2021-08-01",
       "viewCount": "1112万",
       "likeCount": "-",
-      "commentCount": "4001",
-      "increment_d1": "2176"
+      "commentCount": "4000",
+      "increment_d1": "2184"
     },
     {
       "rank": 3044,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/a50Em-xT0Qw/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/a50Em-xT0Qw/default.jpg",
         "url": "https://www.youtube.com/watch?v=a50Em-xT0Qw",
         "target": "_blank"
       },
@@ -1010,12 +1010,12 @@
       "viewCount": "1112万",
       "likeCount": "-",
       "commentCount": "6950",
-      "increment_d1": "616"
+      "increment_d1": "596"
     },
     {
       "rank": 3045,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/Sfz5TpCRSiI/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/Sfz5TpCRSiI/default.jpg",
         "url": "https://www.youtube.com/watch?v=Sfz5TpCRSiI",
         "target": "_blank"
       },
@@ -1030,15 +1030,15 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-02",
-      "viewCount": "1111万",
+      "viewCount": "1112万",
       "likeCount": "14.7万",
       "commentCount": "3751",
-      "increment_d1": "2744"
+      "increment_d1": "2446"
     },
     {
       "rank": 3046,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/-Vma8NU8cds/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/-Vma8NU8cds/default.jpg",
         "url": "https://www.youtube.com/watch?v=-Vma8NU8cds",
         "target": "_blank"
       },
@@ -1055,13 +1055,13 @@
       "publishedAt": "2024-12-30",
       "viewCount": "1111万",
       "likeCount": "10.8万",
-      "commentCount": "2844",
-      "increment_d1": "582"
+      "commentCount": "2845",
+      "increment_d1": "665"
     },
     {
       "rank": 3047,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/u9s4XKAmf9I/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/u9s4XKAmf9I/default.jpg",
         "url": "https://www.youtube.com/watch?v=u9s4XKAmf9I",
         "target": "_blank"
       },
@@ -1078,13 +1078,36 @@
       "publishedAt": "2018-03-24",
       "viewCount": "1111万",
       "likeCount": "4.4万",
-      "commentCount": "2659",
-      "increment_d1": "1388"
+      "commentCount": "2658",
+      "increment_d1": "1676"
     },
     {
       "rank": 3048,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/paHGjIe2Wms/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/IqKqNcW2-b4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=IqKqNcW2-b4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "いきものがかり 『ホタルノヒカリ』Music Video",
+        "url": "https://www.youtube.com/watch?v=IqKqNcW2-b4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "いきものがかり",
+        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-08-22",
+      "viewCount": "1111万",
+      "likeCount": "13.7万",
+      "commentCount": "2493",
+      "increment_d1": "5586"
+    },
+    {
+      "rank": 3049,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/paHGjIe2Wms/default.jpg",
         "url": "https://www.youtube.com/watch?v=paHGjIe2Wms",
         "target": "_blank"
       },
@@ -1101,36 +1124,13 @@
       "publishedAt": "2014-04-08",
       "viewCount": "1111万",
       "likeCount": "6.3万",
-      "commentCount": "2533",
-      "increment_d1": "1144"
-    },
-    {
-      "rank": 3049,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/IqKqNcW2-b4/mqdefault.jpg",
-        "url": "https://www.youtube.com/watch?v=IqKqNcW2-b4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "いきものがかり 『ホタルノヒカリ』Music Video",
-        "url": "https://www.youtube.com/watch?v=IqKqNcW2-b4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "いきものがかり",
-        "url": "https://www.youtube.com/channel/UCpS1hrIQnrvEyyUApthDTtQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-08-22",
-      "viewCount": "1110万",
-      "likeCount": "13.7万",
-      "commentCount": "2493",
-      "increment_d1": "5888"
+      "commentCount": "2534",
+      "increment_d1": "1242"
     },
     {
       "rank": 3050,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/AH-qnLnlUvs/mqdefault.jpg",
+        "img": "https://i.ytimg.com/vi/AH-qnLnlUvs/default.jpg",
         "url": "https://www.youtube.com/watch?v=AH-qnLnlUvs",
         "target": "_blank"
       },
@@ -1148,7 +1148,7 @@
       "viewCount": "1110万",
       "likeCount": "2万",
       "commentCount": "615",
-      "increment_d1": "71"
+      "increment_d1": "60"
     }
   ]
 }
