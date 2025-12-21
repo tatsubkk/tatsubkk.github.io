@@ -40,7 +40,7 @@
         "target": "_blank"
       },
       "publishedAt": "2008-12-08",
-      "viewCount": "1101万",
+      "viewCount": "1102万",
       "likeCount": "3.2万",
       "commentCount": "1188"
     },
@@ -84,7 +84,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-16",
-      "viewCount": "1361万",
+      "viewCount": "1362万",
       "likeCount": "7万",
       "commentCount": "1181"
     },
@@ -128,7 +128,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-02-21",
-      "viewCount": "2063万",
+      "viewCount": "2064万",
       "likeCount": "6.4万",
       "commentCount": "1179"
     },
@@ -150,7 +150,7 @@
         "target": "_blank"
       },
       "publishedAt": "2025-05-05",
-      "viewCount": "1091万",
+      "viewCount": "1092万",
       "likeCount": "3.9万",
       "commentCount": "1178"
     },
@@ -267,6 +267,28 @@
     {
       "rank": 2913,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/sqCgOyaXdiM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=sqCgOyaXdiM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "コブクロ - 今、咲き誇る花たちよ",
+        "url": "https://www.youtube.com/watch?v=sqCgOyaXdiM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "コブクロ 公式チャンネル",
+        "url": "https://www.youtube.com/channel/UC73Cla79COot99ltD8wuH0w",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-11-08",
+      "viewCount": "1021万",
+      "likeCount": "4万",
+      "commentCount": "1164"
+    },
+    {
+      "rank": 2913,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/Wib2bxCiaiw/default.jpg",
         "url": "https://www.youtube.com/watch?v=Wib2bxCiaiw",
         "target": "_blank"
@@ -287,7 +309,7 @@
       "commentCount": "1164"
     },
     {
-      "rank": 2914,
+      "rank": 2915,
       "thumb": {
         "img": "https://i.ytimg.com/vi/GRFwFjgDmus/default.jpg",
         "url": "https://www.youtube.com/watch?v=GRFwFjgDmus",
@@ -305,33 +327,11 @@
       },
       "publishedAt": "2010-09-08",
       "viewCount": "1122万",
-      "likeCount": "2.7万",
+      "likeCount": "2.8万",
       "commentCount": "1162"
     },
     {
-      "rank": 2915,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/sqCgOyaXdiM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=sqCgOyaXdiM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "コブクロ - 今、咲き誇る花たちよ",
-        "url": "https://www.youtube.com/watch?v=sqCgOyaXdiM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "コブクロ 公式チャンネル",
-        "url": "https://www.youtube.com/channel/UC73Cla79COot99ltD8wuH0w",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-11-08",
-      "viewCount": "1021万",
-      "likeCount": "4万",
-      "commentCount": "1160"
-    },
-    {
-      "rank": 2915,
+      "rank": 2916,
       "thumb": {
         "img": "https://i.ytimg.com/vi/j9ypaPVzrbE/default.jpg",
         "url": "https://www.youtube.com/watch?v=j9ypaPVzrbE",
@@ -392,9 +392,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-29",
-      "viewCount": "1249万",
+      "viewCount": "1250万",
       "likeCount": "4.4万",
-      "commentCount": "1149"
+      "commentCount": "1151"
     },
     {
       "rank": 2919,
@@ -458,9 +458,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-20",
-      "viewCount": "1505万",
+      "viewCount": "1507万",
       "likeCount": "9.4万",
-      "commentCount": "1129"
+      "commentCount": "1131"
     },
     {
       "rank": 2922,
@@ -480,7 +480,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-01-19",
-      "viewCount": "1379万",
+      "viewCount": "1380万",
       "likeCount": "11.7万",
       "commentCount": "1127"
     },
@@ -524,7 +524,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-03-24",
-      "viewCount": "1167万",
+      "viewCount": "1168万",
       "likeCount": "3.8万",
       "commentCount": "1118"
     },
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-27",
-      "viewCount": "1464万",
+      "viewCount": "1466万",
       "likeCount": "6.1万",
       "commentCount": "1118"
     },
@@ -591,7 +591,7 @@
       },
       "publishedAt": "2011-05-01",
       "viewCount": "1123万",
-      "likeCount": "3.9万",
+      "likeCount": "4万",
       "commentCount": "1114"
     },
     {
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-01",
-      "viewCount": "2014万",
+      "viewCount": "2015万",
       "likeCount": "10万",
       "commentCount": "1106"
     },
@@ -678,12 +678,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-01-26",
-      "viewCount": "1594万",
+      "viewCount": "1595万",
       "likeCount": "9.6万",
-      "commentCount": "1104"
+      "commentCount": "1105"
     },
     {
-      "rank": 2931,
+      "rank": 2932,
       "thumb": {
         "img": "https://i.ytimg.com/vi/R3Oapqavr6k/default.jpg",
         "url": "https://www.youtube.com/watch?v=R3Oapqavr6k",
@@ -722,7 +722,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-01-27",
-      "viewCount": "3697万",
+      "viewCount": "3701万",
       "likeCount": "15.7万",
       "commentCount": "1099"
     },
@@ -744,7 +744,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-16",
-      "viewCount": "2087万",
+      "viewCount": "2089万",
       "likeCount": "7.2万",
       "commentCount": "1095"
     },
@@ -766,9 +766,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-25",
-      "viewCount": "1194万",
+      "viewCount": "1195万",
       "likeCount": "6.9万",
-      "commentCount": "1089"
+      "commentCount": "1091"
     },
     {
       "rank": 2936,
@@ -788,7 +788,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-12-24",
-      "viewCount": "1081万",
+      "viewCount": "1082万",
       "likeCount": "2.7万",
       "commentCount": "1079"
     },
@@ -832,7 +832,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-06-03",
-      "viewCount": "1205万",
+      "viewCount": "1206万",
       "likeCount": "12.1万",
       "commentCount": "1074"
     },
@@ -900,10 +900,10 @@
       "publishedAt": "2013-07-01",
       "viewCount": "1098万",
       "likeCount": "1.9万",
-      "commentCount": "1063"
+      "commentCount": "1064"
     },
     {
-      "rank": 2941,
+      "rank": 2942,
       "thumb": {
         "img": "https://i.ytimg.com/vi/TMDNnaQiCHY/default.jpg",
         "url": "https://www.youtube.com/watch?v=TMDNnaQiCHY",
@@ -993,28 +993,6 @@
     {
       "rank": 2946,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/ThVAJuQQTXU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ThVAJuQQTXU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "桑田佳祐「SMILE〜晴れ渡る空のように〜」民放公式スペシャルムービー （民放共同企画“一緒にやろう”応援ソング）",
-        "url": "https://www.youtube.com/watch?v=ThVAJuQQTXU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "桑田佳祐",
-        "url": "https://www.youtube.com/channel/UCaZ17KNeiVkQkeG7i2WDOnQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-01-24",
-      "viewCount": "4998万",
-      "likeCount": "-",
-      "commentCount": "1050"
-    },
-    {
-      "rank": 2947,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/iYlnPnNzYNw/default.jpg",
         "url": "https://www.youtube.com/watch?v=iYlnPnNzYNw",
         "target": "_blank"
@@ -1032,7 +1010,29 @@
       "publishedAt": "2014-07-01",
       "viewCount": "3387万",
       "likeCount": "22.5万",
-      "commentCount": "1048"
+      "commentCount": "1050"
+    },
+    {
+      "rank": 2946,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ThVAJuQQTXU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ThVAJuQQTXU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "桑田佳祐「SMILE〜晴れ渡る空のように〜」民放公式スペシャルムービー （民放共同企画“一緒にやろう”応援ソング）",
+        "url": "https://www.youtube.com/watch?v=ThVAJuQQTXU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "桑田佳祐",
+        "url": "https://www.youtube.com/channel/UCaZ17KNeiVkQkeG7i2WDOnQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-01-24",
+      "viewCount": "4999万",
+      "likeCount": "-",
+      "commentCount": "1050"
     },
     {
       "rank": 2948,
@@ -1076,7 +1076,7 @@
       "publishedAt": "2020-02-25",
       "viewCount": "1547万",
       "likeCount": "-",
-      "commentCount": "1042"
+      "commentCount": "1043"
     },
     {
       "rank": 2950,

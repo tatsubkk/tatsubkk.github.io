@@ -18,7 +18,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-23",
-      "viewCount": "1208万",
+      "viewCount": "1209万",
       "likeCount": "24.56万",
       "commentCount": "4899"
     },
@@ -40,8 +40,8 @@
         "target": "_blank"
       },
       "publishedAt": "2011-10-27",
-      "viewCount": "1億1084万",
-      "likeCount": "24.53万",
+      "viewCount": "1億1087万",
+      "likeCount": "24.54万",
       "commentCount": "1.3万"
     },
     {
@@ -62,9 +62,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-23",
-      "viewCount": "2117万",
-      "likeCount": "24.52万",
-      "commentCount": "6116"
+      "viewCount": "2119万",
+      "likeCount": "24.53万",
+      "commentCount": "6121"
     },
     {
       "rank": 904,
@@ -84,7 +84,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-08",
-      "viewCount": "4947万",
+      "viewCount": "4948万",
       "likeCount": "24.51万",
       "commentCount": "5327"
     },
@@ -106,7 +106,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-06-21",
-      "viewCount": "4702万",
+      "viewCount": "4703万",
       "likeCount": "24.47万",
       "commentCount": "7524"
     },
@@ -128,9 +128,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-04-04",
-      "viewCount": "4731万",
+      "viewCount": "4732万",
       "likeCount": "24.45万",
-      "commentCount": "9291"
+      "commentCount": "9293"
     },
     {
       "rank": 907,
@@ -150,9 +150,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-04",
-      "viewCount": "3340万",
+      "viewCount": "3341万",
       "likeCount": "24.43万",
-      "commentCount": "4669"
+      "commentCount": "4670"
     },
     {
       "rank": 908,
@@ -172,7 +172,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-16",
-      "viewCount": "1516万",
+      "viewCount": "1517万",
       "likeCount": "24.39万",
       "commentCount": "7452"
     },
@@ -195,7 +195,7 @@
       },
       "publishedAt": "2011-12-07",
       "viewCount": "6431万",
-      "likeCount": "24.35万",
+      "likeCount": "24.36万",
       "commentCount": "2.1万"
     },
     {
@@ -239,7 +239,7 @@
       },
       "publishedAt": "2018-12-20",
       "viewCount": "4863万",
-      "likeCount": "24.19万",
+      "likeCount": "24.2万",
       "commentCount": "1万"
     },
     {
@@ -260,9 +260,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-05-26",
-      "viewCount": "8209万",
+      "viewCount": "8212万",
       "likeCount": "24.19万",
-      "commentCount": "34.8万"
+      "commentCount": "34.9万"
     },
     {
       "rank": 913,
@@ -304,7 +304,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-09-03",
-      "viewCount": "1599万",
+      "viewCount": "1600万",
       "likeCount": "24.16万",
       "commentCount": "7212"
     },
@@ -333,6 +333,28 @@
     {
       "rank": 916,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/ow5FBOBAdhU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ow5FBOBAdhU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "RADWIMPS - 正解 [Official Live Video from \"ANTI ANTI GENERATION TOUR 2019\"]",
+        "url": "https://www.youtube.com/watch?v=ow5FBOBAdhU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "RADWIMPS",
+        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-03-17",
+      "viewCount": "4173万",
+      "likeCount": "24.13万",
+      "commentCount": "7494"
+    },
+    {
+      "rank": 917,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/w73Ks2WX_XQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=w73Ks2WX_XQ",
         "target": "_blank"
@@ -350,29 +372,7 @@
       "publishedAt": "2019-03-16",
       "viewCount": "1188万",
       "likeCount": "24.13万",
-      "commentCount": "3932"
-    },
-    {
-      "rank": 917,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ow5FBOBAdhU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ow5FBOBAdhU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "RADWIMPS - 正解 [Official Live Video from \"ANTI ANTI GENERATION TOUR 2019\"]",
-        "url": "https://www.youtube.com/watch?v=ow5FBOBAdhU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "RADWIMPS",
-        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-03-17",
-      "viewCount": "4171万",
-      "likeCount": "24.13万",
-      "commentCount": "7494"
+      "commentCount": "3931"
     },
     {
       "rank": 918,
@@ -458,12 +458,34 @@
         "target": "_blank"
       },
       "publishedAt": "2024-06-19",
-      "viewCount": "8510万",
+      "viewCount": "8512万",
       "likeCount": "24.07万",
       "commentCount": "5万"
     },
     {
       "rank": 922,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1kUZ0LoUELI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1kUZ0LoUELI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "米津玄師 - 月を見ていた Kenshi Yonezu - Tsuki Wo Miteita / Moongazing",
+        "url": "https://www.youtube.com/watch?v=1kUZ0LoUELI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-07-09",
+      "viewCount": "2355万",
+      "likeCount": "24.05万",
+      "commentCount": "1万"
+    },
+    {
+      "rank": 923,
       "thumb": {
         "img": "https://i.ytimg.com/vi/aXAzTUbUB6Y/default.jpg",
         "url": "https://www.youtube.com/watch?v=aXAzTUbUB6Y",
@@ -485,28 +507,6 @@
       "commentCount": "8477"
     },
     {
-      "rank": 923,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1kUZ0LoUELI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1kUZ0LoUELI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "米津玄師 - 月を見ていた Kenshi Yonezu - Tsuki Wo Miteita / Moongazing",
-        "url": "https://www.youtube.com/watch?v=1kUZ0LoUELI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-07-09",
-      "viewCount": "2355万",
-      "likeCount": "24.04万",
-      "commentCount": "1万"
-    },
-    {
       "rank": 924,
       "thumb": {
         "img": "https://i.ytimg.com/vi/c5j7lpWprro/default.jpg",
@@ -526,7 +526,7 @@
       "publishedAt": "2024-01-31",
       "viewCount": "1487万",
       "likeCount": "24.03万",
-      "commentCount": "5040"
+      "commentCount": "5046"
     },
     {
       "rank": 925,
@@ -591,7 +591,7 @@
       },
       "publishedAt": "2015-10-02",
       "viewCount": "2876万",
-      "likeCount": "23.95万",
+      "likeCount": "23.96万",
       "commentCount": "4092"
     },
     {
@@ -614,7 +614,7 @@
       "publishedAt": "2021-05-09",
       "viewCount": "3926万",
       "likeCount": "23.94万",
-      "commentCount": "160"
+      "commentCount": "162"
     },
     {
       "rank": 929,
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2011-09-01",
-      "viewCount": "5348万",
+      "viewCount": "5349万",
       "likeCount": "23.88万",
       "commentCount": "1.9万"
     },
@@ -678,9 +678,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-02-24",
-      "viewCount": "5444万",
-      "likeCount": "23.79万",
-      "commentCount": "5833"
+      "viewCount": "5446万",
+      "likeCount": "23.8万",
+      "commentCount": "5835"
     },
     {
       "rank": 932,
@@ -700,7 +700,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-04-26",
-      "viewCount": "1518万",
+      "viewCount": "1519万",
       "likeCount": "23.79万",
       "commentCount": "5763"
     },
@@ -729,6 +729,28 @@
     {
       "rank": 934,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/Z2icQoPrX9M/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Z2icQoPrX9M",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "明日の私に幸あれ / ナナヲアカリ",
+        "url": "https://www.youtube.com/watch?v=Z2icQoPrX9M",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ナナヲアカリ OFFICIAL",
+        "url": "https://www.youtube.com/channel/UCrrNHoXQ1uTYsR6v41pDalQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-01-24",
+      "viewCount": "1881万",
+      "likeCount": "23.75万",
+      "commentCount": "4946"
+    },
+    {
+      "rank": 935,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/CzRqaoq_4Nw/default.jpg",
         "url": "https://www.youtube.com/watch?v=CzRqaoq_4Nw",
         "target": "_blank"
@@ -749,51 +771,7 @@
       "commentCount": "3266"
     },
     {
-      "rank": 935,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Z2icQoPrX9M/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Z2icQoPrX9M",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "明日の私に幸あれ / ナナヲアカリ",
-        "url": "https://www.youtube.com/watch?v=Z2icQoPrX9M",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ナナヲアカリ OFFICIAL",
-        "url": "https://www.youtube.com/channel/UCrrNHoXQ1uTYsR6v41pDalQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-01-24",
-      "viewCount": "1879万",
-      "likeCount": "23.74万",
-      "commentCount": "4941"
-    },
-    {
       "rank": 936,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/WPH1BLHKOJE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=WPH1BLHKOJE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "コブクロ - 蕾",
-        "url": "https://www.youtube.com/watch?v=WPH1BLHKOJE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "コブクロ 公式チャンネル",
-        "url": "https://www.youtube.com/channel/UC73Cla79COot99ltD8wuH0w",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-11-08",
-      "viewCount": "1億1054万",
-      "likeCount": "23.7万",
-      "commentCount": "1万"
-    },
-    {
-      "rank": 937,
       "thumb": {
         "img": "https://i.ytimg.com/vi/cxM_FmezzFA/default.jpg",
         "url": "https://www.youtube.com/watch?v=cxM_FmezzFA",
@@ -810,9 +788,31 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-05",
-      "viewCount": "3962万",
-      "likeCount": "23.7万",
+      "viewCount": "3964万",
+      "likeCount": "23.71万",
       "commentCount": "2959"
+    },
+    {
+      "rank": 937,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/WPH1BLHKOJE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=WPH1BLHKOJE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "コブクロ - 蕾",
+        "url": "https://www.youtube.com/watch?v=WPH1BLHKOJE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "コブクロ 公式チャンネル",
+        "url": "https://www.youtube.com/channel/UC73Cla79COot99ltD8wuH0w",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-11-08",
+      "viewCount": "1億1056万",
+      "likeCount": "23.71万",
+      "commentCount": "1万"
     },
     {
       "rank": 938,
@@ -878,32 +878,10 @@
       "publishedAt": "2019-08-27",
       "viewCount": "2353万",
       "likeCount": "23.61万",
-      "commentCount": "9748"
+      "commentCount": "9749"
     },
     {
       "rank": 941,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/jOZSjMKuE1g/default.jpg",
-        "url": "https://www.youtube.com/watch?v=jOZSjMKuE1g",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "すきっちゅーの！feat. ちゅーたん（CV：早見沙織）／HoneyWorks",
-        "url": "https://www.youtube.com/watch?v=jOZSjMKuE1g",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "HoneyWorks OFFICIAL",
-        "url": "https://www.youtube.com/channel/UCAaGaynFpku5cAx6OOSrW-w",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-09-01",
-      "viewCount": "2101万",
-      "likeCount": "23.6万",
-      "commentCount": "6257"
-    },
-    {
-      "rank": 942,
       "thumb": {
         "img": "https://i.ytimg.com/vi/IX87le_EokM/default.jpg",
         "url": "https://www.youtube.com/watch?v=IX87le_EokM",
@@ -920,9 +898,31 @@
         "target": "_blank"
       },
       "publishedAt": "2018-08-20",
-      "viewCount": "7537万",
-      "likeCount": "23.6万",
+      "viewCount": "7539万",
+      "likeCount": "23.61万",
       "commentCount": "-"
+    },
+    {
+      "rank": 942,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/jOZSjMKuE1g/default.jpg",
+        "url": "https://www.youtube.com/watch?v=jOZSjMKuE1g",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "すきっちゅーの！feat. ちゅーたん（CV：早見沙織）／HoneyWorks",
+        "url": "https://www.youtube.com/watch?v=jOZSjMKuE1g",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "HoneyWorks OFFICIAL",
+        "url": "https://www.youtube.com/channel/UCAaGaynFpku5cAx6OOSrW-w",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-09-01",
+      "viewCount": "2102万",
+      "likeCount": "23.6万",
+      "commentCount": "6271"
     },
     {
       "rank": 943,
@@ -964,8 +964,8 @@
         "target": "_blank"
       },
       "publishedAt": "2017-04-21",
-      "viewCount": "4924万",
-      "likeCount": "23.52万",
+      "viewCount": "4925万",
+      "likeCount": "23.53万",
       "commentCount": "3572"
     },
     {
@@ -986,9 +986,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-05-11",
-      "viewCount": "3597万",
-      "likeCount": "23.45万",
-      "commentCount": "6026"
+      "viewCount": "3599万",
+      "likeCount": "23.46万",
+      "commentCount": "6027"
     },
     {
       "rank": 946,
@@ -1008,9 +1008,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-04",
-      "viewCount": "1935万",
+      "viewCount": "1936万",
       "likeCount": "23.43万",
-      "commentCount": "7663"
+      "commentCount": "7662"
     },
     {
       "rank": 947,
@@ -1030,7 +1030,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-12",
-      "viewCount": "4219万",
+      "viewCount": "4221万",
       "likeCount": "23.42万",
       "commentCount": "6068"
     },
@@ -1076,7 +1076,7 @@
       "publishedAt": "2016-07-04",
       "viewCount": "3864万",
       "likeCount": "23.35万",
-      "commentCount": "5750"
+      "commentCount": "5751"
     },
     {
       "rank": 950,
@@ -1096,8 +1096,8 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-20",
-      "viewCount": "1189万",
-      "likeCount": "23.34万",
+      "viewCount": "1190万",
+      "likeCount": "23.35万",
       "commentCount": "1.1万"
     }
   ]
