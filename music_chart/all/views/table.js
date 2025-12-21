@@ -1,156 +1,154 @@
-/* ============================================
-   table-4cols.js
-   Render 1 row / 4 columns from tables/table.{p}.json
-   Columns: Rank | Thumb | Info | Views
-   - Page is taken from ?p= (default 1)
-   - Daily cache-buster (?v=YYYY-MM-DD)
-   - Text is escaped; thumbnail HTML only is injected as raw HTML
-   ============================================ */
-   (async () => {
-    /* ---------- resolve page & build URL ---------- */
-    const u = new URL(location.href);
-    let p = parseInt(u.searchParams.get("p") || "1", 10);
-    if (!Number.isFinite(p) || p < 1) p = 1;
+/* ============================================ *\
+  card-grid.js (updated for new JSON schema)
+  - artist field supported
+  - thumb/title/artist: {text,url,target}
+\* ============================================ */
 
-    const pageUrl = new URL(`./tables/table.${p}.json`, location.href);
-    const v = new Date().toLocaleDateString("sv-SE", { timeZone: "Asia/Tokyo" });
-    pageUrl.searchParams.set("v", v);
-
-    /* ---------- grab table roots ---------- */
-    const thead = document.querySelector("#data-table thead");
-    const tbody = document.querySelector("#data-table tbody");
-    if (!thead || !tbody) {
-      console.error("[table] missing #data-table thead/tbody");
+(async () => {
+  const u = new URL(location.href);
+  let p = parseInt(u.searchParams.get("p") || "1", 10);
+  if (!Number.isFinite(p) || p < 1) p = 1;
+  
+  const pageUrl = new URL(`./tables/table.${p}.json`, location.href);
+  
+  // get date from meta.json
+  const metaUrl = new URL("./meta.json", location.href);
+  let v = new Date().toLocaleDateString("sv-SE", { timeZone: "Asia/Tokyo" }); // fallback
+  
+  try {
+    const metaRes = await fetch(metaUrl, { cache: "no-store" });
+    if (metaRes.ok) {
+      const meta = await metaRes.json();
+      const metaDate = meta?.date ?? meta?.meta?.date;
+      if (typeof metaDate === "string" && /^\d{4}-\d{2}-\d{2}$/.test(metaDate)) v = metaDate;
+    }
+  } catch (e) {
+    console.warn("[meta] fetch error:", e);
+  }
+  
+  pageUrl.searchParams.set("v", v);
+  
+  const grid = document.querySelector("#card-grid");
+  if (!grid) {
+    console.error("[card] missing #card-grid");
+    return;
+  }
+  
+  try {
+    const res = await fetch(pageUrl, { cache: "no-store" });
+    if (!res.ok) throw new Error(`${res.status} ${pageUrl.href}`);
+  
+    const data = await res.json();
+    const rows = Array.isArray(data) ? data : (data.rows ?? []);
+  
+    renderCards(rows, grid);
+  } catch (e) {
+    console.error("[card] fetch/render failed:", e);
+    grid.innerHTML = `
+      <div style="color:crimson;padding:12px">
+        読み込み失敗：${esc(String(e))}
+        </div>
+    `;
+  }
+  
+  function renderCards(rows, grid) {
+    if (!rows || rows.length === 0) {
+      grid.innerHTML = `<div style="padding:12px">データがありません</div>`;
       return;
     }
+    grid.innerHTML = rows.map(renderCard).join("");
+  }
   
-    /* ---------- fetch & render ---------- */
-    try {
-      const res = await fetch(pageUrl, { cache: "no-store" });
-      if (!res.ok) throw new Error(`${res.status} ${pageUrl.href}`);
+  function esc(s) {
+    return String(s ?? "").replace(/[&<>"]/g, m => ({
+      "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;"
+    }[m]));
+  }
   
-      // allow either {rows:[...]} or a plain array
-      const data = await res.json();
-      const rows = Array.isArray(data) ? data : (data.rows ?? []);
+  function escAttr(s) {
+    return String(s ?? "").replace(/["&<>]/g, m => ({
+      "&": "&amp;", "<": "&lt;", ">": "&gt;", "\"": "&quot;"
+    }[m]));
+  }
   
-      renderTable4cols(rows, thead, tbody);
-    } catch (e) {
-      console.error("[table] fetch/render failed:", e);
-      thead.innerHTML = `<tr><th>Rank</th><th>Thumb</th><th>Info</th><th>Views</th></tr>`;
-      tbody.innerHTML = `<tr><td colspan="4" style="color:crimson;padding:12px">読み込み失敗：${String(e).replace(/</g,"&lt;")}</td></tr>`;
+  // Safe text link
+  function aTag({ url, text, target } = {}) {
+    const label = text ?? url ?? "";
+    if (!url) return esc(label);
+    const t = target ?? "_blank";
+    return `<a href="${escAttr(url)}" target="${escAttr(t)}" rel="noopener">${esc(label)}</a>`;
+  }
+  
+  // Raw HTML link (for thumbnail <img>)
+  function aTagHTML({ url, html, target } = {}) {
+    if (!url) return html ?? "";
+    const t = target ?? "_blank";
+    return `<a href="${escAttr(url)}" target="${escAttr(t)}" rel="noopener">${html ?? ""}</a>`;
+  }
+  
+  // Thumbnail builder: accepts string URL, <img...> string, or object {img/src,url,target,...}
+  function thumbHTML(val) {
+    if (!val) return "";
+  
+    if (typeof val === "string") {
+      if (/^<img[\s>]/i.test(val)) return val;
+      return `<img src="${escAttr(val)}" loading="lazy" decoding="async" alt="">`;
     }
   
-    /* ============================================
-       render: header + body
-       ============================================ */
-    function renderTable4cols(rows, thead, tbody) {
-      thead.innerHTML = `<tr><th>Rank</th><th>Thumb</th><th>Info</th><th>Views</th></tr>`;
-      if (!rows || rows.length === 0) {
-        tbody.innerHTML = `<tr><td colspan="4" style="padding:12px">データがありません</td></tr>`;
-        return;
-      }
-      tbody.innerHTML = rows.map(renderRow4cols).join("");
+    const src = val.img || val.src;
+    if (!src) return "";
+  
+    const img = `<img src="${escAttr(src)}" loading="lazy" decoding="async" alt="">`;
+  
+    return val.url
+      ? aTagHTML({ url: val.url, html: img, target: val.target })
+      : img;
+  }
+    
+  function renderArtists(artists) {
+    if (!Array.isArray(artists)) return "";
+  
+    const parts = [];
+    for (const a of artists) {
+      if (!a || typeof a !== "object") continue;
+  
+      const text = (a.text ?? "").toString().trim();
+      const url = (a.url ?? "").toString().trim();
+      const target = (a.target ?? "_blank").toString().trim();
+  
+      if (!text) continue;
+
+      parts.push(url ? aTag({ url, text, target }) : esc(text));
     }
   
-    /* ============================================
-       helpers: escaping & HTML builders
-       - esc/escAttr: escape user-visible text and attributes
-       - aTag: safe text link (escaped)
-       - aTagHTML: raw HTML link (for thumbnails only)
-       ============================================ */
-    function esc(s){
-      return String(s ?? "").replace(/[&<>"]/g, m => ({
-        "&":"&amp;", "<":"&lt;", ">":"&gt;", "\"":"&quot;"
-      }[m]));
-    }
-    function escAttr(s){
-      return String(s ?? "").replace(/["&<>]/g, m => ({
-        "&":"&amp;", "<":"&lt;", ">":"&gt;", "\"":"&quot;"
-      }[m]));
-    }
-    function toDotDate(s){
-      return typeof s === "string" ? s.replaceAll("-", ".") : "";
-    }
+    return parts.join('<span class="sep">, </span>');
+  }
   
-    // Safe text link
-    function aTag({url, text, target, rel, className} = {}){
-      if (!url) return esc(text ?? "");
-      const t = target ?? "_blank";
-      const r = rel ?? "noopener";
-      const cls = className ? ` class="${escAttr(className)}"` : "";
-      return `<a href="${escAttr(url)}"${cls} target="${escAttr(t)}" rel="${escAttr(r)}">${esc(text ?? url)}</a>`;
-    }
+  function renderCard(item) {
+    const rank  = esc(item.rank);
+    const thumb = thumbHTML(item.thumb);
   
-    // Raw HTML link (only for controlled HTML like <img>)
-    function aTagHTML({url, html, target, rel, className} = {}){
-      if (!url) return html ?? "";
-      const t = target ?? "_blank";
-      const r = rel ?? "noopener";
-      const cls = className ? ` class="${escAttr(className)}"` : "";
-      return `<a href="${escAttr(url)}"${cls} target="${escAttr(t)}" rel="${escAttr(r)}">${html ?? ""}</a>`;
-    }
+    const title = aTag({
+      url: item.title?.url,
+      text: item.title?.text,
+      target: item.title?.target
+    });
   
-    // Thumbnail builder (accepts string URL, <img...> string, or object)
-    function thumbHTML(val){
-      if (!val) return "";
-      if (typeof val === "string") {
-        // if "<img ...>" string is provided, trust it (controlled source)
-        if (/^<img[\s>]/i.test(val)) return val;
-        return `<img src="${escAttr(val)}" loading="lazy" decoding="async" alt="">`;
-      }
-      const src = val.img || val.src;
-      if (!src) return "";
-      const w = val.w || val.width || "";
-      const h = val.h || val.height || "";
-      const img = `<img src="${escAttr(src)}" alt="${escAttr(val.alt ?? "")}"${w?` width="${w}"`:''}${h?` height="${h}"`:''} loading="lazy" decoding="async">`;
-      return val.url
-        ? aTagHTML({ url: val.url, html: img, target: val.target, rel: val.rel, className: val.linkClass })
-        : img;
-    }
+    const artistHTML = renderArtists(item.artist);
   
-    /* ============================================
-       per-row renderer (Rank / Thumb / Info / Views)
-       ============================================ */
-    function renderRow4cols(item){
-      const rank  = esc(item.rank);
-      const thumb = thumbHTML(item.thumb);
+    const viewcount = esc(item.viewcount ?? "");
+    const increment_d = esc(item.increment_d ?? "");
   
-      const title = aTag({
-        url: item.title?.url,
-        text: item.title?.text,
-        target: item.title?.target
-      });
-      const ch = aTag({
-        url: item.channel?.url,
-        text: item.channel?.text,
-        target: item.channel?.target
-      });
-  
-      const pub   = toDotDate(item.publishedAt);
-      const likes = esc(item.likeCount ?? "");
-      const comm  = esc(item.commentCount ?? "");
-      const inc   = esc(item.increment_d1 ?? "");
-      const views = esc(item.viewCount ?? "");
-  
-      const infoHTML = `
+    return `
+      <article class="card">
+        <div class="rank">#${rank}</div>
+        <div class="thumb">${thumb}</div>
         <div class="title">${title}</div>
-        <div class="channel">${ch}</div>
-        <div class="meta">
-          ${pub   ? `<span class="published">Release: ${pub}</span>` : ""}
-          ${likes ? `<span class="chip likes">👍 ${likes}</span>` : ""}
-          ${comm  ? `<span class="chip comments">💬 ${comm}</span>` : ""}
-          ${inc   ? `<span class="chip increment">↗︎ ${inc}</span>` : ""}
-        </div>
-      `;
-  
-      return `
-        <tr>
-          <th class="rank" scope="row">${rank}</th>
-          <td class="thumb">${thumb}</td>
-          <td class="info">${infoHTML}</td>
-          <td class="highlight">${views}</td>
-        </tr>
-      `;
-    }
-  })();
+        <div class="artist">${artistHTML}</div>
+        <div class="metric">${viewcount}</div>
+        <div class="sub">(+${increment_d})</div>
+      </article>
+    `;
+  }
+})();
   

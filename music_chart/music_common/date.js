@@ -31,7 +31,7 @@
     const meta = await res.json();
 
     for (const el of document.querySelectorAll('[data-date]')) {
-      const key = el.dataset.date; // e.g. "date" or "updated"
+      const key = el.dataset.date; // e.g. "date"
       let val = get(meta, key);
       if (val == null) continue;
 
