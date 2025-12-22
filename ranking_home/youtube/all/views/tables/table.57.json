@@ -21,7 +21,7 @@
       "viewCount": "1218万",
       "likeCount": "9.1万",
       "commentCount": "4466",
-      "increment_d1": "6732"
+      "increment_d1": "6325"
     },
     {
       "rank": 2802,
@@ -43,34 +43,11 @@
       "publishedAt": "2019-01-04",
       "viewCount": "1217万",
       "likeCount": "24.1万",
-      "commentCount": "9326",
-      "increment_d1": "680"
+      "commentCount": "9317",
+      "increment_d1": "571"
     },
     {
       "rank": 2803,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/pRDI2XHvXLQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=pRDI2XHvXLQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "桑田佳祐 - 君への手紙 (Full ver.)",
-        "url": "https://www.youtube.com/watch?v=pRDI2XHvXLQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "桑田佳祐",
-        "url": "https://www.youtube.com/channel/UCaZ17KNeiVkQkeG7i2WDOnQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-11-07",
-      "viewCount": "1217万",
-      "likeCount": "2.8万",
-      "commentCount": "555",
-      "increment_d1": "656"
-    },
-    {
-      "rank": 2804,
       "thumb": {
         "img": "https://i.ytimg.com/vi/TELFpTs29Ag/default.jpg",
         "url": "https://www.youtube.com/watch?v=TELFpTs29Ag",
@@ -90,10 +67,56 @@
       "viewCount": "1217万",
       "likeCount": "22.3万",
       "commentCount": "1.7万",
-      "increment_d1": "8809"
+      "increment_d1": "7355"
+    },
+    {
+      "rank": 2804,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/pRDI2XHvXLQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=pRDI2XHvXLQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "桑田佳祐 - 君への手紙 (Full ver.)",
+        "url": "https://www.youtube.com/watch?v=pRDI2XHvXLQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "桑田佳祐",
+        "url": "https://www.youtube.com/channel/UCaZ17KNeiVkQkeG7i2WDOnQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-11-07",
+      "viewCount": "1217万",
+      "likeCount": "2.8万",
+      "commentCount": "555",
+      "increment_d1": "492"
     },
     {
       "rank": 2805,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ytQhhgHGj_s/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ytQhhgHGj_s",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "優里『クリスマスイブ』Official Music Video",
+        "url": "https://www.youtube.com/watch?v=ytQhhgHGj_s",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "優里 Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCBNVZPlWoR7oArfzJNrK9yw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-12-01",
+      "viewCount": "1217万",
+      "likeCount": "8.1万",
+      "commentCount": "1824",
+      "increment_d1": "1.07万"
+    },
+    {
+      "rank": 2806,
       "thumb": {
         "img": "https://i.ytimg.com/vi/AXtfzKaKr4I/default.jpg",
         "url": "https://www.youtube.com/watch?v=AXtfzKaKr4I",
@@ -110,13 +133,13 @@
         "target": "_blank"
       },
       "publishedAt": "2021-10-09",
-      "viewCount": "1216万",
+      "viewCount": "1217万",
       "likeCount": "-",
       "commentCount": "5911",
-      "increment_d1": "1963"
+      "increment_d1": "1747"
     },
     {
-      "rank": 2806,
+      "rank": 2807,
       "thumb": {
         "img": "https://i.ytimg.com/vi/BA835e3VYx0/default.jpg",
         "url": "https://www.youtube.com/watch?v=BA835e3VYx0",
@@ -133,13 +156,13 @@
         "target": "_blank"
       },
       "publishedAt": "2021-02-19",
-      "viewCount": "1216万",
+      "viewCount": "1217万",
       "likeCount": "7.8万",
-      "commentCount": "1058",
-      "increment_d1": "1441"
+      "commentCount": "1059",
+      "increment_d1": "1484"
     },
     {
-      "rank": 2807,
+      "rank": 2808,
       "thumb": {
         "img": "https://i.ytimg.com/vi/sOfieyM0SrA/default.jpg",
         "url": "https://www.youtube.com/watch?v=sOfieyM0SrA",
@@ -156,13 +179,13 @@
         "target": "_blank"
       },
       "publishedAt": "2016-04-28",
-      "viewCount": "1216万",
+      "viewCount": "1217万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "627"
+      "increment_d1": "529"
     },
     {
-      "rank": 2808,
+      "rank": 2809,
       "thumb": {
         "img": "https://i.ytimg.com/vi/-UJdQMpnUDg/default.jpg",
         "url": "https://www.youtube.com/watch?v=-UJdQMpnUDg",
@@ -181,31 +204,8 @@
       "publishedAt": "2013-11-30",
       "viewCount": "1216万",
       "likeCount": "6.3万",
-      "commentCount": "2116",
-      "increment_d1": "638"
-    },
-    {
-      "rank": 2809,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/_kZnvhKNY_E/default.jpg",
-        "url": "https://www.youtube.com/watch?v=_kZnvhKNY_E",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ツインズ／CHiCO with HoneyWorks",
-        "url": "https://www.youtube.com/watch?v=_kZnvhKNY_E",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-07-20",
-      "viewCount": "1216万",
-      "likeCount": "12万",
-      "commentCount": "5871",
-      "increment_d1": "834"
+      "commentCount": "2117",
+      "increment_d1": "665"
     },
     {
       "rank": 2810,
@@ -227,80 +227,34 @@
       "publishedAt": "2012-10-17",
       "viewCount": "1216万",
       "likeCount": "4.5万",
-      "commentCount": "1989",
-      "increment_d1": "2957"
+      "commentCount": "1991",
+      "increment_d1": "3098"
     },
     {
       "rank": 2811,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/ytQhhgHGj_s/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ytQhhgHGj_s",
+        "img": "https://i.ytimg.com/vi/_kZnvhKNY_E/default.jpg",
+        "url": "https://www.youtube.com/watch?v=_kZnvhKNY_E",
         "target": "_blank"
       },
       "title": {
-        "text": "優里『クリスマスイブ』Official Music Video",
-        "url": "https://www.youtube.com/watch?v=ytQhhgHGj_s",
+        "text": "ツインズ／CHiCO with HoneyWorks",
+        "url": "https://www.youtube.com/watch?v=_kZnvhKNY_E",
         "target": "_blank"
       },
       "channel": {
-        "text": "優里 Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCBNVZPlWoR7oArfzJNrK9yw",
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
         "target": "_blank"
       },
-      "publishedAt": "2022-12-01",
+      "publishedAt": "2017-07-20",
       "viewCount": "1216万",
-      "likeCount": "8.1万",
-      "commentCount": "1824",
-      "increment_d1": "1.11万"
+      "likeCount": "12万",
+      "commentCount": "5871",
+      "increment_d1": "787"
     },
     {
       "rank": 2812,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/X8TCB9s1kRs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=X8TCB9s1kRs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "白銀 - Eve MV",
-        "url": "https://www.youtube.com/watch?v=X8TCB9s1kRs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Eve",
-        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-02-28",
-      "viewCount": "1215万",
-      "likeCount": "23.6万",
-      "commentCount": "7958",
-      "increment_d1": "916"
-    },
-    {
-      "rank": 2813,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1ce456Nnkt8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1ce456Nnkt8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BABYMETAL - Distortion (OFFICIAL)",
-        "url": "https://www.youtube.com/watch?v=1ce456Nnkt8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BABYMETAL",
-        "url": "https://www.youtube.com/channel/UC33_tIj4m1_XaqfFcomShvw",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-05-07",
-      "viewCount": "1215万",
-      "likeCount": "20.9万",
-      "commentCount": "1.3万",
-      "increment_d1": "784"
-    },
-    {
-      "rank": 2814,
       "thumb": {
         "img": "https://i.ytimg.com/vi/q_8ulbgIF5w/default.jpg",
         "url": "https://www.youtube.com/watch?v=q_8ulbgIF5w",
@@ -319,11 +273,11 @@
       "publishedAt": "2021-09-03",
       "viewCount": "1215万",
       "likeCount": "9.6万",
-      "commentCount": "2597",
-      "increment_d1": "7660"
+      "commentCount": "2599",
+      "increment_d1": "6824"
     },
     {
-      "rank": 2815,
+      "rank": 2813,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3SR57oeegws/default.jpg",
         "url": "https://www.youtube.com/watch?v=3SR57oeegws",
@@ -343,7 +297,53 @@
       "viewCount": "1215万",
       "likeCount": "7.6万",
       "commentCount": "1371",
-      "increment_d1": "7122"
+      "increment_d1": "6899"
+    },
+    {
+      "rank": 2814,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/X8TCB9s1kRs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=X8TCB9s1kRs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "白銀 - Eve MV",
+        "url": "https://www.youtube.com/watch?v=X8TCB9s1kRs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Eve",
+        "url": "https://www.youtube.com/channel/UCUXfRsEIJ9xO1DT7TbEWksw",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-02-28",
+      "viewCount": "1215万",
+      "likeCount": "23.6万",
+      "commentCount": "7958",
+      "increment_d1": "1027"
+    },
+    {
+      "rank": 2815,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1ce456Nnkt8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1ce456Nnkt8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BABYMETAL - Distortion (OFFICIAL)",
+        "url": "https://www.youtube.com/watch?v=1ce456Nnkt8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BABYMETAL",
+        "url": "https://www.youtube.com/channel/UC33_tIj4m1_XaqfFcomShvw",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-05-07",
+      "viewCount": "1215万",
+      "likeCount": "20.9万",
+      "commentCount": "1.3万",
+      "increment_d1": "765"
     },
     {
       "rank": 2816,
@@ -366,7 +366,7 @@
       "viewCount": "1214万",
       "likeCount": "7.1万",
       "commentCount": "3057",
-      "increment_d1": "1570"
+      "increment_d1": "1539"
     },
     {
       "rank": 2817,
@@ -388,8 +388,8 @@
       "publishedAt": "2015-03-23",
       "viewCount": "1213万",
       "likeCount": "11.5万",
-      "commentCount": "7516",
-      "increment_d1": "4215"
+      "commentCount": "7519",
+      "increment_d1": "3467"
     },
     {
       "rank": 2818,
@@ -411,8 +411,8 @@
       "publishedAt": "2015-04-22",
       "viewCount": "1212万",
       "likeCount": "8.6万",
-      "commentCount": "3679",
-      "increment_d1": "996"
+      "commentCount": "3680",
+      "increment_d1": "1003"
     },
     {
       "rank": 2819,
@@ -434,8 +434,8 @@
       "publishedAt": "2022-09-05",
       "viewCount": "1212万",
       "likeCount": "-",
-      "commentCount": "7754",
-      "increment_d1": "1087"
+      "commentCount": "7757",
+      "increment_d1": "1234"
     },
     {
       "rank": 2820,
@@ -458,7 +458,7 @@
       "viewCount": "1211万",
       "likeCount": "16.5万",
       "commentCount": "6746",
-      "increment_d1": "728"
+      "increment_d1": "587"
     },
     {
       "rank": 2821,
@@ -480,34 +480,11 @@
       "publishedAt": "2020-05-11",
       "viewCount": "1210万",
       "likeCount": "9.2万",
-      "commentCount": "8518",
-      "increment_d1": "1742"
+      "commentCount": "8530",
+      "increment_d1": "1405"
     },
     {
       "rank": 2822,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/75GL-BYZFfY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=75GL-BYZFfY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "すーぱーぬこになりたい／まふまふ【オリジナル曲】",
-        "url": "https://www.youtube.com/watch?v=75GL-BYZFfY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "まふまふちゃんねる",
-        "url": "https://www.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-06-06",
-      "viewCount": "1209万",
-      "likeCount": "17.2万",
-      "commentCount": "7699",
-      "increment_d1": "569"
-    },
-    {
-      "rank": 2823,
       "thumb": {
         "img": "https://i.ytimg.com/vi/L_Vcc5v1Cks/default.jpg",
         "url": "https://www.youtube.com/watch?v=L_Vcc5v1Cks",
@@ -524,13 +501,13 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-23",
-      "viewCount": "1209万",
+      "viewCount": "1210万",
       "likeCount": "24.6万",
-      "commentCount": "4899",
-      "increment_d1": "9228"
+      "commentCount": "4900",
+      "increment_d1": "8619"
     },
     {
-      "rank": 2824,
+      "rank": 2823,
       "thumb": {
         "img": "https://i.ytimg.com/vi/iyU1t8G0LZw/default.jpg",
         "url": "https://www.youtube.com/watch?v=iyU1t8G0LZw",
@@ -547,10 +524,33 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-25",
-      "viewCount": "1209万",
-      "likeCount": "16.8万",
+      "viewCount": "1210万",
+      "likeCount": "16.9万",
       "commentCount": "8116",
-      "increment_d1": "6009"
+      "increment_d1": "5542"
+    },
+    {
+      "rank": 2824,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/75GL-BYZFfY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=75GL-BYZFfY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "すーぱーぬこになりたい／まふまふ【オリジナル曲】",
+        "url": "https://www.youtube.com/watch?v=75GL-BYZFfY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "まふまふちゃんねる",
+        "url": "https://www.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-06-06",
+      "viewCount": "1210万",
+      "likeCount": "17.2万",
+      "commentCount": "7698",
+      "increment_d1": "569"
     },
     {
       "rank": 2825,
@@ -573,7 +573,7 @@
       "viewCount": "1209万",
       "likeCount": "13.8万",
       "commentCount": "1.8万",
-      "increment_d1": "1242"
+      "increment_d1": "1227"
     },
     {
       "rank": 2826,
@@ -596,33 +596,10 @@
       "viewCount": "1208万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "312"
+      "increment_d1": "391"
     },
     {
       "rank": 2827,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ULHQPm8hmVk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ULHQPm8hmVk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "AKINO from bless4「海色(みいろ) 」Music Video",
-        "url": "https://www.youtube.com/watch?v=ULHQPm8hmVk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "FlyingDog",
-        "url": "https://www.youtube.com/channel/UC_A_w2KhC3emxNZWQ3pYpfQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-12-27",
-      "viewCount": "1206万",
-      "likeCount": "8.8万",
-      "commentCount": "2641",
-      "increment_d1": "346"
-    },
-    {
-      "rank": 2828,
       "thumb": {
         "img": "https://i.ytimg.com/vi/S2UcVZQugSo/default.jpg",
         "url": "https://www.youtube.com/watch?v=S2UcVZQugSo",
@@ -642,7 +619,30 @@
       "viewCount": "1206万",
       "likeCount": "12.1万",
       "commentCount": "1074",
-      "increment_d1": "3352"
+      "increment_d1": "3520"
+    },
+    {
+      "rank": 2828,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ULHQPm8hmVk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ULHQPm8hmVk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "AKINO from bless4「海色(みいろ) 」Music Video",
+        "url": "https://www.youtube.com/watch?v=ULHQPm8hmVk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "FlyingDog",
+        "url": "https://www.youtube.com/channel/UC_A_w2KhC3emxNZWQ3pYpfQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-12-27",
+      "viewCount": "1206万",
+      "likeCount": "8.8万",
+      "commentCount": "2641",
+      "increment_d1": "383"
     },
     {
       "rank": 2829,
@@ -665,7 +665,7 @@
       "viewCount": "1206万",
       "likeCount": "-",
       "commentCount": "5997",
-      "increment_d1": "1107"
+      "increment_d1": "984"
     },
     {
       "rank": 2830,
@@ -688,10 +688,33 @@
       "viewCount": "1206万",
       "likeCount": "10.8万",
       "commentCount": "42",
-      "increment_d1": "592"
+      "increment_d1": "572"
     },
     {
       "rank": 2831,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/8FDxco2VFS4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=8FDxco2VFS4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "YOAKE「ねぇ」Official Music Video",
+        "url": "https://www.youtube.com/watch?v=8FDxco2VFS4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "JMS BASE",
+        "url": "https://www.youtube.com/channel/UCj8RXhnU4RR9wnRUYQoyLqw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-04-29",
+      "viewCount": "1206万",
+      "likeCount": "11.5万",
+      "commentCount": "2265",
+      "increment_d1": "744"
+    },
+    {
+      "rank": 2832,
       "thumb": {
         "img": "https://i.ytimg.com/vi/UMlqTEVMZFE/default.jpg",
         "url": "https://www.youtube.com/watch?v=UMlqTEVMZFE",
@@ -711,56 +734,10 @@
       "viewCount": "1206万",
       "likeCount": "3.9万",
       "commentCount": "1317",
-      "increment_d1": "132"
-    },
-    {
-      "rank": 2832,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/8FDxco2VFS4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=8FDxco2VFS4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "YOAKE「ねぇ」Official Music Video",
-        "url": "https://www.youtube.com/watch?v=8FDxco2VFS4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "JMS BASE",
-        "url": "https://www.youtube.com/channel/UCj8RXhnU4RR9wnRUYQoyLqw",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-04-29",
-      "viewCount": "1206万",
-      "likeCount": "11.5万",
-      "commentCount": "2266",
-      "increment_d1": "910"
+      "increment_d1": "114"
     },
     {
       "rank": 2833,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/C7OrKDHPCF8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=C7OrKDHPCF8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "湘南乃風「応援歌 feat MOOMIN」MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=C7OrKDHPCF8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "湘南乃風",
-        "url": "https://www.youtube.com/channel/UCwAVKZKMkKNEMShMK68PuzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-05-25",
-      "viewCount": "1205万",
-      "likeCount": "2.5万",
-      "commentCount": "1508",
-      "increment_d1": "1278"
-    },
-    {
-      "rank": 2834,
       "thumb": {
         "img": "https://i.ytimg.com/vi/mlA-Z7zSLHU/default.jpg",
         "url": "https://www.youtube.com/watch?v=mlA-Z7zSLHU",
@@ -780,7 +757,30 @@
       "viewCount": "1205万",
       "likeCount": "14万",
       "commentCount": "4473",
-      "increment_d1": "1166"
+      "increment_d1": "1372"
+    },
+    {
+      "rank": 2834,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/C7OrKDHPCF8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=C7OrKDHPCF8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "湘南乃風「応援歌 feat MOOMIN」MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=C7OrKDHPCF8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "湘南乃風",
+        "url": "https://www.youtube.com/channel/UCwAVKZKMkKNEMShMK68PuzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-05-25",
+      "viewCount": "1205万",
+      "likeCount": "2.5万",
+      "commentCount": "1508",
+      "increment_d1": "1214"
     },
     {
       "rank": 2835,
@@ -803,7 +803,7 @@
       "viewCount": "1204万",
       "likeCount": "4.8万",
       "commentCount": "2307",
-      "increment_d1": "1460"
+      "increment_d1": "1530"
     },
     {
       "rank": 2836,
@@ -826,102 +826,10 @@
       "viewCount": "1204万",
       "likeCount": "6.4万",
       "commentCount": "2411",
-      "increment_d1": "1753"
+      "increment_d1": "1384"
     },
     {
       "rank": 2837,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/rkyK5VD-vDk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=rkyK5VD-vDk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "西野カナ　『We Don't Stop MV(Short Ver.)』",
-        "url": "https://www.youtube.com/watch?v=rkyK5VD-vDk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-05-02",
-      "viewCount": "1203万",
-      "likeCount": "2万",
-      "commentCount": "585",
-      "increment_d1": "104"
-    },
-    {
-      "rank": 2838,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/aipq7JTWYBo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=aipq7JTWYBo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "#84【潜入】俺はパスがなくて入れなかったのでカメラだけ放り投げてみた。前編。",
-        "url": "https://www.youtube.com/watch?v=aipq7JTWYBo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "よにのちゃんねる",
-        "url": "https://www.youtube.com/channel/UC2alHD2WkakOiTxCxF-uMAg",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-01-02",
-      "viewCount": "1203万",
-      "likeCount": "-",
-      "commentCount": "1.2万",
-      "increment_d1": "1465"
-    },
-    {
-      "rank": 2839,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/u2YSzzXb2I4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=u2YSzzXb2I4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "cinema staff 「great escape」MV（TVアニメ「進撃の巨人」後期EDテーマ）",
-        "url": "https://www.youtube.com/watch?v=u2YSzzXb2I4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "cinemastaffchannel",
-        "url": "https://www.youtube.com/channel/UCRgqv_MJKfFfNVYdtGuO20g",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-09-04",
-      "viewCount": "1203万",
-      "likeCount": "13.5万",
-      "commentCount": "3831",
-      "increment_d1": "3230"
-    },
-    {
-      "rank": 2840,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/uOtJRjRFF6o/default.jpg",
-        "url": "https://www.youtube.com/watch?v=uOtJRjRFF6o",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV】虹のコンキスタドール「キミは無邪気な夏の女王」（虹コン）",
-        "url": "https://www.youtube.com/watch?v=uOtJRjRFF6o",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "虹のコンキスタドール",
-        "url": "https://www.youtube.com/channel/UCmo55h1NKPRnxiU21b4AHFg",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-07-07",
-      "viewCount": "1203万",
-      "likeCount": "6.9万",
-      "commentCount": "5826",
-      "increment_d1": "601"
-    },
-    {
-      "rank": 2841,
       "thumb": {
         "img": "https://i.ytimg.com/vi/gUPbZaxe1sA/default.jpg",
         "url": "https://www.youtube.com/watch?v=gUPbZaxe1sA",
@@ -941,7 +849,99 @@
       "viewCount": "1203万",
       "likeCount": "3.5万",
       "commentCount": "129",
-      "increment_d1": "7072"
+      "increment_d1": "7445"
+    },
+    {
+      "rank": 2838,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/u2YSzzXb2I4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=u2YSzzXb2I4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "cinema staff 「great escape」MV（TVアニメ「進撃の巨人」後期EDテーマ）",
+        "url": "https://www.youtube.com/watch?v=u2YSzzXb2I4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "cinemastaffchannel",
+        "url": "https://www.youtube.com/channel/UCRgqv_MJKfFfNVYdtGuO20g",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-09-04",
+      "viewCount": "1203万",
+      "likeCount": "13.5万",
+      "commentCount": "3832",
+      "increment_d1": "3389"
+    },
+    {
+      "rank": 2839,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/rkyK5VD-vDk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=rkyK5VD-vDk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "西野カナ　『We Don't Stop MV(Short Ver.)』",
+        "url": "https://www.youtube.com/watch?v=rkyK5VD-vDk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-05-02",
+      "viewCount": "1203万",
+      "likeCount": "2万",
+      "commentCount": "585",
+      "increment_d1": "101"
+    },
+    {
+      "rank": 2840,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/aipq7JTWYBo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=aipq7JTWYBo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "#84【潜入】俺はパスがなくて入れなかったのでカメラだけ放り投げてみた。前編。",
+        "url": "https://www.youtube.com/watch?v=aipq7JTWYBo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "よにのちゃんねる",
+        "url": "https://www.youtube.com/channel/UC2alHD2WkakOiTxCxF-uMAg",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-01-02",
+      "viewCount": "1203万",
+      "likeCount": "-",
+      "commentCount": "1.2万",
+      "increment_d1": "1130"
+    },
+    {
+      "rank": 2841,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/uOtJRjRFF6o/default.jpg",
+        "url": "https://www.youtube.com/watch?v=uOtJRjRFF6o",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV】虹のコンキスタドール「キミは無邪気な夏の女王」（虹コン）",
+        "url": "https://www.youtube.com/watch?v=uOtJRjRFF6o",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "虹のコンキスタドール",
+        "url": "https://www.youtube.com/channel/UCmo55h1NKPRnxiU21b4AHFg",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-07-07",
+      "viewCount": "1203万",
+      "likeCount": "6.9万",
+      "commentCount": "5826",
+      "increment_d1": "497"
     },
     {
       "rank": 2842,
@@ -961,10 +961,33 @@
         "target": "_blank"
       },
       "publishedAt": "2017-09-29",
-      "viewCount": "1202万",
+      "viewCount": "1203万",
       "likeCount": "6.2万",
-      "commentCount": "2305",
-      "increment_d1": "2097"
+      "commentCount": "2303",
+      "increment_d1": "1965"
+    },
+    {
+      "rank": 2843,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/VxR_BYPG7v4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=VxR_BYPG7v4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "TVアニメ『リコリス・リコイル』ノンテロップOPムービー｜ClariS「ALIVE」",
+        "url": "https://www.youtube.com/watch?v=VxR_BYPG7v4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "アニプレックス チャンネル",
+        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-07-09",
+      "viewCount": "1202万",
+      "likeCount": "11.9万",
+      "commentCount": "2944",
+      "increment_d1": "3925"
     },
     {
       "rank": 2843,
@@ -987,30 +1010,7 @@
       "viewCount": "1202万",
       "likeCount": "9.1万",
       "commentCount": "9858",
-      "increment_d1": "607"
-    },
-    {
-      "rank": 2844,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/VxR_BYPG7v4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=VxR_BYPG7v4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "TVアニメ『リコリス・リコイル』ノンテロップOPムービー｜ClariS「ALIVE」",
-        "url": "https://www.youtube.com/watch?v=VxR_BYPG7v4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アニプレックス チャンネル",
-        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-07-09",
-      "viewCount": "1202万",
-      "likeCount": "11.9万",
-      "commentCount": "2943",
-      "increment_d1": "4399"
+      "increment_d1": "557"
     },
     {
       "rank": 2845,
@@ -1032,8 +1032,8 @@
       "publishedAt": "2011-02-07",
       "viewCount": "1201万",
       "likeCount": "8.4万",
-      "commentCount": "5842",
-      "increment_d1": "6278"
+      "commentCount": "5844",
+      "increment_d1": "5391"
     },
     {
       "rank": 2846,
@@ -1056,10 +1056,33 @@
       "viewCount": "1201万",
       "likeCount": "11.7万",
       "commentCount": "5820",
-      "increment_d1": "942"
+      "increment_d1": "826"
     },
     {
       "rank": 2847,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/IuSAC8ZDf1A/default.jpg",
+        "url": "https://www.youtube.com/watch?v=IuSAC8ZDf1A",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "TVアニメ「WIND BREAKER」ノンクレジットオープニング映像『絶対零度』なとり｜2024.04.04 ON AIR",
+        "url": "https://www.youtube.com/watch?v=IuSAC8ZDf1A",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "アニプレックス チャンネル",
+        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-04-10",
+      "viewCount": "1200万",
+      "likeCount": "13.6万",
+      "commentCount": "2081",
+      "increment_d1": "7884"
+    },
+    {
+      "rank": 2848,
       "thumb": {
         "img": "https://i.ytimg.com/vi/8TghOw3v61k/default.jpg",
         "url": "https://www.youtube.com/watch?v=8TghOw3v61k",
@@ -1079,30 +1102,7 @@
       "viewCount": "1200万",
       "likeCount": "14万",
       "commentCount": "1017",
-      "increment_d1": "4718"
-    },
-    {
-      "rank": 2848,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/IuSAC8ZDf1A/default.jpg",
-        "url": "https://www.youtube.com/watch?v=IuSAC8ZDf1A",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "TVアニメ「WIND BREAKER」ノンクレジットオープニング映像『絶対零度』なとり｜2024.04.04 ON AIR",
-        "url": "https://www.youtube.com/watch?v=IuSAC8ZDf1A",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アニプレックス チャンネル",
-        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-04-10",
-      "viewCount": "1200万",
-      "likeCount": "13.6万",
-      "commentCount": "2080",
-      "increment_d1": "8573"
+      "increment_d1": "5215"
     },
     {
       "rank": 2849,
@@ -1125,7 +1125,7 @@
       "viewCount": "1200万",
       "likeCount": "16.7万",
       "commentCount": "3515",
-      "increment_d1": "1645"
+      "increment_d1": "1776"
     },
     {
       "rank": 2850,
@@ -1147,8 +1147,8 @@
       "publishedAt": "2024-01-23",
       "viewCount": "1199万",
       "likeCount": "14.8万",
-      "commentCount": "2569",
-      "increment_d1": "5618"
+      "commentCount": "2570",
+      "increment_d1": "5549"
     }
   ]
 }
