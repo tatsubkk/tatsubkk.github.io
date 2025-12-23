@@ -40,7 +40,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-04",
-      "viewCount": "2747万",
+      "viewCount": "2748万",
       "likeCount": "29.62万",
       "commentCount": "5762"
     },
@@ -62,8 +62,8 @@
         "target": "_blank"
       },
       "publishedAt": "2019-11-23",
-      "viewCount": "2780万",
-      "likeCount": "29.59万",
+      "viewCount": "2781万",
+      "likeCount": "29.6万",
       "commentCount": "1.1万"
     },
     {
@@ -106,7 +106,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-09-19",
-      "viewCount": "4174万",
+      "viewCount": "4176万",
       "likeCount": "29.43万",
       "commentCount": "1.1万"
     },
@@ -128,8 +128,8 @@
         "target": "_blank"
       },
       "publishedAt": "2011-06-24",
-      "viewCount": "1億698万",
-      "likeCount": "29.41万",
+      "viewCount": "1億700万",
+      "likeCount": "29.42万",
       "commentCount": "1.8万"
     },
     {
@@ -150,12 +150,34 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-06",
-      "viewCount": "5349万",
+      "viewCount": "5351万",
       "likeCount": "29.33万",
-      "commentCount": "4033"
+      "commentCount": "4037"
     },
     {
       "rank": 758,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/qIoDWTF0qSo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=qIoDWTF0qSo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Do As Infinity / 深い森（Fukai Mori）",
+        "url": "https://www.youtube.com/watch?v=qIoDWTF0qSo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2008-12-26",
+      "viewCount": "4206万",
+      "likeCount": "29.3万",
+      "commentCount": "1.4万"
+    },
+    {
+      "rank": 759,
       "thumb": {
         "img": "https://i.ytimg.com/vi/5N_EBojQu5w/default.jpg",
         "url": "https://www.youtube.com/watch?v=5N_EBojQu5w",
@@ -177,28 +199,6 @@
       "commentCount": "1.1万"
     },
     {
-      "rank": 759,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/qIoDWTF0qSo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=qIoDWTF0qSo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Do As Infinity / 深い森（Fukai Mori）",
-        "url": "https://www.youtube.com/watch?v=qIoDWTF0qSo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2008-12-26",
-      "viewCount": "4205万",
-      "likeCount": "29.3万",
-      "commentCount": "1.4万"
-    },
-    {
       "rank": 760,
       "thumb": {
         "img": "https://i.ytimg.com/vi/6OC92oxs4gA/default.jpg",
@@ -216,9 +216,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-20",
-      "viewCount": "3432万",
-      "likeCount": "29.28万",
-      "commentCount": "3763"
+      "viewCount": "3433万",
+      "likeCount": "29.29万",
+      "commentCount": "3764"
     },
     {
       "rank": 761,
@@ -238,7 +238,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-21",
-      "viewCount": "1億1035万",
+      "viewCount": "1億1037万",
       "likeCount": "29.21万",
       "commentCount": "1.4万"
     },
@@ -282,7 +282,7 @@
         "target": "_blank"
       },
       "publishedAt": "2008-12-18",
-      "viewCount": "5067万",
+      "viewCount": "5068万",
       "likeCount": "29.17万",
       "commentCount": "2.2万"
     },
@@ -304,7 +304,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-05-26",
-      "viewCount": "4900万",
+      "viewCount": "4901万",
       "likeCount": "29.1万",
       "commentCount": "7.7万"
     },
@@ -326,8 +326,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-02-27",
-      "viewCount": "2874万",
-      "likeCount": "29.05万",
+      "viewCount": "2875万",
+      "likeCount": "29.06万",
       "commentCount": "2574"
     },
     {
@@ -348,7 +348,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-05-25",
-      "viewCount": "4935万",
+      "viewCount": "4936万",
       "likeCount": "29.03万",
       "commentCount": "1.2万"
     },
@@ -370,7 +370,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-22",
-      "viewCount": "4303万",
+      "viewCount": "4305万",
       "likeCount": "28.96万",
       "commentCount": "4217"
     },
@@ -394,7 +394,7 @@
       "publishedAt": "2019-06-12",
       "viewCount": "1642万",
       "likeCount": "28.87万",
-      "commentCount": "6050"
+      "commentCount": "6051"
     },
     {
       "rank": 769,
@@ -436,8 +436,8 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-15",
-      "viewCount": "5333万",
-      "likeCount": "28.73万",
+      "viewCount": "5335万",
+      "likeCount": "28.74万",
       "commentCount": "2.6万"
     },
     {
@@ -458,7 +458,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-04-27",
-      "viewCount": "2839万",
+      "viewCount": "2840万",
       "likeCount": "28.72万",
       "commentCount": "7452"
     },
@@ -480,9 +480,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-05-14",
-      "viewCount": "3606万",
-      "likeCount": "28.7万",
-      "commentCount": "5254"
+      "viewCount": "3610万",
+      "likeCount": "28.72万",
+      "commentCount": "5255"
     },
     {
       "rank": 773,
@@ -502,8 +502,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-27",
-      "viewCount": "3757万",
-      "likeCount": "28.69万",
+      "viewCount": "3758万",
+      "likeCount": "28.7万",
       "commentCount": "5304"
     },
     {
@@ -524,9 +524,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-11-29",
-      "viewCount": "4983万",
-      "likeCount": "28.68万",
-      "commentCount": "1.3万"
+      "viewCount": "4987万",
+      "likeCount": "28.69万",
+      "commentCount": "1.2万"
     },
     {
       "rank": 775,
@@ -546,9 +546,9 @@
         "target": "_blank"
       },
       "publishedAt": "2017-12-22",
-      "viewCount": "1828万",
-      "likeCount": "28.66万",
-      "commentCount": "9309"
+      "viewCount": "1829万",
+      "likeCount": "28.67万",
+      "commentCount": "9310"
     },
     {
       "rank": 776,
@@ -568,7 +568,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-13",
-      "viewCount": "2315万",
+      "viewCount": "2316万",
       "likeCount": "28.55万",
       "commentCount": "5537"
     },
@@ -591,33 +591,11 @@
       },
       "publishedAt": "2017-12-04",
       "viewCount": "3325万",
-      "likeCount": "28.54万",
+      "likeCount": "28.55万",
       "commentCount": "1.8万"
     },
     {
       "rank": 778,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/HRL5Cp_mPeo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=HRL5Cp_mPeo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV】Creepy Nuts - 堕天(DATEN)",
-        "url": "https://www.youtube.com/watch?v=HRL5Cp_mPeo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Creepy Nuts",
-        "url": "https://www.youtube.com/channel/UCEc1YzMOSKKtJD7H-q71HgQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-08-04",
-      "viewCount": "3983万",
-      "likeCount": "28.48万",
-      "commentCount": "2755"
-    },
-    {
-      "rank": 779,
       "thumb": {
         "img": "https://i.ytimg.com/vi/wTc3jXDTNBo/default.jpg",
         "url": "https://www.youtube.com/watch?v=wTc3jXDTNBo",
@@ -634,9 +612,31 @@
         "target": "_blank"
       },
       "publishedAt": "2024-02-22",
-      "viewCount": "3663万",
-      "likeCount": "28.48万",
+      "viewCount": "3668万",
+      "likeCount": "28.5万",
       "commentCount": "1.1万"
+    },
+    {
+      "rank": 779,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/HRL5Cp_mPeo/default.jpg",
+        "url": "https://www.youtube.com/watch?v=HRL5Cp_mPeo",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV】Creepy Nuts - 堕天(DATEN)",
+        "url": "https://www.youtube.com/watch?v=HRL5Cp_mPeo",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Creepy Nuts",
+        "url": "https://www.youtube.com/channel/UCEc1YzMOSKKtJD7H-q71HgQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-08-04",
+      "viewCount": "3985万",
+      "likeCount": "28.48万",
+      "commentCount": "2756"
     },
     {
       "rank": 780,
@@ -678,7 +678,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-02",
-      "viewCount": "1451万",
+      "viewCount": "1452万",
       "likeCount": "28.28万",
       "commentCount": "4842"
     },
@@ -722,56 +722,12 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-31",
-      "viewCount": "5227万",
+      "viewCount": "5228万",
       "likeCount": "28.24万",
       "commentCount": "5152"
     },
     {
       "rank": 784,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/7MaF-bWeLGw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=7MaF-bWeLGw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "RADWIMPS - おしゃかしゃま  [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=7MaF-bWeLGw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "RADWIMPS",
-        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-07-02",
-      "viewCount": "5785万",
-      "likeCount": "28.21万",
-      "commentCount": "1.5万"
-    },
-    {
-      "rank": 785,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1a3b7ZpUcn4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1a3b7ZpUcn4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MY FIRST STORY × HYDE – “MUGEN” (from Anime “Demon Slayer: Kimetsu no Yaiba”) Official Music Video",
-        "url": "https://www.youtube.com/watch?v=1a3b7ZpUcn4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Sony Music (Japan)",
-        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-06-23",
-      "viewCount": "4492万",
-      "likeCount": "28.19万",
-      "commentCount": "1.1万"
-    },
-    {
-      "rank": 786,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ufc54RdoitM/default.jpg",
         "url": "https://www.youtube.com/watch?v=ufc54RdoitM",
@@ -788,9 +744,53 @@
         "target": "_blank"
       },
       "publishedAt": "2025-08-24",
-      "viewCount": "6516万",
-      "likeCount": "28.13万",
+      "viewCount": "6533万",
+      "likeCount": "28.22万",
       "commentCount": "2.3万"
+    },
+    {
+      "rank": 785,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/7MaF-bWeLGw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=7MaF-bWeLGw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "RADWIMPS - おしゃかしゃま  [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=7MaF-bWeLGw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "RADWIMPS",
+        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-07-02",
+      "viewCount": "5787万",
+      "likeCount": "28.22万",
+      "commentCount": "1.5万"
+    },
+    {
+      "rank": 786,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1a3b7ZpUcn4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1a3b7ZpUcn4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MY FIRST STORY × HYDE – “MUGEN” (from Anime “Demon Slayer: Kimetsu no Yaiba”) Official Music Video",
+        "url": "https://www.youtube.com/watch?v=1a3b7ZpUcn4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Sony Music (Japan)",
+        "url": "https://www.youtube.com/channel/UCCy_q-N7F2FOIZ6ZggHIAKg",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-06-23",
+      "viewCount": "4496万",
+      "likeCount": "28.2万",
+      "commentCount": "1.1万"
     },
     {
       "rank": 787,
@@ -810,8 +810,8 @@
         "target": "_blank"
       },
       "publishedAt": "2012-01-06",
-      "viewCount": "9560万",
-      "likeCount": "28.05万",
+      "viewCount": "9565万",
+      "likeCount": "28.07万",
       "commentCount": "1.2万"
     },
     {
@@ -832,9 +832,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-03-15",
-      "viewCount": "6305万",
+      "viewCount": "6306万",
       "likeCount": "28.02万",
-      "commentCount": "8434"
+      "commentCount": "8435"
     },
     {
       "rank": 789,
@@ -854,8 +854,8 @@
         "target": "_blank"
       },
       "publishedAt": "2023-02-01",
-      "viewCount": "3660万",
-      "likeCount": "28.01万",
+      "viewCount": "3662万",
+      "likeCount": "28.02万",
       "commentCount": "4917"
     },
     {
@@ -898,9 +898,9 @@
         "target": "_blank"
       },
       "publishedAt": "2017-07-13",
-      "viewCount": "4651万",
+      "viewCount": "4653万",
       "likeCount": "27.95万",
-      "commentCount": "5489"
+      "commentCount": "5490"
     },
     {
       "rank": 792,
@@ -920,9 +920,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-05-13",
-      "viewCount": "9187万",
+      "viewCount": "9188万",
       "likeCount": "27.92万",
-      "commentCount": "9050"
+      "commentCount": "9052"
     },
     {
       "rank": 793,
@@ -942,8 +942,8 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-13",
-      "viewCount": "3719万",
-      "likeCount": "27.9万",
+      "viewCount": "3720万",
+      "likeCount": "27.91万",
       "commentCount": "1.2万"
     },
     {
@@ -964,9 +964,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-10",
-      "viewCount": "1844万",
-      "likeCount": "27.88万",
-      "commentCount": "9078"
+      "viewCount": "1845万",
+      "likeCount": "27.89万",
+      "commentCount": "9077"
     },
     {
       "rank": 795,
@@ -986,8 +986,8 @@
         "target": "_blank"
       },
       "publishedAt": "2025-01-21",
-      "viewCount": "3537万",
-      "likeCount": "27.84万",
+      "viewCount": "3541万",
+      "likeCount": "27.85万",
       "commentCount": "1.2万"
     },
     {
@@ -1052,7 +1052,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-10-27",
-      "viewCount": "1億1592万",
+      "viewCount": "1億1593万",
       "likeCount": "27.44万",
       "commentCount": "1.6万"
     },
@@ -1074,9 +1074,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-09-03",
-      "viewCount": "3573万",
-      "likeCount": "27.38万",
-      "commentCount": "4417"
+      "viewCount": "3574万",
+      "likeCount": "27.39万",
+      "commentCount": "4419"
     },
     {
       "rank": 800,
@@ -1096,9 +1096,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-29",
-      "viewCount": "1981万",
+      "viewCount": "1982万",
       "likeCount": "27.37万",
-      "commentCount": "8619"
+      "commentCount": "8623"
     }
   ]
 }

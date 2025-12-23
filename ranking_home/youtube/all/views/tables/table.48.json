@@ -21,10 +21,33 @@
       "viewCount": "1501万",
       "likeCount": "2.7万",
       "commentCount": "1201",
-      "increment_d1": "885"
+      "increment_d1": "933"
     },
     {
       "rank": 2352,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/LbtQM793jn8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=LbtQM793jn8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Official髭男dism - 日常 [Official Video]",
+        "url": "https://www.youtube.com/watch?v=LbtQM793jn8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Official髭男dism",
+        "url": "https://www.youtube.com/channel/UC9M4B-fqveLyWPGNdSkam7g",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-09-19",
+      "viewCount": "1500万",
+      "likeCount": "9.3万",
+      "commentCount": "4512",
+      "increment_d1": "8028"
+    },
+    {
+      "rank": 2353,
       "thumb": {
         "img": "https://i.ytimg.com/vi/emA_RaqQn7c/default.jpg",
         "url": "https://www.youtube.com/watch?v=emA_RaqQn7c",
@@ -44,30 +67,7 @@
       "viewCount": "1500万",
       "likeCount": "7.1万",
       "commentCount": "4311",
-      "increment_d1": "691"
-    },
-    {
-      "rank": 2353,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/LbtQM793jn8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=LbtQM793jn8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Official髭男dism - 日常 [Official Video]",
-        "url": "https://www.youtube.com/watch?v=LbtQM793jn8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Official髭男dism",
-        "url": "https://www.youtube.com/channel/UC9M4B-fqveLyWPGNdSkam7g",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-09-19",
-      "viewCount": "1499万",
-      "likeCount": "9.3万",
-      "commentCount": "4508",
-      "increment_d1": "7513"
+      "increment_d1": "640"
     },
     {
       "rank": 2354,
@@ -89,8 +89,8 @@
       "publishedAt": "2015-03-04",
       "viewCount": "1498万",
       "likeCount": "7.3万",
-      "commentCount": "3686",
-      "increment_d1": "291"
+      "commentCount": "3685",
+      "increment_d1": "269"
     },
     {
       "rank": 2355,
@@ -113,7 +113,7 @@
       "viewCount": "1497万",
       "likeCount": "-",
       "commentCount": "3577",
-      "increment_d1": "1258"
+      "increment_d1": "1226"
     },
     {
       "rank": 2356,
@@ -136,7 +136,7 @@
       "viewCount": "1496万",
       "likeCount": "8.9万",
       "commentCount": "4807",
-      "increment_d1": "1409"
+      "increment_d1": "1416"
     },
     {
       "rank": 2357,
@@ -159,7 +159,7 @@
       "viewCount": "1494万",
       "likeCount": "33.9万",
       "commentCount": "8903",
-      "increment_d1": "960"
+      "increment_d1": "914"
     },
     {
       "rank": 2358,
@@ -182,7 +182,7 @@
       "viewCount": "1494万",
       "likeCount": "40万",
       "commentCount": "5.2万",
-      "increment_d1": "214"
+      "increment_d1": "231"
     },
     {
       "rank": 2359,
@@ -205,7 +205,7 @@
       "viewCount": "1494万",
       "likeCount": "9.9万",
       "commentCount": "2198",
-      "increment_d1": "1955"
+      "increment_d1": "1941"
     },
     {
       "rank": 2360,
@@ -228,33 +228,10 @@
       "viewCount": "1493万",
       "likeCount": "-",
       "commentCount": "686",
-      "increment_d1": "5075"
+      "increment_d1": "5291"
     },
     {
       "rank": 2361,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/EBwx7GBy2oM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=EBwx7GBy2oM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "UVERworld　『ナノ・セカンド』",
-        "url": "https://www.youtube.com/watch?v=EBwx7GBy2oM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "UVERworld Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCnziFQs4Ihms4UtxmVZP6cg",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-12-21",
-      "viewCount": "1491万",
-      "likeCount": "5.4万",
-      "commentCount": "2712",
-      "increment_d1": "1603"
-    },
-    {
-      "rank": 2362,
       "thumb": {
         "img": "https://i.ytimg.com/vi/W16ICI0MthM/default.jpg",
         "url": "https://www.youtube.com/watch?v=W16ICI0MthM",
@@ -274,7 +251,30 @@
       "viewCount": "1491万",
       "likeCount": "12.8万",
       "commentCount": "2887",
-      "increment_d1": "3320"
+      "increment_d1": "3357"
+    },
+    {
+      "rank": 2362,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/EBwx7GBy2oM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=EBwx7GBy2oM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "UVERworld　『ナノ・セカンド』",
+        "url": "https://www.youtube.com/watch?v=EBwx7GBy2oM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "UVERworld Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCnziFQs4Ihms4UtxmVZP6cg",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-12-21",
+      "viewCount": "1491万",
+      "likeCount": "5.4万",
+      "commentCount": "2713",
+      "increment_d1": "1796"
     },
     {
       "rank": 2363,
@@ -297,7 +297,7 @@
       "viewCount": "1491万",
       "likeCount": "8.5万",
       "commentCount": "1.7万",
-      "increment_d1": "5701"
+      "increment_d1": "6185"
     },
     {
       "rank": 2364,
@@ -317,10 +317,10 @@
         "target": "_blank"
       },
       "publishedAt": "2013-11-21",
-      "viewCount": "1489万",
+      "viewCount": "1490万",
       "likeCount": "2.3万",
-      "commentCount": "1031",
-      "increment_d1": "523"
+      "commentCount": "1030",
+      "increment_d1": "508"
     },
     {
       "rank": 2365,
@@ -343,7 +343,7 @@
       "viewCount": "1488万",
       "likeCount": "-",
       "commentCount": "1.1万",
-      "increment_d1": "1642"
+      "increment_d1": "1675"
     },
     {
       "rank": 2366,
@@ -366,7 +366,7 @@
       "viewCount": "1488万",
       "likeCount": "24万",
       "commentCount": "5047",
-      "increment_d1": "5803"
+      "increment_d1": "5968"
     },
     {
       "rank": 2367,
@@ -389,7 +389,7 @@
       "viewCount": "1486万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "1268"
+      "increment_d1": "1370"
     },
     {
       "rank": 2368,
@@ -412,7 +412,7 @@
       "viewCount": "1483万",
       "likeCount": "16.9万",
       "commentCount": "4064",
-      "increment_d1": "1047"
+      "increment_d1": "1068"
     },
     {
       "rank": 2369,
@@ -435,10 +435,33 @@
       "viewCount": "1483万",
       "likeCount": "3.1万",
       "commentCount": "4248",
-      "increment_d1": "1155"
+      "increment_d1": "1467"
     },
     {
       "rank": 2370,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/EYGGd2NKwtI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=EYGGd2NKwtI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "手嶌葵 - 森の小さなレストラン（Official Audio）",
+        "url": "https://www.youtube.com/watch?v=EYGGd2NKwtI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "手嶌葵",
+        "url": "https://www.youtube.com/channel/UCydOdaFQun43tPMSiSbbd_Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-04-11",
+      "viewCount": "1483万",
+      "likeCount": "52.8万",
+      "commentCount": "1.6万",
+      "increment_d1": "1.35万"
+    },
+    {
+      "rank": 2371,
       "thumb": {
         "img": "https://i.ytimg.com/vi/aXrU5zpy9Pc/default.jpg",
         "url": "https://www.youtube.com/watch?v=aXrU5zpy9Pc",
@@ -458,10 +481,10 @@
       "viewCount": "1481万",
       "likeCount": "14.3万",
       "commentCount": "2.9万",
-      "increment_d1": "719"
+      "increment_d1": "923"
     },
     {
-      "rank": 2371,
+      "rank": 2372,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ILz87f2iX7M/default.jpg",
         "url": "https://www.youtube.com/watch?v=ILz87f2iX7M",
@@ -481,30 +504,7 @@
       "viewCount": "1481万",
       "likeCount": "4.4万",
       "commentCount": "2815",
-      "increment_d1": "554"
-    },
-    {
-      "rank": 2372,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/EYGGd2NKwtI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=EYGGd2NKwtI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "手嶌葵 - 森の小さなレストラン（Official Audio）",
-        "url": "https://www.youtube.com/watch?v=EYGGd2NKwtI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "手嶌葵",
-        "url": "https://www.youtube.com/channel/UCydOdaFQun43tPMSiSbbd_Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-04-11",
-      "viewCount": "1481万",
-      "likeCount": "52.8万",
-      "commentCount": "1.6万",
-      "increment_d1": "1.34万"
+      "increment_d1": "617"
     },
     {
       "rank": 2373,
@@ -527,7 +527,7 @@
       "viewCount": "1480万",
       "likeCount": "17.4万",
       "commentCount": "4426",
-      "increment_d1": "2708"
+      "increment_d1": "2755"
     },
     {
       "rank": 2374,
@@ -550,7 +550,7 @@
       "viewCount": "1479万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "217"
+      "increment_d1": "215"
     },
     {
       "rank": 2375,
@@ -573,7 +573,7 @@
       "viewCount": "1479万",
       "likeCount": "-",
       "commentCount": "5208",
-      "increment_d1": "1280"
+      "increment_d1": "1149"
     },
     {
       "rank": 2376,
@@ -596,7 +596,7 @@
       "viewCount": "1478万",
       "likeCount": "20万",
       "commentCount": "2594",
-      "increment_d1": "3342"
+      "increment_d1": "3498"
     },
     {
       "rank": 2377,
@@ -618,8 +618,8 @@
       "publishedAt": "2018-08-30",
       "viewCount": "1476万",
       "likeCount": "21.9万",
-      "commentCount": "3637",
-      "increment_d1": "915"
+      "commentCount": "3636",
+      "increment_d1": "940"
     },
     {
       "rank": 2378,
@@ -642,10 +642,33 @@
       "viewCount": "1476万",
       "likeCount": "10.2万",
       "commentCount": "1.4万",
-      "increment_d1": "2644"
+      "increment_d1": "2804"
     },
     {
       "rank": 2379,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/vSOLtBy-xas/default.jpg",
+        "url": "https://www.youtube.com/watch?v=vSOLtBy-xas",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MOON CHILD / ESCAPE",
+        "url": "https://www.youtube.com/watch?v=vSOLtBy-xas",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-08-29",
+      "viewCount": "1475万",
+      "likeCount": "7.3万",
+      "commentCount": "3774",
+      "increment_d1": "1.22万"
+    },
+    {
+      "rank": 2380,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3_52f2_DioQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=3_52f2_DioQ",
@@ -665,10 +688,10 @@
       "viewCount": "1475万",
       "likeCount": "-",
       "commentCount": "3326",
-      "increment_d1": "988"
+      "increment_d1": "1195"
     },
     {
-      "rank": 2380,
+      "rank": 2381,
       "thumb": {
         "img": "https://i.ytimg.com/vi/EyI_xZKisUw/default.jpg",
         "url": "https://www.youtube.com/watch?v=EyI_xZKisUw",
@@ -688,10 +711,10 @@
       "viewCount": "1474万",
       "likeCount": "13万",
       "commentCount": "4021",
-      "increment_d1": "650"
+      "increment_d1": "686"
     },
     {
-      "rank": 2381,
+      "rank": 2382,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Wg0sFQ9Q3-Y/default.jpg",
         "url": "https://www.youtube.com/watch?v=Wg0sFQ9Q3-Y",
@@ -711,30 +734,7 @@
       "viewCount": "1474万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "761"
-    },
-    {
-      "rank": 2382,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/vSOLtBy-xas/default.jpg",
-        "url": "https://www.youtube.com/watch?v=vSOLtBy-xas",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MOON CHILD / ESCAPE",
-        "url": "https://www.youtube.com/watch?v=vSOLtBy-xas",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-08-29",
-      "viewCount": "1474万",
-      "likeCount": "7.3万",
-      "commentCount": "3766",
-      "increment_d1": "1.11万"
+      "increment_d1": "1015"
     },
     {
       "rank": 2383,
@@ -757,7 +757,7 @@
       "viewCount": "1474万",
       "likeCount": "16.1万",
       "commentCount": "2654",
-      "increment_d1": "1140"
+      "increment_d1": "1305"
     },
     {
       "rank": 2384,
@@ -780,7 +780,7 @@
       "viewCount": "1473万",
       "likeCount": "14.5万",
       "commentCount": "-",
-      "increment_d1": "147"
+      "increment_d1": "162"
     },
     {
       "rank": 2385,
@@ -803,10 +803,33 @@
       "viewCount": "1471万",
       "likeCount": "23万",
       "commentCount": "5561",
-      "increment_d1": "1553"
+      "increment_d1": "1620"
     },
     {
       "rank": 2386,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/KQZ75gaTktU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=KQZ75gaTktU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "西野カナ『もっと…』MV Full",
+        "url": "https://www.youtube.com/watch?v=KQZ75gaTktU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-08-27",
+      "viewCount": "1470万",
+      "likeCount": "6.2万",
+      "commentCount": "1122",
+      "increment_d1": "2.05万"
+    },
+    {
+      "rank": 2387,
       "thumb": {
         "img": "https://i.ytimg.com/vi/5whFTc6SaI8/default.jpg",
         "url": "https://www.youtube.com/watch?v=5whFTc6SaI8",
@@ -826,30 +849,7 @@
       "viewCount": "1470万",
       "likeCount": "14.3万",
       "commentCount": "3211",
-      "increment_d1": "2284"
-    },
-    {
-      "rank": 2387,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/KQZ75gaTktU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=KQZ75gaTktU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "西野カナ『もっと…』MV Full",
-        "url": "https://www.youtube.com/watch?v=KQZ75gaTktU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-08-27",
-      "viewCount": "1468万",
-      "likeCount": "6.1万",
-      "commentCount": "1120",
-      "increment_d1": "1.8万"
+      "increment_d1": "2313"
     },
     {
       "rank": 2388,
@@ -872,7 +872,7 @@
       "viewCount": "1468万",
       "likeCount": "3.5万",
       "commentCount": "1250",
-      "increment_d1": "166"
+      "increment_d1": "145"
     },
     {
       "rank": 2389,
@@ -895,7 +895,7 @@
       "viewCount": "1464万",
       "likeCount": "26.2万",
       "commentCount": "4513",
-      "increment_d1": "1114"
+      "increment_d1": "1105"
     },
     {
       "rank": 2390,
@@ -918,7 +918,7 @@
       "viewCount": "1463万",
       "likeCount": "5.3万",
       "commentCount": "3454",
-      "increment_d1": "774"
+      "increment_d1": "903"
     },
     {
       "rank": 2391,
@@ -941,7 +941,7 @@
       "viewCount": "1463万",
       "likeCount": "28.3万",
       "commentCount": "566",
-      "increment_d1": "445"
+      "increment_d1": "518"
     },
     {
       "rank": 2392,
@@ -963,8 +963,8 @@
       "publishedAt": "2014-07-23",
       "viewCount": "1462万",
       "likeCount": "5.4万",
-      "commentCount": "1309",
-      "increment_d1": "2611"
+      "commentCount": "1310",
+      "increment_d1": "2823"
     },
     {
       "rank": 2393,
@@ -987,10 +987,33 @@
       "viewCount": "1462万",
       "likeCount": "-",
       "commentCount": "1.5万",
-      "increment_d1": "1335"
+      "increment_d1": "1350"
     },
     {
       "rank": 2394,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/BnHyvXA7n7c/default.jpg",
+        "url": "https://www.youtube.com/watch?v=BnHyvXA7n7c",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "浜崎あゆみ / appears",
+        "url": "https://www.youtube.com/watch?v=BnHyvXA7n7c",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ayu",
+        "url": "https://www.youtube.com/channel/UC7eXWU3oN-w5tNtP7sgeeNg",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-10-02",
+      "viewCount": "1461万",
+      "likeCount": "-",
+      "commentCount": "-",
+      "increment_d1": "1.16万"
+    },
+    {
+      "rank": 2395,
       "thumb": {
         "img": "https://i.ytimg.com/vi/1422nca02G4/default.jpg",
         "url": "https://www.youtube.com/watch?v=1422nca02G4",
@@ -1010,10 +1033,10 @@
       "viewCount": "1461万",
       "likeCount": "4.1万",
       "commentCount": "1472",
-      "increment_d1": "560"
+      "increment_d1": "643"
     },
     {
-      "rank": 2395,
+      "rank": 2396,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Zf59GBy4564/default.jpg",
         "url": "https://www.youtube.com/watch?v=Zf59GBy4564",
@@ -1033,10 +1056,10 @@
       "viewCount": "1461万",
       "likeCount": "7.6万",
       "commentCount": "8万",
-      "increment_d1": "786"
+      "increment_d1": "822"
     },
     {
-      "rank": 2396,
+      "rank": 2397,
       "thumb": {
         "img": "https://i.ytimg.com/vi/2hTnAKvnDrA/default.jpg",
         "url": "https://www.youtube.com/watch?v=2hTnAKvnDrA",
@@ -1056,33 +1079,33 @@
       "viewCount": "1461万",
       "likeCount": "4.6万",
       "commentCount": "2444",
-      "increment_d1": "357"
-    },
-    {
-      "rank": 2397,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/BnHyvXA7n7c/default.jpg",
-        "url": "https://www.youtube.com/watch?v=BnHyvXA7n7c",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "浜崎あゆみ / appears",
-        "url": "https://www.youtube.com/watch?v=BnHyvXA7n7c",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ayu",
-        "url": "https://www.youtube.com/channel/UC7eXWU3oN-w5tNtP7sgeeNg",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-10-02",
-      "viewCount": "1460万",
-      "likeCount": "-",
-      "commentCount": "-",
-      "increment_d1": "1.09万"
+      "increment_d1": "412"
     },
     {
       "rank": 2398,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/SO51jyCs3PA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=SO51jyCs3PA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SOUL'd OUT　『TOKYO通信 ～Urbs Communication～』",
+        "url": "https://www.youtube.com/watch?v=SO51jyCs3PA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SOUL'd OUT オフィシャルYouTubeチャンネル",
+        "url": "https://www.youtube.com/channel/UC4Ws3VbmjUATvxsJlznaqdg",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-01-25",
+      "viewCount": "1460万",
+      "likeCount": "6.7万",
+      "commentCount": "4297",
+      "increment_d1": "5722"
+    },
+    {
+      "rank": 2399,
       "thumb": {
         "img": "https://i.ytimg.com/vi/2zRTrArYs4k/default.jpg",
         "url": "https://www.youtube.com/watch?v=2zRTrArYs4k",
@@ -1102,30 +1125,7 @@
       "viewCount": "1460万",
       "likeCount": "6.6万",
       "commentCount": "4024",
-      "increment_d1": "457"
-    },
-    {
-      "rank": 2399,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/SO51jyCs3PA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=SO51jyCs3PA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SOUL'd OUT　『TOKYO通信 ～Urbs Communication～』",
-        "url": "https://www.youtube.com/watch?v=SO51jyCs3PA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SOUL'd OUT オフィシャルYouTubeチャンネル",
-        "url": "https://www.youtube.com/channel/UC4Ws3VbmjUATvxsJlznaqdg",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-01-25",
-      "viewCount": "1460万",
-      "likeCount": "6.7万",
-      "commentCount": "4295",
-      "increment_d1": "5643"
+      "increment_d1": "445"
     },
     {
       "rank": 2400,
@@ -1148,7 +1148,7 @@
       "viewCount": "1460万",
       "likeCount": "13.8万",
       "commentCount": "3561",
-      "increment_d1": "1345"
+      "increment_d1": "1580"
     }
   ]
 }

@@ -64,7 +64,7 @@
       "publishedAt": "2010-09-08",
       "viewCount": "1063万",
       "likeCount": "2.71万",
-      "commentCount": "2229"
+      "commentCount": "2231"
     },
     {
       "rank": 2804,
@@ -172,7 +172,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-06-18",
-      "viewCount": "1351万",
+      "viewCount": "1352万",
       "likeCount": "2.65万",
       "commentCount": "1170"
     },
@@ -326,7 +326,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-09",
-      "viewCount": "3727万",
+      "viewCount": "3728万",
       "likeCount": "2.6万",
       "commentCount": "-"
     },
@@ -348,12 +348,34 @@
         "target": "_blank"
       },
       "publishedAt": "2009-04-17",
-      "viewCount": "1343万",
+      "viewCount": "1344万",
       "likeCount": "2.6万",
       "commentCount": "1261"
     },
     {
       "rank": 2817,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/B1DGRJeUHwU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=B1DGRJeUHwU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "家路 (ON THE ROAD 2005-2007 \"My First Love\")",
+        "url": "https://www.youtube.com/watch?v=B1DGRJeUHwU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "浜田省吾 Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCS4Rrb_cE8F_Jo1XI4bNQdA",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-12-03",
+      "viewCount": "1318万",
+      "likeCount": "2.57万",
+      "commentCount": "2002"
+    },
+    {
+      "rank": 2818,
       "thumb": {
         "img": "https://i.ytimg.com/vi/_0vRVFudOg4/default.jpg",
         "url": "https://www.youtube.com/watch?v=_0vRVFudOg4",
@@ -373,28 +395,6 @@
       "viewCount": "1343万",
       "likeCount": "2.57万",
       "commentCount": "5108"
-    },
-    {
-      "rank": 2818,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/B1DGRJeUHwU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=B1DGRJeUHwU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "家路 (ON THE ROAD 2005-2007 \"My First Love\")",
-        "url": "https://www.youtube.com/watch?v=B1DGRJeUHwU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "浜田省吾 Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCS4Rrb_cE8F_Jo1XI4bNQdA",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-12-03",
-      "viewCount": "1318万",
-      "likeCount": "2.57万",
-      "commentCount": "2001"
     },
     {
       "rank": 2819,
@@ -465,6 +465,28 @@
     {
       "rank": 2822,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/lRAc3Q_foH0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=lRAc3Q_foH0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "GLAY / BE WITH YOU",
+        "url": "https://www.youtube.com/watch?v=lRAc3Q_foH0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "GLAY",
+        "url": "https://www.youtube.com/channel/UC1DqlLj1onQhBfxW81OgQTw",
+        "target": "_blank"
+      },
+      "publishedAt": "2010-04-05",
+      "viewCount": "1260万",
+      "likeCount": "2.5万",
+      "commentCount": "1176"
+    },
+    {
+      "rank": 2823,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/fBg2e5HabdI/default.jpg",
         "url": "https://www.youtube.com/watch?v=fBg2e5HabdI",
         "target": "_blank"
@@ -485,28 +507,6 @@
       "commentCount": "1106"
     },
     {
-      "rank": 2823,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/lRAc3Q_foH0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=lRAc3Q_foH0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "GLAY / BE WITH YOU",
-        "url": "https://www.youtube.com/watch?v=lRAc3Q_foH0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "GLAY",
-        "url": "https://www.youtube.com/channel/UC1DqlLj1onQhBfxW81OgQTw",
-        "target": "_blank"
-      },
-      "publishedAt": "2010-04-05",
-      "viewCount": "1260万",
-      "likeCount": "2.5万",
-      "commentCount": "1175"
-    },
-    {
       "rank": 2824,
       "thumb": {
         "img": "https://i.ytimg.com/vi/A2JZozYJgt0/default.jpg",
@@ -524,7 +524,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-06-01",
-      "viewCount": "2442万",
+      "viewCount": "2443万",
       "likeCount": "2.49万",
       "commentCount": "-"
     },
@@ -548,7 +548,7 @@
       "publishedAt": "2013-05-28",
       "viewCount": "1072万",
       "likeCount": "2.48万",
-      "commentCount": "1464"
+      "commentCount": "1465"
     },
     {
       "rank": 2826,
@@ -570,7 +570,7 @@
       "publishedAt": "2012-05-25",
       "viewCount": "1205万",
       "likeCount": "2.48万",
-      "commentCount": "1508"
+      "commentCount": "1503"
     },
     {
       "rank": 2827,
@@ -656,9 +656,9 @@
         "target": "_blank"
       },
       "publishedAt": "2009-04-08",
-      "viewCount": "1054万",
+      "viewCount": "1055万",
       "likeCount": "2.39万",
-      "commentCount": "1612"
+      "commentCount": "1610"
     },
     {
       "rank": 2831,
@@ -722,9 +722,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-11-21",
-      "viewCount": "1489万",
+      "viewCount": "1490万",
       "likeCount": "2.35万",
-      "commentCount": "1031"
+      "commentCount": "1030"
     },
     {
       "rank": 2834,
@@ -744,7 +744,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-06-11",
-      "viewCount": "1028万",
+      "viewCount": "1029万",
       "likeCount": "2.34万",
       "commentCount": "1507"
     },
@@ -766,9 +766,9 @@
         "target": "_blank"
       },
       "publishedAt": "2008-06-03",
-      "viewCount": "1299万",
+      "viewCount": "1300万",
       "likeCount": "2.32万",
-      "commentCount": "1579"
+      "commentCount": "1581"
     },
     {
       "rank": 2836,
@@ -790,7 +790,7 @@
       "publishedAt": "2013-05-28",
       "viewCount": "1089万",
       "likeCount": "2.32万",
-      "commentCount": "924"
+      "commentCount": "925"
     },
     {
       "rank": 2837,
@@ -876,9 +876,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-06-13",
-      "viewCount": "1294万",
+      "viewCount": "1295万",
       "likeCount": "2.24万",
-      "commentCount": "523"
+      "commentCount": "525"
     },
     {
       "rank": 2841,
@@ -942,7 +942,7 @@
         "target": "_blank"
       },
       "publishedAt": "2008-12-16",
-      "viewCount": "1055万",
+      "viewCount": "1056万",
       "likeCount": "2.16万",
       "commentCount": "726"
     },
@@ -966,7 +966,7 @@
       "publishedAt": "2021-07-16",
       "viewCount": "1581万",
       "likeCount": "2.16万",
-      "commentCount": "426"
+      "commentCount": "427"
     },
     {
       "rank": 2845,
@@ -1098,7 +1098,7 @@
       "publishedAt": "2011-08-30",
       "viewCount": "1019万",
       "likeCount": "2.07万",
-      "commentCount": "2731"
+      "commentCount": "2732"
     }
   ]
 }

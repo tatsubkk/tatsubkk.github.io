@@ -3,6 +3,28 @@
     {
       "rank": 1701,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/38bhs0MnvxI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=38bhs0MnvxI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "SCANDAL 「瞬間センチメンタル」/ Shunkan Sentimental ‐Music Video",
+        "url": "https://www.youtube.com/watch?v=38bhs0MnvxI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "SCANDAL YouTube Official Channel",
+        "url": "https://www.youtube.com/channel/UCRgOqI54g1VqnQnwIB6WPSA",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-11-19",
+      "viewCount": "2159万",
+      "likeCount": "12万",
+      "commentCount": "3876"
+    },
+    {
+      "rank": 1702,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/Vho5jBUfR28/default.jpg",
         "url": "https://www.youtube.com/watch?v=Vho5jBUfR28",
         "target": "_blank"
@@ -20,10 +42,10 @@
       "publishedAt": "2016-04-28",
       "viewCount": "2319万",
       "likeCount": "11.99万",
-      "commentCount": "3849"
+      "commentCount": "3850"
     },
     {
-      "rank": 1702,
+      "rank": 1703,
       "thumb": {
         "img": "https://i.ytimg.com/vi/aIXcSB9fSyo/default.jpg",
         "url": "https://www.youtube.com/watch?v=aIXcSB9fSyo",
@@ -40,31 +62,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-04-15",
-      "viewCount": "1370万",
+      "viewCount": "1371万",
       "likeCount": "11.99万",
       "commentCount": "4.2万"
-    },
-    {
-      "rank": 1703,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/x1FV6IrjZCY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=x1FV6IrjZCY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "LiSA『紅蓮華』-MUSiC CLiP-（アニメ「鬼滅の刃」竈門炭治郎 立志編 オープニングテーマ）",
-        "url": "https://www.youtube.com/watch?v=x1FV6IrjZCY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "LiSA Official YouTube",
-        "url": "https://www.youtube.com/channel/UCqEfdEvLG5oQWNYlDQrGlKw",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-12-30",
-      "viewCount": "2420万",
-      "likeCount": "11.99万",
-      "commentCount": "2724"
     },
     {
       "rank": 1704,
@@ -106,9 +106,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-10",
-      "viewCount": "4569万",
+      "viewCount": "4572万",
       "likeCount": "11.96万",
-      "commentCount": "5142"
+      "commentCount": "5145"
     },
     {
       "rank": 1706,
@@ -128,9 +128,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-22",
-      "viewCount": "2024万",
+      "viewCount": "2025万",
       "likeCount": "11.93万",
-      "commentCount": "3667"
+      "commentCount": "3670"
     },
     {
       "rank": 1707,
@@ -150,9 +150,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-26",
-      "viewCount": "2203万",
+      "viewCount": "2204万",
       "likeCount": "11.92万",
-      "commentCount": "2198"
+      "commentCount": "2197"
     },
     {
       "rank": 1708,
@@ -223,28 +223,6 @@
     {
       "rank": 1711,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/VxR_BYPG7v4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=VxR_BYPG7v4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "TVアニメ『リコリス・リコイル』ノンテロップOPムービー｜ClariS「ALIVE」",
-        "url": "https://www.youtube.com/watch?v=VxR_BYPG7v4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "アニプレックス チャンネル",
-        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-07-09",
-      "viewCount": "1202万",
-      "likeCount": "11.9万",
-      "commentCount": "2944"
-    },
-    {
-      "rank": 1712,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/-_PKhPMXMDY/default.jpg",
         "url": "https://www.youtube.com/watch?v=-_PKhPMXMDY",
         "target": "_blank"
@@ -260,12 +238,56 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-29",
-      "viewCount": "1886万",
+      "viewCount": "1899万",
+      "likeCount": "11.91万",
+      "commentCount": "2216"
+    },
+    {
+      "rank": 1712,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/VxR_BYPG7v4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=VxR_BYPG7v4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "TVアニメ『リコリス・リコイル』ノンテロップOPムービー｜ClariS「ALIVE」",
+        "url": "https://www.youtube.com/watch?v=VxR_BYPG7v4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "アニプレックス チャンネル",
+        "url": "https://www.youtube.com/channel/UC14QT5j2nQI8lKBCGtrrBQA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-07-09",
+      "viewCount": "1203万",
       "likeCount": "11.9万",
-      "commentCount": "2214"
+      "commentCount": "2943"
     },
     {
       "rank": 1713,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/g2GMVhVXdZs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=g2GMVhVXdZs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "King Gnu - 一途 (Live Tour 2021 AW Tour Final at YOYOGI NATIONAL STADIUM FIRST GYMNASIUM)",
+        "url": "https://www.youtube.com/watch?v=g2GMVhVXdZs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "King Gnu official YouTube channel",
+        "url": "https://www.youtube.com/channel/UCkB8HnJSDSJ2hkLQFUc-YrQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-03-10",
+      "viewCount": "1178万",
+      "likeCount": "11.89万",
+      "commentCount": "1838"
+    },
+    {
+      "rank": 1714,
       "thumb": {
         "img": "https://i.ytimg.com/vi/s8_vqfjYpBg/default.jpg",
         "url": "https://www.youtube.com/watch?v=s8_vqfjYpBg",
@@ -284,29 +306,7 @@
       "publishedAt": "2013-06-18",
       "viewCount": "1361万",
       "likeCount": "11.88万",
-      "commentCount": "5256"
-    },
-    {
-      "rank": 1714,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/g2GMVhVXdZs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=g2GMVhVXdZs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "King Gnu - 一途 (Live Tour 2021 AW Tour Final at YOYOGI NATIONAL STADIUM FIRST GYMNASIUM)",
-        "url": "https://www.youtube.com/watch?v=g2GMVhVXdZs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "King Gnu official YouTube channel",
-        "url": "https://www.youtube.com/channel/UCkB8HnJSDSJ2hkLQFUc-YrQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-03-10",
-      "viewCount": "1178万",
-      "likeCount": "11.88万",
-      "commentCount": "1838"
+      "commentCount": "5257"
     },
     {
       "rank": 1715,
@@ -326,9 +326,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-03-14",
-      "viewCount": "1999万",
+      "viewCount": "2000万",
       "likeCount": "11.87万",
-      "commentCount": "4424"
+      "commentCount": "4428"
     },
     {
       "rank": 1716,
@@ -348,9 +348,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-09-14",
-      "viewCount": "2488万",
+      "viewCount": "2489万",
       "likeCount": "11.87万",
-      "commentCount": "3546"
+      "commentCount": "3553"
     },
     {
       "rank": 1717,
@@ -393,7 +393,7 @@
       },
       "publishedAt": "2020-09-19",
       "viewCount": "1353万",
-      "likeCount": "11.85万",
+      "likeCount": "11.86万",
       "commentCount": "1659"
     },
     {
@@ -414,7 +414,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-08",
-      "viewCount": "1773万",
+      "viewCount": "1774万",
       "likeCount": "11.85万",
       "commentCount": "4215"
     },
@@ -436,9 +436,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-19",
-      "viewCount": "1897万",
+      "viewCount": "1898万",
       "likeCount": "11.85万",
-      "commentCount": "1530"
+      "commentCount": "1531"
     },
     {
       "rank": 1721,
@@ -482,7 +482,7 @@
       "publishedAt": "2016-02-03",
       "viewCount": "1197万",
       "likeCount": "11.81万",
-      "commentCount": "6898"
+      "commentCount": "6902"
     },
     {
       "rank": 1723,
@@ -524,8 +524,8 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-10",
-      "viewCount": "2292万",
-      "likeCount": "11.78万",
+      "viewCount": "2294万",
+      "likeCount": "11.79万",
       "commentCount": "2717"
     },
     {
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-04-06",
-      "viewCount": "1800万",
+      "viewCount": "1801万",
       "likeCount": "11.76万",
       "commentCount": "6259"
     },
@@ -614,7 +614,7 @@
       "publishedAt": "2019-04-22",
       "viewCount": "1225万",
       "likeCount": "11.72万",
-      "commentCount": "3878"
+      "commentCount": "3879"
     },
     {
       "rank": 1729,
@@ -634,7 +634,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-01-19",
-      "viewCount": "1380万",
+      "viewCount": "1381万",
       "likeCount": "11.71万",
       "commentCount": "1128"
     },
@@ -657,11 +657,33 @@
       },
       "publishedAt": "2023-01-19",
       "viewCount": "1695万",
-      "likeCount": "11.69万",
-      "commentCount": "1167"
+      "likeCount": "11.7万",
+      "commentCount": "1168"
     },
     {
       "rank": 1731,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/WWIYBv3mYio/default.jpg",
+        "url": "https://www.youtube.com/watch?v=WWIYBv3mYio",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV】ZOC『チュープリ』Music Video",
+        "url": "https://www.youtube.com/watch?v=WWIYBv3mYio",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ZOCX",
+        "url": "https://www.youtube.com/channel/UCShhCnBdAL5nYpKrbL9JOTA",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-04-30",
+      "viewCount": "1237万",
+      "likeCount": "11.69万",
+      "commentCount": "-"
+    },
+    {
+      "rank": 1732,
       "thumb": {
         "img": "https://i.ytimg.com/vi/VV7LMEbd1Es/default.jpg",
         "url": "https://www.youtube.com/watch?v=VV7LMEbd1Es",
@@ -683,29 +705,29 @@
       "commentCount": "1万"
     },
     {
-      "rank": 1732,
+      "rank": 1733,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/WWIYBv3mYio/default.jpg",
-        "url": "https://www.youtube.com/watch?v=WWIYBv3mYio",
+        "img": "https://i.ytimg.com/vi/LAoHMWwwHs4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=LAoHMWwwHs4",
         "target": "_blank"
       },
       "title": {
-        "text": "【MV】ZOC『チュープリ』Music Video",
-        "url": "https://www.youtube.com/watch?v=WWIYBv3mYio",
+        "text": "KinKi Kids「愛のかたまり」【from KinKi Kids Concert 2023-2024 ～Promise Place～】",
+        "url": "https://www.youtube.com/watch?v=LAoHMWwwHs4",
         "target": "_blank"
       },
       "channel": {
-        "text": "ZOCX",
-        "url": "https://www.youtube.com/channel/UCShhCnBdAL5nYpKrbL9JOTA",
+        "text": "KinKi Kids",
+        "url": "https://www.youtube.com/channel/UCexu4C8IfBuC5CH7R4PLHFQ",
         "target": "_blank"
       },
-      "publishedAt": "2019-04-30",
-      "viewCount": "1236万",
-      "likeCount": "11.69万",
-      "commentCount": "-"
+      "publishedAt": "2024-07-21",
+      "viewCount": "2899万",
+      "likeCount": "11.67万",
+      "commentCount": "4042"
     },
     {
-      "rank": 1733,
+      "rank": 1734,
       "thumb": {
         "img": "https://i.ytimg.com/vi/rh517TMtVbo/default.jpg",
         "url": "https://www.youtube.com/watch?v=rh517TMtVbo",
@@ -727,29 +749,29 @@
       "commentCount": "2777"
     },
     {
-      "rank": 1734,
+      "rank": 1735,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/LAoHMWwwHs4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=LAoHMWwwHs4",
+        "img": "https://i.ytimg.com/vi/5cvXmuuC1GI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=5cvXmuuC1GI",
         "target": "_blank"
       },
       "title": {
-        "text": "KinKi Kids「愛のかたまり」【from KinKi Kids Concert 2023-2024 ～Promise Place～】",
-        "url": "https://www.youtube.com/watch?v=LAoHMWwwHs4",
+        "text": "SUPER BEAVER「人として」LIVE MV",
+        "url": "https://www.youtube.com/watch?v=5cvXmuuC1GI",
         "target": "_blank"
       },
       "channel": {
-        "text": "KinKi Kids",
-        "url": "https://www.youtube.com/channel/UCexu4C8IfBuC5CH7R4PLHFQ",
+        "text": "SUPER BEAVER Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCKYG5wIg3B_QuwyiLXgGklA",
         "target": "_blank"
       },
-      "publishedAt": "2024-07-21",
-      "viewCount": "2893万",
+      "publishedAt": "2019-06-18",
+      "viewCount": "1401万",
       "likeCount": "11.66万",
-      "commentCount": "4037"
+      "commentCount": "2291"
     },
     {
-      "rank": 1735,
+      "rank": 1736,
       "thumb": {
         "img": "https://i.ytimg.com/vi/NhI2mp-WIck/default.jpg",
         "url": "https://www.youtube.com/watch?v=NhI2mp-WIck",
@@ -769,28 +791,6 @@
       "viewCount": "2545万",
       "likeCount": "11.66万",
       "commentCount": "3497"
-    },
-    {
-      "rank": 1736,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/5cvXmuuC1GI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=5cvXmuuC1GI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "SUPER BEAVER「人として」LIVE MV",
-        "url": "https://www.youtube.com/watch?v=5cvXmuuC1GI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "SUPER BEAVER Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCKYG5wIg3B_QuwyiLXgGklA",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-06-18",
-      "viewCount": "1400万",
-      "likeCount": "11.66万",
-      "commentCount": "2292"
     },
     {
       "rank": 1737,
@@ -856,10 +856,32 @@
       "publishedAt": "2012-04-09",
       "viewCount": "1540万",
       "likeCount": "11.62万",
-      "commentCount": "2744"
+      "commentCount": "2745"
     },
     {
       "rank": 1740,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/5TR1wJCimyk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=5TR1wJCimyk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "夏川りみ「涙そうそう」Music Video",
+        "url": "https://www.youtube.com/watch?v=5TR1wJCimyk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "夏川りみ",
+        "url": "https://www.youtube.com/channel/UCHiu-iPA1g8YH4O05ChPPtQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-08-04",
+      "viewCount": "2945万",
+      "likeCount": "11.58万",
+      "commentCount": "3590"
+    },
+    {
+      "rank": 1741,
       "thumb": {
         "img": "https://i.ytimg.com/vi/dnJ4BQCW2ZY/default.jpg",
         "url": "https://www.youtube.com/watch?v=dnJ4BQCW2ZY",
@@ -881,29 +903,29 @@
       "commentCount": "4273"
     },
     {
-      "rank": 1741,
+      "rank": 1742,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/5TR1wJCimyk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=5TR1wJCimyk",
+        "img": "https://i.ytimg.com/vi/1Bk9YpwWEsg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1Bk9YpwWEsg",
         "target": "_blank"
       },
       "title": {
-        "text": "夏川りみ「涙そうそう」Music Video",
-        "url": "https://www.youtube.com/watch?v=5TR1wJCimyk",
+        "text": "WANDS 「世界が終るまでは… [WANDS第５期ver.]」 MV",
+        "url": "https://www.youtube.com/watch?v=1Bk9YpwWEsg",
         "target": "_blank"
       },
       "channel": {
-        "text": "夏川りみ",
-        "url": "https://www.youtube.com/channel/UCHiu-iPA1g8YH4O05ChPPtQ",
+        "text": "WANDS Official",
+        "url": "https://www.youtube.com/channel/UCYvCFfw4_uC9GX40K7Uo-kg",
         "target": "_blank"
       },
-      "publishedAt": "2020-08-04",
-      "viewCount": "2943万",
+      "publishedAt": "2022-12-13",
+      "viewCount": "2240万",
       "likeCount": "11.58万",
-      "commentCount": "3586"
+      "commentCount": "6581"
     },
     {
-      "rank": 1742,
+      "rank": 1743,
       "thumb": {
         "img": "https://i.ytimg.com/vi/NOjmN-ZHlBQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=NOjmN-ZHlBQ",
@@ -925,28 +947,6 @@
       "commentCount": "3144"
     },
     {
-      "rank": 1743,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1Bk9YpwWEsg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1Bk9YpwWEsg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "WANDS 「世界が終るまでは… [WANDS第５期ver.]」 MV",
-        "url": "https://www.youtube.com/watch?v=1Bk9YpwWEsg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "WANDS Official",
-        "url": "https://www.youtube.com/channel/UCYvCFfw4_uC9GX40K7Uo-kg",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-12-13",
-      "viewCount": "2238万",
-      "likeCount": "11.57万",
-      "commentCount": "6577"
-    },
-    {
       "rank": 1744,
       "thumb": {
         "img": "https://i.ytimg.com/vi/piTrK16fjjc/default.jpg",
@@ -966,7 +966,7 @@
       "publishedAt": "2019-04-30",
       "viewCount": "1373万",
       "likeCount": "11.57万",
-      "commentCount": "9357"
+      "commentCount": "9356"
     },
     {
       "rank": 1745,
@@ -986,7 +986,7 @@
         "target": "_blank"
       },
       "publishedAt": "2025-05-05",
-      "viewCount": "1286万",
+      "viewCount": "1287万",
       "likeCount": "11.57万",
       "commentCount": "1.8万"
     },
@@ -1052,8 +1052,8 @@
         "target": "_blank"
       },
       "publishedAt": "2020-11-11",
-      "viewCount": "3839万",
-      "likeCount": "11.51万",
+      "viewCount": "3841万",
+      "likeCount": "11.52万",
       "commentCount": "4915"
     },
     {
@@ -1074,9 +1074,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-11-01",
-      "viewCount": "2662万",
+      "viewCount": "2664万",
       "likeCount": "11.51万",
-      "commentCount": "2036"
+      "commentCount": "2037"
     },
     {
       "rank": 1750,
