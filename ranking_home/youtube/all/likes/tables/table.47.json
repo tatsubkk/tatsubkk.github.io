@@ -42,10 +42,32 @@
       "publishedAt": "2018-09-01",
       "viewCount": "1161万",
       "likeCount": "6.79万",
-      "commentCount": "3737"
+      "commentCount": "3738"
     },
     {
       "rank": 2303,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/KD59LJX2r38/default.jpg",
+        "url": "https://www.youtube.com/watch?v=KD59LJX2r38",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "m-flo loves melody. & Ryohei / miss you",
+        "url": "https://www.youtube.com/watch?v=KD59LJX2r38",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "m-flo",
+        "url": "https://www.youtube.com/channel/UCA-uTlDQLuBwwMc5xGS9deQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-04-09",
+      "viewCount": "1619万",
+      "likeCount": "6.78万",
+      "commentCount": "3588"
+    },
+    {
+      "rank": 2304,
       "thumb": {
         "img": "https://i.ytimg.com/vi/lBFI99Y14mc/default.jpg",
         "url": "https://www.youtube.com/watch?v=lBFI99Y14mc",
@@ -67,7 +89,7 @@
       "commentCount": "1539"
     },
     {
-      "rank": 2304,
+      "rank": 2305,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Q6pTQd24iLs/default.jpg",
         "url": "https://www.youtube.com/watch?v=Q6pTQd24iLs",
@@ -89,28 +111,6 @@
       "commentCount": "2634"
     },
     {
-      "rank": 2305,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/KD59LJX2r38/default.jpg",
-        "url": "https://www.youtube.com/watch?v=KD59LJX2r38",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "m-flo loves melody. & Ryohei / miss you",
-        "url": "https://www.youtube.com/watch?v=KD59LJX2r38",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "m-flo",
-        "url": "https://www.youtube.com/channel/UCA-uTlDQLuBwwMc5xGS9deQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-04-09",
-      "viewCount": "1618万",
-      "likeCount": "6.77万",
-      "commentCount": "3584"
-    },
-    {
       "rank": 2306,
       "thumb": {
         "img": "https://i.ytimg.com/vi/VTE50fapII8/default.jpg",
@@ -128,7 +128,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-12-01",
-      "viewCount": "1175万",
+      "viewCount": "1176万",
       "likeCount": "6.77万",
       "commentCount": "9555"
     },
@@ -157,6 +157,28 @@
     {
       "rank": 2308,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/OzGVz1ClxIc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=OzGVz1ClxIc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow halation",
+        "url": "https://www.youtube.com/watch?v=OzGVz1ClxIc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "μ's - Topic",
+        "url": "https://www.youtube.com/channel/UCLLrOsGIMTOVN8pbXvMGz4g",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-09-17",
+      "viewCount": "1179万",
+      "likeCount": "6.77万",
+      "commentCount": "638"
+    },
+    {
+      "rank": 2309,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/WIdWXhV33vs/default.jpg",
         "url": "https://www.youtube.com/watch?v=WIdWXhV33vs",
         "target": "_blank"
@@ -174,10 +196,10 @@
       "publishedAt": "2012-12-05",
       "viewCount": "1891万",
       "likeCount": "6.76万",
-      "commentCount": "4430"
+      "commentCount": "4431"
     },
     {
-      "rank": 2309,
+      "rank": 2310,
       "thumb": {
         "img": "https://i.ytimg.com/vi/pUDI2x5Y0Wo/default.jpg",
         "url": "https://www.youtube.com/watch?v=pUDI2x5Y0Wo",
@@ -197,28 +219,6 @@
       "viewCount": "1542万",
       "likeCount": "6.76万",
       "commentCount": "4716"
-    },
-    {
-      "rank": 2310,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/OzGVz1ClxIc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=OzGVz1ClxIc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow halation",
-        "url": "https://www.youtube.com/watch?v=OzGVz1ClxIc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "μ's - Topic",
-        "url": "https://www.youtube.com/channel/UCLLrOsGIMTOVN8pbXvMGz4g",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-09-17",
-      "viewCount": "1178万",
-      "likeCount": "6.75万",
-      "commentCount": "626"
     },
     {
       "rank": 2311,
@@ -262,7 +262,7 @@
       "publishedAt": "2018-07-06",
       "viewCount": "1503万",
       "likeCount": "6.73万",
-      "commentCount": "3760"
+      "commentCount": "3759"
     },
     {
       "rank": 2313,
@@ -326,9 +326,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-01-25",
-      "viewCount": "1460万",
+      "viewCount": "1461万",
       "likeCount": "6.71万",
-      "commentCount": "4297"
+      "commentCount": "4300"
     },
     {
       "rank": 2316,
@@ -460,7 +460,7 @@
       "publishedAt": "2014-01-26",
       "viewCount": "1027万",
       "likeCount": "6.61万",
-      "commentCount": "1790"
+      "commentCount": "1792"
     },
     {
       "rank": 2322,
@@ -482,7 +482,7 @@
       "publishedAt": "2013-03-24",
       "viewCount": "1792万",
       "likeCount": "6.61万",
-      "commentCount": "3329"
+      "commentCount": "3330"
     },
     {
       "rank": 2323,
@@ -502,7 +502,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-11-07",
-      "viewCount": "1806万",
+      "viewCount": "1807万",
       "likeCount": "6.6万",
       "commentCount": "2571"
     },
@@ -524,34 +524,12 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-07",
-      "viewCount": "1380万",
+      "viewCount": "1381万",
       "likeCount": "6.59万",
-      "commentCount": "2367"
+      "commentCount": "2369"
     },
     {
       "rank": 2325,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/aMOa320erOQ/default.jpg",
-        "url": "https://www.youtube.com/watch?v=aMOa320erOQ",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "INI | 'SPECTRA' Official MV",
-        "url": "https://www.youtube.com/watch?v=aMOa320erOQ",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "INI",
-        "url": "https://www.youtube.com/channel/UCc-itdQHxLvUlPrDxIiSJrA",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-11-30",
-      "viewCount": "3379万",
-      "likeCount": "6.58万",
-      "commentCount": "1.7万"
-    },
-    {
-      "rank": 2326,
       "thumb": {
         "img": "https://i.ytimg.com/vi/zIRRGKMLaJE/default.jpg",
         "url": "https://www.youtube.com/watch?v=zIRRGKMLaJE",
@@ -568,12 +546,56 @@
         "target": "_blank"
       },
       "publishedAt": "2015-11-30",
-      "viewCount": "2054万",
-      "likeCount": "6.57万",
-      "commentCount": "3476"
+      "viewCount": "2057万",
+      "likeCount": "6.58万",
+      "commentCount": "3485"
+    },
+    {
+      "rank": 2326,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/aMOa320erOQ/default.jpg",
+        "url": "https://www.youtube.com/watch?v=aMOa320erOQ",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "INI | 'SPECTRA' Official MV",
+        "url": "https://www.youtube.com/watch?v=aMOa320erOQ",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "INI",
+        "url": "https://www.youtube.com/channel/UCc-itdQHxLvUlPrDxIiSJrA",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-11-30",
+      "viewCount": "3380万",
+      "likeCount": "6.58万",
+      "commentCount": "1.7万"
     },
     {
       "rank": 2327,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/yZt2XEjsduc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=yZt2XEjsduc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【公式】槇原敬之「冬がはじまるよ」(MV)【4thシングル】 (1991年）Noriyuki Makihara/ Fuyu Ga Hajimaruyo",
+        "url": "https://www.youtube.com/watch?v=yZt2XEjsduc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Warner Music Japan",
+        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-11-14",
+      "viewCount": "1975万",
+      "likeCount": "6.57万",
+      "commentCount": "4338"
+    },
+    {
+      "rank": 2328,
       "thumb": {
         "img": "https://i.ytimg.com/vi/2Dhlaz7wGNk/default.jpg",
         "url": "https://www.youtube.com/watch?v=2Dhlaz7wGNk",
@@ -590,12 +612,12 @@
         "target": "_blank"
       },
       "publishedAt": "2016-06-20",
-      "viewCount": "6924万",
+      "viewCount": "6925万",
       "likeCount": "6.57万",
       "commentCount": "-"
     },
     {
-      "rank": 2328,
+      "rank": 2329,
       "thumb": {
         "img": "https://i.ytimg.com/vi/2YV6IJLoBv4/default.jpg",
         "url": "https://www.youtube.com/watch?v=2YV6IJLoBv4",
@@ -617,29 +639,29 @@
       "commentCount": "-"
     },
     {
-      "rank": 2329,
+      "rank": 2330,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/yZt2XEjsduc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=yZt2XEjsduc",
+        "img": "https://i.ytimg.com/vi/Qtf0KiLiYu0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Qtf0KiLiYu0",
         "target": "_blank"
       },
       "title": {
-        "text": "【公式】槇原敬之「冬がはじまるよ」(MV)【4thシングル】 (1991年）Noriyuki Makihara/ Fuyu Ga Hajimaruyo",
-        "url": "https://www.youtube.com/watch?v=yZt2XEjsduc",
+        "text": "西野カナ『Dear…』MV Full",
+        "url": "https://www.youtube.com/watch?v=Qtf0KiLiYu0",
         "target": "_blank"
       },
       "channel": {
-        "text": "Warner Music Japan",
-        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
         "target": "_blank"
       },
-      "publishedAt": "2012-11-14",
-      "viewCount": "1973万",
-      "likeCount": "6.55万",
-      "commentCount": "4301"
+      "publishedAt": "2021-09-24",
+      "viewCount": "2454万",
+      "likeCount": "6.53万",
+      "commentCount": "1481"
     },
     {
-      "rank": 2330,
+      "rank": 2331,
       "thumb": {
         "img": "https://i.ytimg.com/vi/3IDvi4buNdk/default.jpg",
         "url": "https://www.youtube.com/watch?v=3IDvi4buNdk",
@@ -659,28 +681,6 @@
       "viewCount": "1066万",
       "likeCount": "6.53万",
       "commentCount": "2310"
-    },
-    {
-      "rank": 2331,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Qtf0KiLiYu0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Qtf0KiLiYu0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "西野カナ『Dear…』MV Full",
-        "url": "https://www.youtube.com/watch?v=Qtf0KiLiYu0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-09-24",
-      "viewCount": "2450万",
-      "likeCount": "6.53万",
-      "commentCount": "1479"
     },
     {
       "rank": 2332,
@@ -722,9 +722,9 @@
         "target": "_blank"
       },
       "publishedAt": "2011-01-14",
-      "viewCount": "1571万",
+      "viewCount": "1572万",
       "likeCount": "6.51万",
-      "commentCount": "4453"
+      "commentCount": "4455"
     },
     {
       "rank": 2334,
@@ -744,7 +744,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-06-01",
-      "viewCount": "2052万",
+      "viewCount": "2053万",
       "likeCount": "6.49万",
       "commentCount": "1473"
     },
@@ -773,6 +773,28 @@
     {
       "rank": 2336,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/Ra-9M6ZgT8k/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Ra-9M6ZgT8k",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "平井 堅 『いとしき日々よ 』MUSIC VIDEO",
+        "url": "https://www.youtube.com/watch?v=Ra-9M6ZgT8k",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "平井 堅 YouTube Official Channel",
+        "url": "https://www.youtube.com/channel/UCtwtMDxG0n0Yd0qds38ff0Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-05-13",
+      "viewCount": "1539万",
+      "likeCount": "6.48万",
+      "commentCount": "2514"
+    },
+    {
+      "rank": 2337,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/H8a2k0cGmew/default.jpg",
         "url": "https://www.youtube.com/watch?v=H8a2k0cGmew",
         "target": "_blank"
@@ -790,29 +812,7 @@
       "publishedAt": "2013-08-01",
       "viewCount": "1605万",
       "likeCount": "6.48万",
-      "commentCount": "4331"
-    },
-    {
-      "rank": 2337,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Ra-9M6ZgT8k/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Ra-9M6ZgT8k",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "平井 堅 『いとしき日々よ 』MUSIC VIDEO",
-        "url": "https://www.youtube.com/watch?v=Ra-9M6ZgT8k",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "平井 堅 YouTube Official Channel",
-        "url": "https://www.youtube.com/channel/UCtwtMDxG0n0Yd0qds38ff0Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-05-13",
-      "viewCount": "1538万",
-      "likeCount": "6.48万",
-      "commentCount": "2514"
+      "commentCount": "4332"
     },
     {
       "rank": 2338,
@@ -832,9 +832,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-16",
-      "viewCount": "2111万",
+      "viewCount": "2112万",
       "likeCount": "6.47万",
-      "commentCount": "2725"
+      "commentCount": "2727"
     },
     {
       "rank": 2339,
@@ -856,7 +856,7 @@
       "publishedAt": "2018-12-25",
       "viewCount": "1923万",
       "likeCount": "6.47万",
-      "commentCount": "4787"
+      "commentCount": "4789"
     },
     {
       "rank": 2340,
@@ -898,8 +898,8 @@
         "target": "_blank"
       },
       "publishedAt": "2013-08-21",
-      "viewCount": "1972万",
-      "likeCount": "6.45万",
+      "viewCount": "1973万",
+      "likeCount": "6.46万",
       "commentCount": "4381"
     },
     {
@@ -920,9 +920,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-01-25",
-      "viewCount": "1573万",
+      "viewCount": "1574万",
       "likeCount": "6.45万",
-      "commentCount": "4475"
+      "commentCount": "4476"
     },
     {
       "rank": 2343,
@@ -942,9 +942,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-11-08",
-      "viewCount": "2824万",
-      "likeCount": "6.44万",
-      "commentCount": "1954"
+      "viewCount": "2826万",
+      "likeCount": "6.45万",
+      "commentCount": "1957"
     },
     {
       "rank": 2344,
@@ -986,7 +986,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-02-21",
-      "viewCount": "2065万",
+      "viewCount": "2066万",
       "likeCount": "6.43万",
       "commentCount": "1179"
     },
@@ -1009,7 +1009,7 @@
       },
       "publishedAt": "2018-03-06",
       "viewCount": "2022万",
-      "likeCount": "6.42万",
+      "likeCount": "6.43万",
       "commentCount": "2322"
     },
     {
@@ -1032,7 +1032,7 @@
       "publishedAt": "2015-08-05",
       "viewCount": "1330万",
       "likeCount": "6.42万",
-      "commentCount": "2545"
+      "commentCount": "2543"
     },
     {
       "rank": 2348,
@@ -1074,7 +1074,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-08-02",
-      "viewCount": "1049万",
+      "viewCount": "1050万",
       "likeCount": "6.41万",
       "commentCount": "4058"
     },

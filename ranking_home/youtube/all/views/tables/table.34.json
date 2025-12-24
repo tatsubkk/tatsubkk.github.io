@@ -21,7 +21,7 @@
       "viewCount": "2089万",
       "likeCount": "34.7万",
       "commentCount": "1.8万",
-      "increment_d1": "865"
+      "increment_d1": "853"
     },
     {
       "rank": 1652,
@@ -44,7 +44,7 @@
       "viewCount": "2088万",
       "likeCount": "22.4万",
       "commentCount": "5896",
-      "increment_d1": "1211"
+      "increment_d1": "1166"
     },
     {
       "rank": 1653,
@@ -67,7 +67,7 @@
       "viewCount": "2085万",
       "likeCount": "29.7万",
       "commentCount": "3876",
-      "increment_d1": "4412"
+      "increment_d1": "4239"
     },
     {
       "rank": 1654,
@@ -90,7 +90,7 @@
       "viewCount": "2084万",
       "likeCount": "19.1万",
       "commentCount": "4833",
-      "increment_d1": "5346"
+      "increment_d1": "5301"
     },
     {
       "rank": 1655,
@@ -113,7 +113,7 @@
       "viewCount": "2080万",
       "likeCount": "8.1万",
       "commentCount": "2113",
-      "increment_d1": "1899"
+      "increment_d1": "1876"
     },
     {
       "rank": 1656,
@@ -133,10 +133,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-13",
-      "viewCount": "2079万",
+      "viewCount": "2080万",
       "likeCount": "53.6万",
-      "commentCount": "5032",
-      "increment_d1": "1648"
+      "commentCount": "5034",
+      "increment_d1": "1560"
     },
     {
       "rank": 1657,
@@ -156,59 +156,13 @@
         "target": "_blank"
       },
       "publishedAt": "2022-04-29",
-      "viewCount": "2076万",
+      "viewCount": "2077万",
       "likeCount": "25万",
-      "commentCount": "2996",
-      "increment_d1": "7247"
+      "commentCount": "2997",
+      "increment_d1": "7366"
     },
     {
       "rank": 1658,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/r86Gj72DAvU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=r86Gj72DAvU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow Man「P.M.G.」(深澤辰哉 / 向井康二 / 宮舘涼太) Rec Ver.",
-        "url": "https://www.youtube.com/watch?v=r86Gj72DAvU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Snow Man",
-        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-09-08",
-      "viewCount": "2073万",
-      "likeCount": "-",
-      "commentCount": "1.9万",
-      "increment_d1": "2467"
-    },
-    {
-      "rank": 1659,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/uuXBHgtC_x8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=uuXBHgtC_x8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Travis Japan - 'JUST DANCE!' Music Video",
-        "url": "https://www.youtube.com/watch?v=uuXBHgtC_x8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Travis Japan",
-        "url": "https://www.youtube.com/channel/UCoEIdZkDEZdrCDCJSqwifzw",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-10-28",
-      "viewCount": "2073万",
-      "likeCount": "-",
-      "commentCount": "2.5万",
-      "increment_d1": "3601"
-    },
-    {
-      "rank": 1660,
       "thumb": {
         "img": "https://i.ytimg.com/vi/TYhWV4H83sU/default.jpg",
         "url": "https://www.youtube.com/watch?v=TYhWV4H83sU",
@@ -225,10 +179,56 @@
         "target": "_blank"
       },
       "publishedAt": "2022-07-25",
-      "viewCount": "2073万",
+      "viewCount": "2074万",
       "likeCount": "-",
-      "commentCount": "5252",
-      "increment_d1": "1.05万"
+      "commentCount": "5253",
+      "increment_d1": "1.07万"
+    },
+    {
+      "rank": 1659,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/r86Gj72DAvU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=r86Gj72DAvU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow Man「P.M.G.」(深澤辰哉 / 向井康二 / 宮舘涼太) Rec Ver.",
+        "url": "https://www.youtube.com/watch?v=r86Gj72DAvU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Snow Man",
+        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-09-08",
+      "viewCount": "2074万",
+      "likeCount": "-",
+      "commentCount": "1.9万",
+      "increment_d1": "2526"
+    },
+    {
+      "rank": 1660,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/uuXBHgtC_x8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=uuXBHgtC_x8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Travis Japan - 'JUST DANCE!' Music Video",
+        "url": "https://www.youtube.com/watch?v=uuXBHgtC_x8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Travis Japan",
+        "url": "https://www.youtube.com/channel/UCoEIdZkDEZdrCDCJSqwifzw",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-10-28",
+      "viewCount": "2074万",
+      "likeCount": "-",
+      "commentCount": "2.5万",
+      "increment_d1": "3630"
     },
     {
       "rank": 1661,
@@ -248,10 +248,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-01-22",
-      "viewCount": "2072万",
+      "viewCount": "2073万",
       "likeCount": "15万",
       "commentCount": "2.4万",
-      "increment_d1": "1772"
+      "increment_d1": "1571"
     },
     {
       "rank": 1662,
@@ -271,10 +271,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-17",
-      "viewCount": "2068万",
+      "viewCount": "2070万",
       "likeCount": "9.7万",
       "commentCount": "397",
-      "increment_d1": "1.24万"
+      "increment_d1": "1.29万"
     },
     {
       "rank": 1663,
@@ -294,10 +294,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-02-21",
-      "viewCount": "2065万",
+      "viewCount": "2066万",
       "likeCount": "6.4万",
       "commentCount": "1179",
-      "increment_d1": "5467"
+      "increment_d1": "5506"
     },
     {
       "rank": 1664,
@@ -317,10 +317,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-10",
-      "viewCount": "2064万",
+      "viewCount": "2065万",
       "likeCount": "8.4万",
       "commentCount": "3435",
-      "increment_d1": "1.03万"
+      "increment_d1": "1.04万"
     },
     {
       "rank": 1665,
@@ -340,10 +340,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-27",
-      "viewCount": "2063万",
+      "viewCount": "2064万",
       "likeCount": "17.1万",
       "commentCount": "6288",
-      "increment_d1": "3344"
+      "increment_d1": "3177"
     },
     {
       "rank": 1666,
@@ -363,10 +363,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-03",
-      "viewCount": "2061万",
+      "viewCount": "2063万",
       "likeCount": "10.1万",
-      "commentCount": "1321",
-      "increment_d1": "1.79万"
+      "commentCount": "1323",
+      "increment_d1": "1.93万"
     },
     {
       "rank": 1667,
@@ -394,6 +394,29 @@
     {
       "rank": 1668,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/zIRRGKMLaJE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=zIRRGKMLaJE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "E-girls / Merry × Merry Xmas★",
+        "url": "https://www.youtube.com/watch?v=zIRRGKMLaJE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-11-30",
+      "viewCount": "2057万",
+      "likeCount": "6.6万",
+      "commentCount": "3485",
+      "increment_d1": "2.54万"
+    },
+    {
+      "rank": 1669,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/dVvFTKa62Ts/default.jpg",
         "url": "https://www.youtube.com/watch?v=dVvFTKa62Ts",
         "target": "_blank"
@@ -412,10 +435,10 @@
       "viewCount": "2057万",
       "likeCount": "5.2万",
       "commentCount": "2270",
-      "increment_d1": "1353"
+      "increment_d1": "1423"
     },
     {
-      "rank": 1669,
+      "rank": 1670,
       "thumb": {
         "img": "https://i.ytimg.com/vi/hT1DXCqGpn4/default.jpg",
         "url": "https://www.youtube.com/watch?v=hT1DXCqGpn4",
@@ -432,13 +455,13 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-15",
-      "viewCount": "2055万",
+      "viewCount": "2057万",
       "likeCount": "4.2万",
-      "commentCount": "1286",
-      "increment_d1": "1.19万"
+      "commentCount": "1287",
+      "increment_d1": "1.26万"
     },
     {
-      "rank": 1670,
+      "rank": 1671,
       "thumb": {
         "img": "https://i.ytimg.com/vi/aqoeNOw4_uQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=aqoeNOw4_uQ",
@@ -455,13 +478,13 @@
         "target": "_blank"
       },
       "publishedAt": "2023-01-27",
-      "viewCount": "2055万",
-      "likeCount": "20.1万",
+      "viewCount": "2056万",
+      "likeCount": "20.2万",
       "commentCount": "2582",
-      "increment_d1": "8240"
+      "increment_d1": "8395"
     },
     {
-      "rank": 1671,
+      "rank": 1672,
       "thumb": {
         "img": "https://i.ytimg.com/vi/EZBeo_k1k-A/default.jpg",
         "url": "https://www.youtube.com/watch?v=EZBeo_k1k-A",
@@ -481,33 +504,33 @@
       "viewCount": "2055万",
       "likeCount": "10.2万",
       "commentCount": "1.3万",
-      "increment_d1": "1113"
-    },
-    {
-      "rank": 1672,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/zIRRGKMLaJE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=zIRRGKMLaJE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "E-girls / Merry × Merry Xmas★",
-        "url": "https://www.youtube.com/watch?v=zIRRGKMLaJE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-11-30",
-      "viewCount": "2054万",
-      "likeCount": "6.6万",
-      "commentCount": "3476",
-      "increment_d1": "8726"
+      "increment_d1": "1354"
     },
     {
       "rank": 1673,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/uA832zpafis/default.jpg",
+        "url": "https://www.youtube.com/watch?v=uA832zpafis",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ONE OK ROCK - Let Me Let You Go [Live Documentary Video]",
+        "url": "https://www.youtube.com/watch?v=uA832zpafis",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ONE OK ROCK",
+        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-08-29",
+      "viewCount": "2055万",
+      "likeCount": "17.2万",
+      "commentCount": "4447",
+      "increment_d1": "9616"
+    },
+    {
+      "rank": 1674,
       "thumb": {
         "img": "https://i.ytimg.com/vi/H_nCw1WMFs4/default.jpg",
         "url": "https://www.youtube.com/watch?v=H_nCw1WMFs4",
@@ -526,31 +549,8 @@
       "publishedAt": "2017-04-28",
       "viewCount": "2054万",
       "likeCount": "17.5万",
-      "commentCount": "4125",
-      "increment_d1": "2391"
-    },
-    {
-      "rank": 1674,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/uA832zpafis/default.jpg",
-        "url": "https://www.youtube.com/watch?v=uA832zpafis",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ONE OK ROCK - Let Me Let You Go [Live Documentary Video]",
-        "url": "https://www.youtube.com/watch?v=uA832zpafis",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ONE OK ROCK",
-        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-08-29",
-      "viewCount": "2054万",
-      "likeCount": "17.2万",
-      "commentCount": "4448",
-      "increment_d1": "9590"
+      "commentCount": "4126",
+      "increment_d1": "2429"
     },
     {
       "rank": 1675,
@@ -570,13 +570,36 @@
         "target": "_blank"
       },
       "publishedAt": "2017-06-01",
-      "viewCount": "2052万",
+      "viewCount": "2053万",
       "likeCount": "6.5万",
       "commentCount": "1473",
-      "increment_d1": "1751"
+      "increment_d1": "1703"
     },
     {
       "rank": 1676,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/17NBPoc78oM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=17NBPoc78oM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "＝LOVE（イコールラブ）/ 17th Single『絶対アイドル辞めないで』【MV full】",
+        "url": "https://www.youtube.com/watch?v=17NBPoc78oM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "＝LOVE（イコールラブ）公式チャンネル",
+        "url": "https://www.youtube.com/channel/UCv7VutirxDn3RWIJXI68n_A",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-06-22",
+      "viewCount": "2052万",
+      "likeCount": "12.6万",
+      "commentCount": "1.4万",
+      "increment_d1": "4.14万"
+    },
+    {
+      "rank": 1677,
       "thumb": {
         "img": "https://i.ytimg.com/vi/fwzRR6Bsro4/default.jpg",
         "url": "https://www.youtube.com/watch?v=fwzRR6Bsro4",
@@ -593,13 +616,13 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-27",
-      "viewCount": "2050万",
+      "viewCount": "2051万",
       "likeCount": "15.9万",
       "commentCount": "1728",
-      "increment_d1": "4401"
+      "increment_d1": "4254"
     },
     {
-      "rank": 1677,
+      "rank": 1678,
       "thumb": {
         "img": "https://i.ytimg.com/vi/YcpFmrRAVoI/default.jpg",
         "url": "https://www.youtube.com/watch?v=YcpFmrRAVoI",
@@ -619,30 +642,7 @@
       "viewCount": "2049万",
       "likeCount": "6.3万",
       "commentCount": "1706",
-      "increment_d1": "415"
-    },
-    {
-      "rank": 1678,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/17NBPoc78oM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=17NBPoc78oM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "＝LOVE（イコールラブ）/ 17th Single『絶対アイドル辞めないで』【MV full】",
-        "url": "https://www.youtube.com/watch?v=17NBPoc78oM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "＝LOVE（イコールラブ）公式チャンネル",
-        "url": "https://www.youtube.com/channel/UCv7VutirxDn3RWIJXI68n_A",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-06-22",
-      "viewCount": "2048万",
-      "likeCount": "12.5万",
-      "commentCount": "1.4万",
-      "increment_d1": "4.06万"
+      "increment_d1": "478"
     },
     {
       "rank": 1679,
@@ -662,10 +662,10 @@
         "target": "_blank"
       },
       "publishedAt": "2015-08-05",
-      "viewCount": "2047万",
+      "viewCount": "2048万",
       "likeCount": "4.8万",
       "commentCount": "2436",
-      "increment_d1": "776"
+      "increment_d1": "722"
     },
     {
       "rank": 1680,
@@ -688,7 +688,7 @@
       "viewCount": "2047万",
       "likeCount": "15.1万",
       "commentCount": "8080",
-      "increment_d1": "1314"
+      "increment_d1": "1187"
     },
     {
       "rank": 1681,
@@ -711,7 +711,7 @@
       "viewCount": "2046万",
       "likeCount": "20万",
       "commentCount": "1.3万",
-      "increment_d1": "2318"
+      "increment_d1": "2386"
     },
     {
       "rank": 1682,
@@ -731,13 +731,36 @@
         "target": "_blank"
       },
       "publishedAt": "2011-12-14",
-      "viewCount": "2045万",
+      "viewCount": "2046万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "1974"
+      "increment_d1": "1978"
     },
     {
       "rank": 1683,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/8ZN40f8R7eg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=8ZN40f8R7eg",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "YOASOBI「UNDEAD」 from 『YOASOBI 5th ANNIVERSARY DOME LIVE 2024 \"超現実\"』2024.11.10@東京ドーム",
+        "url": "https://www.youtube.com/watch?v=8ZN40f8R7eg",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ayase / YOASOBI",
+        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-12-14",
+      "viewCount": "2045万",
+      "likeCount": "12.8万",
+      "commentCount": "2867",
+      "increment_d1": "3.38万"
+    },
+    {
+      "rank": 1684,
       "thumb": {
         "img": "https://i.ytimg.com/vi/6W8mmtgeOzY/default.jpg",
         "url": "https://www.youtube.com/watch?v=6W8mmtgeOzY",
@@ -754,13 +777,13 @@
         "target": "_blank"
       },
       "publishedAt": "2016-07-07",
-      "viewCount": "2044万",
+      "viewCount": "2045万",
       "likeCount": "10万",
       "commentCount": "6693",
-      "increment_d1": "1415"
+      "increment_d1": "1342"
     },
     {
-      "rank": 1684,
+      "rank": 1685,
       "thumb": {
         "img": "https://i.ytimg.com/vi/hf4kyTBbbH4/default.jpg",
         "url": "https://www.youtube.com/watch?v=hf4kyTBbbH4",
@@ -780,10 +803,10 @@
       "viewCount": "2044万",
       "likeCount": "5.1万",
       "commentCount": "2183",
-      "increment_d1": "253"
+      "increment_d1": "285"
     },
     {
-      "rank": 1685,
+      "rank": 1686,
       "thumb": {
         "img": "https://i.ytimg.com/vi/XicdpSmxuT0/default.jpg",
         "url": "https://www.youtube.com/watch?v=XicdpSmxuT0",
@@ -802,34 +825,34 @@
       "publishedAt": "2022-04-12",
       "viewCount": "2042万",
       "likeCount": "26.4万",
-      "commentCount": "8071",
-      "increment_d1": "4579"
-    },
-    {
-      "rank": 1686,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/8ZN40f8R7eg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=8ZN40f8R7eg",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "YOASOBI「UNDEAD」 from 『YOASOBI 5th ANNIVERSARY DOME LIVE 2024 \"超現実\"』2024.11.10@東京ドーム",
-        "url": "https://www.youtube.com/watch?v=8ZN40f8R7eg",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ayase / YOASOBI",
-        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-12-14",
-      "viewCount": "2042万",
-      "likeCount": "12.8万",
-      "commentCount": "2866",
-      "increment_d1": "3.1万"
+      "commentCount": "8070",
+      "increment_d1": "4444"
     },
     {
       "rank": 1687,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/CLfQoaHgnVs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=CLfQoaHgnVs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Sexy Zone ｢人生遊戯｣ (YouTube Ver.)",
+        "url": "https://www.youtube.com/watch?v=CLfQoaHgnVs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "timelesz [タイムレス]",
+        "url": "https://www.youtube.com/channel/UCgXJMvOBqHk5wJFRKZfIgWQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-11-15",
+      "viewCount": "2042万",
+      "likeCount": "-",
+      "commentCount": "8076",
+      "increment_d1": "7036"
+    },
+    {
+      "rank": 1688,
       "thumb": {
         "img": "https://i.ytimg.com/vi/diWmmAA10Eg/default.jpg",
         "url": "https://www.youtube.com/watch?v=diWmmAA10Eg",
@@ -849,30 +872,7 @@
       "viewCount": "2041万",
       "likeCount": "4.6万",
       "commentCount": "984",
-      "increment_d1": "158"
-    },
-    {
-      "rank": 1688,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/CLfQoaHgnVs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=CLfQoaHgnVs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Sexy Zone ｢人生遊戯｣ (YouTube Ver.)",
-        "url": "https://www.youtube.com/watch?v=CLfQoaHgnVs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "timelesz [タイムレス]",
-        "url": "https://www.youtube.com/channel/UCgXJMvOBqHk5wJFRKZfIgWQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-11-15",
-      "viewCount": "2041万",
-      "likeCount": "-",
-      "commentCount": "8076",
-      "increment_d1": "6634"
+      "increment_d1": "97"
     },
     {
       "rank": 1689,
@@ -894,8 +894,8 @@
       "publishedAt": "2019-06-26",
       "viewCount": "2041万",
       "likeCount": "9万",
-      "commentCount": "3584",
-      "increment_d1": "5471"
+      "commentCount": "3585",
+      "increment_d1": "5322"
     },
     {
       "rank": 1690,
@@ -918,7 +918,7 @@
       "viewCount": "2041万",
       "likeCount": "7万",
       "commentCount": "1899",
-      "increment_d1": "3875"
+      "increment_d1": "3922"
     },
     {
       "rank": 1691,
@@ -938,10 +938,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-02-04",
-      "viewCount": "2040万",
+      "viewCount": "2041万",
       "likeCount": "21万",
       "commentCount": "7898",
-      "increment_d1": "2486"
+      "increment_d1": "2479"
     },
     {
       "rank": 1692,
@@ -964,7 +964,7 @@
       "viewCount": "2037万",
       "likeCount": "16.8万",
       "commentCount": "3046",
-      "increment_d1": "1510"
+      "increment_d1": "1521"
     },
     {
       "rank": 1693,
@@ -984,10 +984,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-07",
-      "viewCount": "2036万",
+      "viewCount": "2037万",
       "likeCount": "8.4万",
       "commentCount": "5181",
-      "increment_d1": "7598"
+      "increment_d1": "7800"
     },
     {
       "rank": 1694,
@@ -1007,10 +1007,10 @@
         "target": "_blank"
       },
       "publishedAt": "2020-06-29",
-      "viewCount": "2035万",
+      "viewCount": "2036万",
       "likeCount": "3.1万",
       "commentCount": "55",
-      "increment_d1": "3353"
+      "increment_d1": "3431"
     },
     {
       "rank": 1695,
@@ -1030,10 +1030,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-02",
-      "viewCount": "2034万",
+      "viewCount": "2035万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "9194"
+      "increment_d1": "9342"
     },
     {
       "rank": 1696,
@@ -1054,9 +1054,9 @@
       },
       "publishedAt": "2009-04-22",
       "viewCount": "2034万",
-      "likeCount": "5562",
+      "likeCount": "5561",
       "commentCount": "170",
-      "increment_d1": "85"
+      "increment_d1": "82"
     },
     {
       "rank": 1697,
@@ -1076,10 +1076,10 @@
         "target": "_blank"
       },
       "publishedAt": "2012-12-27",
-      "viewCount": "2032万",
+      "viewCount": "2033万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "2716"
+      "increment_d1": "3091"
     },
     {
       "rank": 1698,
@@ -1102,7 +1102,7 @@
       "viewCount": "2032万",
       "likeCount": "35.7万",
       "commentCount": "1.3万",
-      "increment_d1": "482"
+      "increment_d1": "404"
     },
     {
       "rank": 1699,
@@ -1122,10 +1122,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-10-06",
-      "viewCount": "2027万",
+      "viewCount": "2028万",
       "likeCount": "84.9万",
       "commentCount": "6.3万",
-      "increment_d1": "3797"
+      "increment_d1": "3743"
     },
     {
       "rank": 1700,
@@ -1148,7 +1148,7 @@
       "viewCount": "2027万",
       "likeCount": "10.1万",
       "commentCount": "1万",
-      "increment_d1": "1213"
+      "increment_d1": "1275"
     }
   ]
 }

@@ -150,7 +150,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-09-01",
-      "viewCount": "4218万",
+      "viewCount": "4219万",
       "likeCount": "10.11万",
       "commentCount": "1.1万"
     },
@@ -172,12 +172,34 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-23",
-      "viewCount": "1798万",
+      "viewCount": "1800万",
       "likeCount": "10.09万",
       "commentCount": "2439"
     },
     {
       "rank": 1909,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/HUTbH6ywrXk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=HUTbH6ywrXk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "心を開いて （Music Video）",
+        "url": "https://www.youtube.com/watch?v=HUTbH6ywrXk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "zardofficial",
+        "url": "https://www.youtube.com/channel/UC9OXNkUKmf3bUx8N9l8jM2w",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-04-14",
+      "viewCount": "3436万",
+      "likeCount": "10.08万",
+      "commentCount": "1835"
+    },
+    {
+      "rank": 1910,
       "thumb": {
         "img": "https://i.ytimg.com/vi/uSFdckpwXQc/default.jpg",
         "url": "https://www.youtube.com/watch?v=uSFdckpwXQc",
@@ -199,7 +221,7 @@
       "commentCount": "2344"
     },
     {
-      "rank": 1910,
+      "rank": 1911,
       "thumb": {
         "img": "https://i.ytimg.com/vi/rmg2N0JZYfg/default.jpg",
         "url": "https://www.youtube.com/watch?v=rmg2N0JZYfg",
@@ -218,29 +240,7 @@
       "publishedAt": "2017-01-25",
       "viewCount": "2380万",
       "likeCount": "10.08万",
-      "commentCount": "5578"
-    },
-    {
-      "rank": 1911,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/HUTbH6ywrXk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=HUTbH6ywrXk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "心を開いて （Music Video）",
-        "url": "https://www.youtube.com/watch?v=HUTbH6ywrXk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "zardofficial",
-        "url": "https://www.youtube.com/channel/UC9OXNkUKmf3bUx8N9l8jM2w",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-04-14",
-      "viewCount": "3435万",
-      "likeCount": "10.08万",
-      "commentCount": "1835"
+      "commentCount": "5577"
     },
     {
       "rank": 1912,
@@ -260,9 +260,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-10-03",
-      "viewCount": "2061万",
+      "viewCount": "2063万",
       "likeCount": "10.07万",
-      "commentCount": "1321"
+      "commentCount": "1323"
     },
     {
       "rank": 1913,
@@ -333,28 +333,6 @@
     {
       "rank": 1916,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/vHm0RWaf0FE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=vHm0RWaf0FE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【MV】栞／まふまふ　映画『君が落とした青空』主題歌",
-        "url": "https://www.youtube.com/watch?v=vHm0RWaf0FE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "まふまふちゃんねる",
-        "url": "https://www.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-02-18",
-      "viewCount": "1671万",
-      "likeCount": "10.03万",
-      "commentCount": "-"
-    },
-    {
-      "rank": 1917,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/edeBkHxmJWM/default.jpg",
         "url": "https://www.youtube.com/watch?v=edeBkHxmJWM",
         "target": "_blank"
@@ -375,6 +353,28 @@
       "commentCount": "1532"
     },
     {
+      "rank": 1917,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/vHm0RWaf0FE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=vHm0RWaf0FE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV】栞／まふまふ　映画『君が落とした青空』主題歌",
+        "url": "https://www.youtube.com/watch?v=vHm0RWaf0FE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "まふまふちゃんねる",
+        "url": "https://www.youtube.com/channel/UCOTR1tcOAhjgi6YukrPpZxg",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-02-18",
+      "viewCount": "1671万",
+      "likeCount": "10.03万",
+      "commentCount": "-"
+    },
+    {
       "rank": 1918,
       "thumb": {
         "img": "https://i.ytimg.com/vi/6W8mmtgeOzY/default.jpg",
@@ -392,7 +392,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-07-07",
-      "viewCount": "2044万",
+      "viewCount": "2045万",
       "likeCount": "10.02万",
       "commentCount": "6693"
     },
@@ -458,12 +458,34 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-01",
-      "viewCount": "2016万",
+      "viewCount": "2017万",
       "likeCount": "9.98万",
       "commentCount": "1106"
     },
     {
       "rank": 1922,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/rFlsY2F7K-M/default.jpg",
+        "url": "https://www.youtube.com/watch?v=rFlsY2F7K-M",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ホワイトキス - 鈴木鈴木【Official Music Video】",
+        "url": "https://www.youtube.com/watch?v=rFlsY2F7K-M",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "鈴木鈴木(suzukisuzuki)ch",
+        "url": "https://www.youtube.com/channel/UC4s6P1q8l1zznc4Yk6WAX-A",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-11-18",
+      "viewCount": "1292万",
+      "likeCount": "9.98万",
+      "commentCount": "1933"
+    },
+    {
+      "rank": 1923,
       "thumb": {
         "img": "https://i.ytimg.com/vi/5DNqESedFMk/default.jpg",
         "url": "https://www.youtube.com/watch?v=5DNqESedFMk",
@@ -480,12 +502,12 @@
         "target": "_blank"
       },
       "publishedAt": "2024-09-24",
-      "viewCount": "1336万",
-      "likeCount": "9.97万",
-      "commentCount": "2289"
+      "viewCount": "1337万",
+      "likeCount": "9.98万",
+      "commentCount": "2290"
     },
     {
-      "rank": 1923,
+      "rank": 1924,
       "thumb": {
         "img": "https://i.ytimg.com/vi/qVrM-BxWybA/default.jpg",
         "url": "https://www.youtube.com/watch?v=qVrM-BxWybA",
@@ -504,29 +526,7 @@
       "publishedAt": "2016-01-26",
       "viewCount": "3555万",
       "likeCount": "9.97万",
-      "commentCount": "4322"
-    },
-    {
-      "rank": 1924,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/rFlsY2F7K-M/default.jpg",
-        "url": "https://www.youtube.com/watch?v=rFlsY2F7K-M",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ホワイトキス - 鈴木鈴木【Official Music Video】",
-        "url": "https://www.youtube.com/watch?v=rFlsY2F7K-M",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "鈴木鈴木(suzukisuzuki)ch",
-        "url": "https://www.youtube.com/channel/UC4s6P1q8l1zznc4Yk6WAX-A",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-18",
-      "viewCount": "1289万",
-      "likeCount": "9.97万",
-      "commentCount": "1932"
+      "commentCount": "4323"
     },
     {
       "rank": 1925,
@@ -548,7 +548,7 @@
       "publishedAt": "2017-12-20",
       "viewCount": "1571万",
       "likeCount": "9.95万",
-      "commentCount": "3732"
+      "commentCount": "3733"
     },
     {
       "rank": 1926,
@@ -568,9 +568,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-06-13",
-      "viewCount": "3701万",
+      "viewCount": "3702万",
       "likeCount": "9.95万",
-      "commentCount": "3001"
+      "commentCount": "3002"
     },
     {
       "rank": 1927,
@@ -590,9 +590,9 @@
         "target": "_blank"
       },
       "publishedAt": "2014-12-09",
-      "viewCount": "2185万",
+      "viewCount": "2186万",
       "likeCount": "9.95万",
-      "commentCount": "7491"
+      "commentCount": "7492"
     },
     {
       "rank": 1928,
@@ -614,7 +614,7 @@
       "publishedAt": "2015-11-11",
       "viewCount": "2337万",
       "likeCount": "9.92万",
-      "commentCount": "3302"
+      "commentCount": "3303"
     },
     {
       "rank": 1929,
@@ -634,7 +634,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-05-02",
-      "viewCount": "1318万",
+      "viewCount": "1319万",
       "likeCount": "9.91万",
       "commentCount": "1931"
     },
@@ -700,34 +700,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-08-09",
-      "viewCount": "1512万",
+      "viewCount": "1513万",
       "likeCount": "9.89万",
       "commentCount": "5001"
     },
     {
       "rank": 1933,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1zKo_I8VhkA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1zKo_I8VhkA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "東京スカパラダイスオーケストラ 「Paradise Has No Border」（Live Ver.　ゲスト：さかなクン）",
-        "url": "https://www.youtube.com/watch?v=1zKo_I8VhkA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "TOKYO SKA PARADISE ORCHESTRA OFFICIAL",
-        "url": "https://www.youtube.com/channel/UC5RmUAcm_w5K9cxtQSj7W7g",
-        "target": "_blank"
-      },
-      "publishedAt": "2016-06-10",
-      "viewCount": "1494万",
-      "likeCount": "9.88万",
-      "commentCount": "2198"
-    },
-    {
-      "rank": 1934,
       "thumb": {
         "img": "https://i.ytimg.com/vi/7xRWOylrLfI/default.jpg",
         "url": "https://www.youtube.com/watch?v=7xRWOylrLfI",
@@ -745,8 +723,30 @@
       },
       "publishedAt": "2023-10-07",
       "viewCount": "1883万",
-      "likeCount": "9.88万",
+      "likeCount": "9.89万",
       "commentCount": "3416"
+    },
+    {
+      "rank": 1934,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1zKo_I8VhkA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1zKo_I8VhkA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "東京スカパラダイスオーケストラ 「Paradise Has No Border」（Live Ver.　ゲスト：さかなクン）",
+        "url": "https://www.youtube.com/watch?v=1zKo_I8VhkA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "TOKYO SKA PARADISE ORCHESTRA OFFICIAL",
+        "url": "https://www.youtube.com/channel/UC5RmUAcm_w5K9cxtQSj7W7g",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-06-10",
+      "viewCount": "1494万",
+      "likeCount": "9.89万",
+      "commentCount": "2198"
     },
     {
       "rank": 1935,
@@ -766,7 +766,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-07-02",
-      "viewCount": "3124万",
+      "viewCount": "3125万",
       "likeCount": "9.87万",
       "commentCount": "3664"
     },
@@ -811,11 +811,33 @@
       },
       "publishedAt": "2019-05-20",
       "viewCount": "1598万",
-      "likeCount": "9.85万",
+      "likeCount": "9.86万",
       "commentCount": "-"
     },
     {
       "rank": 1938,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/x_bmE2dqmd8/default.jpg",
+        "url": "https://www.youtube.com/watch?v=x_bmE2dqmd8",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ヤングスキニー - ゴミ人間、俺【Official Music Video】",
+        "url": "https://www.youtube.com/watch?v=x_bmE2dqmd8",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ヤングスキニー",
+        "url": "https://www.youtube.com/channel/UCcg_rvE-fU2tATMwBAxW9bA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-04-04",
+      "viewCount": "1375万",
+      "likeCount": "9.84万",
+      "commentCount": "3265"
+    },
+    {
+      "rank": 1939,
       "thumb": {
         "img": "https://i.ytimg.com/vi/NYbZ4nR0g38/default.jpg",
         "url": "https://www.youtube.com/watch?v=NYbZ4nR0g38",
@@ -835,28 +857,6 @@
       "viewCount": "1572万",
       "likeCount": "9.84万",
       "commentCount": "5127"
-    },
-    {
-      "rank": 1939,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/x_bmE2dqmd8/default.jpg",
-        "url": "https://www.youtube.com/watch?v=x_bmE2dqmd8",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ヤングスキニー - ゴミ人間、俺【Official Music Video】",
-        "url": "https://www.youtube.com/watch?v=x_bmE2dqmd8",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ヤングスキニー",
-        "url": "https://www.youtube.com/channel/UCcg_rvE-fU2tATMwBAxW9bA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-04-04",
-      "viewCount": "1374万",
-      "likeCount": "9.84万",
-      "commentCount": "3264"
     },
     {
       "rank": 1940,
@@ -900,7 +900,7 @@
       "publishedAt": "2017-03-02",
       "viewCount": "1384万",
       "likeCount": "9.81万",
-      "commentCount": "4142"
+      "commentCount": "4144"
     },
     {
       "rank": 1942,
@@ -920,7 +920,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-08-23",
-      "viewCount": "3564万",
+      "viewCount": "3565万",
       "likeCount": "9.79万",
       "commentCount": "4077"
     },
@@ -964,9 +964,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-01-17",
-      "viewCount": "1610万",
-      "likeCount": "9.76万",
-      "commentCount": "1908"
+      "viewCount": "1611万",
+      "likeCount": "9.77万",
+      "commentCount": "1909"
     },
     {
       "rank": 1945,
@@ -1010,7 +1010,7 @@
       "publishedAt": "2014-06-25",
       "viewCount": "1371万",
       "likeCount": "9.75万",
-      "commentCount": "5247"
+      "commentCount": "5248"
     },
     {
       "rank": 1947,
@@ -1074,7 +1074,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-14",
-      "viewCount": "1330万",
+      "viewCount": "1331万",
       "likeCount": "9.72万",
       "commentCount": "2294"
     },

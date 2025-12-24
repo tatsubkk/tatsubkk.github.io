@@ -64,7 +64,7 @@
       "publishedAt": "2012-08-08",
       "viewCount": "3047万",
       "likeCount": "6.39万",
-      "commentCount": "2300"
+      "commentCount": "2299"
     },
     {
       "rank": 2354,
@@ -86,7 +86,7 @@
       "publishedAt": "2010-09-08",
       "viewCount": "2707万",
       "likeCount": "6.39万",
-      "commentCount": "7368"
+      "commentCount": "7370"
     },
     {
       "rank": 2355,
@@ -150,9 +150,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-10-02",
-      "viewCount": "1659万",
+      "viewCount": "1660万",
       "likeCount": "6.35万",
-      "commentCount": "2026"
+      "commentCount": "2022"
     },
     {
       "rank": 2358,
@@ -173,11 +173,33 @@
       },
       "publishedAt": "2014-10-16",
       "viewCount": "1540万",
-      "likeCount": "6.34万",
+      "likeCount": "6.35万",
       "commentCount": "2623"
     },
     {
       "rank": 2359,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/XRnX65LDRoU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=XRnX65LDRoU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "RADWIMPS - 25ｺ目の染色体  [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=XRnX65LDRoU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "RADWIMPS",
+        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2009-07-02",
+      "viewCount": "1872万",
+      "likeCount": "6.34万",
+      "commentCount": "2514"
+    },
+    {
+      "rank": 2360,
       "thumb": {
         "img": "https://i.ytimg.com/vi/-dZgf_LUvbM/default.jpg",
         "url": "https://www.youtube.com/watch?v=-dZgf_LUvbM",
@@ -199,7 +221,7 @@
       "commentCount": "2177"
     },
     {
-      "rank": 2360,
+      "rank": 2361,
       "thumb": {
         "img": "https://i.ytimg.com/vi/YcpFmrRAVoI/default.jpg",
         "url": "https://www.youtube.com/watch?v=YcpFmrRAVoI",
@@ -219,28 +241,6 @@
       "viewCount": "2049万",
       "likeCount": "6.34万",
       "commentCount": "1706"
-    },
-    {
-      "rank": 2361,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/XRnX65LDRoU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=XRnX65LDRoU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "RADWIMPS - 25ｺ目の染色体  [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=XRnX65LDRoU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "RADWIMPS",
-        "url": "https://www.youtube.com/channel/UCIVqvhyo8ttjYOmMJuhq_YQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2009-07-02",
-      "viewCount": "1872万",
-      "likeCount": "6.34万",
-      "commentCount": "2514"
     },
     {
       "rank": 2362,
@@ -267,28 +267,6 @@
     {
       "rank": 2363,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/k75GLjixDAs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=k75GLjixDAs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "星野源 – 夢の外へ (Official Video)",
-        "url": "https://www.youtube.com/watch?v=k75GLjixDAs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Victor Entertainment",
-        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-06-21",
-      "viewCount": "2477万",
-      "likeCount": "6.33万",
-      "commentCount": "2796"
-    },
-    {
-      "rank": 2363,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/qM_FepDsJ-Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=qM_FepDsJ-Q",
         "target": "_blank"
@@ -304,9 +282,31 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-27",
-      "viewCount": "1093万",
+      "viewCount": "1094万",
       "likeCount": "6.33万",
-      "commentCount": "3606"
+      "commentCount": "3605"
+    },
+    {
+      "rank": 2364,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/k75GLjixDAs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=k75GLjixDAs",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "星野源 – 夢の外へ (Official Video)",
+        "url": "https://www.youtube.com/watch?v=k75GLjixDAs",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Victor Entertainment",
+        "url": "https://www.youtube.com/channel/UC4YT50DP7hbMsor8FmyEPMw",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-06-21",
+      "viewCount": "2478万",
+      "likeCount": "6.33万",
+      "commentCount": "2798"
     },
     {
       "rank": 2365,
@@ -377,28 +377,6 @@
     {
       "rank": 2368,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/oSc_BgWzw_0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=oSc_BgWzw_0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "【Official】Uru 『ファーストラヴ』 映画「ファーストラヴ」主題歌",
-        "url": "https://www.youtube.com/watch?v=oSc_BgWzw_0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Uru Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-02-08",
-      "viewCount": "2521万",
-      "likeCount": "6.32万",
-      "commentCount": "1673"
-    },
-    {
-      "rank": 2369,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/LV2YZetiyHE/default.jpg",
         "url": "https://www.youtube.com/watch?v=LV2YZetiyHE",
         "target": "_blank"
@@ -417,6 +395,28 @@
       "viewCount": "1189万",
       "likeCount": "6.32万",
       "commentCount": "1.9万"
+    },
+    {
+      "rank": 2369,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/oSc_BgWzw_0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=oSc_BgWzw_0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【Official】Uru 『ファーストラヴ』 映画「ファーストラヴ」主題歌",
+        "url": "https://www.youtube.com/watch?v=oSc_BgWzw_0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Uru Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCdPCarwi28K5Z7s5l2nMiLw",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-02-08",
+      "viewCount": "2521万",
+      "likeCount": "6.32万",
+      "commentCount": "1674"
     },
     {
       "rank": 2370,
@@ -465,28 +465,6 @@
     {
       "rank": 2372,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/OPzgl2C7cZY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=OPzgl2C7cZY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ONE OK ROCK - Be the light [Official Music Video]",
-        "url": "https://www.youtube.com/watch?v=OPzgl2C7cZY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ONE OK ROCK",
-        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-03-11",
-      "viewCount": "1068万",
-      "likeCount": "6.28万",
-      "commentCount": "2457"
-    },
-    {
-      "rank": 2372,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/rBX5YGPNDbs/default.jpg",
         "url": "https://www.youtube.com/watch?v=rBX5YGPNDbs",
         "target": "_blank"
@@ -507,6 +485,28 @@
       "commentCount": "2725"
     },
     {
+      "rank": 2373,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/OPzgl2C7cZY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=OPzgl2C7cZY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ONE OK ROCK - Be the light [Official Music Video]",
+        "url": "https://www.youtube.com/watch?v=OPzgl2C7cZY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ONE OK ROCK",
+        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-03-11",
+      "viewCount": "1068万",
+      "likeCount": "6.28万",
+      "commentCount": "2457"
+    },
+    {
       "rank": 2374,
       "thumb": {
         "img": "https://i.ytimg.com/vi/EgmBmk7d8Yc/default.jpg",
@@ -524,7 +524,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-10-17",
-      "viewCount": "1335万",
+      "viewCount": "1336万",
       "likeCount": "6.28万",
       "commentCount": "2079"
     },
@@ -548,7 +548,7 @@
       "publishedAt": "2014-04-08",
       "viewCount": "1111万",
       "likeCount": "6.27万",
-      "commentCount": "2537"
+      "commentCount": "2539"
     },
     {
       "rank": 2376,
@@ -658,7 +658,7 @@
       "publishedAt": "2010-04-24",
       "viewCount": "1146万",
       "likeCount": "6.25万",
-      "commentCount": "2364"
+      "commentCount": "2365"
     },
     {
       "rank": 2381,
@@ -678,9 +678,9 @@
         "target": "_blank"
       },
       "publishedAt": "2014-08-23",
-      "viewCount": "1191万",
+      "viewCount": "1192万",
       "likeCount": "6.23万",
-      "commentCount": "1575"
+      "commentCount": "1576"
     },
     {
       "rank": 2382,
@@ -722,7 +722,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-03-26",
-      "viewCount": "1647万",
+      "viewCount": "1648万",
       "likeCount": "6.22万",
       "commentCount": "3255"
     },
@@ -746,29 +746,7 @@
       "publishedAt": "2015-11-12",
       "viewCount": "1378万",
       "likeCount": "6.22万",
-      "commentCount": "3069"
-    },
-    {
-      "rank": 2385,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/2WY1wrwpd3k/default.jpg",
-        "url": "https://www.youtube.com/watch?v=2WY1wrwpd3k",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "BUMP OF CHICKEN「記念撮影」",
-        "url": "https://www.youtube.com/watch?v=2WY1wrwpd3k",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "BUMP OF CHICKEN",
-        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
-        "target": "_blank"
-      },
-      "publishedAt": "2017-11-21",
-      "viewCount": "1268万",
-      "likeCount": "6.22万",
-      "commentCount": "3087"
+      "commentCount": "3068"
     },
     {
       "rank": 2385,
@@ -788,9 +766,31 @@
         "target": "_blank"
       },
       "publishedAt": "2024-03-04",
-      "viewCount": "1992万",
+      "viewCount": "1994万",
       "likeCount": "6.22万",
       "commentCount": "1338"
+    },
+    {
+      "rank": 2386,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/2WY1wrwpd3k/default.jpg",
+        "url": "https://www.youtube.com/watch?v=2WY1wrwpd3k",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "BUMP OF CHICKEN「記念撮影」",
+        "url": "https://www.youtube.com/watch?v=2WY1wrwpd3k",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "BUMP OF CHICKEN",
+        "url": "https://www.youtube.com/channel/UCOfESRUR5duQ2hMnTQ4oqhA",
+        "target": "_blank"
+      },
+      "publishedAt": "2017-11-21",
+      "viewCount": "1268万",
+      "likeCount": "6.22万",
+      "commentCount": "3087"
     },
     {
       "rank": 2387,
@@ -854,9 +854,9 @@
         "target": "_blank"
       },
       "publishedAt": "2009-06-27",
-      "viewCount": "1092万",
+      "viewCount": "1093万",
       "likeCount": "6.16万",
-      "commentCount": "3231"
+      "commentCount": "3232"
     },
     {
       "rank": 2390,
@@ -883,6 +883,28 @@
     {
       "rank": 2391,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/KQZ75gaTktU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=KQZ75gaTktU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "西野カナ『もっと…』MV Full",
+        "url": "https://www.youtube.com/watch?v=KQZ75gaTktU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-08-27",
+      "viewCount": "1472万",
+      "likeCount": "6.15万",
+      "commentCount": "1122"
+    },
+    {
+      "rank": 2392,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/vG_rgBD6uwk/default.jpg",
         "url": "https://www.youtube.com/watch?v=vG_rgBD6uwk",
         "target": "_blank"
@@ -901,28 +923,6 @@
       "viewCount": "3001万",
       "likeCount": "6.15万",
       "commentCount": "4491"
-    },
-    {
-      "rank": 2392,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/KQZ75gaTktU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=KQZ75gaTktU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "西野カナ『もっと…』MV Full",
-        "url": "https://www.youtube.com/watch?v=KQZ75gaTktU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-08-27",
-      "viewCount": "1470万",
-      "likeCount": "6.15万",
-      "commentCount": "1122"
     },
     {
       "rank": 2393,
@@ -986,7 +986,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-15",
-      "viewCount": "1240万",
+      "viewCount": "1241万",
       "likeCount": "6.1万",
       "commentCount": "1561"
     },
@@ -1052,7 +1052,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-21",
-      "viewCount": "2210万",
+      "viewCount": "2211万",
       "likeCount": "6.08万",
       "commentCount": "2139"
     },
@@ -1074,9 +1074,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-02-13",
-      "viewCount": "1323万",
-      "likeCount": "6.07万",
-      "commentCount": "1361"
+      "viewCount": "1324万",
+      "likeCount": "6.08万",
+      "commentCount": "1360"
     },
     {
       "rank": 2400,
