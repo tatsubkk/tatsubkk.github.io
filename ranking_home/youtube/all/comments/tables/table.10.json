@@ -40,7 +40,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-07",
-      "viewCount": "2億4217万",
+      "viewCount": "2億4231万",
       "likeCount": "185万",
       "commentCount": "2.12万"
     },
@@ -62,7 +62,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-22",
-      "viewCount": "2238万",
+      "viewCount": "2239万",
       "likeCount": "-",
       "commentCount": "2.12万"
     },
@@ -84,7 +84,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-02-08",
-      "viewCount": "5337万",
+      "viewCount": "5338万",
       "likeCount": "19万",
       "commentCount": "2.11万"
     },
@@ -106,7 +106,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-11-18",
-      "viewCount": "3789万",
+      "viewCount": "3790万",
       "likeCount": "31.6万",
       "commentCount": "2.11万"
     },
@@ -128,7 +128,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-08-04",
-      "viewCount": "8045万",
+      "viewCount": "8047万",
       "likeCount": "59.5万",
       "commentCount": "2.11万"
     },
@@ -150,7 +150,7 @@
         "target": "_blank"
       },
       "publishedAt": "2018-02-12",
-      "viewCount": "6885万",
+      "viewCount": "6887万",
       "likeCount": "57.3万",
       "commentCount": "2.1万"
     },
@@ -238,7 +238,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-10-08",
-      "viewCount": "8107万",
+      "viewCount": "8108万",
       "likeCount": "35万",
       "commentCount": "2.08万"
     },
@@ -282,7 +282,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-01-18",
-      "viewCount": "1億4465万",
+      "viewCount": "1億4469万",
       "likeCount": "112万",
       "commentCount": "2.07万"
     },
@@ -304,7 +304,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-24",
-      "viewCount": "1億2309万",
+      "viewCount": "1億2313万",
       "likeCount": "100万",
       "commentCount": "2.07万"
     },
@@ -326,9 +326,9 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-22",
-      "viewCount": "2862万",
+      "viewCount": "2863万",
       "likeCount": "20.1万",
-      "commentCount": "2.06万"
+      "commentCount": "2.07万"
     },
     {
       "rank": 466,
@@ -348,7 +348,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-07-07",
-      "viewCount": "9006万",
+      "viewCount": "9008万",
       "likeCount": "55.5万",
       "commentCount": "2.05万"
     },
@@ -370,7 +370,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-01-17",
-      "viewCount": "5839万",
+      "viewCount": "5840万",
       "likeCount": "40.5万",
       "commentCount": "2.05万"
     },
@@ -414,7 +414,7 @@
         "target": "_blank"
       },
       "publishedAt": "2010-07-05",
-      "viewCount": "1257万",
+      "viewCount": "1258万",
       "likeCount": "-",
       "commentCount": "2.04万"
     },
@@ -458,34 +458,12 @@
         "target": "_blank"
       },
       "publishedAt": "2024-04-05",
-      "viewCount": "1719万",
+      "viewCount": "1720万",
       "likeCount": "12.4万",
       "commentCount": "2.03万"
     },
     {
       "rank": 472,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/FJWLj1-kGC0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=FJWLj1-kGC0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MISAMO「NEW LOOK」Music Video",
-        "url": "https://www.youtube.com/watch?v=FJWLj1-kGC0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "TWICE JAPAN OFFICIAL YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCCRb6nYKaT8tzLA8CwDdUtw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-10-08",
-      "viewCount": "2945万",
-      "likeCount": "47.6万",
-      "commentCount": "2.03万"
-    },
-    {
-      "rank": 473,
       "thumb": {
         "img": "https://i.ytimg.com/vi/wtJcLWeY114/default.jpg",
         "url": "https://www.youtube.com/watch?v=wtJcLWeY114",
@@ -502,8 +480,30 @@
         "target": "_blank"
       },
       "publishedAt": "2015-02-03",
-      "viewCount": "6255万",
+      "viewCount": "6256万",
       "likeCount": "37.7万",
+      "commentCount": "2.03万"
+    },
+    {
+      "rank": 473,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/FJWLj1-kGC0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=FJWLj1-kGC0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MISAMO「NEW LOOK」Music Video",
+        "url": "https://www.youtube.com/watch?v=FJWLj1-kGC0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "TWICE JAPAN OFFICIAL YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCCRb6nYKaT8tzLA8CwDdUtw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-10-08",
+      "viewCount": "2946万",
+      "likeCount": "47.7万",
       "commentCount": "2.03万"
     },
     {
@@ -568,7 +568,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-08-14",
-      "viewCount": "1億2276万",
+      "viewCount": "1億2277万",
       "likeCount": "33.6万",
       "commentCount": "2.02万"
     },
@@ -590,12 +590,34 @@
         "target": "_blank"
       },
       "publishedAt": "2018-07-13",
-      "viewCount": "6693万",
+      "viewCount": "6694万",
       "likeCount": "86.4万",
       "commentCount": "2.01万"
     },
     {
       "rank": 478,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/sPLqsLsooJY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=sPLqsLsooJY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "米津玄師, 宇多田ヒカル Kenshi Yonezu, Hikaru Utada -  JANE DOE",
+        "url": "https://www.youtube.com/watch?v=sPLqsLsooJY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2025-09-23",
+      "viewCount": "5069万",
+      "likeCount": "63.5万",
+      "commentCount": "2.01万"
+    },
+    {
+      "rank": 479,
       "thumb": {
         "img": "https://i.ytimg.com/vi/xeUWGjPwujg/default.jpg",
         "url": "https://www.youtube.com/watch?v=xeUWGjPwujg",
@@ -617,7 +639,7 @@
       "commentCount": "2.01万"
     },
     {
-      "rank": 479,
+      "rank": 480,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Jy-QS27q7lA/default.jpg",
         "url": "https://www.youtube.com/watch?v=Jy-QS27q7lA",
@@ -634,12 +656,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-04-25",
-      "viewCount": "1億1816万",
-      "likeCount": "47.6万",
+      "viewCount": "1億1823万",
+      "likeCount": "47.7万",
       "commentCount": "2.01万"
     },
     {
-      "rank": 480,
+      "rank": 481,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Eze6-eHmtJg/default.jpg",
         "url": "https://www.youtube.com/watch?v=Eze6-eHmtJg",
@@ -656,31 +678,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-23",
-      "viewCount": "1億2873万",
+      "viewCount": "1億2875万",
       "likeCount": "44.6万",
       "commentCount": "2.01万"
-    },
-    {
-      "rank": 481,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/sPLqsLsooJY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=sPLqsLsooJY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "米津玄師, 宇多田ヒカル Kenshi Yonezu, Hikaru Utada -  JANE DOE",
-        "url": "https://www.youtube.com/watch?v=sPLqsLsooJY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-09-23",
-      "viewCount": "5039万",
-      "likeCount": "63.4万",
-      "commentCount": "2万"
     },
     {
       "rank": 482,
@@ -700,7 +700,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-21",
-      "viewCount": "8547万",
+      "viewCount": "8552万",
       "likeCount": "103万",
       "commentCount": "2万"
     },
@@ -766,7 +766,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-03-21",
-      "viewCount": "8809万",
+      "viewCount": "8812万",
       "likeCount": "80.6万",
       "commentCount": "1.99万"
     },
@@ -832,7 +832,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-06-15",
-      "viewCount": "2867万",
+      "viewCount": "2868万",
       "likeCount": "-",
       "commentCount": "1.98万"
     },
@@ -854,8 +854,8 @@
         "target": "_blank"
       },
       "publishedAt": "2018-03-07",
-      "viewCount": "4157万",
-      "likeCount": "79.5万",
+      "viewCount": "4158万",
+      "likeCount": "79.6万",
       "commentCount": "1.98万"
     },
     {
@@ -876,7 +876,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-03-18",
-      "viewCount": "8904万",
+      "viewCount": "8905万",
       "likeCount": "39.3万",
       "commentCount": "1.98万"
     },
@@ -898,8 +898,8 @@
         "target": "_blank"
       },
       "publishedAt": "2019-02-13",
-      "viewCount": "9890万",
-      "likeCount": "79.3万",
+      "viewCount": "9894万",
+      "likeCount": "79.4万",
       "commentCount": "1.97万"
     },
     {
@@ -942,7 +942,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-10-17",
-      "viewCount": "3180万",
+      "viewCount": "3181万",
       "likeCount": "-",
       "commentCount": "1.97万"
     },
@@ -964,7 +964,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-07-28",
-      "viewCount": "1億5314万",
+      "viewCount": "1億5324万",
       "likeCount": "58.3万",
       "commentCount": "1.96万"
     },
@@ -1008,7 +1008,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-16",
-      "viewCount": "1億3802万",
+      "viewCount": "1億3808万",
       "likeCount": "121万",
       "commentCount": "1.95万"
     },
@@ -1096,7 +1096,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-09",
-      "viewCount": "4467万",
+      "viewCount": "4468万",
       "likeCount": "-",
       "commentCount": "1.93万"
     }

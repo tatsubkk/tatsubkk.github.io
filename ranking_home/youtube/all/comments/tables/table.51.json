@@ -69,6 +69,28 @@
     {
       "rank": 2504,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/5DNqESedFMk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=5DNqESedFMk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "米津玄師 - さよーならまたいつか！「虎に翼」OPタイトルバック・フル　Kenshi Yonezu - Sayonara, Mata Itsuka !",
+        "url": "https://www.youtube.com/watch?v=5DNqESedFMk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-09-24",
+      "viewCount": "1339万",
+      "likeCount": "10万",
+      "commentCount": "2292"
+    },
+    {
+      "rank": 2505,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/q4CbHfW3Ji8/default.jpg",
         "url": "https://www.youtube.com/watch?v=q4CbHfW3Ji8",
         "target": "_blank"
@@ -84,12 +106,12 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-29",
-      "viewCount": "3826万",
+      "viewCount": "3829万",
       "likeCount": "20.4万",
-      "commentCount": "2292"
+      "commentCount": "2291"
     },
     {
-      "rank": 2505,
+      "rank": 2506,
       "thumb": {
         "img": "https://i.ytimg.com/vi/5cvXmuuC1GI/default.jpg",
         "url": "https://www.youtube.com/watch?v=5cvXmuuC1GI",
@@ -106,30 +128,8 @@
         "target": "_blank"
       },
       "publishedAt": "2019-06-18",
-      "viewCount": "1402万",
+      "viewCount": "1403万",
       "likeCount": "11.7万",
-      "commentCount": "2290"
-    },
-    {
-      "rank": 2505,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/5DNqESedFMk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=5DNqESedFMk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "米津玄師 - さよーならまたいつか！「虎に翼」OPタイトルバック・フル　Kenshi Yonezu - Sayonara, Mata Itsuka !",
-        "url": "https://www.youtube.com/watch?v=5DNqESedFMk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-09-24",
-      "viewCount": "1337万",
-      "likeCount": "10万",
       "commentCount": "2290"
     },
     {
@@ -179,28 +179,6 @@
     {
       "rank": 2509,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/dVvFTKa62Ts/default.jpg",
-        "url": "https://www.youtube.com/watch?v=dVvFTKa62Ts",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "EXILE / EXILE PRIDE ～こんな世界を愛するため～",
-        "url": "https://www.youtube.com/watch?v=dVvFTKa62Ts",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-10-03",
-      "viewCount": "2057万",
-      "likeCount": "5.2万",
-      "commentCount": "2270"
-    },
-    {
-      "rank": 2510,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/cMsGcW-xaYU/default.jpg",
         "url": "https://www.youtube.com/watch?v=cMsGcW-xaYU",
         "target": "_blank"
@@ -218,7 +196,29 @@
       "publishedAt": "2013-06-18",
       "viewCount": "1752万",
       "likeCount": "7.1万",
-      "commentCount": "2268"
+      "commentCount": "2269"
+    },
+    {
+      "rank": 2509,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/dVvFTKa62Ts/default.jpg",
+        "url": "https://www.youtube.com/watch?v=dVvFTKa62Ts",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "EXILE / EXILE PRIDE ～こんな世界を愛するため～",
+        "url": "https://www.youtube.com/watch?v=dVvFTKa62Ts",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-10-03",
+      "viewCount": "2057万",
+      "likeCount": "5.2万",
+      "commentCount": "2269"
     },
     {
       "rank": 2511,
@@ -284,10 +284,10 @@
       "publishedAt": "2014-10-06",
       "viewCount": "1058万",
       "likeCount": "3.6万",
-      "commentCount": "2262"
+      "commentCount": "2263"
     },
     {
-      "rank": 2513,
+      "rank": 2514,
       "thumb": {
         "img": "https://i.ytimg.com/vi/8FDxco2VFS4/default.jpg",
         "url": "https://www.youtube.com/watch?v=8FDxco2VFS4",
@@ -355,6 +355,50 @@
     {
       "rank": 2517,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/XmYKA_NRvEc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=XmYKA_NRvEc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "中村あゆみ - 翼の折れたエンジェル",
+        "url": "https://www.youtube.com/watch?v=XmYKA_NRvEc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Warner Music Japan",
+        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
+        "target": "_blank"
+      },
+      "publishedAt": "2014-06-27",
+      "viewCount": "1894万",
+      "likeCount": "4.8万",
+      "commentCount": "2250"
+    },
+    {
+      "rank": 2518,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/E6iZ-xZ8x50/default.jpg",
+        "url": "https://www.youtube.com/watch?v=E6iZ-xZ8x50",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "あいみょん - GOOD NIGHT BABY【OFFICIAL MUSIC VIDEO】",
+        "url": "https://www.youtube.com/watch?v=E6iZ-xZ8x50",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "あいみょん",
+        "url": "https://www.youtube.com/channel/UCG8MvaPCa2ecKH3GZyFxduA",
+        "target": "_blank"
+      },
+      "publishedAt": "2018-10-13",
+      "viewCount": "1916万",
+      "likeCount": "7.8万",
+      "commentCount": "2249"
+    },
+    {
+      "rank": 2518,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/yZaiV-G3pbE/default.jpg",
         "url": "https://www.youtube.com/watch?v=yZaiV-G3pbE",
         "target": "_blank"
@@ -373,50 +417,6 @@
       "viewCount": "1933万",
       "likeCount": "10.1万",
       "commentCount": "2249"
-    },
-    {
-      "rank": 2517,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/E6iZ-xZ8x50/default.jpg",
-        "url": "https://www.youtube.com/watch?v=E6iZ-xZ8x50",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "あいみょん - GOOD NIGHT BABY【OFFICIAL MUSIC VIDEO】",
-        "url": "https://www.youtube.com/watch?v=E6iZ-xZ8x50",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "あいみょん",
-        "url": "https://www.youtube.com/channel/UCG8MvaPCa2ecKH3GZyFxduA",
-        "target": "_blank"
-      },
-      "publishedAt": "2018-10-13",
-      "viewCount": "1915万",
-      "likeCount": "7.8万",
-      "commentCount": "2249"
-    },
-    {
-      "rank": 2519,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/XmYKA_NRvEc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=XmYKA_NRvEc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "中村あゆみ - 翼の折れたエンジェル",
-        "url": "https://www.youtube.com/watch?v=XmYKA_NRvEc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Warner Music Japan",
-        "url": "https://www.youtube.com/channel/UCfb-Ly0RXaUGxglFJmPji1g",
-        "target": "_blank"
-      },
-      "publishedAt": "2014-06-27",
-      "viewCount": "1894万",
-      "likeCount": "4.8万",
-      "commentCount": "2248"
     },
     {
       "rank": 2520,
@@ -502,9 +502,9 @@
         "target": "_blank"
       },
       "publishedAt": "2013-07-12",
-      "viewCount": "1730万",
+      "viewCount": "1731万",
       "likeCount": "5.4万",
-      "commentCount": "2240"
+      "commentCount": "2241"
     },
     {
       "rank": 2524,
@@ -526,7 +526,7 @@
       "publishedAt": "2010-09-08",
       "viewCount": "1063万",
       "likeCount": "2.7万",
-      "commentCount": "2231"
+      "commentCount": "2232"
     },
     {
       "rank": 2525,
@@ -575,28 +575,6 @@
     {
       "rank": 2527,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/wqvvGoFAhig/default.jpg",
-        "url": "https://www.youtube.com/watch?v=wqvvGoFAhig",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "GENERATIONS from EXILE TRIBE / 「Evergreen」Music Video ～歌詞有り～",
-        "url": "https://www.youtube.com/watch?v=wqvvGoFAhig",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-04-13",
-      "viewCount": "1980万",
-      "likeCount": "5.6万",
-      "commentCount": "2222"
-    },
-    {
-      "rank": 2527,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/M3J1KRD1H1Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=M3J1KRD1H1Q",
         "target": "_blank"
@@ -617,6 +595,28 @@
       "commentCount": "2222"
     },
     {
+      "rank": 2527,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/wqvvGoFAhig/default.jpg",
+        "url": "https://www.youtube.com/watch?v=wqvvGoFAhig",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "GENERATIONS from EXILE TRIBE / 「Evergreen」Music Video ～歌詞有り～",
+        "url": "https://www.youtube.com/watch?v=wqvvGoFAhig",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-04-13",
+      "viewCount": "1980万",
+      "likeCount": "5.6万",
+      "commentCount": "2222"
+    },
+    {
       "rank": 2529,
       "thumb": {
         "img": "https://i.ytimg.com/vi/0fTxmlSYIrA/default.jpg",
@@ -634,7 +634,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-07-03",
-      "viewCount": "2006万",
+      "viewCount": "2007万",
       "likeCount": "7.8万",
       "commentCount": "2220"
     },
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-14",
-      "viewCount": "1995万",
+      "viewCount": "1996万",
       "likeCount": "9.8万",
       "commentCount": "2219"
     },
@@ -678,7 +678,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-29",
-      "viewCount": "1912万",
+      "viewCount": "1927万",
       "likeCount": "11.9万",
       "commentCount": "2218"
     },
@@ -707,6 +707,28 @@
     {
       "rank": 2533,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/bN1t3-2X3aM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=bN1t3-2X3aM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Aimer 『茜さす』MUSIC VIDEO（FULL ver.）",
+        "url": "https://www.youtube.com/watch?v=bN1t3-2X3aM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Aimer Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCR1zT1s524Hbc85bdvno_8w",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-04-09",
+      "viewCount": "2862万",
+      "likeCount": "14.2万",
+      "commentCount": "2215"
+    },
+    {
+      "rank": 2533,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/hiK0oehes2c/default.jpg",
         "url": "https://www.youtube.com/watch?v=hiK0oehes2c",
         "target": "_blank"
@@ -724,28 +746,6 @@
       "publishedAt": "2012-12-26",
       "viewCount": "1567万",
       "likeCount": "4.5万",
-      "commentCount": "2215"
-    },
-    {
-      "rank": 2533,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/bN1t3-2X3aM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=bN1t3-2X3aM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Aimer 『茜さす』MUSIC VIDEO（FULL ver.）",
-        "url": "https://www.youtube.com/watch?v=bN1t3-2X3aM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Aimer Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCR1zT1s524Hbc85bdvno_8w",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-04-09",
-      "viewCount": "2861万",
-      "likeCount": "14.2万",
       "commentCount": "2215"
     },
     {
@@ -817,6 +817,28 @@
     {
       "rank": 2538,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/MAn9ni-drZw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=MAn9ni-drZw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "西野カナ『 if 』MV Full",
+        "url": "https://www.youtube.com/watch?v=MAn9ni-drZw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-07-07",
+      "viewCount": "1727万",
+      "likeCount": "8.4万",
+      "commentCount": "2199"
+    },
+    {
+      "rank": 2538,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/HGJK1IKIvrI/default.jpg",
         "url": "https://www.youtube.com/watch?v=HGJK1IKIvrI",
         "target": "_blank"
@@ -837,29 +859,7 @@
       "commentCount": "2199"
     },
     {
-      "rank": 2539,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/MAn9ni-drZw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=MAn9ni-drZw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "西野カナ『 if 』MV Full",
-        "url": "https://www.youtube.com/watch?v=MAn9ni-drZw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-07-07",
-      "viewCount": "1725万",
-      "likeCount": "8.4万",
-      "commentCount": "2198"
-    },
-    {
-      "rank": 2539,
+      "rank": 2540,
       "thumb": {
         "img": "https://i.ytimg.com/vi/1zKo_I8VhkA/default.jpg",
         "url": "https://www.youtube.com/watch?v=1zKo_I8VhkA",
@@ -898,7 +898,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-12-26",
-      "viewCount": "2205万",
+      "viewCount": "2206万",
       "likeCount": "11.9万",
       "commentCount": "2195"
     },
@@ -942,7 +942,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-11-08",
-      "viewCount": "4371万",
+      "viewCount": "4372万",
       "likeCount": "7.5万",
       "commentCount": "2187"
     },
@@ -1074,7 +1074,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-08-15",
-      "viewCount": "1716万",
+      "viewCount": "1717万",
       "likeCount": "7.5万",
       "commentCount": "2170"
     },
@@ -1096,7 +1096,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-07-15",
-      "viewCount": "1133万",
+      "viewCount": "1134万",
       "likeCount": "7.5万",
       "commentCount": "2168"
     }

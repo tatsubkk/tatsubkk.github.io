@@ -21,7 +21,7 @@
       "viewCount": "2148万",
       "likeCount": "11万",
       "commentCount": "3503",
-      "increment_d1": "1157"
+      "increment_d1": "1282"
     },
     {
       "rank": 1602,
@@ -44,7 +44,7 @@
       "viewCount": "2147万",
       "likeCount": "22.5万",
       "commentCount": "1.1万",
-      "increment_d1": "735"
+      "increment_d1": "684"
     },
     {
       "rank": 1603,
@@ -67,7 +67,7 @@
       "viewCount": "2147万",
       "likeCount": "3.4万",
       "commentCount": "1289",
-      "increment_d1": "241"
+      "increment_d1": "211"
     },
     {
       "rank": 1604,
@@ -90,10 +90,33 @@
       "viewCount": "2146万",
       "likeCount": "38.3万",
       "commentCount": "3.2万",
-      "increment_d1": "646"
+      "increment_d1": "776"
     },
     {
       "rank": 1605,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/xhgYtfanNLA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=xhgYtfanNLA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "セブンティーン",
+        "url": "https://www.youtube.com/watch?v=xhgYtfanNLA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-05-09",
+      "viewCount": "2146万",
+      "likeCount": "7.8万",
+      "commentCount": "207",
+      "increment_d1": "1.78万"
+    },
+    {
+      "rank": 1606,
       "thumb": {
         "img": "https://i.ytimg.com/vi/PmlELBZeEzQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=PmlELBZeEzQ",
@@ -113,10 +136,10 @@
       "viewCount": "2146万",
       "likeCount": "4.6万",
       "commentCount": "1503",
-      "increment_d1": "1824"
+      "increment_d1": "1825"
     },
     {
-      "rank": 1606,
+      "rank": 1607,
       "thumb": {
         "img": "https://i.ytimg.com/vi/eaq_Rp9xE-E/default.jpg",
         "url": "https://www.youtube.com/watch?v=eaq_Rp9xE-E",
@@ -136,56 +159,10 @@
       "viewCount": "2145万",
       "likeCount": "18.6万",
       "commentCount": "1.2万",
-      "increment_d1": "864"
-    },
-    {
-      "rank": 1607,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/xhgYtfanNLA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=xhgYtfanNLA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "セブンティーン",
-        "url": "https://www.youtube.com/watch?v=xhgYtfanNLA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-05-09",
-      "viewCount": "2144万",
-      "likeCount": "7.8万",
-      "commentCount": "207",
-      "increment_d1": "1.96万"
+      "increment_d1": "943"
     },
     {
       "rank": 1608,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/sW3RT0tF020/default.jpg",
-        "url": "https://www.youtube.com/watch?v=sW3RT0tF020",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "西野カナ『トリセツ』『ヒロイン失格』主題歌 歌詞つき（フルカバー）(Kobasolo & Lefty hand cream) - 西野加奈『使用說明書』 - 翻唱歌曲 니시노 카나 /토리세츠",
-        "url": "https://www.youtube.com/watch?v=sW3RT0tF020",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "kobasolo",
-        "url": "https://www.youtube.com/channel/UCDbQblY1XASbgqOXmy6FOFQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-10-16",
-      "viewCount": "2144万",
-      "likeCount": "9.3万",
-      "commentCount": "2353",
-      "increment_d1": "390"
-    },
-    {
-      "rank": 1609,
       "thumb": {
         "img": "https://i.ytimg.com/vi/dkzJvtdgrOM/default.jpg",
         "url": "https://www.youtube.com/watch?v=dkzJvtdgrOM",
@@ -205,7 +182,30 @@
       "viewCount": "2144万",
       "likeCount": "5.3万",
       "commentCount": "2501",
-      "increment_d1": "3315"
+      "increment_d1": "3221"
+    },
+    {
+      "rank": 1609,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/sW3RT0tF020/default.jpg",
+        "url": "https://www.youtube.com/watch?v=sW3RT0tF020",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "西野カナ『トリセツ』『ヒロイン失格』主題歌 歌詞つき（フルカバー）(Kobasolo & Lefty hand cream) - 西野加奈『使用說明書』 - 翻唱歌曲 니시노 카나 /토리세츠",
+        "url": "https://www.youtube.com/watch?v=sW3RT0tF020",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "kobasolo",
+        "url": "https://www.youtube.com/channel/UCDbQblY1XASbgqOXmy6FOFQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-10-16",
+      "viewCount": "2144万",
+      "likeCount": "9.3万",
+      "commentCount": "2353",
+      "increment_d1": "290"
     },
     {
       "rank": 1610,
@@ -225,36 +225,13 @@
         "target": "_blank"
       },
       "publishedAt": "2023-05-17",
-      "viewCount": "2143万",
+      "viewCount": "2144万",
       "likeCount": "35.7万",
-      "commentCount": "7688",
-      "increment_d1": "4032"
+      "commentCount": "7686",
+      "increment_d1": "4156"
     },
     {
       "rank": 1611,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1y8u1t3PdtE/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1y8u1t3PdtE",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "e-girls / 「CANDY SMILE」　-Short ver.-",
-        "url": "https://www.youtube.com/watch?v=1y8u1t3PdtE",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-02-25",
-      "viewCount": "2142万",
-      "likeCount": "3.3万",
-      "commentCount": "2436",
-      "increment_d1": "870"
-    },
-    {
-      "rank": 1612,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ZIEQDjrAdwE/default.jpg",
         "url": "https://www.youtube.com/watch?v=ZIEQDjrAdwE",
@@ -271,10 +248,33 @@
         "target": "_blank"
       },
       "publishedAt": "2014-04-11",
-      "viewCount": "2142万",
+      "viewCount": "2143万",
       "likeCount": "7.1万",
       "commentCount": "1918",
-      "increment_d1": "4848"
+      "increment_d1": "5024"
+    },
+    {
+      "rank": 1612,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1y8u1t3PdtE/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1y8u1t3PdtE",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "e-girls / 「CANDY SMILE」　-Short ver.-",
+        "url": "https://www.youtube.com/watch?v=1y8u1t3PdtE",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-02-25",
+      "viewCount": "2143万",
+      "likeCount": "3.3万",
+      "commentCount": "2436",
+      "increment_d1": "718"
     },
     {
       "rank": 1613,
@@ -297,7 +297,7 @@
       "viewCount": "2140万",
       "likeCount": "12.9万",
       "commentCount": "1881",
-      "increment_d1": "6847"
+      "increment_d1": "6623"
     },
     {
       "rank": 1614,
@@ -317,10 +317,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-05-08",
-      "viewCount": "2139万",
+      "viewCount": "2140万",
       "likeCount": "23.1万",
-      "commentCount": "2691",
-      "increment_d1": "8102"
+      "commentCount": "2692",
+      "increment_d1": "7557"
     },
     {
       "rank": 1615,
@@ -340,10 +340,10 @@
         "target": "_blank"
       },
       "publishedAt": "2016-09-08",
-      "viewCount": "2138万",
+      "viewCount": "2139万",
       "likeCount": "7.2万",
       "commentCount": "3962",
-      "increment_d1": "1034"
+      "increment_d1": "1114"
     },
     {
       "rank": 1616,
@@ -366,7 +366,7 @@
       "viewCount": "2135万",
       "likeCount": "7.8万",
       "commentCount": "5495",
-      "increment_d1": "1461"
+      "increment_d1": "1244"
     },
     {
       "rank": 1617,
@@ -386,10 +386,10 @@
         "target": "_blank"
       },
       "publishedAt": "2014-05-04",
-      "viewCount": "2132万",
+      "viewCount": "2133万",
       "likeCount": "6.3万",
-      "commentCount": "2026",
-      "increment_d1": "1798"
+      "commentCount": "2033",
+      "increment_d1": "2914"
     },
     {
       "rank": 1618,
@@ -412,7 +412,7 @@
       "viewCount": "2132万",
       "likeCount": "4.1万",
       "commentCount": "1462",
-      "increment_d1": "3714"
+      "increment_d1": "3491"
     },
     {
       "rank": 1619,
@@ -434,8 +434,8 @@
       "publishedAt": "2012-10-24",
       "viewCount": "2131万",
       "likeCount": "5.4万",
-      "commentCount": "1327",
-      "increment_d1": "3779"
+      "commentCount": "1328",
+      "increment_d1": "3816"
     },
     {
       "rank": 1620,
@@ -457,8 +457,8 @@
       "publishedAt": "2015-02-03",
       "viewCount": "2131万",
       "likeCount": "19.9万",
-      "commentCount": "5278",
-      "increment_d1": "4553"
+      "commentCount": "5280",
+      "increment_d1": "3869"
     },
     {
       "rank": 1621,
@@ -478,10 +478,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-18",
-      "viewCount": "2130万",
+      "viewCount": "2131万",
       "likeCount": "13.3万",
       "commentCount": "7226",
-      "increment_d1": "5054"
+      "increment_d1": "4713"
     },
     {
       "rank": 1622,
@@ -501,10 +501,10 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-23",
-      "viewCount": "2124万",
+      "viewCount": "2126万",
       "likeCount": "24.6万",
-      "commentCount": "6130",
-      "increment_d1": "1.82万"
+      "commentCount": "6132",
+      "increment_d1": "1.72万"
     },
     {
       "rank": 1623,
@@ -524,10 +524,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-04-10",
-      "viewCount": "2123万",
+      "viewCount": "2124万",
       "likeCount": "18.7万",
       "commentCount": "4780",
-      "increment_d1": "7860"
+      "increment_d1": "7878"
     },
     {
       "rank": 1624,
@@ -547,10 +547,10 @@
         "target": "_blank"
       },
       "publishedAt": "2018-01-17",
-      "viewCount": "2122万",
+      "viewCount": "2123万",
       "likeCount": "4.8万",
       "commentCount": "2495",
-      "increment_d1": "3497"
+      "increment_d1": "3528"
     },
     {
       "rank": 1625,
@@ -572,8 +572,8 @@
       "publishedAt": "2010-04-06",
       "viewCount": "2120万",
       "likeCount": "4万",
-      "commentCount": "2372",
-      "increment_d1": "4508"
+      "commentCount": "2374",
+      "increment_d1": "4366"
     },
     {
       "rank": 1626,
@@ -596,7 +596,7 @@
       "viewCount": "2119万",
       "likeCount": "11.4万",
       "commentCount": "5669",
-      "increment_d1": "510"
+      "increment_d1": "483"
     },
     {
       "rank": 1627,
@@ -616,36 +616,59 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-28",
-      "viewCount": "2117万",
+      "viewCount": "2118万",
       "likeCount": "5.2万",
       "commentCount": "2402",
-      "increment_d1": "5575"
+      "increment_d1": "5450"
     },
     {
       "rank": 1628,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/Y5zj3dwNxJw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Y5zj3dwNxJw",
+        "img": "https://i.ytimg.com/vi/CO0Eoj9aPcs/default.jpg",
+        "url": "https://www.youtube.com/watch?v=CO0Eoj9aPcs",
         "target": "_blank"
       },
       "title": {
-        "text": "和楽器バンド / 「戦-ikusa-」／Wagakki Band「Ikusa」Music Video",
-        "url": "https://www.youtube.com/watch?v=Y5zj3dwNxJw",
+        "text": "Mrs. GREEN APPLE「天国」Official Music Video",
+        "url": "https://www.youtube.com/watch?v=CO0Eoj9aPcs",
         "target": "_blank"
       },
       "channel": {
-        "text": "avex",
-        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "text": "Mrs. GREEN APPLE",
+        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
         "target": "_blank"
       },
-      "publishedAt": "2015-01-16",
-      "viewCount": "2115万",
-      "likeCount": "13.7万",
-      "commentCount": "3145",
-      "increment_d1": "510"
+      "publishedAt": "2025-05-02",
+      "viewCount": "2117万",
+      "likeCount": "22.1万",
+      "commentCount": "1.5万",
+      "increment_d1": "4万"
     },
     {
       "rank": 1629,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/vrkbf9CVkn4/default.jpg",
+        "url": "https://www.youtube.com/watch?v=vrkbf9CVkn4",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "福山雅治 - 家族になろうよ (Full ver.)",
+        "url": "https://www.youtube.com/watch?v=vrkbf9CVkn4",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "福山雅治 Official",
+        "url": "https://www.youtube.com/channel/UCPzNj3UR5Sa8UDNL5j7_rOQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-03-11",
+      "viewCount": "2116万",
+      "likeCount": "-",
+      "commentCount": "3264",
+      "increment_d1": "9091"
+    },
+    {
+      "rank": 1630,
       "thumb": {
         "img": "https://i.ytimg.com/vi/DlyG6MAKUOA/default.jpg",
         "url": "https://www.youtube.com/watch?v=DlyG6MAKUOA",
@@ -665,33 +688,33 @@
       "viewCount": "2115万",
       "likeCount": "20.5万",
       "commentCount": "6849",
-      "increment_d1": "3236"
-    },
-    {
-      "rank": 1630,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/vrkbf9CVkn4/default.jpg",
-        "url": "https://www.youtube.com/watch?v=vrkbf9CVkn4",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "福山雅治 - 家族になろうよ (Full ver.)",
-        "url": "https://www.youtube.com/watch?v=vrkbf9CVkn4",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "福山雅治 Official",
-        "url": "https://www.youtube.com/channel/UCPzNj3UR5Sa8UDNL5j7_rOQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-03-11",
-      "viewCount": "2115万",
-      "likeCount": "-",
-      "commentCount": "3262",
-      "increment_d1": "9119"
+      "increment_d1": "3208"
     },
     {
       "rank": 1631,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Y5zj3dwNxJw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Y5zj3dwNxJw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "和楽器バンド / 「戦-ikusa-」／Wagakki Band「Ikusa」Music Video",
+        "url": "https://www.youtube.com/watch?v=Y5zj3dwNxJw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "avex",
+        "url": "https://www.youtube.com/channel/UC1oPBUWifc0QOOY8DEKhLuQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-01-16",
+      "viewCount": "2115万",
+      "likeCount": "13.7万",
+      "commentCount": "3144",
+      "increment_d1": "463"
+    },
+    {
+      "rank": 1632,
       "thumb": {
         "img": "https://i.ytimg.com/vi/F3cXxqgbx9Y/default.jpg",
         "url": "https://www.youtube.com/watch?v=F3cXxqgbx9Y",
@@ -711,10 +734,10 @@
       "viewCount": "2114万",
       "likeCount": "20.9万",
       "commentCount": "6951",
-      "increment_d1": "5106"
+      "increment_d1": "5309"
     },
     {
-      "rank": 1632,
+      "rank": 1633,
       "thumb": {
         "img": "https://i.ytimg.com/vi/mDvM37bNsRQ/default.jpg",
         "url": "https://www.youtube.com/watch?v=mDvM37bNsRQ",
@@ -731,33 +754,10 @@
         "target": "_blank"
       },
       "publishedAt": "2017-02-17",
-      "viewCount": "2113万",
+      "viewCount": "2114万",
       "likeCount": "8.4万",
       "commentCount": "3204",
-      "increment_d1": "3331"
-    },
-    {
-      "rank": 1633,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/CO0Eoj9aPcs/default.jpg",
-        "url": "https://www.youtube.com/watch?v=CO0Eoj9aPcs",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Mrs. GREEN APPLE「天国」Official Music Video",
-        "url": "https://www.youtube.com/watch?v=CO0Eoj9aPcs",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Mrs. GREEN APPLE",
-        "url": "https://www.youtube.com/channel/UCpFgmZm65yOU5X-hmWkWjuw",
-        "target": "_blank"
-      },
-      "publishedAt": "2025-05-02",
-      "viewCount": "2113万",
-      "likeCount": "22万",
-      "commentCount": "1.5万",
-      "increment_d1": "4.06万"
+      "increment_d1": "3606"
     },
     {
       "rank": 1634,
@@ -777,10 +777,10 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-16",
-      "viewCount": "2112万",
+      "viewCount": "2113万",
       "likeCount": "6.5万",
-      "commentCount": "2727",
-      "increment_d1": "5685"
+      "commentCount": "2731",
+      "increment_d1": "5333"
     },
     {
       "rank": 1635,
@@ -803,7 +803,7 @@
       "viewCount": "2111万",
       "likeCount": "5.7万",
       "commentCount": "2788",
-      "increment_d1": "2191"
+      "increment_d1": "2115"
     },
     {
       "rank": 1636,
@@ -826,7 +826,7 @@
       "viewCount": "2111万",
       "likeCount": "19.5万",
       "commentCount": "9948",
-      "increment_d1": "2464"
+      "increment_d1": "2455"
     },
     {
       "rank": 1637,
@@ -846,10 +846,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-09",
-      "viewCount": "2107万",
+      "viewCount": "2108万",
       "likeCount": "22万",
       "commentCount": "2851",
-      "increment_d1": "8669"
+      "increment_d1": "8196"
     },
     {
       "rank": 1638,
@@ -872,7 +872,7 @@
       "viewCount": "2107万",
       "likeCount": "12.4万",
       "commentCount": "2938",
-      "increment_d1": "6973"
+      "increment_d1": "6691"
     },
     {
       "rank": 1639,
@@ -895,7 +895,7 @@
       "viewCount": "2105万",
       "likeCount": "48.6万",
       "commentCount": "2.2万",
-      "increment_d1": "1087"
+      "increment_d1": "1084"
     },
     {
       "rank": 1640,
@@ -917,8 +917,8 @@
       "publishedAt": "2023-09-01",
       "viewCount": "2104万",
       "likeCount": "23.6万",
-      "commentCount": "6295",
-      "increment_d1": "6425"
+      "commentCount": "6298",
+      "increment_d1": "6695"
     },
     {
       "rank": 1641,
@@ -940,8 +940,8 @@
       "publishedAt": "2011-01-09",
       "viewCount": "2101万",
       "likeCount": "7.4万",
-      "commentCount": "3954",
-      "increment_d1": "1642"
+      "commentCount": "3956",
+      "increment_d1": "1682"
     },
     {
       "rank": 1642,
@@ -961,10 +961,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-08-06",
-      "viewCount": "2099万",
+      "viewCount": "2100万",
       "likeCount": "14.5万",
-      "commentCount": "8362",
-      "increment_d1": "2867"
+      "commentCount": "8363",
+      "increment_d1": "2946"
     },
     {
       "rank": 1643,
@@ -986,8 +986,8 @@
       "publishedAt": "2010-11-21",
       "viewCount": "2098万",
       "likeCount": "7.1万",
-      "commentCount": "9188",
-      "increment_d1": "1212"
+      "commentCount": "9189",
+      "increment_d1": "1328"
     },
     {
       "rank": 1644,
@@ -1007,10 +1007,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-06-05",
-      "viewCount": "2097万",
+      "viewCount": "2098万",
       "likeCount": "21.8万",
       "commentCount": "5914",
-      "increment_d1": "2569"
+      "increment_d1": "2296"
     },
     {
       "rank": 1645,
@@ -1030,13 +1030,36 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-28",
-      "viewCount": "2096万",
+      "viewCount": "2097万",
       "likeCount": "15万",
       "commentCount": "2.5万",
-      "increment_d1": "1.01万"
+      "increment_d1": "9845"
     },
     {
       "rank": 1646,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/RhN3PZCgjiY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=RhN3PZCgjiY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Vaundy LIVE \"怪獣の花唄\" | 2023.03.26 Vaundy one man live tour \"replica\" (JAPAN/TOKYO)",
+        "url": "https://www.youtube.com/watch?v=RhN3PZCgjiY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Vaundy",
+        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-05-16",
+      "viewCount": "2096万",
+      "likeCount": "7.2万",
+      "commentCount": "1095",
+      "increment_d1": "2.03万"
+    },
+    {
+      "rank": 1647,
       "thumb": {
         "img": "https://i.ytimg.com/vi/jb6AHqi0MbE/default.jpg",
         "url": "https://www.youtube.com/watch?v=jb6AHqi0MbE",
@@ -1056,10 +1079,10 @@
       "viewCount": "2095万",
       "likeCount": "29.6万",
       "commentCount": "7936",
-      "increment_d1": "2786"
+      "increment_d1": "2715"
     },
     {
-      "rank": 1647,
+      "rank": 1648,
       "thumb": {
         "img": "https://i.ytimg.com/vi/b5lsuPxMFmw/default.jpg",
         "url": "https://www.youtube.com/watch?v=b5lsuPxMFmw",
@@ -1077,35 +1100,35 @@
       },
       "publishedAt": "2020-01-31",
       "viewCount": "2095万",
-      "likeCount": "25万",
-      "commentCount": "5021",
-      "increment_d1": "3878"
-    },
-    {
-      "rank": 1648,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/RhN3PZCgjiY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=RhN3PZCgjiY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Vaundy LIVE \"怪獣の花唄\" | 2023.03.26 Vaundy one man live tour \"replica\" (JAPAN/TOKYO)",
-        "url": "https://www.youtube.com/watch?v=RhN3PZCgjiY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Vaundy",
-        "url": "https://www.youtube.com/channel/UC1FQWQ3y3-e8l1pCtWhJt5A",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-05-16",
-      "viewCount": "2094万",
-      "likeCount": "7.2万",
-      "commentCount": "1095",
-      "increment_d1": "1.88万"
+      "likeCount": "25.1万",
+      "commentCount": "5019",
+      "increment_d1": "3715"
     },
     {
       "rank": 1649,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/R-ZZr0tZfcY/default.jpg",
+        "url": "https://www.youtube.com/watch?v=R-ZZr0tZfcY",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ONE OK ROCK - Cry out [Official Video from AMBITIONS JAPAN DOME TOUR]",
+        "url": "https://www.youtube.com/watch?v=R-ZZr0tZfcY",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "ONE OK ROCK",
+        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-07-30",
+      "viewCount": "2093万",
+      "likeCount": "15.8万",
+      "commentCount": "4257",
+      "increment_d1": "4499"
+    },
+    {
+      "rank": 1650,
       "thumb": {
         "img": "https://i.ytimg.com/vi/q-RrB2OBf6s/default.jpg",
         "url": "https://www.youtube.com/watch?v=q-RrB2OBf6s",
@@ -1125,30 +1148,7 @@
       "viewCount": "2093万",
       "likeCount": "10.3万",
       "commentCount": "7.6万",
-      "increment_d1": "1240"
-    },
-    {
-      "rank": 1650,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/R-ZZr0tZfcY/default.jpg",
-        "url": "https://www.youtube.com/watch?v=R-ZZr0tZfcY",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ONE OK ROCK - Cry out [Official Video from AMBITIONS JAPAN DOME TOUR]",
-        "url": "https://www.youtube.com/watch?v=R-ZZr0tZfcY",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "ONE OK ROCK",
-        "url": "https://www.youtube.com/channel/UCzycs8MqvIY4nXWwS-v4J9g",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-07-30",
-      "viewCount": "2092万",
-      "likeCount": "15.8万",
-      "commentCount": "4256",
-      "increment_d1": "4880"
+      "increment_d1": "1372"
     }
   ]
 }
