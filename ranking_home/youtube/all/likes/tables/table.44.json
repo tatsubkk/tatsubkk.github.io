@@ -86,7 +86,7 @@
       "publishedAt": "2010-12-07",
       "viewCount": "2174万",
       "likeCount": "7.95万",
-      "commentCount": "2850"
+      "commentCount": "2854"
     },
     {
       "rank": 2155,
@@ -196,7 +196,7 @@
       "publishedAt": "2010-09-08",
       "viewCount": "2638万",
       "likeCount": "7.9万",
-      "commentCount": "6231"
+      "commentCount": "6235"
     },
     {
       "rank": 2160,
@@ -238,7 +238,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-08-16",
-      "viewCount": "1634万",
+      "viewCount": "1635万",
       "likeCount": "7.89万",
       "commentCount": "2941"
     },
@@ -261,7 +261,7 @@
       },
       "publishedAt": "2016-03-09",
       "viewCount": "1614万",
-      "likeCount": "7.85万",
+      "likeCount": "7.86万",
       "commentCount": "1684"
     },
     {
@@ -304,7 +304,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-04-14",
-      "viewCount": "2403万",
+      "viewCount": "2404万",
       "likeCount": "7.84万",
       "commentCount": "1257"
     },
@@ -333,6 +333,28 @@
     {
       "rank": 2166,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/PG8xpE7Fl-I/default.jpg",
+        "url": "https://www.youtube.com/watch?v=PG8xpE7Fl-I",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "斉藤和義 – ずっと好きだった [Music Video]",
+        "url": "https://www.youtube.com/watch?v=PG8xpE7Fl-I",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "斉藤和義",
+        "url": "https://www.youtube.com/channel/UCw61Gu5Wa_r16dscWoAzUhA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-05-14",
+      "viewCount": "1887万",
+      "likeCount": "7.83万",
+      "commentCount": "1828"
+    },
+    {
+      "rank": 2167,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/MzvXWwp25Qk/default.jpg",
         "url": "https://www.youtube.com/watch?v=MzvXWwp25Qk",
         "target": "_blank"
@@ -351,28 +373,6 @@
       "viewCount": "2970万",
       "likeCount": "7.83万",
       "commentCount": "4723"
-    },
-    {
-      "rank": 2167,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/PG8xpE7Fl-I/default.jpg",
-        "url": "https://www.youtube.com/watch?v=PG8xpE7Fl-I",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "斉藤和義 – ずっと好きだった [Music Video]",
-        "url": "https://www.youtube.com/watch?v=PG8xpE7Fl-I",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "斉藤和義",
-        "url": "https://www.youtube.com/channel/UCw61Gu5Wa_r16dscWoAzUhA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-05-14",
-      "viewCount": "1886万",
-      "likeCount": "7.83万",
-      "commentCount": "1830"
     },
     {
       "rank": 2168,
@@ -394,7 +394,7 @@
       "publishedAt": "2011-03-25",
       "viewCount": "2304万",
       "likeCount": "7.83万",
-      "commentCount": "2364"
+      "commentCount": "2366"
     },
     {
       "rank": 2169,
@@ -414,9 +414,9 @@
         "target": "_blank"
       },
       "publishedAt": "2023-01-10",
-      "viewCount": "2222万",
+      "viewCount": "2223万",
       "likeCount": "7.83万",
-      "commentCount": "1449"
+      "commentCount": "1450"
     },
     {
       "rank": 2170,
@@ -480,7 +480,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-03-23",
-      "viewCount": "3141万",
+      "viewCount": "3142万",
       "likeCount": "7.8万",
       "commentCount": "782"
     },
@@ -548,7 +548,7 @@
       "publishedAt": "2014-12-03",
       "viewCount": "1388万",
       "likeCount": "7.78万",
-      "commentCount": "2697"
+      "commentCount": "2699"
     },
     {
       "rank": 2176,
@@ -569,11 +569,33 @@
       },
       "publishedAt": "2012-01-18",
       "viewCount": "1924万",
-      "likeCount": "7.77万",
+      "likeCount": "7.78万",
       "commentCount": "2246"
     },
     {
       "rank": 2177,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/xhgYtfanNLA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=xhgYtfanNLA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "セブンティーン",
+        "url": "https://www.youtube.com/watch?v=xhgYtfanNLA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-05-09",
+      "viewCount": "2148万",
+      "likeCount": "7.77万",
+      "commentCount": "207"
+    },
+    {
+      "rank": 2178,
       "thumb": {
         "img": "https://i.ytimg.com/vi/uc-q5qS6D9M/default.jpg",
         "url": "https://www.youtube.com/watch?v=uc-q5qS6D9M",
@@ -593,28 +615,6 @@
       "viewCount": "2135万",
       "likeCount": "7.77万",
       "commentCount": "5495"
-    },
-    {
-      "rank": 2178,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/xhgYtfanNLA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=xhgYtfanNLA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "セブンティーン",
-        "url": "https://www.youtube.com/watch?v=xhgYtfanNLA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-05-09",
-      "viewCount": "2146万",
-      "likeCount": "7.77万",
-      "commentCount": "207"
     },
     {
       "rank": 2179,
@@ -658,7 +658,7 @@
       "publishedAt": "2020-05-14",
       "viewCount": "1294万",
       "likeCount": "7.75万",
-      "commentCount": "2052"
+      "commentCount": "2054"
     },
     {
       "rank": 2181,
@@ -685,28 +685,6 @@
     {
       "rank": 2182,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/7kZNdnv_haM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=7kZNdnv_haM",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "河口恭吾 - 桜",
-        "url": "https://www.youtube.com/watch?v=7kZNdnv_haM",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "河口恭吾",
-        "url": "https://www.youtube.com/channel/UCxTvRJDOZKPC8vvS3O8-z8Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2011-06-21",
-      "viewCount": "1682万",
-      "likeCount": "7.73万",
-      "commentCount": "147"
-    },
-    {
-      "rank": 2183,
-      "thumb": {
         "img": "https://i.ytimg.com/vi/4ZGTUOiFY-8/default.jpg",
         "url": "https://www.youtube.com/watch?v=4ZGTUOiFY-8",
         "target": "_blank"
@@ -725,6 +703,28 @@
       "viewCount": "1326万",
       "likeCount": "7.73万",
       "commentCount": "1778"
+    },
+    {
+      "rank": 2183,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/7kZNdnv_haM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=7kZNdnv_haM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "河口恭吾 - 桜",
+        "url": "https://www.youtube.com/watch?v=7kZNdnv_haM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "河口恭吾",
+        "url": "https://www.youtube.com/channel/UCxTvRJDOZKPC8vvS3O8-z8Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2011-06-21",
+      "viewCount": "1682万",
+      "likeCount": "7.73万",
+      "commentCount": "147"
     },
     {
       "rank": 2184,
@@ -766,8 +766,8 @@
         "target": "_blank"
       },
       "publishedAt": "2025-07-18",
-      "viewCount": "1402万",
-      "likeCount": "7.71万",
+      "viewCount": "1403万",
+      "likeCount": "7.72万",
       "commentCount": "1874"
     },
     {
@@ -790,7 +790,7 @@
       "publishedAt": "2012-04-09",
       "viewCount": "1365万",
       "likeCount": "7.71万",
-      "commentCount": "2279"
+      "commentCount": "2280"
     },
     {
       "rank": 2187,
@@ -876,7 +876,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-05-28",
-      "viewCount": "3785万",
+      "viewCount": "3786万",
       "likeCount": "7.68万",
       "commentCount": "3160"
     },
@@ -898,7 +898,7 @@
         "target": "_blank"
       },
       "publishedAt": "2020-11-18",
-      "viewCount": "2514万",
+      "viewCount": "2515万",
       "likeCount": "7.67万",
       "commentCount": "4262"
     },
@@ -920,9 +920,9 @@
         "target": "_blank"
       },
       "publishedAt": "2016-09-02",
-      "viewCount": "1723万",
-      "likeCount": "7.66万",
-      "commentCount": "2938"
+      "viewCount": "1724万",
+      "likeCount": "7.67万",
+      "commentCount": "2937"
     },
     {
       "rank": 2193,
@@ -944,7 +944,7 @@
       "publishedAt": "2021-01-19",
       "viewCount": "1029万",
       "likeCount": "7.66万",
-      "commentCount": "9457"
+      "commentCount": "9458"
     },
     {
       "rank": 2194,
@@ -965,8 +965,8 @@
       },
       "publishedAt": "2012-11-07",
       "viewCount": "3637万",
-      "likeCount": "7.65万",
-      "commentCount": "2896"
+      "likeCount": "7.66万",
+      "commentCount": "2898"
     },
     {
       "rank": 2195,
@@ -986,7 +986,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-12-21",
-      "viewCount": "1645万",
+      "viewCount": "1646万",
       "likeCount": "7.65万",
       "commentCount": "2416"
     },
@@ -1008,12 +1008,34 @@
         "target": "_blank"
       },
       "publishedAt": "2022-06-08",
-      "viewCount": "1147万",
+      "viewCount": "1148万",
       "likeCount": "7.64万",
       "commentCount": "2185"
     },
     {
       "rank": 2197,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/Xnws-1Oz4kM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Xnws-1Oz4kM",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "T.M.Revolution 『WHITE BREATH』",
+        "url": "https://www.youtube.com/watch?v=Xnws-1Oz4kM",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "T.M.Revolution",
+        "url": "https://www.youtube.com/channel/UCq1xU8DeDDRqu2q618RDvhQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2012-11-07",
+      "viewCount": "2383万",
+      "likeCount": "7.63万",
+      "commentCount": "4556"
+    },
+    {
+      "rank": 2198,
       "thumb": {
         "img": "https://i.ytimg.com/vi/-97bU0sptZU/default.jpg",
         "url": "https://www.youtube.com/watch?v=-97bU0sptZU",
@@ -1035,7 +1057,7 @@
       "commentCount": "9643"
     },
     {
-      "rank": 2198,
+      "rank": 2199,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ajJKtzg--5g/default.jpg",
         "url": "https://www.youtube.com/watch?v=ajJKtzg--5g",
@@ -1055,28 +1077,6 @@
       "viewCount": "1282万",
       "likeCount": "7.63万",
       "commentCount": "3818"
-    },
-    {
-      "rank": 2199,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Cvg0S-6ibpo/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Cvg0S-6ibpo",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Rola（ローラ） \"Call Me Maybe\" from TOKYO",
-        "url": "https://www.youtube.com/watch?v=Cvg0S-6ibpo",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "UNIVERSAL MUSIC JAPAN",
-        "url": "https://www.youtube.com/channel/UCl2aT0nRejTCQO_LHZAftBw",
-        "target": "_blank"
-      },
-      "publishedAt": "2012-09-11",
-      "viewCount": "2752万",
-      "likeCount": "7.63万",
-      "commentCount": "7232"
     },
     {
       "rank": 2200,

@@ -20,7 +20,7 @@
       "publishedAt": "2017-07-19",
       "viewCount": "1093万",
       "likeCount": "8.85万",
-      "commentCount": "172"
+      "commentCount": "173"
     },
     {
       "rank": 2052,
@@ -42,7 +42,7 @@
       "publishedAt": "2014-09-09",
       "viewCount": "4902万",
       "likeCount": "8.85万",
-      "commentCount": "3127"
+      "commentCount": "3128"
     },
     {
       "rank": 2053,
@@ -62,7 +62,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-02-26",
-      "viewCount": "1284万",
+      "viewCount": "1285万",
       "likeCount": "8.83万",
       "commentCount": "1146"
     },
@@ -106,34 +106,12 @@
         "target": "_blank"
       },
       "publishedAt": "2019-04-13",
-      "viewCount": "1288万",
-      "likeCount": "8.81万",
+      "viewCount": "1289万",
+      "likeCount": "8.82万",
       "commentCount": "3700"
     },
     {
       "rank": 2056,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ispTakQnfiI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ispTakQnfiI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "汐れいら / センチメンタル・キス  Acoustic ver. (full)【Official Music Video】",
-        "url": "https://www.youtube.com/watch?v=ispTakQnfiI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "汐れいら",
-        "url": "https://www.youtube.com/channel/UCMFK6qqymfQ9yV1i1_mDM-w",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-03-14",
-      "viewCount": "1170万",
-      "likeCount": "8.8万",
-      "commentCount": "788"
-    },
-    {
-      "rank": 2057,
       "thumb": {
         "img": "https://i.ytimg.com/vi/6Ul-wFnquno/default.jpg",
         "url": "https://www.youtube.com/watch?v=6Ul-wFnquno",
@@ -150,12 +128,34 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-12",
-      "viewCount": "1436万",
+      "viewCount": "1437万",
       "likeCount": "8.8万",
-      "commentCount": "2652"
+      "commentCount": "2654"
     },
     {
       "rank": 2057,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ispTakQnfiI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ispTakQnfiI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "汐れいら / センチメンタル・キス  Acoustic ver. (full)【Official Music Video】",
+        "url": "https://www.youtube.com/watch?v=ispTakQnfiI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "汐れいら",
+        "url": "https://www.youtube.com/channel/UCMFK6qqymfQ9yV1i1_mDM-w",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-03-14",
+      "viewCount": "1171万",
+      "likeCount": "8.8万",
+      "commentCount": "789"
+    },
+    {
+      "rank": 2058,
       "thumb": {
         "img": "https://i.ytimg.com/vi/jjr6yrzUAqI/default.jpg",
         "url": "https://www.youtube.com/watch?v=jjr6yrzUAqI",
@@ -172,7 +172,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-05-12",
-      "viewCount": "2183万",
+      "viewCount": "2184万",
       "likeCount": "8.8万",
       "commentCount": "9.2万"
     },
@@ -218,7 +218,7 @@
       "publishedAt": "2013-09-20",
       "viewCount": "1802万",
       "likeCount": "8.78万",
-      "commentCount": "3066"
+      "commentCount": "3067"
     },
     {
       "rank": 2061,
@@ -260,9 +260,9 @@
         "target": "_blank"
       },
       "publishedAt": "2009-01-06",
-      "viewCount": "2579万",
-      "likeCount": "8.77万",
-      "commentCount": "3321"
+      "viewCount": "2580万",
+      "likeCount": "8.78万",
+      "commentCount": "3322"
     },
     {
       "rank": 2063,
@@ -348,9 +348,9 @@
         "target": "_blank"
       },
       "publishedAt": "2012-01-06",
-      "viewCount": "3018万",
+      "viewCount": "3019万",
       "likeCount": "8.75万",
-      "commentCount": "2847"
+      "commentCount": "2848"
     },
     {
       "rank": 2067,
@@ -394,7 +394,7 @@
       "publishedAt": "2023-05-25",
       "viewCount": "1269万",
       "likeCount": "8.71万",
-      "commentCount": "438"
+      "commentCount": "439"
     },
     {
       "rank": 2069,
@@ -502,7 +502,7 @@
         "target": "_blank"
       },
       "publishedAt": "2016-12-19",
-      "viewCount": "1963万",
+      "viewCount": "1964万",
       "likeCount": "8.65万",
       "commentCount": "1633"
     },
@@ -546,7 +546,7 @@
         "target": "_blank"
       },
       "publishedAt": "2014-04-11",
-      "viewCount": "3156万",
+      "viewCount": "3157万",
       "likeCount": "8.64万",
       "commentCount": "3254"
     },
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-07-02",
-      "viewCount": "1598万",
+      "viewCount": "1599万",
       "likeCount": "8.62万",
       "commentCount": "5450"
     },
@@ -685,6 +685,28 @@
     {
       "rank": 2082,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/Dr_Kb7A5cxw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=Dr_Kb7A5cxw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "MAN WITH A MISSION×milet「絆ノ奇跡」(Live at さいたまスーパーアリーナ）",
+        "url": "https://www.youtube.com/watch?v=Dr_Kb7A5cxw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "mwamjapan",
+        "url": "https://www.youtube.com/channel/UCy21ToKvBD45wUPaSLkr5NQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-02-09",
+      "viewCount": "1615万",
+      "likeCount": "8.61万",
+      "commentCount": "1907"
+    },
+    {
+      "rank": 2083,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/F4kUnm4nOpI/default.jpg",
         "url": "https://www.youtube.com/watch?v=F4kUnm4nOpI",
         "target": "_blank"
@@ -705,28 +727,6 @@
       "commentCount": "2930"
     },
     {
-      "rank": 2083,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/Dr_Kb7A5cxw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=Dr_Kb7A5cxw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "MAN WITH A MISSION×milet「絆ノ奇跡」(Live at さいたまスーパーアリーナ）",
-        "url": "https://www.youtube.com/watch?v=Dr_Kb7A5cxw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "mwamjapan",
-        "url": "https://www.youtube.com/channel/UCy21ToKvBD45wUPaSLkr5NQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-02-09",
-      "viewCount": "1614万",
-      "likeCount": "8.61万",
-      "commentCount": "1904"
-    },
-    {
       "rank": 2084,
       "thumb": {
         "img": "https://i.ytimg.com/vi/M3J1KRD1H1Q/default.jpg",
@@ -744,12 +744,34 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-24",
-      "viewCount": "1096万",
+      "viewCount": "1097万",
       "likeCount": "8.6万",
       "commentCount": "2222"
     },
     {
       "rank": 2085,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/euBPUj8CkbA/default.jpg",
+        "url": "https://www.youtube.com/watch?v=euBPUj8CkbA",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "back number - 新しい恋人達に",
+        "url": "https://www.youtube.com/watch?v=euBPUj8CkbA",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "back number",
+        "url": "https://www.youtube.com/channel/UCgipy6-EqjT-1BCDndXX1PA",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-09-11",
+      "viewCount": "1409万",
+      "likeCount": "8.6万",
+      "commentCount": "1888"
+    },
+    {
+      "rank": 2086,
       "thumb": {
         "img": "https://i.ytimg.com/vi/MCIfjcc8J2M/default.jpg",
         "url": "https://www.youtube.com/watch?v=MCIfjcc8J2M",
@@ -771,28 +793,6 @@
       "commentCount": "-"
     },
     {
-      "rank": 2086,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/euBPUj8CkbA/default.jpg",
-        "url": "https://www.youtube.com/watch?v=euBPUj8CkbA",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "back number - 新しい恋人達に",
-        "url": "https://www.youtube.com/watch?v=euBPUj8CkbA",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "back number",
-        "url": "https://www.youtube.com/channel/UCgipy6-EqjT-1BCDndXX1PA",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-09-11",
-      "viewCount": "1407万",
-      "likeCount": "8.6万",
-      "commentCount": "1888"
-    },
-    {
       "rank": 2087,
       "thumb": {
         "img": "https://i.ytimg.com/vi/74IKR0WeKXY/default.jpg",
@@ -810,9 +810,9 @@
         "target": "_blank"
       },
       "publishedAt": "2018-08-24",
-      "viewCount": "2396万",
+      "viewCount": "2397万",
       "likeCount": "8.59万",
-      "commentCount": "7165"
+      "commentCount": "7166"
     },
     {
       "rank": 2088,
@@ -854,7 +854,7 @@
         "target": "_blank"
       },
       "publishedAt": "2009-12-24",
-      "viewCount": "1859万",
+      "viewCount": "1860万",
       "likeCount": "8.59万",
       "commentCount": "3434"
     },
@@ -876,7 +876,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-02-12",
-      "viewCount": "1533万",
+      "viewCount": "1534万",
       "likeCount": "8.58万",
       "commentCount": "1.8万"
     },
@@ -898,9 +898,9 @@
         "target": "_blank"
       },
       "publishedAt": "2018-05-11",
-      "viewCount": "1343万",
+      "viewCount": "1344万",
       "likeCount": "8.57万",
-      "commentCount": "2691"
+      "commentCount": "2692"
     },
     {
       "rank": 2092,
@@ -1010,7 +1010,7 @@
       "publishedAt": "2015-01-23",
       "viewCount": "1362万",
       "likeCount": "8.55万",
-      "commentCount": "2751"
+      "commentCount": "2753"
     },
     {
       "rank": 2097,
@@ -1052,7 +1052,7 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-31",
-      "viewCount": "1437万",
+      "viewCount": "1438万",
       "likeCount": "8.53万",
       "commentCount": "1823"
     },
@@ -1074,7 +1074,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-17",
-      "viewCount": "1784万",
+      "viewCount": "1785万",
       "likeCount": "8.53万",
       "commentCount": "612"
     },

@@ -1,7 +1,7 @@
 {
   "rows": [
     {
-      "rank": 3001,
+      "rank": 3000,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ispTakQnfiI/default.jpg",
         "url": "https://www.youtube.com/watch?v=ispTakQnfiI",
@@ -18,9 +18,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-14",
-      "viewCount": "1170万",
+      "viewCount": "1171万",
       "likeCount": "8.8万",
-      "commentCount": "788"
+      "commentCount": "789"
     },
     {
       "rank": 3002,
@@ -42,7 +42,7 @@
       "publishedAt": "2020-05-06",
       "viewCount": "1343万",
       "likeCount": "4.1万",
-      "commentCount": "784"
+      "commentCount": "783"
     },
     {
       "rank": 3003,
@@ -62,7 +62,7 @@
         "target": "_blank"
       },
       "publishedAt": "2012-03-23",
-      "viewCount": "3141万",
+      "viewCount": "3142万",
       "likeCount": "7.8万",
       "commentCount": "782"
     },
@@ -108,7 +108,7 @@
       "publishedAt": "2012-06-10",
       "viewCount": "1166万",
       "likeCount": "1.8万",
-      "commentCount": "774"
+      "commentCount": "773"
     },
     {
       "rank": 3006,
@@ -128,9 +128,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-05",
-      "viewCount": "1億2275万",
+      "viewCount": "1億2281万",
       "likeCount": "44万",
-      "commentCount": "771"
+      "commentCount": "772"
     },
     {
       "rank": 3007,
@@ -150,7 +150,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-11-30",
-      "viewCount": "5309万",
+      "viewCount": "5312万",
       "likeCount": "38.3万",
       "commentCount": "754"
     },
@@ -238,7 +238,7 @@
         "target": "_blank"
       },
       "publishedAt": "2023-03-05",
-      "viewCount": "1538万",
+      "viewCount": "1541万",
       "likeCount": "4万",
       "commentCount": "717"
     },
@@ -465,6 +465,28 @@
     {
       "rank": 3022,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/OzGVz1ClxIc/default.jpg",
+        "url": "https://www.youtube.com/watch?v=OzGVz1ClxIc",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow halation",
+        "url": "https://www.youtube.com/watch?v=OzGVz1ClxIc",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "μ's - Topic",
+        "url": "https://www.youtube.com/channel/UCLLrOsGIMTOVN8pbXvMGz4g",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-09-17",
+      "viewCount": "1184万",
+      "likeCount": "6.8万",
+      "commentCount": "658"
+    },
+    {
+      "rank": 3023,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/xRaHgQ3yjAo/default.jpg",
         "url": "https://www.youtube.com/watch?v=xRaHgQ3yjAo",
         "target": "_blank"
@@ -485,28 +507,6 @@
       "commentCount": "656"
     },
     {
-      "rank": 3023,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/OzGVz1ClxIc/default.jpg",
-        "url": "https://www.youtube.com/watch?v=OzGVz1ClxIc",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow halation",
-        "url": "https://www.youtube.com/watch?v=OzGVz1ClxIc",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "μ's - Topic",
-        "url": "https://www.youtube.com/channel/UCLLrOsGIMTOVN8pbXvMGz4g",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-09-17",
-      "viewCount": "1182万",
-      "likeCount": "6.8万",
-      "commentCount": "654"
-    },
-    {
       "rank": 3024,
       "thumb": {
         "img": "https://i.ytimg.com/vi/8lx0vLTH_yg/default.jpg",
@@ -524,9 +524,9 @@
         "target": "_blank"
       },
       "publishedAt": "2016-10-28",
-      "viewCount": "3690万",
+      "viewCount": "3691万",
       "likeCount": "15.9万",
-      "commentCount": "652"
+      "commentCount": "653"
     },
     {
       "rank": 3025,
@@ -546,9 +546,31 @@
         "target": "_blank"
       },
       "publishedAt": "2021-01-05",
-      "viewCount": "6898万",
-      "likeCount": "38.6万",
-      "commentCount": "644"
+      "viewCount": "6903万",
+      "likeCount": "38.7万",
+      "commentCount": "645"
+    },
+    {
+      "rank": 3026,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/M4-XU0a2hf0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=M4-XU0a2hf0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "勇者",
+        "url": "https://www.youtube.com/watch?v=M4-XU0a2hf0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "YOASOBI - Topic",
+        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
+        "target": "_blank"
+      },
+      "publishedAt": "2023-10-03",
+      "viewCount": "5207万",
+      "likeCount": "21.9万",
+      "commentCount": "638"
     },
     {
       "rank": 3026,
@@ -571,28 +593,6 @@
       "viewCount": "1151万",
       "likeCount": "2.1万",
       "commentCount": "638"
-    },
-    {
-      "rank": 3027,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/M4-XU0a2hf0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=M4-XU0a2hf0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "勇者",
-        "url": "https://www.youtube.com/watch?v=M4-XU0a2hf0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2023-10-03",
-      "viewCount": "5201万",
-      "likeCount": "21.8万",
-      "commentCount": "636"
     },
     {
       "rank": 3028,
@@ -678,12 +678,34 @@
         "target": "_blank"
       },
       "publishedAt": "2023-11-17",
-      "viewCount": "1784万",
+      "viewCount": "1785万",
       "likeCount": "8.5万",
       "commentCount": "612"
     },
     {
       "rank": 3032,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/VKn9APunesw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=VKn9APunesw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Nissy(西島隆弘) /  “Fragments of the story “ 〜WISH〜",
+        "url": "https://www.youtube.com/watch?v=VKn9APunesw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Nissy Channel",
+        "url": "https://www.youtube.com/channel/UClv5-GOsjdBOBLltO_l-cWw",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-10-21",
+      "viewCount": "1672万",
+      "likeCount": "12.9万",
+      "commentCount": "605"
+    },
+    {
+      "rank": 3033,
       "thumb": {
         "img": "https://i.ytimg.com/vi/0YfcgWHfHcA/default.jpg",
         "url": "https://www.youtube.com/watch?v=0YfcgWHfHcA",
@@ -705,28 +727,6 @@
       "commentCount": "603"
     },
     {
-      "rank": 3032,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/VKn9APunesw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=VKn9APunesw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Nissy(西島隆弘) /  “Fragments of the story “ 〜WISH〜",
-        "url": "https://www.youtube.com/watch?v=VKn9APunesw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Nissy Channel",
-        "url": "https://www.youtube.com/channel/UClv5-GOsjdBOBLltO_l-cWw",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-10-21",
-      "viewCount": "1671万",
-      "likeCount": "12.9万",
-      "commentCount": "603"
-    },
-    {
       "rank": 3034,
       "thumb": {
         "img": "https://i.ytimg.com/vi/lXs96toe-B8/default.jpg",
@@ -744,7 +744,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-09-17",
-      "viewCount": "1053万",
+      "viewCount": "1054万",
       "likeCount": "1.3万",
       "commentCount": "595"
     },
@@ -766,7 +766,7 @@
         "target": "_blank"
       },
       "publishedAt": "2013-09-24",
-      "viewCount": "1605万",
+      "viewCount": "1606万",
       "likeCount": "1.4万",
       "commentCount": "589"
     },
@@ -877,7 +877,7 @@
       },
       "publishedAt": "2015-09-26",
       "viewCount": "1325万",
-      "likeCount": "6.8万",
+      "likeCount": "6.9万",
       "commentCount": "564"
     },
     {
@@ -920,9 +920,9 @@
         "target": "_blank"
       },
       "publishedAt": "2010-04-02",
-      "viewCount": "3399万",
+      "viewCount": "3400万",
       "likeCount": "-",
-      "commentCount": "553"
+      "commentCount": "554"
     },
     {
       "rank": 3043,
@@ -986,7 +986,7 @@
         "target": "_blank"
       },
       "publishedAt": "2015-09-26",
-      "viewCount": "1917万",
+      "viewCount": "1918万",
       "likeCount": "8万",
       "commentCount": "544"
     },
@@ -1054,7 +1054,7 @@
       "publishedAt": "2014-05-29",
       "viewCount": "1158万",
       "likeCount": "2.8万",
-      "commentCount": "520"
+      "commentCount": "521"
     },
     {
       "rank": 3049,

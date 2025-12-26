@@ -20,7 +20,7 @@
       "publishedAt": "2016-12-06",
       "viewCount": "1439万",
       "likeCount": "10万",
-      "commentCount": "9404"
+      "commentCount": "9403"
     },
     {
       "rank": 1052,
@@ -64,7 +64,7 @@
       "publishedAt": "2016-09-06",
       "viewCount": "3695万",
       "likeCount": "15.7万",
-      "commentCount": "9395"
+      "commentCount": "9396"
     },
     {
       "rank": 1054,
@@ -106,12 +106,34 @@
         "target": "_blank"
       },
       "publishedAt": "2021-08-20",
-      "viewCount": "1億2919万",
+      "viewCount": "1億2922万",
       "likeCount": "62.9万",
-      "commentCount": "9368"
+      "commentCount": "9370"
     },
     {
       "rank": 1056,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/aPHGClLjZWk/default.jpg",
+        "url": "https://www.youtube.com/watch?v=aPHGClLjZWk",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "西野カナ 『トリセツ』MV(Short Ver.)",
+        "url": "https://www.youtube.com/watch?v=aPHGClLjZWk",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "西野カナ Official YouTube Channel",
+        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2015-08-17",
+      "viewCount": "7695万",
+      "likeCount": "17.2万",
+      "commentCount": "9360"
+    },
+    {
+      "rank": 1057,
       "thumb": {
         "img": "https://i.ytimg.com/vi/piTrK16fjjc/default.jpg",
         "url": "https://www.youtube.com/watch?v=piTrK16fjjc",
@@ -133,28 +155,6 @@
       "commentCount": "9358"
     },
     {
-      "rank": 1057,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/aPHGClLjZWk/default.jpg",
-        "url": "https://www.youtube.com/watch?v=aPHGClLjZWk",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "西野カナ 『トリセツ』MV(Short Ver.)",
-        "url": "https://www.youtube.com/watch?v=aPHGClLjZWk",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "西野カナ Official YouTube Channel",
-        "url": "https://www.youtube.com/channel/UCXq19VXLNkTtVE9LfRBKd5Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2015-08-17",
-      "viewCount": "7694万",
-      "likeCount": "17.2万",
-      "commentCount": "9357"
-    },
-    {
       "rank": 1058,
       "thumb": {
         "img": "https://i.ytimg.com/vi/wjbuvMHaCgI/default.jpg",
@@ -172,9 +172,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-10-18",
-      "viewCount": "1321万",
+      "viewCount": "1322万",
       "likeCount": "14.2万",
-      "commentCount": "9353"
+      "commentCount": "9354"
     },
     {
       "rank": 1059,
@@ -194,9 +194,9 @@
         "target": "_blank"
       },
       "publishedAt": "2008-06-18",
-      "viewCount": "5796万",
+      "viewCount": "5797万",
       "likeCount": "14.4万",
-      "commentCount": "9344"
+      "commentCount": "9345"
     },
     {
       "rank": 1060,
@@ -216,9 +216,9 @@
         "target": "_blank"
       },
       "publishedAt": "2015-02-15",
-      "viewCount": "3747万",
+      "viewCount": "3748万",
       "likeCount": "36.6万",
-      "commentCount": "9334"
+      "commentCount": "9337"
     },
     {
       "rank": 1061,
@@ -238,12 +238,34 @@
         "target": "_blank"
       },
       "publishedAt": "2016-05-12",
-      "viewCount": "6075万",
+      "viewCount": "6076万",
       "likeCount": "41.3万",
-      "commentCount": "9330"
+      "commentCount": "9331"
     },
     {
       "rank": 1062,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/1wxTksLZ1Mw/default.jpg",
+        "url": "https://www.youtube.com/watch?v=1wxTksLZ1Mw",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "レミオロメン - 粉雪",
+        "url": "https://www.youtube.com/watch?v=1wxTksLZ1Mw",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "レミオロメン",
+        "url": "https://www.youtube.com/channel/UCnwV0i25fH8pBrzuJ3WrHTw",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-12-15",
+      "viewCount": "7343万",
+      "likeCount": "22.9万",
+      "commentCount": "9325"
+    },
+    {
+      "rank": 1063,
       "thumb": {
         "img": "https://i.ytimg.com/vi/_FF1gzosv8k/default.jpg",
         "url": "https://www.youtube.com/watch?v=_FF1gzosv8k",
@@ -261,11 +283,11 @@
       },
       "publishedAt": "2020-05-16",
       "viewCount": "3498万",
-      "likeCount": "38.3万",
+      "likeCount": "38.2万",
       "commentCount": "9324"
     },
     {
-      "rank": 1063,
+      "rank": 1064,
       "thumb": {
         "img": "https://i.ytimg.com/vi/xhdW-GceM6g/default.jpg",
         "url": "https://www.youtube.com/watch?v=xhdW-GceM6g",
@@ -287,7 +309,7 @@
       "commentCount": "9317"
     },
     {
-      "rank": 1064,
+      "rank": 1065,
       "thumb": {
         "img": "https://i.ytimg.com/vi/s4DxPeLNVuw/default.jpg",
         "url": "https://www.youtube.com/watch?v=s4DxPeLNVuw",
@@ -306,29 +328,7 @@
       "publishedAt": "2017-12-22",
       "viewCount": "1830万",
       "likeCount": "28.7万",
-      "commentCount": "9313"
-    },
-    {
-      "rank": 1065,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/3sEptl-psU0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=3sEptl-psU0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "ぬゆり - ロウワー / Flower : Lower one's eyes",
-        "url": "https://www.youtube.com/watch?v=3sEptl-psU0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Lanndo / ぬゆり Official",
-        "url": "https://www.youtube.com/channel/UCTpvP62LES9r-5xyxZBsUWg",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-11",
-      "viewCount": "5852万",
-      "likeCount": "60.2万",
-      "commentCount": "9301"
+      "commentCount": "9316"
     },
     {
       "rank": 1066,
@@ -348,12 +348,34 @@
         "target": "_blank"
       },
       "publishedAt": "2015-04-04",
-      "viewCount": "4736万",
+      "viewCount": "4737万",
       "likeCount": "24.5万",
-      "commentCount": "9299"
+      "commentCount": "9305"
     },
     {
       "rank": 1067,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/3sEptl-psU0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=3sEptl-psU0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "ぬゆり - ロウワー / Flower : Lower one's eyes",
+        "url": "https://www.youtube.com/watch?v=3sEptl-psU0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Lanndo / ぬゆり Official",
+        "url": "https://www.youtube.com/channel/UCTpvP62LES9r-5xyxZBsUWg",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-11-11",
+      "viewCount": "5854万",
+      "likeCount": "60.2万",
+      "commentCount": "9300"
+    },
+    {
+      "rank": 1068,
       "thumb": {
         "img": "https://i.ytimg.com/vi/KoFSQeOAYz4/default.jpg",
         "url": "https://www.youtube.com/watch?v=KoFSQeOAYz4",
@@ -370,12 +392,12 @@
         "target": "_blank"
       },
       "publishedAt": "2009-06-28",
-      "viewCount": "2693万",
+      "viewCount": "2694万",
       "likeCount": "16.7万",
-      "commentCount": "9296"
+      "commentCount": "9297"
     },
     {
-      "rank": 1068,
+      "rank": 1069,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ouf7rXDlkDk/default.jpg",
         "url": "https://www.youtube.com/watch?v=ouf7rXDlkDk",
@@ -397,7 +419,7 @@
       "commentCount": "9287"
     },
     {
-      "rank": 1069,
+      "rank": 1070,
       "thumb": {
         "img": "https://i.ytimg.com/vi/k_wn_Oqxgdk/default.jpg",
         "url": "https://www.youtube.com/watch?v=k_wn_Oqxgdk",
@@ -414,31 +436,9 @@
         "target": "_blank"
       },
       "publishedAt": "2021-06-28",
-      "viewCount": "1625万",
+      "viewCount": "1626万",
       "likeCount": "-",
-      "commentCount": "9279"
-    },
-    {
-      "rank": 1070,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/1wxTksLZ1Mw/default.jpg",
-        "url": "https://www.youtube.com/watch?v=1wxTksLZ1Mw",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "レミオロメン - 粉雪",
-        "url": "https://www.youtube.com/watch?v=1wxTksLZ1Mw",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "レミオロメン",
-        "url": "https://www.youtube.com/channel/UCnwV0i25fH8pBrzuJ3WrHTw",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-12-15",
-      "viewCount": "7332万",
-      "likeCount": "22.9万",
-      "commentCount": "9267"
+      "commentCount": "9280"
     },
     {
       "rank": 1071,
@@ -458,7 +458,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-05-26",
-      "viewCount": "4566万",
+      "viewCount": "4567万",
       "likeCount": "-",
       "commentCount": "9264"
     },
@@ -480,9 +480,9 @@
         "target": "_blank"
       },
       "publishedAt": "2019-12-25",
-      "viewCount": "6251万",
+      "viewCount": "6253万",
       "likeCount": "54.9万",
-      "commentCount": "9235"
+      "commentCount": "9239"
     },
     {
       "rank": 1073,
@@ -502,9 +502,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-12-25",
-      "viewCount": "4092万",
+      "viewCount": "4094万",
       "likeCount": "53.6万",
-      "commentCount": "9219"
+      "commentCount": "9222"
     },
     {
       "rank": 1074,
@@ -524,9 +524,9 @@
         "target": "_blank"
       },
       "publishedAt": "2014-12-03",
-      "viewCount": "6886万",
+      "viewCount": "6888万",
       "likeCount": "24.8万",
-      "commentCount": "9217"
+      "commentCount": "9219"
     },
     {
       "rank": 1075,
@@ -548,7 +548,7 @@
       "publishedAt": "2018-07-22",
       "viewCount": "2662万",
       "likeCount": "19.5万",
-      "commentCount": "9195"
+      "commentCount": "9192"
     },
     {
       "rank": 1076,
@@ -570,7 +570,7 @@
       "publishedAt": "2010-11-21",
       "viewCount": "2098万",
       "likeCount": "7.1万",
-      "commentCount": "9189"
+      "commentCount": "9190"
     },
     {
       "rank": 1077,
@@ -590,34 +590,12 @@
         "target": "_blank"
       },
       "publishedAt": "2011-10-17",
-      "viewCount": "6654万",
+      "viewCount": "6655万",
       "likeCount": "26.8万",
-      "commentCount": "9182"
+      "commentCount": "9183"
     },
     {
       "rank": 1078,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/323j5BRFi7s/default.jpg",
-        "url": "https://www.youtube.com/watch?v=323j5BRFi7s",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "マカロニえんぴつ「恋人ごっこ」MV",
-        "url": "https://www.youtube.com/watch?v=323j5BRFi7s",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "murffin discs",
-        "url": "https://www.youtube.com/channel/UC1-EP9cKVrNQqvG-drnDA7Q",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-02-06",
-      "viewCount": "7320万",
-      "likeCount": "38.5万",
-      "commentCount": "9165"
-    },
-    {
-      "rank": 1079,
       "thumb": {
         "img": "https://i.ytimg.com/vi/FqWBQv7h_3I/default.jpg",
         "url": "https://www.youtube.com/watch?v=FqWBQv7h_3I",
@@ -634,9 +612,31 @@
         "target": "_blank"
       },
       "publishedAt": "2024-11-18",
-      "viewCount": "1367万",
+      "viewCount": "1368万",
       "likeCount": "12.1万",
-      "commentCount": "9160"
+      "commentCount": "9168"
+    },
+    {
+      "rank": 1079,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/323j5BRFi7s/default.jpg",
+        "url": "https://www.youtube.com/watch?v=323j5BRFi7s",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "マカロニえんぴつ「恋人ごっこ」MV",
+        "url": "https://www.youtube.com/watch?v=323j5BRFi7s",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "murffin discs",
+        "url": "https://www.youtube.com/channel/UC1-EP9cKVrNQqvG-drnDA7Q",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-02-06",
+      "viewCount": "7323万",
+      "likeCount": "38.5万",
+      "commentCount": "9167"
     },
     {
       "rank": 1080,
@@ -656,7 +656,7 @@
         "target": "_blank"
       },
       "publishedAt": "2017-08-03",
-      "viewCount": "5835万",
+      "viewCount": "5837万",
       "likeCount": "22.9万",
       "commentCount": "9138"
     },
@@ -680,7 +680,7 @@
       "publishedAt": "2011-04-06",
       "viewCount": "1066万",
       "likeCount": "16.8万",
-      "commentCount": "9117"
+      "commentCount": "9119"
     },
     {
       "rank": 1082,
@@ -700,9 +700,9 @@
         "target": "_blank"
       },
       "publishedAt": "2020-11-13",
-      "viewCount": "1592万",
+      "viewCount": "1593万",
       "likeCount": "19.5万",
-      "commentCount": "9110"
+      "commentCount": "9111"
     },
     {
       "rank": 1083,
@@ -722,12 +722,12 @@
         "target": "_blank"
       },
       "publishedAt": "2022-06-03",
-      "viewCount": "5505万",
+      "viewCount": "5507万",
       "likeCount": "55.3万",
-      "commentCount": "9107"
+      "commentCount": "9106"
     },
     {
-      "rank": 1084,
+      "rank": 1083,
       "thumb": {
         "img": "https://i.ytimg.com/vi/I88PrE-KUPk/default.jpg",
         "url": "https://www.youtube.com/watch?v=I88PrE-KUPk",
@@ -766,12 +766,12 @@
         "target": "_blank"
       },
       "publishedAt": "2023-06-13",
-      "viewCount": "6472万",
+      "viewCount": "6475万",
       "likeCount": "31.7万",
-      "commentCount": "9099"
+      "commentCount": "9101"
     },
     {
-      "rank": 1086,
+      "rank": 1085,
       "thumb": {
         "img": "https://i.ytimg.com/vi/Ou1UG_PC43Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=Ou1UG_PC43Q",
@@ -788,34 +788,12 @@
         "target": "_blank"
       },
       "publishedAt": "2024-10-09",
-      "viewCount": "2818万",
+      "viewCount": "2822万",
       "likeCount": "25.2万",
-      "commentCount": "9092"
+      "commentCount": "9101"
     },
     {
       "rank": 1087,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/xvai20m4f4U/default.jpg",
-        "url": "https://www.youtube.com/watch?v=xvai20m4f4U",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Snow Man「ブラザービート」LIVE TOUR 2022 Labo. Ver.",
-        "url": "https://www.youtube.com/watch?v=xvai20m4f4U",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Snow Man",
-        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2022-12-31",
-      "viewCount": "3349万",
-      "likeCount": "-",
-      "commentCount": "9077"
-    },
-    {
-      "rank": 1088,
       "thumb": {
         "img": "https://i.ytimg.com/vi/iIH38n1o6Kg/default.jpg",
         "url": "https://www.youtube.com/watch?v=iIH38n1o6Kg",
@@ -834,32 +812,32 @@
       "publishedAt": "2019-01-10",
       "viewCount": "1846万",
       "likeCount": "27.9万",
+      "commentCount": "9079"
+    },
+    {
+      "rank": 1088,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/xvai20m4f4U/default.jpg",
+        "url": "https://www.youtube.com/watch?v=xvai20m4f4U",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Snow Man「ブラザービート」LIVE TOUR 2022 Labo. Ver.",
+        "url": "https://www.youtube.com/watch?v=xvai20m4f4U",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Snow Man",
+        "url": "https://www.youtube.com/channel/UCuFPaemAaMR8R5cHzjy23dQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2022-12-31",
+      "viewCount": "3350万",
+      "likeCount": "-",
       "commentCount": "9076"
     },
     {
       "rank": 1089,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/xCIJJ2Rb368/default.jpg",
-        "url": "https://www.youtube.com/watch?v=xCIJJ2Rb368",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "米津玄師　MV「MAD HEAD LOVE」",
-        "url": "https://www.youtube.com/watch?v=xCIJJ2Rb368",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2013-09-20",
-      "viewCount": "6378万",
-      "likeCount": "33.9万",
-      "commentCount": "9060"
-    },
-    {
-      "rank": 1090,
       "thumb": {
         "img": "https://i.ytimg.com/vi/7gcCRAl58u4/default.jpg",
         "url": "https://www.youtube.com/watch?v=7gcCRAl58u4",
@@ -876,9 +854,31 @@
         "target": "_blank"
       },
       "publishedAt": "2015-05-13",
-      "viewCount": "9190万",
+      "viewCount": "9191万",
       "likeCount": "27.9万",
-      "commentCount": "9059"
+      "commentCount": "9060"
+    },
+    {
+      "rank": 1090,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/xCIJJ2Rb368/default.jpg",
+        "url": "https://www.youtube.com/watch?v=xCIJJ2Rb368",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "米津玄師　MV「MAD HEAD LOVE」",
+        "url": "https://www.youtube.com/watch?v=xCIJJ2Rb368",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2013-09-20",
+      "viewCount": "6379万",
+      "likeCount": "33.9万",
+      "commentCount": "9058"
     },
     {
       "rank": 1091,
@@ -898,7 +898,7 @@
         "target": "_blank"
       },
       "publishedAt": "2021-02-14",
-      "viewCount": "5408万",
+      "viewCount": "5409万",
       "likeCount": "65.8万",
       "commentCount": "9045"
     },
@@ -922,7 +922,7 @@
       "publishedAt": "2015-07-04",
       "viewCount": "1161万",
       "likeCount": "10.6万",
-      "commentCount": "9043"
+      "commentCount": "9042"
     },
     {
       "rank": 1093,
@@ -942,9 +942,9 @@
         "target": "_blank"
       },
       "publishedAt": "2018-04-05",
-      "viewCount": "3541万",
+      "viewCount": "3542万",
       "likeCount": "16.8万",
-      "commentCount": "9018"
+      "commentCount": "9020"
     },
     {
       "rank": 1094,
@@ -965,30 +965,8 @@
       },
       "publishedAt": "2021-02-16",
       "viewCount": "1541万",
-      "likeCount": "17.8万",
-      "commentCount": "8993"
-    },
-    {
-      "rank": 1095,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ZLBUxmIWTa0/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ZLBUxmIWTa0",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "夜撫でるメノウ / Ayase (self cover)",
-        "url": "https://www.youtube.com/watch?v=ZLBUxmIWTa0",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Ayase / YOASOBI",
-        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
-        "target": "_blank"
-      },
-      "publishedAt": "2020-02-11",
-      "viewCount": "7316万",
-      "likeCount": "63万",
-      "commentCount": "8986"
+      "likeCount": "17.9万",
+      "commentCount": "8997"
     },
     {
       "rank": 1095,
@@ -1010,6 +988,28 @@
       "publishedAt": "2018-04-12",
       "viewCount": "3351万",
       "likeCount": "76.5万",
+      "commentCount": "8987"
+    },
+    {
+      "rank": 1096,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ZLBUxmIWTa0/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ZLBUxmIWTa0",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "夜撫でるメノウ / Ayase (self cover)",
+        "url": "https://www.youtube.com/watch?v=ZLBUxmIWTa0",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Ayase / YOASOBI",
+        "url": "https://www.youtube.com/channel/UCvpredjG93ifbCP1Y77JyFA",
+        "target": "_blank"
+      },
+      "publishedAt": "2020-02-11",
+      "viewCount": "7318万",
+      "likeCount": "63万",
       "commentCount": "8986"
     },
     {
@@ -1030,9 +1030,9 @@
         "target": "_blank"
       },
       "publishedAt": "2022-03-16",
-      "viewCount": "3342万",
+      "viewCount": "3343万",
       "likeCount": "-",
-      "commentCount": "8983"
+      "commentCount": "8984"
     },
     {
       "rank": 1098,
@@ -1054,7 +1054,7 @@
       "publishedAt": "2017-07-04",
       "viewCount": "2389万",
       "likeCount": "12万",
-      "commentCount": "8977"
+      "commentCount": "8978"
     },
     {
       "rank": 1099,
@@ -1074,7 +1074,7 @@
         "target": "_blank"
       },
       "publishedAt": "2024-08-19",
-      "viewCount": "4500万",
+      "viewCount": "4503万",
       "likeCount": "23.3万",
       "commentCount": "8975"
     },
@@ -1097,8 +1097,8 @@
       },
       "publishedAt": "2013-02-20",
       "viewCount": "2387万",
-      "likeCount": "27.1万",
-      "commentCount": "8971"
+      "likeCount": "27.2万",
+      "commentCount": "8972"
     }
   ]
 }

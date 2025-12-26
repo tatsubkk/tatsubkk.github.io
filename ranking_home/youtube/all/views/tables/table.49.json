@@ -3,6 +3,29 @@
     {
       "rank": 2401,
       "thumb": {
+        "img": "https://i.ytimg.com/vi/vrnn9aUT2Ag/default.jpg",
+        "url": "https://www.youtube.com/watch?v=vrnn9aUT2Ag",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "【MV】　Again　【ARAKI】",
+        "url": "https://www.youtube.com/watch?v=vrnn9aUT2Ag",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "あらき-ARAKI Official",
+        "url": "https://www.youtube.com/channel/UCBhPDpv9JavoPADrZcsAC2A",
+        "target": "_blank"
+      },
+      "publishedAt": "2016-07-08",
+      "viewCount": "1460万",
+      "likeCount": "22.2万",
+      "commentCount": "5002",
+      "increment_d1": "2229"
+    },
+    {
+      "rank": 2402,
+      "thumb": {
         "img": "https://i.ytimg.com/vi/FNn6E_fkxFg/default.jpg",
         "url": "https://www.youtube.com/watch?v=FNn6E_fkxFg",
         "target": "_blank"
@@ -21,10 +44,10 @@
       "viewCount": "1460万",
       "likeCount": "13.8万",
       "commentCount": "3561",
-      "increment_d1": "1500"
+      "increment_d1": "1454"
     },
     {
-      "rank": 2402,
+      "rank": 2403,
       "thumb": {
         "img": "https://i.ytimg.com/vi/2zRTrArYs4k/default.jpg",
         "url": "https://www.youtube.com/watch?v=2zRTrArYs4k",
@@ -44,30 +67,7 @@
       "viewCount": "1460万",
       "likeCount": "6.6万",
       "commentCount": "4024",
-      "increment_d1": "455"
-    },
-    {
-      "rank": 2403,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/uUAnQUxitpU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=uUAnQUxitpU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "もう少しだけ",
-        "url": "https://www.youtube.com/watch?v=uUAnQUxitpU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "YOASOBI - Topic",
-        "url": "https://www.youtube.com/channel/UCI6B8NkZKqlFWoiC_xE-hzA",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-11-30",
-      "viewCount": "1460万",
-      "likeCount": "6万",
-      "commentCount": "112",
-      "increment_d1": "1.06万"
+      "increment_d1": "377"
     },
     {
       "rank": 2404,
@@ -89,34 +89,11 @@
       "publishedAt": "2020-03-26",
       "viewCount": "1459万",
       "likeCount": "16万",
-      "commentCount": "3754",
-      "increment_d1": "2700"
+      "commentCount": "3753",
+      "increment_d1": "2630"
     },
     {
       "rank": 2405,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/mDj6FQgOY8E/default.jpg",
-        "url": "https://www.youtube.com/watch?v=mDj6FQgOY8E",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "あいみょん「恋をしたから」Studio Recording Scene",
-        "url": "https://www.youtube.com/watch?v=mDj6FQgOY8E",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "あいみょん",
-        "url": "https://www.youtube.com/channel/UCG8MvaPCa2ecKH3GZyFxduA",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-02-25",
-      "viewCount": "1458万",
-      "likeCount": "13.1万",
-      "commentCount": "5097",
-      "increment_d1": "974"
-    },
-    {
-      "rank": 2406,
       "thumb": {
         "img": "https://i.ytimg.com/vi/ozQwltlnin0/default.jpg",
         "url": "https://www.youtube.com/watch?v=ozQwltlnin0",
@@ -135,11 +112,57 @@
       "publishedAt": "2020-04-21",
       "viewCount": "1458万",
       "likeCount": "4.2万",
-      "commentCount": "1202",
-      "increment_d1": "5646"
+      "commentCount": "1203",
+      "increment_d1": "5863"
+    },
+    {
+      "rank": 2406,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/mDj6FQgOY8E/default.jpg",
+        "url": "https://www.youtube.com/watch?v=mDj6FQgOY8E",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "あいみょん「恋をしたから」Studio Recording Scene",
+        "url": "https://www.youtube.com/watch?v=mDj6FQgOY8E",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "あいみょん",
+        "url": "https://www.youtube.com/channel/UCG8MvaPCa2ecKH3GZyFxduA",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-02-25",
+      "viewCount": "1458万",
+      "likeCount": "13.1万",
+      "commentCount": "5098",
+      "increment_d1": "1136"
     },
     {
       "rank": 2407,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/kfCXen5RqTU/default.jpg",
+        "url": "https://www.youtube.com/watch?v=kfCXen5RqTU",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "Motoki Ohmori - ‘Midnight’ Official MV",
+        "url": "https://www.youtube.com/watch?v=kfCXen5RqTU",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "大森元貴 / Motoki Ohmori",
+        "url": "https://www.youtube.com/channel/UCWprqhsiw88d-j07y7mETXw",
+        "target": "_blank"
+      },
+      "publishedAt": "2021-08-05",
+      "viewCount": "1457万",
+      "likeCount": "16万",
+      "commentCount": "5623",
+      "increment_d1": "4945"
+    },
+    {
+      "rank": 2408,
       "thumb": {
         "img": "https://i.ytimg.com/vi/StkLx0e4f6c/default.jpg",
         "url": "https://www.youtube.com/watch?v=StkLx0e4f6c",
@@ -158,31 +181,8 @@
       "publishedAt": "2017-08-31",
       "viewCount": "1457万",
       "likeCount": "45.8万",
-      "commentCount": "7194",
-      "increment_d1": "1360"
-    },
-    {
-      "rank": 2408,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/kfCXen5RqTU/default.jpg",
-        "url": "https://www.youtube.com/watch?v=kfCXen5RqTU",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "Motoki Ohmori - ‘Midnight’ Official MV",
-        "url": "https://www.youtube.com/watch?v=kfCXen5RqTU",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "大森元貴 / Motoki Ohmori",
-        "url": "https://www.youtube.com/channel/UCWprqhsiw88d-j07y7mETXw",
-        "target": "_blank"
-      },
-      "publishedAt": "2021-08-05",
-      "viewCount": "1457万",
-      "likeCount": "15.9万",
-      "commentCount": "5623",
-      "increment_d1": "5319"
+      "commentCount": "7193",
+      "increment_d1": "1338"
     },
     {
       "rank": 2409,
@@ -204,11 +204,34 @@
       "publishedAt": "2017-02-20",
       "viewCount": "1457万",
       "likeCount": "9.2万",
-      "commentCount": "3409",
-      "increment_d1": "2892"
+      "commentCount": "3410",
+      "increment_d1": "3288"
     },
     {
       "rank": 2410,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/dWL_vmm1AMI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=dWL_vmm1AMI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "井上苑子 「点描の唄」　（ソロver.）Music Video",
+        "url": "https://www.youtube.com/watch?v=dWL_vmm1AMI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "UNIVERSAL MUSIC JAPAN",
+        "url": "https://www.youtube.com/channel/UCl2aT0nRejTCQO_LHZAftBw",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-05-15",
+      "viewCount": "1456万",
+      "likeCount": "14.8万",
+      "commentCount": "4054",
+      "increment_d1": "4586"
+    },
+    {
+      "rank": 2411,
       "thumb": {
         "img": "https://i.ytimg.com/vi/iZzM5JV1I7U/default.jpg",
         "url": "https://www.youtube.com/watch?v=iZzM5JV1I7U",
@@ -228,30 +251,7 @@
       "viewCount": "1456万",
       "likeCount": "16.7万",
       "commentCount": "2.8万",
-      "increment_d1": "1468"
-    },
-    {
-      "rank": 2411,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/dWL_vmm1AMI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=dWL_vmm1AMI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "井上苑子 「点描の唄」　（ソロver.）Music Video",
-        "url": "https://www.youtube.com/watch?v=dWL_vmm1AMI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "UNIVERSAL MUSIC JAPAN",
-        "url": "https://www.youtube.com/channel/UCl2aT0nRejTCQO_LHZAftBw",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-05-15",
-      "viewCount": "1455万",
-      "likeCount": "14.8万",
-      "commentCount": "4054",
-      "increment_d1": "5179"
+      "increment_d1": "1335"
     },
     {
       "rank": 2412,
@@ -274,7 +274,7 @@
       "viewCount": "1455万",
       "likeCount": "-",
       "commentCount": "-",
-      "increment_d1": "7508"
+      "increment_d1": "7919"
     },
     {
       "rank": 2413,
@@ -297,7 +297,7 @@
       "viewCount": "1454万",
       "likeCount": "6.3万",
       "commentCount": "2062",
-      "increment_d1": "5131"
+      "increment_d1": "5260"
     },
     {
       "rank": 2414,
@@ -320,7 +320,7 @@
       "viewCount": "1453万",
       "likeCount": "-",
       "commentCount": "1.4万",
-      "increment_d1": "3935"
+      "increment_d1": "3277"
     },
     {
       "rank": 2415,
@@ -343,7 +343,7 @@
       "viewCount": "1453万",
       "likeCount": "2.7万",
       "commentCount": "1472",
-      "increment_d1": "1681"
+      "increment_d1": "1607"
     },
     {
       "rank": 2416,
@@ -366,7 +366,7 @@
       "viewCount": "1452万",
       "likeCount": "28.3万",
       "commentCount": "4842",
-      "increment_d1": "2405"
+      "increment_d1": "2470"
     },
     {
       "rank": 2417,
@@ -389,7 +389,7 @@
       "viewCount": "1451万",
       "likeCount": "5.7万",
       "commentCount": "1555",
-      "increment_d1": "4299"
+      "increment_d1": "4821"
     },
     {
       "rank": 2418,
@@ -411,8 +411,8 @@
       "publishedAt": "2019-05-07",
       "viewCount": "1449万",
       "likeCount": "12.1万",
-      "commentCount": "5471",
-      "increment_d1": "521"
+      "commentCount": "5469",
+      "increment_d1": "757"
     },
     {
       "rank": 2419,
@@ -435,7 +435,7 @@
       "viewCount": "1448万",
       "likeCount": "7.6万",
       "commentCount": "2336",
-      "increment_d1": "2666"
+      "increment_d1": "2304"
     },
     {
       "rank": 2420,
@@ -458,7 +458,7 @@
       "viewCount": "1446万",
       "likeCount": "-",
       "commentCount": "1.2万",
-      "increment_d1": "1755"
+      "increment_d1": "1481"
     },
     {
       "rank": 2421,
@@ -481,7 +481,7 @@
       "viewCount": "1446万",
       "likeCount": "25.6万",
       "commentCount": "3.6万",
-      "increment_d1": "241"
+      "increment_d1": "265"
     },
     {
       "rank": 2422,
@@ -504,7 +504,7 @@
       "viewCount": "1445万",
       "likeCount": "9.4万",
       "commentCount": "1920",
-      "increment_d1": "429"
+      "increment_d1": "335"
     },
     {
       "rank": 2423,
@@ -527,7 +527,7 @@
       "viewCount": "1445万",
       "likeCount": "17.5万",
       "commentCount": "3841",
-      "increment_d1": "1316"
+      "increment_d1": "1371"
     },
     {
       "rank": 2424,
@@ -547,33 +547,33 @@
         "target": "_blank"
       },
       "publishedAt": "2022-11-05",
-      "viewCount": "1443万",
+      "viewCount": "1444万",
       "likeCount": "18.2万",
       "commentCount": "4028",
-      "increment_d1": "6164"
+      "increment_d1": "6460"
     },
     {
       "rank": 2425,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/F32hhOsJ14k/default.jpg",
-        "url": "https://www.youtube.com/watch?v=F32hhOsJ14k",
+        "img": "https://i.ytimg.com/vi/X97TUJ13-YM/default.jpg",
+        "url": "https://www.youtube.com/watch?v=X97TUJ13-YM",
         "target": "_blank"
       },
       "title": {
-        "text": "TAEMIN 'Famous' Official MV",
-        "url": "https://www.youtube.com/watch?v=F32hhOsJ14k",
+        "text": "夜明けと蛍/n-buna(strings arrange ver covered byあれくん）",
+        "url": "https://www.youtube.com/watch?v=X97TUJ13-YM",
         "target": "_blank"
       },
       "channel": {
-        "text": "UNIVERSAL MUSIC JAPAN",
-        "url": "https://www.youtube.com/channel/UCl2aT0nRejTCQO_LHZAftBw",
+        "text": "あれくん ",
+        "url": "https://www.youtube.com/channel/UCPkhvJShYNk2dJoIcne66BQ",
         "target": "_blank"
       },
-      "publishedAt": "2019-07-26",
-      "viewCount": "1442万",
-      "likeCount": "51万",
-      "commentCount": "2.3万",
-      "increment_d1": "177"
+      "publishedAt": "2021-12-25",
+      "viewCount": "1444万",
+      "likeCount": "9.1万",
+      "commentCount": "1294",
+      "increment_d1": "2.2万"
     },
     {
       "rank": 2426,
@@ -596,30 +596,30 @@
       "viewCount": "1442万",
       "likeCount": "17.2万",
       "commentCount": "6289",
-      "increment_d1": "4011"
+      "increment_d1": "4124"
     },
     {
       "rank": 2427,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/X97TUJ13-YM/default.jpg",
-        "url": "https://www.youtube.com/watch?v=X97TUJ13-YM",
+        "img": "https://i.ytimg.com/vi/F32hhOsJ14k/default.jpg",
+        "url": "https://www.youtube.com/watch?v=F32hhOsJ14k",
         "target": "_blank"
       },
       "title": {
-        "text": "夜明けと蛍/n-buna(strings arrange ver covered byあれくん）",
-        "url": "https://www.youtube.com/watch?v=X97TUJ13-YM",
+        "text": "TAEMIN 'Famous' Official MV",
+        "url": "https://www.youtube.com/watch?v=F32hhOsJ14k",
         "target": "_blank"
       },
       "channel": {
-        "text": "あれくん ",
-        "url": "https://www.youtube.com/channel/UCPkhvJShYNk2dJoIcne66BQ",
+        "text": "UNIVERSAL MUSIC JAPAN",
+        "url": "https://www.youtube.com/channel/UCl2aT0nRejTCQO_LHZAftBw",
         "target": "_blank"
       },
-      "publishedAt": "2021-12-25",
-      "viewCount": "1441万",
-      "likeCount": "9.1万",
-      "commentCount": "1293",
-      "increment_d1": "2.17万"
+      "publishedAt": "2019-07-26",
+      "viewCount": "1442万",
+      "likeCount": "51万",
+      "commentCount": "2.3万",
+      "increment_d1": "224"
     },
     {
       "rank": 2428,
@@ -642,7 +642,7 @@
       "viewCount": "1440万",
       "likeCount": "9.2万",
       "commentCount": "8268",
-      "increment_d1": "892"
+      "increment_d1": "1208"
     },
     {
       "rank": 2429,
@@ -665,33 +665,10 @@
       "viewCount": "1440万",
       "likeCount": "13.2万",
       "commentCount": "3939",
-      "increment_d1": "674"
+      "increment_d1": "688"
     },
     {
       "rank": 2430,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/ViG28OU9crI/default.jpg",
-        "url": "https://www.youtube.com/watch?v=ViG28OU9crI",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "あいみょん - 夢追いベンガル【OFFICIAL MUSIC VIDEO】",
-        "url": "https://www.youtube.com/watch?v=ViG28OU9crI",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "あいみょん",
-        "url": "https://www.youtube.com/channel/UCG8MvaPCa2ecKH3GZyFxduA",
-        "target": "_blank"
-      },
-      "publishedAt": "2019-02-12",
-      "viewCount": "1439万",
-      "likeCount": "9.5万",
-      "commentCount": "4502",
-      "increment_d1": "754"
-    },
-    {
-      "rank": 2431,
       "thumb": {
         "img": "https://i.ytimg.com/vi/EIilZl_iuIo/default.jpg",
         "url": "https://www.youtube.com/watch?v=EIilZl_iuIo",
@@ -708,10 +685,33 @@
         "target": "_blank"
       },
       "publishedAt": "2023-12-08",
-      "viewCount": "1439万",
+      "viewCount": "1440万",
       "likeCount": "30.4万",
       "commentCount": "1.1万",
-      "increment_d1": "1.51万"
+      "increment_d1": "1.02万"
+    },
+    {
+      "rank": 2431,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/ViG28OU9crI/default.jpg",
+        "url": "https://www.youtube.com/watch?v=ViG28OU9crI",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "あいみょん - 夢追いベンガル【OFFICIAL MUSIC VIDEO】",
+        "url": "https://www.youtube.com/watch?v=ViG28OU9crI",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "あいみょん",
+        "url": "https://www.youtube.com/channel/UCG8MvaPCa2ecKH3GZyFxduA",
+        "target": "_blank"
+      },
+      "publishedAt": "2019-02-12",
+      "viewCount": "1440万",
+      "likeCount": "9.5万",
+      "commentCount": "4502",
+      "increment_d1": "864"
     },
     {
       "rank": 2432,
@@ -733,8 +733,8 @@
       "publishedAt": "2016-12-06",
       "viewCount": "1439万",
       "likeCount": "10万",
-      "commentCount": "9404",
-      "increment_d1": "170"
+      "commentCount": "9403",
+      "increment_d1": "200"
     },
     {
       "rank": 2433,
@@ -757,7 +757,7 @@
       "viewCount": "1439万",
       "likeCount": "9.7万",
       "commentCount": "10.5万",
-      "increment_d1": "425"
+      "increment_d1": "402"
     },
     {
       "rank": 2434,
@@ -777,10 +777,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-08-31",
-      "viewCount": "1437万",
+      "viewCount": "1438万",
       "likeCount": "8.5万",
       "commentCount": "1823",
-      "increment_d1": "3384"
+      "increment_d1": "3659"
     },
     {
       "rank": 2435,
@@ -800,10 +800,10 @@
         "target": "_blank"
       },
       "publishedAt": "2024-01-12",
-      "viewCount": "1436万",
+      "viewCount": "1437万",
       "likeCount": "8.8万",
-      "commentCount": "2652",
-      "increment_d1": "1.9万"
+      "commentCount": "2654",
+      "increment_d1": "1.8万"
     },
     {
       "rank": 2436,
@@ -826,7 +826,7 @@
       "viewCount": "1434万",
       "likeCount": "-",
       "commentCount": "1887",
-      "increment_d1": "2154"
+      "increment_d1": "1875"
     },
     {
       "rank": 2437,
@@ -846,10 +846,10 @@
         "target": "_blank"
       },
       "publishedAt": "2019-10-28",
-      "viewCount": "1432万",
+      "viewCount": "1433万",
       "likeCount": "-",
-      "commentCount": "9678",
-      "increment_d1": "4648"
+      "commentCount": "9681",
+      "increment_d1": "4897"
     },
     {
       "rank": 2438,
@@ -871,8 +871,8 @@
       "publishedAt": "2022-03-04",
       "viewCount": "1431万",
       "likeCount": "-",
-      "commentCount": "8312",
-      "increment_d1": "2482"
+      "commentCount": "8313",
+      "increment_d1": "2098"
     },
     {
       "rank": 2439,
@@ -894,8 +894,8 @@
       "publishedAt": "2024-07-12",
       "viewCount": "1430万",
       "likeCount": "9.5万",
-      "commentCount": "4566",
-      "increment_d1": "2372"
+      "commentCount": "4567",
+      "increment_d1": "2328"
     },
     {
       "rank": 2440,
@@ -918,7 +918,7 @@
       "viewCount": "1429万",
       "likeCount": "2.9万",
       "commentCount": "516",
-      "increment_d1": "293"
+      "increment_d1": "311"
     },
     {
       "rank": 2441,
@@ -938,10 +938,10 @@
         "target": "_blank"
       },
       "publishedAt": "2021-03-05",
-      "viewCount": "1427万",
+      "viewCount": "1428万",
       "likeCount": "14.8万",
       "commentCount": "9968",
-      "increment_d1": "1440"
+      "increment_d1": "1625"
     },
     {
       "rank": 2442,
@@ -964,10 +964,33 @@
       "viewCount": "1427万",
       "likeCount": "22.5万",
       "commentCount": "5672",
-      "increment_d1": "2181"
+      "increment_d1": "2107"
     },
     {
       "rank": 2443,
+      "thumb": {
+        "img": "https://i.ytimg.com/vi/2mUC91bXt60/default.jpg",
+        "url": "https://www.youtube.com/watch?v=2mUC91bXt60",
+        "target": "_blank"
+      },
+      "title": {
+        "text": "米津玄師 - がらくた　Kenshi Yonezu - Garakuta JUNK",
+        "url": "https://www.youtube.com/watch?v=2mUC91bXt60",
+        "target": "_blank"
+      },
+      "channel": {
+        "text": "Kenshi Yonezu  米津玄師",
+        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
+        "target": "_blank"
+      },
+      "publishedAt": "2024-08-22",
+      "viewCount": "1427万",
+      "likeCount": "16.3万",
+      "commentCount": "8952",
+      "increment_d1": "9231"
+    },
+    {
+      "rank": 2444,
       "thumb": {
         "img": "https://i.ytimg.com/vi/8tTkCZzRx5Q/default.jpg",
         "url": "https://www.youtube.com/watch?v=8tTkCZzRx5Q",
@@ -987,30 +1010,7 @@
       "viewCount": "1427万",
       "likeCount": "7.5万",
       "commentCount": "1519",
-      "increment_d1": "927"
-    },
-    {
-      "rank": 2444,
-      "thumb": {
-        "img": "https://i.ytimg.com/vi/2mUC91bXt60/default.jpg",
-        "url": "https://www.youtube.com/watch?v=2mUC91bXt60",
-        "target": "_blank"
-      },
-      "title": {
-        "text": "米津玄師 - がらくた　Kenshi Yonezu - Garakuta JUNK",
-        "url": "https://www.youtube.com/watch?v=2mUC91bXt60",
-        "target": "_blank"
-      },
-      "channel": {
-        "text": "Kenshi Yonezu  米津玄師",
-        "url": "https://www.youtube.com/channel/UCUCeZaZeJbEYAAzvMgrKOPQ",
-        "target": "_blank"
-      },
-      "publishedAt": "2024-08-22",
-      "viewCount": "1426万",
-      "likeCount": "16.2万",
-      "commentCount": "8950",
-      "increment_d1": "8996"
+      "increment_d1": "1060"
     },
     {
       "rank": 2445,
@@ -1033,7 +1033,7 @@
       "viewCount": "1425万",
       "likeCount": "14.4万",
       "commentCount": "2651",
-      "increment_d1": "3268"
+      "increment_d1": "3283"
     },
     {
       "rank": 2446,
@@ -1053,10 +1053,10 @@
         "target": "_blank"
       },
       "publishedAt": "2022-09-16",
-      "viewCount": "1424万",
+      "viewCount": "1425万",
       "likeCount": "5.7万",
       "commentCount": "1528",
-      "increment_d1": "3947"
+      "increment_d1": "3821"
     },
     {
       "rank": 2447,
@@ -1079,30 +1079,30 @@
       "viewCount": "1423万",
       "likeCount": "2.8万",
       "commentCount": "2486",
-      "increment_d1": "370"
+      "increment_d1": "377"
     },
     {
       "rank": 2448,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/JvjgR4FOj3g/default.jpg",
-        "url": "https://www.youtube.com/watch?v=JvjgR4FOj3g",
+        "img": "https://i.ytimg.com/vi/PW42qpS4tAg/default.jpg",
+        "url": "https://www.youtube.com/watch?v=PW42qpS4tAg",
         "target": "_blank"
       },
       "title": {
-        "text": "ルパン三世のテーマ'78 - 大野雄二",
-        "url": "https://www.youtube.com/watch?v=JvjgR4FOj3g",
+        "text": "なにわ男子 - 初心LOVE（うぶらぶ）[なにわ男子 Debut Tour 2022 1st Love]",
+        "url": "https://www.youtube.com/watch?v=PW42qpS4tAg",
         "target": "_blank"
       },
       "channel": {
-        "text": "VAP OFFICIAL MUSIC CHANNEL",
-        "url": "https://www.youtube.com/channel/UCIDd5lVNKs7N0V3dvm1wj2w",
+        "text": "なにわ男子",
+        "url": "https://www.youtube.com/channel/UCDtVdj7sm41Ysg3XSiSUH3w",
         "target": "_blank"
       },
-      "publishedAt": "2013-08-01",
-      "viewCount": "1422万",
-      "likeCount": "6.3万",
-      "commentCount": "1945",
-      "increment_d1": "1491"
+      "publishedAt": "2023-03-31",
+      "viewCount": "1423万",
+      "likeCount": "-",
+      "commentCount": "5429",
+      "increment_d1": "5062"
     },
     {
       "rank": 2449,
@@ -1125,30 +1125,30 @@
       "viewCount": "1422万",
       "likeCount": "19.5万",
       "commentCount": "3904",
-      "increment_d1": "1617"
+      "increment_d1": "1765"
     },
     {
       "rank": 2450,
       "thumb": {
-        "img": "https://i.ytimg.com/vi/PW42qpS4tAg/default.jpg",
-        "url": "https://www.youtube.com/watch?v=PW42qpS4tAg",
+        "img": "https://i.ytimg.com/vi/JvjgR4FOj3g/default.jpg",
+        "url": "https://www.youtube.com/watch?v=JvjgR4FOj3g",
         "target": "_blank"
       },
       "title": {
-        "text": "なにわ男子 - 初心LOVE（うぶらぶ）[なにわ男子 Debut Tour 2022 1st Love]",
-        "url": "https://www.youtube.com/watch?v=PW42qpS4tAg",
+        "text": "ルパン三世のテーマ'78 - 大野雄二",
+        "url": "https://www.youtube.com/watch?v=JvjgR4FOj3g",
         "target": "_blank"
       },
       "channel": {
-        "text": "なにわ男子",
-        "url": "https://www.youtube.com/channel/UCDtVdj7sm41Ysg3XSiSUH3w",
+        "text": "VAP OFFICIAL MUSIC CHANNEL",
+        "url": "https://www.youtube.com/channel/UCIDd5lVNKs7N0V3dvm1wj2w",
         "target": "_blank"
       },
-      "publishedAt": "2023-03-31",
+      "publishedAt": "2013-08-01",
       "viewCount": "1422万",
-      "likeCount": "-",
-      "commentCount": "5429",
-      "increment_d1": "5182"
+      "likeCount": "6.3万",
+      "commentCount": "1945",
+      "increment_d1": "1388"
     }
   ]
 }
